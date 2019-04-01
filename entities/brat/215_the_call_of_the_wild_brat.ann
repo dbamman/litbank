@@ -1,0 +1,177 @@
+T29	PER 146 150	Buck
+T68	LOC 336 347	Puget Sound
+T71	GPE 351 360	San Diego
+T75	PER 371 374	men
+T141	PER 718 722	Buck
+T154	PER 783 795	Judge Miller
+T242	PER 1252 1256	boys
+T249	PER 1288 1296	servants
+T291	PER 1509 1521	Judge Miller
+T312	PER 1621 1625	Buck
+T438	PER 2205 2211	Ysabel
+T460	PER 2320 2324	Buck
+T490	PER 2477 2483	Mollie
+T580	PER 2942 2948	Ysabel
+T588	PER 2981 2985	king
+T601	PER 3044 3056	Judge Miller
+T628	PER 3177 3181	Buck
+T803	PER 4059 4063	Buck
+T827	PER 4174 4178	Buck
+T854	PER 4310 4316	Manuel
+T918	PER 4619 4626	progeny
+T948	PER 4773 4779	Manuel
+T957	PER 4814 4818	Buck
+T965	PER 4854 4858	Buck
+T979	PER 4927 4930	man
+T1027	PER 5158 5164	Manuel
+T1035	PER 5202 5206	Buck
+T1056	PER 5286 5292	Manuel
+T1066	PER 5342 5346	Buck
+T1092	PER 5467 5470	men
+T1202	PER 6008 6012	Buck
+T1471	GPE 7261 7274	San Francisco
+T1665	PER 8118 8122	Buck
+T1799	PER 8783 8788	Judge
+T1803	PER 8798 8802	boys
+T1841	PER 8983 8987	Buck
+T1863	PER 9094 9097	men
+T1872	PER 9137 9147	tormentors
+T1874	PER 9150 9154	Buck
+T1959	PER 9584 9590	Clerks
+T5	FAC 1018 1027	driveways
+T6	FAC 1217 1224	stables
+T8	FAC 1342 1351	outhouses
+T13	FAC 1634 1638	Here
+T14	FAC 1657 1661	here
+T17	PER 2195 2200	Toots
+T21	PER 2488 2493	Alice
+T23	PER 2932 2937	Toots
+T24	PER 3099 3103	Elmo
+T25	PER 3320 3324	Shep
+T26	PER 4234 4240	Manuel
+T28	FAC 4992 5004	College Park
+T31	PER 5028 5034	Manuel
+T35	GPE 7079 7085	Frisco
+T37	GPE 7107 7112	there
+T40	FAC 7275 7286	water front
+T45	FAC 8347 8352	There
+T60	FAC 1391 1399	orchards
+T64	FAC 2825 2831	beyond
+T69	FAC 6548 6560	where he was
+T70	PER 1946 1951	Toots
+T72	PER 1976 1982	Ysabel
+T74	FAC 2834 2857	where the paddocks were
+T77	LOC 388 398	the Arctic
+T78	FAC 783 804	Judge Miller 's place
+T79	FAC 732 743	a big house
+T1	LOC 547 560	the Northland
+T80	FAC 842 850	the road
+T2	FAC 925 946	the wide cool veranda
+T3	FAC 980 989	The house
+T81	PER 1233 1247	a dozen grooms
+T82	FAC 1288 1307	servants ' cottages
+T7	FAC 1437 1454	the pumping plant
+T10	PER 1509 1529	Judge Miller 's boys
+T83	FAC 1787 1794	a place
+T84	FAC 1854 1874	the populous kennels
+T15	FAC 1915 1924	the house
+T16	PER 1954 1970	the Japanese pug
+T85	PER 1985 2005	the Mexican hairless
+T86	PER 2118 2134	the fox terriers
+T66	PER 2337 2346	house-dog
+T87	PER 2351 2361	kennel-dog
+T88	FAC 2364 2379	The whole realm
+T18	FAC 2406 2423	the swimming tank
+T19	PER 2445 2462	the Judge 's sons
+T89	PER 2445 2454	the Judge
+T20	PER 2496 2518	the Judge 's daughters
+T90	PER 2496 2505	the Judge
+T91	PER 2592 2601	the Judge
+T92	PER 2655 2664	the Judge
+T93	PER 2655 2677	the Judge 's grandsons
+T94	FAC 2798 2813	the stable yard
+T65	PER 2890 2902	the terriers
+T67	PER 2991 2995	king
+T95	FAC 3044 3065	Judge Miller 's place
+T96	PER 3068 3074	humans
+T97	PER 3086 3096	His father
+T98	PER 3106 3124	a huge St. Bernard
+T99	PER 3136 3145	the Judge
+T100	PER 3136 3170	the Judge 's inseparable companion
+T101	PER 3215 3225	his father
+T103	PER 4549 4569	a gardener 's helper
+T104	PER 4549 4559	a gardener
+T105	PER 4599 4605	a wife
+T106	PER 3307 3317	his mother
+T107	PER 3336 3357	a Scotch shepherd dog
+T108	PER 3608 3626	a sated aristocrat
+T109	PER 3697 3714	country gentlemen
+T111	PER 4250 4273	the gardener 's helpers
+T112	PER 4250 4262	the gardener
+T113	PER 4280 4307	an undesirable acquaintance
+T114	PER 4629 4638	The Judge
+T115	PER 4698 4706	the boys
+T116	FAC 4834 4845	the orchard
+T27	FAC 4959 4982	the little flag station
+T30	PER 5007 5015	This man
+T117	PER 5126 5138	the stranger
+T118	PER 5299 5311	the stranger
+T120	PER 5846 5853	the man
+T121	PER 6307 6318	the two men
+T122	FAC 6334 6349	the baggage car
+T123	FAC 6469 6481	a conveyance
+T124	PER 6595 6604	the Judge
+T125	VEH 6644 6657	a baggage car
+T126	PER 6723 6739	a kidnapped king
+T127	PER 6742 6749	The man
+T128	PER 6928 6935	the man
+T129	PER 6972 6986	the baggageman
+T130	PER 7065 7073	the boss
+T131	PER 7088 7106	A crack dog-doctor
+T132	PER 7176 7183	the man
+T133	PER 7517 7530	the other mug
+T134	PER 7539 7556	the saloon-keeper
+T135	PER 7682 7699	the saloon-keeper
+T136	PER 7744 7756	a squarehead
+T137	PER 7761 7774	The kidnapper
+T138	PER 7928 7945	the saloon-keeper
+T139	PER 8141 8155	his tormentors
+T140	FAC 8328 8344	a cagelike crate
+T142	PER 8511 8528	these strange men
+T143	FAC 8568 8585	this narrow crate
+T144	PER 8855 8872	the saloon-keeper
+T145	PER 9036 9053	the saloon-keeper
+T146	FAC 7223 7236	a little shed
+T147	FAC 7245 7253	a saloon
+T38	FAC 9456 9465	the crate
+T39	FAC 9484 9491	a wagon
+T41	FAC 9508 9517	the crate
+T42	FAC 9657 9670	another wagon
+T43	FAC 9673 9680	a truck
+T44	FAC 9742 9757	a ferry steamer
+T46	FAC 9779 9790	the steamer
+T47	FAC 9796 9817	a great railway depot
+T32	PER 6778 6782	Buck
+T33	PER 263 360	every tide-water dog , strong of muscle and with warm , long hair , from Puget Sound to San Diego
+T34	PER 563 572	These men
+T36	LOC 747 780	the sun-kissed Santa Clara Valley
+T48	PER 512 528	thousands of men
+T49	FAC 1602 1620	this great demesne
+T12	PER 1765 1775	other dogs
+T50	PER 1729 1739	other dogs
+T51	FAC 1899 1924	the recesses of the house
+T52	PER 2264 2286	a legion of housemaids
+T54	PER 3001 3065	all creeping , crawling , flying things of Judge Miller 's place
+T55	PER 5589 5601	the stranger
+T56	PER 9179 9201	evil-looking creatures
+T53	FAC 9594 9612	the express office
+T57	VEH 9852 9866	an express car
+T9	LOC 1380 1388	pastures
+T11	LOC 4151 4167	the frozen North
+T1960	PER 783 788	Judge
+T1961	PER 1509 1514	Judge
+T1962	PER 3044 3049	Judge
+T4	LOC 4136 4145	the world
+T22	PER 4123 4145	men from all the world
+T1963	PER 4795 4801	No one
+T1964	PER 4933 4939	no one

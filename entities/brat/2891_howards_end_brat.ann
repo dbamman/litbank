@@ -1,0 +1,169 @@
+T0	PER 57 67	her sister
+T1	PER 37 42	Helen
+T2	PER 94 105	Dearest Meg
+T3	PER 296 307	younger son
+T5	FAC 334 338	hall
+T6	PER 395 399	Hall
+T8	FAC 475 485	the stairs
+T11	FAC 704 720	the front garden
+T12	FAC 861 871	the garden
+T13	FAC 812 821	the house
+T14	LOC 876 882	meadow
+T16	PER 1076 1083	my host
+T17	PER 1088 1095	hostess
+T18	FAC 1187 1198	their house
+T19	FAC 1237 1249	their garden
+T20	PER 1411 1421	Mr. Wilcox
+T21	PER 1347 1358	Mrs. Wilcox
+T25	GPE 1700 1706	London
+T28	PER 1838 1857	the son who is here
+T30	PER 1955 1967	the Wilcoxes
+T31	PER 1977 1982	Tibby
+T32	FAC 2154 2163	The house
+T34	PER 2216 2227	Mrs. Wilcox
+T35	FAC 2389 2397	the lawn
+T38	PER 2912 2922	Mr. Wilcox
+T39	PER 2999 3003	Evie
+T40	PER 3199 3210	Mrs. Wilcox
+T41	PER 3639 3650	Mrs. Wilcox
+T42	PER 3710 3721	Mrs. Wilcox
+T43	FAC 3858 3891	the wiggly hotel that we expected
+T45	FAC 3983 3991	the lawn
+T49	PER 4274 4284	Aunt Juley
+T51	PER 4421 4432	Dearest Meg
+T52	PER 4483 4494	Mrs. Wilcox
+T53	GPE 4516 4523	Germany
+T54	PER 4779 4786	friends
+T55	PER 4859 4869	Mr. Wilcox
+T56	PER 5002 5007	women
+T57	PER 5269 5272	men
+T58	PER 5590 5600	Mr. Wilcox
+T60	FAC 5943 5960	this lovely house
+T61	FAC 5797 5814	a hermit 's house
+T62	PER 5851 5870	the Kings of Mercia
+T63	PER 5724 5731	Charles
+T65	PER 6022 6026	Evie
+T68	PER 6345 6349	Paul
+T69	PER 6371 6415	the younger son who only came here Wednesday
+T70	PER 6448 6458	her sister
+T71	PER 6509 6517	her aunt
+T74	PER 6674 6684	the father
+T75	PER 6689 6695	mother
+T76	PER 6759 6768	their son
+T78	PER 7062 7075	Margaret dear
+T79	PER 7123 7131	Margaret
+T80	PER 7215 7227	the Wilcoxes
+T82	PER 7292 7297	Helen
+T83	PER 7416 7434	the seven electors
+T84	PER 7474 7478	Koln
+T85	PER 7380 7404	the Archbishop of Speyer
+T86	GPE 7398 7404	Speyer
+T87	LOC 7515 7531	the Rhine Valley
+T88	LOC 7555 7568	Priest Street
+T90	VEH 7671 7676	boats
+T91	FAC 7659 7676	a bridge of boats
+T92	FAC 7865 7887	the original structure
+T94	PER 7930 7942	the Wilcoxes
+T95	PER 8109 8114	Helen
+T97	PER 8348 8353	Tibby
+T98	PER 8285 8290	Helen
+T100	GPE 8645 8651	London
+T101	FAC 8662 8673	Their house
+T102	FAC 8742 8751	buildings
+T105	PER 9078 9088	concierges
+T107	FAC 9282 9292	their site
+T108	GPE 9362 9368	London
+T109	FAC 365 376	dining-room
+T110	FAC 380 392	drawing-room
+T7	FAC 422 428	a room
+T111	FAC 518 533	the first-floor
+T9	FAC 498 533	a sort of tunnel to the first-floor
+T112	FAC 536 559	Three bedrooms in a row
+T113	FAC 572 599	three attics in a row above
+T10	FAC 618 627	the house
+T15	FAC 1254 1276	gamboge-coloured paths
+T114	FAC 1208 1230	all gables and wiggles
+T115	FAC 1327 1343	expensive hotels
+T116	FAC 1394 1408	long corridors
+T22	PER 1431 1438	porters
+T117	PER 1450 1457	females
+T23	PER 1596 1601	Tibby
+T24	PER 1786 1797	a schoolboy
+T26	FAC 2243 2253	the garden
+T36	LOC 2414 2439	whose corner to the right
+T37	PER 2767 2781	Charles Wilcox
+T118	PER 3496 3499	Meg
+T119	PER 3624 3632	the W 's
+T120	PER 3749 3753	Evie
+T44	FAC 3790 3814	a go-as-you-please place
+T46	FAC 4152 4160	the farm
+T47	FAC 4172 4194	the only house near us
+T48	PER 4258 4263	Tibby
+T121	PER 4343 4349	a bore
+T122	PER 4684 4740	the very happiest , jolliest family that you can imagine
+T123	PER 4825 4833	a noodle
+T124	PER 5148 5151	Meg
+T50	FAC 4398 4409	HOWARDS END
+T125	PER 4392 4397	Helen
+T126	FAC 70 81	HOWARDS END
+T127	FAC 5817 5870	a wonderful road that was made by the Kings of Mercia
+T128	GPE 5864 5870	Mercia
+T59	VEH 5758 5767	the motor
+T129	FAC 5771 5794	a tomb with trees in it
+T130	PER 5963 5977	The whole clan
+T64	PER 6030 6036	a dear
+T66	PER 6237 6260	Your affectionate Helen
+T131	FAC 6261 6272	HOWARDS END
+T67	PER 6284 6305	Dearest , dearest Meg
+T72	PER 6428 6436	Margaret
+T73	PER 6610 6620	Aunt Juley
+T77	PER 6893 6903	Aunt Juley
+T132	PER 6928 6941	Margaret dear
+T133	GPE 7269 7279	Heidelberg
+T134	GPE 7283 7289	Speyer
+T81	FAC 7345 7376	a grand old cathedral at Speyer
+T135	GPE 7370 7376	Speyer
+T136	PER 7623 7631	Margaret
+T137	PER 7452 7458	Speyer
+T138	PER 7461 7467	Maintz
+T139	VEH 7638 7647	The train
+T89	FAC 7758 7773	the whole thing
+T140	FAC 7776 7789	The cathedral
+T93	FAC 7979 7997	the public gardens
+T141	PER 8011 8022	poor things
+T142	GPE 8077 8083	Speyer
+T143	GPE 8155 8165	Heidelberg
+T96	PER 8463 8490	a young man out the unknown
+T99	FAC 8681 8694	Wickham Place
+T103	LOC 8720 8751	a lofty promontory of buildings
+T144	FAC 8770 8791	the main thoroughfare
+T145	LOC 8815 8826	a backwater
+T146	LOC 8842 8979	an estuary , whose waters flowed in from the invisible sea , and ebbed into a profound silence while the waves without were still beating
+T147	LOC 8883 8900	the invisible sea
+T148	LOC 8989 9003	the promontory
+T106	FAC 9017 9022	flats
+T149	FAC 9043 9067	cavernous entrance halls
+T104	FAC 9144 9169	the older houses opposite
+T151	LOC 9247 9265	another promontory
+T27	PER 1821 1835	Charles Wilcox
+T4	PER 289 293	Paul
+T29	PER 1946 1967	Men like the Wilcoxes
+T33	LOC 2401 2454	the meadow , whose corner to the right I can just see
+T152	PER 1411 1414	Mr.
+T153	PER 1347 1351	Mrs.
+T154	PER 2216 2220	Mrs.
+T155	PER 2912 2915	Mr.
+T156	PER 3199 3203	Mrs.
+T157	PER 3639 3643	Mrs.
+T158	PER 3710 3714	Mrs.
+T159	PER 4274 4278	Aunt
+T160	PER 4483 4487	Mrs.
+T161	PER 4859 4862	Mr.
+T162	PER 5590 5593	Mr.
+T163	PER 6610 6614	Aunt
+T164	PER 6893 6897	Aunt
+T150	PER 5555 5587	all people who are really strong
+T165	FAC 560 565	there
+T166	FAC 1853 1857	here
+T167	FAC 5981 5985	here
+T168	FAC 6401 6405	here

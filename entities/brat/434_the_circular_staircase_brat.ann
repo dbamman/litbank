@@ -1,0 +1,161 @@
+T0	PER 58 80	a middle-aged spinster
+T1	FAC 17 32	A COUNTRY HOUSE
+T2	PER 106 123	her domestic gods
+T3	GPE 183 187	town
+T4	FAC 143 160	a furnished house
+T5	PER 568 578	my friends
+T6	PER 1794 1804	the tenant
+T7	PER 1898 1911	the detective
+T9	PER 2119 2129	my brother
+T10	PER 2148 2164	his two children
+T11	PER 2196 2204	Gertrude
+T12	PER 2362 2371	the child
+T14	PER 2571 2577	Halsey
+T15	PER 2527 2535	Gertrude
+T16	PER 3057 3069	the children
+T17	PER 3105 3112	friends
+T18	PER 3268 3274	Halsey
+T19	PER 3314 3322	Gertrude
+T21	PER 3416 3424	Gertrude
+T23	FAC 3500 3508	her home
+T25	PER 3861 3872	college men
+T27	PER 3813 3833	beardless sophomores
+T28	PER 4278 4309	a properly equipped maiden aunt
+T29	PER 4358 4364	Halsey
+T30	PER 4548 4558	the doctor
+T31	FAC 4453 4473	a good country house
+T32	PER 4406 4414	Gertrude
+T33	GPE 4517 4521	town
+T35	PER 4795 4840	the housekeeper , who had been left in charge
+T36	FAC 4858 4867	the house
+T37	PER 5001 5008	thieves
+T38	FAC 4953 4962	the house
+T39	FAC 5208 5216	the road
+T40	FAC 5280 5304	the Greenwood Club House
+T41	PER 5320 5326	Halsey
+T42	FAC 5425 5435	good roads
+T43	PER 5383 5389	Halsey
+T45	FAC 5478 5488	a hospital
+T48	FAC 5445 5454	the house
+T49	PER 5823 5829	Halsey
+T50	PER 5834 5842	Gertrude
+T54	PER 6175 6184	criminals
+T58	PER 6603 6611	his wife
+T59	PER 6649 6679	the Armstrong family physician
+T60	PER 6631 6679	a Doctor Walker , the Armstrong family physician
+T61	PER 6616 6624	daughter
+T62	FAC 6572 6581	the house
+T64	PER 6776 6782	Halsey
+T66	PER 6694 6710	Louise Armstrong
+T67	PER 7050 7066	Arnold Armstrong
+T68	PER 6899 6912	Mr. Armstrong
+T69	PER 7230 7236	Halsey
+T70	FAC 7260 7265	house
+T72	PER 7241 7249	Gertrude
+T73	FAC 7320 7329	The roads
+T74	FAC 7420 7429	the house
+T75	FAC 7514 7525	the station
+T76	LOC 7460 7469	the woods
+T78	PER 8427 8439	Mrs. Ralston
+T79	PER 8372 8390	my own housekeeper
+T80	VEH 8448 8464	the eleven train
+T82	PER 8357 8369	Mrs. Ralston
+T83	PER 8497 8507	the butler
+T84	PER 8667 8685	the cook 's sister
+T86	PER 8850 8855	Liddy
+T87	FAC 8881 8888	a house
+T88	FAC 8894 8910	twenty-two rooms
+T89	PER 9018 9049	the Armstrongs ' colored butler
+T90	PER 9067 9097	a waiter at the Greenwood Club
+T93	PER 8978 8990	the milk-boy
+T96	PER 9163 9181	people 's servants
+T97	FAC 9577 9586	the house
+T100	PER 10124 10138	Thomas Johnson
+T102	LOC 10146 10162	somewhar 's else
+T104	GPE 669 673	town
+T105	GPE 858 867	Sunnyside
+T106	PER 997 1002	Liddy
+T107	PER 1318 1323	Liddy
+T108	GPE 1531 1540	Sunnyside
+T8	PER 1883 1895	Mr. Jamieson
+T109	PER 2167 2173	Halsey
+T13	PER 2389 2484	the man who started to carry the calf and ended by walking along with the bull on his shoulders
+T110	FAC 2698 2710	good schools
+T111	FAC 3027 3042	boarding-school
+T112	FAC 3047 3054	college
+T113	FAC 3323 3342	her boarding-school
+T20	FAC 3359 3363	home
+T22	PER 3537 3552	the dressmakers
+T24	PER 3598 3678	ineligible youths with either more money than brains , or more brains than money
+T26	PER 3842 3854	college boys
+T114	PER 3875 3881	Halsey
+T115	PER 3940 3952	their mother
+T116	PER 4018 4024	Halsey
+T117	VEH 4032 4037	a car
+T118	PER 4186 4192	People
+T119	LOC 4390 4401	Adirondacks
+T34	GPE 4422 4432	Bar Harbor
+T120	GPE 4585 4594	Sunnyside
+T121	FAC 4620 4632	the property
+T122	FAC 4871 4892	the gardener 's lodge
+T123	PER 4871 4883	the gardener
+T124	FAC 4918 4927	the lodge
+T125	FAC 5064 5076	The property
+T126	FAC 5100 5109	the house
+T127	LOC 5124 5130	a hill
+T128	FAC 5173 5183	green lawn
+T129	LOC 5230 5240	the valley
+T130	PER 5307 5315	Gertrude
+T44	FAC 5612 5621	the place
+T46	PER 5711 5722	the servant
+T47	PER 6006 6093	a half-civilized ancestor who wore a sheepskin garment and trailed his food or his prey
+T51	PER 6144 6149	a man
+T52	PER 6162 6184	a trapper of criminals
+T53	PER 6229 6250	my sheepskin ancestor
+T55	PER 6281 6299	an unmarried woman
+T56	PER 6493 6507	Paul Armstrong
+T63	ORG 6527 6545	the Traders ' Bank
+T131	PER 6510 6624	the president of the Traders ' Bank , who at the time we took the house was in the west with his wife and daughter
+T57	PER 6653 6662	Armstrong
+T132	PER 6682 6688	Halsey
+T65	PER 6871 6886	a charming girl
+T133	ORG 6946 7005	the bank , where the children 's money was largely invested
+T134	PER 7040 7047	the son
+T135	PER 7101 7111	his father
+T71	GPE 7291 7300	Sunnyside
+T136	VEH 7549 7556	the car
+T137	LOC 7584 7624	a bank showered with tiny forget-me-nots
+T77	PER 7822 7827	Liddy
+T138	LOC 8126 8137	the country
+T81	PER 8347 8352	Liddy
+T139	PER 8489 8494	Burke
+T140	PER 8667 8675	the cook
+T85	PER 8700 8708	the cook
+T141	PER 8750 8755	twins
+T142	PER 8690 8696	a baby
+T143	PER 8818 8837	the household staff
+T144	FAC 8915 8925	five baths
+T145	PER 8928 8933	Liddy
+T146	GPE 8955 8963	the city
+T147	FAC 9079 9097	the Greenwood Club
+T148	PER 9163 9169	people
+T94	ORG 9289 9323	railroads and street-car companies
+T149	FAC 9354 9362	the club
+T95	PER 9389 9403	Thomas Johnson
+T98	PER 9466 9472	Thomas
+T150	PER 9541 9553	the gardener
+T151	FAC 9541 9562	the gardener 's lodge
+T99	PER 9600 9611	The old man
+T152	PER 9775 9786	Mis ' Innes
+T91	PER 9018 9032	the Armstrongs
+T92	PER 9001 9015	Thomas Johnson
+T101	PER 9775 9778	Mis
+T153	PER 6899 6902	Mr.
+T154	PER 8427 8431	Mrs.
+T155	PER 8357 8361	Mrs.
+T156	PER 1883 1886	Mr.
+T103	PER 6807 6815	somebody
+T157	PER 10095 10101	nobody
+T158	FAC 5857 5862	there
+T159	FAC 5915 5920	there
+T160	FAC 9867 9871	here

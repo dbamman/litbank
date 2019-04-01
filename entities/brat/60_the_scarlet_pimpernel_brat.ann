@@ -1,0 +1,183 @@
+T1	PER 369 383	a proud tyrant
+T2	GPE 555 561	France
+T5	PER 1087 1100	those aristos
+T6	PER 1106 1116	such fools
+T7	GPE 1300 1306	France
+T8	PER 1328 1343	Their ancestors
+T9	PER 1507 1527	their former masters
+T11	GPE 1488 1494	France
+T12	PER 1853 1876	a beautiful young Queen
+T13	PER 1839 1845	a King
+T14	PER 1756 1767	young women
+T15	PER 1770 1783	tiny children
+T16	PER 1934 1954	the rulers of France
+T17	GPE 1948 1954	France
+T18	PER 1957 1973	Every aristocrat
+T19	PER 1993 2006	his ancestors
+T20	PER 1978 1987	a traitor
+T21	PER 2545 2554	an aristo
+T22	PER 2532 2554	some fool of an aristo
+T23	PER 2745 2777	citizen soldiers of the Republic
+T25	GPE 2966 2972	France
+T27	GPE 2981 2988	England
+T29	PER 3215 3235	sovereigns of France
+T31	GPE 3229 3235	France
+T32	PER 3293 3307	Sergeant Bibot
+T34	FAC 3322 3335	the West Gate
+T35	PER 3466 3474	his prey
+T37	PER 3846 3855	an aristo
+T39	PER 3727 3732	Bibot
+T40	PER 4265 4272	two men
+T41	PER 4158 4163	Bibot
+T42	PER 3951 3959	his prey
+T43	GPE 4134 4141	England
+T44	PER 3935 3940	Bibot
+T45	GPE 4082 4087	Paris
+T49	PER 5092 5108	citoyen soldiers
+T52	PER 5169 5189	Those cursed aristos
+T53	GPE 5253 5258	Paris
+T54	PER 5339 5364	those traitorous Bourbons
+T57	PER 5442 5447	Bibot
+T58	PER 5597 5614	that good patriot
+T59	PER 5486 5509	some fugitive royalists
+T60	PER 5662 5668	Danton
+T62	PER 5711 5716	Bibot
+T63	PER 5688 5693	Bibot
+T64	GPE 6008 6015	England
+T65	GPE 5985 5991	France
+T66	PER 5944 5951	aristos
+T67	PER 6195 6214	Sergeant Grospierre
+T71	PER 6565 6613	lawful victims destined for Madame la Guillotine
+T73	PER 6782 6833	a man whose pluck and audacity were almost fabulous
+T75	PER 6878 6907	those aristos whom he rescued
+T76	PER 7078 7090	their leader
+T77	PER 7041 7068	these mysterious Englishmen
+T78	GPE 7653 7660	England
+T82	GPE 7910 7917	England
+T83	PER 7750 7796	the citoyens of the Committee of Public Safety
+T84	PER 7931 7954	The guards at the gates
+T85	PER 7974 7998	the sergeants in command
+T86	PER 8087 8123	these daring and impudent Englishmen
+T87	PER 8270 8275	Bibot
+T88	FAC 8420 8433	the West Gate
+T90	PER 8300 8305	Bibot
+T91	PER 8534 8560	that mysterious Englishman
+T92	PER 8584 8604	his trusted corporal
+T93	PER 8632 8638	a fool
+T94	PER 8827 8839	the corporal
+T95	PER 9016 9042	this meddlesome Englishman
+T96	PER 9134 9151	the devil himself
+T97	PER 9158 9168	Grospierre
+T98	PER 9173 9179	a fool
+T99	PER 9295 9311	a boy beside him
+T100	PER 9277 9287	an old man
+T102	PER 9548 9599	ill-clad wretches , who crowded round Citoyen Bibot
+T103	PER 9637 9649	the sergeant
+T104	PER 9702 9730	some dozen soldiers with him
+T105	PER 9899 9910	the captain
+T107	PER 10009 10036	the CI-DEVANT Duc de Chalis
+T108	PER 10114 10124	the driver
+T110	PER 10239 10257	Citoyen Grospierre
+T111	PER 10312 10318	a fool
+T113	GPE 10 15	PARIS
+T114	PER 158 174	savage creatures
+T115	PER 35 243	A surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate
+T116	PER 808 818	the people
+T3	PER 913 922	the crowd
+T4	FAC 940 961	the Place de la Greve
+T117	PER 1141 1151	the people
+T118	PER 1129 1151	traitors to the people
+T119	PER 1241 1306	the great men who since the Crusades had made the glory of France
+T120	PER 1226 1306	descendants of the great men who since the Crusades had made the glory of France
+T121	PER 1309 1325	her old NOBLESSE
+T122	PER 1178 1306	men , women , and children , who happened to be descendants of the great men who since the Crusades had made the glory of France
+T123	PER 1358 1368	the people
+T10	PER 1474 1494	the rulers of France
+T124	PER 1452 1462	the people
+T125	PER 1726 1742	its many victims
+T126	PER 1746 1753	old men
+T127	PER 1919 1929	the people
+T128	PER 2055 2065	the people
+T129	PER 2179 2230	those who had helped to make those courts brilliant
+T130	PER 2160 2230	the descendants of those who had helped to make those courts brilliant
+T131	PER 2318 2328	the people
+T132	VEH 2464 2480	the market carts
+T133	ORG 2592 2622	the Committee of Public Safety
+T24	GPE 2765 2777	the Republic
+T134	PER 2787 2792	women
+T135	PER 2780 2803	Men in women 's clothes
+T136	PER 2806 2826	women in male attire
+T30	PER 2851 2858	beggars
+T28	PER 2829 2865	children disguised in beggars ' rags
+T137	PER 3116 3123	an army
+T138	FAC 3171 3181	the Temple
+T26	PER 3145 3235	the wretched prisoners in the Temple , who had once called themselves sovereigns of France
+T139	PER 2899 3235	CI-DEVANT counts , marquises , even dukes , who wanted to fly from France , reach England or some other equally accursed country , and there try to rouse foreign feelings against the glorious Revolution , or to raise an army in order to liberate the wretched prisoners in the Temple , who had once called themselves sovereigns of France
+T33	PER 3370 3408	an aristo in the most perfect disguise
+T140	PER 3446 3451	Bibot
+T36	PER 3684 3719	a CI-DEVANT noble marquise or count
+T141	PER 3912 3922	the people
+T46	PER 4174 4196	the unfortunate wretch
+T142	LOC 4227 4243	the open country
+T143	PER 4383 4395	the fugitive
+T144	PER 4414 4421	a woman
+T145	PER 4503 4508	Bibot
+T146	PER 4424 4649	some proud marchioness , who looked terribly comical when she found herself in Bibot 's clutches after all , and knew that a summary trial would await her the next day and after that , the fond embrace of Madame la Guillotine
+T48	PER 4719 4724	Bibot
+T147	PER 4827 4836	the crowd
+T148	PER 4946 4961	another hundred
+T149	PER 4983 4988	Bibot
+T55	PER 5376 5384	traitors
+T51	PER 5294 5303	ancestors
+T50	PER 5261 5429	men , women and children , whose ancestors , even in remote ages , had served those traitorous Bourbons , were all traitors themselves and right food for the guillotine
+T56	ORG 5547 5577	the Committee of Public Safety
+T150	PER 5617 5643	Citoyen Foucquier-Tinville
+T151	PER 5646 5657	Robespierre
+T61	PER 5778 5800	at least fifty aristos
+T152	PER 5832 5886	all the sergeants in command at the various barricades
+T153	PER 6128 6138	the people
+T68	PER 6260 6285	a whole family of aristos
+T70	PER 6391 6613	a band of Englishmen , whose daring seemed to be unparalleled , and who , from sheer desire to meddle in what did not concern them , spent their spare time in snatching away lawful victims destined for Madame la Guillotine
+T47	PER 6682 6716	this band of meddlesome Englishmen
+T72	PER 7154 7180	Citoyen Foucquier-Tinville
+T74	PER 7372 7381	the crowd
+T154	ORG 7427 7457	the Committee of Public Safety
+T79	PER 7507 7540	the band of meddlesome Englishmen
+T155	ORG 7766 7796	the Committee of Public Safety
+T80	PER 7813 7846	so many royalists and aristocrats
+T81	LOC 7873 7882	the coast
+T156	PER 8204 8248	the mysterious and elusive Scarlet Pimpernel
+T157	PER 8178 8248	the man who laid hands on the mysterious and elusive Scarlet Pimpernel
+T89	PER 8285 8293	that man
+T158	PER 8392 8398	people
+T159	PER 8478 8560	any fugitive aristo who perhaps might be accompanied by that mysterious Englishman
+T160	PER 8609 8627	Citoyen Grospierre
+T161	FAC 8665 8680	that North Gate
+T162	PER 8699 8712	Citoyen Bibot
+T163	PER 8760 8771	his comrade
+T164	PER 8844 8854	Grospierre
+T165	PER 8902 8907	Bibot
+T166	PER 8925 8934	the crowd
+T167	PER 9045 9076	this accursed Scarlet Pimpernel
+T168	VEH 9182 9198	The market carts
+T169	PER 9314 9324	Grospierre
+T170	VEH 9469 9477	the cart
+T101	PER 9586 9599	Citoyen Bibot
+T171	PER 9676 9685	the guard
+T172	PER 9663 9685	a captain of the guard
+T173	VEH 9739 9745	a cart
+T174	PER 9774 9784	Grospierre
+T175	PER 9817 9827	Grospierre
+T176	PER 9965 9981	citoyen sergeant
+T177	VEH 9984 9993	that cart
+T106	PER 10041 10055	all his family
+T178	PER 10080 10090	Grospierre
+T112	PER 10331 10337	a fool
+T69	LOC 4121 4130	the coast
+T38	PER 10145 10167	that cursed Englishman
+T109	PER 10170 10191	the Scarlet Pimpernel
+T179	PER 3293 3301	Sergeant
+T180	PER 6195 6203	Sergeant
+T181	PER 8251 8259	Everyone
+T182	PER 8347 8356	everybody
+T183	PER 7025 7031	No one

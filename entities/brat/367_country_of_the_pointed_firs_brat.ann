@@ -1,0 +1,115 @@
+T1	LOC 133 146	eastern Maine
+T2	LOC 400 411	the Landing
+T3	LOC 294 304	dark woods
+T4	FAC 414 426	These houses
+T8	GPE 799 818	a village like this
+T9	PER 878 893	a single person
+T10	GPE 1252 1300	the village with its elaborate conventionalities
+T11	LOC 1154 1168	Dunnet Landing
+T12	PER 1143 1168	a lover of Dunnet Landing
+T13	PER 1461 1479	a single passenger
+T14	GPE 1673 1719	the salt-aired , white-clapboarded little town
+T16	LOC 2005 2019	the busy world
+T17	FAC 1943 1953	the street
+T18	FAC 2046 2060	a green garden
+T19	PER 2245 2255	a stranger
+T22	PER 2361 2370	Mrs. Todd
+T25	PER 2605 2614	Mrs. Todd
+T26	FAC 3071 3081	the garden
+T29	FAC 3629 3636	kitchen
+T30	PER 3915 3924	customers
+T31	PER 4049 4070	a wise saver of steps
+T32	FAC 4019 4030	the kitchen
+T33	PER 3965 3978	the purchaser
+T34	PER 4033 4042	Mrs. Todd
+T35	LOC 4506 4509	sea
+T36	FAC 4589 4608	Mrs. Todd ’s garden
+T37	GPE 4615 4622	village
+T39	PER 4611 4629	The village doctor
+T40	PER 4887 4896	Mrs. Todd
+T41	PER 4687 4699	The good man
+T42	PER 5272 5288	worthy neighbors
+T43	PER 5181 5192	my landlady
+T44	LOC 5910 5919	the world
+T45	FAC 6152 6160	the road
+T46	PER 6103 6113	the lodger
+T47	LOC 6325 6330	woods
+T49	PER 6346 6371	The spruce-beer customers
+T50	PER 6655 6672	one hungry lodger
+T51	PER 6840 6850	the lodger
+T52	PER 6994 7010	business partner
+T53	LOC 7809 7816	the sea
+T54	PER 7887 7896	Mrs. Todd
+T56	PER 8673 8682	Mrs. Todd
+T57	LOC 9015 9022	the sea
+T58	PER 9030 9039	Mrs. Todd
+T59	PER 9551 9561	his mother
+T60	PER 10417 10429	a huge sibyl
+T61	FAC 10496 10513	the little garden
+T62	FAC 10383 10395	the low room
+T63	GPE 41 65	the coast town of Dunnet
+T64	GPE 106 146	other maritime villages of eastern Maine
+T65	FAC 201 218	that neighborhood
+T66	LOC 274 289	the rocky shore
+T67	FAC 311 411	the few houses which seemed to be securely wedged and tree-nailed in among the ledges by the Landing
+T5	FAC 532 545	garden ground
+T6	FAC 648 658	the harbor
+T7	LOC 663 679	the far sea-line
+T68	LOC 719 728	the shore
+T69	LOC 733 774	its background of spruces and balsam firs
+T70	LOC 823 839	its surroundings
+T71	LOC 1186 1226	the unchanged shores of the pointed firs
+T72	FAC 1492 1511	the steamboat wharf
+T15	PER 1544 1570	a fine crowd of spectators
+T73	PER 1577 1611	the younger portion of the company
+T74	FAC 1652 1719	the narrow street of the salt-aired , white-clapboarded little town
+T75	PER 1727 1736	Mrs. Todd
+T76	LOC 1798 1820	a summer lodging-place
+T77	PER 1896 1912	Mrs. Almira Todd
+T78	FAC 1878 1953	the tiny house of Mrs. Almira Todd , which stood with its end to the street
+T21	FAC 2207 2228	a queer little garden
+T20	FAC 2475 2484	the house
+T23	FAC 2659 2672	her herb plot
+T24	PER 2768 2787	a very large person
+T79	FAC 3112 3126	this herb plot
+T27	PER 3616 3625	Mrs. Todd
+T28	PER 3668 3788	suffering neighbors , who usually came at night as if by stealth , bringing their own ancient-looking vials to be filled
+T80	PER 4589 4598	Mrs. Todd
+T38	PER 4634 4656	this learned herbalist
+T81	GPE 5304 5337	this quietest of seaside villages
+T82	PER 5451 5460	Mrs. Todd
+T83	PER 5922 5932	My hostess
+T48	PER 6273 6282	Mrs. Todd
+T84	LOC 6335 6343	pastures
+T85	PER 6565 6574	Mrs. Todd
+T86	PER 6581 6588	a widow
+T87	PER 6954 6963	Mrs. Todd
+T88	PER 7406 7412	darlin
+T89	LOC 7820 7844	the nearest pebble beach
+T90	PER 8109 8114	folks
+T91	PER 8146 8166	a whole neighborhood
+T92	PER 8331 8335	dear
+T55	PER 8661 8668	anybody
+T93	FAC 9214 9229	my sitting-room
+T94	PER 9426 9451	one who was far above her
+T96	PER 9636 9641	folks
+T97	PER 9889 9902	a high family
+T98	PER 10036 10043	a woman
+T99	PER 2361 2365	Mrs.
+T100	PER 2605 2609	Mrs.
+T101	PER 4033 4037	Mrs.
+T102	PER 4887 4891	Mrs.
+T103	PER 7887 7891	Mrs.
+T104	PER 8673 8677	Mrs.
+T105	PER 9030 9034	Mrs.
+T106	PER 1727 1731	Mrs.
+T107	PER 1896 1900	Mrs.
+T108	PER 3616 3620	Mrs.
+T109	PER 4589 4593	Mrs.
+T110	PER 5451 5455	Mrs.
+T111	PER 6273 6277	Mrs.
+T112	PER 6565 6569	Mrs.
+T113	PER 6954 6958	Mrs.
+T95	PER 9073 9081	somebody
+T114	PER 9827 9843	a seafarin ’ man
+T115	PER 8475 8481	nobody

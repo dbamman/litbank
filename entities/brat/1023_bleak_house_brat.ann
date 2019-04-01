@@ -1,0 +1,198 @@
+T2	FAC 96 115	Lincoln 's Inn Hall
+T3	LOC 361 373	Holborn Hill
+T4	FAC 163 174	the streets
+T6	LOC 1143 1153	green aits
+T7	LOC 1158 1165	meadows
+T8	GPE 1312 1317	Essex
+T9	VEH 1465 1476	great ships
+T11	FAC 1627 1638	their wards
+T13	PER 1785 1820	his shivering little ' prentice boy
+T14	PER 1691 1711	the wrathful skipper
+T16	FAC 1722 1737	his close cabin
+T18	FAC 2053 2064	the streets
+T19	PER 2134 2144	husbandman
+T20	PER 2149 2158	ploughboy
+T22	LOC 2094 2112	the spongey fields
+T24	FAC 2352 2369	the muddy streets
+T26	FAC 2542 2561	Lincoln 's Inn Hall
+T28	PER 2846 2859	hoary sinners
+T30	FAC 2893 2899	heaven
+T32	PER 2945 2969	the Lord High Chancellor
+T36	PER 3706 3713	players
+T39	PER 4177 4184	masters
+T40	PER 4167 4174	masters
+T42	PER 4019 4032	the registrar
+T44	FAC 4465 4474	the place
+T46	PER 4694 4718	the Lord High Chancellor
+T47	LOC 4913 4924	every shire
+T48	FAC 4867 4886	its decaying houses
+T49	PER 5127 5136	every man
+T50	PER 4937 4957	its worn-out lunatic
+T52	PER 5378 5395	its practitioners
+T53	PER 5545 5564	the Lord Chancellor
+T55	PER 5777 5786	the judge
+T62	PER 6083 6105	The short-hand writers
+T65	FAC 6320 6328	the hall
+T66	LOC 6308 6328	the side of the hall
+T69	PER 6807 6824	A sallow prisoner
+T70	PER 7306 7320	the Chancellor
+T71	GPE 7256 7266	Shropshire
+T72	PER 7408 7422	the Chancellor
+T74	PER 7565 7574	the judge
+T76	PER 7716 7727	this suitor
+T80	PER 7942 7954	no man alive
+T81	PER 8047 8070	no two Chancery lawyers
+T82	PER 8170 8190	Innumerable children
+T89	PER 8754 8766	grandmothers
+T91	PER 8928 8943	three Jarndyces
+T93	PER 8790 8801	Chancellors
+T94	PER 8742 8749	mothers
+T98	PER 9322 9346	Every master in Chancery
+T102	FAC 9594 9598	hall
+T103	PER 9601 9616	Articled clerks
+T104	PER 9678 9702	The last Lord Chancellor
+T110	PER 10420 10426	no man
+T113	PER 10664 10684	the wretched suitors
+T116	PER 11022 11036	his own mother
+T118	FAC 11329 11339	the office
+T121	FAC 13 21	Chancery
+T122	GPE 22 28	London
+T123	PER 69 84	Lord Chancellor
+T1	LOC 231 240	the earth
+T124	LOC 219 240	the face of the earth
+T125	PER 671 686	Foot passengers
+T128	LOC 1090 1100	everywhere
+T129	LOC 1110 1119	the river
+T130	LOC 1177 1186	the river
+T131	GPE 1272 1298	a great ( and dirty ) city
+T132	LOC 1312 1325	Essex marshes
+T133	LOC 1335 1354	the Kentish heights
+T135	FAC 1424 1433	the yards
+T10	VEH 1522 1533	small boats
+T137	PER 1567 1595	ancient Greenwich pensioners
+T138	PER 1838 1859	people on the bridges
+T140	FAC 2169 2178	the shops
+T23	FAC 2388 2422	that leaden-headed old obstruction
+T141	FAC 2501 2511	Temple Bar
+T25	FAC 2526 2536	Temple Bar
+T27	PER 2604 2624	Lord High Chancellor
+T142	FAC 2632 2654	High Court of Chancery
+T144	LOC 2904 2909	earth
+T33	PER 3326 3381	some score of members of the High Court of Chancery bar
+T34	PER 3743 3778	the various solicitors in the cause
+T37	PER 3781 3806	some two or three of whom
+T147	FAC 4257 4266	the court
+T148	PER 4486 4518	the uninitiated from the streets
+T150	LOC 4891 4909	its blighted lands
+T151	LOC 4961 4975	every madhouse
+T152	FAC 4992 5008	every churchyard
+T153	PER 5354 5371	an honourable man
+T154	FAC 5545 5573	the Lord Chancellor 's court
+T155	PER 5603 5622	the Lord Chancellor
+T156	PER 5625 5649	the counsel in the cause
+T157	PER 5652 5699	two or three counsel who are never in any cause
+T56	PER 5757 5786	the registrar below the judge
+T158	PER 5821 5839	two or three maces
+T159	PER 5845 5855	petty-bags
+T160	PER 5861 5873	privy purses
+T61	PER 6141 6172	the reporters of the newspapers
+T57	PER 6196 6220	the rest of the regulars
+T58	LOC 6355 6378	the curtained sanctuary
+T59	PER 6384 6427	a little mad old woman in a squeezed bonnet
+T60	FAC 6445 6450	court
+T68	PER 6600 6617	a party to a suit
+T161	PER 6962 6991	a solitary surviving executor
+T73	PER 7202 7223	Another ruined suitor
+T77	PER 7673 7695	A few lawyers ' clerks
+T78	PER 7977 7994	The parties to it
+T79	PER 8223 8247	innumerable young people
+T163	PER 8271 8293	innumerable old people
+T84	PER 8316 8333	Scores of persons
+T83	PER 8435 8449	whole families
+T85	PER 8499 8519	The little plaintiff
+T86	LOC 8688 8703	the other world
+T88	PER 8706 8725	Fair wards of court
+T90	PER 8978 8994	old Tom Jarndyce
+T164	FAC 9029 9043	a coffee-house
+T165	FAC 9047 9060	Chancery Lane
+T92	FAC 9126 9135	the court
+T95	PER 9379 9395	Every Chancellor
+T96	PER 9448 9455	counsel
+T97	PER 9508 9547	blue-nosed , bulbous-shoed old benchers
+T99	PER 9741 9752	Mr. Blowers
+T101	PER 9911 9922	Mr. Blowers
+T105	PER 9967 9976	the maces
+T166	PER 9979 9983	bags
+T167	PER 9990 9996	purses
+T106	PER 10152 10162	the master
+T107	FAC 10306 10329	the Six Clerks ' Office
+T108	PER 10285 10302	the copying-clerk
+T109	PER 10623 10649	The very solicitors ' boys
+T111	PER 10730 10741	Mr. Chizzle
+T112	PER 10744 10750	Mizzle
+T114	PER 10920 10945	The receiver in the cause
+T115	PER 11071 11078	Chizzle
+T117	PER 11081 11087	Mizzle
+T168	PER 11246 11253	Drizzle
+T54	PER 5706 5728	the well of solicitors
+T17	FAC 2803 2825	High Court of Chancery
+T38	FAC 792 1083	street-corners , where tens of thousands of other foot passengers have been slipping and sliding since the day broke ( if this day ever broke ) , adding new deposits to the crust upon crust of mud , sticking at those points tenaciously to the pavement , and accumulating at compound interest
+T45	PER 815 857	tens of thousands of other foot passengers
+T5	LOC 1107 1165	up the river , where it flows among green aits and meadows
+T119	LOC 1172 1298	down the river , where it rolls defiled among the tiers of shipping and the waterside pollutions of a great ( and dirty ) city
+T120	FAC 1218 1239	the tiers of shipping
+T126	VEH 1391 1404	collier-brigs
+T127	VEH 1511 1517	barges
+T12	FAC 1848 1859	the bridges
+T134	FAC 1873 1885	the parapets
+T31	PER 3115 3196	a large advocate with great whiskers , a little voice , and an interminable brief
+T35	PER 3830 3843	their fathers
+T43	FAC 4507 4518	the streets
+T136	PER 4980 4988	its dead
+T51	PER 5021 5083	its ruined suitor with his slipshod heels and threadbare dress
+T63	PER 6108 6134	the reporters of the court
+T139	PER 6239 6247	Jarndyce
+T143	PER 6226 6234	Jarndyce
+T145	PER 5991 5999	Jarndyce
+T146	PER 6004 6012	Jarndyce
+T64	PER 7700 7736	others who know this suitor by sight
+T67	PER 7830 7838	Jarndyce
+T162	PER 7843 7851	Jarndyce
+T169	PER 8384 8392	Jarndyce
+T170	PER 8397 8405	Jarndyce
+T87	PER 8523 8614	defendant who was promised a new rocking-horse when Jarndyce and Jarndyce should be settled
+T171	PER 8575 8583	Jarndyce
+T172	PER 8588 8596	Jarndyce
+T173	LOC 8954 8963	the earth
+T174	PER 9067 9075	Jarndyce
+T175	PER 9080 9088	Jarndyce
+T176	PER 9161 9169	Jarndyce
+T177	PER 9174 9182	Jarndyce
+T178	FAC 9338 9346	Chancery
+T100	PER 9755 9845	the eminent silk gown who said that such a thing might happen when the sky rained potatoes
+T179	PER 9887 9895	Jarndyce
+T180	PER 9900 9908	Jarndyce
+T181	PER 10008 10014	people
+T182	PER 10031 10039	Jarndyce
+T183	PER 10044 10052	Jarndyce
+T184	PER 10216 10224	Jarndyce
+T185	PER 10229 10237	Jarndyce
+T186	FAC 10370 10378	Chancery
+T187	PER 10896 10904	Jarndyce
+T188	PER 10909 10917	Jarndyce
+T189	PER 11287 11295	Jarndyce
+T190	PER 11300 11308	Jarndyce
+T191	ORG 2467 2498	a leaden-headed old corporation
+T192	FAC 2450 2498	the threshold of a leaden-headed old corporation
+T29	FAC 4833 5522	the Court of Chancery , which has its decaying houses and its blighted lands in every shire , which has its worn-out lunatic in every madhouse and its dead in every churchyard , which has its ruined suitor with his slipshod heels and threadbare dress borrowing and begging through the round of every man 's acquaintance , which gives to monied might the means abundantly of wearying out the right , which so exhausts finances , patience , courage , hope , so overthrows the brain and breaks the heart , that there is not an honourable man among its practitioners who would not give -- who does not often give -- the warning , " Suffer any wrong that can be done you rather than come here !
+T193	ORG 6125 6134	the court
+T194	ORG 6158 6172	the newspapers
+T195	PER 69 73	Lord
+T196	PER 2604 2608	Lord
+T197	PER 9741 9744	Mr.
+T198	PER 9911 9914	Mr.
+T199	PER 10730 10733	Mr.
+T15	PER 9416 9424	somebody
+T41	LOC 11662 11671	the world
+T200	PER 6624 6630	no one
+T201	PER 6657 6663	no one

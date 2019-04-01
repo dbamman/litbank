@@ -1,0 +1,149 @@
+T60	PER 279 286	Captain
+T138	GPE 637 644	England
+T196	PER 908 917	Americans
+T230	GPE 1065 1069	home
+T236	GPE 1099 1109	Bordighera
+T245	GPE 1155 1162	Nauheim
+T293	PER 1373 1391	Captain Ashburnham
+T309	GPE 1449 1456	Nauheim
+T337	PER 1587 1595	Florence
+T368	PER 1742 1750	Florence
+T395	PER 1892 1898	doctor
+T420	PER 2015 2033	Captain Ashburnham
+T453	PER 2191 2199	Florence
+T458	PER 2220 2228	Florence
+T464	PER 2261 2279	Captain Ashburnham
+T473	PER 2320 2327	Leonora
+T509	GPE 2528 2535	England
+T570	PER 2830 2838	Florence
+T608	GPE 3024 3036	Philadelphia
+T632	LOC 3146 3162	English counties
+T678	FAC 3384 3398	Walnut Streets
+T701	GPE 3495 3502	Farnham
+T703	GPE 3506 3512	Surrey
+T707	PER 3529 3541	William Penn
+T710	PER 3544 3552	Florence
+T724	GPE 3613 3624	Connecticut
+T846	GPE 4202 4206	Rome
+T969	PER 4810 4813	God
+T975	PER 4840 4843	men
+T1212	LOC 5983 5989	heaven
+T1259	PER 6249 6252	God
+T1309	FAC 6485 6496	Taunus Wald
+T1443	PER 7103 7120	Edward Ashburnham
+T1447	PER 7128 7135	Leonora
+T1454	PER 7164 7172	Florence
+T1533	PER 7531 7534	men
+T1560	FAC 7661 7673	smoking-room
+T1610	FAC 7914 7920	places
+T1621	PER 7965 7973	Florence
+T1817	PER 8906 8913	Leonora
+T1838	GPE 9020 9027	Nauheim
+T1841	FAC 9036 9049	neighbourhood
+T1857	PER 9136 9153	Edward Ashburnham
+T1873	PER 9220 9226	Edward
+T1875	PER 9231 9238	Leonora
+T1959	PER 9613 9620	Leonora
+T1	PER 68 83	the Ashburnhams
+T2	GPE 104 123	the town of Nauheim
+T3	PER 291 305	Mrs Ashburnham
+T4	PER 475 489	English people
+T5	PER 804 818	English people
+T6	GPE 856 862	Europe
+T7	GPE 1039 1044	Paris
+T8	GPE 1090 1094	Nice
+T9	LOC 1072 1109	Somewhere between Nice and Bordighera
+T10	PER 1327 1334	my wife
+T11	PER 260 267	My wife
+T12	PER 1019 1036	the nicer English
+T13	PER 1358 1370	the sufferer
+T14	GPE 1813 1819	Europe
+T15	LOC 1941 1948	Channel
+T16	PER 1974 1988	the poor thing
+T17	PER 2122 2144	Mrs Ashburnham Leonora
+T18	PER 2563 2580	quite good people
+T19	PER 2642 2656	the Ashburnham
+T20	PER 2673 2682	Charles I
+T21	PER 2736 2764	this class of English people
+T22	PER 2801 2815	Mrs Ashburnham
+T23	PER 2820 2827	a Powys
+T24	PER 2843 2853	a Hurlbird
+T25	GPE 2857 2865	Stamford
+T26	GPE 2868 2879	Connecticut
+T27	PER 2942 2957	the inhabitants
+T28	GPE 2961 2969	Cranford
+T29	GPE 2972 2979	England
+T30	PER 3012 3020	a Dowell
+T31	GPE 3039 3042	Pa.
+T32	PER 3094 3114	old English families
+T35	FAC 3371 3379	Chestnut
+T36	PER 3448 3463	an Indian chief
+T37	PER 3467 3483	the first Dowell
+T38	PER 3544 3562	Florence 's people
+T39	PER 3594 3624	the inhabitants of Connecticut
+T40	FAC 3637 3671	the neighbourhood of Fordingbridge
+T41	FAC 3680 3703	the Ashburnhams ' place
+T42	PER 3680 3695	the Ashburnhams
+T43	FAC 3714 3719	there
+T44	PER 3855 3867	human beings
+T45	GPE 3899 3905	a city
+T46	PER 3934 3942	a people
+T47	PER 4009 4022	unknown heirs
+T48	PER 4029 4040	generations
+T49	PER 4210 4219	the Goths
+T50	FAC 4429 4443	the club house
+T51	FAC 4420 4443	front of the club house
+T52	GPE 4462 4469	Homburg
+T56	FAC 5516 5533	discreet shelters
+T57	PER 5740 5747	The mob
+T58	GPE 5757 5767	Versailles
+T59	FAC 5770 5781	the Trianon
+T61	FAC 5907 5933	the Hessian bathing places
+T62	LOC 6082 6089	Nirvana
+T63	PER 6197 6238	frail , tremulous , and everlasting souls
+T64	FAC 6314 6322	a prison
+T66	FAC 6459 6496	the shaded avenues of the Taunus Wald
+T67	PER 6537 6547	my creator
+T68	PER 7136 7144	his wife
+T69	PER 7416 7431	the two of them
+T70	PER 7778 7781	God
+T71	FAC 7850 7866	the smoking-room
+T74	PER 8249 8265	some good fellow
+T75	FAC 8278 8289	some lounge
+T76	FAC 8293 8305	smoking-room
+T77	PER 8399 8407	Florence
+T78	PER 8692 8721	the sedulous , strained nurse
+T79	PER 9158 9166	his wife
+T80	PER 9354 9370	the model couple
+T81	PER 9801 9818	the county family
+T82	PER 9829 9846	the county family
+T83	PER 10172 10179	a lover
+T84	PER 10354 10359	a man
+T85	PER 10375 10386	a nice chap
+T86	PER 10394 10407	a dear fellow
+T87	VEH 10695 10705	a carriage
+T88	PER 11118 11124	a fool
+T89	PER 11128 11146	the poor dear chap
+T90	LOC 1782 1785	sea
+T91	GPE 1872 1886	that continent
+T93	PER 2480 2495	the Ashburnhams
+T94	PER 341 348	anybody
+T95	GPE 2060 2100	an India to which he was never to return
+T96	LOC 1119 1141	yearly winter quarters
+T34	FAC 3348 3398	several blocks between Chestnut and Walnut Streets
+T33	FAC 3319 3398	my farm , which once covered several blocks between Chestnut and Walnut Streets
+T92	PER 4265 4295	our little four-square coterie
+T97	LOC 4697 4707	a blue sea
+T98	VEH 4647 4707	one of those tall ships with the white sails upon a blue sea
+T53	FAC 6326 6496	a prison full of screaming hysterics , tied down so that they might not outsound the rolling of our carriage wheels as we went along the shaded avenues of the Taunus Wald
+T54	PER 6699 6826	four people with the same tastes , with the same desires , acting -- or , no , not acting -- sitting here and there unanimously
+T55	FAC 7289 7310	our four-square house
+T1960	PER 1373 1380	Captain
+T1961	PER 2015 2022	Captain
+T1962	PER 2261 2268	Captain
+T1963	PER 291 294	Mrs
+T1964	PER 2122 2125	Mrs
+T1965	PER 2801 2804	Mrs
+T65	LOC 7501 7510	the world
+T72	PER 5399 5412	any one of us
+T73	FAC 8225 8235	downstairs

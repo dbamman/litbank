@@ -1,0 +1,86 @@
+T0	PER 99 109	Tom Sawyer
+T1	PER 162 176	Mr. Mark Twain
+T4	PER 403 407	Mary
+T5	PER 458 462	Mary
+T6	PER 424 427	Tom
+T7	PER 424 441	Tom 's Aunt Polly
+T9	PER 669 680	the robbers
+T10	PER 637 640	Tom
+T11	PER 831 845	Judge Thatcher
+T12	FAC 1101 1110	the house
+T14	PER 1028 1035	her son
+T17	PER 1341 1351	Tom Sawyer
+T18	PER 1458 1467	the widow
+T19	PER 1409 1416	robbers
+T21	PER 1812 1821	The widow
+T22	PER 1962 1971	the widow
+T24	PER 2343 2348	Moses
+T25	PER 2453 2458	Moses
+T26	PER 2633 2642	the widow
+T29	PER 3181 3206	a tolerable slim old maid
+T30	PER 3167 3178	Miss Watson
+T31	PER 3365 3374	the widow
+T32	PER 3487 3498	Miss Watson
+T34	LOC 4090 4104	the good place
+T35	LOC 4370 4384	the good place
+T36	PER 4584 4594	Tom Sawyer
+T38	PER 4819 4830	the niggers
+T43	PER 6265 6272	witches
+T45	PER 6644 6653	the widow
+T46	PER 7258 7268	Tom Sawyer
+T47	FAC 7372 7391	the widow 's garden
+T49	PER 7372 7381	the widow
+T51	PER 7564 7575	Miss Watson
+T52	FAC 7623 7630	kitchen
+T54	PER 7598 7601	Jim
+T62	PER 8748 8751	Tom
+T65	PER 9340 9343	Jim
+T2	PER 366 376	Aunt Polly
+T3	PER 382 391	the widow
+T66	PER 410 420	Aunt Polly
+T67	LOC 688 696	the cave
+T15	PER 1168 1177	the widow
+T16	PER 1506 1515	The widow
+T20	PER 2353 2367	the Bulrushers
+T23	PER 2577 2588	dead people
+T68	PER 2792 2803	some people
+T69	PER 3545 3556	Huckleberry
+T70	PER 3597 3608	Huckleberry
+T71	PER 3701 3712	Huckleberry
+T72	LOC 3776 3789	the bad place
+T33	PER 4400 4406	a body
+T37	PER 4724 4735	Miss Watson
+T41	FAC 4901 4908	my room
+T40	PER 5244 5266	somebody that was dead
+T42	PER 5309 5339	somebody that was going to die
+T73	LOC 5497 5506	the woods
+T74	FAC 5680 5685	grave
+T75	PER 5790 5802	some company
+T44	FAC 6595 6604	the house
+T76	GPE 6726 6734	the town
+T77	FAC 7150 7158	the shed
+T48	FAC 7479 7490	the kitchen
+T50	PER 7564 7589	Miss Watson 's big nigger
+T53	PER 8517 8520	Jim
+T27	PER 2903 2981	Moses , which was no kin to her , and no use to anybody , being gone , you see
+T8	PER 473 486	Widow Douglas
+T13	PER 1004 1011	Douglas
+T28	PER 994 1003	The Widow
+T78	PER 162 165	Mr.
+T79	PER 431 435	Aunt
+T80	PER 831 836	Judge
+T81	PER 3167 3171	Miss
+T82	PER 3487 3491	Miss
+T83	PER 7564 7568	Miss
+T84	PER 366 370	Aunt
+T85	PER 410 414	Aunt
+T86	PER 4724 4728	Miss
+T39	PER 312 319	anybody
+T55	PER 2951 2958	anybody
+T56	PER 5971 5978	anybody
+T57	PER 6439 6446	anybody
+T58	PER 4861 4870	everybody
+T59	LOC 4035 4050	the whole world
+T60	LOC 3818 3823	there
+T61	LOC 4424 4429	there
+T63	LOC 4604 4609	there

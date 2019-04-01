@@ -1,0 +1,107 @@
+T0	PER 118 126	Waymarsh
+T1	FAC 58 67	the hotel
+T2	GPE 392 401	Liverpool
+T4	FAC 310 320	the office
+T5	GPE 369 376	Chester
+T6	FAC 548 556	the dock
+T7	PER 524 532	Waymarsh
+T8	PER 490 498	Strether
+T9	PER 1172 1183	his comrade
+T10	PER 1018 1029	the two men
+T12	PER 1414 1422	Strether
+T13	VEH 1924 1932	the ship
+T14	GPE 2117 2123	London
+T15	GPE 2255 2264	Liverpool
+T17	PER 2877 2885	Waymarsh
+T19	VEH 3333 3341	the ship
+T20	PER 3885 3895	his friend
+T21	FAC 3972 3980	the hall
+T22	PER 3783 3816	the young woman in the glass cage
+T24	VEH 4415 4427	his own ship
+T27	PER 4969 4981	Mr. Waymarsh
+T28	PER 4930 4965	Mr. Waymarsh of Milrose Connecticut
+T30	PER 5647 5684	friends there who were friends of his
+T32	PER 5766 5774	Strether
+T33	PER 5926 5936	our friend
+T34	PER 6088 6100	Mr. Waymarsh
+T35	PER 6055 6063	Strether
+T36	PER 6179 6187	the lady
+T37	PER 6408 6420	the Munsters
+T38	PER 6379 6387	Strether
+T39	GPE 6462 6471	Liverpool
+T41	PER 7042 7050	Strether
+T42	FAC 7079 7088	the hotel
+T43	FAC 7110 7118	a garden
+T44	FAC 7018 7026	the hall
+T45	PER 7042 7063	Strether 's companion
+T46	PER 7252 7260	Waymarsh
+T47	FAC 7433 7441	his room
+T48	FAC 7449 7472	the garden of the hotel
+T49	FAC 7463 7472	the hotel
+T51	GPE 7645 7653	the town
+T52	PER 7764 7771	a guest
+T53	FAC 7796 7805	the place
+T54	PER 7884 7910	the lady in the glass cage
+T55	PER 7851 7859	Strether
+T56	PER 7835 7844	a hostess
+T57	PER 7926 7940	this personage
+T58	PER 8030 8041	his hostess
+T62	PER 8987 8995	Strether
+T63	PER 8886 8907	an attentive observer
+T64	FAC 9035 9045	the garden
+T65	FAC 9220 9241	the small smooth lawn
+T67	PER 9459 9472	her companion
+T68	PER 9877 9885	Strether
+T69	FAC 10221 10237	his dull bedroom
+T70	GPE 10619 10625	London
+T72	PER 10794 10818	the person of his friend
+T73	PER 13 21	Strether
+T74	FAC 233 239	a room
+T3	PER 294 306	the enquirer
+T75	PER 781 789	Waymarsh
+T11	PER 988 1029	the most newly disembarked of the two men
+T76	VEH 1300 1319	the nearing steamer
+T77	GPE 1347 1353	Europe
+T78	GPE 1490 1496	Europe
+T79	PER 1914 1966	people on the ship with whom he had easily consorted
+T80	FAC 2096 2113	the landing-stage
+T81	PER 2137 2264	others who had invited him to a tryst at the inn and had even invoked his aid for a " look round " at the beauties of Liverpool
+T82	FAC 2178 2185	the inn
+T83	PER 2239 2264	the beauties of Liverpool
+T84	PER 2413 2492	persons who esteemed themselves fortunate in being , unlike himself , " met , "
+T85	GPE 2703 2709	Europe
+T86	LOC 2760 2766	Mersey
+T16	GPE 2906 2913	Chester
+T18	PER 3094 3267	a man who , elatedly finding in his pocket more money than usual , handles it a while and idly and pleasantly chinks it before addressing himself to the business of spending
+T87	PER 3306 3314	Waymarsh
+T88	PER 3608 3616	Strether
+T89	PER 3990 4197	a lady who met his eyes as with an intention suddenly determined , and whose features -- not freshly young , not markedly fine , but on happy terms with each other -- came back to him as from a recent vision
+T90	FAC 4317 4333	his previous inn
+T23	FAC 4354 4362	the hall
+T91	PER 4400 4438	some people of his own ship 's company
+T25	GPE 4946 4953	Milrose
+T26	GPE 4954 4965	Connecticut
+T92	PER 4982 5001	the American lawyer
+T93	PER 5032 5057	my very well-known friend
+T94	GPE 5099 5106	Malvern
+T95	PER 5248 5256	Strether
+T96	GPE 5576 5583	Milrose
+T29	PER 5670 5684	friends of his
+T97	GPE 5655 5660	there
+T31	FAC 5705 5714	his house
+T98	PER 5766 5794	Strether 's new acquaintance
+T99	PER 6393 6405	the Munsters
+T100	PER 6427 6471	the people he had seen her with at Liverpool
+T101	PER 6510 6522	the Munsters
+T40	VEH 7211 7222	the steamer
+T50	PER 7584 7621	the dispenser of such good assurances
+T59	PER 8153 8226	a man of the middle height and something more perhaps than the middle age
+T60	PER 8230 8636	a man of five-and-fifty , whose most immediate signs were a marked bloodless brownness of face , a thick dark moustache , of characteristically American cut , growing strong and falling low , a head of hair still abundant but irregularly streaked with grey , and a nose of bold free prominence , the even line , the high finish , as it might have been called , of which , had a certain effect of mitigation
+T61	PER 9379 9388	this lady
+T102	PER 4969 4972	Mr.
+T103	PER 4930 4933	Mr.
+T104	PER 6088 6091	Mr.
+T66	PER 2295 2304	every one
+T105	PER 1764 1770	nobody
+T71	FAC 10100 10108	upstairs
+T106	FAC 7524 7529	there

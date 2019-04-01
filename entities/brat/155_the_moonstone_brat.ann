@@ -1,0 +1,141 @@
+T1	GPE 141 148	England
+T2	GPE 113 118	India
+T3	PER 249 258	my cousin
+T4	PER 261 276	John Herncastle
+T5	PER 787 800	General Baird
+T6	PER 660 669	my cousin
+T7	FAC 1039 1065	the Palace of Seringapatam
+T8	GPE 1175 1180	India
+T9	PER 1270 1318	the four-handed Indian god who typifies the Moon
+T10	PER 1431 1456	the deity whom it adorned
+T11	GPE 1598 1603	India
+T12	GPE 1769 1774	India
+T13	GPE 1731 1735	Rome
+T14	GPE 1712 1726	ancient Greece
+T15	PER 2032 2042	collectors
+T16	GPE 2223 2228	India
+T18	FAC 2299 2348	the famous temple , which had stood for centuries
+T19	LOC 2404 2421	the Eastern world
+T21	PER 2427 2467	all the deities worshipped in the temple
+T22	PER 2513 2539	the conquering Mohammedans
+T23	FAC 2457 2467	the temple
+T25	GPE 2720 2725	India
+T26	PER 2555 2569	three Brahmins
+T27	FAC 2780 2814	a hall inlaid with precious stones
+T32	PER 3020 3029	The deity
+T34	PER 3114 3126	the Brahmins
+T35	PER 3170 3179	The deity
+T36	PER 3328 3331	men
+T38	PER 3338 3350	the Brahmins
+T39	PER 3387 3396	The deity
+T40	PER 3500 3509	his house
+T41	PER 3551 3563	the Brahmins
+T42	PER 3736 3754	the three Brahmins
+T43	PER 3718 3754	the successors of the three Brahmins
+T45	PER 4213 4257	an officer of rank in the army of Aurungzebe
+T46	PER 4145 4156	the deities
+T47	PER 4061 4080	the four-handed god
+T49	PER 4317 4343	the three guardian priests
+T52	PER 4630 4674	the successors of the three guardian priests
+T56	PER 4648 4674	the three guardian priests
+T57	PER 4925 4947	Sultan of Seringapatam
+T58	FAC 5114 5146	the palace of the Sultan himself
+T59	PER 5128 5138	the Sultan
+T61	PER 5150 5176	the three guardian priests
+T62	PER 5434 5463	the three priests in disguise
+T63	PER 5400 5415	those three men
+T64	PER 5223 5260	three officers of Tippoo ’s household
+T65	PER 5995 6007	Seringapatam
+T68	PER 6168 6177	My cousin
+T69	LOC 6246 6255	the river
+T70	GPE 6395 6403	the town
+T71	PER 6553 6563	Herncastle
+T72	PER 6513 6519	Tippoo
+T73	PER 6464 6477	General Baird
+T74	FAC 6853 6863	the Palace
+T75	PER 6781 6793	the soldiers
+T76	PER 6957 6966	my cousin
+T77	PER 7016 7032	our own soldiers
+T78	FAC 7872 7885	the courtyard
+T82	PER 8290 8321	a man whose back was towards me
+T83	PER 8324 8331	The man
+T84	PER 8381 8396	John Herncastle
+T86	PER 8948 8957	My cousin
+T87	PER 8985 8993	a madman
+T89	PER 9046 9053	a guard
+T90	PER 9070 9077	The men
+T91	PER 9154 9185	two sentinels of my own company
+T92	PER 9284 9293	my cousin
+T93	PER 9404 9434	any thief detected in the fact
+T94	PER 9348 9361	General Baird
+T95	PER 9530 9541	the General
+T96	PER 9979 9989	Herncastle
+T97	GPE 25 37	SERINGAPATAM
+T98	PER 125 148	my relatives in England
+T99	PER 377 386	my family
+T100	PER 366 434	members of my family whose good opinion I can not consent to forfeit
+T101	GPE 766 778	Seringapatam
+T102	FAC 982 990	our camp
+T103	PER 1818 1823	a god
+T20	PER 2168 2192	the Mohammedan conqueror
+T104	PER 2195 2212	Mahmoud of Ghizni
+T105	GPE 2241 2266	the holy city of Somnauth
+T17	PER 2470 2482	the moon-god
+T24	PER 2572 2636	the inviolate deity , bearing the Yellow Diamond in its forehead
+T106	GPE 2699 2725	the sacred cities of India
+T107	GPE 2685 2725	the second of the sacred cities of India
+T108	GPE 2729 2748	the city of Benares
+T109	PER 2862 2874	the moon-god
+T29	PER 2988 3006	the three Brahmins
+T30	PER 3100 3107	the god
+T31	PER 3255 3268	three priests
+T33	PER 3427 3483	the presumptuous mortal who laid hands on the sacred gem
+T37	PER 3907 3917	Aurungzebe
+T44	PER 3931 3941	the Moguls
+T110	PER 3920 3941	Emperor of the Moguls
+T48	PER 4247 4257	Aurungzebe
+T111	PER 4235 4257	the army of Aurungzebe
+T50	PER 4421 4464	the warrior who had committed the sacrilege
+T53	PER 4916 4922	Tippoo
+T54	GPE 4935 4947	Seringapatam
+T55	PER 5241 5247	Tippoo
+T60	PER 5276 5284	the rest
+T112	PER 5263 5284	strangers to the rest
+T113	FAC 5486 5494	our camp
+T114	PER 5589 5598	my cousin
+T115	GPE 5694 5706	Seringapatam
+T116	PER 5834 5844	Herncastle
+T66	PER 5973 5989	the English army
+T67	GPE 6433 6442	the place
+T117	PER 6536 6545	the slain
+T118	PER 6601 6707	a party sent out by the general ’s orders to prevent the plunder and confusion which followed our conquest
+T119	PER 6621 6632	the general
+T120	PER 6710 6728	The camp-followers
+T121	FAC 6921 6951	the court outside the treasury
+T122	FAC 6939 6951	the treasury
+T123	PER 7035 7045	Herncastle
+T124	FAC 7314 7326	the treasury
+T125	PER 7358 7365	The men
+T80	PER 8043 8054	two Indians
+T79	PER 8089 8111	officers of the palace
+T81	FAC 8214 8224	an armoury
+T126	FAC 8178 8224	a room , which appeared to serve as an armoury
+T127	PER 8227 8260	A third Indian , mortally wounded
+T128	PER 8613 8629	The dying Indian
+T129	PER 8675 8685	Herncastle
+T85	FAC 8921 8934	the courtyard
+T88	FAC 9004 9012	the room
+T130	PER 9171 9185	my own company
+T131	PER 9476 9495	The provost-marshal
+T132	PER 9610 9620	Herncastle
+T133	PER 9785 9810	the Indian in the armoury
+T134	FAC 9799 9810	the armoury
+T135	PER 9910 9920	The Indian
+T28	PER 2962 2975	the Preserver
+T136	PER 2955 2961	Vishnu
+T51	PER 4734 4747	the Preserver
+T137	PER 4727 4733	Vishnu
+T138	PER 787 794	General
+T139	PER 6464 6471	General
+T140	PER 9348 9355	General
+T141	FAC 2903 2907	Here

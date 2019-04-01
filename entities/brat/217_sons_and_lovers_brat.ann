@@ -1,0 +1,173 @@
+T2	FAC 183 197	Greenhill Lane
+T7	PER 545 555	Charles II
+T8	LOC 461 476	the countryside
+T10	PER 1018 1032	the financiers
+T11	GPE 1062 1077	Nottinghamshire
+T12	GPE 1082 1092	Derbyshire
+T15	LOC 1253 1280	the edge of Sherwood Forest
+T18	PER 1174 1189	Lord Palmerston
+T21	GPE 1539 1544	Selby
+T22	GPE 2001 2006	Crich
+T25	GPE 1960 1969	Beggarlee
+T26	PER 1724 1739	the Carthusians
+T28	LOC 2067 2082	the countryside
+T29	FAC 1865 1896	the farmlands of the valleyside
+T31	LOC 1882 1896	the valleyside
+T33	PER 2164 2170	miners
+T35	FAC 2314 2334	the site of Hell Row
+T36	FAC 2350 2361	the Bottoms
+T37	FAC 2364 2375	The Bottoms
+T39	PER 2403 2409	miners
+T40	FAC 2904 2923	the sunny top block
+T41	PER 3109 3121	the colliers
+T42	PER 3105 3129	all the colliers ' wives
+T43	FAC 3243 3264	a scrubby back garden
+T44	PER 3377 3389	the children
+T45	PER 3424 3431	the men
+T46	PER 3401 3410	the women
+T47	FAC 3481 3492	the Bottoms
+T48	PER 3668 3678	Mrs. Morel
+T49	PER 3668 3672	Mrs.
+T50	FAC 3708 3756	the Bottoms , which was already twelve years old
+T51	PER 3932 3950	only one neighbour
+T54	PER 4066 4107	the other women of the “ between ” houses
+T55	PER 4254 4264	Mrs. Morel
+T57	PER 4445 4462	the Bottoms women
+T59	PER 4523 4537	her third baby
+T60	PER 4540 4551	Her husband
+T62	PER 4768 4784	The two children
+T63	PER 4817 4831	a boy of seven
+T64	PER 4977 4987	Mrs. Morel
+T66	PER 5021 5035	her neighbours
+T67	PER 5077 5092	the little girl
+T68	PER 5151 5158	William
+T72	PER 5406 5413	the man
+T73	PER 5487 5497	the mother
+T75	PER 5814 5824	the mother
+T76	PER 5896 5903	The lad
+T77	PER 6018 6025	the boy
+T80	PER 6217 6227	his mother
+T81	PER 6423 6433	the mother
+T82	PER 6448 6455	The boy
+T83	PER 6581 6586	Annie
+T84	PER 6678 6688	the mother
+T85	PER 6768 6777	her child
+T86	LOC 6806 6816	the fields
+T87	PER 6886 6896	Mrs. Morel
+T91	PER 7138 7156	the Aunt Sally man
+T92	PER 7174 7192	the peep-show lady
+T93	PER 7099 7115	the cocoanut man
+T94	PER 7195 7205	The mother
+T95	PER 7355 7368	two white men
+T96	PER 7327 7334	a negro
+T97	PER 7408 7413	Annie
+T98	PER 7443 7450	the lad
+T100	PER 7581 7590	three men
+T103	PER 8350 8361	a small boy
+T104	PER 8384 8398	no other woman
+T105	PER 8406 8417	such a lady
+T106	PER 8498 8512	women she knew
+T107	PER 8546 8553	her son
+T108	PER 8873 8880	her son
+T109	PER 8848 8863	her little girl
+T110	PER 9113 9124	her husband
+T113	PER 9043 9046	men
+T116	PER 9383 9389	my dad
+T117	PER 9424 9434	the mother
+T118	PER 45 55	THE MORELS
+T119	FAC 100 108	Hell Row
+T120	FAC 113 197	a block of thatched , bulging cottages that stood by the brookside on Greenhill Lane
+T1	LOC 166 179	the brookside
+T121	PER 212 274	the colliers who worked in the little gin-pits two fields away
+T122	FAC 200 205	There
+T123	LOC 277 286	The brook
+T124	FAC 334 445	these small mines , whose coal was drawn to the surface by donkeys that plodded wearily in a circle round a gin
+T125	FAC 440 445	a gin
+T126	FAC 482 497	these same pits
+T4	PER 558 574	the few colliers
+T6	LOC 621 630	the earth
+T5	LOC 683 698	the corn-fields
+T9	LOC 703 714	the meadows
+T127	FAC 721 733	the cottages
+T128	PER 737 754	these coal-miners
+T129	FAC 808 873	odd farms and homes of the stockingers , straying over the parish
+T130	PER 831 846	the stockingers
+T131	FAC 863 873	the parish
+T132	GPE 883 906	the village of Bestwood
+T133	FAC 968 976	gin-pits
+T134	FAC 999 1032	the large mines of the financiers
+T135	LOC 1035 1092	The coal and iron field of Nottinghamshire and Derbyshire
+T13	FAC 1235 1247	Spinney Park
+T14	FAC 58 69	THE BOTTOMS
+T16	FAC 87 95	Hell Row
+T32	FAC 2203 2214	the Squares
+T34	FAC 2217 2275	great quadrangles of dwellings on the hillside of Bestwood
+T136	GPE 2267 2275	Bestwood
+T138	LOC 2251 2275	the hillside of Bestwood
+T139	FAC 2389 2421	six blocks of miners ' dwellings
+T140	FAC 2424 2441	two rows of three
+T38	FAC 2486 2510	twelve houses in a block
+T141	FAC 2486 2499	twelve houses
+T20	FAC 1299 1321	the notorious Hell Row
+T142	LOC 1508 1556	the valleys of the brooks from Selby and Nuttall
+T143	GPE 1549 1556	Nuttall
+T144	FAC 1603 1611	six pits
+T145	FAC 1559 1568	new mines
+T146	GPE 1627 1634	Nuttall
+T147	FAC 1703 1739	the ruined priory of the Carthusians
+T23	PER 1749 1759	Robin Hood
+T24	FAC 1749 1767	Robin Hood 's Well
+T148	FAC 1778 1790	Spinney Park
+T149	FAC 1804 1810	Minton
+T150	FAC 1813 1843	a large mine among corn-fields
+T151	FAC 1851 1857	Minton
+T27	LOC 1900 1914	Bunker 's Hill
+T152	GPE 1974 1979	Selby
+T153	GPE 2024 2034	Derbyshire
+T154	LOC 2011 2034	the hills of Derbyshire
+T155	FAC 2037 2082	six mines like black studs on the countryside
+T19	LOC 2292 2308	the brook valley
+T30	FAC 2699 2709	The houses
+T137	FAC 2118 2129	the railway
+T17	GPE 3814 3822	Bestwood
+T156	FAC 3879 3916	an end house in one of the top blocks
+T52	FAC 3902 3916	the top blocks
+T53	FAC 4011 4023	an end house
+T157	FAC 4085 4107	the “ between ” houses
+T56	PER 4333 4394	A rather small woman , of delicate mould but resolute bearing
+T58	FAC 4445 4456	the Bottoms
+T158	PER 4556 4563	a miner
+T61	FAC 4588 4602	their new home
+T159	PER 4650 4655	Morel
+T160	PER 4807 4814	William
+T161	FAC 4888 4904	the wakes ground
+T162	PER 4915 4920	Annie
+T65	PER 5197 5289	a very active lad , fair-haired , freckled , with a touch of the Dane or Norwegian about him
+T69	PER 5317 5323	mother
+T70	PER 5532 5545	his blue eyes
+T71	PER 5741 5748	the boy
+T74	PER 5950 5959	the three
+T79	LOC 6733 6741	the hill
+T88	LOC 6910 6919	the wakes
+T89	PER 7220 7223	son
+T90	FAC 7250 7272	the Lion Wallace booth
+T99	LOC 8959 8968	the wakes
+T101	FAC 8986 9032	the open ground in front of the Moon and Stars
+T102	PER 9174 9181	her son
+T111	FAC 124 197	thatched , bulging cottages that stood by the brookside on Greenhill Lane
+T3	FAC 239 274	the little gin-pits two fields away
+T78	PER 6636 6668	whining , wizzening little stick
+T163	PER 1174 1178	Lord
+T164	PER 4254 4258	Mrs.
+T165	PER 4977 4981	Mrs.
+T166	PER 6886 6890	Mrs.
+T112	PER 3573 3579	people
+T114	ORG 1206 1217	the company
+T115	ORG 1110 1133	Carston , Waite and Co.
+T167	FAC 1206 1231	the company 's first mine
+T168	ORG 1436 1457	Carston , Waite & Co.
+T169	ORG 2173 2196	Carston , Waite and Co.
+T170	PER 5051 5092	no one with whom to trust the little girl
+T171	LOC 1931 1936	there
+T172	FAC 2790 2839	little front gardens with auriculas and saxifrage
+T173	FAC 3989 3995	garden

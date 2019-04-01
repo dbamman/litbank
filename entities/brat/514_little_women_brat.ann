@@ -1,0 +1,131 @@
+T1	PER 231 241	some girls
+T2	PER 280 291	other girls
+T5	PER 367 373	Father
+T6	PER 378 384	Mother
+T7	PER 553 555	Jo
+T9	PER 587 593	Father
+T10	PER 716 722	Father
+T11	PER 844 850	Mother
+T12	PER 792 795	Meg
+T13	PER 884 898	this Christmas
+T14	PER 1181 1184	Meg
+T18	PER 1457 1463	Mother
+T20	PER 1563 1586	Jo , who was a bookworm
+T24	PER 1826 1832	Mother
+T25	PER 2115 2138	those tiresome children
+T26	FAC 2193 2197	home
+T27	PER 2303 2305	Jo
+T28	PER 2990 3001	your father
+T29	PER 2834 2837	Amy
+T30	PER 3138 3142	Papa
+T33	PER 3463 3467	Dear
+T34	PER 3638 3655	the King children
+T36	PER 3872 3874	Jo
+T37	PER 4003 4005	Jo
+T38	PER 4154 4177	rude , unladylike girls
+T39	PER 4191 4221	affected , niminy-piminy chits
+T40	PER 4278 4292	the peacemaker
+T41	PER 4416 4421	girls
+T48	PER 5101 5104	boy
+T50	PER 5262 5266	Papa
+T51	PER 5310 5326	a poky old woman
+T52	FAC 5289 5293	home
+T53	PER 5335 5337	Jo
+T54	PER 5584 5592	us girls
+T55	PER 5573 5580	brother
+T56	PER 6048 6050	Jo
+T58	PER 6088 6091	Amy
+T59	PER 6069 6071	Jo
+T62	FAC 6812 6816	home
+T63	PER 7039 7058	Fifteen-year-old Jo
+T64	PER 7632 7639	a woman
+T65	PER 7662 7671	Elizabeth
+T66	PER 7860 7870	Her father
+T69	PER 8291 8326	a young lady mindful of her manners
+T71	PER 8352 8368	the four sisters
+T72	PER 8579 8585	Mother
+T73	PER 8563 8572	the girls
+T74	PER 8743 8745	Jo
+T75	PER 8687 8690	Amy
+T76	PER 8856 8862	Marmee
+T77	PER 20 28	PILGRIMS
+T78	PER 95 97	Jo
+T79	PER 161 164	Meg
+T80	PER 317 327	little Amy
+T81	PER 391 401	each other
+T4	PER 411 415	Beth
+T82	PER 446 495	The four young faces on which the firelight shone
+T84	PER 1021 1028	our men
+T15	PER 1637 1641	Beth
+T16	PER 1808 1811	Amy
+T17	PER 2025 2027	Jo
+T19	PER 2208 2211	Meg
+T21	PER 2358 2496	a nervous , fussy old lady , who keeps you trotting , is never satisfied , and worries you till you 're ready to fly out the window or cry
+T22	LOC 2602 2611	the world
+T23	PER 2700 2704	Beth
+T85	FAC 2871 2877	school
+T86	PER 2883 3063	impertinent girls , who plague you if you do n't know your lessons , and laugh at your dresses , and label your father if he is n't rich , and insult you when your nose is n't nice
+T87	PER 3175 3177	Jo
+T88	PER 3330 3333	Amy
+T31	PER 3382 3390	children
+T89	PER 3368 3379	one another
+T32	PER 3426 3430	Papa
+T90	PER 3458 3460	Jo
+T91	PER 3533 3536	Meg
+T35	PER 3750 3754	Beth
+T92	PER 3848 3866	a pretty jolly set
+T93	PER 3891 3893	Jo
+T94	PER 3933 3936	Amy
+T95	PER 3964 4000	the long figure stretched on the rug
+T96	PER 4092 4094	Jo
+T97	PER 4271 4275	Beth
+T98	PER 4459 4462	Meg
+T99	PER 4591 4600	Josephine
+T42	PER 4643 4656	a little girl
+T43	PER 4742 4754	a young lady
+T100	PER 4867 4869	Jo
+T45	PER 4977 4987	Miss March
+T44	PER 5071 5077	a girl
+T46	PER 5186 5191	a boy
+T47	PER 5446 5453	Poor Jo
+T49	PER 5602 5606	Beth
+T101	PER 5750 5753	Amy
+T102	PER 5768 5771	Meg
+T103	PER 5867 5891	an affected little goose
+T57	PER 6075 6083	a tomboy
+T104	PER 6092 6099	a goose
+T105	PER 6131 6135	Beth
+T106	PER 6177 6183	a dear
+T60	PER 6216 6219	Meg
+T107	PER 6263 6276	the ' Mouse '
+T108	PER 6281 6302	the pet of the family
+T61	PER 6308 6321	young readers
+T109	PER 6414 6430	the four sisters
+T110	FAC 6569 6587	a comfortable room
+T111	PER 6837 6845	Margaret
+T112	PER 6848 6870	the eldest of the four
+T113	PER 6862 6870	the four
+T114	PER 7498 7500	Jo
+T115	PER 7592 7659	a girl who was rapidly shooting up into a woman and did n't like it
+T116	PER 7677 7681	Beth
+T117	PER 7713 7857	a rosy , smooth-haired , bright-eyed girl of thirteen , with a shy manner , a timid voice , and a peaceful expression which was seldom disturbed
+T67	PER 7884 7907	Little Miss Tranquility
+T68	PER 8030 8064	the few whom she trusted and loved
+T118	PER 8067 8070	Amy
+T119	PER 8080 8092	the youngest
+T120	PER 8099 8122	a most important person
+T121	PER 8155 8236	A regular snow maiden , with blue eyes , and yellow hair curling on her shoulders
+T70	PER 8462 8466	Beth
+T122	PER 8640 8643	Meg
+T123	PER 8942 8946	Beth
+T124	PER 4977 4981	Miss
+T8	PER 947 955	everyone
+T83	PER 7687 7695	everyone
+T125	PER 8603 8611	everyone
+T3	PER 6341 6347	people
+T126	LOC 5686 5695	the world
+T127	PER 2748 2755	any one
+T128	PER 759 765	Nobody
+T129	PER 1671 1677	no one
+T130	PER 6233 6239	no one
+T131	FAC 5433 5441	the room

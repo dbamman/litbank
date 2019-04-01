@@ -1,0 +1,109 @@
+T0	PER 31 34	men
+T1	PER 19 25	MOTHER
+T5	PER 726 758	The Fourth Avenue antique dealer
+T6	PER 1066 1081	his predecessor
+T8	PER 1595 1636	the man who goes over Niagara in a barrel
+T9	PER 1555 1573	a skilled aëronaut
+T10	PER 1762 1784	an automobile salesman
+T11	PER 2230 2261	the unctuous , anxious stranger
+T12	PER 2358 2369	spellbinder
+T15	PER 2639 2655	the ballyhoo man
+T18	PER 2930 2951	an advertising expert
+T19	FAC 3086 3107	his mother 's bedroom
+T21	PER 3637 3644	her son
+T24	PER 4124 4127	Son
+T25	PER 4143 4155	business men
+T28	PER 4352 4380	the president of the company
+T30	PER 4334 4348	the office boy
+T33	FAC 4529 4541	his own room
+T34	PER 4642 4651	young men
+T35	PER 4681 4720	the biggest men in the advertising game
+T36	FAC 4761 4769	his room
+T37	PER 4808 4852	advertising manager of the Combs Car Company
+T38	PER 5399 5402	Son
+T39	PER 5901 5911	his mother
+T40	PER 6286 6294	this boy
+T46	PER 6757 6764	the boy
+T48	PER 6894 6898	Jock
+T49	VEH 6973 6984	street cars
+T50	PER 7204 7214	his mother
+T53	PER 7471 7485	Mrs. McChesney
+T54	PER 7831 7835	Jock
+T60	PER 8812 8826	Mrs. McChesney
+T62	PER 8933 8950	this boasting boy
+T63	PER 9140 9149	an Eskimo
+T64	PER 9152 9162	His mother
+T65	PER 9167 9181	Emma McChesney
+T66	PER 9205 9220	a modern mother
+T67	FAC 9299 9309	her office
+T69	PER 9607 9611	Jock
+T70	FAC 9615 9626	the hallway
+T71	FAC 9796 9800	home
+T72	GPE 50 56	cities
+T73	FAC 110 122	our highways
+T2	PER 201 402	That oily-tongued , persuasive , soft-stepping stranger in the rusty Prince Albert and the black string tie who had been wont to haunt our back steps and front offices with his carefully wrapped bundle
+T74	PER 123 143	a picturesque figure
+T75	FAC 355 368	front offices
+T76	FAC 507 540	the first twenty-story skyscraper
+T77	PER 580 601	a lightning-rod agent
+T3	FAC 631 723	a building whose tower was robed in clouds and which used the chain lightning for a necklace
+T4	FAC 726 743	The Fourth Avenue
+T78	PER 870 888	this quaint figure
+T79	FAC 1010 1081	the very building which had brought about the defeat of his predecessor
+T7	LOC 1617 1624	Niagara
+T80	LOC 1676 1684	the land
+T81	VEH 1762 1775	an automobile
+T82	VEH 1910 1930	his glittering wares
+T83	PER 2326 2337	a new being
+T13	PER 2348 2353	urger
+T14	PER 2584 2607	the silk-lined salesman
+T16	PER 2956 2970	Jock McChesney
+T17	PER 3086 3096	his mother
+T20	PER 3365 3369	Jock
+T84	PER 3518 3532	Emma McChesney
+T85	PER 3818 3832	Emma McChesney
+T22	PER 3983 4008	a man on a magazine cover
+T23	FAC 4277 4294	a business office
+T26	PER 4493 4497	Jock
+T27	PER 4730 4734	kids
+T29	PER 4798 4805	McQuirk
+T31	ORG 4831 4852	the Combs Car Company
+T32	PER 4975 4981	Hopper
+T86	ORG 4987 5013	the Berg , Shriner Company
+T87	PER 5133 5143	his mother
+T88	PER 5476 5481	Annie
+T89	PER 5539 5557	your lovely mother
+T90	PER 5595 5657	the slim young figure , in its English-fitting black and white
+T91	PER 5673 5687	Emma McChesney
+T41	ORG 6554 6597	the T.A. Buck Featherloom Petticoat Company
+T42	ORG 6621 6633	that company
+T44	PER 6608 6633	secretary of that company
+T43	VEH 6989 6997	L-trains
+T45	PER 7186 7190	Jock
+T47	PER 7488 7493	ma'am
+T51	VEH 7508 7521	a motor truck
+T52	PER 7562 7628	six strong men carrying my salary to the freight elevator in sacks
+T92	PER 7633 7647	Emma McChesney
+T93	PER 7762 7766	Jock
+T55	PER 8151 8161	a mere boy
+T56	PER 8192 8196	Jock
+T57	PER 8206 8220	Emma McChesney
+T58	PER 8449 8452	Son
+T94	PER 8519 8523	Jock
+T95	PER 8584 8600	a jealous blonde
+T59	PER 8645 8665	a captain of finance
+T96	PER 8669 8690	an advertising wizard
+T61	PER 8919 8950	the mother of this boasting boy
+T97	FAC 9409 9416	kitchen
+T98	FAC 9421 9432	dining-room
+T99	PER 9448 9453	Annie
+T100	PER 9456 9465	the adept
+T101	PER 9497 9502	Annie
+T102	PER 9526 9530	Jock
+T68	PER 9656 9661	Annie
+T103	PER 7471 7475	Mrs.
+T104	PER 8812 8816	Mrs.
+T105	PER 4319 4380	everybody from the office boy to the president of the company
+T106	PER 4654 4663	Everybody
+T107	PER 4190 4211	the advertising world
+T108	PER 8460 8479	no one but yourself

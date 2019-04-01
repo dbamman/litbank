@@ -1,0 +1,190 @@
+T0	LOC 17 20	Sea
+T2	ORG 573 600	the British Colonial Office
+T4	PER 309 326	my convivial host
+T6	PER 841 865	the principal characters
+T7	PER 1090 1107	my convivial host
+T8	PER 992 1007	a man long dead
+T9	ORG 1029 1048	the Colonial Office
+T10	ORG 1364 1383	the Colonial Office
+T11	PER 1498 1512	Lord Greystoke
+T12	GPE 1593 1628	a British West Coast African Colony
+T14	PER 1716 1724	soldiers
+T15	LOC 1845 1854	the Congo
+T16	PER 1873 1906	The natives of the British Colony
+T17	PER 1931 1946	their young men
+T18	PER 2257 2277	their white officers
+T19	PER 2069 2093	The Englishmen in Africa
+T20	GPE 2409 2428	British West Africa
+T21	PER 2555 2596	the officers of a friendly European power
+T22	ORG 2349 2368	the Colonial Office
+T23	PER 2379 2391	John Clayton
+T25	PER 2778 2788	Englishman
+T26	PER 3363 3372	the Queen
+T27	ORG 3239 3258	the Colonial Office
+T30	PER 3765 3785	this fair young girl
+T31	PER 4024 4031	mothers
+T32	PER 4063 4068	aunts
+T33	PER 4073 4080	cousins
+T34	PER 4049 4056	sisters
+T35	PER 4036 4044	brothers
+T36	PER 4264 4274	Lady Alice
+T37	PER 4243 4257	Lord Greystoke
+T38	GPE 4287 4292	Dover
+T39	PER 4579 4582	men
+T40	PER 4485 4499	Lord Greystoke
+T42	PER 4519 4527	his wife
+T44	VEH 4888 4899	the Fuwalda
+T46	VEH 5063 5101	a barkentine of about one hundred tons
+T48	LOC 5234 5241	the sea
+T49	VEH 5312 5323	The Fuwalda
+T50	PER 5355 5367	Her officers
+T51	PER 5424 5435	The captain
+T53	PER 5497 5504	his men
+T56	PER 5779 5793	his young wife
+T57	LOC 5926 5933	the sea
+T59	PER 6156 6167	Two sailors
+T60	PER 6301 6311	Lady Alice
+T62	PER 6284 6296	John Clayton
+T63	PER 6246 6257	the captain
+T64	PER 6314 6321	The men
+T65	PER 6395 6406	the sailors
+T66	PER 6477 6488	the captain
+T69	FAC 6744 6752	the deck
+T70	PER 6615 6626	the officer
+T71	PER 6706 6716	the sailor
+T72	PER 7055 7065	the sailor
+T73	FAC 7069 7077	the deck
+T74	PER 6991 7002	the captain
+T75	PER 7080 7087	The man
+T76	PER 7244 7249	a man
+T77	PER 7171 7187	The other seaman
+T78	PER 7347 7355	his mate
+T80	PER 7774 7786	John Clayton
+T81	PER 7913 7927	Lord Greystoke
+T83	PER 8041 8052	the captain
+T85	PER 8255 8266	The captain
+T86	PER 8653 8672	his wounded comrade
+T88	PER 8590 8605	The two sailors
+T89	PER 8720 8729	his mates
+T90	PER 8733 8746	Black Michael
+T91	PER 8824 8831	Clayton
+T93	PER 9353 9364	the captain
+T94	FAC 9289 9298	his cabin
+T96	PER 9639 9647	his lady
+T97	PER 9446 9464	The other officers
+T98	PER 9658 9670	the Claytons
+T100	VEH 9812 9827	the little ship
+T101	FAC 10345 10349	deck
+T102	PER 10543 10557	sullen sailors
+T103	PER 10434 10445	his fellows
+T104	PER 10313 10326	Black Michael
+T105	PER 10329 10336	Clayton
+T106	PER 43 101	one who had no business to tell it to me , or to any other
+T107	PER 92 101	any other
+T1	PER 164 176	the narrator
+T3	PER 1393 1405	the dead man
+T5	PER 1429 1461	a certain young English nobleman
+T13	PER 1483 1495	John Clayton
+T108	PER 1640 1665	simple native inhabitants
+T109	GPE 1674 1688	European power
+T110	ORG 1729 1744	its native army
+T111	PER 1821 1870	the savage tribes along the Congo and the Aruwimi
+T112	LOC 1859 1870	the Aruwimi
+T113	GPE 1888 1906	the British Colony
+T114	PER 2052 2066	their families
+T115	GPE 2087 2093	Africa
+T116	PER 2126 2143	these poor blacks
+T117	PER 2529 2551	black British subjects
+T118	GPE 2571 2596	a friendly European power
+T119	FAC 2736 2751	his destination
+T120	FAC 2395 2428	a new post in British West Africa
+T121	PER 2754 2761	Clayton
+T24	PER 2916 2937	a strong , virile man
+T122	PER 2766 2912	the type of Englishman that one likes best to associate with the noblest monuments of historic achievement upon a thousand victorious battlefields
+T123	FAC 2878 2912	a thousand victorious battlefields
+T124	ORG 3227 3235	the army
+T28	PER 3678 3703	the Hon. Alice Rutherford
+T125	LOC 3820 3835	tropical Africa
+T126	PER 4236 4240	John
+T127	GPE 4309 4315	Africa
+T128	FAC 2827 2912	the noblest monuments of historic achievement upon a thousand victorious battlefields
+T29	GPE 4348 4356	Freetown
+T129	VEH 4378 4400	a small sailing vessel
+T130	VEH 4407 4414	Fuwalda
+T131	GPE 4443 4466	their final destination
+T41	PER 4478 4482	John
+T132	FAC 4639 4659	the port of Freetown
+T133	GPE 4651 4659	Freetown
+T134	VEH 4660 4692	a half dozen British war vessels
+T135	LOC 4707 4725	the south Atlantic
+T136	VEH 4747 4766	their little vessel
+T137	LOC 4832 4856	the shores of St. Helena
+T138	GPE 4846 4856	St. Helena
+T139	PER 4919 4931	all on board
+T140	VEH 5049 5060	The Fuwalda
+T141	VEH 5108 5187	a vessel of the type often seen in coastwise trade in the far southern Atlantic
+T142	LOC 5162 5187	the far southern Atlantic
+T143	PER 5214 5241	the offscourings of the sea
+T45	PER 5245 5309	unhanged murderers and cutthroats of every race and every nation
+T47	GPE 5297 5309	every nation
+T144	PER 5190 5201	their crews
+T145	PER 5373 5421	swarthy bullies , hating and hated by their crew
+T52	PER 5444 5462	a competent seaman
+T54	PER 5469 5504	a brute in his treatment of his men
+T146	PER 5641 5663	the motley aggregation
+T55	GPE 5753 5761	Freetown
+T147	PER 5762 5774	John Clayton
+T148	VEH 5828 5839	the Fuwalda
+T149	FAC 5816 5839	the deck of the Fuwalda
+T58	FAC 6186 6210	the decks of the Fuwalda
+T150	VEH 6199 6210	the Fuwalda
+T61	PER 6213 6227	the first mate
+T151	PER 6352 6406	the little party who were facing away from the sailors
+T67	PER 6643 6647	Lord
+T68	PER 6652 6666	Lady Greystoke
+T152	PER 7229 7334	a huge bear of a man , with fierce black mustachios , and a great bull neck set between massive shoulders
+T153	PER 7415 7426	the captain
+T154	PER 7494 7505	the officer
+T79	PER 7699 7747	the great mountain of muscle towering before him
+T155	PER 7851 7861	the sailor
+T156	PER 7881 7891	the sailor
+T157	PER 7944 7955	the captain
+T158	PER 8029 8036	Clayton
+T159	PER 8055 8065	the former
+T160	PER 8140 8148	the crew
+T82	PER 8218 8232	Lady Greystoke
+T84	PER 8242 8252	passengers
+T161	PER 8428 8447	an English official
+T162	PER 8454 8463	the Queen
+T163	ORG 8559 8587	England 's far-reaching navy
+T164	GPE 8559 8566	England
+T87	PER 8629 8680	the older man assisting his wounded comrade to rise
+T165	PER 8683 8746	The big fellow , who was known among his mates as Black Michael
+T166	PER 8869 8879	the fellow
+T92	PER 9169 9180	the captain
+T99	PER 9470 9497	coarse , illiterate fellows
+T167	PER 9517 9549	the villainous crew they bullied
+T95	PER 9608 9634	the polished English noble
+T169	VEH 9985 9994	the craft
+T170	PER 10080 10092	the Claytons
+T171	VEH 10122 10139	the little vessel
+T172	PER 10370 10402	the limp body of one of the crew
+T173	PER 10387 10402	one of the crew
+T174	PER 10394 10402	the crew
+T175	PER 10426 10445	four of his fellows
+T176	PER 10452 10466	the first mate
+T177	PER 10469 10501	a heavy belaying pin in his hand
+T178	PER 10523 10557	the little party of sullen sailors
+T43	PER 4506 4516	Lady Alice
+T179	PER 1498 1502	Lord
+T180	PER 4264 4268	Lady
+T181	PER 4243 4247	Lord
+T182	PER 4485 4489	Lord
+T183	PER 6301 6305	Lady
+T184	PER 7913 7917	Lord
+T185	PER 4846 4849	St.
+T186	PER 6652 6656	Lady
+T187	PER 8218 8222	Lady
+T188	PER 4506 4510	Lady
+T168	PER 6150 6153	man
+T189	PER 4873 4882	the world

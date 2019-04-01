@@ -1,0 +1,102 @@
+T0	PER 5 25	a rather elderly man
+T1	PER 292 302	scriveners
+T2	PER 194 197	men
+T4	PER 429 451	good-natured gentlemen
+T5	PER 470 487	sentimental souls
+T6	PER 532 552	all other scriveners
+T8	PER 669 687	other law-copyists
+T9	PER 725 733	Bartleby
+T10	PER 844 852	this man
+T12	PER 1202 1215	the scrivener
+T13	PER 1442 1483	the chief character about to be presented
+T15	PER 2064 2089	an eminently _ safe _ man
+T16	PER 2120 2165	a personage little given to poetic enthusiasm
+T17	PER 2363 2388	the late John Jacob Astor
+T24	FAC 3357 3363	stairs
+T25	FAC 3492 3504	the building
+T26	PER 3610 3628	landscape painters
+T27	PER 3965 3992	all near-sighted spectators
+T28	FAC 4078 4103	the surrounding buildings
+T30	PER 4297 4308	two persons
+T32	PER 4635 4659	their respective persons
+T33	PER 4587 4602	my three clerks
+T34	PER 4663 4673	characters
+T35	PER 5423 5429	Turkey
+T36	PER 6606 6629	an elderly man like him
+T38	PER 7415 7429	a man of peace
+T39	FAC 7789 7793	home
+T41	FAC 8023 8031	the room
+T42	PER 8164 8170	Turkey
+T43	PER 8210 8229	your right-hand man
+T44	PER 8356 8363	the foe
+T48	PER 9306 9320	a mere copyist
+T49	PER 9832 9839	Nippers
+T50	FAC 10248 10261	a Dutch house
+T51	PER 10508 10515	Nippers
+T52	PER 10790 10801	his clients
+T53	PER 11154 11164	his client
+T57	PER 11963 11985	a dependent Englishman
+T58	FAC 12036 12044	the room
+T59	PER 12180 12207	a man of so small an income
+T60	PER 12307 12314	Nippers
+T61	PER 12401 12407	Turkey
+T62	PER 12580 12586	Turkey
+T64	PER 12992 13020	a man whom prosperity harmed
+T65	PER 272 288	the law-copyists
+T3	PER 587 657	Bartleby , who was a scrivener of the strangest I ever saw or heard of
+T7	PER 897 905	Bartleby
+T66	PER 1074 1082	Bartleby
+T67	ORG 1311 1319	business
+T68	FAC 1325 1333	chambers
+T69	LOC 1340 1360	general surroundings
+T11	PER 1289 1305	my _ employees _
+T70	PER 1502 1622	a man who , from his youth upwards , has been filled with a profound conviction that the easiest way of life is the best
+T71	PER 1859 1865	a jury
+T14	PER 1813 1908	those unambitious lawyers who never addresses a jury , or in any way draws down public applause
+T72	PER 1806 1908	one of those unambitious lawyers who never addresses a jury , or in any way draws down public applause
+T73	PER 1984 1992	rich men
+T75	PER 2564 2589	the late John Jacob Astor
+T19	GPE 2756 2777	the State of New York
+T18	FAC 3375 3386	Wall-street
+T20	FAC 3337 3348	My chambers
+T22	FAC 3451 3523	a spacious sky-light shaft , penetrating the building from top to bottom
+T23	FAC 3688 3699	my chambers
+T76	FAC 4110 4121	my chambers
+T77	PER 4280 4288	Bartleby
+T31	PER 4312 4320	copyists
+T29	PER 4344 4359	a promising lad
+T78	PER 4363 4376	an office-boy
+T79	PER 4387 4393	Turkey
+T80	PER 4405 4412	Nippers
+T81	PER 4423 4433	Ginger Nut
+T82	PER 4676 4682	Turkey
+T83	PER 4687 4733	a short , pursy Englishman of about my own age
+T84	PER 5088 5284	the proprietor of the face , which gaining its meridian with the sun , seemed to set with it , to rise , culminate , and decline the following day , with the like regularity and undiminished glory
+T85	PER 6670 6698	a most valuable person to me
+T86	PER 6757 6790	the quickest , steadiest creature
+T37	PER 7045 7106	the civilest , nay , the blandest and most reverential of men
+T87	FAC 7797 7809	his lodgings
+T40	PER 8502 8505	sir
+T45	PER 8557 8560	sir
+T46	PER 9014 9021	Nippers
+T88	PER 9052 9157	a whiskered , sallow , and , upon the whole , rather piratical-looking young man of about five and twenty
+T47	PER 10218 10274	a man using the steep roof of a Dutch house for his desk
+T89	PER 10724 10801	certain ambiguous-looking fellows in seedy coats , whom he called his clients
+T90	PER 10873 10890	a ward-politician
+T91	PER 10938 10950	the Justices
+T92	FAC 10998 11007	the Tombs
+T93	FAC 10938 10959	the Justices ' courts
+T94	PER 11057 11164	one individual who called upon him at my chambers , and who , with a grand air , he insisted was his client
+T95	PER 11185 11190	a dun
+T96	PER 11293 11300	Nippers
+T97	PER 11336 11359	a very useful man to me
+T98	PER 11617 11623	Turkey
+T99	FAC 11730 11743	eating-houses
+T55	PER 12331 12337	Turkey
+T56	PER 12939 12945	Turkey
+T21	PER 2101 2117	John Jacob Astor
+T63	PER 2092 2100	The late
+T54	PER 11308 11322	his compatriot
+T74	PER 11323 11329	Turkey
+T100	PER 8718 8721	sir
+T101	PER 8151 8154	sir

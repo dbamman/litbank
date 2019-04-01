@@ -1,0 +1,138 @@
+T0	GPE 144 150	Vienna
+T1	VEH 206 211	train
+T2	GPE 96 102	Munich
+T3	FAC 354 365	the streets
+T4	VEH 308 317	the train
+T5	FAC 397 408	the station
+T6	LOC 535 543	the West
+T7	LOC 557 565	the East
+T8	PER 998 1008	the waiter
+T10	GPE 1428 1440	Transylvania
+T12	PER 1557 1583	a nobleman of that country
+T13	LOC 1740 1777	the midst of the Carpathian mountains
+T14	GPE 1598 1619	the district he named
+T16	GPE 1713 1721	Moldavia
+T17	LOC 1886 1926	the exact locality of the Castle Dracula
+T20	GPE 2048 2084	the post town named by Count Dracula
+T21	LOC 2409 2417	the West
+T23	PER 2424 2432	Szekelys
+T24	PER 2300 2319	Saxons in the South
+T25	LOC 2449 2454	North
+T26	LOC 2310 2319	the South
+T27	GPE 2247 2259	Transylvania
+T28	LOC 2436 2444	the East
+T29	PER 2398 2405	Magyars
+T30	PER 2533 2537	Huns
+T31	PER 2518 2524	Attila
+T32	PER 2635 2643	the Huns
+T33	PER 2566 2577	the Magyars
+T36	FAC 3736 3747	the station
+T37	VEH 3636 3645	the train
+T42	FAC 4365 4378	every station
+T43	GPE 4536 4542	France
+T44	GPE 4501 4505	home
+T45	GPE 4547 4554	Germany
+T46	PER 4651 4660	The women
+T47	PER 5489 5497	brigands
+T49	LOC 5717 5729	the frontier
+T53	PER 6413 6443	a cheery-looking elderly woman
+T56	PER 6635 6654	The Herr Englishman
+T59	GPE 7160 7166	London
+T61	PER 7305 7316	my landlord
+T63	VEH 7393 7402	the coach
+T65	PER 7689 7721	the old lady who had received me
+T66	FAC 7934 7944	his castle
+T67	PER 7888 7901	Count Dracula
+T69	FAC 8262 8269	my room
+T70	PER 8238 8250	the old lady
+T71	PER 8327 8337	young Herr
+T73	PER 8956 8966	St. George
+T76	PER 9776 9796	an English Churchman
+T77	FAC 10113 10121	the room
+T78	PER 10073 10084	your mother
+T79	GPE 10342 10352	this place
+T80	PER 10285 10297	the old lady
+T81	VEH 10542 10551	the coach
+T82	PER 10 25	JONATHAN HARKER
+T83	GPE 75 83	Bistritz
+T84	GPE 231 241	Buda-Pesth
+T85	GPE 248 265	a wonderful place
+T86	FAC 568 620	the most western of splendid bridges over the Danube
+T87	LOC 610 620	the Danube
+T88	GPE 769 781	Klausenburgh
+T89	FAC 816 832	the Hotel Royale
+T90	PER 981 985	Mina
+T91	LOC 1138 1153	the Carpathians
+T9	GPE 1318 1324	London
+T92	FAC 1341 1359	the British Museum
+T11	FAC 1406 1417	the library
+T93	GPE 1571 1583	that country
+T94	LOC 1626 1657	the extreme east of the country
+T95	GPE 1646 1657	the country
+T15	GPE 1683 1695	three states
+T96	GPE 1698 1710	Transylvania
+T97	GPE 1726 1734	Bukovina
+T98	LOC 1780 1833	one of the wildest and least known portions of Europe
+T99	GPE 1827 1833	Europe
+T100	FAC 1908 1926	the Castle Dracula
+T101	GPE 1953 1965	this country
+T102	GPE 2037 2045	Bistritz
+T18	PER 2071 2084	Count Dracula
+T19	GPE 2090 2115	a fairly well-known place
+T103	PER 2219 2223	Mina
+T104	GPE 2229 2259	the population of Transylvania
+T105	PER 2342 2354	the Wallachs
+T22	PER 2365 2395	the descendants of the Dacians
+T106	PER 2384 2395	the Dacians
+T107	PER 2474 2484	the latter
+T108	GPE 2588 2599	the country
+T109	LOC 2744 2759	the Carpathians
+T110	LOC 2776 2824	the centre of some sort of imaginative whirlpool
+T111	PER 2892 2901	the Count
+T34	VEH 3772 3784	the carriage
+T35	VEH 3901 3911	the trains
+T38	GPE 3939 3944	China
+T112	GPE 3988 4036	a country which was full of beauty of every kind
+T113	GPE 4056 4068	little towns
+T114	FAC 4072 4135	castles on the top of steep hills such as we see in old missals
+T115	LOC 4083 4105	the top of steep hills
+T116	LOC 4158 4176	rivers and streams
+T39	PER 4390 4406	groups of people
+T40	PER 4419 4425	crowds
+T41	PER 4485 4505	the peasants at home
+T117	PER 4509 4554	those I saw coming through France and Germany
+T118	PER 5009 5020	the Slovaks
+T119	PER 5468 5497	old Oriental band of brigands
+T120	GPE 5645 5653	Bistritz
+T48	GPE 5665 5693	a very interesting old place
+T121	LOC 5737 5751	the Borgo Pass
+T122	GPE 5771 5779	Bukovina
+T123	PER 6059 6072	13,000 people
+T50	PER 6143 6156	Count Dracula
+T51	FAC 6182 6204	the Golden Krone Hotel
+T52	GPE 6335 6346	the country
+T54	PER 6680 6695	Jonathan Harker
+T55	PER 6738 6810	an elderly man in white shirt-sleeves , who had followed her to the door
+T124	PER 6869 6878	My Friend
+T125	LOC 6895 6910	the Carpathians
+T126	GPE 7014 7022	Bukovina
+T58	LOC 7060 7074	the Borgo Pass
+T127	VEH 7075 7086	my carriage
+T128	GPE 7227 7244	my beautiful land
+T129	LOC 7339 7348	the Count
+T64	PER 7678 7686	his wife
+T68	PER 7959 7967	his wife
+T72	PER 9914 9969	an old lady meaning so well and in such a state of mind
+T74	VEH 10187 10196	the coach
+T75	PER 10485 10489	Mina
+T60	PER 7249 7260	Your friend
+T130	PER 7265 7272	DRACULA
+T131	PER 7888 7893	Count
+T132	PER 8956 8959	St.
+T133	PER 2071 2076	Count
+T134	PER 6143 6148	Count
+T135	GPE 1487 1498	the country
+T137	LOC 9065 9074	the world
+T136	LOC 2700 2709	the world
+T138	PER 8130 8142	any one else
+T139	FAC 784 788	Here

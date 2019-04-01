@@ -1,0 +1,135 @@
+T0	FAC 398 405	streets
+T2	FAC 411 420	buildings
+T3	PER 623 628	women
+T4	LOC 724 733	the world
+T6	PER 845 852	traders
+T7	PER 1101 1119	Terry O. Nicholson
+T8	PER 1090 1097	friends
+T9	VEH 1675 1680	boats
+T10	PER 1787 1792	Terry
+T11	PER 1833 1843	a botanist
+T12	PER 1795 1808	Jeff Margrave
+T15	PER 2159 2164	Terry
+T16	PER 2226 2230	Jeff
+T17	PER 2503 2507	Jeff
+T18	PER 2478 2486	a doctor
+T19	LOC 2757 2770	a great river
+T20	PER 3020 3030	our guides
+T21	PER 3124 3165	a really good interpreter we took with us
+T23	PER 3475 3488	these savages
+T27	PER 3775 3788	girl children
+T29	PER 4014 4023	All Women
+T30	FAC 3984 3994	Big Houses
+T33	PER 4159 4167	the boys
+T34	FAC 4397 4401	home
+T35	PER 4733 4782	a rather superior fellow with quick , bright eyes
+T36	LOC 4702 4712	that river
+T37	PER 4716 4730	our last guide
+T38	LOC 4843 4854	short river
+T39	LOC 4811 4824	another river
+T40	LOC 5042 5051	the river
+T42	PER 5232 5237	Terry
+T43	PER 5286 5293	The man
+T44	PER 5385 5390	Terry
+T45	PER 6031 6036	Terry
+T46	LOC 6186 6205	the circling forest
+T47	PER 6243 6252	Our guide
+T48	VEH 6266 6271	boats
+T49	PER 6706 6711	Terry
+T50	LOC 6857 6867	the cliffs
+T51	PER 6920 6929	the guide
+T52	LOC 6949 6958	his river
+T53	PER 7101 7110	The guide
+T54	PER 7166 7171	Terry
+T55	PER 7285 7294	The guide
+T57	PER 8126 8135	The guide
+T59	PER 8487 8494	the man
+T60	PER 8576 8581	women
+T61	PER 8608 8617	all girls
+T62	PER 8585 8591	no men
+T64	PER 8749 8752	men
+T65	PER 8832 8841	the guide
+T66	PER 9051 9056	Terry
+T67	PER 9154 9180	those cocky old professors
+T68	FAC 9196 9200	home
+T69	GPE 350 360	the cities
+T70	FAC 365 370	parks
+T71	FAC 452 474	those gorgeous gardens
+T1	PER 510 519	the women
+T72	GPE 754 766	that country
+T5	PER 807 839	some self-appointed missionaries
+T73	PER 858 883	land-greedy expansionists
+T74	PER 1075 1085	classmates
+T75	PER 1146 1154	Old Nick
+T76	PER 1178 1191	Jeff Margrave
+T77	PER 1202 1218	Vandyck Jennings
+T78	PER 1365 1370	Terry
+T79	VEH 1685 1694	motorcars
+T80	PER 1724 1734	our airmen
+T81	PER 1712 1734	the best of our airmen
+T82	PER 1705 1734	one of the best of our airmen
+T83	PER 1862 1871	his folks
+T14	PER 1892 1900	a doctor
+T84	PER 2571 2576	Terry
+T85	PER 2656 2661	Terry
+T86	LOC 2705 2770	the thousand tributaries and enormous hinterland of a great river
+T87	PER 3217 3239	these scattered tribes
+T88	LOC 3307 3313	rivers
+T89	LOC 3316 3321	lakes
+T90	LOC 3324 3332	morasses
+T91	LOC 3339 3352	dense forests
+T92	LOC 3416 3440	the big mountains beyond
+T93	LOC 3375 3440	an unexpected long spur running out from the big mountains beyond
+T22	GPE 3507 3561	a strange and terrible Woman Land in the high distance
+T24	PER 3747 3750	men
+T26	PER 3765 3770	women
+T25	GPE 3717 3756	this strange country where no men lived
+T28	PER 3867 3874	any man
+T31	PER 3929 3952	some brave investigator
+T94	LOC 3968 3981	a Big Country
+T95	PER 3997 4010	Plenty People
+T32	PER 4118 4121	men
+T96	FAC 4480 4499	The main encampment
+T97	LOC 4539 4554	the main stream
+T98	LOC 4580 4595	the main stream
+T99	LOC 4507 4595	a spit of land running out into the main stream , or what we thought was the main stream
+T41	LOC 5088 5093	River
+T100	PER 5128 5133	Terry
+T101	PER 5165 5175	the fellow
+T102	PER 5211 5214	Van
+T103	PER 5494 5498	Jeff
+T104	PER 5828 5838	the savage
+T105	LOC 5930 5992	a swampy patch we never should have found our way across alone
+T106	LOC 5889 5925	a desperate tangle of wood and water
+T107	LOC 6143 6164	a sort of marshy lake
+T108	FAC 6295 6303	our camp
+T109	LOC 6564 6583	a wooded promontory
+T110	LOC 6592 6617	a quite different country
+T111	LOC 6638 6664	mountains , steep and bare
+T112	LOC 6669 6701	One of those long easterly spurs
+T113	LOC 6821 6829	the lake
+T114	LOC 7068 7077	the cliff
+T115	LOC 7010 7077	a narrow vertical cataract from an opening in the face of the cliff
+T116	LOC 7213 7222	the hills
+T117	LOC 7364 7433	a quiet marginal pool where there were smears of red along the border
+T118	PER 7456 7461	Terry
+T119	LOC 7657 7665	the fall
+T120	LOC 7689 7704	the steep banks
+T56	LOC 7722 7779	the pool that foamed and boiled beneath the falling water
+T121	LOC 8154 8162	the bank
+T58	GPE 8382 8395	Woman Country
+T122	LOC 8566 8581	a land of women
+T63	PER 8633 8636	men
+T123	PER 8709 8714	Terry
+T124	LOC 8800 8813	the waterfall
+T125	LOC 8925 8941	that sheer cliff
+T126	PER 8970 8979	our party
+T127	PER 9095 9102	fellows
+T13	PER 1824 1830	a poet
+T128	PER 533 539	Nobody
+T129	PER 4030 4041	no one else
+T130	LOC 3881 3886	there
+T131	LOC 6286 6291	there
+T132	LOC 7782 7786	Here
+T133	LOC 8365 8377	the cataract
+T134	LOC 8470 8475	there

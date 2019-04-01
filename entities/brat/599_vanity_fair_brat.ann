@@ -1,0 +1,236 @@
+T0	PER 286 300	a fat coachman
+T1	PER 148 162	Miss Pinkerton
+T2	VEH 212 232	a large family coach
+T3	PER 178 190	young ladies
+T4	PER 503 517	Miss Pinkerton
+T5	FAC 648 675	the stately old brick house
+T6	PER 419 435	the fat coachman
+T7	PER 841 850	that lady
+T8	PER 684 702	the acute observer
+T9	PER 748 782	good-natured Miss Jemima Pinkerton
+T10	PER 920 931	Miss Jemima
+T12	PER 881 892	Mrs. Sedley
+T13	PER 993 1005	the coachman
+T14	PER 944 961	the black servant
+T15	PER 1098 1109	Miss Sedley
+T16	PER 1147 1161	Miss Pinkerton
+T17	PER 1276 1288	Mrs. Chapone
+T18	PER 1255 1296	the correspondent of Mrs. Chapone herself
+T20	PER 1301 1310	The girls
+T21	PER 1382 1393	Miss Jemima
+T23	PER 1588 1599	Mrs. Sedley
+T24	PER 1671 1682	Miss Jemima
+T25	PER 1709 1720	Miss Sedley
+T26	PER 1911 1919	his lady
+T27	PER 1839 1860	John Sedley , Esquire
+T28	PER 1927 1938	Miss Jemima
+T30	PER 1983 1997	Miss Pinkerton
+T31	PER 2463 2477	Miss Pinkerton
+T32	PER 2295 2305	her pupils
+T33	PER 2280 2305	the parents of her pupils
+T34	PER 2383 2395	her daughter
+T35	PER 2236 2250	Miss Pinkerton
+T36	PER 2093 2103	her pupils
+T37	PER 2188 2203	poor Miss Birch
+T38	PER 2368 2378	Mrs. Birch
+T39	PER 2319 2325	Jemima
+T40	PER 2524 2538	Miss Pinkerton
+T41	PER 2724 2742	Miss Amelia Sedley
+T42	PER 2746 2757	her parents
+T43	PER 3086 3101	her instructors
+T44	PER 2890 2919	the young English gentlewoman
+T47	PER 3320 3331	her friends
+T48	PER 3612 3639	every young lady of FASHION
+T49	PER 3687 3698	Miss Sedley
+T50	PER 3830 3856	the admirable Mrs. Chapone
+T51	PER 3881 3892	Miss Amelia
+T52	PER 4099 4109	Miss Sharp
+T53	PER 3924 3938	her companions
+T54	PER 4122 4133	Miss Sedley
+T55	PER 4170 4180	Miss Sharp
+T56	FAC 4192 4206	Russell Square
+T58	PER 4375 4389	Miss Pinkerton
+T59	PER 4546 4558	her scholars
+T61	PER 4678 4692	Miss Pinkerton
+T62	PER 4722 4760	the late revered Doctor Samuel Johnson
+T63	PER 4653 4665	a young lady
+T65	PER 4827 4846	this majestic woman
+T66	PER 4775 4792	the Lexicographer
+T67	PER 5012 5023	Miss Jemima
+T68	PER 4949 4965	her elder sister
+T69	PER 5100 5114	Miss Pinkerton
+T72	PER 5446 5456	her sister
+T73	PER 5317 5328	Becky Sharp
+T74	PER 5465 5476	Becky Sharp
+T77	FAC 5622 5632	the closet
+T78	PER 5743 5753	poor Becky
+T79	PER 5805 5816	Miss Sedley
+T80	PER 5842 5856	Miss Pinkerton
+T81	PER 5902 5913	poor Jemima
+T82	PER 5963 5974	Miss Sedley
+T83	GPE 6001 6007	London
+T84	PER 6045 6055	Miss Sharp
+T85	PER 5963 5982	Miss Sedley 's papa
+T87	PER 6089 6103	Miss Pinkerton
+T88	PER 6677 6686	the pupil
+T89	PER 6490 6503	a good parent
+T90	PER 6514 6518	wife
+T91	PER 6524 6531	husband
+T92	PER 6506 6511	child
+T93	PER 6423 6439	the stone cutter
+T94	PER 6353 6361	a person
+T95	PER 6229 6245	schoolmistresses
+T96	PER 6730 6758	the disinterested instructor
+T97	PER 6940 6970	pompous old Minerva of a woman
+T98	PER 7032 7041	her pupil
+T99	PER 6963 6970	a woman
+T100	PER 6861 6875	Miss Pinkerton
+T101	PER 6767 6785	Miss Amelia Sedley
+T102	PER 7516 7544	the young ladies in the Mall
+T104	PER 7136 7146	Hillisberg
+T105	PER 7391 7420	the poor girl in the scullery
+T107	PER 7427 7450	the one-eyed tart-woman
+T108	PER 7555 7588	twelve intimate and bosom friends
+T109	PER 7596 7624	the twenty-four young ladies
+T110	PER 7708 7719	Lord Dexter
+T111	PER 7952 7961	Dr. Floss
+T112	PER 7802 7846	the rich woolly-haired mulatto from St. Kitt
+T114	GPE 7838 7846	St. Kitt
+T116	PER 8004 8018	Miss Pinkerton
+T117	PER 8104 8113	that lady
+T118	PER 8141 8152	Miss Jemima
+T119	PER 8204 8210	Amelia
+T121	PER 8248 8258	her sister
+T122	PER 8431 8444	Honest Jemima
+T123	PER 8557 8565	servants
+T127	PER 9105 9137	villains of the most sombre sort
+T128	PER 9164 9223	a constant companion so guileless and good-natured a person
+T129	PER 9411 9420	a heroine
+T133	PER 9281 9291	her person
+T135	PER 10194 10205	Miss Sedley
+T136	PER 10158 10166	teachers
+T137	PER 10142 10153	all masters
+T139	PER 9990 10020	that austere and godlike woman
+T140	FAC 10 23	Chiswick Mall
+T141	FAC 148 190	Miss Pinkerton 's academy for young ladies
+T142	FAC 196 209	Chiswick Mall
+T143	PER 371 386	A black servant
+T144	FAC 841 870	that lady 's own drawing-room
+T11	VEH 881 901	Mrs. Sedley 's coach
+T145	PER 904 910	sister
+T146	PER 936 941	Sambo
+T147	PER 1125 1136	Miss Jemima
+T148	PER 1172 1190	that majestic lady
+T149	PER 1193 1221	the Semiramis of Hammersmith
+T150	PER 1224 1252	the friend of Doctor Johnson
+T19	PER 1238 1252	Doctor Johnson
+T151	FAC 1210 1221	Hammersmith
+T152	PER 1363 1369	sister
+T22	PER 1447 1460	sister Jemima
+T153	PER 1637 1643	Amelia
+T29	PER 1970 1980	her sister
+T154	FAC 2586 2594	The Mall
+T155	GPE 2597 2605	Chiswick
+T156	PER 2621 2626	MADAM
+T157	FAC 2667 2675	the Mall
+T158	PER 2763 2854	a young lady not unworthy to occupy a fitting position in their polished and refined circle
+T45	PER 3010 3033	the amiable Miss Sedley
+T159	PER 3157 3193	her AGED and her YOUTHFUL companions
+T46	PER 3783 3806	THE GREAT LEXICOGRAPHER
+T160	FAC 3870 3878	the Mall
+T161	PER 3973 3985	her mistress
+T162	PER 4030 4035	Madam
+T163	PER 4038 4070	Your most obliged humble servant
+T164	PER 4073 4090	BARBARA PINKERTON
+T165	PER 4233 4283	The family of distinction with whom she is engaged
+T60	PER 4428 4439	Miss Sedley
+T57	FAC 4585 4593	the Mall
+T166	FAC 4678 4702	Miss Pinkerton 's school
+T167	FAC 4708 4716	the Mall
+T64	PER 5159 5165	Jemima
+T70	PER 5251 5262	Miss Jemima
+T71	PER 5272 5286	Miss Pinkerton
+T168	PER 5342 5348	Jemima
+T169	PER 5502 5513	MISS JEMIMA
+T75	PER 5528 5542	Miss Pinkerton
+T76	PER 5699 5705	sister
+T86	PER 6014 6034	a man of some wealth
+T170	PER 6060 6077	an articled pupil
+T171	FAC 6296 6306	churchyard
+T172	PER 6471 6487	a good Christian
+T173	PER 6558 6579	a disconsolate family
+T174	PER 6790 6827	a young lady of this singular species
+T103	PER 7103 7118	Mrs. Billington
+T175	PER 7150 7157	Parisot
+T176	PER 7332 7359	everybody who came near her
+T177	PER 7367 7374	Minerva
+T178	FAC 7408 7420	the scullery
+T106	PER 7427 7462	the one-eyed tart-woman 's daughter
+T179	FAC 7536 7544	the Mall
+T113	PER 7632 7651	envious Miss Briggs
+T180	PER 7693 7705	Miss Saltire
+T181	PER 7708 7736	Lord Dexter 's granddaughter
+T182	PER 7788 7799	Miss Swartz
+T183	PER 7863 7869	Amelia
+T115	PER 8311 8357	the heiress ( who paid double ) of St. Kitt 's
+T120	GPE 8346 8357	St. Kitt 's
+T184	PER 8412 8428	parlour-boarders
+T124	PER 8775 8791	her awful sister
+T125	PER 8892 8898	Amelia
+T185	PER 8979 9001	a dear little creature
+T126	PER 9240 9249	a heroine
+T130	PER 9889 9900	any persons
+T131	PER 9973 9987	Miss Pinkerton
+T132	ORG 6606 6642	academies of the male and female sex
+T186	PER 148 152	Miss
+T187	PER 503 507	Miss
+T188	PER 920 924	Miss
+T189	PER 881 885	Mrs.
+T190	PER 1098 1102	Miss
+T191	PER 1147 1151	Miss
+T192	PER 1276 1280	Mrs.
+T193	PER 1382 1386	Miss
+T194	PER 1588 1592	Mrs.
+T195	PER 1671 1675	Miss
+T196	PER 1709 1713	Miss
+T197	PER 1927 1931	Miss
+T198	PER 1983 1987	Miss
+T199	PER 2463 2467	Miss
+T200	PER 2236 2240	Miss
+T201	PER 2368 2372	Mrs.
+T202	PER 2524 2528	Miss
+T203	PER 2724 2728	Miss
+T204	PER 3687 3691	Miss
+T205	PER 3881 3885	Miss
+T206	PER 4099 4103	Miss
+T207	PER 4122 4126	Miss
+T208	PER 4170 4174	Miss
+T209	PER 4375 4379	Miss
+T210	PER 4678 4682	Miss
+T211	PER 5012 5016	Miss
+T212	PER 5100 5104	Miss
+T213	PER 5805 5809	Miss
+T214	PER 5842 5846	Miss
+T215	PER 5963 5967	Miss
+T216	PER 6045 6049	Miss
+T217	PER 6089 6093	Miss
+T218	PER 6861 6865	Miss
+T219	PER 6767 6771	Miss
+T220	PER 7708 7712	Lord
+T221	PER 7952 7955	Dr.
+T222	PER 7838 7841	St.
+T223	PER 8004 8008	Miss
+T224	PER 8141 8145	Miss
+T225	PER 10194 10198	Miss
+T226	PER 1125 1129	Miss
+T227	PER 1238 1244	Doctor
+T228	PER 1447 1453	sister
+T229	PER 4428 4432	Miss
+T230	PER 5251 5255	Miss
+T231	PER 5272 5276	Miss
+T232	PER 5502 5506	MISS
+T233	PER 5528 5532	Miss
+T234	PER 7103 7107	Mrs.
+T235	PER 7693 7697	Miss
+T236	PER 7788 7792	Miss
+T237	PER 9973 9977	Miss

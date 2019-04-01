@@ -1,0 +1,177 @@
+T0	PER 37 48	The Signora
+T2	FAC 232 243	a courtyard
+T4	PER 289 298	a Cockney
+T5	PER 358 369	the Signora
+T8	ORG 728 746	the English church
+T11	PER 1068 1081	Miss Bartlett
+T12	FAC 1137 1184	The rooms the Signora promised us in her letter
+T13	PER 1147 1158	the Signora
+T14	PER 1219 1230	The Signora
+T16	PER 1315 1328	Miss Bartlett
+T17	FAC 1565 1574	the front
+T18	FAC 1540 1574	The first vacant room in the front
+T20	PER 1671 1675	Lucy
+T21	PER 1807 1818	Your mother
+T22	PER 1886 1896	The ladies
+T23	PER 2056 2072	their neighbours
+T25	PER 2290 2303	Miss Bartlett
+T26	PER 2486 2498	the intruder
+T28	PER 3091 3102	the old man
+T31	PER 3164 3177	Miss Bartlett
+T32	FAC 3279 3288	our rooms
+T33	PER 3353 3360	tourist
+T34	PER 3421 3434	Miss Bartlett
+T36	PER 3576 3587	the old man
+T37	PER 3732 3742	Her cousin
+T38	PER 3827 3830	men
+T39	PER 3909 3916	his son
+T40	PER 3877 3892	a naughty child
+T41	FAC 3993 4002	the rooms
+T42	PER 4012 4019	the son
+T43	PER 4076 4086	the ladies
+T44	PER 4286 4309	these ill-bred tourists
+T46	PER 4515 4528	Miss Bartlett
+T47	PER 4494 4505	the old man
+T48	PER 4649 4662	Miss Bartlett
+T52	FAC 5452 5460	the room
+T55	FAC 5809 5818	the rooms
+T56	PER 5832 5845	Miss Bartlett
+T57	PER 5893 5902	Mr. Beebe
+T59	PER 6147 6157	the ladies
+T61	PER 6435 6445	her cousin
+T62	PER 6421 6431	the waiter
+T63	PER 6559 6575	Miss Honeychurch
+T64	PER 6784 6790	mother
+T66	PER 6622 6635	Miss Bartlett
+T67	FAC 6599 6612	Summer Street
+T68	GPE 6842 6857	Tunbridge Wells
+T69	PER 6902 6911	Mr. Beebe
+T70	PER 6944 6957	the clergyman
+T71	FAC 6974 6985	the Rectory
+T72	FAC 6989 7002	Summer Street
+T73	FAC 7045 7074	such a charming neighbourhood
+T74	FAC 7114 7123	our house
+T76	PER 7144 7153	Mr. Beebe
+T77	FAC 7261 7271	The church
+T79	PER 7326 7335	Mr. Beebe
+T81	PER 7545 7553	the girl
+T82	GPE 7571 7579	Florence
+T83	PER 7685 7695	a newcomer
+T87	PER 8003 8014	your ladies
+T88	PER 8038 8047	That lady
+T89	PER 8078 8091	Miss Bartlett
+T90	PER 8095 8105	her cousin
+T91	PER 8292 8303	the beggars
+T92	GPE 8355 8364	the place
+T93	FAC 8388 8409	The Pension Bertolini
+T94	PER 8499 8510	kind ladies
+T95	PER 8572 8587	the clever lady
+T96	GPE 8633 8643	That place
+T97	PER 8763 8789	The young man named George
+T98	PER 8783 8789	George
+T99	PER 8801 8816	the clever lady
+T102	PER 9091 9108	the two outsiders
+T1	PER 83 96	Miss Bartlett
+T103	FAC 138 176	south rooms with a view close together
+T3	FAC 205 266	north rooms , looking into a courtyard , and a long way apart
+T104	PER 318 322	Lucy
+T6	GPE 407 413	London
+T105	PER 448 462	English people
+T7	PER 573 591	the English people
+T106	PER 614 628	the late Queen
+T9	PER 633 655	the late Poet Laureate
+T107	PER 673 691	the English people
+T108	PER 749 768	Rev. Cuthbert Eager
+T109	PER 839 848	Charlotte
+T10	GPE 895 901	London
+T110	LOC 1126 1134	the Arno
+T111	LOC 1208 1216	the Arno
+T15	PER 1401 1405	Lucy
+T112	PER 1441 1450	Charlotte
+T113	LOC 1508 1516	the Arno
+T19	PER 1608 1621	Miss Bartlett
+T114	PER 1671 1685	Lucy ’s mother
+T115	PER 1844 1848	Lucy
+T116	PER 2048 2072	Some of their neighbours
+T117	PER 2115 2167	one of the ill-bred people whom one does meet abroad
+T118	PER 2100 2111	one of them
+T24	PER 2554 2624	an old man , of heavy build , with a fair , shaven face and large eyes
+T27	PER 2741 2754	Miss Bartlett
+T29	PER 3075 3081	my son
+T30	PER 3119 3125	George
+T120	PER 3191 3195	Lucy
+T121	PER 3404 3418	the new-comers
+T122	PER 3333 3360	The better class of tourist
+T35	PER 3725 3729	Lucy
+T123	PER 3796 3801	Women
+T124	PER 3930 3936	George
+T125	PER 4145 4149	Lucy
+T45	FAC 4374 4379	rooms
+T126	PER 4787 4803	any one so gross
+T49	PER 4913 4974	two little old ladies , who were sitting further up the table
+T127	PER 5136 5140	Lucy
+T128	PER 5209 5213	Lucy
+T129	PER 5240 5264	very odd people opposite
+T130	PER 5287 5291	dear
+T131	FAC 5294 5306	This pension
+T132	FAC 2332 2341	a pension
+T50	PER 5483 5612	a clergyman , stout but attractive , who hurried forward to take his place at the table , cheerfully apologizing for his lateness
+T51	PER 5615 5619	Lucy
+T53	PER 5721 5730	Mr. Beebe
+T54	PER 5766 5775	Charlotte
+T133	PER 5943 5956	Miss Bartlett
+T58	PER 5961 5977	Miss Honeychurch
+T134	GPE 5992 6007	Tunbridge Wells
+T135	ORG 6037 6049	St. Peter ’s
+T136	PER 6024 6049	the Vicar of St. Peter ’s
+T60	PER 6076 6127	The clergyman , who had the air of one on a holiday
+T137	PER 6291 6295	Lucy
+T138	PER 6333 6386	the girl , who was in a state of spiritual starvation
+T139	FAC 6503 6516	Summer Street
+T140	FAC 6585 6612	the parish of Summer Street
+T65	FAC 7127 7139	Windy Corner
+T75	PER 7173 7179	mother
+T78	PER 7203 7213	my brother
+T141	PER 7305 7309	Lucy
+T142	PER 7430 7434	Lucy
+T80	PER 7482 7495	Miss Bartlett
+T143	GPE 7643 7648	there
+T144	GPE 7831 7838	Fiesole
+T145	GPE 7854 7864	Settignano
+T85	PER 7950 7959	Mr. Beebe
+T86	GPE 8026 8031	Prato
+T146	PER 8193 8199	People
+T147	VEH 8253 8271	the electric trams
+T148	GPE 8601 8606	Prato
+T149	GPE 8625 8630	Prato
+T100	PER 8877 8887	his father
+T101	PER 8901 8905	Lucy
+T150	FAC 21 34	The Bertolini
+T151	ORG 777 781	Oxon
+T152	PER 1068 1072	Miss
+T153	PER 1315 1319	Miss
+T154	PER 2290 2294	Miss
+T155	PER 3164 3168	Miss
+T156	PER 3421 3425	Miss
+T157	PER 4515 4519	Miss
+T158	PER 4649 4653	Miss
+T159	PER 5832 5836	Miss
+T160	PER 5893 5896	Mr.
+T161	PER 6559 6563	Miss
+T162	PER 6622 6626	Miss
+T163	PER 6902 6905	Mr.
+T164	PER 7144 7147	Mr.
+T165	PER 7326 7329	Mr.
+T166	PER 8078 8082	Miss
+T167	PER 83 87	Miss
+T168	PER 1608 1612	Miss
+T169	PER 2741 2745	Miss
+T170	PER 5721 5724	Mr.
+T171	PER 5943 5947	Miss
+T172	PER 5961 5965	Miss
+T173	PER 7482 7486	Miss
+T174	PER 7950 7953	Mr.
+T119	PER 2342 2348	people
+T175	LOC 6488 6497	the world
+T176	PER 9003 9010	any one
+T177	FAC 196 200	here

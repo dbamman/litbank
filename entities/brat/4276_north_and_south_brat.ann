@@ -1,0 +1,200 @@
+T1	PER 125 133	Margaret
+T2	PER 151 156	Edith
+T3	FAC 235 248	Harley Street
+T4	PER 313 320	Titania
+T5	PER 686 694	Margaret
+T6	PER 855 860	Edith
+T7	PER 781 794	her companion
+T8	PER 599 604	Edith
+T9	GPE 1281 1289	Scotland
+T10	PER 986 991	Edith
+T11	FAC 1498 1511	the next room
+T12	PER 948 962	Captain Lennox
+T13	PER 1132 1137	Edith
+T14	PER 1514 1519	Edith
+T15	PER 1834 1840	mother
+T16	PER 1819 1829	her father
+T17	FAC 1980 1988	her home
+T19	FAC 1934 1956	her aunt Shaw 's house
+T20	PER 2009 2019	a listener
+T21	PER 2193 2208	her gentle aunt
+T22	PER 2213 2224	dear cousin
+T23	FAC 2362 2375	the next room
+T24	PER 2290 2325	only daughter in Helstone parsonage
+T26	PER 2481 2495	whose husbands
+T27	PER 2580 2620	neighbours whom Mrs. Shaw called friends
+T28	PER 2613 2620	friends
+T29	FAC 2821 2841	each other 's houses
+T30	PER 2596 2605	Mrs. Shaw
+T31	PER 2729 2734	Edith
+T32	FAC 2568 2577	the house
+T33	PER 2860 2872	These ladies
+T34	PER 2877 2891	their husbands
+T35	PER 2928 2935	friends
+T36	PER 3060 3074	Captain Lennox
+T38	PER 3278 3288	her mother
+T39	VEH 3101 3113	a late train
+T40	PER 3723 3728	Edith
+T41	PER 3775 3783	Mr. Grey
+T42	PER 3843 3856	the gentlemen
+T43	FAC 3868 3874	stairs
+T46	PER 4157 4162	Edith
+T47	PER 4255 4269	the dear child
+T49	PER 4492 4500	Margaret
+T50	PER 4602 4611	Mrs. Shaw
+T51	PER 4839 4848	Mrs. Shaw
+T52	PER 4975 4986	the General
+T53	PER 4859 4873	her only child
+T54	PER 4989 4998	Mrs. Shaw
+T55	PER 5062 5074	her daughter
+T56	PER 5253 5267	Captain Lennox
+T59	PER 5460 5474	her fond lover
+T60	PER 5315 5323	Margaret
+T61	PER 5828 5842	Captain Lennox
+T62	PER 5655 5660	Edith
+T63	PER 5687 5701	Captain Lennox
+T64	FAC 5593 5605	a fine house
+T66	PER 5931 5950	her mother 's child
+T67	PER 5987 5999	General Shaw
+T68	PER 6248 6256	Margaret
+T69	PER 6318 6329	the General
+T70	PER 6438 6446	Margaret
+T71	PER 6391 6403	a lucky girl
+T72	PER 6630 6635	Helen
+T74	PER 7211 7216	Edith
+T76	PER 7269 7283	All the ladies
+T77	PER 7488 7499	little girl
+T78	PER 7517 7530	your mistress
+T79	PER 7576 7582	Newton
+T80	PER 7552 7557	Edith
+T81	PER 7726 7732	Newton
+T83	LOC 8103 8113	the forest
+T84	FAC 8125 8133	the home
+T85	PER 7808 7814	Newton
+T86	GPE 8227 8233	London
+T87	FAC 8496 8502	stairs
+T88	PER 8431 8435	aunt
+T89	PER 8545 8550	child
+T90	LOC 8603 8612	the earth
+T91	FAC 8653 8666	Harley Street
+T92	FAC 8670 8697	her mother 's dressing-room
+T93	PER 8833 8839	mother
+T94	PER 8818 8828	her father
+T95	FAC 8618 8622	home
+T96	PER 8779 8787	Margaret
+T97	PER 9255 9263	Mr. Hale
+T98	PER 9276 9304	his little sleeping daughter
+T100	PER 9078 9087	the nurse
+T101	PER 9115 9125	Miss Edith
+T102	PER 8856 8889	the tall stately girl of eighteen
+T103	PER 8949 8972	the little girl of nine
+T104	PER 9411 9421	her father
+T105	PER 9725 9729	papa
+T106	GPE 9767 9773	London
+T107	PER 9480 9488	her aunt
+T108	FAC 9627 9631	home
+T109	PER 9312 9331	the little Margaret
+T111	FAC 10058 10076	this dear old room
+T112	PER 69 74	Edith
+T113	PER 84 92	Margaret
+T114	PER 106 111	Edith
+T115	FAC 210 231	the back drawing-room
+T116	PER 450 455	Edith
+T117	PER 488 496	Margaret
+T118	PER 518 528	her cousin
+T119	PER 650 658	Margaret
+T120	GPE 1017 1022	Corfu
+T121	PER 1400 1408	Margaret
+T122	PER 1656 1664	Margaret
+T123	PER 1698 1708	her cousin
+T124	FAC 2307 2325	Helstone parsonage
+T125	FAC 2510 2525	the dining-room
+T126	PER 2426 2525	the five or six ladies who had been dining there , and whose husbands were still in the dining-room
+T127	PER 2821 2831	each other
+T128	PER 2976 2981	Edith
+T129	PER 3008 3013	Edith
+T37	PER 3157 3172	a spoiled child
+T130	PER 3615 3623	Mr. Grey
+T131	PER 3683 3692	Mrs. Shaw
+T132	FAC 3756 3772	the drawing-room
+T133	PER 3626 3772	the gentleman who always took the bottom of the table at Mrs. Shaw 's dinner parties , and asked Edith to give them some music in the drawing-room
+T44	PER 3974 3982	Margaret
+T45	PER 4066 4087	the poor dear General
+T134	PER 4560 4565	Edith
+T135	PER 4762 4767	Edith
+T136	PER 4806 4832	a young and pretty heiress
+T57	PER 5090 5095	Edith
+T137	GPE 5196 5205	Belgravia
+T138	FAC 5180 5205	a good house in Belgravia
+T139	GPE 5281 5286	Corfu
+T140	PER 5347 5352	Edith
+T58	FAC 5612 5625	a fine estate
+T65	PER 5868 5878	his person
+T141	PER 5931 5941	her mother
+T142	PER 6150 6177	one whom she could not love
+T143	PER 6466 6477	Mrs. Gibson
+T144	PER 6480 6539	a lady who was taking a double interest in the conversation
+T145	PER 6566 6579	her daughters
+T146	PER 6559 6579	one of her daughters
+T73	PER 6813 6818	Edith
+T147	GPE 6863 6868	Delhi
+T148	PER 6906 6914	Margaret
+T149	PER 6921 6929	her aunt
+T150	FAC 7057 7097	the more dimly lighted back drawing-room
+T151	PER 7102 7107	Edith
+T152	PER 7110 7115	Edith
+T153	PER 7182 7190	Margaret
+T75	PER 7229 7238	Aunt Shaw
+T154	PER 7291 7301	Poor child
+T155	PER 7389 7398	Mrs. Shaw
+T156	PER 7633 7641	Margaret
+T157	PER 7651 7659	Margaret
+T158	FAC 7673 7799	the old nursery at the very top of the house , where Newton was busy getting up some laces which were required for the wedding
+T159	PER 7941 7949	Margaret
+T160	FAC 7968 7979	the nursery
+T161	FAC 8000 8010	that house
+T162	FAC 7982 8182	the first room in that house with which she had become familiar nine years ago , when she was brought , all untamed from the forest , to share the home , the play , and the lessons of her cousin Edith
+T163	FAC 8223 8241	the London nursery
+T164	PER 8261 8357	an austere and ceremonious nurse , who was terribly particular about clean hands and torn frocks
+T165	PER 8416 8426	her father
+T166	PER 8670 8680	her mother
+T167	FAC 8707 8718	her nursery
+T168	FAC 8755 8776	the country parsonage
+T99	PER 9192 9224	newly-seen , grand , pretty aunt
+T169	FAC 9742 9752	his parish
+T170	FAC 9822 9837	the old nursery
+T110	PER 9995 10001	Newton
+T48	PER 4424 4438	Captain Lennox
+T18	PER 1934 1942	her aunt
+T171	PER 1943 1947	Shaw
+T82	PER 8166 8176	her cousin
+T172	PER 8177 8182	Edith
+T25	PER 2406 2410	Shaw
+T173	PER 2397 2405	Her aunt
+T174	PER 948 955	Captain
+T175	PER 2596 2600	Mrs.
+T176	PER 3060 3067	Captain
+T177	PER 3775 3778	Mr.
+T178	PER 4602 4606	Mrs.
+T179	PER 4839 4843	Mrs.
+T180	PER 4989 4993	Mrs.
+T181	PER 5253 5260	Captain
+T182	PER 5828 5835	Captain
+T183	PER 5687 5694	Captain
+T184	PER 5987 5994	General
+T185	PER 9255 9258	Mr.
+T186	PER 9115 9119	Miss
+T187	PER 3615 3618	Mr.
+T188	PER 3683 3687	Mrs.
+T189	PER 6466 6470	Mrs.
+T190	PER 7229 7233	Aunt
+T191	PER 7389 7393	Mrs.
+T192	PER 4424 4431	Captain
+T193	PER 2688 2704	any other people
+T194	PER 5575 5582	any one
+T195	PER 631 640	every one
+T196	FAC 428 447	a back drawing-room
+T197	FAC 9241 9249	upstairs
+T198	FAC 2469 2474	there
+T199	FAC 8393 8398	there
+T200	FAC 9858 9876	a dismantled place

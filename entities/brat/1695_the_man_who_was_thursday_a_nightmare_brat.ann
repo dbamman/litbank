@@ -1,0 +1,147 @@
+T1	GPE 95 101	London
+T3	PER 446 464	the two sovereigns
+T4	FAC 788 809	the quaint red houses
+T9	PER 1875 1882	artists
+T10	PER 1927 1971	A man who stepped into its social atmosphere
+T11	GPE 2158 2182	the whole insane village
+T12	PER 2554 2576	the auburn-haired poet
+T15	PER 2799 2804	women
+T16	FAC 2692 2714	his little back garden
+T17	PER 2775 2778	men
+T18	PER 2823 2828	women
+T19	PER 2898 2907	the women
+T20	PER 3085 3102	no ordinary woman
+T21	PER 3010 3025	these new women
+T23	PER 3238 3243	a man
+T24	PER 3187 3206	the red-haired poet
+T26	LOC 4199 4208	the world
+T27	LOC 4722 4731	the earth
+T29	PER 5119 5150	the second poet of Saffron Park
+T30	GPE 5138 5150	Saffron Park
+T31	PER 5218 5225	a rival
+T32	PER 5169 5197	the red-haired revolutionary
+T34	PER 5708 5732	a poet of respectability
+T35	PER 5669 5684	a poet of order
+T36	PER 5655 5666	poet of law
+T37	PER 5868 5885	the anarchic poet
+T39	PER 6099 6117	a respectable poet
+T41	PER 6136 6149	a poet of law
+T42	FAC 6274 6285	this garden
+T44	PER 6705 6714	An artist
+T45	PER 6733 6745	an anarchist
+T46	PER 6804 6816	An anarchist
+T47	PER 6820 6829	an artist
+T48	PER 6832 6857	The man who throws a bomb
+T49	PER 7075 7084	An artist
+T50	PER 7142 7150	The poet
+T51	LOC 7226 7235	the world
+T52	PER 7293 7301	Mr. Syme
+T54	PER 7421 7428	navvies
+T55	VEH 7546 7555	the train
+T57	FAC 7741 7757	the next station
+T59	FAC 7793 7801	Victoria
+T60	LOC 7882 7886	Eden
+T62	FAC 7892 7908	the next station
+T64	PER 8025 8031	clerks
+T65	PER 8201 8224	man with one wild arrow
+T66	PER 8277 8301	man with one wild engine
+T67	FAC 8310 8327	a distant station
+T68	GPE 8422 8428	Bagdad
+T69	VEH 8363 8372	the train
+T70	FAC 8403 8415	Baker Street
+T71	GPE 8505 8513	Victoria
+T72	PER 8435 8438	man
+T73	GPE 8531 8539	Victoria
+T74	PER 8644 8692	your Byron , who commemorates the defeats of man
+T75	PER 8689 8692	man
+T77	PER 8967 8975	that man
+T78	VEH 8890 8897	a train
+T79	PER 8951 8960	besiegers
+T80	PER 8852 8856	Syme
+T82	FAC 9086 9094	Victoria
+T84	FAC 9275 9283	Victoria
+T86	PER 9427 9431	Adam
+T87	FAC 9581 9589	Victoria
+T88	FAC 9632 9640	Victoria
+T89	FAC 9718 9726	Victoria
+T90	PER 9735 9743	the poet
+T91	FAC 9773 9794	the streets of heaven
+T92	PER 9797 9805	The poet
+T94	PER 12 25	THE TWO POETS
+T95	GPE 29 41	SAFFRON PARK
+T96	GPE 42 68	THE suburb of Saffron Park
+T2	PER 282 479	a speculative builder , faintly tinged with art , who called its architecture sometimes Elizabethan and sometimes Queen Anne , apparently under the impression that the two sovereigns were identical
+T97	PER 742 809	The stranger who looked for the first time at the quaint red houses
+T98	PER 849 859	the people
+T99	PER 911 921	the people
+T100	GPE 960 969	The place
+T101	PER 1086 1096	the people
+T102	PER 1108 1115	artists
+T103	PER 1158 1222	That young man with the long , auburn hair and the impudent face
+T5	PER 1256 1262	a poet
+T6	PER 1226 1240	that young man
+T104	PER 1292 1363	That old gentleman with the wild , white beard and the wild , white hat
+T7	PER 1367 1388	that venerable humbug
+T105	PER 1404 1417	a philosopher
+T8	PER 1476 1561	That scientific gentleman with the bald , egg-like head and the bare , bird-like neck
+T106	GPE 1775 1790	the whole place
+T107	FAC 2303 2321	the little gardens
+T13	PER 2581 2589	the hero
+T14	PER 2649 2657	the hero
+T108	GPE 2878 2887	the place
+T109	PER 2890 2907	Most of the women
+T110	PER 3046 3051	a man
+T22	PER 3166 3184	Mr. Lucian Gregory
+T111	PER 3652 3659	a woman
+T112	PER 3699 3707	a virgin
+T25	PER 4026 4035	the angel
+T28	PER 4948 5024	some inhabitants who may remember the evening if only by that oppressive sky
+T113	PER 5037 5150	others who may remember it because it marked the first appearance in the place of the second poet of Saffron Park
+T114	PER 5352 5364	Gabriel Syme
+T115	PER 5299 5364	The new poet , who introduced himself by the name of Gabriel Syme
+T33	PER 5559 5579	the established poet
+T116	PER 5582 5589	Gregory
+T117	PER 5644 5648	Syme
+T118	PER 5738 5761	all the Saffron Parkers
+T38	PER 5847 5865	Mr. Lucian Gregory
+T40	LOC 6071 6080	the earth
+T119	PER 6290 6350	The man with the meek blue eyes and the pale , pointed beard
+T120	PER 6443 6450	Gregory
+T122	PER 6431 6440	the group
+T123	PER 6412 6440	The third party of the group
+T43	PER 6634 6651	the family oracle
+T124	PER 6654 6661	Gregory
+T125	PER 6861 6870	an artist
+T126	PER 7047 7072	a few shapeless policemen
+T127	PER 7324 7331	Gregory
+T53	PER 7402 7416	all the clerks
+T128	VEH 7432 7450	the railway trains
+T56	FAC 7712 7725	Sloane Square
+T58	FAC 7766 7774	Victoria
+T61	FAC 7928 7940	Baker Street
+T129	PER 8442 8452	a magician
+T130	PER 8703 8744	Bradshaw , who commemorates his victories
+T131	PER 8755 8763	Bradshaw
+T76	PER 8803 8810	Gregory
+T81	FAC 9055 9068	Sloane Square
+T83	PER 9341 9349	a herald
+T85	FAC 9393 9401	Victoria
+T132	PER 9436 9443	Gregory
+T133	PER 9535 9540	poets
+T134	FAC 9612 9617	there
+T135	LOC 9649 9666	the New Jerusalem
+T136	LOC 9682 9699	the New Jerusalem
+T137	LOC 9788 9794	heaven
+T93	PER 9853 9857	Syme
+T121	PER 6443 6460	Gregory ’s sister
+T138	PER 6461 6551	Rosamond , who had her brother ’s braids of red hair , but a kindlier face underneath them
+T63	PER 7997 8001	Syme
+T139	PER 7988 7996	the poet
+T140	PER 7293 7296	Mr.
+T141	PER 3166 3169	Mr.
+T142	PER 5847 5850	Mr.
+T143	PER 7361 7372	anyone else
+T144	FAC 9181 9186	there
+T145	GPE 699 715	a pleasant place
+T146	GPE 4137 4147	that place
+T147	GPE 5106 5115	the place

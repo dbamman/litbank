@@ -1,0 +1,161 @@
+T0	PER 97 107	his mother
+T1	PER 53 81	Son of Beatrice Amory Blaine
+T2	PER 60 81	Beatrice Amory Blaine
+T3	GPE 392 399	Chicago
+T5	PER 496 511	Beatrice O'Hara
+T8	PER 531 545	Stephen Blaine
+T10	PER 893 901	his wife
+T11	PER 988 1003	Beatrice Blaine
+T12	PER 1016 1023	a woman
+T14	GPE 1106 1110	Rome
+T15	PER 1050 1060	her father
+T16	FAC 1114 1138	the Sacred Heart Convent
+T18	PER 1540 1555	Cardinal Vitori
+T23	GPE 1680 1687	England
+T24	GPE 1791 1797	Vienna
+T25	PER 2103 2121	the great gardener
+T27	GPE 2224 2231	America
+T28	PER 2238 2252	Stephen Blaine
+T29	PER 2349 2363	Her only child
+T30	PER 2466 2471	Amory
+T31	PER 2800 2810	his mother
+T33	FAC 2863 2882	a fashionable hotel
+T34	PER 2750 2760	her father
+T36	PER 3274 3279	Frank
+T37	LOC 3283 3298	the Mississippi
+T38	PER 3303 3308	Amory
+T39	PER 3474 3484	his mother
+T41	PER 3169 3180	governesses
+T42	PER 3116 3155	more or less fortunate little rich boys
+T43	GPE 3197 3204	Newport
+T45	PER 3545 3555	his mother
+T47	PER 3709 3718	Clothilde
+T48	PER 3926 3935	Bernhardt
+T52	PER 4129 4139	his mother
+T53	PER 4058 4063	Amory
+T54	PER 4495 4501	Mozart
+T55	PER 4484 4490	Brahms
+T56	PER 4506 4515	Beethoven
+T57	PER 4591 4601	his mother
+T58	GPE 4566 4577	Hot Springs
+T59	FAC 4553 4562	the hotel
+T60	PER 4831 4839	Beatrice
+T61	PER 4956 4972	This son of mine
+T62	PER 5010 5036	awestruck , admiring women
+T63	PER 5441 5453	little Bobby
+T65	PER 5603 5612	physician
+T69	PER 5801 5807	nurses
+T71	PER 5786 5796	physicians
+T72	PER 5620 5625	Amory
+T73	PER 5897 5908	The Blaines
+T74	GPE 5926 5933	no city
+T75	PER 6028 6035	friends
+T76	FAC 5961 5972	Lake Geneva
+T78	GPE 6080 6088	Cape Cod
+T80	GPE 6068 6076	Pasadena
+T81	PER 6095 6103	Beatrice
+T82	PER 6462 6470	Beatrice
+T84	LOC 6681 6693	any locality
+T85	GPE 6638 6644	Boston
+T86	GPE 6768 6774	London
+T88	PER 6858 6875	an English butler
+T89	PER 7033 7044	her husband
+T92	ORG 7417 7430	Mother Church
+T94	PER 7322 7329	priests
+T97	GPE 7707 7711	Rome
+T98	PER 7730 7737	doctors
+T99	PER 7740 7747	priests
+T100	PER 7781 7794	Bishop Wiston
+T101	PER 7883 7924	hysterical women fluttering at your doors
+T102	PER 7997 8010	the clergyman
+T106	GPE 8154 8165	her country
+T107	GPE 8216 8225	Asheville
+T109	PER 8482 8512	the young pagan from Asheville
+T110	GPE 8503 8512	Asheville
+T111	PER 8678 8690	the cardinal
+T112	PER 8624 8635	Mrs. Blaine
+T115	PER 8766 8784	the beautiful lady
+T116	PER 8928 8945	his Celtic mother
+T117	PER 9087 9095	no tutor
+T121	VEH 9473 9487	the great ship
+T123	GPE 9526 9534	New York
+T124	GPE 9428 9435	America
+T125	LOC 9278 9282	land
+T126	PER 9546 9551	Amory
+T127	GPE 9285 9290	Italy
+T128	PER 9740 9745	Amory
+T129	PER 9817 9825	his aunt
+T130	GPE 9758 9769	Minneapolis
+T131	PER 9830 9835	uncle
+T132	PER 9646 9654	Beatrice
+T133	PER 12 32	The Romantic Egotist
+T134	PER 45 50	Amory
+T135	PER 187 197	His father
+T136	PER 200 313	an ineffectual , inarticulate man with a taste for Byron and a habit of drowsing over the Encyclopedia Britannica
+T4	PER 360 378	two elder brothers
+T6	PER 381 407	successful Chicago brokers
+T7	GPE 477 487	Bar Harbor
+T138	PER 751 761	his family
+T139	PER 772 981	an unassertive figure with a face half-obliterated by lifeless , silky hair , continually occupied in “ taking care ” of his wife , continually harassed by the idea that he did n't and could n't understand her
+T140	FAC 1050 1070	her father 's estate
+T13	PER 1201 1243	the daughters of the exceptionally wealthy
+T141	PER 1218 1243	the exceptionally wealthy
+T17	GPE 1074 1085	Lake Geneva
+T142	GPE 1088 1097	Wisconsin
+T19	PER 1502 1536	a fabulously wealthy American girl
+T21	PER 1560 1576	Queen Margherita
+T20	PER 1581 1662	more subtle celebrities that one must have had some culture even to have heard of
+T22	PER 1811 1826	Beatrice O'Hara
+T26	PER 2536 2675	an auburn-haired boy , with great , handsome eyes which he would grow up to in time , a facile imaginative mind and a taste for fancy dress
+T32	LOC 2719 2730	the country
+T35	PER 2736 2746	his mother
+T143	GPE 2783 2791	Coronado
+T144	GPE 2893 2904	Mexico City
+T145	VEH 2750 2775	her father 's private car
+T146	LOC 3184 3193	the beach
+T147	PER 3320 3341	acquiescent bell-boys
+T148	FAC 3345 3356	the Waldorf
+T40	PER 3507 3515	Beatrice
+T44	PER 3808 3813	Amory
+T49	PER 4193 4198	Amory
+T50	PER 5326 5344	a brave raconteuse
+T51	PER 5457 5464	Barbara
+T64	PER 5525 5534	two maids
+T149	VEH 5537 5552	the private car
+T66	PER 5558 5568	Mr. Blaine
+T70	PER 5649 5675	four disgusted specialists
+T67	PER 5946 5957	the Blaines
+T68	PER 5984 6006	quite enough relatives
+T77	PER 6142 6159	new acquaintances
+T79	PER 6490 6504	American women
+T83	PER 6518 6558	the floating population of ex-Westerners
+T150	PER 6604 6609	Amory
+T151	GPE 6907 6914	Chicago
+T87	ORG 6905 6934	a Chicago grand-opera company
+T90	PER 6992 7011	every Western woman
+T152	PER 7124 7131	my dear
+T91	PER 7288 7298	a Catholic
+T93	PER 7528 7556	the American Catholic clergy
+T95	PER 8066 8073	bishops
+T96	PER 8181 8212	a pagan , Swinburnian young man
+T103	ORG 8558 8577	the Catholic Church
+T104	PER 8595 8610	Monsignor Darcy
+T105	PER 8678 8708	the cardinal 's right-hand man
+T108	PER 8715 8720	Amory
+T113	PER 8793 8808	Monsignor Darcy
+T114	PER 8853 8858	Amory
+T118	PER 9304 9312	Beatrice
+T119	GPE 9417 9423	Europe
+T120	PER 9458 9472	the passengers
+T122	PER 9962 9967	AMORY
+T9	PER 688 695	his son
+T153	PER 696 701	Amory
+T154	PER 8624 8628	Mrs.
+T155	PER 5558 5561	Mr.
+T156	PER 8595 8604	Monsignor
+T157	PER 8793 8802	Monsignor
+T137	PER 1949 1955	people
+T158	LOC 449 458	the world
+T159	LOC 2419 2428	the world
+T160	FAC 4995 5036	a room full of awestruck , admiring women
+T161	GPE 9838 9843	There

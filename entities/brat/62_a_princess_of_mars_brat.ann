@@ -1,0 +1,118 @@
+T0	PER 36 50	a very old man
+T1	PER 167 176	other men
+T2	PER 266 287	a man of about thirty
+T3	GPE 1065 1072	Arizona
+T4	PER 1121 1131	mortal man
+T7	PER 1758 1789	Captain Jack Carter of Virginia
+T8	GPE 1781 1789	Virginia
+T9	LOC 2043 2052	the South
+T10	GPE 2355 2363	Richmond
+T11	PER 2328 2363	Captain James K. Powell of Richmond
+T12	PER 2584 2614	a mining engineer by education
+T13	PER 2883 2886	men
+T14	PER 2918 2924	Powell
+T15	PER 3176 3201	some wandering prospector
+T17	PER 3224 3230	Powell
+T19	GPE 3490 3497	Arizona
+T20	PER 3782 3788	Powell
+T21	PER 4056 4065	my friend
+T22	PER 4194 4200	Powell
+T23	PER 4897 4921	cunning trailing Apaches
+T25	PER 4735 4764	an experienced Indian fighter
+T26	PER 4814 4836	the Sioux in the North
+T27	PER 5142 5148	Powell
+T28	PER 5378 5384	Powell
+T29	PER 5713 5739	some nervous old housewife
+T30	PER 5774 5780	Powell
+T31	PER 6095 6122	an old and powerful emperor
+T32	PER 6438 6444	Powell
+T35	PER 7061 7076	the red rascals
+T36	PER 6846 6858	the trailers
+T37	PER 6904 6910	Powell
+T38	PER 7210 7216	Powell
+T39	PER 8345 8351	heroes
+T40	PER 9086 9094	warriors
+T41	PER 8851 8857	Powell
+T42	PER 9291 9299	regulars
+T43	GPE 9509 9516	Arizona
+T44	PER 9588 9598	the braves
+T45	PER 9770 9785	the man himself
+T46	PER 9725 9736	the Apaches
+T47	LOC 13 30	THE ARIZONA HILLS
+T48	GPE 17 24	ARIZONA
+T49	PER 258 263	a man
+T50	PER 923 953	an ordinary soldier of fortune
+T51	PER 1029 1041	my dead body
+T52	LOC 1062 1077	an Arizona cave
+T53	PER 1210 1227	the average human
+T54	PER 1317 1327	the public
+T55	PER 1330 1340	the pulpit
+T56	PER 1347 1356	the press
+T5	PER 1374 1389	a colossal liar
+T57	LOC 1518 1522	Mars
+T6	LOC 1641 1658	our sister planet
+T58	PER 1723 1734	John Carter
+T59	PER 1903 1912	a captain
+T60	ORG 1930 1980	the cavalry arm of an army which no longer existed
+T62	ORG 1983 2052	the servant of a state which had vanished with the hopes of the South
+T63	GPE 1998 2052	a state which had vanished with the hopes of the South
+T64	PER 2298 2325	another Confederate officer
+T65	LOC 2478 2522	the most remarkable gold-bearing quartz vein
+T66	PER 2567 2573	Powell
+T67	GPE 2797 2809	civilization
+T68	PER 2861 2886	a sufficient force of men
+T69	FAC 2904 2912	the mine
+T70	LOC 2943 2954	the country
+T16	LOC 3346 3362	the mountainside
+T71	LOC 3370 3380	the valley
+T72	PER 3448 3454	Powell
+T73	LOC 3598 3614	the mountainside
+T74	LOC 3622 3632	the valley
+T18	LOC 3747 3762	a level plateau
+T75	LOC 3851 3895	the range on the opposite side of the valley
+T76	LOC 3885 3895	the valley
+T77	LOC 3956 3966	the valley
+T78	PER 4336 4349	the territory
+T79	PER 4366 4382	a hostile Indian
+T80	PER 4497 4683	the great numbers of these vicious marauders that were supposed to haunt the trails , taking their toll in lives and torture of every white party which fell into their merciless clutches
+T81	PER 4625 4683	every white party which fell into their merciless clutches
+T82	PER 4686 4692	Powell
+T83	PER 4750 4756	Indian
+T24	LOC 4827 4836	the North
+T84	PER 4886 4921	a party of cunning trailing Apaches
+T85	FAC 5123 5148	the trail taken by Powell
+T86	PER 6127 6200	several lesser kings , in whose service my sword has been red many a time
+T87	FAC 6320 6329	the trail
+T88	LOC 6417 6465	the water hole where Powell had expected to camp
+T89	LOC 6480 6488	the spot
+T90	FAC 6585 6591	a camp
+T91	PER 6638 6703	the pursuing horsemen , for such I was now convinced they must be
+T33	PER 6722 6728	Powell
+T92	LOC 6755 6773	the hole for water
+T34	PER 6864 6871	Apaches
+T93	FAC 7300 7339	the narrow and difficult mountain trail
+T94	LOC 7325 7333	mountain
+T95	FAC 7426 7435	the trail
+T96	LOC 7460 7510	a small , open plateau near the summit of the pass
+T97	LOC 7488 7510	the summit of the pass
+T98	LOC 7502 7510	the pass
+T99	LOC 7534 7562	a narrow , overhanging gorge
+T100	LOC 7598 7613	this table land
+T101	LOC 7690 7722	The little stretch of level land
+T102	FAC 7738 7751	Indian tepees
+T103	PER 7778 7806	half a thousand red warriors
+T105	FAC 7855 7863	the camp
+T104	LOC 8022 8031	the gorge
+T106	LOC 8001 8031	the dark recesses of the gorge
+T107	PER 8862 8886	the center of attraction
+T108	ORG 9067 9094	the entire army of warriors
+T109	PER 9215 9313	the red men , convinced by sudden surprise that not less than a regiment of regulars was upon them
+T110	ORG 9277 9299	a regiment of regulars
+T111	PER 9526 9532	Powell
+T112	PER 9535 9598	his body fairly bristling with the hostile arrows of the braves
+T113	PER 9684 9692	his body
+T114	LOC 10045 10056	the plateau
+T115	LOC 10184 10198	the table land
+T61	ORG 1949 1980	an army which no longer existed
+T116	PER 1758 1765	Captain
+T117	PER 2328 2335	Captain

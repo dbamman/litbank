@@ -1,0 +1,230 @@
+T1	PER 288 305	the adverse hosts
+T2	GPE 197 210	North America
+T3	GPE 438 445	England
+T4	GPE 427 433	France
+T5	PER 448 466	The hardy colonist
+T6	PER 473 516	the trained European who fought at his side
+T8	PER 1122 1152	the distant monarchs of Europe
+T9	PER 778 807	the practiced native warriors
+T10	LOC 1387 1397	the Hudson
+T11	PER 1444 1450	nature
+T12	PER 1485 1499	the combatants
+T13	PER 1791 1804	their enemies
+T14	GPE 1669 1677	New York
+T15	PER 1559 1572	the Champlain
+T16	GPE 1605 1611	Canada
+T17	PER 1955 1978	the Jesuit missionaries
+T18	PER 2092 2116	The less zealous English
+T19	PER 2219 2240	their reigning prince
+T20	FAC 2257 2277	the house of Hanover
+T21	GPE 2270 2277	Hanover
+T23	GPE 2873 2887	Lake Champlain
+T24	LOC 3394 3403	the river
+T25	PER 3218 3232	the adventurer
+T26	GPE 3522 3532	the French
+T28	PER 4053 4067	the husbandman
+T29	PER 4502 4505	men
+T31	GPE 4948 4954	France
+T33	GPE 5168 5181	Great Britain
+T34	FAC 5132 5136	home
+T35	PER 5268 5287	her former warriors
+T36	PER 5054 5081	her military leaders abroad
+T37	PER 5325 5336	her enemies
+T38	PER 5339 5351	her servants
+T39	PER 5433 5446	the colonists
+T40	PER 5866 5873	Indians
+T41	PER 5652 5660	a mother
+T42	PER 5764 5780	trained warriors
+T43	PER 6244 6265	The alarmed colonists
+T44	PER 6426 6449	their merciless enemies
+T45	PER 6725 6751	the natives of the forests
+T47	PER 6931 6938	mothers
+T48	PER 7201 7234	the slaves of the basest passions
+T49	PER 7494 7514	their Christian foes
+T50	GPE 7475 7482	America
+T51	PER 7813 7823	Washington
+T52	GPE 7989 8000	all America
+T53	PER 8114 8124	the author
+T54	LOC 8437 8450	the Champlain
+T55	PER 8372 8382	the Hudson
+T56	PER 8603 8612	a warrior
+T57	PER 8404 8412	Montcalm
+T59	PER 9178 9199	the son of the forest
+T60	LOC 9189 9199	the forest
+T61	PER 9518 9558	a favorite prince of the reigning family
+T62	FAC 9444 9457	William Henry
+T63	PER 9348 9387	The loyal servants of the British crown
+T64	FAC 9485 9496	Fort Edward
+T65	PER 9643 9660	a few provincials
+T67	PER 9742 9750	Montcalm
+T68	PER 9630 9638	regulars
+T69	PER 9924 9951	more than five thousand men
+T70	PER 9872 9880	the king
+T71	PER 10006 10018	this officer
+T72	PER 10067 10077	combatants
+T74	PER 10264 10277	both officers
+T75	PER 10336 10364	their formidable antagonists
+T76	GPE 10486 10500	Fort du Quesne
+T77	PER 10282 10285	men
+T78	PER 10796 10815	fifteen hundred men
+T79	PER 11172 11176	Webb
+T80	PER 11418 11444	the more practiced veteran
+T81	PER 11262 11292	The novice in the military art
+T82	FAC 11921 11950	the log cabin of some officer
+T83	LOC 12103 12118	the vast forest
+T84	PER 11938 11950	some officer
+T85	FAC 112 122	my kingdom
+T86	PER 135 146	Shakespeare
+T87	LOC 319 374	A wide and apparently an impervious boundary of forests
+T88	GPE 402 445	the hostile provinces of France and England
+T89	LOC 568 593	the rapids of the streams
+T90	LOC 582 593	the streams
+T91	LOC 612 646	the rugged passes of the mountains
+T92	LOC 612 629	the rugged passes
+T7	LOC 899 921	no recess of the woods
+T93	LOC 912 921	the woods
+T95	PER 1015 1152	those who had pledged their blood to satiate their vengeance , or to uphold the cold and selfish policy of the distant monarchs of Europe
+T96	GPE 1146 1152	Europe
+T97	LOC 1205 1231	the intermediate frontiers
+T98	LOC 1163 1231	no district throughout the wide extent of the intermediate frontiers
+T99	LOC 1186 1231	the wide extent of the intermediate frontiers
+T101	LOC 1368 1397	the head waters of the Hudson
+T102	LOC 1402 1420	the adjacent lakes
+T100	LOC 1337 1420	the country which lies between the head waters of the Hudson and the adjacent lakes
+T103	LOC 1626 1677	the borders of the neighboring province of New York
+T105	LOC 1688 1804	a natural passage across half the distance that the French were compelled to master in order to strike their enemies
+T106	GPE 1736 1746	the French
+T110	LOC 2162 2185	its unsullied fountains
+T111	PER 2243 2277	the second of the house of Hanover
+T112	PER 2302 2348	the untutored possessors of its wooded scenery
+T113	LOC 2330 2348	its wooded scenery
+T114	LOC 2415 2422	Horican
+T115	GPE 2434 2460	each nation of the Indians
+T116	LOC 2665 2694	this beautiful sheet of water
+T117	LOC 2752 2772	The Tail of the Lake
+T118	LOC 2764 2772	the Lake
+T119	LOC 2777 2788	Lake George
+T120	LOC 2855 2887	a sort of tail to Lake Champlain
+T121	LOC 2956 2973	countless islands
+T122	LOC 2992 3001	mountains
+T123	LOC 3004 3019	the “ holy lake
+T124	LOC 3081 3160	the high plain that there interposed itself to the further passage of the water
+T125	LOC 3151 3160	the water
+T126	LOC 3236 3259	the banks of the Hudson
+T127	LOC 3249 3259	the Hudson
+T128	LOC 3312 3322	the rapids
+T129	LOC 3328 3391	rifts , as they were then termed in the language of the country
+T130	GPE 3380 3391	the country
+T131	LOC 243 257	the wilderness
+T132	LOC 1535 1572	The lengthened sheet of the Champlain
+T133	LOC 1713 1804	half the distance that the French were compelled to master in order to strike their enemies
+T107	PER 1812 1836	its southern termination
+T134	GPE 2280 2287	The two
+T135	LOC 2532 2547	the same places
+T136	GPE 2705 2738	the tribe that dwelt on its banks
+T137	LOC 2729 2738	its banks
+T138	LOC 3173 3432	a portage of as many miles , which conducted the adventurer to the banks of the Hudson , at a point where , with the usual obstructions of the rapids , or rifts , as they were then termed in the language of the country , the river became navigable to the tide
+T139	LOC 3265 3432	a point where , with the usual obstructions of the rapids , or rifts , as they were then termed in the language of the country , the river became navigable to the tide
+T140	LOC 3548 3597	the distant and difficult gorges of the Alleghany
+T141	LOC 3703 3738	the district we have just described
+T142	LOC 3768 3862	the bloody arena , in which most of the battles for the mastery of the colonies were contested
+T143	GPE 3835 3847	the colonies
+T144	FAC 3865 3870	Forts
+T145	LOC 3887 3950	the different points that commanded the facilities of the route
+T146	LOC 4085 4105	the dangerous passes
+T147	LOC 4115 4167	the safer boundaries of the more ancient settlements
+T148	FAC 4139 4167	the more ancient settlements
+T149	ORG 4170 4258	armies larger than those that had often disposed of the scepters of the mother countries
+T150	GPE 4238 4258	the mother countries
+T151	LOC 4293 4410	these forests , whence they rarely returned but in skeleton bands , that were haggard with care or dejected by defeat
+T27	PER 4344 4410	skeleton bands , that were haggard with care or dejected by defeat
+T152	LOC 4454 4471	this fatal region
+T153	LOC 4474 4485	its forests
+T154	LOC 4587 4600	its mountains
+T155	PER 4656 4689	many a gallant and reckless youth
+T30	GPE 4936 4943	England
+T32	LOC 4988 5033	a country that neither was destined to retain
+T156	PER 5116 5136	her councils at home
+T157	PER 5292 5301	statesmen
+T158	PER 5544 5569	the natural participators
+T159	ORG 5595 5699	a chosen army from that country , which , reverencing as a mother , they had blindly believed invincible
+T160	GPE 5614 5626	that country
+T161	ORG 5703 6085	an army led by a chief who had been selected from a crowd of trained warriors , for his rare military endowments , disgracefully routed by a handful of French and Indians , and only saved from annihilation by the coolness and spirit of a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom
+T162	PER 5718 6085	a chief who had been selected from a crowd of trained warriors , for his rare military endowments , disgracefully routed by a handful of French and Indians , and only saved from annihilation by the coolness and spirit of a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom
+T163	PER 5753 5780	a crowd of trained warriors
+T164	PER 5842 5873	a handful of French and Indians
+T165	PER 5855 5861	French
+T166	PER 5939 6085	a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom
+T167	LOC 6090 6105	A wide frontier
+T168	PER 6293 6304	the savages
+T169	LOC 6361 6397	the interminable forests of the west
+T170	LOC 6740 6751	the forests
+T171	LOC 6757 6791	the principal and barbarous actors
+T46	PER 6797 6831	the credulous and excited traveler
+T172	LOC 6865 6879	the wilderness
+T173	PER 6895 6904	the timid
+T174	PER 6968 7039	those children which slumbered within the security of the largest towns
+T175	GPE 7022 7039	the largest towns
+T176	PER 7152 7234	those who should have remembered their manhood , the slaves of the basest passions
+T177	PER 7353 7370	that abject class
+T178	GPE 7454 7471	the English crown
+T179	PER 7549 7572	their relentless allies
+T180	PER 7577 7587	Washington
+T181	PER 7624 7644	the European general
+T182	ORG 7720 7736	the British army
+T183	ORG 7704 7736	the remnants of the British army
+T184	ORG 7896 7915	the American armies
+T185	GPE 8072 8080	European
+T186	GPE 8183 8201	the mother country
+T66	FAC 8301 8396	the fort which covered the southern termination of the portage between the Hudson and the lakes
+T187	LOC 8324 8396	the southern termination of the portage between the Hudson and the lakes
+T188	LOC 8387 8396	the lakes
+T58	PER 8638 8671	an enemy within reach of his blow
+T190	PER 8748 8911	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the “ holy lake , ” for a speedy and powerful reinforcement
+T191	PER 8804 8809	Munro
+T195	FAC 8970 8985	these two posts
+T196	FAC 9015 9028	The rude path
+T197	PER 9243 9296	a detachment of troops , with their necessary baggage
+T198	GPE 9370 9387	the British crown
+T199	FAC 9408 9431	these forest-fastnesses
+T200	PER 9539 9558	the reigning family
+T201	PER 9561 9593	The veteran Scotchman just named
+T202	ORG 9616 9638	a regiment of regulars
+T203	ORG 9663 9796	a force really by far too small to make head against the formidable power that Montcalm was leading to the foot of his earthen mounds
+T204	ORG 9716 9796	the formidable power that Montcalm was leading to the foot of his earthen mounds
+T205	LOC 9766 9796	the foot of his earthen mounds
+T206	LOC 9778 9796	his earthen mounds
+T207	PER 9829 9906	General Webb , who commanded the armies of the king in the northern provinces
+T208	PER 9914 9951	a body of more than five thousand men
+T209	ORG 9965 10003	the several detachments of his command
+T73	PER 10086 10208	the enterprising Frenchman , who had ventured so far from his reinforcements , with an army but little superior in numbers
+T210	ORG 10170 10208	an army but little superior in numbers
+T211	ORG 10144 10162	his reinforcements
+T212	GPE 10472 10482	the French
+T213	FAC 10636 10765	the entrenched camp , which stretched along the margin of the Hudson , forming a chain of outworks to the body of the fort itself
+T214	LOC 10680 10704	the margin of the Hudson
+T215	LOC 10694 10704	the Hudson
+T216	FAC 10738 10765	the body of the fort itself
+T217	FAC 10750 10758	the fort
+T218	ORG 10773 10917	a chosen detachment of fifteen hundred men was to depart , with the dawn , for William Henry , the post at the northern extremity of the portage
+T219	FAC 10852 10865	William Henry
+T220	FAC 10868 10917	the post at the northern extremity of the portage
+T221	LOC 10880 10917	the northern extremity of the portage
+T222	LOC 10906 10917	the portage
+T223	FAC 11003 11041	the quarters of the commander-in-chief
+T224	PER 11019 11041	the commander-in-chief
+T225	ORG 11045 11095	the several corps he had selected for this service
+T226	LOC 11691 11705	the wilderness
+T227	LOC 11759 11784	the distant western hills
+T228	LOC 11824 11841	the secluded spot
+T229	FAC 12059 12067	the camp
+T104	GPE 1641 1677	the neighboring province of New York
+T230	PER 9829 9836	General
+T189	ORG 8458 8507	an army “ numerous as the leaves on the trees , ”
+T109	LOC 2062 2091	lake “ du Saint Sacrement . ”
+T108	LOC 1872 2091	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake “ du Saint Sacrement . ”
+T194	LOC 8852 8871	the “ holy lake , ”
+T193	LOC 8839 8871	the shore of the “ holy lake , ”
+T192	PER 8812 8871	the commander of a work on the shore of the “ holy lake , ”
+T231	LOC 1455 1460	there
+T22	PER 2449 2460	the Indians

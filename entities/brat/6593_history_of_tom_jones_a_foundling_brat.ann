@@ -1,0 +1,112 @@
+T0	PER 220 229	An author
+T1	PER 378 389	all persons
+T2	PER 463 478	the entertainer
+T3	PER 794 819	the master of an ordinary
+T5	PER 1127 1142	their customers
+T6	PER 1261 1272	all persons
+T7	FAC 1313 1322	the house
+T9	PER 1196 1228	the honest and well-meaning host
+T10	PER 1812 1822	the reader
+T11	PER 1683 1707	these honest victuallers
+T12	PER 1596 1639	any man who is capable of lending us either
+T14	PER 2590 2599	an author
+T15	PER 2171 2219	the alderman of Bristol , well learned in eating
+T17	PER 2480 2486	a cook
+T18	GPE 2187 2194	Bristol
+T19	PER 2343 2361	the learned reader
+T20	PER 2910 2921	the epicure
+T23	PER 3141 3148	authors
+T25	PER 3298 3308	the author
+T27	GPE 3646 3650	town
+T28	PER 3526 3532	a duke
+T30	PER 3708 3720	the nobleman
+T34	PER 4095 4105	the author
+T35	PER 4171 4181	the reader
+T36	PER 4409 4436	all lovers of polite eating
+T37	PER 4372 4386	This great man
+T38	PER 4486 4503	his hungry guests
+T39	FAC 4926 4932	cities
+T40	PER 4976 4986	our reader
+T41	PER 5037 5074	the great person just above-mentioned
+T42	PER 5100 5112	some persons
+T43	PER 5427 5437	his sister
+T46	PER 5583 5592	gentleman
+T47	GPE 6347 6357	the county
+T48	PER 6360 6374	This gentleman
+T49	PER 6382 6391	his youth
+T51	PER 6586 6603	this beloved wife
+T52	PER 7214 7228	his neighbours
+T54	PER 7354 7364	one sister
+T55	PER 7409 7418	This lady
+T56	PER 7527 7535	old maid
+T60	PER 8198 8204	person
+T61	PER 9198 9245	a better judge than any pitiful critic whatever
+T62	PER 9218 9245	any pitiful critic whatever
+T63	PER 9271 9288	all those critics
+T64	PER 9458 9464	judges
+T68	PER 9666 9674	bastards
+T69	FAC 10198 10209	an hospital
+T71	FAC 9967 9979	a good house
+T72	PER 9994 10008	his neighbours
+T73	PER 9885 9898	an honest man
+T74	PER 43 56	THE FOUNDLING
+T75	PER 95 105	THE READER
+T76	PER 265 318	a gentleman who gives a private or eleemosynary treat
+T77	PER 335 366	one who keeps a public ordinary
+T78	PER 597 608	his company
+T4	PER 822 851	Men who pay for what they eat
+T8	PER 2017 2035	my sensible reader
+T13	FAC 3211 3220	the shops
+T16	FAC 3037 3079	the most paltry alleys under the same name
+T21	PER 3320 3327	Mr Pope
+T22	PER 3725 3735	the porter
+T24	PER 4341 4353	Heliogabalus
+T26	PER 4712 4722	our reader
+T29	LOC 4786 4797	the country
+T31	FAC 4915 4921	courts
+T32	PER 5166 5197	those who like our bill of fare
+T33	PER 5359 5375	squire Allworthy
+T79	LOC 5443 5492	that part of the western division of this kingdom
+T80	LOC 5456 5492	the western division of this kingdom
+T81	GPE 5480 5492	this kingdom
+T82	GPE 5518 5531	Somersetshire
+T83	PER 5608 5617	Allworthy
+T44	PER 5402 5424	Miss Bridget Allworthy
+T45	PER 5649 5689	the favourite of both nature and fortune
+T84	PER 6400 6433	a very worthy and beautiful woman
+T85	PER 6487 6501	three children
+T50	PER 6730 6758	a man of sense and constancy
+T53	PER 6920 6928	his wife
+T86	FAC 7102 7150	a place where he should never part with her more
+T87	LOC 7335 7346	the country
+T88	PER 7498 7511	the malicious
+T57	PER 7713 7736	very good sort of women
+T89	PER 8000 8015	Miss Such-a-one
+T90	PER 8099 8121	Miss Bridget Allworthy
+T91	PER 8149 8158	this lady
+T92	PER 8208 8215	a woman
+T93	PER 8437 8450	her whole sex
+T94	PER 8516 8526	the reader
+T95	PER 8688 8794	those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power
+T96	PER 8836 8862	that higher order of women
+T97	PER 9008 9014	Reader
+T65	PER 9551 9563	Mr Allworthy
+T66	FAC 9578 9582	home
+T67	PER 9609 9628	Mrs Deborah Wilkins
+T98	PER 9689 9698	my reader
+T99	PER 9733 9745	Mr Allworthy
+T100	PER 9805 9814	no family
+T70	PER 8872 8885	the other sex
+T58	PER 7766 7771	madam
+T59	PER 7584 7736	that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex , very good sort of women
+T101	PER 7758 7763	woman
+T102	PER 3320 3322	Mr
+T103	PER 5359 5365	squire
+T104	PER 5402 5406	Miss
+T105	PER 8000 8004	Miss
+T106	PER 8099 8103	Miss
+T107	PER 9551 9553	Mr
+T108	PER 9609 9612	Mrs
+T109	PER 9733 9735	Mr
+T110	LOC 2573 2582	the world
+T111	PER 9906 9912	no one

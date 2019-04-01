@@ -1,0 +1,179 @@
+T0	PER 157 164	a child
+T3	PER 115 130	A woman servant
+T4	PER 295 304	the child
+T6	PER 461 472	Your mother
+T8	PER 589 596	a woman
+T9	PER 556 565	the child
+T13	PER 736 745	The woman
+T14	PER 1004 1013	The child
+T15	PER 1197 1207	his mother
+T16	PER 1292 1302	The doctor
+T17	PER 1394 1404	The doctor
+T18	PER 1492 1501	the child
+T19	PER 1516 1525	the woman
+T20	PER 1777 1787	the doctor
+T21	PER 1888 1898	The doctor
+T22	PER 1984 1993	the child
+T23	PER 1999 2009	The doctor
+T24	PER 2029 2038	his nurse
+T26	PER 2162 2172	His mother
+T28	PER 2246 2263	The monthly nurse
+T29	PER 2339 2349	The doctor
+T31	PER 2445 2463	a still-born child
+T34	PER 2544 2553	the woman
+T36	PER 2601 2606	a boy
+T37	PER 2628 2637	the nurse
+T39	PER 2658 2667	The woman
+T40	PER 2697 2706	the child
+T41	PER 2697 2715	the child 's nurse
+T42	PER 2755 2768	Master Philip
+T44	PER 2823 2833	the doctor
+T45	PER 2839 2850	his patient
+T47	PER 3014 3023	the child
+T48	PER 3014 3032	the child 's nurse
+T49	FAC 3047 3057	downstairs
+T50	PER 3083 3093	the doctor
+T51	PER 3123 3133	Mrs. Carey
+T53	PER 3123 3151	Mrs. Carey 's brother-in-law
+T54	PER 3288 3302	the little boy
+T55	PER 3357 3368	Miss Watkin
+T58	PER 3460 3470	Mrs. Carey
+T60	PER 3498 3508	The doctor
+T61	PER 3551 3557	Philip
+T62	PER 3606 3617	Miss Watkin
+T64	FAC 3586 3644	the drawing-room at Miss Watkin 's house in Onslow gardens
+T68	PER 3995 4047	the Red Indians who were lurking behind the curtains
+T71	LOC 4134 4145	the prairie
+T73	PER 4328 4339	Miss Watkin
+T74	PER 4310 4325	You naughty boy
+T76	PER 4397 4406	The nurse
+T78	PER 4979 4989	your mamma
+T79	PER 5043 5048	mamma
+T80	PER 5075 5085	Your mamma
+T81	PER 5137 5147	Your mamma
+T82	PER 5200 5206	Philip
+T83	LOC 5270 5276	heaven
+T85	PER 5304 5310	Philip
+T87	PER 5362 5366	Emma
+T89	GPE 5510 5516	London
+T91	GPE 5448 5458	Devonshire
+T92	PER 5612 5626	the little boy
+T95	PER 5797 5806	strangers
+T99	PER 5947 5958	Miss Watkin
+T100	FAC 5975 5979	home
+T102	PER 6162 6166	Emma
+T104	PER 6309 6319	her sister
+T106	PER 6336 6343	friends
+T108	PER 6483 6494	Miss Watkin
+T110	PER 6532 6536	Emma
+T111	PER 6635 6639	Emma
+T112	PER 6699 6712	Master Philip
+T114	PER 6803 6809	Philip
+T115	PER 6822 6838	Henrietta Watkin
+T119	PER 6943 6949	Philip
+T120	PER 6985 6998	his godmother
+T121	FAC 6975 6979	home
+T122	PER 7034 7099	an elder sister , who had resigned herself contentedly to old age
+T123	PER 7102 7141	Two ladies , whom Philip did not know ,
+T124	PER 7120 7126	Philip
+T125	PER 7194 7207	My poor child
+T126	PER 7217 7228	Miss Watkin
+T128	PER 7269 7275	Philip
+T130	FAC 7400 7404	home
+T131	PER 7460 7471	Miss Watkin
+T134	PER 7525 7535	her sister
+T135	PER 7571 7589	the strange ladies
+T136	PER 7842 7846	Emma
+T137	PER 7934 7958	a friend in the basement
+T138	PER 7895 7899	Emma
+T140	PER 8009 8025	Henrietta Watkin
+T142	PER 8039 8049	His mother
+T144	PER 8184 8194	her sister
+T145	PER 8241 8254	the strangers
+T146	PER 8265 8280	Poor little boy
+T148	PER 8415 8425	his mother
+T149	PER 8435 8439	Emma
+T150	PER 8488 8498	the driver
+T151	FAC 8535 8567	the house Mrs. Carey had died in
+T152	PER 8545 8555	Mrs. Carey
+T158	PER 8678 8684	Philip
+T161	PER 8709 8718	His uncle
+T162	PER 8924 8928	Emma
+T1	PER 326 332	Philip
+T10	PER 616 626	his mother
+T167	FAC 271 280	a portico
+T168	FAC 421 431	downstairs
+T170	FAC 531 546	the floor below
+T169	FAC 521 546	a room on the floor below
+T11	PER 662 671	the child
+T171	PER 797 810	the warm body
+T172	PER 904 911	darling
+T176	PER 1574 1582	his body
+T178	PER 2103 2106	sir
+T25	PER 2111 2125	The little boy
+T27	PER 2231 2241	poor child
+T35	PER 2591 2597	a girl
+T38	PER 2642 2653	Another boy
+T43	PER 3001 3004	sir
+T46	FAC 3074 3082	the hall
+T52	PER 3179 3182	sir
+T56	PER 3392 3395	sir
+T57	PER 3426 3439	his godmother
+T180	PER 3442 3445	sir
+T59	PER 3490 3493	sir
+T63	FAC 3630 3644	Onslow gardens
+T181	FAC 3606 3644	Miss Watkin 's house in Onslow gardens
+T65	PER 3654 3667	an only child
+T66	FAC 3698 3706	The room
+T70	PER 4378 4382	Emma
+T72	FAC 4524 4528	home
+T75	PER 5253 5263	Your mamma
+T84	PER 5371 5395	a tall , big-boned woman
+T86	PER 5671 5681	that child
+T88	FAC 6094 6102	upstairs
+T90	LOC 6157 6161	down
+T93	FAC 6190 6198	the hall
+T94	FAC 6233 6242	the study
+T97	FAC 6250 6265	the dining-room
+T98	PER 6293 6304	Miss Watkin
+T101	PER 6744 6748	miss
+T103	PER 6843 6856	a stout woman
+T105	PER 7414 7420	Philip
+T107	FAC 7986 7997	the landing
+T109	PER 8054 8072	my greatest friend
+T113	LOC 8329 8338	the world
+T116	GPE 8641 8652	High Street
+T117	GPE 8655 8665	Kensington
+T118	GPE 8619 8636	Notting Hill Gate
+T127	FAC 8581 8665	a dreary , respectable street between Notting Hill Gate and High Street , Kensington
+T129	PER 8669 8673	Emma
+T132	FAC 8690 8706	the drawing-room
+T141	PER 8901 8914	Master Philip
+T143	FAC 3223 3227	here
+T147	LOC 5711 5720	the world
+T153	FAC 7884 7892	the room
+T154	FAC 7909 7919	downstairs
+T155	FAC 7946 7958	the basement
+T156	LOC 8499 8510	where to go
+T2	FAC 230 248	the house opposite
+T157	FAC 251 280	a stucco house with a portico
+T12	LOC 3941 4047	an elaborate cave in which he could hide himself from the Red Indians who were lurking behind the curtains
+T67	PER 5874 5881	William
+T69	PER 5863 5873	Your Uncle
+T182	PER 2755 2761	Master
+T183	PER 3123 3127	Mrs.
+T184	PER 3357 3361	Miss
+T185	PER 3460 3464	Mrs.
+T186	PER 3606 3610	Miss
+T187	PER 4328 4332	Miss
+T188	PER 5947 5951	Miss
+T189	PER 6483 6487	Miss
+T190	PER 6699 6705	Master
+T191	PER 7217 7221	Miss
+T192	PER 7460 7464	Miss
+T193	PER 8545 8549	Mrs.
+T194	PER 6293 6297	Miss
+T195	PER 8901 8907	Master
+T5	PER 3239 3242	sir
+T7	FAC 141 177	a room in which a child was sleeping
+T30	FAC 2389 2397	the room

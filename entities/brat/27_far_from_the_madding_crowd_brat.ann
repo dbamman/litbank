@@ -1,0 +1,116 @@
+T0	PER 56 66	Farmer Oak
+T5	FAC 811 817	church
+T6	PER 1139 1148	a bad man
+T7	PER 1071 1082	his friends
+T8	PER 1087 1094	critics
+T10	LOC 1855 1862	a river
+T11	PER 1904 1915	their maker
+T12	PER 1829 1839	any wearer
+T13	PER 2038 2045	Mr. Oak
+T14	PER 2266 2284	Oak 's grandfather
+T18	PER 3695 3702	the boy
+T20	PER 3855 3863	some men
+T22	PER 4447 4450	Oak
+T23	PER 4936 4942	a wife
+T24	PER 4993 5003	a bachelor
+T25	LOC 5064 5077	Norcombe Hill
+T27	FAC 5112 5160	the highway between Emminster and Chalk - Newton
+T28	PER 5327 5337	a waggoner
+T30	VEH 5589 5600	the vehicle
+T31	PER 5706 5718	the waggoner
+T32	PER 6051 6085	The girl on the summit of the load
+T33	FAC 6324 6346	the house just vacated
+T34	PER 6514 6531	The handsome girl
+T36	PER 6868 6880	the waggoner
+T41	FAC 8069 8078	a bedroom
+T43	PER 8381 8392	Gabriel Oak
+T44	PER 8851 8854	men
+T45	LOC 8748 8754	Nature
+T46	VEH 9383 9394	the vehicle
+T47	FAC 9363 9371	the road
+T48	PER 9702 9725	the man at the toll-bar
+T49	PER 9670 9697	the persons with the waggon
+T53	PER 10054 10068	the disputants
+T54	PER 10381 10395	the gatekeeper
+T56	PER 10627 10641	Judas Iscariot
+T57	PER 10598 10606	St. John
+T58	FAC 10674 10696	the church he attended
+T59	PER 10913 10920	her man
+T60	PER 10971 10978	Gabriel
+T61	PER 11131 11136	women
+T62	PER 11166 11180	The gatekeeper
+T63	VEH 11190 11212	the retreating vehicle
+T65	PER 25 35	FARMER OAK
+T1	PER 359 366	Gabriel
+T2	PER 396 484	a young man of sound judgment , easy motions , proper dress , and general good character
+T3	PER 505 525	a man of misty views
+T4	PER 765 784	the drunken section
+T66	FAC 750 760	the parish
+T67	PER 726 760	the Communion people of the parish
+T68	PER 1190 1200	a good man
+T69	PER 1235 1297	a man whose moral colour was a kind of pepper-and-salt mixture
+T9	PER 1359 1362	Oak
+T70	PER 1456 1470	his neighbours
+T71	PER 1655 1666	Dr. Johnson
+T72	PER 1922 2035	a conscientious man who endeavoured to compensate for any weakness in his cut by unstinted dimension and solidity
+T73	PER 2266 2269	Oak
+T74	PER 2579 2582	Oak
+T16	PER 2795 2809	his neighbours
+T15	PER 2925 2928	Oak
+T17	PER 3335 3359	some thoughtfull persons
+T75	LOC 3401 3411	his fields
+T76	PER 3495 3506	Gabriel Oak
+T19	LOC 4169 4178	the world
+T21	PER 4189 4192	Oak
+T77	PER 4332 4345	an individual
+T78	PER 4947 4953	family
+T79	LOC 5006 5038	The field he was in this morning
+T80	LOC 5049 5056	a ridge
+T81	LOC 5098 5107	this hill
+T82	LOC 5088 5107	a spur of this hill
+T26	GPE 5132 5141	Emminster
+T83	GPE 5146 5160	Chalk - Newton
+T84	PER 5198 5201	Oak
+T85	VEH 5241 5324	an ornamental spring waggon , painted yellow and gaily marked , drawn by two horses
+T86	VEH 5389 5399	The waggon
+T29	PER 5484 5518	a woman , " young " and attractive
+T87	PER 5521 5528	Gabriel
+T88	VEH 5672 5682	the waggon
+T89	PER 5693 5697	Miss
+T90	PER 5753 5761	the girl
+T91	LOC 5877 5885	the hill
+T92	PER 5986 5998	the waggoner
+T35	PER 7563 7567	girl
+T37	PER 7699 7717	unperceived farmer
+T38	PER 8219 8224	Woman
+T39	PER 9152 9164	The waggoner
+T40	VEH 9272 9282	the waggon
+T42	PER 9299 9306	Gabriel
+T93	LOC 9446 9454	the hill
+T94	LOC 9432 9454	the bottom of the hill
+T95	VEH 9687 9697	the waggon
+T50	PER 9730 9748	Mis ' ess 's niece
+T96	PER 9730 9739	Mis ' ess
+T51	PER 9833 9848	you great miser
+T97	PER 9894 9906	the waggoner
+T52	PER 9937 9946	mis ' ess
+T98	PER 9937 9955	mis ' ess 's niece
+T99	PER 9977 9996	the turnpike-keeper
+T100	PER 10018 10021	Oak
+T101	PER 10034 10037	one
+T102	PER 10041 10068	the other of the disputants
+T55	PER 10404 10419	the young woman
+T103	PER 10496 10503	Gabriel
+T104	PER 10800 10840	The redjacketed and dark - haired maiden
+T105	PER 11225 11240	a handsome maid
+T106	PER 11254 11257	Oak
+T107	PER 11292 11299	Gabriel
+T64	PER 11311 11317	farmer
+T108	PER 11455 11462	Gabriel
+T109	PER 11492 11512	the comely traveller
+T110	PER 2038 2041	Mr.
+T111	PER 10598 10601	St.
+T112	PER 1655 1658	Dr.
+T113	PER 11394 11400	people
+T114	PER 2480 2486	nobody
+T115	PER 7837 7843	nobody

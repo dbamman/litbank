@@ -1,0 +1,163 @@
+T0	PER 232 242	his father
+T1	PER 199 209	His father
+T3	PER 157 194	a nicens little boy named baby tuckoo
+T5	FAC 92 100	the road
+T6	FAC 144 152	the road
+T11	FAC 339 371	the road where Betty Byrne lived
+T12	PER 354 365	Betty Byrne
+T15	PER 580 590	His mother
+T17	PER 640 650	His mother
+T18	PER 674 684	his father
+T19	PER 711 721	the sailor
+T20	PER 831 844	Uncle Charles
+T21	PER 849 854	Dante
+T22	PER 886 896	his father
+T25	PER 901 907	mother
+T26	PER 941 946	Dante
+T27	PER 949 954	Dante
+T29	PER 1096 1103	Parnell
+T30	PER 1106 1111	Dante
+T31	PER 1182 1192	The Vances
+T32	PER 1226 1244	a different father
+T33	PER 1249 1255	mother
+T34	PER 1289 1295	mother
+T35	PER 1268 1274	Eileen
+T37	PER 1344 1350	Eileen
+T39	PER 1378 1388	His mother
+T40	PER 1403 1410	Stephen
+T41	PER 1428 1433	Dante
+T42	PER 1683 1687	boys
+T44	PER 1712 1724	the prefects
+T46	PER 1969 1980	his prefect
+T47	PER 2101 2112	the players
+T48	PER 2149 2161	Rody Kickham
+T50	PER 2220 2235	all the fellows
+T51	PER 2243 2255	Rody Kickham
+T53	PER 2280 2291	Nasty Roche
+T54	PER 2306 2318	Rody Kickham
+T55	PER 2377 2388	Nasty Roche
+T56	PER 2528 2543	Stephen Dedalus
+T57	PER 2505 2512	Stephen
+T58	PER 2551 2562	Nasty Roche
+T59	PER 2652 2663	Nasty Roche
+T60	PER 2687 2698	your father
+T61	PER 2616 2623	Stephen
+T62	PER 2727 2738	A gentleman
+T63	PER 2701 2708	Stephen
+T64	PER 2746 2757	Nasty Roche
+T66	PER 3054 3062	a fellow
+T67	PER 3080 3088	a fellow
+T68	PER 3097 3105	Cantwell
+T69	PER 3151 3159	Cantwell
+T70	PER 3209 3222	Cecil Thunder
+T71	PER 3336 3346	His mother
+T72	PER 3378 3407	the rough boys in the college
+T73	PER 3410 3421	Nice mother
+T74	FAC 3453 3463	the castle
+T75	FAC 3441 3463	the hall of the castle
+T77	PER 3707 3717	his father
+T78	PER 3780 3790	his father
+T79	PER 3889 3897	a fellow
+T80	FAC 3835 3839	home
+T81	PER 4059 4069	his father
+T82	FAC 3920 3930	the castle
+T83	PER 3979 3985	mother
+T84	PER 4074 4080	mother
+T85	PER 3964 3974	his father
+T86	PER 3931 3941	the rector
+T87	PER 4345 4356	The fellows
+T88	PER 4446 4457	Jack Lawton
+T89	FAC 4641 4645	home
+T91	FAC 4681 4695	the study hall
+T92	FAC 4908 4918	the castle
+T94	FAC 5096 5106	the castle
+T95	PER 5145 5157	the soldiers
+T96	PER 5107 5117	the butler
+T97	FAC 5297 5307	the castle
+T98	FAC 5352 5367	Leicester Abbey
+T99	PER 5417 5432	Doctor Cornwell
+T100	FAC 5547 5562	Leicester Abbey
+T101	PER 5532 5538	Wolsey
+T102	PER 5569 5579	the abbots
+T106	PER 5943 5948	Wells
+T107	PER 6045 6053	A fellow
+T108	PER 6099 6105	Mother
+T110	PER 6153 6159	Brigid
+T111	PER 6290 6295	Dante
+T112	LOC 6344 6366	the Mozambique Channel
+T113	GPE 6405 6412	America
+T114	PER 6473 6486	Father Arnall
+T117	PER 6502 6507	Dante
+T120	PER 6580 6585	Dante
+T123	PER 6638 6643	Dante
+T124	FAC 6759 6773	the playground
+T125	PER 6866 6877	The players
+T126	PER 6955 6967	Rody Kickham
+T127	PER 7084 7094	the fellow
+T128	PER 7097 7109	Simon Moonan
+T129	PER 7134 7145	the prefect
+T130	PER 7160 7170	The fellow
+T131	PER 7181 7193	Simon Moonan
+T132	PER 7244 7251	McGlade
+T134	PER 7286 7296	The fellow
+T135	PER 7335 7347	Simon Moonan
+T136	PER 7360 7371	the prefect
+T137	PER 7304 7316	Simon Moonan
+T140	FAC 7523 7540	the Wicklow Hotel
+T141	FAC 8059 8071	the corridor
+T143	PER 8232 8243	the fellows
+T144	PER 8323 8336	Father Arnall
+T145	PER 8453 8460	Stephen
+T146	PER 8714 8727	Father Arnall
+T147	PER 8805 8816	Jack Lawton
+T150	PER 8973 8984	Jack Lawton
+T154	PER 9114 9121	Stephen
+T155	PER 9221 9232	Jack Lawton
+T156	PER 9252 9263	Jack Lawton
+T157	PER 9414 9427	Father Arnall
+T2	PER 304 315	baby tuckoo
+T4	PER 912 925	uncle Charles
+T7	PER 1032 1046	Michael Davitt
+T8	PER 1268 1284	Eileen 's father
+T9	PER 1830 1845	the footballers
+T10	PER 2087 2112	the throng of the players
+T14	PER 2194 2219	captain of the third line
+T16	PER 2260 2275	a decent fellow
+T23	PER 2296 2303	a stink
+T24	FAC 2361 2374	the refectory
+T28	PER 2779 2791	a magistrate
+T36	FAC 3396 3407	the college
+T38	PER 3648 3660	a nice mothe
+T45	VEH 4031 4038	the car
+T49	PER 4160 4167	Stephen
+T52	PER 4193 4200	Stephen
+T65	FAC 4813 4827	the study hall
+T76	PER 4951 4965	Hamilton Rowan
+T90	PER 5235 5248	the community
+T93	PER 5848 5853	Wells
+T103	PER 6135 6140	Dante
+T104	LOC 6384 6412	the longest river in America
+T105	LOC 6438 6470	the highest mountain in the moon
+T109	LOC 6462 6470	the moon
+T119	PER 6523 6531	a priest
+T118	PER 6541 6551	his father
+T116	PER 6556 6569	uncle Charles
+T115	PER 6590 6604	a clever woman
+T121	PER 6609 6626	a well-read woman
+T122	PER 7409 7420	the prefect
+T133	FAC 7507 7540	the lavatory of the Wicklow Hotel
+T138	PER 7545 7555	his father
+T139	FAC 8263 8275	the playroom
+T163	GPE 8692 8696	York
+T43	FAC 1643 1663	The wide playgrounds
+T148	PER 8841 8854	Father Arnall
+T142	LOC 10074 10096	somewhere in the world
+T164	PER 831 836	Uncle
+T165	PER 5417 5423	Doctor
+T166	PER 6473 6479	Father
+T167	PER 8323 8329	Father
+T168	PER 8714 8720	Father
+T169	PER 9414 9420	Father
+T170	PER 912 917	uncle
+T171	PER 6556 6561	uncle
+T172	PER 8841 8847	Father

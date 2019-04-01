@@ -1,0 +1,142 @@
+T0	PER 44 54	The author
+T1	PER 233 243	a prisoner
+T2	PER 275 284	My father
+T3	PER 344 353	five sons
+T4	FAC 370 385	Emanuel College
+T5	PER 653 681	an eminent surgeon in London
+T6	GPE 675 681	London
+T8	GPE 389 398	Cambridge
+T10	PER 979 988	Mr. Bates
+T12	GPE 1175 1181	Leyden
+T14	PER 1397 1419	Captain Abraham Pannel
+T15	GPE 1307 1313	Leyden
+T16	PER 1354 1363	Mr. Bates
+T17	PER 1337 1351	my good master
+T18	PER 1616 1625	my master
+T20	GPE 1586 1592	London
+T21	PER 1676 1692	several patients
+T22	FAC 1710 1740	a small house in the Old Jewry
+T24	PER 2130 2141	my brethren
+T25	PER 2004 2015	few friends
+T28	PER 2176 2183	my wife
+T34	PER 2839 2846	my wife
+T35	FAC 2829 2833	home
+T36	PER 2964 2975	the sailors
+T37	LOC 3185 3198	the South Sea
+T38	PER 3133 3155	master of the Antelope
+T40	PER 3344 3354	the reader
+T41	LOC 3476 3491	the East Indies
+T42	GPE 3549 3567	Van Diemen ’s Land
+T43	LOC 3612 3654	the latitude of 30 degrees 2 minutes south
+T44	LOC 3825 3836	those parts
+T45	VEH 3926 3934	the ship
+T47	VEH 4136 4144	the ship
+T49	VEH 4396 4404	the boat
+T51	PER 4468 4493	my companions in the boat
+T52	VEH 4485 4493	the boat
+T54	FAC 5130 5136	houses
+T55	PER 5140 5151	inhabitants
+T56	VEH 5349 5357	the ship
+T59	PER 7105 7115	the reader
+T64	PER 8627 8642	the inhabitants
+T66	PER 9270 9285	the inhabitants
+T68	PER 9707 9722	the inhabitants
+T69	PER 9499 9519	the principal person
+T72	PER 10187 10196	an orator
+T73	PER 10436 10445	a witness
+T74	VEH 10543 10551	the ship
+T75	PER 10810 10822	a great lord
+T76	PER 11133 11141	the king
+T77	PER 11001 11016	the inhabitants
+T81	PER 13584 13631	a person of high rank from his imperial majesty
+T82	PER 13634 13648	His excellency
+T83	PER 14273 14287	his excellency
+T85	PER 14571 14581	a prisoner
+T86	PER 14961 14971	my enemies
+T90	PER 16113 16124	the emperor
+T91	PER 16093 16107	the physicians
+T92	GPE 21 29	LILLIPUT
+T93	PER 89 95	family
+T96	LOC 190 195	shore
+T97	GPE 261 272	the country
+T98	PER 331 353	the third of five sons
+T99	FAC 289 322	a small estate in Nottinghamshire
+T100	GPE 307 322	Nottinghamshire
+T7	PER 635 650	Mr. James Bates
+T9	PER 719 728	My father
+T101	PER 1006 1015	my father
+T13	PER 1075 1095	some other relations
+T102	PER 1372 1394	surgeon to the Swallow
+T103	PER 1383 1394	the Swallow
+T104	PER 1422 1431	commander
+T105	LOC 1509 1519	the Levant
+T106	LOC 1526 1542	some other parts
+T19	PER 1604 1613	Mr. Bates
+T107	PER 1795 1811	Mrs. Mary Burton
+T26	LOC 2338 2362	the East and West Indies
+T30	LOC 2244 2247	sea
+T23	PER 1814 1850	second daughter to Mr. Edmund Burton
+T32	PER 1833 1850	Mr. Edmund Burton
+T108	PER 1853 1859	hosier
+T109	FAC 1865 1879	Newgate-street
+T110	FAC 1727 1740	the Old Jewry
+T111	ORG 2018 2029	my business
+T112	PER 2190 2213	some of my acquaintance
+T29	PER 2256 2263	surgeon
+T31	VEH 2280 2289	two ships
+T33	PER 2449 2486	the best authors , ancient and modern
+T113	PER 2610 2620	the people
+T114	LOC 2795 2802	the sea
+T115	PER 2851 2857	family
+T116	FAC 2875 2888	the Old Jewry
+T117	FAC 2892 2903	Fetter Lane
+T118	FAC 2925 2932	Wapping
+T119	PER 3106 3130	Captain William Prichard
+T39	GPE 3218 3225	Bristol
+T120	LOC 3397 3407	those seas
+T121	PER 3657 3675	Twelve of our crew
+T122	PER 3722 3730	the rest
+T123	PER 3869 3879	the seamen
+T124	PER 4029 4044	Six of the crew
+T46	VEH 4083 4091	the boat
+T125	LOC 4097 4104	the sea
+T48	VEH 4300 4308	the ship
+T50	PER 4510 4568	those who escaped on the rock , or were left in the vessel
+T126	VEH 4558 4568	the vessel
+T53	LOC 4979 4988	the shore
+T127	LOC 4908 4921	The declivity
+T57	PER 6345 6381	a human creature not six inches high
+T128	PER 6482 6509	forty more of the same kind
+T58	GPE 7984 7990	Europe
+T60	PER 9371 9390	a person of quality
+T61	PER 9861 9871	the person
+T62	PER 10021 10050	a page that held up his train
+T63	PER 10783 10788	hurgo
+T65	PER 10988 11016	a hundred of the inhabitants
+T67	PER 11797 11820	a most ingenious people
+T70	LOC 12071 12079	Burgundy
+T71	PER 13128 13193	a people who had treated me with so much expense and magnificence
+T78	PER 13275 13299	these diminutive mortals
+T79	PER 13431 13455	so prodigious a creature
+T80	PER 13742 13764	a dozen of his retinue
+T129	GPE 14025 14041	the capital city
+T84	PER 15179 15188	a general
+T87	PER 15483 15493	the people
+T88	PER 15266 15305	great numbers of people on my left side
+T27	PER 1958 1963	Bates
+T89	PER 1943 1957	my good master
+T11	PER 1064 1068	John
+T130	PER 1055 1063	my uncle
+T131	PER 979 982	Mr.
+T132	PER 1397 1404	Captain
+T133	PER 1354 1357	Mr.
+T134	PER 635 638	Mr.
+T135	PER 1604 1607	Mr.
+T136	PER 1795 1799	Mrs.
+T137	PER 1833 1836	Mr.
+T138	PER 3106 3113	Captain
+T139	PER 8840 8850	the people
+T140	PER 9080 9086	people
+T141	PER 12474 12490	the people below
+T142	GPE 1184 1189	there
+T94	GPE 199 222	the country of Lilliput

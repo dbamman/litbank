@@ -1,0 +1,175 @@
+T0	PER 123 136	the Ambersons
+T1	PER 10 24	Major Amberson
+T2	PER 316 329	the Ambersons
+T4	GPE 293 301	New York
+T5	PER 556 564	children
+T6	GPE 594 603	that town
+T8	PER 962 973	the drivers
+T9	FAC 900 916	Tennessee Street
+T10	FAC 1332 1337	store
+T11	FAC 1222 1232	the street
+T12	FAC 1322 1328	office
+T15	PER 1659 1668	governors
+T16	PER 1647 1654	Old men
+T17	PER 1896 1905	these men
+T18	GPE 1879 1883	town
+T19	PER 2103 2110	tailors
+T20	FAC 2322 2333	Every house
+T23	PER 2864 2869	women
+T26	PER 4051 4081	a Senator of the United States
+T28	FAC 4378 4408	the houses of the Midland town
+T29	GPE 4392 4408	the Midland town
+T32	FAC 4850 4866	Tennessee Street
+T40	FAC 5158 5169	three rooms
+T42	FAC 5239 5250	the library
+T44	PER 5413 5420	callers
+T46	FAC 5364 5375	the library
+T48	FAC 5623 5636	the “ parlour
+T51	FAC 5768 5793	mother-and-father 's room
+T52	PER 5857 5877	one or two daughters
+T53	FAC 6063 6073	downstairs
+T55	FAC 6351 6361	a bathroom
+T56	PER 6214 6222	visitors
+T57	FAC 6409 6423	the new houses
+T59	FAC 6430 6446	the older houses
+T60	FAC 6558 6574	its own bathroom
+T61	PER 6374 6388	the architects
+T62	PER 6596 6603	plumber
+T64	FAC 6696 6704	upstairs
+T65	FAC 6684 6693	the house
+T66	FAC 6847 6868	the hired man 's room
+T68	FAC 6873 6878	House
+T73	PER 7344 7351	The man
+T75	PER 7355 7384	youth who lived in the stable
+T76	PER 7730 7741	the darkies
+T77	FAC 7773 7782	the alley
+T78	PER 8068 8095	less investigative children
+T79	PER 7960 7981	early rising children
+T80	GPE 8309 8325	the Midland town
+T83	PER 9344 9354	passengers
+T84	PER 9542 9552	the driver
+T85	PER 9499 9511	no conductor
+T86	PER 9664 9678	the passengers
+T87	PER 9788 9802	the passengers
+T88	FAC 9959 9967	upstairs
+T89	FAC 10182 10191	the house
+T90	PER 9924 9930	a lady
+T91	PER 10194 10217	The previous passengers
+T92	PER 10582 10596	its passengers
+T93	PER 10957 10963	a lady
+T3	PER 226 245	Magnificent Lorenzo
+T94	GPE 429 447	their Midland town
+T95	GPE 471 477	a city
+T96	PER 527 564	every prosperous family with children
+T97	GPE 572 584	Newfoundland
+T98	PER 622 659	all the women who wore silk or velvet
+T7	PER 665 708	all the other women who wore silk or velvet
+T99	PER 759 770	sick people
+T101	FAC 880 895	National Avenue
+T100	VEH 1030 1042	slim buggies
+T102	VEH 1126 1169	everybody else 's family horse-and-carriage
+T103	FAC 1273 1279	market
+T13	FAC 1312 1316	home
+T104	LOC 1888 1895	country
+T105	PER 2060 2071	dressmakers
+T106	PER 2074 2084	shoemakers
+T107	PER 2087 2096	hatmakers
+T21	VEH 2547 2560	racing shells
+T108	PER 2872 2917	that variation of dandy known as the “ dude ”
+T109	PER 2890 2895	dandy
+T110	PER 2905 2917	the “ dude ”
+T22	GPE 4064 4081	the United States
+T24	GPE 4156 4164	the land
+T111	FAC 4370 4408	most of the houses of the Midland town
+T112	FAC 4567 4758	commodious yards , well shaded by leftover forest trees , elm and walnut and beech , with here and there a line of tall sycamores where the land had been made by filling bayous from the creek
+T30	LOC 4703 4711	the land
+T113	LOC 4737 4743	bayous
+T114	LOC 4749 4758	the creek
+T115	FAC 4761 4866	The house of a “ prominent resident , ” facing Military Square , or National Avenue , or Tennessee Street
+T116	FAC 4808 4823	Military Square
+T117	FAC 4829 4844	National Avenue
+T119	PER 5302 5314	these people
+T120	PER 5341 5351	the family
+T121	FAC 5480 5523	a place of formidable polish and discomfort
+T49	FAC 5544 5555	the library
+T122	FAC 5737 5745	Upstairs
+T123	FAC 5751 5763	the bedrooms
+T124	PER 5768 5785	mother-and-father
+T126	FAC 5810 5844	a smaller room for one or two sons
+T54	PER 5829 5844	one or two sons
+T127	FAC 5845 5877	another for one or two daughters
+T50	FAC 5880 6167	each of these rooms containing a double bed , a “ washstand , ” a “ bureau , ” a wardrobe , a little table , a rocking-chair , and often a chair or two that had been slightly damaged downstairs , but not enough to justify either the expense of repair or decisive abandonment in the attic
+T128	FAC 6158 6167	the attic
+T129	FAC 6191 6222	a “ spare-room , ” for visitors
+T130	FAC 6396 6405	bathrooms
+T58	GPE 6587 6595	American
+T131	FAC 6709 6731	a bleak little chamber
+T132	FAC 6771 6781	the stable
+T67	FAC 6792 6831	another bedroom , adjoining the hayloft
+T133	FAC 6820 6831	the hayloft
+T135	PER 6847 6860	the hired man
+T136	FAC 6883 6889	stable
+T137	PER 6942 6996	people with that much money to invest in such comforts
+T138	PER 7016 7024	the Rich
+T139	PER 7057 7065	the girl
+T71	GPE 7207 7212	Irish
+T140	GPE 7231 7237	German
+T141	GPE 7253 7265	Scandinavian
+T142	GPE 7288 7296	the land
+T143	PER 7323 7341	a person of colour
+T144	FAC 7374 7384	the stable
+T74	PER 7438 7456	a steerage voyager
+T72	FAC 7533 7571	the alleys behind the stables were gay
+T145	FAC 7551 7562	the stables
+T146	FAC 7613 7632	their dusty lengths
+T147	FAC 7711 7717	stable
+T148	PER 7785 7792	Darkies
+T149	PER 7997 8009	older people
+T150	PER 8284 8325	those darky hired-men of the Midland town
+T81	FAC 8701 8712	The stables
+T151	PER 8843 8855	the “ girl ”
+T152	PER 8860 8877	the “ hired-man ”
+T153	FAC 8935 8941	stable
+T154	FAC 8946 8954	woodshed
+T157	VEH 9167 9195	the little bunty street-cars
+T158	FAC 9199 9272	the long , single track that went its troubled way among the cobblestones
+T159	VEH 9295 9302	the car
+T160	VEH 9404 9411	the car
+T161	PER 9422 9433	The patrons
+T162	VEH 9735 9742	the car
+T163	VEH 9887 9894	the car
+T164	VEH 9981 9988	the car
+T165	FAC 10085 10095	downstairs
+T166	PER 10123 10135	the “ girl ”
+T167	VEH 10273 10280	the car
+T168	VEH 10382 10389	the car
+T169	VEH 10478 10493	the trolley-car
+T25	PER 3737 3748	the wearers
+T82	PER 8624 8644	the careless drivers
+T27	PER 4341 4354	the Ambersons
+T170	PER 10 15	Major
+T70	FAC 7055 7075	“ the girl 's room ”
+T69	PER 7037 7075	the inhabitant of “ the girl 's room ”
+T36	FAC 5109 5126	a “ back hall . ”
+T38	FAC 5077 5092	a “ side hall ”
+T37	FAC 5048 5064	a “ front hall ”
+T41	FAC 5136 5150	“ front hall ”
+T33	FAC 4988 5004	a “ back porch ”
+T35	FAC 5013 5031	a “ side porch , ”
+T34	FAC 4966 4983	a “ front porch ”
+T118	FAC 5172 5189	the “ parlour , ”
+T43	FAC 5190 5212	the “ sitting room , ”
+T39	FAC 5217 5232	the “ library ”
+T31	PER 4774 4800	a “ prominent resident , ”
+T47	FAC 5384 5406	the “ sitting room , ”
+T45	FAC 5462 5479	the “ parlour , ”
+T134	PER 6743 6751	the girl
+T63	FAC 6743 6759	the girl 's room
+T156	PER 8980 8999	the “ hired-man , ”
+T155	PER 8961 8999	the whole tribe of the “ hired-man , ”
+T14	PER 1765 1875	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove-pipe . ”
+T171	PER 63 75	other people
+T172	PER 919 928	everybody
+T173	PER 1126 1140	everybody else
+T174	PER 1111 1120	everybody
+T175	PER 10563 10569	nobody

@@ -1,0 +1,128 @@
+T2	GPE 122 130	New York
+T3	PER 56 73	Christine Nilsson
+T5	PER 481 494	Conservatives
+T8	GPE 588 596	New York
+T9	VEH 1084 1110	the spacious family landau
+T10	PER 833 847	Madame Nilsson
+T13	PER 1522 1541	one 's own coachman
+T14	PER 1599 1625	the great livery-stableman
+T15	PER 1678 1687	Americans
+T16	PER 1773 1787	Newland Archer
+T18	PER 2006 2012	sister
+T19	PER 2180 2191	Mrs. Archer
+T20	PER 1907 1920	the young man
+T22	PER 1991 2001	his mother
+T23	PER 2430 2444	Newland Archer
+T24	PER 2522 2537	his forefathers
+T27	GPE 2430 2456	Newland Archer 's New York
+T28	GPE 2293 2305	metropolises
+T30	GPE 2237 2245	New York
+T32	PER 2670 2682	a dilettante
+T33	PER 3030 3045	the prima donna
+T35	PER 3464 3479	Swedish artists
+T37	PER 3602 3616	Newland Archer
+T38	PER 3909 3924	the prima donna
+T40	PER 4235 4253	his artless victim
+T41	PER 4256 4270	Newland Archer
+T43	FAC 4371 4401	the opposite side of the house
+T45	PER 4617 4650	the younger members of the family
+T49	FAC 4672 4692	the front of the box
+T52	PER 4729 4748	Mrs. Lovell Mingott
+T53	PER 4770 4782	Mrs. Welland
+T55	PER 4815 4837	these brocaded matrons
+T56	PER 4917 4931	Madame Nilsson
+T58	PER 5065 5073	the girl
+T60	PER 5346 5360	Newland Archer
+T62	GPE 5661 5667	Vienna
+T63	GPE 5651 5656	Paris
+T66	PER 6224 6263	Mr. Luther Burbank 's far-off prodigies
+T68	PER 6062 6083	fashionable clergymen
+T70	PER 6224 6242	Mr. Luther Burbank
+T71	PER 6526 6535	M. Capoul
+T79	PER 7340 7349	his bride
+T81	PER 7130 7135	Faust
+T82	PER 7384 7395	May Welland
+T86	GPE 7435 7443	New York
+T88	PER 7701 7731	the future Mrs. Newland Archer
+T93	PER 8162 8170	his wife
+T95	PER 9192 9219	any other man of the number
+T98	GPE 9733 9741	New York
+T103	PER 10091 10118	his lean and elegant person
+T105	PER 10298 10313	a young admirer
+T106	PER 10621 10642	old Sillerton Jackson
+T1	FAC 98 130	the Academy of Music in New York
+T4	FAC 241 349	a new Opera House which should compete in costliness and splendour with those of the great European capitals
+T108	FAC 313 349	those of the great European capitals
+T109	GPE 322 349	the great European capitals
+T110	FAC 454 478	the sociable old Academy
+T111	PER 564 639	the " new people " whom New York was beginning to dread and yet be drawn to
+T6	PER 646 661	the sentimental
+T7	PER 710 721	the musical
+T112	FAC 787 823	halls built for the hearing of music
+T11	PER 891 906	the daily press
+T113	PER 944 979	an exceptionally brilliant audience
+T114	VEH 1061 1078	private broughams
+T12	VEH 1119 1164	the humbler but more convenient " Brown coupe
+T115	FAC 1180 1189	the Opera
+T116	VEH 1193 1206	a Brown coupe
+T117	VEH 1256 1275	one 's own carriage
+T118	VEH 1295 1309	the same means
+T119	VEH 1422 1460	the first Brown conveyance in the line
+T120	FAC 1556 1582	the portico of the Academy
+T121	FAC 1571 1582	the Academy
+T17	FAC 1807 1831	the back of the club box
+T122	FAC 2058 2076	the Gothic library
+T123	FAC 2147 2207	the only room in the house where Mrs. Archer allowed smoking
+T21	GPE 2250 2262	a metropolis
+T26	FAC 2350 2359	the opera
+T25	PER 3030 3062	the prima donna 's stage-manager
+T29	FAC 3089 3100	the Academy
+T31	PER 3547 3573	English-speaking audiences
+T34	PER 4101 4130	the little brown Faust-Capoul
+T36	FAC 4301 4325	the back of the club box
+T39	FAC 4428 4462	the box of old Mrs. Manson Mingott
+T42	PER 4443 4462	Mrs. Manson Mingott
+T44	FAC 4541 4550	the Opera
+T48	PER 4842 4911	a young girl in white with eyes ecstatically fixed on the stagelovers
+T50	PER 4896 4911	the stagelovers
+T51	FAC 4966 4982	the silent house
+T54	PER 4985 4994	the boxes
+T57	PER 5591 5667	people who shared his acquaintance with the Opera houses of Paris and Vienna
+T59	FAC 5631 5667	the Opera houses of Paris and Vienna
+T61	PER 6038 6057	female parishioners
+T64	FAC 6269 6304	the centre of this enchanted garden
+T65	PER 6305 6319	Madame Nilsson
+T67	FAC 6700 6761	the neat brick villa projecting obliquely from the right wing
+T69	PER 6790 6804	Newland Archer
+T72	PER 6835 6879	the young girl with the lilies-of-the-valley
+T73	LOC 7152 7169	the Italian lakes
+T74	PER 7738 7749	a simpleton
+T75	PER 7890 7941	the most popular married women of the " younger set
+T76	PER 8223 8305	the married lady whose charms had held his fancy through two mildly agitated years
+T77	PER 8381 8407	that unhappy being 's life
+T78	PER 8897 8952	the circle of ladies who were the product of the system
+T80	PER 8690 8809	all the carefully-brushed , white-waistcoated , button-hole-flowered gentlemen who succeeded each other in the club box
+T83	PER 8992 9006	Newland Archer
+T84	PER 9031 9095	the superior of these chosen specimens of old New York gentility
+T85	PER 9581 9598	Lawrence Lefferts
+T87	PER 9656 9673	Lawrence Lefferts
+T89	PER 10182 10292	any one who knew how to wear such good clothes so carelessly and carry such height with so much lounging grace
+T90	PER 10359 10367	a fellow
+T91	PER 10443 10457	Larry Lefferts
+T92	GPE 9303 9311	New York
+T47	PER 4755 4767	her daughter
+T46	PER 4707 4726	her daughter-in-law
+T94	PER 7717 7731	Newland Archer
+T124	PER 833 839	Madame
+T125	PER 2180 2184	Mrs.
+T126	PER 4729 4733	Mrs.
+T127	PER 4770 4774	Mrs.
+T128	PER 4917 4923	Madame
+T129	PER 6224 6227	Mr.
+T130	PER 7712 7716	Mrs.
+T131	PER 4443 4447	Mrs.
+T132	PER 6305 6311	Madame
+T96	PER 10342 10349	anybody
+T97	LOC 9175 9184	the world
+T99	LOC 8543 8556	a harsh world
+T100	PER 9783 9795	any one else

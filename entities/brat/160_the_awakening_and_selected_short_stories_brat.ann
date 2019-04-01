@@ -1,0 +1,154 @@
+T2	PER 753 766	Madame Lebrun
+T4	PER 828 842	Mr. Pontellier
+T7	GPE 1428 1439	New Orleans
+T9	PER 1457 1471	Mr. Pontellier
+T12	PER 1948 1983	Two young girls , the Farival twins
+T13	PER 2038 2051	Madame Lebrun
+T15	PER 2199 2220	a dining-room servant
+T16	PER 2419 2434	a lady in black
+T17	PER 2490 2524	A good many persons of the pension
+T20	GPE 2542 2563	the Cheniere Caminada
+T21	PER 2667 2681	Mr. Pontellier
+T24	PER 2667 2697	Mr. Pontellier 's two children
+T26	PER 2753 2769	A quadroon nurse
+T27	PER 2824 2838	Mr. Pontellier
+T29	LOC 3187 3198	the horizon
+T30	PER 3292 3307	Mrs. Pontellier
+T36	PER 3589 3603	Mr. Pontellier
+T38	PER 3757 3765	his wife
+T39	PER 4047 4058	her husband
+T40	PER 4306 4312	Robert
+T42	PER 4680 4694	Mr. Pontellier
+T45	PER 4878 4884	Robert
+T46	PER 4972 4987	Mrs. Pontellier
+T48	PER 4891 4897	Robert
+T49	PER 5067 5078	her husband
+T50	PER 5298 5306	his wife
+T51	PER 5585 5590	Klein
+T52	PER 5710 5723	Both children
+T53	PER 5741 5753	their father
+T56	PER 6414 6420	Robert
+T57	PER 6545 6559	Mr. Pontellier
+T60	PER 6961 6976	Mrs. Pontellier
+T63	PER 7065 7071	Robert
+T64	PER 7465 7473	The Poet
+T65	PER 7353 7396	the children playing croquet under the oaks
+T67	PER 7494 7500	Robert
+T68	PER 7586 7601	Mrs. Pontellier
+T70	PER 7699 7705	Robert
+T71	GPE 7738 7744	Mexico
+T72	FAC 7822 7828	Mexico
+T73	PER 8033 8040	a clerk
+T74	PER 8045 8058	correspondent
+T80	PER 8175 8181	Robert
+T81	PER 8394 8407	Madame Lebrun
+T84	PER 8493 8508	Mrs. Pontellier
+T85	LOC 8584 8618	the old Kentucky bluegrass country
+T88	PER 8522 8532	her father
+T89	GPE 8536 8547	Mississippi
+T93	PER 8921 8931	the father
+T94	PER 8956 8966	the mother
+T95	PER 8833 8839	Robert
+T96	PER 8891 8896	girls
+T97	PER 8897 8908	the sisters
+T98	PER 8988 9003	Mrs. Pontellier
+T100	PER 9161 9172	her husband
+T101	PER 9082 9088	Leonce
+T102	PER 9191 9197	Robert
+T105	PER 9275 9280	Klein
+T106	PER 9291 9306	Mrs. Pontellier
+T108	PER 9336 9349	the young man
+T109	PER 9588 9602	Mr. Pontellier
+T110	PER 9617 9622	Klein
+T1	PER 396 410	Mr. Pontellier
+T113	FAC 543 554	the gallery
+T114	FAC 566 643	the narrow “ bridges ” which connected the Lebrun cottages one with the other
+T115	FAC 605 624	the Lebrun cottages
+T116	FAC 684 698	the main house
+T3	FAC 955 970	his own cottage
+T5	FAC 1003 1020	the main building
+T6	GPE 1250 1260	Grand Isle
+T10	FAC 1799 1808	the house
+T11	FAC 1811 1828	The main building
+T117	FAC 1842 1851	the house
+T118	FAC 1879 1891	the cottages
+T119	PER 2109 2119	a yard-boy
+T14	PER 2712 2750	sturdy little fellows of four and five
+T8	PER 1498 1556	a man of forty , of medium height and rather slender build
+T22	FAC 2144 2153	the house
+T23	FAC 2201 2212	dining-room
+T28	PER 2256 2320	a fresh , pretty woman , clad always in white with elbow sleeves
+T120	FAC 2397 2416	one of the cottages
+T18	VEH 2567 2586	Beaudelet 's lugger
+T19	PER 2602 2619	Some young people
+T121	LOC 3128 3136	The gulf
+T31	PER 3281 3289	his wife
+T32	PER 3320 3333	Robert Lebrun
+T33	FAC 3354 3365	the cottage
+T34	PER 3368 3375	the two
+T35	LOC 4078 4087	the beach
+T37	PER 4429 4439	Pontellier
+T41	PER 4473 4476	one
+T122	PER 4480 4489	the other
+T43	FAC 4788 4802	Klein 's hotel
+T124	PER 4852 4858	Lebrun
+T47	PER 5047 5051	Edna
+T125	FAC 5585 5593	Klein 's
+T54	PER 5859 5874	Mrs. Pontellier
+T55	PER 6716 6729	his companion
+T59	LOC 7332 7344	the Cheniere
+T61	PER 7403 7420	the Farival twins
+T62	PER 7478 7489	the Peasant
+T66	PER 7682 7691	the other
+T69	PER 7654 7658	Each
+T126	GPE 7854 7859	there
+T127	GPE 7761 7786	where fortune awaited him
+T128	FAC 7909 7942	a mercantile house in New Orleans
+T78	GPE 7931 7942	New Orleans
+T75	PER 8123 8133	his mother
+T76	GPE 8137 8147	Grand Isle
+T77	FAC 8201 8210	the house
+T79	PER 8241 8252	the Lebruns
+T129	FAC 8276 8298	dozen or more cottages
+T82	FAC 8536 8558	Mississippi plantation
+T86	FAC 8563 8618	her girlhood home in the old Kentucky bluegrass country
+T90	PER 8629 8723	an American woman , with a small infusion of French which seemed to have been lost in dilution
+T91	LOC 8778 8786	the East
+T99	GPE 9246 9257	New Orleans
+T103	PER 9246 9266	New Orleans club men
+T104	FAC 9275 9283	Klein 's
+T107	FAC 9325 9333	her room
+T132	PER 9395 9414	the croquet players
+T134	PER 9485 9543	the little Pontellier children , who were very fond of him
+T111	FAC 9617 9631	Klein 's hotel
+T25	PER 7305 7344	the people who had gone to the Cheniere
+T58	ORG 9246 9262	New Orleans club
+T87	PER 9723 9731	his wife
+T92	PER 8749 8830	her sister , who was away in the East , and who had engaged herself to be married
+T44	PER 4788 4793	Klein
+T135	PER 753 759	Madame
+T136	PER 828 831	Mr.
+T137	PER 1457 1460	Mr.
+T138	PER 2038 2044	Madame
+T139	PER 2667 2670	Mr.
+T140	PER 2824 2827	Mr.
+T141	PER 3292 3296	Mrs.
+T142	PER 3589 3592	Mr.
+T143	PER 4680 4683	Mr.
+T144	PER 4972 4976	Mrs.
+T145	PER 6545 6548	Mr.
+T146	PER 6961 6965	Mrs.
+T147	PER 7586 7590	Mrs.
+T148	PER 8394 8400	Madame
+T149	PER 8493 8497	Mrs.
+T150	PER 8988 8992	Mrs.
+T151	PER 9291 9295	Mrs.
+T152	PER 9588 9591	Mr.
+T153	PER 396 399	Mr.
+T154	PER 5859 5863	Mrs.
+T112	LOC 8355 8382	the “ Quartier Francais , ”
+T83	PER 8331 8382	exclusive visitors from the “ Quartier Francais , ”
+T155	PER 228 234	nobody
+T123	FAC 1089 1094	there
+T130	FAC 2703 2708	there
+T131	LOC 4540 4545	there

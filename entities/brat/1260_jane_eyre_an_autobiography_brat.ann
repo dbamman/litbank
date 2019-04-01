@@ -1,0 +1,121 @@
+T3	PER 586 595	the nurse
+T6	PER 706 711	Eliza
+T7	PER 760 770	their mama
+T8	PER 725 734	Georgiana
+T11	PER 1464 1470	Bessie
+T12	PER 1524 1533	cavillers
+T13	PER 1618 1628	her elders
+T14	PER 1600 1643	a child taking up her elders in that manner
+T15	PER 1537 1548	questioners
+T16	PER 1994 2000	a Turk
+T21	FAC 2815 2837	the haunts of sea-fowl
+T22	LOC 3011 3025	the North Cape
+T23	LOC 3174 3193	the stormy Hebrides
+T24	GPE 3001 3005	Naze
+T25	GPE 2924 2930	Norway
+T28	LOC 3302 3308	Zembla
+T31	LOC 3297 3301	Nova
+T32	LOC 3358 3373	the Arctic Zone
+T33	PER 3775 3783	children
+T34	FAC 4171 4200	the quite solitary churchyard
+T37	PER 4469 4478	the thief
+T38	PER 5280 5296	Earl of Moreland
+T40	PER 5272 5277	Henry
+T41	PER 5031 5040	Mrs. Reed
+T43	PER 5474 5484	Madam Mope
+T45	PER 5508 5517	John Reed
+T47	PER 5690 5694	mama
+T48	PER 5863 5872	John Reed
+T50	PER 5955 5960	Eliza
+T51	PER 6150 6163	the said Jack
+T52	PER 6254 6265	Master Reed
+T54	PER 6429 6438	John Reed
+T57	PER 6829 6837	his mama
+T59	PER 7041 7051	the mother
+T60	FAC 7226 7230	home
+T61	PER 7145 7149	John
+T62	FAC 7030 7034	home
+T64	PER 6930 6940	the master
+T65	PER 7233 7237	John
+T66	PER 7265 7275	his mother
+T67	PER 7280 7287	sisters
+T68	PER 7767 7776	Mrs. Reed
+T70	PER 7676 7688	the servants
+T71	PER 7712 7730	their young master
+T72	PER 7986 7990	John
+T73	PER 8520 8524	mama
+T74	PER 8693 8702	John Reed
+T77	PER 9146 9155	gentlemen
+T78	PER 9229 9237	our mama
+T79	PER 9073 9084	your father
+T80	PER 9041 9045	mama
+T1	PER 166 175	Mrs. Reed
+T82	PER 196 203	company
+T83	FAC 479 483	home
+T84	PER 577 583	Bessie
+T85	PER 661 666	Eliza
+T86	PER 669 673	John
+T87	PER 714 718	John
+T89	PER 847 859	her darlings
+T9	PER 979 988	the group
+T90	PER 1102 1108	Bessie
+T91	PER 1412 1447	contented , happy , little children
+T10	PER 1503 1507	Jane
+T17	PER 2575 2581	Bewick
+T18	FAC 2845 2880	the solitary rocks and promontories
+T94	LOC 2911 2930	the coast of Norway
+T96	LOC 3243 3270	the bleak shores of Lapland
+T97	LOC 3273 3280	Siberia
+T98	LOC 3283 3294	Spitzbergen
+T99	GPE 3311 3318	Iceland
+T100	GPE 3321 3330	Greenland
+T101	LOC 3380 3417	those forlorn regions of dreary space
+T104	LOC 3649 3673	these death-white realms
+T105	FAC 774 790	the drawing-room
+T106	GPE 2982 2995	the Lindeness
+T95	LOC 3037 3055	the Northern Ocean
+T27	LOC 3969 3974	a sea
+T30	LOC 4028 4043	a desolate coas
+T108	LOC 4396 4408	a torpid sea
+T36	FAC 4646 4655	a gallows
+T110	PER 4822 4828	Bessie
+T112	PER 5259 5265	Pamela
+T113	FAC 5431 5451	The breakfast - room
+T42	FAC 5546 5554	the room
+T114	PER 5622 5627	Lizzy
+T115	PER 5630 5636	Georgy
+T116	PER 5652 5663	his sisters
+T117	PER 5666 5670	Joan
+T119	FAC 5835 5850	my hiding-place
+T49	FAC 6028 6043	the window-seat
+T120	PER 6059 6063	Jack
+T121	FAC 6342 6354	an arm-chair
+T56	FAC 6816 6822	school
+T122	FAC 6852 6856	home
+T125	PER 9027 9038	a dependent
+T126	FAC 9329 9338	the house
+T127	FAC 1723 1739	A breakfast-room
+T128	FAC 1749 1765	the drawing-room
+T92	FAC 1781 1786	there
+T129	LOC 3140 3158	the Atlantic surge
+T109	PER 4618 4655	a distant crowd surrounding a gallows
+T39	FAC 6310 6314	here
+T44	PER 6918 6927	Mr. Miles
+T46	FAC 8941 8951	the window
+T53	FAC 9136 9140	here
+T55	PER 9146 9167	gentlemen 's children
+T2	PER 680 694	Georgiana Reed
+T4	LOC 2946 2979	isles from its southern extremity
+T20	LOC 3087 3133	the naked , melancholy isles Of farthest Thule
+T26	LOC 3423 3455	that reservoir of frost and snow
+T63	LOC 3464 3482	firm fields of ice
+T69	FAC 5678 5682	here
+T5	LOC 2961 2979	southern extremity
+T19	LOC 3128 3133	Thule
+T35	LOC 3263 3270	Lapland
+T130	PER 5031 5035	Mrs.
+T131	PER 5474 5479	Madam
+T132	PER 6254 6260	Master
+T133	PER 7767 7771	Mrs.
+T134	PER 166 170	Mrs.
+T135	PER 6918 6921	Mr.
