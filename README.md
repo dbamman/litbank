@@ -26,6 +26,10 @@ For code and experiments to identify these nested entities using this data, see 
 
 The entity data is formatted in the original [brat](http://brat.nlplab.org) standoff annotation format and in the tab-separated layered format of [https://github.com/meizhiju/layered-bilstm-crf](https://github.com/meizhiju/layered-bilstm-crf).
 
+### Tagger
+
+A trained nested entity tagger (which can be used to tag entities in new text) can be found in the `entities/tagger` directory.
+
 ## Corpus
 
 The corpus is drawn from the public domain texts on Project Gutenberg, and includes individual works of fiction (both novels and short stories) that include a mix of high literary style (e.g., Edith Wharton's *Age of Innocence*, James Joyce's *Ulysses*) and popular pulp fiction (e.g., H. Rider Haggard's *King Solomon's Mines*, Horatio Alger's *Ragged Dick*).  We select approximately 2,000 words from each of 100 texts; the total annotated dataset contains 210,532 tokens.
