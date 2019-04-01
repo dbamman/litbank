@@ -1,7 +1,9 @@
 # LitBank
 
 
-LitBank is an annotated dataset of 100 works of fiction to support tasks in natural language processing and the computational humanities.
+LitBank is an annotated dataset of 100 works of fiction to support tasks in natural language processing and the computational humanities, described in more detail in:
+
+David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)", NAACL 2019.
 
 ## Entity annotations
 
