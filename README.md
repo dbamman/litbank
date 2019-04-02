@@ -140,3 +140,9 @@ The corpus is drawn from the public domain texts on Project Gutenberg, and inclu
 |2005|1919|Wodehouse, P. G. (Pelham Grenville)|Piccadilly Jim|
 |16357|1788|Wollstonecraft, Mary|Mary: A Fiction|
 |1245|1919|Woolf, Virginia|Night and Day|
+
+## Commons
+
+We welcome contributions to LitBank in the form of annotations for new or existing texts in the public domain; please contact dbamman@berkeley.edu to get involved, and see [interannotator.com](http://www.interannotator.com/public/#/litbank/entities/155_the_moonstone_brat) to explore the annotation interface.
+
+
