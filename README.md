@@ -143,6 +143,8 @@ The corpus is drawn from the public domain texts on Project Gutenberg, and inclu
 
 ## Commons
 
-We welcome contributions to LitBank in the form of annotations for new or existing texts in the public domain; please contact dbamman@berkeley.edu to get involved, and see [interannotator.com](http://www.interannotator.com/public/#/litbank/entities/155_the_moonstone_brat) to explore the annotation interface.
+We welcome contributions to LitBank in the form of annotations for new texts in the public domain; please contact dbamman@berkeley.edu to get involved.  For more information:
 
+* See [interannotator.com](http://www.interannotator.com/public/#/litbank/entities/155_the_moonstone_brat) to explore the current annotations in LitBank through the brat annotation interface.
+* Try annotating [O Pioneers!](http://www.interannotator.com/private/index.xhtml#/commons/test/24_o_pioneers_brat) yourself (login by hovering over the "brat" icon in the upper right corner, using username "test" and password "annotate").
 
