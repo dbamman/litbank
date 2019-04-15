@@ -13,7 +13,7 @@ The current layer of annotations in LitBank identifies the entities in text, in 
 
 * People (PER): *Tom Sawyer*, *her daughter*
 * Facilities (FAC): *the house*, *the kitchen*
-* Geo-poltical entities (GPE): *London*, *the village*
+* Geo-political entities (GPE): *London*, *the village*
 * Locations (LOC): *the forest*, *the river*
 * Vehicles (VEH): *the ship*, *the car*
 * Organizations (ORG): *the army*, *the Church*
