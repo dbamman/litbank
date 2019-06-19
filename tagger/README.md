@@ -1,6 +1,6 @@
 # Tag entities/events in new text
 
-This code identifies the entities and events in new text using a bidirectional LSTM (for events) and a layered bidirectional LSTM-CRF (for entities).  Both models use BERT contextual embeddings, which yield a substantial performance increase over equivalent non-BERT neural models reported in [Bamman et al. 2019] (http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf) and [Sims et al. 2019] (http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf).
+This code identifies the entities and events in new text using a bidirectional LSTM (for events) and a layered bidirectional LSTM-CRF (for entities).  Both models use BERT contextual embeddings, which yield a substantial performance increase over equivalent non-BERT neural models (reported in [Bamman et al. 2019](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf) and [Sims et al. 2019](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)).
 
 ||Entities|Events|
 |---|---|---|
