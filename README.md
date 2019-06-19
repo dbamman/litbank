@@ -1,15 +1,20 @@
 # LitBank
 
 
-LitBank is an annotated dataset of 100 works of fiction to support tasks in natural language processing and the computational humanities, described in more detail in:
+LitBank is an annotated dataset of 100 works of English-language fiction to support tasks in natural language processing and the computational humanities, described in more detail in the following publications:
 
-David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)", NAACL 2019.
+* David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)", NAACL 2019.
+
+* Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)", ACL 2019.
+
+LitBank currently contains annotations for *entities* and *events* in a sample of ~2,000 words from each of those texts, totaling 210,532 tokens.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">LitBank</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Entity annotations
 
-The current layer of annotations in LitBank identifies the entities in text, in six of the ACE 2005 categories:
+The entity annotation layer of LitBank covers six of the ACE 2005 categories in text:
 
 * People (PER): *Tom Sawyer*, *her daughter*
 * Facilities (FAC): *the house*, *the kitchen*
@@ -22,15 +27,24 @@ The targets of annotation here include both named entities (e.g., Tom Sawyer) an
 
 ![alt text](img/nested_structure.png "[the elder brother of [[Isabella] 's husband]]")
 
-For code and experiments to identify these nested entities using this data, see the [NAACL2019-literary-entities](https://github.com/dbamman/NAACL2019-literary-entities) repo.
+For more, see: David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)", NAACL 2019.
 
-### Format
 
-The entity data is formatted in the original [brat](http://brat.nlplab.org) standoff annotation format and in the tab-separated layered format of [https://github.com/meizhiju/layered-bilstm-crf](https://github.com/meizhiju/layered-bilstm-crf).
+## Event annotations
 
-### Tagger
+The event layer in LitBank identifies events with asserted *realis* (depicted as actually taking place, with specific participants at a specific time) -- as opposed to events with other epistemic modalities (hypotheticals, future events, extradiegetic summaries by the narrator).
 
-A trained nested entity tagger (which can be used to tag entities in new text) can be found in the `entities/tagger` directory.
+|Text|Events|Source|
+|---|---|---|
+|My father’s eyes had <span style="color:blue">closed</span> upon the light of this world six months, when mine <span style="color:blue">opened</span> on it.|{closed, opened}|Dickens, David Copperfield|
+|Call me Ishmael.|{}|Melville, Moby Dick|
+|His sister was a tall, strong girl, and she <span style="color:blue">walked</span> rapidly and resolutely, as if she knew exactly where she was going and what she was going to do next.|{walked}|Cather, O Pioneers|
+
+For more, see: Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)", ACL 2019.
+
+## Tagger
+
+A trained tagger (which can be used to tag entities and events in new text) can be found in the `tagger/` directory.
 
 ## Corpus
 
@@ -141,10 +155,14 @@ The corpus is drawn from the public domain texts on Project Gutenberg, and inclu
 |16357|1788|Wollstonecraft, Mary|Mary: A Fiction|
 |1245|1919|Woolf, Virginia|Night and Day|
 
+## Format
+
+The entity data is formatted in the original [brat](http://brat.nlplab.org) standoff annotation format and in the tab-separated layered format of [https://github.com/meizhiju/layered-bilstm-crf](https://github.com/meizhiju/layered-bilstm-crf).
+
 ## Commons
 
 We welcome contributions to LitBank in the form of annotations for new texts in the public domain and suggestions for new texts to include; please contact dbamman@berkeley.edu to get involved.  For more information:
 
-* See [interannotator.com](http://www.interannotator.com/public/#/litbank/entities/155_the_moonstone_brat) to explore the current annotations in LitBank through the brat annotation interface.
-* Try annotating [O Pioneers!](http://www.interannotator.com/private/index.xhtml#/commons/test/24_o_pioneers_brat) yourself (login by hovering over the "brat" icon in the upper right corner, using username "test" and password "annotate").
+* See [interannotator.com](http://www.interannotator.com/public/#/litbank/entities/155_the_moonstone_brat) to explore the current entity annotations in LitBank through the brat annotation interface.
+* Try annotating entities in [O Pioneers!](http://www.interannotator.com/private/index.xhtml#/commons/test/24_o_pioneers_brat) yourself (login by hovering over the "brat" icon in the upper right corner, using username "test" and password "annotate").
 
