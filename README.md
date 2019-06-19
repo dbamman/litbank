@@ -3,9 +3,9 @@
 
 LitBank is an annotated dataset of 100 works of English-language fiction to support tasks in natural language processing and the computational humanities, described in more detail in the following publications:
 
-* David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)", NAACL 2019.
+* David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)," NAACL 2019.
 
-* Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)", ACL 2019.
+* Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
 
 LitBank currently contains annotations for *entities* and *events* in a sample of ~2,000 words from each of those texts, totaling 210,532 tokens.
 
@@ -27,7 +27,7 @@ The targets of annotation here include both named entities (e.g., Tom Sawyer) an
 
 ![alt text](img/nested_structure.png "[the elder brother of [[Isabella] 's husband]]")
 
-For more, see: David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)", NAACL 2019.
+For more, see: David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)," NAACL 2019.
 
 
 ## Event annotations
@@ -40,7 +40,7 @@ The event layer in LitBank identifies events with asserted *realis* (depicted as
 |Call me Ishmael.|{}|Melville, Moby Dick|
 |His sister was a tall, strong girl, and she <span style="color:blue">walked</span> rapidly and resolutely, as if she knew exactly where she was going and what she was going to do next.|{walked}|Cather, O Pioneers|
 
-For more, see: Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)", ACL 2019.
+For more, see: Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
 
 ## Tagger
 
