@@ -36,7 +36,7 @@ The event layer in LitBank identifies events with asserted *realis* (depicted as
 
 |Text|Events|Source|
 |---|---|---|
-|My father’s eyes had **closed**> upon the light of this world six months, when mine **opened** on it.|{closed, opened}|Dickens, David Copperfield|
+|My father’s eyes had **closed** upon the light of this world six months, when mine **opened** on it.|{closed, opened}|Dickens, David Copperfield|
 |Call me Ishmael.|{}|Melville, Moby Dick|
 |His sister was a tall, strong girl, and she **walked** rapidly and resolutely, as if she knew exactly where she was going and what she was going to do next.|{walked}|Cather, O Pioneers|
 
