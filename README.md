@@ -166,3 +166,7 @@ We welcome contributions to LitBank in the form of annotations for new texts in 
 * See [interannotator.com](http://www.interannotator.com/public/#/litbank/entities/155_the_moonstone_brat) to explore the current entity annotations in LitBank through the brat annotation interface.
 * Try annotating entities in [O Pioneers!](http://www.interannotator.com/private/index.xhtml#/commons/test/24_o_pioneers_brat) yourself (login by hovering over the "brat" icon in the upper right corner, using username "test" and password "annotate").
 
+## Acknowledgments
+
+This work was supported by an Amazon Research Award ("Natural Language Processing for Literary Texts").
+
