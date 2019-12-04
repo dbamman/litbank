@@ -54,8 +54,8 @@ We annotations three different categories of coreference phenomena -- coreferenc
 |Phenomenon|Example|Source|
 |---|---|---|
 |Coreference|One may as well begin with [Helen]<sub>x</sub>'s letters to [[her]<sub>x</sub> sister]<sub>y</sub>|Forster, *Howard's End*
-|Copulae|<img src="img/copula.pdf" alt="drawing" width="200"/>|Melville, *Bartleby, the Scrivener*|
-| Appositions |<img src="img/apposition.pdf" alt="drawing" width="350"/>|Conrad, *Heart of Darkness*|
+|Copulae|<img src="img/copula.png" alt="drawing" width="200"/>|Melville, *Bartleby, the Scrivener*|
+| Appositions |<img src="img/apposition.png" alt="drawing" width="350"/>|Conrad, *Heart of Darkness*|
 
 Annotations largely follow OntoNotes guidelines (though singleton mentions *are* annotated here), with several departures for literary style (including the distinction between generic/specific mentions, near-identity and the revelation of identity). For more on the coreference criteria used in these annotations, see David Bamman, Olivia Lewke and Anya Mansoor (2019), "An Annotated Dataset of Coreference in English Literature", ArXiv.
 
