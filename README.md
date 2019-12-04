@@ -49,13 +49,13 @@ For more, see: Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detect
 
 The coreference layer in LitBank covers the six ACE entity categories outlined above (people, facilities, locations, geo-political entities, organizations and vehicles); while the entity tagging above only covers proper noun phrases (*Tom Sawyer*) and common noun phrases (*the boy*), the coref annotations also cover personal pronouns (*he*) as well.
 
-We annotations three different categories of coreference phenomena -- coreference of identity (which links a mention in text to a discourse entity); copula (which links an attribute mention to another mention); and apposition (which links an appositive expression to another mention).
+We annotate three different categories of coreference phenomena -- coreference of identity (which links a mention in text to a discourse entity); copula (which links an attribute mention to another mention); and apposition (which links an appositive expression to another mention).
 
 |Phenomenon|Example|Source|
 |---|---|---|
 |Coreference|One may as well begin with [Helen]<sub>x</sub>'s letters to [[her]<sub>x</sub> sister]<sub>y</sub>|Forster, *Howard's End*
-|Copulae|<img src="img/copula.png" alt="drawing" width="200"/>|Melville, *Bartleby, the Scrivener*|
-| Appositions |<img src="img/apposition.png" alt="drawing" width="350"/>|Conrad, *Heart of Darkness*|
+|Copula|<img src="img/copula.png" alt="drawing" width="200"/>|Melville, *Bartleby, the Scrivener*|
+| Apposition |<img src="img/apposition.png" alt="drawing" width="350"/>|Conrad, *Heart of Darkness*|
 
 Annotations largely follow OntoNotes guidelines (though singleton mentions *are* annotated here), with several departures for literary style (including the distinction between generic/specific mentions, near-identity and the revelation of identity). For more on the coreference criteria used in these annotations, see David Bamman, Olivia Lewke and Anya Mansoor (2019), "[An Annotated Dataset of Coreference in English Literature](https://arxiv.org/abs/1912.01140)", ArXiv.
 
