@@ -3,11 +3,13 @@
 
 LitBank is an annotated dataset of 100 works of English-language fiction to support tasks in natural language processing and the computational humanities, described in more detail in the following publications:
 
-* David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)," NAACL 2019.
+* David Bamman, Sejal Popat and Sheng Shen (2019), "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)," NAACL 2019.
 
-* Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
+* Matt Sims, Jong Ho Park and David Bamman (2019), "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
 
-LitBank currently contains annotations for *entities* and *events* in a sample of ~2,000 words from each of those texts, totaling 210,532 tokens.
+* David Bamman, Olivia Lewke and Anya Mansoor (2019), "An Annotated Dataset of Coreference in English Literature", ArXiv.
+
+LitBank currently contains annotations for entities, events and entity coreference in a sample of ~2,000 words from each of those texts, totaling 210,532 tokens.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">LitBank</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
@@ -25,7 +27,8 @@ The entity annotation layer of LitBank covers six of the ACE 2005 categories in 
 
 The targets of annotation here include both named entities (e.g., Tom Sawyer) and common entities (the boy).  These entities can be nested, as in the following:
 
-![alt text](img/nested_structure.png "[the elder brother of [[Isabella] 's husband]]")
+<img src="img/nested_structure.png" alt="drawing" width="300"/>
+
 
 For more, see: David Bamman, Sejal Popat and Sheng Shen, "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)," NAACL 2019.
 
@@ -42,9 +45,24 @@ The event layer in LitBank identifies events with asserted *realis* (depicted as
 
 For more, see: Matt Sims, Jong Ho Park and David Bamman, "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
 
+## Coreference annotations
+
+The coreference layer in LitBank covers the six ACE entity categories outlined above (people, facilities, locations, geo-political entities, organizations and vehicles); while the entity tagging above only covers proper noun phrases (*Tom Sawyer*) and common noun phrases (*the boy*), the coref annotations also cover personal pronouns (*he*) as well.
+
+We annotations three different categories of coreference phenomena -- coreference of identity (which links a mention in text to a discourse entity); copula (which links an attribute mention to another mention); and apposition (which links an appositive expression to another mention).
+
+|Phenomenon|Example|Source|
+|---|---|---|
+|Coreference|One may as well begin with [Helen]<sub>x</sub>'s letters to [[her]<sub>x</sub> sister]<sub>y</sub>|Forster, *Howard's End*
+|Copulae|<img src="img/copula.pdf" alt="drawing" width="200"/>|Melville, *Bartleby, the Scrivener*|
+| Appositions |<img src="img/apposition.pdf" alt="drawing" width="350"/>|Conrad, *Heart of Darkness*|
+
+Annotations largely follow OntoNotes guidelines (though singleton mentions *are* annotated here), with several departures for literary style (including the distinction between generic/specific mentions, near-identity and the revelation of identity). For more on the coreference criteria used in these annotations, see David Bamman, Olivia Lewke and Anya Mansoor (2019), "An Annotated Dataset of Coreference in English Literature", ArXiv.
+
+
 ## Tagger
 
-A trained tagger (which can be used to tag entities and events in new text) can be found in the `tagger/` directory.
+A trained tagger (which can be used to tag entities and events in new text) can be found in the `tagger/` directory.  (A model for coreference resolution is coming shortly.)
 
 ## Corpus
 
