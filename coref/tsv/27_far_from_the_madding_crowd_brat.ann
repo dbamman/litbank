@@ -1,0 +1,477 @@
+MENTION	T0	0	10	0	11	Farmer Oak	PER	PROP
+MENTION	T5	2	63	2	63	church	FAC	NOM
+MENTION	T6	3	29	3	31	a bad man	PER	NOM
+MENTION	T7	3	17	3	18	his friends	PER	NOM
+MENTION	T8	3	20	3	20	critics	PER	NOM
+MENTION	T10	5	61	5	62	a river	LOC	NOM
+MENTION	T11	5	72	5	73	their maker	PER	NOM
+MENTION	T12	5	56	5	57	any wearer	PER	NOM
+MENTION	T13	6	0	6	1	Mr. Oak	PER	PROP
+MENTION	T14	7	7	7	9	Oak 's grandfather	PER	NOM
+MENTION	T18	12	31	12	32	the boy	PER	NOM
+MENTION	T20	14	5	14	6	some men	PER	NOM
+MENTION	T22	16	30	16	30	Oak	PER	PROP
+MENTION	T23	18	65	18	66	a wife	PER	NOM
+MENTION	T24	19	8	19	9	a bachelor	PER	NOM
+MENTION	T25	20	12	20	13	Norcombe Hill	LOC	PROP
+MENTION	T27	21	7	21	14	the highway between Emminster and Chalk - Newton	FAC	NOM
+MENTION	T28	22	30	22	31	a waggoner	PER	NOM
+MENTION	T30	24	14	24	15	the vehicle	VEH	NOM
+MENTION	T31	25	12	25	13	the waggoner	PER	NOM
+MENTION	T32	33	0	33	7	The girl on the summit of the load	PER	NOM
+MENTION	T33	33	53	33	56	the house just vacated	FAC	NOM
+MENTION	T34	35	0	35	2	The handsome girl	PER	NOM
+MENTION	T36	38	7	38	8	the waggoner	PER	NOM
+MENTION	T41	46	19	46	20	a bedroom	FAC	NOM
+MENTION	T43	49	6	49	7	Gabriel Oak	PER	PROP
+MENTION	T44	52	27	52	27	men	PER	NOM
+MENTION	T45	52	9	52	9	Nature	LOC	NOM
+MENTION	T46	56	22	56	23	the vehicle	VEH	NOM
+MENTION	T47	56	18	56	19	the road	FAC	NOM
+MENTION	T48	58	15	58	19	the man at the toll-bar	PER	NOM
+MENTION	T49	58	9	58	13	the persons with the waggon	PER	NOM
+MENTION	T53	63	8	63	9	the disputants	PER	NOM
+MENTION	T54	66	9	66	10	the gatekeeper	PER	NOM
+MENTION	T56	68	23	68	24	Judas Iscariot	PER	PROP
+MENTION	T57	68	17	68	18	St. John	PER	PROP
+MENTION	T58	68	32	68	35	the church he attended	FAC	NOM
+MENTION	T59	69	22	69	23	her man	PER	NOM
+MENTION	T60	70	7	70	7	Gabriel	PER	PROP
+MENTION	T61	70	43	70	43	women	PER	NOM
+MENTION	T62	71	0	71	1	The gatekeeper	PER	NOM
+MENTION	T63	71	3	71	5	the retreating vehicle	VEH	NOM
+MENTION	T65	0	4	0	5	FARMER OAK	PER	PROP
+MENTION	T1	1	4	1	4	Gabriel	PER	PROP
+MENTION	T2	1	12	1	28	a young man of sound judgment , easy motions , proper dress , and general good character	PER	NOM
+MENTION	T3	2	4	2	8	a man of misty views	PER	NOM
+MENTION	T4	2	52	2	54	the drunken section	PER	NOM
+MENTION	T66	2	49	2	50	the parish	FAC	NOM
+MENTION	T67	2	45	2	50	the Communion people of the parish	PER	NOM
+MENTION	T68	3	41	3	43	a good man	PER	NOM
+MENTION	T69	3	52	3	62	a man whose moral colour was a kind of pepper-and-salt mixture	PER	NOM
+MENTION	T9	4	11	4	11	Oak	PER	PROP
+MENTION	T70	4	29	4	30	his neighbours	PER	NOM
+MENTION	T71	5	28	5	29	Dr. Johnson	PER	PROP
+MENTION	T72	5	75	5	92	a conscientious man who endeavoured to compensate for any weakness in his cut by unstinted dimension and solidity	PER	NOM
+MENTION	T73	7	7	7	7	Oak	PER	PROP
+MENTION	T74	9	6	9	6	Oak	PER	PROP
+MENTION	T16	9	46	9	47	his neighbours	PER	NOM
+MENTION	T15	10	5	10	5	Oak	PER	PROP
+MENTION	T17	11	1	11	3	some thoughtfull persons	PER	NOM
+MENTION	T75	11	13	11	14	his fields	LOC	NOM
+MENTION	T76	11	29	11	30	Gabriel Oak	PER	PROP
+MENTION	T19	15	25	15	26	the world	LOC	NOM
+MENTION	T21	15	30	15	30	Oak	PER	PROP
+MENTION	T77	16	9	16	10	an individual	PER	NOM
+MENTION	T78	18	68	18	68	family	PER	NOM
+MENTION	T79	20	0	20	6	The field he was in this morning	LOC	NOM
+MENTION	T80	20	9	20	10	a ridge	LOC	NOM
+MENTION	T81	21	4	21	5	this hill	LOC	NOM
+MENTION	T82	21	1	21	5	a spur of this hill	LOC	NOM
+MENTION	T26	21	10	21	10	Emminster	GPE	PROP
+MENTION	T83	21	12	21	14	Chalk - Newton	GPE	PROP
+MENTION	T84	22	6	22	6	Oak	PER	PROP
+MENTION	T85	22	14	22	28	an ornamental spring waggon , painted yellow and gaily marked , drawn by two horses	VEH	NOM
+MENTION	T86	23	0	23	1	The waggon	VEH	NOM
+MENTION	T29	23	19	23	26	a woman , " young " and attractive	PER	NOM
+MENTION	T87	24	0	24	0	Gabriel	PER	PROP
+MENTION	T88	25	4	25	5	the waggon	VEH	NOM
+MENTION	T90	27	1	27	2	the girl	PER	NOM
+MENTION	T91	28	15	28	16	the hill	LOC	NOM
+MENTION	T92	32	9	32	10	the waggoner	PER	NOM
+MENTION	T35	43	34	43	34	girl	PER	NOM
+MENTION	T37	44	19	44	20	unperceived farmer	PER	NOM
+MENTION	T38	48	0	48	0	Woman	PER	NOM
+MENTION	T39	54	0	54	1	The waggoner	PER	NOM
+MENTION	T40	56	1	56	2	the waggon	VEH	NOM
+MENTION	T42	56	7	56	7	Gabriel	PER	PROP
+MENTION	T93	56	33	56	34	the hill	LOC	NOM
+MENTION	T94	56	30	56	34	the bottom of the hill	LOC	NOM
+MENTION	T95	58	12	58	13	the waggon	VEH	NOM
+MENTION	T50	59	1	59	5	Mis ' ess 's niece	PER	NOM
+MENTION	T51	59	26	59	28	you great miser	PER	NOM
+MENTION	T97	60	2	60	3	the waggoner	PER	NOM
+MENTION	T98	61	5	61	9	mis ' ess 's niece	PER	NOM
+MENTION	T99	62	1	62	2	the turnpike-keeper	PER	NOM
+MENTION	T100	63	0	63	0	Oak	PER	PROP
+MENTION	T101	63	3	63	3	one	PER	NOM
+MENTION	T102	63	5	63	9	the other of the disputants	PER	NOM
+MENTION	T55	66	14	66	16	the young woman	PER	NOM
+MENTION	T103	68	0	68	0	Gabriel	PER	PROP
+MENTION	T104	69	0	69	6	The redjacketed and dark - haired maiden	PER	NOM
+MENTION	T105	72	3	72	5	a handsome maid	PER	NOM
+MENTION	T106	72	10	72	10	Oak	PER	PROP
+MENTION	T107	73	1	73	1	Gabriel	PER	PROP
+MENTION	T64	74	3	74	3	farmer	PER	NOM
+MENTION	T108	80	0	80	0	Gabriel	PER	PROP
+MENTION	T109	80	7	80	9	the comely traveller	PER	NOM
+MENTION	T113	76	2	76	2	people	PER	NOM
+MENTION	T114	8	26	8	26	nobody	PER	NOM
+MENTION	T115	44	46	44	46	nobody	PER	NOM
+MENTION	T117	0	17	0	17	his	PER	PRON
+MENTION	T119	0	28	0	28	his	PER	PRON
+MENTION	T120	0	31	0	31	his	PER	PRON
+MENTION	T122	0	47	0	47	his	PER	PRON
+MENTION	T123	1	0	1	0	His	PER	PRON
+MENTION	T124	1	10	1	10	he	PER	PRON
+MENTION	T125	2	2	2	2	he	PER	PRON
+MENTION	T126	2	18	2	18	his	PER	PRON
+MENTION	T127	2	31	2	31	himself	PER	PRON
+MENTION	T128	2	60	2	60	he	PER	PRON
+MENTION	T129	2	91	2	91	he	PER	PRON
+MENTION	T130	3	4	3	4	his	PER	PRON
+MENTION	T131	3	17	3	17	his	PER	PRON
+MENTION	T132	3	25	3	25	he	PER	PRON
+MENTION	T133	3	34	3	34	they	PER	PRON
+MENTION	T134	3	38	3	38	he	PER	PRON
+MENTION	T135	3	46	3	46	they	PER	PRON
+MENTION	T136	3	50	3	50	he	PER	PRON
+MENTION	T137	4	1	4	1	he	PER	PRON
+MENTION	T138	4	15	4	15	his	PER	PRON
+MENTION	T139	4	21	4	21	his	PER	PRON
+MENTION	T140	4	29	4	29	his	PER	PRON
+MENTION	T141	4	33	4	33	him	PER	PRON
+MENTION	T142	5	0	5	0	He	PER	PRON
+MENTION	T143	5	32	5	32	his	PER	PRON
+MENTION	T145	5	86	5	86	his	PER	PRON
+MENTION	T146	6	4	6	4	him	PER	PRON
+MENTION	T148	9	4	9	4	his	PER	PRON
+MENTION	T149	9	14	9	14	he	PER	PRON
+MENTION	T150	9	39	9	39	his	PER	PRON
+MENTION	T151	9	46	9	46	his	PER	PRON
+MENTION	T152	9	52	9	52	he	PER	PRON
+MENTION	T153	10	24	10	24	his	PER	PRON
+MENTION	T154	10	35	10	35	his	PER	PRON
+MENTION	T155	11	8	11	8	him	PER	PRON
+MENTION	T156	11	13	11	13	his	PER	PRON
+MENTION	T157	12	1	12	1	his	PER	PRON
+MENTION	T158	12	25	12	25	his	PER	PRON
+MENTION	T159	13	0	13	0	His	PER	PRON
+MENTION	T160	13	10	13	10	his	PER	PRON
+MENTION	T162	14	34	14	34	their	PER	PRON
+MENTION	T163	14	37	14	37	their	PER	PRON
+MENTION	T164	14	41	14	41	them	PER	PRON
+MENTION	T165	15	17	15	17	him	PER	PRON
+MENTION	T166	15	19	15	19	he	PER	PRON
+MENTION	T167	16	12	16	12	he	PER	PRON
+MENTION	T168	16	15	16	15	his	PER	PRON
+MENTION	T169	16	19	16	19	his	PER	PRON
+MENTION	T170	16	23	16	23	his	PER	PRON
+MENTION	T171	17	0	17	0	He	PER	PRON
+MENTION	T172	18	0	18	0	He	PER	PRON
+MENTION	T173	18	11	18	11	his	PER	PRON
+MENTION	T174	18	14	18	14	his	PER	PRON
+MENTION	T175	18	20	18	20	he	PER	PRON
+MENTION	T177	18	41	18	41	he	PER	PRON
+MENTION	T179	19	3	19	3	he	PER	PRON
+MENTION	T180	20	2	20	2	he	PER	PRON
+MENTION	T181	22	13	22	13	him	PER	PRON
+MENTION	T182	24	23	24	23	his	PER	PRON
+MENTION	T183	26	2	26	2	I	PER	PRON
+MENTION	T184	28	1	28	1	I	PER	PRON
+MENTION	T185	28	5	28	5	I	PER	PRON
+MENTION	T186	28	11	28	11	we	PER	PRON
+MENTION	T187	29	1	29	1	I	PER	PRON
+MENTION	T188	31	0	31	0	she	PER	PRON
+MENTION	T191	35	9	35	9	her	PER	PRON
+MENTION	T192	36	1	36	1	she	PER	PRON
+MENTION	T194	38	0	38	0	She	PER	PRON
+MENTION	T195	38	2	38	2	her	PER	PRON
+MENTION	T196	39	0	39	0	He	PER	PRON
+MENTION	T197	39	15	39	15	her	PER	PRON
+MENTION	T198	40	2	40	2	she	PER	PRON
+MENTION	T199	40	7	40	7	her	PER	PRON
+MENTION	T200	40	25	40	25	she	PER	PRON
+MENTION	T201	40	29	40	29	herself	PER	PRON
+MENTION	T202	41	0	41	0	She	PER	PRON
+MENTION	T203	41	2	41	2	her	PER	PRON
+MENTION	T204	42	18	42	18	she	PER	PRON
+MENTION	T205	42	27	42	27	her	PER	PRON
+MENTION	T206	43	9	43	9	her	PER	PRON
+MENTION	T208	44	2	44	2	her	PER	PRON
+MENTION	T209	44	39	44	39	her	PER	PRON
+MENTION	T210	45	0	45	0	She	PER	PRON
+MENTION	T211	45	3	45	3	herself	PER	PRON
+MENTION	T212	45	7	45	7	her	PER	PRON
+MENTION	T213	49	9	49	9	he	PER	PRON
+MENTION	T214	49	16	49	16	he	PER	PRON
+MENTION	T215	50	6	50	6	her	PER	PRON
+MENTION	T216	51	0	51	0	She	PER	PRON
+MENTION	T217	51	4	51	4	her	PER	PRON
+MENTION	T218	51	9	51	9	her	PER	PRON
+MENTION	T219	51	31	51	31	her	PER	PRON
+MENTION	T220	52	0	52	0	She	PER	PRON
+MENTION	T221	52	3	52	3	herself	PER	PRON
+MENTION	T222	52	15	52	15	her	PER	PRON
+MENTION	T224	55	0	55	0	She	PER	PRON
+MENTION	T225	56	10	56	10	his	PER	PRON
+MENTION	T226	56	40	56	40	his	PER	PRON
+MENTION	T227	57	6	57	6	him	PER	PRON
+MENTION	T228	57	12	57	12	he	PER	PRON
+MENTION	T229	59	15	59	15	she	PER	PRON
+MENTION	T230	59	21	59	21	I	PER	PRON
+MENTION	T231	59	26	59	26	you	PER	PRON
+MENTION	T232	59	31	59	31	she	PER	PRON
+MENTION	T233	66	0	66	0	he	PER	PRON
+MENTION	T234	67	0	67	0	He	PER	PRON
+MENTION	T235	67	4	67	4	her	PER	PRON
+MENTION	T236	67	7	67	7	she	PER	PRON
+MENTION	T237	67	9	67	9	his	PER	PRON
+MENTION	T239	68	34	68	34	he	PER	PRON
+MENTION	T240	69	14	69	14	she	PER	PRON
+MENTION	T241	69	18	69	18	him	PER	PRON
+MENTION	T242	69	22	69	22	her	PER	PRON
+MENTION	T243	70	0	70	0	She	PER	PRON
+MENTION	T244	70	4	70	4	her	PER	PRON
+MENTION	T245	70	14	70	14	she	PER	PRON
+MENTION	T247	70	22	70	22	she	PER	PRON
+MENTION	T248	70	29	70	29	her	PER	PRON
+MENTION	T249	70	32	70	32	he	PER	PRON
+MENTION	T250	70	35	70	35	her	PER	PRON
+MENTION	T251	70	36	70	36	her	PER	PRON
+MENTION	T252	70	40	70	40	we	PER	PRON
+MENTION	T253	72	7	72	7	he	PER	PRON
+MENTION	T254	72	13	72	13	she	PER	PRON
+MENTION	T255	72	15	72	15	her	PER	PRON
+MENTION	T257	80	17	80	17	he	PER	PRON
+MENTION	T258	80	20	80	20	her	PER	PRON
+COREF	T65	FARMER_OAK-0
+COREF	T0	FARMER_OAK-0
+COREF	T117	FARMER_OAK-0
+COREF	T119	FARMER_OAK-0
+COREF	T120	FARMER_OAK-0
+COREF	T122	FARMER_OAK-0
+COREF	T123	FARMER_OAK-0
+COREF	T1	FARMER_OAK-0
+COREF	T124	FARMER_OAK-0
+COREF	T125	FARMER_OAK-0
+COREF	T126	FARMER_OAK-0
+COREF	T127	FARMER_OAK-0
+COREF	T67	the_Communion_people_of_the_parish-1
+COREF	T66	the_parish-2
+COREF	T4	the_drunken_section-3
+COREF	T128	FARMER_OAK-0
+COREF	T5	church-4
+COREF	T129	FARMER_OAK-0
+COREF	T130	FARMER_OAK-0
+COREF	T7	his_friends-5
+COREF	T131	FARMER_OAK-0
+COREF	T8	critics-6
+COREF	T132	FARMER_OAK-0
+COREF	T133	they-8
+COREF	T134	FARMER_OAK-0
+COREF	T135	they-8
+COREF	T136	FARMER_OAK-0
+COREF	T137	FARMER_OAK-0
+COREF	T9	FARMER_OAK-0
+COREF	T138	FARMER_OAK-0
+COREF	T139	FARMER_OAK-0
+COREF	T70	his_neighbours-9
+COREF	T140	FARMER_OAK-0
+COREF	T141	FARMER_OAK-0
+COREF	T142	FARMER_OAK-0
+COREF	T71	Dr__Johnson-10
+COREF	T143	FARMER_OAK-0
+COREF	T12	any_wearer-11
+COREF	T10	a_river-12
+COREF	T11	FARMER_OAK-0
+COREF	T145	FARMER_OAK-0
+COREF	T13	FARMER_OAK-0
+COREF	T146	FARMER_OAK-0
+COREF	T14	Oak__s_grandfather-13
+COREF	T73	FARMER_OAK-0
+COREF	T114	nobody-100000
+COREF	T148	FARMER_OAK-0
+COREF	T74	FARMER_OAK-0
+COREF	T149	FARMER_OAK-0
+COREF	T150	FARMER_OAK-0
+COREF	T16	his_neighbours-9
+COREF	T151	FARMER_OAK-0
+COREF	T152	FARMER_OAK-0
+COREF	T15	FARMER_OAK-0
+COREF	T153	FARMER_OAK-0
+COREF	T154	FARMER_OAK-0
+COREF	T17	some_thoughtfull_persons-14
+COREF	T155	FARMER_OAK-0
+COREF	T75	his_fields-15
+COREF	T156	FARMER_OAK-0
+COREF	T76	FARMER_OAK-0
+COREF	T157	FARMER_OAK-0
+COREF	T158	FARMER_OAK-0
+COREF	T18	FARMER_OAK-0
+COREF	T159	FARMER_OAK-0
+COREF	T160	FARMER_OAK-0
+COREF	T20	some_men-16
+COREF	T162	some_men-16
+COREF	T163	some_men-16
+COREF	T164	some_men-16
+COREF	T165	FARMER_OAK-0
+COREF	T166	FARMER_OAK-0
+COREF	T19	the_world-17
+COREF	T21	FARMER_OAK-0
+COREF	T77	an_individual-18
+COREF	T167	an_individual-18
+COREF	T168	an_individual-18
+COREF	T169	an_individual-18
+COREF	T170	an_individual-18
+COREF	T22	FARMER_OAK-0
+COREF	T171	FARMER_OAK-0
+COREF	T172	FARMER_OAK-0
+COREF	T173	FARMER_OAK-0
+COREF	T174	FARMER_OAK-0
+COREF	T175	FARMER_OAK-0
+COREF	T177	FARMER_OAK-0
+COREF	T23	a_wife-19
+COREF	T78	family-20
+COREF	T179	FARMER_OAK-0
+COREF	T79	The_field_he_was_in_this_morning-21
+COREF	T180	FARMER_OAK-0
+COREF	T80	a_ridge-22
+COREF	T25	a_ridge-22
+COREF	T82	a_spur_of_this_hill-23
+COREF	T81	The_field_he_was_in_this_morning-21
+COREF	T27	the_highway_between_Emminster_and_Chalk_-_Newton-24
+COREF	T26	Emminster-25
+COREF	T83	Chalk_-_Newton-26
+COREF	T84	FARMER_OAK-0
+COREF	T181	FARMER_OAK-0
+COREF	T85	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T28	a_waggoner-28
+COREF	T86	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T87	FARMER_OAK-0
+COREF	T29	a_woman_____young___and_attractive-30
+COREF	T30	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T182	FARMER_OAK-0
+COREF	T88	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T31	a_waggoner-28
+COREF	T183	a_woman_____young___and_attractive-30
+COREF	T90	a_woman_____young___and_attractive-30
+COREF	T184	a_woman_____young___and_attractive-30
+COREF	T185	a_woman_____young___and_attractive-30
+COREF	T186	we-31
+COREF	T91	a_ridge-22
+COREF	T187	a_waggoner-28
+COREF	T188	a_woman_____young___and_attractive-30
+COREF	T92	a_waggoner-28
+COREF	T32	a_woman_____young___and_attractive-30
+COREF	T33	the_house_just_vacated-32
+COREF	T34	a_woman_____young___and_attractive-30
+COREF	T191	a_woman_____young___and_attractive-30
+COREF	T192	a_woman_____young___and_attractive-30
+COREF	T194	a_woman_____young___and_attractive-30
+COREF	T195	a_woman_____young___and_attractive-30
+COREF	T36	a_waggoner-28
+COREF	T196	a_waggoner-28
+COREF	T197	a_woman_____young___and_attractive-30
+COREF	T198	a_woman_____young___and_attractive-30
+COREF	T199	a_woman_____young___and_attractive-30
+COREF	T200	a_woman_____young___and_attractive-30
+COREF	T201	a_woman_____young___and_attractive-30
+COREF	T202	a_woman_____young___and_attractive-30
+COREF	T203	a_woman_____young___and_attractive-30
+COREF	T204	a_woman_____young___and_attractive-30
+COREF	T205	a_woman_____young___and_attractive-30
+COREF	T206	a_woman_____young___and_attractive-30
+COREF	T35	a_woman_____young___and_attractive-30
+COREF	T208	a_woman_____young___and_attractive-30
+COREF	T37	FARMER_OAK-0
+COREF	T209	a_woman_____young___and_attractive-30
+COREF	T115	nobody-100001
+COREF	T210	a_woman_____young___and_attractive-30
+COREF	T211	a_woman_____young___and_attractive-30
+COREF	T212	a_woman_____young___and_attractive-30
+COREF	T41	a_bedroom-33
+COREF	T38	Woman-34
+COREF	T43	FARMER_OAK-0
+COREF	T213	FARMER_OAK-0
+COREF	T214	FARMER_OAK-0
+COREF	T215	a_woman_____young___and_attractive-30
+COREF	T216	a_woman_____young___and_attractive-30
+COREF	T217	a_woman_____young___and_attractive-30
+COREF	T218	a_woman_____young___and_attractive-30
+COREF	T219	a_woman_____young___and_attractive-30
+COREF	T220	a_woman_____young___and_attractive-30
+COREF	T221	a_woman_____young___and_attractive-30
+COREF	T45	Nature-35
+COREF	T222	a_woman_____young___and_attractive-30
+COREF	T44	men-36
+COREF	T39	a_waggoner-28
+COREF	T224	a_woman_____young___and_attractive-30
+COREF	T40	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T42	FARMER_OAK-0
+COREF	T225	FARMER_OAK-0
+COREF	T47	the_road-37
+COREF	T46	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T94	the_bottom_of_the_hill-38
+COREF	T93	a_ridge-22
+COREF	T226	FARMER_OAK-0
+COREF	T227	FARMER_OAK-0
+COREF	T228	FARMER_OAK-0
+COREF	T49	the_persons_with_the_waggon-40
+COREF	T95	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T48	the_man_at_the_toll-bar-41
+COREF	T50	a_woman_____young___and_attractive-30
+COREF	T229	a_woman_____young___and_attractive-30
+COREF	T230	a_waggoner-28
+COREF	T51	the_man_at_the_toll-bar-41
+COREF	T231	the_man_at_the_toll-bar-41
+COREF	T232	a_woman_____young___and_attractive-30
+COREF	T97	a_waggoner-28
+COREF	T98	a_woman_____young___and_attractive-30
+COREF	T99	the_man_at_the_toll-bar-41
+COREF	T100	FARMER_OAK-0
+COREF	T101	a_waggoner-28
+COREF	T102	the_man_at_the_toll-bar-41
+COREF	T53	the_disputants-42
+COREF	T233	FARMER_OAK-0
+COREF	T54	the_man_at_the_toll-bar-41
+COREF	T55	a_woman_____young___and_attractive-30
+COREF	T234	FARMER_OAK-0
+COREF	T235	a_woman_____young___and_attractive-30
+COREF	T236	a_woman_____young___and_attractive-30
+COREF	T237	FARMER_OAK-0
+COREF	T103	FARMER_OAK-0
+COREF	T57	St__John-43
+COREF	T56	Judas_Iscariot-44
+COREF	T58	church-4
+COREF	T239	FARMER_OAK-0
+COREF	T104	a_woman_____young___and_attractive-30
+COREF	T240	a_woman_____young___and_attractive-30
+COREF	T241	a_woman_____young___and_attractive-30
+COREF	T59	a_waggoner-28
+COREF	T242	a_woman_____young___and_attractive-30
+COREF	T243	a_woman_____young___and_attractive-30
+COREF	T244	a_woman_____young___and_attractive-30
+COREF	T60	FARMER_OAK-0
+COREF	T245	a_woman_____young___and_attractive-30
+COREF	T247	a_woman_____young___and_attractive-30
+COREF	T248	a_woman_____young___and_attractive-30
+COREF	T249	a_woman_____young___and_attractive-30
+COREF	T250	a_woman_____young___and_attractive-30
+COREF	T251	a_woman_____young___and_attractive-30
+COREF	T252	we-45
+COREF	T61	women-46
+COREF	T62	the_man_at_the_toll-bar-41
+COREF	T63	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27
+COREF	T105	a_woman_____young___and_attractive-30
+COREF	T253	the_man_at_the_toll-bar-41
+COREF	T106	FARMER_OAK-0
+COREF	T254	FARMER_OAK-0
+COREF	T255	FARMER_OAK-0
+COREF	T107	FARMER_OAK-0
+COREF	T64	FARMER_OAK-0
+COREF	T113	people-47
+COREF	T108	FARMER_OAK-0
+COREF	T109	a_woman_____young___and_attractive-30
+COREF	T257	FARMER_OAK-0
+COREF	T258	a_woman_____young___and_attractive-30
+COP	T2	T124
+COP	T3	T125
+COP	T6	T132
+COP	T68	T134
+COP	T69	T136
+COP	T72	T11
+COP	T24	T179
+MENTION	T96	25	9	25	9	Miss.	PER	NOM
+MENTION	T110	25	9	25	9	Miss.	PER	NOM
+COREF	T110	a_woman_____young___and_attractive-30

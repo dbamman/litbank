@@ -1,0 +1,572 @@
+MENTION	T0	0	7	0	8	Kellynch Hall	FAC	PROP
+MENTION	T2	2	30	2	33	the county of Gloucester	GPE	NOM
+MENTION	T4	2	26	2	27	South Park	GPE	PROP
+MENTION	T5	2	21	2	27	James Stevenson , Esq. of South Park	PER	NOM
+MENTION	T7	2	54	2	54	Anne	PER	PROP
+MENTION	T8	2	71	2	71	Mary	PER	PROP
+MENTION	T12	3	56	3	61	Charles Musgrove , Esq. of Uppercross	PER	NOM
+MENTION	T15	3	85	3	86	his wife	PER	NOM
+MENTION	T16	3	38	3	38	Mary	PER	PROP
+MENTION	T17	3	8	3	9	the printer	PER	NOM
+MENTION	T18	3	14	3	15	Sir Walter	PER	PROP
+MENTION	T19	3	64	3	67	the county of Somerset	GPE	NOM
+MENTION	T20	4	105	4	106	Sir Walter	PER	PROP
+MENTION	T23	4	61	4	62	Charles II	PER	PROP
+MENTION	T25	4	40	4	41	a borough	GPE	NOM
+MENTION	T27	4	65	4	72	all the Marys and Elizabeths they had married	PER	NOM
+MENTION	T29	4	94	4	95	Kellynch Hall	FAC	PROP
+MENTION	T30	4	125	4	131	great grandson of the second Sir Walter	PER	NOM
+MENTION	T31	4	98	4	101	the county of Somerset	GPE	NOM
+MENTION	T32	4	128	4	131	the second Sir Walter	PER	PROP
+MENTION	T35	5	8	5	10	Sir Walter Elliot	PER	PROP
+MENTION	T39	7	0	7	1	Few women	PER	NOM
+MENTION	T41	7	18	7	21	any new made lord	PER	NOM
+MENTION	T42	7	15	7	21	the valet of any new made lord	PER	NOM
+MENTION	T44	9	21	9	26	a wife of very superior character	PER	NOM
+MENTION	T45	10	0	10	1	Lady Elliot	PER	PROP
+MENTION	T49	12	16	12	17	a mother	PER	NOM
+MENTION	T50	12	34	12	38	a conceited , silly father	PER	NOM
+MENTION	T52	13	68	13	69	her daughters	PER	NOM
+MENTION	T54	13	46	13	47	Lady Elliot	PER	PROP
+MENTION	T55	14	0	14	1	This friend	PER	NOM
+MENTION	T59	15	6	15	7	Lady Elliot	PER	PROP
+MENTION	T61	15	29	15	30	a widow	PER	NOM
+MENTION	T62	16	41	16	42	a woman	PER	NOM
+MENTION	T67	18	1	18	2	one daughter	PER	NOM
+MENTION	T68	19	0	19	0	Elizabeth	PER	PROP
+MENTION	T69	19	14	19	15	her mother	PER	NOM
+MENTION	T70	20	0	20	3	His two other children	PER	NOM
+MENTION	T72	21	0	21	0	Mary	PER	PROP
+MENTION	T74	21	46	21	46	sister	PER	NOM
+MENTION	T75	22	1	22	2	Lady Russell	PER	PROP
+MENTION	T77	23	0	23	1	Lady Russell	PER	PROP
+MENTION	T78	23	16	23	17	the mother	PER	NOM
+MENTION	T80	23	11	23	11	Anne	PER	PROP
+MENTION	T81	24	28	24	29	her father	PER	NOM
+MENTION	T82	24	5	24	6	Anne Elliot	PER	PROP
+MENTION	T83	26	37	26	37	Elizabeth	PER	PROP
+MENTION	T84	26	7	26	7	Elizabeth	PER	PROP
+MENTION	T85	26	10	26	10	Mary	PER	PROP
+MENTION	T86	27	4	27	5	a woman	PER	NOM
+MENTION	T87	28	52	28	52	Elizabeth	PER	PROP
+MENTION	T88	28	23	28	24	Sir Walter	PER	PROP
+MENTION	T89	28	43	28	46	only half a fool	PER	NOM
+MENTION	T90	29	3	29	3	Mary	PER	PROP
+MENTION	T91	29	10	29	10	neighbourhood	FAC	NOM
+MENTION	T92	29	23	29	24	Lady Russell	PER	PROP
+MENTION	T94	30	0	30	0	Elizabeth	PER	PROP
+MENTION	T95	31	7	31	8	Kellynch Hall	FAC	PROP
+MENTION	T97	32	33	32	34	Lady Russell	PER	PROP
+MENTION	T98	32	17	32	17	home	FAC	NOM
+MENTION	T99	33	33	33	34	her father	PER	NOM
+MENTION	T100	33	31	33	31	London	GPE	PROP
+MENTION	T101	34	60	34	60	baronet-blood	PER	NOM
+MENTION	T102	36	35	36	36	her father	PER	NOM
+MENTION	T104	36	19	36	21	a youngest sister	PER	NOM
+MENTION	T106	38	20	38	21	her father	PER	NOM
+MENTION	T107	39	25	39	26	no brother	PER	NOM
+MENTION	T108	39	28	39	30	the future baronet	PER	NOM
+MENTION	T110	40	8	40	9	a boy	PER	NOM
+MENTION	T111	40	14	40	15	Lady Elliot	PER	PROP
+MENTION	T112	40	66	40	66	Elizabeth	PER	PROP
+MENTION	T113	40	19	40	20	Sir Walter	PER	PROP
+MENTION	T114	40	63	40	63	London	GPE	PROP
+MENTION	T115	41	20	41	20	Elizabeth	PER	PROP
+MENTION	T116	42	4	42	5	Kellynch Hall	FAC	PROP
+MENTION	T117	43	8	43	8	town	GPE	NOM
+MENTION	T118	44	27	44	32	a rich woman of inferior birth	PER	NOM
+MENTION	T119	44	14	44	17	the house of Elliot	PER	NOM
+MENTION	T120	44	11	44	17	the heir of the house of Elliot	PER	NOM
+MENTION	T121	0	2	0	4	Sir Walter Elliot	PER	PROP
+MENTION	T122	0	14	0	30	a man who , for his own amusement , never took up any book but the Baronetage	PER	NOM
+MENTION	T123	1	13	1	13	ELLIOT	PER	PROP
+MENTION	T124	1	15	1	16	KELLYNCH HALL	FAC	PROP
+MENTION	T125	2	1	2	2	Walter Elliot	PER	PROP
+MENTION	T126	2	17	2	17	Elizabeth	PER	PROP
+MENTION	T127	2	19	2	27	daughter of James Stevenson , Esq. of South Park	PER	NOM
+MENTION	T1	2	36	2	37	which lady	PER	NOM
+MENTION	T10	2	46	2	46	Elizabeth	PER	PROP
+MENTION	T3	2	62	2	64	a still-born son	PER	NOM
+MENTION	T6	3	28	3	29	his family	PER	NOM
+MENTION	T9	3	50	3	50	Charles	PER	PROP
+MENTION	T128	3	61	3	61	Uppercross	GPE	PROP
+MENTION	T11	3	52	3	61	son and heir of Charles Musgrove , Esq. of Uppercross	PER	NOM
+MENTION	T13	4	7	4	11	the ancient and respectable family	PER	NOM
+MENTION	T14	4	25	4	25	Cheshire	GPE	PROP
+MENTION	T21	4	116	4	117	Heir presumptive	PER	NOM
+MENTION	T22	4	119	4	123	William Walter Elliot , Esq.	PER	NOM
+MENTION	T24	6	16	6	19	a very fine man	PER	NOM
+MENTION	T26	10	4	10	6	an excellent woman	PER	NOM
+MENTION	T28	10	28	10	29	Lady Elliot	PER	PROP
+MENTION	T33	11	41	11	42	her friends	PER	NOM
+MENTION	T34	11	45	11	46	her children	PER	NOM
+MENTION	T36	12	1	12	2	Three girls	PER	NOM
+MENTION	T37	12	4	12	6	the two eldest	PER	NOM
+MENTION	T38	13	5	13	8	one very intimate friend	PER	NOM
+MENTION	T40	13	10	13	37	a sensible , deserving woman , who had been brought , by strong attachment to herself , to settle close by her , in the village of Kellynch	PER	NOM
+MENTION	T46	13	34	13	37	the village of Kellynch	GPE	NOM
+MENTION	T47	14	4	14	5	Sir Walter	PER	PROP
+MENTION	T51	15	15	15	16	near neighbours	PER	NOM
+MENTION	T53	15	18	15	19	intimate friends	PER	NOM
+MENTION	T56	15	27	15	28	the other	PER	NOM
+MENTION	T57	15	24	15	25	a widower	PER	NOM
+MENTION	T58	15	22	15	22	one	PER	NOM
+MENTION	T60	16	1	16	14	Lady Russell , of steady age and character , and extremely well provided for	PER	NOM
+MENTION	T63	16	29	16	30	the public	PER	NOM
+MENTION	T64	16	54	16	55	Sir Walter	PER	PROP
+MENTION	T65	17	6	17	7	Sir Walter	PER	PROP
+MENTION	T129	17	10	17	12	a good father	PER	NOM
+MENTION	T66	17	35	17	37	his dear daughters	PER	NOM
+MENTION	T130	18	4	18	5	his eldest	PER	NOM
+MENTION	T131	21	10	21	12	Mrs Charles Musgrove	PER	PROP
+MENTION	T132	21	15	21	15	Anne	PER	PROP
+MENTION	T73	21	44	21	44	father	PER	NOM
+MENTION	T71	21	65	21	65	Anne	PER	PROP
+MENTION	T76	22	8	22	19	a most dear and highly valued god-daughter , favourite , and friend	PER	NOM
+MENTION	T79	24	9	24	12	a very pretty girl	PER	NOM
+MENTION	T133	26	16	26	24	an old country family of respectability and large fortune	PER	NOM
+MENTION	T134	28	4	28	4	Elizabeth	PER	PROP
+MENTION	T135	28	7	28	11	the same handsome Miss Elliot	PER	PROP
+MENTION	T136	29	0	29	0	Anne	PER	PROP
+MENTION	T137	29	6	29	10	every face in the neighbourhood	PER	NOM
+MENTION	T93	30	5	30	6	her father	PER	NOM
+MENTION	T138	32	24	32	27	the chaise and four	VEH	NOM
+MENTION	T139	32	37	32	44	all the drawing-rooms and dining-rooms in the country	FAC	NOM
+MENTION	T140	33	14	33	16	a scanty neighbourhood	FAC	NOM
+MENTION	T141	33	44	33	46	the great world	LOC	NOM
+MENTION	T103	37	17	37	19	her own family	PER	NOM
+MENTION	T105	38	0	38	2	The heir presumptive	PER	NOM
+MENTION	T142	38	4	38	10	the very William Walter Elliot , Esq.	PER	NOM
+MENTION	T143	39	4	39	7	a very young girl	PER	NOM
+MENTION	T109	39	38	39	39	her father	PER	NOM
+MENTION	T144	40	73	40	74	Mr Elliot	PER	PROP
+MENTION	T145	41	5	41	8	a very young man	PER	NOM
+MENTION	T146	0	11	0	11	Somersetshire	GPE	NOM
+MENTION	T96	31	5	31	8	mistress of Kellynch Hall	PER	NOM
+MENTION	T170	28	80	28	81	his family	PER	NOM
+MENTION	T171	28	83	28	83	acquaintance	PER	NOM
+MENTION	T172	28	77	28	83	the rest of his family and acquaintance	PER	NOM
+MENTION	T173	21	34	21	38	any people of real understanding	PER	NOM
+MENTION	T174	28	66	28	67	everybody else	PER	NOM
+MENTION	T175	11	30	11	31	the world	LOC	NOM
+MENTION	T176	21	41	21	41	nobody	PER	NOM
+MENTION	T177	32	43	32	44	the country	LOC	NOM
+MENTION	T178	0	19	0	19	his	PER	PRON
+MENTION	T179	0	33	0	33	he	PER	PRON
+MENTION	T180	0	49	0	49	his	PER	PRON
+MENTION	T181	0	84	0	84	he	PER	PRON
+MENTION	T182	0	106	0	106	he	PER	PRON
+MENTION	T183	0	109	0	109	his	PER	PRON
+MENTION	T184	2	43	2	43	he	PER	PRON
+MENTION	T185	3	26	3	26	himself	PER	PRON
+MENTION	T186	3	28	3	28	his	PER	PRON
+MENTION	T187	3	82	3	82	he	PER	PRON
+MENTION	T188	3	85	3	85	his	PER	PRON
+MENTION	T189	4	70	4	70	they	PER	PRON
+MENTION	T190	6	0	6	0	He	PER	PRON
+MENTION	T191	6	6	6	6	his	PER	PRON
+MENTION	T192	7	6	7	6	their	PER	PRON
+MENTION	T193	7	10	7	10	he	PER	PRON
+MENTION	T194	7	28	7	28	he	PER	PRON
+MENTION	T195	8	0	8	0	He	PER	PRON
+MENTION	T196	8	32	8	32	his	PER	PRON
+MENTION	T197	9	0	9	0	His	PER	PRON
+MENTION	T198	9	4	9	4	his	PER	PRON
+MENTION	T199	9	11	9	11	his	PER	PRON
+MENTION	T201	9	17	9	17	he	PER	PRON
+MENTION	T202	9	32	9	32	his	PER	PRON
+MENTION	T204	10	27	10	27	her	PER	PRON
+MENTION	T205	11	1	11	1	She	PER	PRON
+MENTION	T206	11	10	11	10	his	PER	PRON
+MENTION	T207	11	15	11	15	his	PER	PRON
+MENTION	T208	11	32	11	32	herself	PER	PRON
+MENTION	T209	11	38	11	38	her	PER	PRON
+MENTION	T210	11	41	11	41	her	PER	PRON
+MENTION	T211	11	45	11	45	her	PER	PRON
+MENTION	T212	11	50	11	50	her	PER	PRON
+MENTION	T213	11	62	11	62	her	PER	PRON
+MENTION	T214	11	64	11	64	she	PER	PRON
+MENTION	T215	11	70	11	70	them	PER	PRON
+MENTION	T216	13	0	13	0	She	PER	PRON
+MENTION	T217	13	25	13	25	herself	PER	PRON
+MENTION	T218	13	31	13	31	her	PER	PRON
+MENTION	T219	13	41	13	41	her	PER	PRON
+MENTION	T220	13	63	13	63	she	PER	PRON
+MENTION	T221	13	68	13	68	her	PER	PRON
+MENTION	T222	14	20	14	20	their	PER	PRON
+MENTION	T223	15	12	15	12	they	PER	PRON
+MENTION	T224	16	49	16	49	she	PER	PRON
+MENTION	T225	17	30	17	30	himself	PER	PRON
+MENTION	T226	17	35	17	35	his	PER	PRON
+MENTION	T227	18	4	18	4	his	PER	PRON
+MENTION	T228	18	7	18	7	he	PER	PRON
+MENTION	T229	18	17	18	17	he	PER	PRON
+MENTION	T230	19	14	19	14	her	PER	PRON
+MENTION	T231	19	29	19	29	himself	PER	PRON
+MENTION	T232	19	31	19	31	her	PER	PRON
+MENTION	T233	19	39	19	39	they	PER	PRON
+MENTION	T234	20	0	20	0	His	PER	PRON
+MENTION	T235	21	31	21	31	her	PER	PRON
+MENTION	T236	21	48	21	48	her	PER	PRON
+MENTION	T237	21	54	21	54	her	PER	PRON
+MENTION	T238	21	62	21	62	she	PER	PRON
+MENTION	T239	22	6	22	6	she	PER	PRON
+MENTION	T240	23	3	23	3	them	PER	PRON
+MENTION	T241	23	13	23	13	she	PER	PRON
+MENTION	T242	24	15	24	15	her	PER	PRON
+MENTION	T243	24	28	24	28	her	PER	PRON
+MENTION	T244	24	36	24	36	her	PER	PRON
+MENTION	T245	24	43	24	43	her	PER	PRON
+MENTION	T246	24	51	24	51	his	PER	PRON
+MENTION	T248	24	64	24	64	she	PER	PRON
+MENTION	T249	24	72	24	72	his	PER	PRON
+MENTION	T250	25	0	25	0	He	PER	PRON
+MENTION	T251	25	7	25	7	he	PER	PRON
+MENTION	T252	25	15	25	15	her	PER	PRON
+MENTION	T253	25	22	25	22	his	PER	PRON
+MENTION	T254	26	14	26	14	herself	PER	PRON
+MENTION	T255	27	11	27	11	she	PER	PRON
+MENTION	T256	28	13	28	13	she	PER	PRON
+MENTION	T257	28	33	28	33	her	PER	PRON
+MENTION	T258	28	50	28	50	himself	PER	PRON
+MENTION	T259	28	70	28	70	he	PER	PRON
+MENTION	T260	28	80	28	80	his	PER	PRON
+MENTION	T261	29	33	29	33	him	PER	PRON
+MENTION	T262	30	5	30	5	her	PER	PRON
+MENTION	T263	31	4	31	4	her	PER	PRON
+MENTION	T264	31	26	31	26	her	PER	PRON
+MENTION	T265	31	30	31	30	she	PER	PRON
+MENTION	T266	32	4	32	4	she	PER	PRON
+MENTION	T267	33	7	33	7	her	PER	PRON
+MENTION	T269	33	27	33	27	she	PER	PRON
+MENTION	T270	33	33	33	33	her	PER	PRON
+MENTION	T271	34	0	34	0	She	PER	PRON
+MENTION	T272	34	8	34	8	she	PER	PRON
+MENTION	T273	34	17	34	17	her	PER	PRON
+MENTION	T274	34	24	34	24	she	PER	PRON
+MENTION	T275	34	38	34	38	she	PER	PRON
+MENTION	T276	34	40	34	40	her	PER	PRON
+MENTION	T277	35	2	35	2	she	PER	PRON
+MENTION	T278	35	16	35	16	her	PER	PRON
+MENTION	T279	35	22	35	22	she	PER	PRON
+MENTION	T280	36	8	36	8	her	PER	PRON
+MENTION	T281	36	35	36	35	her	PER	PRON
+MENTION	T282	36	45	36	45	her	PER	PRON
+MENTION	T283	36	48	36	48	she	PER	PRON
+MENTION	T284	37	0	37	0	She	PER	PRON
+MENTION	T285	37	17	37	17	her	PER	PRON
+MENTION	T286	38	20	38	20	her	PER	PRON
+MENTION	T287	38	25	38	25	her	PER	PRON
+MENTION	T288	39	0	39	0	She	PER	PRON
+MENTION	T289	39	12	39	12	she	PER	PRON
+MENTION	T290	39	15	39	15	him	PER	PRON
+MENTION	T291	39	23	39	23	her	PER	PRON
+MENTION	T292	39	35	39	35	him	PER	PRON
+MENTION	T293	39	38	39	38	her	PER	PRON
+MENTION	T294	39	44	39	44	she	PER	PRON
+MENTION	T295	40	0	40	0	He	PER	PRON
+MENTION	T296	40	6	40	6	them	PER	PRON
+MENTION	T297	40	28	40	28	his	PER	PRON
+MENTION	T298	40	38	40	38	he	PER	PRON
+MENTION	T299	40	59	40	59	their	PER	PRON
+MENTION	T300	40	69	40	69	her	PER	PRON
+MENTION	T301	41	0	41	0	He	PER	PRON
+MENTION	T302	41	22	41	22	him	PER	PRON
+MENTION	T303	41	30	41	30	his	PER	PRON
+MENTION	T304	42	0	42	0	He	PER	PRON
+MENTION	T305	42	7	42	7	he	PER	PRON
+MENTION	T306	42	21	42	21	he	PER	PRON
+MENTION	T307	43	3	43	3	he	PER	PRON
+MENTION	T308	43	24	43	24	he	PER	PRON
+MENTION	T309	43	35	43	35	he	PER	PRON
+MENTION	T310	44	3	44	3	his	PER	PRON
+MENTION	T311	44	19	44	19	he	PER	PRON
+MENTION	T312	44	25	44	25	himself	PER	PRON
+COREF	T121	Sir_Walter_Elliot-0
+COREF	T0	Kellynch_Hall-1
+COREF	T146	Somersetshire-2
+COREF	T178	Sir_Walter_Elliot-0
+COREF	T179	Sir_Walter_Elliot-0
+COREF	T180	Sir_Walter_Elliot-0
+COREF	T181	Sir_Walter_Elliot-0
+COREF	T182	Sir_Walter_Elliot-0
+COREF	T183	Sir_Walter_Elliot-0
+COREF	T123	Sir_Walter_Elliot-0
+COREF	T124	Kellynch_Hall-1
+COREF	T125	Sir_Walter_Elliot-0
+COREF	T126	Elizabeth-3
+COREF	T5	James_Stevenson___Esq__of_South_Park-4
+COREF	T4	South_Park-5
+COREF	T2	the_county_of_Gloucester-6
+COREF	T1	Elizabeth-3
+COREF	T184	Sir_Walter_Elliot-0
+COREF	T10	Elizabeth_daughter-7
+COREF	T7	Anne-8
+COREF	T3	a_still-born_son-9
+COREF	T8	Mary-10
+COREF	T17	the_printer-11
+COREF	T18	Sir_Walter_Elliot-0
+COREF	T185	Sir_Walter_Elliot-0
+COREF	T6	his_family-12
+COREF	T186	Sir_Walter_Elliot-0
+COREF	T16	Mary-10
+COREF	T9	Charles-13
+COREF	T12	Charles_Musgrove___Esq__of_Uppercross-14
+COREF	T128	Uppercross-15
+COREF	T19	the_county_of_Somerset-16
+COREF	T187	Sir_Walter_Elliot-0
+COREF	T15	Elizabeth-3
+COREF	T188	Sir_Walter_Elliot-0
+COREF	T13	the_ancient_and_respectable_family-17
+COREF	T14	Cheshire-18
+COREF	T25	a_borough-20
+COREF	T23	Charles_II-21
+COREF	T27	all_the_Marys_and_Elizabeths_they_had_married-22
+COREF	T189	his_family-12
+COREF	T29	Kellynch_Hall-1
+COREF	T31	the_county_of_Somerset-16
+COREF	T20	Sir_Walter_Elliot-0
+COREF	T21	Heir_presumptive-23
+COREF	T22	Heir_presumptive-23
+COREF	T32	Sir_Walter_Elliot-0
+COREF	T35	Sir_Walter_Elliot-0
+COREF	T190	Sir_Walter_Elliot-0
+COREF	T191	Sir_Walter_Elliot-0
+COREF	T39	Few_women-24
+COREF	T192	Few_women-24
+COREF	T193	Sir_Walter_Elliot-0
+COREF	T42	the_valet_of_any_new_made_lord-25
+COREF	T41	any_new_made_lord-26
+COREF	T194	Sir_Walter_Elliot-0
+COREF	T195	Sir_Walter_Elliot-0
+COREF	T196	Sir_Walter_Elliot-0
+COREF	T197	Sir_Walter_Elliot-0
+COREF	T198	Sir_Walter_Elliot-0
+COREF	T199	Sir_Walter_Elliot-0
+COREF	T201	Sir_Walter_Elliot-0
+COREF	T44	a_wife_of_very_superior_character-27
+COREF	T202	Sir_Walter_Elliot-0
+COREF	T45	Elizabeth-3
+COREF	T204	Elizabeth-3
+COREF	T28	Elizabeth-3
+COREF	T205	Elizabeth-3
+COREF	T206	Sir_Walter_Elliot-0
+COREF	T207	Sir_Walter_Elliot-0
+COREF	T175	the_world-28
+COREF	T208	Elizabeth-3
+COREF	T209	Elizabeth-3
+COREF	T33	her_friends-29
+COREF	T210	Elizabeth-3
+COREF	T34	her_children-30
+COREF	T211	Elizabeth-3
+COREF	T212	Elizabeth-3
+COREF	T213	Elizabeth-3
+COREF	T214	Elizabeth-3
+COREF	T215	them-31
+COREF	T36	Three_girls-32
+COREF	T37	the_two_eldest-33
+COREF	T49	Elizabeth-3
+COREF	T50	Sir_Walter_Elliot-0
+COREF	T216	Elizabeth-3
+COREF	T38	one_very_intimate_friend-34
+COREF	T217	Elizabeth-3
+COREF	T218	Elizabeth-3
+COREF	T46	the_village_of_Kellynch-35
+COREF	T219	Elizabeth-3
+COREF	T54	Elizabeth-3
+COREF	T220	Elizabeth-3
+COREF	T52	Three_girls-32
+COREF	T221	Elizabeth-3
+COREF	T55	one_very_intimate_friend-34
+COREF	T47	Sir_Walter_Elliot-0
+COREF	T222	their-36
+COREF	T59	Elizabeth-3
+COREF	T223	their-36
+COREF	T53	their-36
+COREF	T58	Sir_Walter_Elliot-0
+COREF	T57	Sir_Walter_Elliot-0
+COREF	T56	one_very_intimate_friend-34
+COREF	T61	one_very_intimate_friend-34
+COREF	T60	one_very_intimate_friend-34
+COREF	T63	the_public-37
+COREF	T62	a_woman-38
+COREF	T224	a_woman-38
+COREF	T64	Sir_Walter_Elliot-0
+COREF	T65	Sir_Walter_Elliot-0
+COREF	T129	a_good_father-39
+COREF	T225	Sir_Walter_Elliot-0
+COREF	T66	Three_girls-32
+COREF	T226	Sir_Walter_Elliot-0
+COREF	T67	Elizabeth_daughter-7
+COREF	T227	Sir_Walter_Elliot-0
+COREF	T228	Sir_Walter_Elliot-0
+COREF	T229	Sir_Walter_Elliot-0
+COREF	T68	Elizabeth_daughter-7
+COREF	T69	Elizabeth-3
+COREF	T230	Elizabeth_daughter-7
+COREF	T231	Sir_Walter_Elliot-0
+COREF	T232	Elizabeth_daughter-7
+COREF	T233	walter_and_daughter_eliz-40
+COREF	T70	His_two_other_children-41
+COREF	T234	Sir_Walter_Elliot-0
+COREF	T72	Mary-10
+COREF	T131	Mary-10
+COREF	T132	Anne-8
+COREF	T235	Anne-8
+COREF	T173	any_people_of_real_understanding-42
+COREF	T176	nobody-100000
+COREF	T73	Sir_Walter_Elliot-0
+COREF	T74	Mary-10
+COREF	T236	Anne-8
+COREF	T237	Anne-8
+COREF	T238	Anne-8
+COREF	T75	one_very_intimate_friend-34
+COREF	T239	Anne-8
+COREF	T77	one_very_intimate_friend-34
+COREF	T240	Three_girls-32
+COREF	T80	Anne-8
+COREF	T241	one_very_intimate_friend-34
+COREF	T78	Elizabeth-3
+COREF	T82	Anne-8
+COREF	T242	Anne-8
+COREF	T81	Sir_Walter_Elliot-0
+COREF	T243	Anne-8
+COREF	T244	Anne-8
+COREF	T245	Anne-8
+COREF	T246	Sir_Walter_Elliot-0
+COREF	T248	Anne-8
+COREF	T249	Sir_Walter_Elliot-0
+COREF	T250	Sir_Walter_Elliot-0
+COREF	T251	Sir_Walter_Elliot-0
+COREF	T252	Anne-8
+COREF	T253	Sir_Walter_Elliot-0
+COREF	T84	Elizabeth_daughter-7
+COREF	T85	Mary-10
+COREF	T254	Mary-10
+COREF	T133	an_old_country_family_of_respectability_and_large_fortune-43
+COREF	T83	Elizabeth_daughter-7
+COREF	T86	a_woman-44
+COREF	T255	a_woman-44
+COREF	T134	Elizabeth_daughter-7
+COREF	T135	Elizabeth_daughter-7
+COREF	T256	Elizabeth_daughter-7
+COREF	T88	Sir_Walter_Elliot-0
+COREF	T257	Elizabeth_daughter-7
+COREF	T89	Sir_Walter_Elliot-0
+COREF	T258	Sir_Walter_Elliot-0
+COREF	T87	Elizabeth_daughter-7
+COREF	T174	everybody_else-45
+COREF	T259	Sir_Walter_Elliot-0
+COREF	T172	the_rest_of_his_family_and_acquaintance-46
+COREF	T170	his_family-12
+COREF	T260	Sir_Walter_Elliot-0
+COREF	T171	acquaintance-47
+COREF	T136	Anne-8
+COREF	T90	Mary-10
+COREF	T137	every_face_in_the_neighbourhood-48
+COREF	T91	neighbourhood-49
+COREF	T92	one_very_intimate_friend-34
+COREF	T261	Sir_Walter_Elliot-0
+COREF	T94	Elizabeth_daughter-7
+COREF	T93	Sir_Walter_Elliot-0
+COREF	T262	Elizabeth_daughter-7
+COREF	T263	Elizabeth_daughter-7
+COREF	T96	Elizabeth_daughter-7
+COREF	T95	Kellynch_Hall-1
+COREF	T264	Elizabeth_daughter-7
+COREF	T265	Elizabeth_daughter-7
+COREF	T266	Elizabeth_daughter-7
+COREF	T98	Kellynch_Hall-1
+COREF	T138	the_chaise_and_four-51
+COREF	T97	one_very_intimate_friend-34
+COREF	T139	all_the_drawing-rooms_and_dining-rooms_in_the_country-52
+COREF	T177	the_country-53
+COREF	T267	Elizabeth_daughter-7
+COREF	T140	neighbourhood-49
+COREF	T269	Elizabeth_daughter-7
+COREF	T100	London-54
+COREF	T99	Sir_Walter_Elliot-0
+COREF	T270	Elizabeth_daughter-7
+COREF	T141	the_world-28
+COREF	T271	Elizabeth_daughter-7
+COREF	T272	Elizabeth_daughter-7
+COREF	T273	Elizabeth_daughter-7
+COREF	T274	Elizabeth_daughter-7
+COREF	T275	Elizabeth_daughter-7
+COREF	T276	Elizabeth_daughter-7
+COREF	T101	baronet-blood-55
+COREF	T277	Elizabeth_daughter-7
+COREF	T278	Elizabeth_daughter-7
+COREF	T279	Elizabeth_daughter-7
+COREF	T280	Elizabeth_daughter-7
+COREF	T102	Sir_Walter_Elliot-0
+COREF	T104	Mary-10
+COREF	T281	Elizabeth_daughter-7
+COREF	T282	Elizabeth_daughter-7
+COREF	T283	Elizabeth_daughter-7
+COREF	T284	Elizabeth_daughter-7
+COREF	T103	his_family-12
+COREF	T285	Elizabeth_daughter-7
+COREF	T105	Heir_presumptive-23
+COREF	T142	Heir_presumptive-23
+COREF	T106	Sir_Walter_Elliot-0
+COREF	T286	Elizabeth_daughter-7
+COREF	T287	Elizabeth_daughter-7
+COREF	T288	Elizabeth_daughter-7
+COREF	T143	Elizabeth_daughter-7
+COREF	T289	Elizabeth_daughter-7
+COREF	T290	Heir_presumptive-23
+COREF	T291	Elizabeth_daughter-7
+COREF	T107	no_brother-100001
+COREF	T292	Heir_presumptive-23
+COREF	T109	Sir_Walter_Elliot-0
+COREF	T293	Elizabeth_daughter-7
+COREF	T294	Elizabeth_daughter-7
+COREF	T295	Heir_presumptive-23
+COREF	T296	his_family-12
+COREF	T111	Elizabeth-3
+COREF	T113	Sir_Walter_Elliot-0
+COREF	T297	Sir_Walter_Elliot-0
+COREF	T298	Sir_Walter_Elliot-0
+COREF	T299	their-36
+COREF	T114	London-54
+COREF	T112	Elizabeth_daughter-7
+COREF	T300	Elizabeth_daughter-7
+COREF	T144	Heir_presumptive-23
+COREF	T301	Heir_presumptive-23
+COREF	T115	Elizabeth_daughter-7
+COREF	T302	Heir_presumptive-23
+COREF	T303	Heir_presumptive-23
+COREF	T304	Heir_presumptive-23
+COREF	T116	Kellynch_Hall-1
+COREF	T305	Heir_presumptive-23
+COREF	T306	Heir_presumptive-23
+COREF	T307	Heir_presumptive-23
+COREF	T117	the_village_of_Kellynch-35
+COREF	T308	Heir_presumptive-23
+COREF	T309	Heir_presumptive-23
+COREF	T310	Heir_presumptive-23
+COREF	T120	Heir_presumptive-23
+COREF	T119	the_ancient_and_respectable_family-17
+COREF	T311	Heir_presumptive-23
+COREF	T312	Heir_presumptive-23
+COREF	T118	a_rich_woman_of_inferior_birth-56
+COP	T122	T121
+APPOS	T127	T126
+APPOS	T11	T9
+APPOS	T30	T22
+COP	T24	T190
+COP	T26	T45
+APPOS	T40	T38
+COP	T51	T223
+APPOS	T130	T67
+COP	T71	T238
+COP	T76	T239
+COP	T79	T82
+COP	T108	T290
+COP	T145	T301
+MENTION	T313	8	17	8	25	the Sir Walter Elliot , who united these gifts	PER	NOM
+COREF	T313	Sir_Walter_Elliot-0
+MENTION	T629	4	19	4	19	it	PER	PRON
+COREF	T629	the_ancient_and_respectable_family-17
+COREF	T110	a_boy-700

@@ -1,0 +1,462 @@
+MENTION	T2	0	24	0	25	New York	GPE	PROP
+MENTION	T3	0	12	0	13	Christine Nilsson	PER	PROP
+MENTION	T5	2	0	2	0	Conservatives	PER	PROP
+MENTION	T8	2	19	2	20	New York	GPE	PROP
+MENTION	T9	3	45	3	48	the spacious family landau	VEH	NOM
+MENTION	T10	3	2	3	3	Madame Nilsson	PER	PROP
+MENTION	T13	4	66	4	69	one 's own coachman	PER	NOM
+MENTION	T14	5	4	5	6	the great livery-stableman	PER	NOM
+MENTION	T15	5	15	5	15	Americans	PER	NOM
+MENTION	T16	6	1	6	2	Newland Archer	PER	PROP
+MENTION	T18	7	26	7	26	sister	PER	NOM
+MENTION	T19	7	55	7	56	Mrs. Archer	PER	PROP
+MENTION	T20	7	5	7	7	the young man	PER	NOM
+MENTION	T22	7	23	7	24	his mother	PER	NOM
+MENTION	T23	8	49	8	50	Newland Archer	PER	PROP
+MENTION	T24	8	65	8	66	his forefathers	PER	NOM
+MENTION	T27	8	49	8	53	Newland Archer 's New York	GPE	PROP
+MENTION	T28	8	18	8	18	metropolises	GPE	NOM
+MENTION	T30	8	7	8	8	New York	GPE	PROP
+MENTION	T32	10	11	10	12	a dilettante	PER	NOM
+MENTION	T33	11	49	11	51	the prima donna	PER	NOM
+MENTION	T35	14	28	14	29	Swedish artists	PER	NOM
+MENTION	T37	15	5	15	6	Newland Archer	PER	PROP
+MENTION	T38	16	9	16	11	the prima donna	PER	NOM
+MENTION	T40	17	55	17	57	his artless victim	PER	NOM
+MENTION	T41	18	0	18	1	Newland Archer	PER	PROP
+MENTION	T43	18	23	18	28	the opposite side of the house	FAC	NOM
+MENTION	T45	19	39	19	44	the younger members of the family	PER	NOM
+MENTION	T49	20	4	20	8	the front of the box	FAC	NOM
+MENTION	T52	20	15	20	17	Mrs. Lovell Mingott	PER	PROP
+MENTION	T53	20	23	20	24	Mrs. Welland	PER	PROP
+MENTION	T55	20	30	20	32	these brocaded matrons	PER	NOM
+MENTION	T56	21	1	21	2	Madame Nilsson	PER	PROP
+MENTION	T58	22	22	22	23	the girl	PER	NOM
+MENTION	T60	23	15	23	16	Newland Archer	PER	PROP
+MENTION	T62	25	30	25	30	Vienna	GPE	PROP
+MENTION	T63	25	28	25	28	Paris	GPE	PROP
+MENTION	T66	28	47	28	52	Mr. Luther Burbank 's far-off prodigies	PER	NOM
+MENTION	T68	28	20	28	21	fashionable clergymen	PER	NOM
+MENTION	T70	28	47	28	49	Mr. Luther Burbank	PER	PROP
+MENTION	T71	29	46	29	47	M. Capoul	PER	PROP
+MENTION	T79	34	40	34	41	his bride	PER	NOM
+MENTION	T81	34	4	34	4	Faust	PER	PROP
+MENTION	T82	35	6	35	7	May Welland	PER	PROP
+MENTION	T86	35	18	35	19	New York	GPE	PROP
+MENTION	T88	36	7	36	11	the future Mrs. Newland Archer	PER	PROP
+MENTION	T93	38	25	38	26	his wife	PER	NOM
+MENTION	T95	40	43	40	48	any other man of the number	PER	NOM
+MENTION	T98	45	16	45	17	New York	GPE	PROP
+MENTION	T103	47	33	47	37	his lean and elegant person	PER	NOM
+MENTION	T105	48	1	48	3	a young admirer	PER	NOM
+MENTION	T106	51	9	51	11	old Sillerton Jackson	PER	PROP
+MENTION	T1	0	19	0	25	the Academy of Music in New York	FAC	PROP
+MENTION	T4	1	20	1	37	a new Opera House which should compete in costliness and splendour with those of the great European capitals	FAC	NOM
+MENTION	T108	1	32	1	37	those of the great European capitals	FAC	NOM
+MENTION	T109	1	34	1	37	the great European capitals	GPE	NOM
+MENTION	T110	1	58	1	61	the sociable old Academy	FAC	NOM
+MENTION	T111	2	13	2	29	the " new people " whom New York was beginning to dread and yet be drawn to	PER	NOM
+MENTION	T6	2	32	2	33	the sentimental	PER	NOM
+MENTION	T7	2	43	2	44	the musical	PER	NOM
+MENTION	T112	2	56	2	62	halls built for the hearing of music	FAC	NOM
+MENTION	T11	3	12	3	14	the daily press	PER	NOM
+MENTION	T113	3	22	3	25	an exceptionally brilliant audience	PER	NOM
+MENTION	T114	3	41	3	42	private broughams	VEH	NOM
+MENTION	T12	3	52	3	59	the humbler but more convenient " Brown coupe	VEH	NOM
+MENTION	T115	4	3	4	4	the Opera	FAC	NOM
+MENTION	T116	4	6	4	8	a Brown coupe	VEH	NOM
+MENTION	T117	4	19	4	22	one 's own carriage	VEH	NOM
+MENTION	T118	4	27	4	29	the same means	VEH	NOM
+MENTION	T119	4	49	4	55	the first Brown conveyance in the line	VEH	NOM
+MENTION	T120	4	72	4	76	the portico of the Academy	FAC	NOM
+MENTION	T121	4	75	4	76	the Academy	FAC	NOM
+MENTION	T17	6	7	6	12	the back of the club box	FAC	NOM
+MENTION	T122	7	36	7	38	the Gothic library	FAC	NOM
+MENTION	T123	7	48	7	58	the only room in the house where Mrs. Archer allowed smoking	FAC	NOM
+MENTION	T21	8	10	8	11	a metropolis	GPE	NOM
+MENTION	T26	8	30	8	31	the opera	FAC	NOM
+MENTION	T25	11	49	11	53	the prima donna 's stage-manager	PER	NOM
+MENTION	T29	11	59	11	60	the Academy	FAC	NOM
+MENTION	T31	14	40	14	41	English-speaking audiences	PER	NOM
+MENTION	T34	17	28	17	31	the little brown Faust-Capoul	PER	NOM
+MENTION	T36	18	8	18	13	the back of the club box	FAC	NOM
+MENTION	T39	19	4	19	10	the box of old Mrs. Manson Mingott	FAC	NOM
+MENTION	T42	19	8	19	10	Mrs. Manson Mingott	PER	PROP
+MENTION	T44	19	25	19	26	the Opera	FAC	NOM
+MENTION	T48	20	34	20	45	a young girl in white with eyes ecstatically fixed on the stagelovers	PER	NOM
+MENTION	T50	20	44	20	45	the stagelovers	PER	NOM
+MENTION	T51	22	3	22	5	the silent house	FAC	NOM
+MENTION	T54	22	7	22	8	the boxes	PER	NOM
+MENTION	T57	25	18	25	30	people who shared his acquaintance with the Opera houses of Paris and Vienna	PER	NOM
+MENTION	T59	25	24	25	30	the Opera houses of Paris and Vienna	FAC	NOM
+MENTION	T61	28	17	28	18	female parishioners	PER	NOM
+MENTION	T64	29	1	29	6	the centre of this enchanted garden	FAC	NOM
+MENTION	T65	29	7	29	8	Madame Nilsson	PER	PROP
+MENTION	T67	29	75	29	84	the neat brick villa projecting obliquely from the right wing	FAC	NOM
+MENTION	T69	31	1	31	2	Newland Archer	PER	PROP
+MENTION	T72	31	9	31	14	the young girl with the lilies-of-the-valley	PER	NOM
+MENTION	T73	34	8	34	10	the Italian lakes	LOC	NOM
+MENTION	T74	36	14	36	15	a simpleton	PER	NOM
+MENTION	T75	37	26	37	35	the most popular married women of the " younger set	PER	NOM
+MENTION	T76	38	37	38	50	the married lady whose charms had held his fancy through two mildly agitated years	PER	NOM
+MENTION	T77	38	67	38	71	that unhappy being 's life	PER	NOM
+MENTION	T78	39	79	39	89	the circle of ladies who were the product of the system	PER	NOM
+MENTION	T80	39	50	39	65	all the carefully-brushed , white-waistcoated , button-hole-flowered gentlemen who succeeded each other in the club box	PER	NOM
+MENTION	T83	40	5	40	6	Newland Archer	PER	PROP
+MENTION	T84	40	10	40	20	the superior of these chosen specimens of old New York gentility	PER	NOM
+MENTION	T85	44	1	44	2	Lawrence Lefferts	PER	PROP
+MENTION	T87	45	0	45	1	Lawrence Lefferts	PER	PROP
+MENTION	T89	47	52	47	72	any one who knew how to wear such good clothes so carelessly and carry such height with so much lounging grace	PER	NOM
+MENTION	T90	48	15	48	16	a fellow	PER	NOM
+MENTION	T91	48	34	48	35	Larry Lefferts	PER	PROP
+MENTION	T92	41	12	41	13	New York	GPE	PROP
+MENTION	T47	20	20	20	21	her daughter	PER	NOM
+MENTION	T46	20	12	20	13	her daughter-in-law	PER	NOM
+MENTION	T96	48	12	48	12	anybody	PER	NOM
+MENTION	T97	40	39	40	40	the world	LOC	NOM
+MENTION	T99	39	17	39	19	a harsh world	LOC	NOM
+MENTION	T100	46	7	46	9	any one else	PER	NOM
+MENTION	T134	3	31	3	31	her	PER	PRON
+MENTION	T135	5	26	5	26	they	PER	PRON
+MENTION	T136	7	15	7	15	he	PER	PRON
+MENTION	T137	7	23	7	23	his	PER	PRON
+MENTION	T138	8	65	8	65	his	PER	PRON
+MENTION	T139	9	4	9	4	his	PER	PRON
+MENTION	T140	10	0	10	0	He	PER	PRON
+MENTION	T141	10	4	10	4	his	PER	PRON
+MENTION	T142	10	7	10	7	he	PER	PRON
+MENTION	T143	10	23	10	23	him	PER	PRON
+MENTION	T144	11	14	11	14	his	PER	PRON
+MENTION	T145	11	25	11	25	he	PER	PRON
+MENTION	T146	11	41	11	41	he	PER	PRON
+MENTION	T147	11	44	11	44	his	PER	PRON
+MENTION	T148	11	54	11	54	he	PER	PRON
+MENTION	T149	11	69	11	69	she	PER	PRON
+MENTION	T150	11	74	11	74	He	PER	PRON
+MENTION	T151	11	76	11	76	me	PER	PRON
+MENTION	T152	11	78	11	78	he	PER	PRON
+MENTION	T153	11	80	11	80	me	PER	PRON
+MENTION	T154	11	83	11	83	HE	PER	PRON
+MENTION	T155	11	85	11	85	ME	PER	PRON
+MENTION	T156	13	0	13	0	She	PER	PRON
+MENTION	T157	14	3	14	3	he	PER	PRON
+MENTION	T158	14	5	14	5	me	PER	PRON
+MENTION	T159	15	14	15	14	his	PER	PRON
+MENTION	T160	15	29	15	29	his	PER	PRON
+MENTION	T161	15	36	15	36	his	PER	PRON
+MENTION	T162	15	54	15	54	his	PER	PRON
+MENTION	T163	17	10	17	10	she	PER	PRON
+MENTION	T164	17	16	17	16	her	PER	PRON
+MENTION	T165	17	20	17	20	her	PER	PRON
+MENTION	T166	17	55	17	55	his	PER	PRON
+MENTION	T167	18	16	18	16	his	PER	PRON
+MENTION	T168	19	2	19	2	him	PER	PRON
+MENTION	T169	19	22	19	22	her	PER	PRON
+MENTION	T170	20	12	20	12	her	PER	PRON
+MENTION	T171	20	20	20	20	her	PER	PRON
+MENTION	T172	22	28	22	28	her	PER	PRON
+MENTION	T173	22	34	22	34	her	PER	PRON
+MENTION	T174	22	44	22	44	her	PER	PRON
+MENTION	T175	23	0	23	0	She	PER	PRON
+MENTION	T176	23	2	23	2	her	PER	PRON
+MENTION	T177	23	11	23	11	her	PER	PRON
+MENTION	T178	23	18	23	18	her	PER	PRON
+MENTION	T179	24	0	24	0	He	PER	PRON
+MENTION	T180	24	8	24	8	his	PER	PRON
+MENTION	T181	25	21	25	21	his	PER	PRON
+MENTION	T182	29	37	29	37	her	PER	PRON
+MENTION	T183	29	58	29	58	his	PER	PRON
+MENTION	T184	29	67	29	67	he	PER	PRON
+MENTION	T185	31	4	31	4	his	PER	PRON
+MENTION	T186	32	1	32	1	She	PER	PRON
+MENTION	T187	33	1	33	1	he	PER	PRON
+MENTION	T188	33	3	33	3	her	PER	PRON
+MENTION	T189	33	16	33	16	his	PER	PRON
+MENTION	T190	33	27	33	27	her	PER	PRON
+MENTION	T191	34	1	34	1	We	PER	PRON
+MENTION	T192	34	13	34	13	he	PER	PRON
+MENTION	T193	34	22	34	22	his	PER	PRON
+MENTION	T194	34	34	34	34	his	PER	PRON
+MENTION	T195	34	40	34	40	his	PER	PRON
+MENTION	T196	35	10	35	10	him	PER	PRON
+MENTION	T197	35	13	35	13	she	PER	PRON
+MENTION	T198	35	30	35	30	his	PER	PRON
+MENTION	T199	35	50	35	50	her	PER	PRON
+MENTION	T200	35	52	35	52	his	PER	PRON
+MENTION	T201	36	0	36	0	He	PER	PRON
+MENTION	T202	37	0	37	0	He	PER	PRON
+MENTION	T203	37	2	37	2	her	PER	PRON
+MENTION	T204	37	6	37	6	his	PER	PRON
+MENTION	T205	37	20	37	20	her	PER	PRON
+MENTION	T206	37	23	37	23	her	PER	PRON
+MENTION	T207	38	1	38	1	he	PER	PRON
+MENTION	T208	38	8	38	8	his	PER	PRON
+MENTION	T209	38	12	38	12	he	PER	PRON
+MENTION	T210	38	17	38	17	he	PER	PRON
+MENTION	T211	38	25	38	25	his	PER	PRON
+MENTION	T212	38	44	38	44	his	PER	PRON
+MENTION	T213	38	76	38	76	his	PER	PRON
+MENTION	T214	39	21	39	21	he	PER	PRON
+MENTION	T215	39	32	39	32	he	PER	PRON
+MENTION	T216	39	37	39	37	his	PER	PRON
+MENTION	T217	39	44	39	44	he	PER	PRON
+MENTION	T218	39	71	39	71	him	PER	PRON
+MENTION	T219	39	75	39	75	their	PER	PRON
+MENTION	T220	40	8	40	8	himself	PER	PRON
+MENTION	T221	40	22	40	22	he	PER	PRON
+MENTION	T222	41	1	41	1	they	PER	PRON
+MENTION	T223	41	3	41	3	their	PER	PRON
+MENTION	T224	41	9	41	9	they	PER	PRON
+MENTION	T225	41	23	41	23	him	PER	PRON
+MENTION	T226	41	25	41	25	their	PER	PRON
+MENTION	T227	42	0	42	0	He	PER	PRON
+MENTION	T228	42	22	42	22	himself	PER	PRON
+MENTION	T229	43	4	43	4	my	PER	PRON
+MENTION	T230	44	5	44	5	his	PER	PRON
+MENTION	T231	46	0	46	0	He	PER	PRON
+MENTION	T232	46	27	46	27	his	PER	PRON
+MENTION	T233	47	6	47	6	him	PER	PRON
+MENTION	T234	47	12	47	12	his	PER	PRON
+MENTION	T235	47	19	47	19	his	PER	PRON
+MENTION	T236	47	33	47	33	his	PER	PRON
+MENTION	T237	48	8	48	8	him	PER	PRON
+MENTION	T238	49	11	49	11	his	PER	PRON
+MENTION	T239	50	1	50	1	My	PER	PRON
+MENTION	T240	51	0	51	0	he	PER	PRON
+MENTION	T241	51	6	51	6	his	PER	PRON
+COREF	T3	Christine_Nilsson-0
+COREF	T1	the_Academy_of_Music_in_New_York-1
+COREF	T2	New_York-2
+COREF	T4	a_new_Opera_House_which_should_compete_in_costliness_and_splendour_with_those_of_the_great_European_capitals-3
+COREF	T108	those_of_the_great_European_capitals-4
+COREF	T109	the_great_European_capitals-5
+COREF	T110	the_Academy_of_Music_in_New_York-1
+COREF	T5	Conservatives-6
+COREF	T111	the___new_people___whom_New_York_was_beginning_to_dread_and_yet_be_drawn_to-7
+COREF	T8	New_York-2
+COREF	T6	the_sentimental-8
+COREF	T7	the_musical-9
+COREF	T112	halls_built_for_the_hearing_of_music-10
+COREF	T10	Christine_Nilsson-0
+COREF	T11	the_daily_press-11
+COREF	T113	an_exceptionally_brilliant_audience-12
+COREF	T134	Christine_Nilsson-0
+COREF	T114	private_broughams-13
+COREF	T9	the_spacious_family_landau-14
+COREF	T12	the_humbler_but_more_convenient___Brown_coupe-15
+COREF	T116	the_humbler_but_more_convenient___Brown_coupe-15
+COREF	T117	one__s_own_carriage-17
+COREF	T118	the_humbler_but_more_convenient___Brown_coupe-15
+COREF	T119	the_first_Brown_conveyance_in_the_line-18
+COREF	T13	one__s_own_coachman-19
+COREF	T120	the_portico_of_the_Academy-20
+COREF	T121	the_Academy_of_Music_in_New_York-1
+COREF	T115	the_Academy_of_Music_in_New_York-1
+COREF	T14	the_great_livery-stableman-21
+COREF	T15	Americans-22
+COREF	T135	Americans-22
+COREF	T16	Newland_Archer-23
+COREF	T17	the_back_of_the_club_box-24
+COREF	T20	Newland_Archer-23
+COREF	T136	Newland_Archer-23
+COREF	T22	Mrs__Archer-25
+COREF	T137	Newland_Archer-23
+COREF	T18	sister-26
+COREF	T122	the_Gothic_library-27
+COREF	T123	the_only_room_in_the_house_where_Mrs__Archer_allowed_smoking-28
+COREF	T19	Mrs__Archer-25
+COREF	T30	New_York-2
+COREF	T28	metropolises-29
+COREF	T26	the_opera-30
+COREF	T23	Newland_Archer-23
+COREF	T27	Newland_Archer__s_New_York-31
+COREF	T24	his_forefathers-32
+COREF	T138	Newland_Archer-23
+COREF	T139	Newland_Archer-23
+COREF	T140	Newland_Archer-23
+COREF	T141	Newland_Archer-23
+COREF	T142	Newland_Archer-23
+COREF	T143	Newland_Archer-23
+COREF	T144	Newland_Archer-23
+COREF	T145	Newland_Archer-23
+COREF	T146	Newland_Archer-23
+COREF	T147	Newland_Archer-23
+COREF	T25	the_prima_donna__s_stage-manager-34
+COREF	T148	Newland_Archer-23
+COREF	T29	the_Academy_of_Music_in_New_York-1
+COREF	T150	He-35
+COREF	T151	me-36
+COREF	T152	He-35
+COREF	T153	me-36
+COREF	T154	He-35
+COREF	T155	me-36
+COREF	T157	He-35
+COREF	T158	me-36
+COREF	T35	Swedish_artists-37
+COREF	T31	English-speaking_audiences-38
+COREF	T37	Newland_Archer-23
+COREF	T159	Newland_Archer-23
+COREF	T160	Newland_Archer-23
+COREF	T161	Newland_Archer-23
+COREF	T162	Newland_Archer-23
+COREF	T34	the_little_brown_Faust-Capoul-39
+COREF	T166	the_little_brown_Faust-Capoul-39
+COREF	T41	Newland_Archer-23
+COREF	T36	the_back_of_the_club_box-40
+COREF	T167	Newland_Archer-23
+COREF	T43	the_opposite_side_of_the_house-41
+COREF	T168	Newland_Archer-23
+COREF	T39	the_box_of_old_Mrs__Manson_Mingott-42
+COREF	T42	Mrs__Manson_Mingott-43
+COREF	T169	Mrs__Manson_Mingott-43
+COREF	T44	the_Academy_of_Music_in_New_York-1
+COREF	T45	the_younger_members_of_the_family-44
+COREF	T49	the_front_of_the_box-45
+COREF	T46	Mrs__Lovell_Mingott-46
+COREF	T170	Mrs__Manson_Mingott-43
+COREF	T47	Mrs__Welland-47
+COREF	T171	Mrs__Manson_Mingott-43
+COREF	T55	these_brocaded_matrons-48
+COREF	T48	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T50	the_stagelovers-50
+COREF	T33	Christine_Nilsson-0
+COREF	T149	Christine_Nilsson-0
+COREF	T156	Christine_Nilsson-0
+COREF	T38	Christine_Nilsson-0
+COREF	T163	Christine_Nilsson-0
+COREF	T164	Christine_Nilsson-0
+COREF	T165	Christine_Nilsson-0
+COREF	T40	Christine_Nilsson-0
+COREF	T56	Christine_Nilsson-0
+COREF	T51	the_silent_house-51
+COREF	T54	the_boxes-52
+COREF	T58	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T172	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T173	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T174	Christine_Nilsson-0
+COREF	T175	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T176	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T177	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T60	Newland_Archer-23
+COREF	T178	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T179	Newland_Archer-23
+COREF	T180	Newland_Archer-23
+COREF	T57	people_who_shared_his_acquaintance_with_the_Opera_houses_of_Paris_and_Vienna-53
+COREF	T181	Newland_Archer-23
+COREF	T59	the_Opera_houses_of_Paris_and_Vienna-54
+COREF	T63	Paris-55
+COREF	T62	Vienna-56
+COREF	T61	female_parishioners-57
+COREF	T68	fashionable_clergymen-58
+COREF	T66	Mr__Luther_Burbank__s_far-off_prodigies-59
+COREF	T70	Mr__Luther_Burbank-60
+COREF	T64	the_centre_of_this_enchanted_garden-61
+COREF	T65	Christine_Nilsson-0
+COREF	T182	Christine_Nilsson-0
+COREF	T71	the_little_brown_Faust-Capoul-39
+COREF	T183	the_little_brown_Faust-Capoul-39
+COREF	T184	the_little_brown_Faust-Capoul-39
+COREF	T67	the_neat_brick_villa_projecting_obliquely_from_the_right_wing-62
+COREF	T69	Newland_Archer-23
+COREF	T185	Newland_Archer-23
+COREF	T72	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T186	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T187	Newland_Archer-23
+COREF	T188	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T189	Newland_Archer-23
+COREF	T190	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49
+COREF	T191	We-63
+COREF	T81	Faust-64
+COREF	T73	the_Italian_lakes-65
+COREF	T192	Newland_Archer-23
+COREF	T193	Newland_Archer-23
+COREF	T194	Newland_Archer-23
+COREF	T79	May_Welland-66
+COREF	T195	Newland_Archer-23
+COREF	T82	May_Welland-66
+COREF	T196	Newland_Archer-23
+COREF	T197	May_Welland-66
+COREF	T86	New_York-2
+COREF	T198	Newland_Archer-23
+COREF	T199	May_Welland-66
+COREF	T200	Newland_Archer-23
+COREF	T201	Newland_Archer-23
+COREF	T202	Newland_Archer-23
+COREF	T88	the_future_Mrs__Newland_Archer-67
+COREF	T203	the_future_Mrs__Newland_Archer-67
+COREF	T204	Newland_Archer-23
+COREF	T205	the_future_Mrs__Newland_Archer-67
+COREF	T206	the_future_Mrs__Newland_Archer-67
+COREF	T75	the_most_popular_married_women_of_the___younger_set-68
+COREF	T207	Newland_Archer-23
+COREF	T208	Newland_Archer-23
+COREF	T209	Newland_Archer-23
+COREF	T210	Newland_Archer-23
+COREF	T93	the_future_Mrs__Newland_Archer-67
+COREF	T211	Newland_Archer-23
+COREF	T76	the_married_lady_whose_charms_had_held_his_fancy_through_two_mildly_agitated_years-69
+COREF	T212	Newland_Archer-23
+COREF	T77	the_married_lady_whose_charms_had_held_his_fancy_through_two_mildly_agitated_years-69
+COREF	T213	Newland_Archer-23
+COREF	T99	a_harsh_world-70
+COREF	T214	Newland_Archer-23
+COREF	T215	Newland_Archer-23
+COREF	T216	Newland_Archer-23
+COREF	T217	Newland_Archer-23
+COREF	T80	all_the_carefully-brushed___white-waistcoated___button-hole-flowered_gentlemen_who_succeeded_each_other_in_the_club_box-71
+COREF	T218	Newland_Archer-23
+COREF	T219	all_the_carefully-brushed___white-waistcoated___button-hole-flowered_gentlemen_who_succeeded_each_other_in_the_club_box-71
+COREF	T78	the_circle_of_ladies_who_were_the_product_of_the_system-72
+COREF	T83	Newland_Archer-23
+COREF	T220	Newland_Archer-23
+COREF	T84	the_superior_of_these_chosen_specimens_of_old_New_York_gentility-73
+COREF	T221	Newland_Archer-23
+COREF	T97	the_world-74
+COREF	T95	any_other_man_of_the_number-75
+COREF	T222	any_other_man_of_the_number-75
+COREF	T223	any_other_man_of_the_number-75
+COREF	T224	any_other_man_of_the_number-75
+COREF	T92	New_York-2
+COREF	T225	Newland_Archer-23
+COREF	T226	any_other_man_of_the_number-75
+COREF	T227	Newland_Archer-23
+COREF	T228	Newland_Archer-23
+COREF	T229	Lawrence_Lefferts-76
+COREF	T85	Lawrence_Lefferts-76
+COREF	T230	Lawrence_Lefferts-76
+COREF	T87	Lawrence_Lefferts-76
+COREF	T98	New_York-2
+COREF	T231	Lawrence_Lefferts-76
+COREF	T100	any_one_else-77
+COREF	T232	Lawrence_Lefferts-76
+COREF	T233	Lawrence_Lefferts-76
+COREF	T234	Lawrence_Lefferts-76
+COREF	T235	Lawrence_Lefferts-76
+COREF	T103	Lawrence_Lefferts-76
+COREF	T236	Lawrence_Lefferts-76
+COREF	T89	any_one_who_knew_how_to_wear_such_good_clothes_so_carelessly_and_carry_such_height_with_so_much_lounging_grace-78
+COREF	T105	a_young_admirer-79
+COREF	T237	Lawrence_Lefferts-76
+COREF	T96	anybody-80
+COREF	T90	a_fellow-81
+COREF	T91	Lawrence_Lefferts-76
+COREF	T238	Lawrence_Lefferts-76
+COREF	T239	Lawrence_Lefferts-76
+COREF	T240	Lawrence_Lefferts-76
+COREF	T241	Lawrence_Lefferts-76
+COREF	T106	old_Sillerton_Jackson-82
+COP	T21	T30
+COP	T32	T142
+APPOS	T52	T46
+APPOS	T53	T47
+MENTION	T484	2	2	2	2	it	FAC	PRON
+COREF	T484	the_Academy_of_Music_in_New_York-1
+MENTION	T486	2	36	2	36	it	FAC	PRON
+COREF	T486	the_Academy_of_Music_in_New_York-1
+MENTION	T488	2	38	2	38	its	FAC	PRON
+COREF	T488	the_Academy_of_Music_in_New_York-1
+MENTION	T490	2	46	2	46	its	FAC	PRON
+COREF	T490	the_Academy_of_Music_in_New_York-1
+COREF	T74	a_simpleton-700
+MENTION	T101	19	37	19	44	some of the younger members of the family	PER	NOM
+COREF	T101	some_of_the_younger_-700

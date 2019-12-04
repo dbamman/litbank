@@ -1,0 +1,494 @@
+T0	NOM_FAC 230 249	CASTLE OF INDOLENCE
+T1	NOM_LOC 424 438	the Tappan Zee
+T3	PROP_GPE 699 709	Tarry Town
+T4	PROP_PER 519 531	St. Nicholas
+T5	NOM_PER 768 811	the good housewives of the adjacent country
+T6	NOM_GPE 883 890	village
+T7	NOM_PER 848 862	their husbands
+T8	NOM_GPE 1050 1062	this village
+T9	NOM_LOC 1196 1211	the whole world
+T10	NOM_PER 1462 1473	a stripling
+T11	NOM_LOC 1868 1877	the world
+T13	NOM_PER 2126 2153	the original Dutch settlers
+T14	NOM_PER 2109 2153	descendants from the original Dutch settlers
+T15	NOM_PER 2233 2248	its rustic lads
+T16	PROP_PER 2260 2282	the Sleepy Hollow Boys
+T17	PROP_PER 2658 2680	Master Hendrick Hudson
+T18	NOM_PER 2561 2595	the prophet or wizard of his tribe
+T20	NOM_PER 2460 2480	a High German doctor
+T23	NOM_FAC 3925 3933	a church
+T24	NOM_FAC 3870 3888	the adjacent roads
+T25	NOM_PER 4104 4116	this spectre
+T27	NOM_PER 4678 4716	the Headless Horseman of Sleepy Hollow
+T28	PROP_LOC 4703 4716	Sleepy Hollow
+T29	NOM_PER 4611 4622	the spectre
+T30	NOM_PER 4802 4838	the native inhabitants of the valley
+T33	NOM_PER 6248 6276	the children of the vicinity
+T34	NOM_LOC 6387 6397	the forest
+T35	NOM_PER 6459 6480	country schoolmasters
+T36	NOM_PER 6350 6371	pioneers for the mind
+T37	PROP_PER 6499 6504	Crane
+T38	NOM_PER 6529 6539	his person
+T39	NOM_LOC 7156 7165	the earth
+T40	NOM_FAC 7250 7264	one large room
+T41	NOM_PER 7659 7672	the architect
+T42	NOM_PER 7531 7538	a thief
+T45	NOM_PER 8119 8129	the master
+T47	NOM_PER 8237 8256	some tardy loiterer
+T48	NOM_PER 8406 8415	the child
+T49	NOM_PER 8317 8336	a conscientious man
+T50	NOM_PER 8420 8445	Ichabod Crane ’s scholars
+T52	NOM_PER 9135 9148	their parents
+T53	NOM_PER 9249 9268	the smarting urchin
+T54	NOM_PER 9557 9572	good housewives
+T55	NOM_PER 9427 9442	the larger boys
+T58	NOM_PER 9577 9584	mothers
+T60	NOM_PER 9680 9690	his pupils
+T61	NOM_PER 10027 10067	the farmers whose children he instructed
+T62	NOM_FAC 10013 10067	the houses of the farmers whose children he instructed
+T65	NOM_PER 10490 10501	the farmers
+T66	NOM_PER 10891 10902	the mothers
+T68	NOM_PER 10914 10926	the children
+T70	NOM_LOC 60 90	A pleasing land of drowsy head
+T71	NOM_LOC 268 340	one of those spacious coves which indent the eastern shore of the Hudson
+T72	PROP_LOC 330 340	the Hudson
+T73	NOM_LOC 309 340	the eastern shore of the Hudson
+T2	NOM_PER 395 423	the ancient Dutch navigators
+T74	NOM_LOC 370 438	the river denominated by the ancient Dutch navigators the Tappan Zee
+T75	NOM_GPE 563 582	a small market town
+T76	NOM_GPE 586 596	rural port
+T77	PROP_GPE 623 634	Greensburgh
+T78	NOM_LOC 791 811	the adjacent country
+T79	NOM_LOC 1100 1115	a little valley
+T80	NOM_LOC 1144 1154	high hills
+T81	NOM_LOC 1126 1154	lap of land among high hills
+T82	NOM_LOC 1214 1227	A small brook
+T83	NOM_LOC 1574 1584	the valley
+T84	NOM_LOC 1562 1584	one side of the valley
+T85	NOM_LOC 1521 1584	a grove of tall walnut-trees that shades one side of the valley
+T12	NOM_LOC 1992 2010	this little valley
+T86	NOM_PER 2083 2153	its inhabitants , who are descendants from the original Dutch settlers
+T87	NOM_LOC 2156 2177	this sequestered glen
+T88	NOM_LOC 2041 2050	the place
+T89	PROP_LOC 2213 2226	SLEEPY HOLLOW
+T90	NOM_LOC 2294 2321	all the neighboring country
+T91	NOM_PER 2539 2558	an old Indian chief
+T19	NOM_PER 2586 2595	his tribe
+T92	NOM_LOC 2628 2639	the country
+T93	NOM_LOC 2699 2708	the place
+T94	NOM_PER 2802 2817	the good people
+T95	NOM_FAC 3030 3052	The whole neighborhood
+T96	NOM_LOC 3080 3093	haunted spots
+T21	NOM_LOC 3170 3180	the valley
+T97	NOM_LOC 3207 3218	the country
+T98	NOM_LOC 3189 3218	any other part of the country
+T99	NOM_PER 3475 3513	a figure on horseback , without a head
+T22	NOM_PER 3714 3730	the country folk
+T100	NOM_PER 3554 3800	a Hessian trooper , whose head had been carried away by a cannon-ball , in some nameless battle during the Revolutionary War , and who is ever and anon seen by the country folk hurrying along in the gloom of night , as if on the wings of the wind
+T101	NOM_LOC 3834 3844	the valley
+T102	NOM_LOC 4010 4021	those parts
+T103	NOM_PER 3966 4116	certain of the most authentic historians of those parts , who have been careful in collecting and collating the floating facts concerning this spectre
+T26	NOM_PER 4143 4154	the trooper
+T104	NOM_FAC 4177 4191	the churchyard
+T105	NOM_PER 4194 4203	the ghost
+T106	NOM_LOC 4334 4344	the Hollow
+T107	NOM_FAC 4433 4447	the churchyard
+T108	NOM_LOC 4582 4604	that region of shadows
+T109	NOM_LOC 4828 4838	the valley
+T110	NOM_PER 4873 4911	every one who resides there for a time
+T111	NOM_LOC 4972 4990	that sleepy region
+T31	NOM_LOC 5156 5174	this peaceful spot
+T32	NOM_GPE 5283 5310	the great State of New York
+T112	NOM_LOC 5213 5310	such little retired Dutch valleys , found here and there embosomed in the great State of New York
+T113	NOM_GPE 5480 5501	this restless country
+T114	NOM_LOC 5465 5501	other parts of this restless country
+T115	NOM_LOC 5595 5609	a rapid stream
+T116	NOM_LOC 5546 5767	those little nooks of still water , which border a rapid stream , where we may see the straw and bubble riding quietly at anchor , or slowly revolving in their mimic harbor , undisturbed by the rush of the passing current
+T117	PROP_LOC 5835 5848	Sleepy Hollow
+T118	PROP_LOC 6201 6214	Sleepy Hollow
+T119	NOM_LOC 6264 6276	the vicinity
+T120	NOM_PER 6096 6276	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , “ tarried , ” in Sleepy Hollow , for the purpose of instructing the children of the vicinity
+T121	PROP_PER 6126 6139	Ichabod Crane
+T122	PROP_GPE 6298 6309	Connecticut
+T123	NOM_GPE 6335 6344	the Union
+T124	NOM_PER 6438 6454	frontier woodmen
+T125	NOM_GPE 6312 6480	a State which supplies the Union with pioneers for the mind as well as for the forest , and sends forth yearly its legions of frontier woodmen and country schoolmasters
+T126	NOM_LOC 7011 7017	a hill
+T127	NOM_LOC 7198 7209	a cornfield
+T128	NOM_FAC 7212 7227	His schoolhouse
+T129	NOM_FAC 7232 7293	a low building of one large room , rudely constructed of logs
+T130	PROP_PER 7675 7690	Yost Van Houten
+T131	NOM_FAC 7725 7740	The schoolhouse
+T44	NOM_LOC 7811 7823	a woody hill
+T132	NOM_LOC 7831 7838	a brook
+T43	NOM_PER 7942 7952	his pupils
+T46	PROP_PER 8420 8433	Ichabod Crane
+T133	NOM_ORG 8561 8571	the school
+T134	NOM_PER 8596 8610	their subjects
+T135	NOM_PER 8535 8610	those cruel potentates of the school who joy in the smart of their subjects
+T136	NOM_PER 8733 8741	the weak
+T137	NOM_PER 8770 8780	the strong
+T138	NOM_PER 8783 8854	Your mere puny stripling , that winced at the least flourish of the rod
+T51	NOM_PER 8964 9093	some little tough wrong-headed , broad-skirted Dutch urchin , who sulked and swelled and grew dogged and sullen beneath the birch
+T59	NOM_PER 9397 9442	the companion and playmate of the larger boys
+T56	NOM_PER 9492 9508	the smaller ones
+T139	NOM_FAC 9509 9513	home
+T57	NOM_PER 9537 9551	pretty sisters
+T140	NOM_ORG 9718 9728	his school
+T63	NOM_PER 10045 10053	children
+T141	NOM_FAC 10147 10163	the neighborhood
+T64	NOM_PER 10378 10391	schoolmasters
+T142	NOM_PER 10395 10406	mere drones
+T143	NOM_PER 10286 10406	his rustic patrons , who are apt to consider the costs of schooling a grievous burden , and schoolmasters as mere drones
+T144	NOM_FAC 10540 10551	their farms
+T145	NOM_ORG 10799 10809	the school
+T67	NOM_PER 11050 11057	a child
+T146	NOM_FAC 10779 10796	his little empire
+T147	NOM_PER 35 57	DIEDRICH KNICKERBOCKER
+T150	NOM_LOC 4895 4900	there
+T151	NOM_FAC 879 897	the village tavern
+T152	NOM_LOC 1166 1211	one of the quietest places in the whole world
+T153	NOM_LOC 2433 2442	the place
+T154	PRON_PER 451 455	they
+T155	PRON_PER 537 541	they
+T156	PRON_PER 734 736	we
+T157	PRON_PER 848 853	their
+T158	PRON_PER 935 936	I
+T159	PRON_PER 1438 1439	I
+T160	PRON_PER 1476 1478	my
+T161	PRON_PER 1587 1588	I
+T162	PRON_PER 1694 1696	my
+T163	PRON_PER 1813 1814	I
+T164	PRON_PER 1849 1850	I
+T165	PRON_PER 1957 1958	I
+T166	PRON_PER 2586 2589	his
+T167	PRON_PER 2603 2606	his
+T168	PRON_PER 2828 2832	them
+T169	PRON_PER 2866 2870	They
+T172	PRON_PER 3803 3806	His
+T173	PRON_PER 4259 4262	his
+T174	PRON_PER 4308 4310	he
+T175	PRON_PER 4383 4386	his
+T176	PRON_PER 4766 4767	I
+T177	PRON_PER 4933 4937	they
+T178	PRON_PER 4959 4963	they
+T179	PRON_PER 4993 4997	they
+T180	PRON_PER 5146 5147	I
+T181	PRON_LOC 5514 5518	them
+T182	PRON_LOC 5532 5536	They
+T183	PRON_PER 5618 5620	we
+T184	PRON_LOC 5700 5705	their
+T185	PRON_PER 5807 5808	I
+T186	PRON_PER 5855 5856	I
+T187	PRON_PER 5874 5875	I
+T188	PRON_PER 6166 6168	he
+T189	PRON_PER 6279 6281	He
+T190	PRON_PER 6529 6532	his
+T191	PRON_PER 6542 6544	He
+T192	PRON_PER 6657 6660	his
+T193	PRON_PER 6717 6720	his
+T194	PRON_PER 6762 6765	His
+T195	PRON_PER 6919 6922	his
+T196	PRON_PER 6977 6980	him
+T197	PRON_PER 7040 7043	his
+T198	PRON_PER 7081 7084	him
+T199	PRON_PER 7111 7114	him
+T200	PRON_PER 7212 7215	His
+T804	ICHABOD_CRANE-58 7212 7215	His
+T201	PRON_PER 7572 7574	he
+T202	PRON_PER 7942 7945	his
+T203	PRON_PER 7977 7982	their
+T204	PRON_PER 8228 8230	he
+T205	PRON_PER 8310 8312	he
+T206	PRON_PER 8475 8476	I
+T207	PRON_PER 8521 8523	he
+T208	PRON_PER 8596 8601	their
+T209	PRON_PER 8631 8633	he
+T210	PRON_PER 8783 8787	Your
+T211	PRON_PER 9105 9107	he
+T212	PRON_PER 9123 9126	his
+T213	PRON_PER 9135 9140	their
+T214	PRON_PER 9157 9159	he
+T215	PRON_PER 9278 9280	he
+T216	PRON_PER 9309 9312	him
+T217	PRON_PER 9336 9338	he
+T218	PRON_PER 9385 9387	he
+T219	PRON_PER 9649 9652	him
+T220	PRON_PER 9680 9683	his
+T221	PRON_PER 9718 9721	his
+T222	PRON_PER 9792 9795	him
+T223	PRON_PER 9819 9821	he
+T224	PRON_PER 9919 9922	his
+T225	PRON_PER 9937 9939	he
+T226	PRON_PER 10054 10056	he
+T227	PRON_PER 10081 10083	he
+T228	PRON_PER 10175 10178	his
+T229	PRON_PER 10286 10289	his
+T230	PRON_PER 10409 10411	he
+T231	PRON_PER 10442 10449	himself
+T232	PRON_PER 10478 10480	He
+T233	PRON_PER 10540 10545	their
+T234	PRON_PER 10687 10689	He
+T235	PRON_PER 10763 10765	he
+T236	PRON_PER 10779 10782	his
+T237	PRON_PER 10861 10863	He
+T238	PRON_PER 11032 11034	he
+T239	PRON_PER 11095 11098	his
+T240	PRON_LOC 91 93	it
+T311	A_pleasing_land_of_drowsy_head-1 60 90	A pleasing land of drowsy head
+T481	A_pleasing_land_of_drowsy_head-1 91 93	it
+T312	one_of_those_spacious_coves_which_indent_the_eastern_shore_of_the_Hudson-3 268 340	one of those spacious coves which indent the eastern shore of the Hudson
+T314	the_eastern_shore_of_the_Hudson-4 309 340	the eastern shore of the Hudson
+T313	the_Hudson-5 330 340	the Hudson
+T315	the_Hudson-5 370 438	the river denominated by the ancient Dutch navigators the Tappan Zee
+T243	the_ancient_Dutch_navigators-6 395 423	the ancient Dutch navigators
+T395	the_ancient_Dutch_navigators-6 451 455	they
+T245	St__Nicholas-8 519 531	St. Nicholas
+T396	the_ancient_Dutch_navigators-6 537 541	they
+T316	a_small_market_town-9 563 582	a small market town
+T317	rural_port-10 586 596	rural port
+T318	Greensburgh-11 623 634	Greensburgh
+T244	Tarry_Town-12 699 709	Tarry Town
+T397	we-13 734 736	we
+T246	the_good_housewives_of_the_adjacent_country-14 768 811	the good housewives of the adjacent country
+T319	the_adjacent_country-15 791 811	the adjacent country
+T248	their_husbands-16 848 862	their husbands
+T398	the_good_housewives_of_the_adjacent_country-14 848 853	their
+T392	the_village_tavern-17 879 897	the village tavern
+T247	Tarry_Town-12 883 890	village
+T399	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 935 936	I
+T249	Tarry_Town-12 1050 1062	this village
+T320	Sleepy_Hollow-19 1100 1115	a little valley
+T321	high_hills-20 1144 1154	high hills
+T250	the_whole_world-21 1196 1211	the whole world
+T323	A_small_brook-22 1214 1227	A small brook
+T400	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 1438 1439	I
+T251	a_stripling-23 1462 1473	a stripling
+T401	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 1476 1478	my
+T326	a_grove_of_tall_walnut-trees_that_shades_one_side_of_the_valley-24 1521 1584	a grove of tall walnut-trees that shades one side of the valley
+T325	one_side_of_the_valley-25 1562 1584	one side of the valley
+T324	Sleepy_Hollow-19 1574 1584	the valley
+T402	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 1587 1588	I
+T403	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 1694 1696	my
+T404	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 1813 1814	I
+T405	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 1849 1850	I
+T252	the_world-26 1868 1877	the world
+T406	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 1957 1958	I
+T253	Sleepy_Hollow-19 1992 2010	this little valley
+T329	Sleepy_Hollow-19 2041 2050	the place
+T327	its_inhabitants___who_are_descendants_from_the_original_Dutch_settlers-27 2083 2153	its inhabitants , who are descendants from the original Dutch settlers
+T254	the_original_Dutch_settlers-28 2126 2153	the original Dutch settlers
+T328	Sleepy_Hollow-19 2156 2177	this sequestered glen
+T330	Sleepy_Hollow-19 2213 2226	SLEEPY HOLLOW
+T256	Sleepy_Hollow_Boys-29 2233 2248	its rustic lads
+T257	Sleepy_Hollow_Boys-29 2260 2282	the Sleepy Hollow Boys
+T331	all_the_neighboring_country-30 2294 2321	all the neighboring country
+T394	Sleepy_Hollow-19 2433 2442	the place
+T261	a_High_German_doctor-31 2460 2480	a High German doctor
+T332	an_old_Indian_chief-32 2539 2558	an old Indian chief
+T260	his_tribe-34 2586 2595	his tribe
+T407	an_old_Indian_chief-32 2586 2589	his
+T408	an_old_Indian_chief-32 2603 2606	his
+T333	the_country-35 2628 2639	the country
+T258	Master_Hendrick_Hudson-36 2658 2680	Master Hendrick Hudson
+T334	Sleepy_Hollow-19 2699 2708	the place
+T335	the_good_people-37 2802 2817	the good people
+T409	the_good_people-37 2828 2832	them
+T410	the_good_people-37 2866 2870	They
+T336	The_whole_neighborhood-38 3030 3052	The whole neighborhood
+T337	haunted_spots-39 3080 3093	haunted spots
+T262	Sleepy_Hollow-19 3170 3180	the valley
+T339	any_other_part_of_the_country-40 3189 3218	any other part of the country
+T338	the_country-41 3207 3218	the country
+T340	The_Headless_Horseman-42 3475 3513	a figure on horseback , without a head
+T341	The_Headless_Horseman-42 3554 3800	a Hessian trooper , whose head had been carried away by a cannon-ball , in some nameless battle during the Revolutionary War , and who is ever and anon seen by the country folk hurrying along in the gloom of night , as if on the wings of the wind
+T263	the_country_folk-43 3714 3730	the country folk
+T413	The_Headless_Horseman-42 3803 3806	His
+T342	Sleepy_Hollow-19 3834 3844	the valley
+T265	the_adjacent_roads-44 3870 3888	the adjacent roads
+T264	a_church-45 3925 3933	a church
+T344	certain_of_the_most_authentic_historians_of_those_parts___who_have_been_careful_in_collecting_and_collating_the_floating_facts_concerning_this_spectre-46 3966 4116	certain of the most authentic historians of those parts , who have been careful in collecting and collating the floating facts concerning this spectre
+T343	those_parts-47 4010 4021	those parts
+T266	The_Headless_Horseman-42 4104 4116	this spectre
+T267	The_Headless_Horseman-42 4143 4154	the trooper
+T345	the_churchyard-48 4177 4191	the churchyard
+T346	The_Headless_Horseman-42 4194 4203	the ghost
+T414	The_Headless_Horseman-42 4259 4262	his
+T415	The_Headless_Horseman-42 4308 4310	he
+T347	Sleepy_Hollow-19 4334 4344	the Hollow
+T416	The_Headless_Horseman-42 4383 4386	his
+T348	the_churchyard-48 4433 4447	the churchyard
+T349	Sleepy_Hollow-19 4582 4604	that region of shadows
+T270	The_Headless_Horseman-42 4611 4622	the spectre
+T268	The_Headless_Horseman-42 4678 4716	the Headless Horseman of Sleepy Hollow
+T269	Sleepy_Hollow-19 4703 4716	Sleepy Hollow
+T417	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 4766 4767	I
+T241	CASTLE_OF_INDOLENCE-2 230 249	CASTLE OF INDOLENCE
+T388	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 35 57	DIEDRICH KNICKERBOCKER
+T271	the_native_inhabitants_of_the_valley-49 4802 4838	the native inhabitants of the valley
+T350	Sleepy_Hollow-19 4828 4838	the valley
+T351	every_one_who_resides_there_for_a_time-50 4873 4911	every one who resides there for a time
+T391	Sleepy_Hollow-19 4895 4900	there
+T418	every_one_who_resides_there_for_a_time-50 4933 4937	they
+T419	every_one_who_resides_there_for_a_time-50 4959 4963	they
+T352	Sleepy_Hollow-19 4972 4990	that sleepy region
+T420	every_one_who_resides_there_for_a_time-50 4993 4997	they
+T421	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 5146 5147	I
+T272	Sleepy_Hollow-19 5156 5174	this peaceful spot
+T353	such_little_retired_Dutch_valleys___found_here_and_there_embosomed_in_the_great_State_of_New_York-51 5213 5310	such little retired Dutch valleys , found here and there embosomed in the great State of New York
+T273	the_great_State_of_New_York-52 5283 5310	the great State of New York
+T355	other_parts_of_this_restless_country-53 5465 5501	other parts of this restless country
+T354	this_restless_country-54 5480 5501	this restless country
+T422	other_parts_of_this_restless_country-53 5514 5518	them
+T423	other_parts_of_this_restless_country-53 5532 5536	They
+T357	those_little_nooks_of_still_water___which_border_a_rapid_stream___where_we_may_see_the_straw_and_bubble_riding_quietly_at_anchor___or_slowly_revolving_in_their_mimic_harbor___undisturbed_by_the_rush_of_the_passing_current-55 5546 5767	those little nooks of still water , which border a rapid stream , where we may see the straw and bubble riding quietly at anchor , or slowly revolving in their mimic harbor , undisturbed by the rush of the passing current
+T356	a_rapid_stream-56 5595 5609	a rapid stream
+T424	we-57 5618 5620	we
+T425	other_parts_of_this_restless_country-53 5700 5705	their
+T426	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 5807 5808	I
+T358	Sleepy_Hollow-19 5835 5848	Sleepy Hollow
+T427	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 5855 5856	I
+T428	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 5874 5875	I
+T361	ICHABOD_CRANE-58 6096 6276	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , “ tarried , ” in Sleepy Hollow , for the purpose of instructing the children of the vicinity
+T362	ICHABOD_CRANE-58 6126 6139	Ichabod Crane
+T429	ICHABOD_CRANE-58 6166 6168	he
+T359	Sleepy_Hollow-19 6201 6214	Sleepy Hollow
+T274	the_children_of_the_vicinity-59 6248 6276	the children of the vicinity
+T360	the_vicinity-60 6264 6276	the vicinity
+T430	ICHABOD_CRANE-58 6279 6281	He
+T363	Connecticut-61 6298 6309	Connecticut
+T364	the_Union-62 6335 6344	the Union
+T277	pioneers_for_the_mind-63 6350 6371	pioneers for the mind
+T275	the_forest-64 6387 6397	the forest
+T365	frontier_woodmen-65 6438 6454	frontier woodmen
+T276	country_schoolmasters-66 6459 6480	country schoolmasters
+T278	Crane-67 6499 6504	Crane
+T279	ICHABOD_CRANE-58 6529 6539	his person
+T431	ICHABOD_CRANE-58 6529 6532	his
+T432	ICHABOD_CRANE-58 6542 6544	He
+T433	ICHABOD_CRANE-58 6657 6660	his
+T434	ICHABOD_CRANE-58 6717 6720	his
+T435	ICHABOD_CRANE-58 6762 6765	His
+T436	ICHABOD_CRANE-58 6919 6922	his
+T437	ICHABOD_CRANE-58 6977 6980	him
+T367	a_hill-68 7011 7017	a hill
+T438	ICHABOD_CRANE-58 7040 7043	his
+T439	ICHABOD_CRANE-58 7081 7084	him
+T440	ICHABOD_CRANE-58 7111 7114	him
+T280	the_earth-69 7156 7165	the earth
+T368	a_cornfield-70 7198 7209	a cornfield
+T281	one_large_room-71 7250 7264	one large room
+T283	a_thief-72 7531 7538	a thief
+T282	the_architect-73 7659 7672	the architect
+T369	His_schoolhouse-74 7212 7227	His schoolhouse
+T372	His_schoolhouse-74 7725 7740	The schoolhouse
+T285	a_woody_hill-75 7811 7823	a woody hill
+T373	a_brook-76 7831 7838	a brook
+T284	his_pupils-77 7942 7952	his pupils
+T443	ICHABOD_CRANE-58 7942 7945	his
+T444	his_pupils-77 7977 7982	their
+T286	ICHABOD_CRANE-58 8119 8129	the master
+T442	a_thief-72 7572 7574	he
+T445	ICHABOD_CRANE-58 8228 8230	he
+T288	some_tardy_loiterer-78 8237 8256	some tardy loiterer
+T446	ICHABOD_CRANE-58 8310 8312	he
+T289	the_child-79 8406 8415	the child
+T291	his_pupils-77 8420 8445	Ichabod Crane ’s scholars
+T287	ICHABOD_CRANE-58 8420 8433	Ichabod Crane
+T447	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 8475 8476	I
+T448	ICHABOD_CRANE-58 8521 8523	he
+T376	those_cruel_potentates_of_the_school_who_joy_in_the_smart_of_their_subjects-80 8535 8610	those cruel potentates of the school who joy in the smart of their subjects
+T374	the_school-81 8561 8571	the school
+T375	their_subjects-82 8596 8610	their subjects
+T449	those_cruel_potentates_of_the_school_who_joy_in_the_smart_of_their_subjects-80 8596 8601	their
+T450	ICHABOD_CRANE-58 8631 8633	he
+T377	the_weak-83 8733 8741	the weak
+T378	the_strong-84 8770 8780	the strong
+T379	Your_mere_puny_stripling___that_winced_at_the_least_flourish_of_the_rod-85 8783 8854	Your mere puny stripling , that winced at the least flourish of the rod
+T451	Your-86 8783 8787	Your
+T292	some_little_tough_wrong-headed___broad-skirted_Dutch_urchin___who_sulked_and_swelled_and_grew_dogged_and_sullen_beneath_the_birch-87 8964 9093	some little tough wrong-headed , broad-skirted Dutch urchin , who sulked and swelled and grew dogged and sullen beneath the birch
+T452	ICHABOD_CRANE-58 9105 9107	he
+T453	ICHABOD_CRANE-58 9123 9126	his
+T293	their_parents-88 9135 9148	their parents
+T454	his_pupils-77 9135 9140	their
+T455	ICHABOD_CRANE-58 9157 9159	he
+T294	the_smarting_urchin-89 9249 9268	the smarting urchin
+T456	the_smarting_urchin-89 9278 9280	he
+T457	ICHABOD_CRANE-58 9309 9312	him
+T458	the_smarting_urchin-89 9336 9338	he
+T459	ICHABOD_CRANE-58 9385 9387	he
+T296	the_larger_boys-90 9427 9442	the larger boys
+T297	the_smaller_ones-91 9492 9508	the smaller ones
+T380	home-92 9509 9513	home
+T298	pretty_sisters-93 9537 9551	pretty sisters
+T295	good_housewives-94 9557 9572	good housewives
+T299	mothers-95 9577 9584	mothers
+T460	ICHABOD_CRANE-58 9649 9652	him
+T301	his_pupils-77 9680 9690	his pupils
+T461	ICHABOD_CRANE-58 9680 9683	his
+T381	the_school-81 9718 9728	his school
+T462	ICHABOD_CRANE-58 9718 9721	his
+T463	ICHABOD_CRANE-58 9792 9795	him
+T464	ICHABOD_CRANE-58 9819 9821	he
+T465	ICHABOD_CRANE-58 9919 9922	his
+T466	ICHABOD_CRANE-58 9937 9939	he
+T303	the_houses_of_the_farmers_whose_children_he_instructed-96 10013 10067	the houses of the farmers whose children he instructed
+T302	the_farmers_whose_children_he_instructed-97 10027 10067	the farmers whose children he instructed
+T304	his_pupils-77 10045 10053	children
+T467	ICHABOD_CRANE-58 10054 10056	he
+T468	ICHABOD_CRANE-58 10081 10083	he
+T382	the_neighborhood-98 10147 10163	the neighborhood
+T469	ICHABOD_CRANE-58 10175 10178	his
+T384	his_rustic_patrons___who_are_apt_to_consider_the_costs_of_schooling_a_grievous_burden___and_schoolmasters_as_mere_drones-99 10286 10406	his rustic patrons , who are apt to consider the costs of schooling a grievous burden , and schoolmasters as mere drones
+T470	ICHABOD_CRANE-58 10286 10289	his
+T305	schoolmasters-100 10378 10391	schoolmasters
+T383	mere_drones-101 10395 10406	mere drones
+T471	ICHABOD_CRANE-58 10409 10411	he
+T472	ICHABOD_CRANE-58 10442 10449	himself
+T473	ICHABOD_CRANE-58 10478 10480	He
+T306	the_farmers_whose_children_he_instructed-97 10490 10501	the farmers
+T385	their_farms-102 10540 10551	their farms
+T474	the_farmers_whose_children_he_instructed-97 10540 10545	their
+T475	ICHABOD_CRANE-58 10687 10689	He
+T476	ICHABOD_CRANE-58 10763 10765	he
+T387	his_little_empire-103 10779 10796	his little empire
+T477	ICHABOD_CRANE-58 10779 10782	his
+T478	ICHABOD_CRANE-58 10861 10863	He
+T307	ICHABOD_CRANE-58 10891 10902	the mothers
+T386	the_school-81 10799 10809	the school
+T309	the_children-105 10914 10926	the children
+T479	ICHABOD_CRANE-58 11032 11034	he
+T308	a_child-106 11050 11057	a child
+T480	ICHABOD_CRANE-58 11095 11098	his
+R1	cop Arg1:T81 Arg2:T79
+R2	cop Arg1:T152 Arg2:T79
+R4	appos Arg1:T18 Arg2:T91
+R5	appos Arg1:T125 Arg2:T122
+R6	cop Arg1:T129 Arg2:T128
+R7	appos Arg1:T130 Arg2:T41
+R8	cop Arg1:T49 Arg2:T205
+R9	cop Arg1:T59 Arg2:T218
+T69	the_Hudson-5 424 438	the Tappan Zee
+T809	PRON_LOC 1243 1245	it
+T810	Sleepy_Hollow-19 1243 1245	it
+T811	PRON_LOC 1607 1609	it
+T812	a_grove_of_tall_walnut-trees_that_shades_one_side_of_the_valley-24 1607 1609	it
+T815	PRON_LOC 1882 1885	its
+T816	the_world-26 1882 1885	its
+T817	PRON_LOC 2083 2086	its
+T818	Sleepy_Hollow-19 2083 2086	its
+T819	PRON_LOC 2233 2236	its
+T820	Sleepy_Hollow-19 2233 2236	its
+T823	PRON_LOC 3281 3283	it
+T824	Sleepy_Hollow-19 3281 3283	it
+T831	PRON_LOC 5949 5952	its
+T832	Sleepy_Hollow-19 5949 5952	its
+T835	PRON_GPE 6423 6426	its
+T836	Connecticut-61 6423 6426	its
+T841	PRON_FAC 7908 7910	it
+T842	His_schoolhouse-74 7908 7910	it
+T148	its_inhabitants___who_are_descendants_from_the_original_Dutch_settlers-27 2109 2153	descendants from the original Dutch settlers
+T149	NOM_PER 2419 2423	Some
+T170	Some-700 2419 2423	Some
+T171	NOM_PER 9484 9508	some of the smaller ones
+T242	some_of_the_smaller_-701 9484 9508	some of the smaller ones

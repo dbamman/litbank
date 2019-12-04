@@ -1,0 +1,700 @@
+MENTION	T0	0	4	0	5	Miss Marjoribanks	PER	PROP
+MENTION	T1	0	7	0	8	her mother	PER	NOM
+MENTION	T2	2	3	2	4	poor lady	PER	NOM
+MENTION	T3	2	31	2	32	this world	LOC	NOM
+MENTION	T4	4	29	4	35	her maid , whose occupation was gone	PER	NOM
+MENTION	T5	5	0	5	1	Her husband	PER	NOM
+MENTION	T6	6	1	6	2	Dr Marjoribanks	PER	PROP
+MENTION	T11	9	51	9	57	so many young persons of her age	PER	NOM
+MENTION	T12	9	30	9	32	an only child	PER	NOM
+MENTION	T13	10	0	10	1	Miss Marjoribanks	PER	PROP
+MENTION	T14	11	9	11	10	her mother	PER	NOM
+MENTION	T16	11	31	11	31	papa	PER	NOM
+MENTION	T17	12	0	12	1	Miss Marjoribanks	PER	PROP
+MENTION	T18	12	75	12	77	her own room	FAC	NOM
+MENTION	T19	12	118	12	119	his patients	PER	NOM
+MENTION	T20	12	96	12	96	downstairs	FAC	NOM
+MENTION	T22	13	13	13	20	a great many young ladies in deep mourning	PER	NOM
+MENTION	T23	15	11	15	11	Lucilla	PER	PROP
+MENTION	T24	15	1	15	2	her schoolfellows	PER	NOM
+MENTION	T27	17	0	17	1	Miss Marjoribanks	PER	PROP
+MENTION	T28	17	51	17	52	her companions	PER	NOM
+MENTION	T29	17	89	17	89	schoolgirl	PER	NOM
+MENTION	T30	18	6	18	6	Lucilla	PER	PROP
+MENTION	T31	19	57	19	58	her companions	PER	NOM
+MENTION	T32	20	11	20	11	home	FAC	NOM
+MENTION	T33	20	17	20	19	her widowed father	PER	NOM
+MENTION	T34	22	73	22	74	dear mamma	PER	NOM
+MENTION	T35	22	32	22	33	Dr Marjoribanks	PER	PROP
+MENTION	T36	22	57	22	58	his daughter	PER	NOM
+MENTION	T38	22	66	22	69	the chamber of death	FAC	NOM
+MENTION	T39	25	3	25	5	the devoted daughter	PER	NOM
+MENTION	T40	25	26	25	26	papa	PER	NOM
+MENTION	T41	26	17	26	18	Miss Marjoribanks	PER	PROP
+MENTION	T42	28	35	28	38	a patient in extremity	PER	NOM
+MENTION	T43	28	51	28	52	the Doctor	PER	NOM
+MENTION	T44	28	1	28	2	Miss Marjoribanks	PER	PROP
+MENTION	T45	28	4	28	4	home	FAC	NOM
+MENTION	T46	28	48	28	49	the world	LOC	NOM
+MENTION	T47	28	5	28	6	her mother	PER	NOM
+MENTION	T48	28	15	28	16	her father	PER	NOM
+MENTION	T49	29	10	29	10	Lucilla	PER	PROP
+MENTION	T51	31	21	31	23	the faithful attendant	PER	NOM
+MENTION	T53	33	8	33	9	this world	LOC	NOM
+MENTION	T55	34	7	34	8	Miss Marjoribanks	PER	PROP
+MENTION	T56	34	30	34	31	poor papa	PER	NOM
+MENTION	T57	34	17	34	19	this anxious attendant	PER	NOM
+MENTION	T58	35	3	35	3	Lucilla	PER	PROP
+MENTION	T59	35	32	35	33	the house	FAC	NOM
+MENTION	T60	35	9	35	11	the sober-minded Doctor	PER	NOM
+MENTION	T61	36	9	36	10	the Doctor	PER	NOM
+MENTION	T64	36	55	36	56	Miss Marjoribanks	PER	PROP
+MENTION	T65	37	0	37	1	The widower	PER	NOM
+MENTION	T66	38	38	38	39	the world	LOC	NOM
+MENTION	T67	39	20	39	21	the world	LOC	NOM
+MENTION	T68	40	6	40	7	Dr Marjoribanks	PER	PROP
+MENTION	T70	43	14	43	14	Lucilla	PER	PROP
+MENTION	T71	43	28	43	29	Dr Marjoribanks	PER	PROP
+MENTION	T72	44	1	44	2	the Doctor	PER	NOM
+MENTION	T73	44	32	44	32	patients	PER	NOM
+MENTION	T74	44	26	44	30	the favourite doctor of Carlingford	PER	NOM
+MENTION	T75	44	30	44	30	Carlingford	GPE	PROP
+MENTION	T76	45	13	45	14	his library	FAC	NOM
+MENTION	T77	46	0	46	2	The unfortunate man	PER	NOM
+MENTION	T78	47	22	47	23	Miss Marjoribanks	PER	PROP
+MENTION	T79	48	20	48	25	a girl of much less spirit	PER	NOM
+MENTION	T80	48	68	48	70	her young mistress	PER	NOM
+MENTION	T82	48	59	48	59	Ellis	PER	PROP
+MENTION	T83	49	4	49	4	master	PER	NOM
+MENTION	T84	50	33	50	34	the kitchen	PER	NOM
+MENTION	T85	50	1	50	2	Them men	PER	NOM
+MENTION	T87	51	12	51	13	Miss Marjoribanks	PER	PROP
+MENTION	T88	52	40	52	40	Lucilla	PER	PROP
+MENTION	T89	54	2	54	3	the Doctor	PER	NOM
+MENTION	T90	54	6	54	7	Miss Marjoribanks	PER	PROP
+MENTION	T91	55	0	55	1	His wife	PER	NOM
+MENTION	T93	55	6	55	7	the world	LOC	NOM
+MENTION	T94	56	9	56	10	the Doctor	PER	NOM
+MENTION	T95	57	41	57	42	his friends	PER	NOM
+MENTION	T96	57	51	57	52	Dr Marjoribanks	PER	PROP
+MENTION	T97	0	28	0	28	school	FAC	NOM
+MENTION	T98	0	40	0	42	her dear mamma	PER	NOM
+MENTION	T99	2	0	2	1	Mrs Marjoribanks	PER	PROP
+MENTION	T100	3	61	3	67	that poor self which other people neglected	PER	NOM
+MENTION	T101	3	37	3	67	Mrs Marjoribanks , who devoted all her powers , during the last ten years of her life , to the solacement and care of that poor self which other people neglected	PER	NOM
+MENTION	T102	2	8	2	9	an invalid	PER	NOM
+MENTION	T103	3	2	3	22	some rare natures that are content to acquiesce in the general neglect , and forget themselves when they find themselves forgotten	PER	NOM
+MENTION	T104	3	65	3	66	other people	PER	NOM
+MENTION	T105	5	38	5	47	the house from which she had gone away for ever	FAC	NOM
+MENTION	T106	6	6	6	7	a man	PER	NOM
+MENTION	T107	7	0	7	1	His daughter	PER	NOM
+MENTION	T7	8	3	8	3	home	FAC	NOM
+MENTION	T8	8	29	8	30	Miss Marjoribanks	PER	PROP
+MENTION	T108	8	29	8	31	Miss Marjoribanks school	FAC	NOM
+MENTION	T9	8	33	8	41	a devoted admirer of _ Friends in Council _	PER	NOM
+MENTION	T109	8	62	8	62	Lucilla	PER	PROP
+MENTION	T110	9	37	9	38	her father	PER	NOM
+MENTION	T15	11	27	11	29	a cheerful home	FAC	NOM
+MENTION	T111	12	14	12	16	the railway carriage	VEH	NOM
+MENTION	T112	12	35	12	36	her papa	PER	NOM
+MENTION	T113	12	100	12	101	dear papa	PER	NOM
+MENTION	T114	13	37	13	46	the unobservant male creatures of whom they have the charge	PER	NOM
+MENTION	T21	13	58	13	59	Miss Marjoribanks	PER	PROP
+MENTION	T115	15	7	15	8	their friends	PER	NOM
+MENTION	T26	15	14	15	16	an important personage	PER	NOM
+MENTION	T25	15	33	15	37	" a large girl "	PER	NOM
+MENTION	T116	16	7	16	9	a tall girl	PER	NOM
+MENTION	T117	16	47	16	48	Mount Pleasant	GPE	PROP
+MENTION	T118	17	49	17	52	any of her companions	PER	NOM
+MENTION	T119	20	6	20	28	the girl who was going home to be a comfort to her widowed father , and meant to sacrifice herself to his happiness	PER	NOM
+MENTION	T120	22	7	22	8	her father	PER	NOM
+MENTION	T37	24	0	24	0	Lucilla	PER	PROP
+MENTION	T121	25	12	25	12	downstairs	FAC	NOM
+MENTION	T122	27	19	27	20	the Doctor	PER	NOM
+MENTION	T50	29	13	29	17	the woman to be disconcerted	PER	NOM
+MENTION	T123	30	17	30	18	Mrs Marjoribanks	PER	PROP
+MENTION	T124	30	17	30	20	Mrs Marjoribanks 's maid	PER	NOM
+MENTION	T125	31	17	31	17	miss	PER	NOM
+MENTION	T54	33	4	33	6	a good friend	PER	NOM
+MENTION	T126	33	22	33	36	the weeping handmaiden , who naturally saw her own loss in the most vivid light	PER	NOM
+MENTION	T127	34	3	34	3	Ellis	PER	PROP
+MENTION	T128	35	26	35	27	Mrs Marjoribanks	PER	PROP
+MENTION	T62	36	20	36	49	the great house , where the faded helpless woman , who had notwithstanding been his love and his bride in other days , lay no longer on the familiar sofa	FAC	NOM
+MENTION	T63	36	34	36	35	his love	PER	NOM
+MENTION	T129	36	37	36	38	his bride	PER	NOM
+MENTION	T130	36	25	36	41	the faded helpless woman , who had notwithstanding been his love and his bride in other days	PER	NOM
+MENTION	T131	38	32	38	33	his wife	PER	NOM
+MENTION	T132	38	57	38	58	Mr Lake	PER	PROP
+MENTION	T133	38	60	38	61	the drawing-master	PER	NOM
+MENTION	T134	39	14	39	16	a human creature	PER	NOM
+MENTION	T135	40	2	40	9	the pretty creature whom Dr Marjoribanks had married	PER	NOM
+MENTION	T69	42	19	42	23	a weeping and devoted daughter	PER	NOM
+MENTION	T136	43	23	43	34	the large gloomy library where Dr Marjoribanks always sat in the evenings	FAC	NOM
+MENTION	T137	43	73	43	74	her father	PER	NOM
+MENTION	T138	44	6	44	8	his favourite seclusion	FAC	NOM
+MENTION	T139	44	22	44	23	his wife	PER	NOM
+MENTION	T140	45	36	45	36	Lucilla	PER	PROP
+MENTION	T141	48	0	48	0	Lucilla	PER	PROP
+MENTION	T81	48	42	48	42	upstairs	FAC	NOM
+MENTION	T142	48	52	48	53	dear mamma	PER	NOM
+MENTION	T143	48	76	48	77	Miss Lucilla	PER	PROP
+MENTION	T145	49	11	49	13	all the household	PER	NOM
+MENTION	T146	50	17	50	26	the indignant cook , who indeed had a real grievance	PER	NOM
+MENTION	T86	50	45	50	46	the Doctor	PER	NOM
+MENTION	T147	51	6	51	6	upstairs	FAC	NOM
+MENTION	T148	51	8	51	9	the drawing-room	FAC	NOM
+MENTION	T149	52	10	52	11	his wife	PER	NOM
+MENTION	T150	53	18	53	19	the drawing-room	FAC	NOM
+MENTION	T92	55	43	55	44	her mother	PER	NOM
+MENTION	T151	55	19	55	45	that large girl , whose spirits and forces were unbounded , but whose discretion at the present moment did not seem much greater than her mother 's	PER	NOM
+MENTION	T152	57	55	57	76	a man who had any great need of sympathy by nature , or who was at all addicted to demonstrations of feeling	PER	NOM
+MENTION	T153	57	82	57	83	his wife	PER	NOM
+MENTION	T154	57	115	57	116	his daughter	PER	NOM
+MENTION	T179	16	70	16	70	anybody	PER	NOM
+MENTION	T180	16	50	16	50	somebody	PER	NOM
+MENTION	T181	12	42	12	42	everybody	PER	NOM
+MENTION	T182	45	18	45	18	everybody	PER	NOM
+MENTION	T183	33	1	33	2	any one	PER	NOM
+MENTION	T184	4	25	4	26	no one	PER	NOM
+MENTION	T185	47	33	47	34	the drawing-room	FAC	NOM
+MENTION	T186	23	7	23	7	there	FAC	NOM
+MENTION	T187	39	33	39	33	there	LOC	NOM
+MENTION	T188	43	64	43	64	there	FAC	NOM
+MENTION	T190	0	7	0	7	her	PER	PRON
+MENTION	T191	0	10	0	10	she	PER	PRON
+MENTION	T192	0	24	0	24	she	PER	PRON
+MENTION	T193	0	36	0	36	her	PER	PRON
+MENTION	T194	0	40	0	40	her	PER	PRON
+MENTION	T195	0	48	0	48	she	PER	PRON
+MENTION	T196	0	49	0	49	herself	PER	PRON
+MENTION	T197	2	14	2	14	she	PER	PRON
+MENTION	T198	2	21	2	21	her	PER	PRON
+MENTION	T199	2	26	2	26	herself	PER	PRON
+MENTION	T200	3	17	3	17	themselves	PER	PRON
+MENTION	T201	3	19	3	19	they	PER	PRON
+MENTION	T202	3	21	3	21	themselves	PER	PRON
+MENTION	T203	3	43	3	43	her	PER	PRON
+MENTION	T204	3	52	3	52	her	PER	PRON
+MENTION	T205	4	6	4	6	she	PER	PRON
+MENTION	T206	4	9	4	9	her	PER	PRON
+MENTION	T207	4	19	4	19	she	PER	PRON
+MENTION	T208	4	29	4	29	her	PER	PRON
+MENTION	T209	5	0	5	0	Her	PER	PRON
+MENTION	T210	5	19	5	19	his	PER	PRON
+MENTION	T211	5	36	5	36	he	PER	PRON
+MENTION	T212	5	42	5	42	she	PER	PRON
+MENTION	T213	6	10	6	10	his	PER	PRON
+MENTION	T214	7	0	7	0	His	PER	PRON
+MENTION	T215	7	15	7	15	her	PER	PRON
+MENTION	T216	8	4	8	4	she	PER	PRON
+MENTION	T217	8	9	8	9	her	PER	PRON
+MENTION	T218	9	0	9	0	She	PER	PRON
+MENTION	T219	9	3	9	3	her	PER	PRON
+MENTION	T220	9	6	9	6	her	PER	PRON
+MENTION	T221	9	35	9	35	herself	PER	PRON
+MENTION	T222	9	37	9	37	her	PER	PRON
+MENTION	T223	9	47	9	47	his	PER	PRON
+MENTION	T224	9	56	9	56	her	PER	PRON
+MENTION	T225	11	6	11	6	her	PER	PRON
+MENTION	T226	11	9	11	9	her	PER	PRON
+MENTION	T227	11	16	11	16	her	PER	PRON
+MENTION	T228	11	18	11	18	she	PER	PRON
+MENTION	T229	11	21	11	21	her	PER	PRON
+MENTION	T230	12	4	12	4	herself	PER	PRON
+MENTION	T231	12	7	12	7	she	PER	PRON
+MENTION	T232	12	19	12	19	her	PER	PRON
+MENTION	T233	12	24	12	24	she	PER	PRON
+MENTION	T234	12	27	12	27	herself	PER	PRON
+MENTION	T235	12	35	12	35	her	PER	PRON
+MENTION	T236	12	44	12	44	her	PER	PRON
+MENTION	T237	12	54	12	54	his	PER	PRON
+MENTION	T238	12	66	12	66	she	PER	PRON
+MENTION	T239	12	71	12	71	her	PER	PRON
+MENTION	T240	12	75	12	75	her	PER	PRON
+MENTION	T241	12	108	12	108	her	PER	PRON
+MENTION	T242	12	111	12	111	him	PER	PRON
+MENTION	T243	12	113	12	113	he	PER	PRON
+MENTION	T244	12	118	12	118	his	PER	PRON
+MENTION	T245	13	24	13	24	their	PER	PRON
+MENTION	T246	13	43	13	43	they	PER	PRON
+MENTION	T247	14	0	14	0	She	PER	PRON
+MENTION	T248	15	1	15	1	her	PER	PRON
+MENTION	T249	15	5	15	5	her	PER	PRON
+MENTION	T250	15	7	15	7	their	PER	PRON
+MENTION	T251	15	25	15	25	they	PER	PRON
+MENTION	T252	15	27	15	27	her	PER	PRON
+MENTION	T253	15	31	15	31	she	PER	PRON
+MENTION	T254	16	0	16	0	She	PER	PRON
+MENTION	T255	16	19	16	19	she	PER	PRON
+MENTION	T256	17	13	17	13	her	PER	PRON
+MENTION	T257	17	22	17	22	her	PER	PRON
+MENTION	T258	17	25	17	25	she	PER	PRON
+MENTION	T259	17	31	17	31	her	PER	PRON
+MENTION	T260	17	40	17	40	her	PER	PRON
+MENTION	T261	17	51	17	51	her	PER	PRON
+MENTION	T263	19	0	19	0	She	PER	PRON
+MENTION	T264	19	57	19	57	her	PER	PRON
+MENTION	T265	19	62	19	62	her	PER	PRON
+MENTION	T266	20	17	20	17	her	PER	PRON
+MENTION	T267	20	25	20	25	herself	PER	PRON
+MENTION	T268	20	27	20	27	his	PER	PRON
+MENTION	T269	21	4	21	4	her	PER	PRON
+MENTION	T270	21	7	21	7	she	PER	PRON
+MENTION	T271	22	2	22	2	she	PER	PRON
+MENTION	T272	22	7	22	7	her	PER	PRON
+MENTION	T273	22	47	22	47	her	PER	PRON
+MENTION	T274	22	53	22	53	he	PER	PRON
+MENTION	T275	22	57	22	57	his	PER	PRON
+MENTION	T276	23	4	23	4	I	PER	PRON
+MENTION	T277	23	10	23	10	her	PER	PRON
+MENTION	T278	24	3	24	3	herself	PER	PRON
+MENTION	T280	25	8	25	8	her	PER	PRON
+MENTION	T281	25	24	25	24	herself	PER	PRON
+MENTION	T282	26	7	26	7	him	PER	PRON
+MENTION	T283	26	22	26	22	his	PER	PRON
+MENTION	T284	26	29	26	29	him	PER	PRON
+MENTION	T285	27	5	27	5	her	PER	PRON
+MENTION	T286	27	30	27	30	she	PER	PRON
+MENTION	T287	27	38	27	38	her	PER	PRON
+MENTION	T288	27	43	27	43	she	PER	PRON
+MENTION	T289	27	51	27	51	her	PER	PRON
+MENTION	T290	28	5	28	5	her	PER	PRON
+MENTION	T291	28	15	28	15	her	PER	PRON
+MENTION	T292	28	24	28	24	her	PER	PRON
+MENTION	T293	28	26	28	26	she	PER	PRON
+MENTION	T294	29	6	29	6	her	PER	PRON
+MENTION	T295	30	0	30	0	She	PER	PRON
+MENTION	T296	30	7	30	7	her	PER	PRON
+MENTION	T297	30	30	30	30	her	PER	PRON
+MENTION	T298	31	1	31	1	I	PER	PRON
+MENTION	T299	31	8	31	8	I	PER	PRON
+MENTION	T300	31	14	31	14	you	PER	PRON
+MENTION	T301	32	1	32	1	I	PER	PRON
+MENTION	T302	32	12	32	12	I	PER	PRON
+MENTION	T303	32	18	32	18	her	PER	PRON
+MENTION	T304	33	11	33	11	they	PER	PRON
+MENTION	T305	33	29	33	29	her	PER	PRON
+MENTION	T306	34	11	34	11	her	PER	PRON
+MENTION	T307	34	22	34	22	we	PER	PRON
+MENTION	T308	35	5	35	5	herself	PER	PRON
+MENTION	T309	36	34	36	34	his	PER	PRON
+MENTION	T310	36	37	36	37	his	PER	PRON
+MENTION	T311	38	8	38	8	him	PER	PRON
+MENTION	T312	38	10	38	10	he	PER	PRON
+MENTION	T313	38	19	38	19	his	PER	PRON
+MENTION	T314	38	32	38	32	his	PER	PRON
+MENTION	T315	39	29	39	29	she	PER	PRON
+MENTION	T316	40	11	40	11	she	PER	PRON
+MENTION	T317	43	48	43	48	him	PER	PRON
+MENTION	T318	43	57	43	57	she	PER	PRON
+MENTION	T319	43	73	43	73	her	PER	PRON
+MENTION	T320	43	77	43	77	she	PER	PRON
+MENTION	T321	44	6	44	6	his	PER	PRON
+MENTION	T322	44	22	44	22	his	PER	PRON
+MENTION	T323	44	41	44	41	his	PER	PRON
+MENTION	T324	44	46	44	46	his	PER	PRON
+MENTION	T325	45	0	45	0	He	PER	PRON
+MENTION	T326	45	13	45	13	his	PER	PRON
+MENTION	T327	45	22	45	22	he	PER	PRON
+MENTION	T328	45	43	45	43	her	PER	PRON
+MENTION	T329	47	2	47	2	me	PER	PRON
+MENTION	T330	47	10	47	10	he	PER	PRON
+MENTION	T331	48	12	48	12	her	PER	PRON
+MENTION	T332	48	16	48	16	she	PER	PRON
+MENTION	T333	48	32	48	32	herself	PER	PRON
+MENTION	T334	48	34	48	34	her	PER	PRON
+MENTION	T335	48	37	48	37	her	PER	PRON
+MENTION	T336	48	45	48	45	she	PER	PRON
+MENTION	T337	48	63	48	63	her	PER	PRON
+MENTION	T338	48	68	48	68	her	PER	PRON
+MENTION	T339	48	83	48	83	her	PER	PRON
+MENTION	T340	48	88	48	88	her	PER	PRON
+MENTION	T341	49	15	49	15	his	PER	PRON
+MENTION	T342	49	19	49	19	his	PER	PRON
+MENTION	T343	49	23	49	23	his	PER	PRON
+MENTION	T344	49	27	49	27	his	PER	PRON
+MENTION	T346	50	8	50	8	we	PER	PRON
+MENTION	T347	50	12	50	12	our	PER	PRON
+MENTION	T348	51	4	51	4	he	PER	PRON
+MENTION	T349	51	17	51	17	him	PER	PRON
+MENTION	T350	51	24	51	24	she	PER	PRON
+MENTION	T351	52	1	52	1	he	PER	PRON
+MENTION	T352	52	10	52	10	his	PER	PRON
+MENTION	T353	52	15	52	15	he	PER	PRON
+MENTION	T354	52	50	52	50	her	PER	PRON
+MENTION	T355	53	4	53	4	she	PER	PRON
+MENTION	T356	53	6	53	6	herself	PER	PRON
+MENTION	T357	53	14	53	14	her	PER	PRON
+MENTION	T358	54	9	54	9	him	PER	PRON
+MENTION	T359	54	12	54	12	his	PER	PRON
+MENTION	T360	55	0	55	0	His	PER	PRON
+MENTION	T361	55	14	55	14	her	PER	PRON
+MENTION	T362	55	43	55	43	her	PER	PRON
+MENTION	T363	56	4	56	4	her	PER	PRON
+MENTION	T364	56	12	56	12	himself	PER	PRON
+MENTION	T365	57	7	57	7	him	PER	PRON
+MENTION	T366	57	15	57	15	himself	PER	PRON
+MENTION	T367	57	24	57	24	his	PER	PRON
+MENTION	T368	57	30	57	30	his	PER	PRON
+MENTION	T369	57	41	57	41	his	PER	PRON
+MENTION	T370	57	47	57	47	he	PER	PRON
+MENTION	T371	57	80	57	80	he	PER	PRON
+MENTION	T372	57	82	57	82	his	PER	PRON
+MENTION	T373	57	95	57	95	his	PER	PRON
+MENTION	T374	57	109	57	109	he	PER	PRON
+MENTION	T375	57	115	57	115	his	PER	PRON
+MENTION	T376	8	23	8	31	the lady at the head of Miss Marjoribanks school	PER	NOM
+MENTION	T377	15	18	15	19	Mount Pleasant	GPE	PROP
+MENTION	T378	32	4	32	9	the best missus as ever was	PER	NOM
+MENTION	T379	48	88	48	90	her dear papa	PER	NOM
+COREF	T0	Miss_Marjoribanks-0
+COREF	T1	Miss_Marjoribank_s_mother-1
+COREF	T190	Miss_Marjoribanks-0
+COREF	T191	Miss_Marjoribanks-0
+COREF	T192	Miss_Marjoribanks-0
+COREF	T97	school-2
+COREF	T193	Miss_Marjoribanks-0
+COREF	T98	Miss_Marjoribank_s_mother-1
+COREF	T194	Miss_Marjoribanks-0
+COREF	T195	Miss_Marjoribanks-0
+COREF	T196	Miss_Marjoribanks-0
+COREF	T99	Miss_Marjoribank_s_mother-1
+COREF	T197	Miss_Marjoribank_s_mother-1
+COREF	T198	Miss_Marjoribank_s_mother-1
+COREF	T199	Miss_Marjoribank_s_mother-1
+COREF	T3	this_world-3
+COREF	T103	rare_natures-4
+COREF	T200	rare_natures-4
+COREF	T201	rare_natures-4
+COREF	T202	rare_natures-4
+COREF	T101	Miss_Marjoribank_s_mother-1
+COREF	T203	Miss_Marjoribank_s_mother-1
+COREF	T204	Miss_Marjoribank_s_mother-1
+COREF	T100	Miss_Marjoribank_s_mother-1
+COREF	T104	other_people-5
+COREF	T205	Miss_Marjoribank_s_mother-1
+COREF	T206	Miss_Marjoribank_s_mother-1
+COREF	T207	Miss_Marjoribank_s_mother-1
+COREF	T184	no_one-6
+COREF	T4	maid_Ellis-7
+COREF	T208	Miss_Marjoribank_s_mother-1
+COREF	T5	Miss_Marjoribank_s_father-8
+COREF	T209	Miss_Marjoribank_s_mother-1
+COREF	T210	Miss_Marjoribank_s_father-8
+COREF	T211	Miss_Marjoribank_s_father-8
+COREF	T105	the_house-9
+COREF	T212	Miss_Marjoribank_s_mother-1
+COREF	T6	Miss_Marjoribank_s_father-8
+COREF	T213	Miss_Marjoribank_s_father-8
+COREF	T107	Miss_Marjoribanks-0
+COREF	T214	Miss_Marjoribank_s_father-8
+COREF	T215	Miss_Marjoribanks-0
+COREF	T7	home-10
+COREF	T216	Miss_Marjoribanks-0
+COREF	T217	Miss_Marjoribanks-0
+COREF	T376	the_lady_at_the_head_of_Miss_Marjoribanks_school-11
+COREF	T8	Miss_Marjoribanks-0
+COREF	T108	Miss_Marjoribanks_school-12
+COREF	T109	Miss_Marjoribanks-0
+COREF	T218	Miss_Marjoribanks-0
+COREF	T219	Miss_Marjoribanks-0
+COREF	T220	Miss_Marjoribanks-0
+COREF	T12	an_only_child-13
+COREF	T221	an_only_child-13
+COREF	T110	arbitrary_father-14
+COREF	T222	an_only_child-13
+COREF	T223	arbitrary_father-14
+COREF	T11	so_many_young_persons_of_her_age-15
+COREF	T224	Miss_Marjoribanks-0
+COREF	T13	Miss_Marjoribanks-0
+COREF	T225	Miss_Marjoribanks-0
+COREF	T14	Miss_Marjoribank_s_mother-1
+COREF	T226	Miss_Marjoribanks-0
+COREF	T227	Miss_Marjoribanks-0
+COREF	T228	Miss_Marjoribanks-0
+COREF	T229	Miss_Marjoribanks-0
+COREF	T15	a_cheerful_home-16
+COREF	T16	Miss_Marjoribank_s_father-8
+COREF	T17	Miss_Marjoribanks-0
+COREF	T230	Miss_Marjoribanks-0
+COREF	T231	Miss_Marjoribanks-0
+COREF	T111	the_railway_carriage-17
+COREF	T232	Miss_Marjoribanks-0
+COREF	T233	Miss_Marjoribanks-0
+COREF	T234	Miss_Marjoribanks-0
+COREF	T112	Miss_Marjoribank_s_father-8
+COREF	T235	Miss_Marjoribanks-0
+COREF	T181	everybody-18
+COREF	T236	Miss_Marjoribanks-0
+COREF	T237	Miss_Marjoribank_s_father-8
+COREF	T238	Miss_Marjoribanks-0
+COREF	T239	Miss_Marjoribanks-0
+COREF	T18	her_own_room-19
+COREF	T240	Miss_Marjoribanks-0
+COREF	T20	downstairs-36
+COREF	T113	Miss_Marjoribank_s_father-8
+COREF	T241	Miss_Marjoribanks-0
+COREF	T242	Miss_Marjoribank_s_father-8
+COREF	T243	Miss_Marjoribank_s_father-8
+COREF	T19	his_patients-20
+COREF	T244	Miss_Marjoribank_s_father-8
+COREF	T22	a_great_many_young_ladies_in_deep_mourning-21
+COREF	T245	a_great_many_young_ladies_in_deep_mourning-21
+COREF	T114	the_unobservant_male_creatures_of_whom_they_have_the_charge-22
+COREF	T246	a_great_many_young_ladies_in_deep_mourning-21
+COREF	T21	Miss_Marjoribanks-0
+COREF	T247	Miss_Marjoribanks-0
+COREF	T24	her_schoolfellows-23
+COREF	T248	Miss_Marjoribanks-0
+COREF	T249	Miss_Marjoribanks-0
+COREF	T115	their_friends-24
+COREF	T250	her_schoolfellows-23
+COREF	T23	Miss_Marjoribanks-0
+COREF	T251	her_schoolfellows-23
+COREF	T252	Miss_Marjoribanks-0
+COREF	T253	Miss_Marjoribanks-0
+COREF	T254	Miss_Marjoribanks-0
+COREF	T116	a_tall_girl-25
+COREF	T255	Miss_Marjoribanks-0
+COREF	T117	Mount_Pleasant-26
+COREF	T377	Mount_Pleasant-26
+COREF	T180	somebody-27
+COREF	T179	anybody-28
+COREF	T27	Miss_Marjoribanks-0
+COREF	T256	Miss_Marjoribanks-0
+COREF	T257	Miss_Marjoribanks-0
+COREF	T258	Miss_Marjoribanks-0
+COREF	T259	Miss_Marjoribanks-0
+COREF	T260	Miss_Marjoribanks-0
+COREF	T118	any_of_her_companions-29
+COREF	T28	her_companions-30
+COREF	T261	Miss_Marjoribanks-0
+COREF	T29	schoolgirl-31
+COREF	T30	Miss_Marjoribanks-0
+COREF	T263	Miss_Marjoribanks-0
+COREF	T31	her_companions-32
+COREF	T264	Miss_Marjoribanks-0
+COREF	T265	Miss_Marjoribanks-0
+COREF	T119	the_girl_who_was_going_home_to_be_a_comfort_to_her_widowed_father___and_meant_to_sacrifice_herself_to_his_happiness-33
+COREF	T32	home-10
+COREF	T33	Miss_Marjoribank_s_father-8
+COREF	T266	Miss_Marjoribanks-0
+COREF	T267	Miss_Marjoribanks-0
+COREF	T268	Miss_Marjoribank_s_father-8
+COREF	T269	Miss_Marjoribanks-0
+COREF	T270	Miss_Marjoribanks-0
+COREF	T271	Miss_Marjoribanks-0
+COREF	T120	Miss_Marjoribank_s_father-8
+COREF	T272	Miss_Marjoribanks-0
+COREF	T35	Miss_Marjoribank_s_father-8
+COREF	T273	Miss_Marjoribanks-0
+COREF	T274	Miss_Marjoribank_s_father-8
+COREF	T36	Miss_Marjoribanks-0
+COREF	T275	Miss_Marjoribank_s_father-8
+COREF	T38	the_chamber_of_death-34
+COREF	T34	Miss_Marjoribank_s_mother-1
+COREF	T276	Miss_Marjoribanks-0
+COREF	T186	there-35
+COREF	T277	Miss_Marjoribank_s_mother-1
+COREF	T37	Miss_Marjoribanks-0
+COREF	T278	Miss_Marjoribanks-0
+COREF	T39	Miss_Marjoribanks-0
+COREF	T280	Miss_Marjoribanks-0
+COREF	T121	downstairs-36
+COREF	T281	Miss_Marjoribanks-0
+COREF	T40	Miss_Marjoribank_s_father-8
+COREF	T282	Miss_Marjoribank_s_father-8
+COREF	T41	Miss_Marjoribanks-0
+COREF	T283	Miss_Marjoribank_s_father-8
+COREF	T284	Miss_Marjoribank_s_father-8
+COREF	T285	Miss_Marjoribanks-0
+COREF	T122	Miss_Marjoribank_s_father-8
+COREF	T286	Miss_Marjoribanks-0
+COREF	T287	Miss_Marjoribanks-0
+COREF	T288	Miss_Marjoribanks-0
+COREF	T289	Miss_Marjoribanks-0
+COREF	T44	Miss_Marjoribanks-0
+COREF	T45	home-10
+COREF	T47	Miss_Marjoribank_s_mother-1
+COREF	T290	Miss_Marjoribanks-0
+COREF	T48	Miss_Marjoribank_s_father-8
+COREF	T291	Miss_Marjoribanks-0
+COREF	T292	Miss_Marjoribanks-0
+COREF	T293	Miss_Marjoribanks-0
+COREF	T42	a_patient_in_extremity-37
+COREF	T46	this_world-3
+COREF	T43	Miss_Marjoribank_s_father-8
+COREF	T294	Miss_Marjoribanks-0
+COREF	T49	Miss_Marjoribanks-0
+COREF	T50	the_woman_to_be_disconcerted-38
+COREF	T295	Miss_Marjoribanks-0
+COREF	T296	Miss_Marjoribanks-0
+COREF	T123	Miss_Marjoribank_s_mother-1
+COREF	T124	maid_Ellis-7
+COREF	T297	Miss_Marjoribanks-0
+COREF	T298	maid_Ellis-7
+COREF	T299	maid_Ellis-7
+COREF	T300	Miss_Marj_father-40
+COREF	T125	Miss_Marjoribanks-0
+COREF	T51	maid_Ellis-7
+COREF	T301	maid_Ellis-7
+COREF	T378	Miss_Marjoribank_s_mother-1
+COREF	T302	maid_Ellis-7
+COREF	T303	Miss_Marjoribank_s_mother-1
+COREF	T183	any_one-41
+COREF	T54	a_good_friend-42
+COREF	T53	this_world-3
+COREF	T304	a_good_friend-42
+COREF	T126	maid_Ellis-7
+COREF	T305	maid_Ellis-7
+COREF	T127	maid_Ellis-7
+COREF	T55	Miss_Marjoribanks-0
+COREF	T306	Miss_Marjoribanks-0
+COREF	T57	maid_Ellis-7
+COREF	T307	Miss_Marj_maid-43
+COREF	T56	Miss_Marjoribank_s_father-8
+COREF	T58	Miss_Marjoribanks-0
+COREF	T308	Miss_Marjoribanks-0
+COREF	T60	Miss_Marjoribank_s_father-8
+COREF	T128	Miss_Marjoribank_s_mother-1
+COREF	T59	the_house-9
+COREF	T61	Miss_Marjoribank_s_father-8
+COREF	T62	the_house-9
+COREF	T130	Miss_Marjoribank_s_mother-1
+COREF	T63	his_love-44
+COREF	T309	Miss_Marjoribank_s_father-8
+COREF	T129	his_bride-45
+COREF	T310	Miss_Marjoribank_s_father-8
+COREF	T64	Miss_Marjoribanks-0
+COREF	T65	Miss_Marjoribank_s_father-8
+COREF	T311	Miss_Marjoribank_s_father-8
+COREF	T312	Miss_Marjoribank_s_father-8
+COREF	T313	Miss_Marjoribank_s_father-8
+COREF	T131	Miss_Marjoribank_s_mother-1
+COREF	T314	Miss_Marjoribank_s_father-8
+COREF	T66	this_world-3
+COREF	T132	Mr_Lake-46
+COREF	T134	a_human_creature-47
+COREF	T67	this_world-3
+COREF	T315	a_human_creature-47
+COREF	T187	this_world-3
+COREF	T135	Miss_Marjoribank_s_mother-1
+COREF	T68	Miss_Marjoribank_s_father-8
+COREF	T316	Miss_Marjoribank_s_mother-1
+COREF	T69	a_weeping_and_devoted_daughter-48
+COREF	T70	Miss_Marjoribanks-0
+COREF	T136	library-49
+COREF	T71	Miss_Marjoribank_s_father-8
+COREF	T317	Miss_Marjoribank_s_father-8
+COREF	T318	Miss_Marjoribanks-0
+COREF	T188	library-49
+COREF	T137	Miss_Marjoribank_s_father-8
+COREF	T319	Miss_Marjoribanks-0
+COREF	T320	Miss_Marjoribanks-0
+COREF	T72	Miss_Marjoribank_s_father-8
+COREF	T138	library-49
+COREF	T321	Miss_Marjoribank_s_father-8
+COREF	T139	Miss_Marjoribank_s_mother-1
+COREF	T322	Miss_Marjoribank_s_father-8
+COREF	T74	Miss_Marjoribank_s_father-8
+COREF	T75	Carlingford-50
+COREF	T73	patients-51
+COREF	T323	Miss_Marjoribank_s_father-8
+COREF	T324	Miss_Marjoribank_s_father-8
+COREF	T325	Miss_Marjoribank_s_father-8
+COREF	T76	library-49
+COREF	T326	Miss_Marjoribank_s_father-8
+COREF	T182	everybody-52
+COREF	T327	Miss_Marjoribank_s_father-8
+COREF	T140	Miss_Marjoribanks-0
+COREF	T328	Miss_Marjoribanks-0
+COREF	T77	Miss_Marjoribank_s_father-8
+COREF	T329	Miss_Marjoribank_s_father-8
+COREF	T330	Miss_Marjoribank_s_father-8
+COREF	T78	Miss_Marjoribanks-0
+COREF	T185	the_drawing-room-53
+COREF	T141	Miss_Marjoribanks-0
+COREF	T331	Miss_Marjoribanks-0
+COREF	T332	Miss_Marjoribanks-0
+COREF	T79	a_girl_of_much_less_spirit-54
+COREF	T333	Miss_Marjoribanks-0
+COREF	T334	Miss_Marjoribanks-0
+COREF	T335	Miss_Marjoribanks-0
+COREF	T81	upstairs-55
+COREF	T336	Miss_Marjoribanks-0
+COREF	T142	Miss_Marjoribank_s_mother-1
+COREF	T82	maid_Ellis-7
+COREF	T337	maid_Ellis-7
+COREF	T80	Miss_Marjoribanks-0
+COREF	T338	maid_Ellis-7
+COREF	T143	Miss_Marjoribanks-0
+COREF	T339	Miss_Marjoribanks-0
+COREF	T340	Miss_Marjoribanks-0
+COREF	T379	Miss_Marjoribank_s_father-8
+COREF	T83	Miss_Marjoribank_s_father-8
+COREF	T145	all_the_household-56
+COREF	T341	Miss_Marjoribank_s_father-8
+COREF	T342	Miss_Marjoribank_s_father-8
+COREF	T343	Miss_Marjoribank_s_father-8
+COREF	T344	Miss_Marjoribank_s_father-8
+COREF	T85	Them_men-57
+COREF	T346	we-58
+COREF	T347	we-58
+COREF	T146	maid_Ellis-7
+COREF	T84	the_kitchen-59
+COREF	T86	Miss_Marjoribank_s_father-8
+COREF	T348	Miss_Marjoribank_s_father-8
+COREF	T147	upstairs-55
+COREF	T148	the_drawing-room-53
+COREF	T87	Miss_Marjoribanks-0
+COREF	T349	Miss_Marjoribank_s_father-8
+COREF	T350	Miss_Marjoribanks-0
+COREF	T351	Miss_Marjoribank_s_father-8
+COREF	T149	Miss_Marjoribank_s_mother-1
+COREF	T352	Miss_Marjoribank_s_father-8
+COREF	T353	Miss_Marjoribank_s_father-8
+COREF	T88	Miss_Marjoribanks-0
+COREF	T354	Miss_Marjoribanks-0
+COREF	T355	Miss_Marjoribanks-0
+COREF	T356	Miss_Marjoribanks-0
+COREF	T357	Miss_Marjoribanks-0
+COREF	T150	the_drawing-room-53
+COREF	T89	Miss_Marjoribank_s_father-8
+COREF	T90	Miss_Marjoribanks-0
+COREF	T358	Miss_Marjoribank_s_father-8
+COREF	T359	Miss_Marjoribank_s_father-8
+COREF	T91	Miss_Marjoribank_s_mother-1
+COREF	T360	Miss_Marjoribank_s_father-8
+COREF	T93	this_world-3
+COREF	T361	Miss_Marjoribank_s_mother-1
+COREF	T151	Miss_Marjoribanks-0
+COREF	T92	Miss_Marjoribank_s_mother-1
+COREF	T362	Miss_Marjoribanks-0
+COREF	T363	Miss_Marjoribanks-0
+COREF	T94	Miss_Marjoribank_s_father-8
+COREF	T364	Miss_Marjoribank_s_father-8
+COREF	T365	Miss_Marjoribank_s_father-8
+COREF	T366	Miss_Marjoribank_s_father-8
+COREF	T367	Miss_Marjoribank_s_father-8
+COREF	T368	Miss_Marjoribank_s_father-8
+COREF	T95	his_friends-60
+COREF	T369	Miss_Marjoribank_s_father-8
+COREF	T370	Miss_Marjoribank_s_father-8
+COREF	T96	Miss_Marjoribank_s_father-8
+COREF	T152	a_man_who_had_any_great_need_of_sympathy_by_nature___or_who_was_at_all_addicted_to_demonstrations_of_feeling-61
+COREF	T371	Miss_Marjoribank_s_father-8
+COREF	T153	Miss_Marjoribank_s_mother-1
+COREF	T372	Miss_Marjoribank_s_father-8
+COREF	T373	Miss_Marjoribank_s_father-8
+COREF	T374	Miss_Marjoribank_s_father-8
+COREF	T154	Miss_Marjoribanks-0
+COREF	T375	Miss_Marjoribank_s_father-8
+COP	T102	T99
+COP	T106	T6
+COP	T9	T376
+COP	T26	T23
+COP	T25	T253
+APPOS	T133	T132
+MENTION	T796	45	24	45	24	it	FAC	PRON
+COREF	T796	library-49
+APPOS	T2	T99

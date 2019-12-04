@@ -1,0 +1,262 @@
+MENTION	T1	4	12	4	13	the victim	PER	NOM
+MENTION	T3	7	20	7	21	the knights	PER	NOM
+MENTION	T5	7	23	7	26	dames of his court	PER	NOM
+MENTION	T7	11	0	11	1	The courtiers	PER	NOM
+MENTION	T9	14	3	14	4	the courtiers	PER	NOM
+MENTION	T10	15	0	15	2	The external world	LOC	NOM
+MENTION	T11	17	0	17	1	The prince	PER	NOM
+MENTION	T12	18	14	18	14	musicians	PER	NOM
+MENTION	T13	18	2	18	2	buffoons	PER	NOM
+MENTION	T14	21	29	21	31	his thousand friends	PER	NOM
+MENTION	T16	23	6	23	12	the rooms in which it was held	FAC	NOM
+MENTION	T17	30	19	30	24	the chamber into which it opened	FAC	NOM
+MENTION	T18	32	0	32	2	The second chamber	FAC	NOM
+MENTION	T19	35	0	35	2	The seventh apartment	FAC	NOM
+MENTION	T20	36	2	36	3	this chamber	FAC	NOM
+MENTION	T22	40	39	40	40	the room	FAC	NOM
+MENTION	T23	42	2	42	6	the western or black chamber	FAC	NOM
+MENTION	T24	43	3	43	4	this apartment	FAC	NOM
+MENTION	T29	44	73	44	77	the musicians of the orchestra	PER	NOM
+MENTION	T33	45	17	45	18	the musicians	PER	NOM
+MENTION	T35	47	3	47	4	the duke	PER	NOM
+MENTION	T36	52	0	52	1	His followers	PER	NOM
+MENTION	T38	54	37	54	38	the masqueraders	PER	NOM
+MENTION	T43	61	13	61	14	the rooms	FAC	NOM
+MENTION	T44	62	12	62	16	the hall of the velvet	FAC	NOM
+MENTION	T45	67	17	67	20	the maskers who venture	PER	NOM
+MENTION	T46	67	2	67	10	the chamber which lies most westwardly of the seven	FAC	NOM
+MENTION	T47	70	15	70	16	the waltzers	PER	NOM
+MENTION	T50	81	14	81	17	the mad revellers around	PER	NOM
+MENTION	T51	82	1	82	2	the mummer	PER	NOM
+MENTION	T52	0	8	0	9	the country	LOC	NOM
+MENTION	T53	4	31	4	32	his fellow-men	PER	NOM
+MENTION	T54	7	1	7	2	his dominions	LOC	NOM
+MENTION	T4	7	25	7	26	his court	LOC	NOM
+MENTION	T55	7	12	7	26	a thousand hale and light-hearted friends from among the knights and dames of his court	PER	NOM
+MENTION	T56	7	39	7	41	his castellated abbeys	FAC	NOM
+MENTION	T6	8	11	8	12	the prince	PER	NOM
+MENTION	T57	8	2	8	6	an extensive and magnificent structure	FAC	NOM
+MENTION	T8	13	0	13	1	The abbey	FAC	NOM
+MENTION	T58	18	6	18	6	improvisatori	PER	NOM
+MENTION	T59	18	10	18	10	ballet-dancers	PER	NOM
+MENTION	T60	24	4	24	6	an imperial suite	FAC	NOM
+MENTION	T61	25	1	25	2	many palaces	FAC	NOM
+MENTION	T62	25	6	25	7	such suites	FAC	NOM
+MENTION	T63	26	13	26	14	the duke	PER	NOM
+MENTION	T64	27	0	27	1	The apartments	FAC	NOM
+MENTION	T65	29	30	29	31	the suite	FAC	NOM
+MENTION	T66	29	22	29	31	a closed corridor which pursued the windings of the suite	FAC	NOM
+MENTION	T67	33	0	33	1	The third	FAC	NOM
+MENTION	T68	34	0	34	1	The fourth	FAC	NOM
+MENTION	T69	38	5	38	7	the seven apartments	FAC	NOM
+MENTION	T70	38	2	38	7	no one of the seven apartments	FAC	NOM
+MENTION	T21	39	13	39	16	the suite of chambers	FAC	NOM
+MENTION	T71	40	6	40	7	the suite	FAC	NOM
+MENTION	T72	40	2	40	7	the corridors that followed the suite	FAC	NOM
+MENTION	T73	42	48	42	49	the company	PER	NOM
+MENTION	T74	42	46	42	49	few of the company	PER	NOM
+MENTION	T25	44	97	44	98	the waltzers	PER	NOM
+MENTION	T26	44	111	44	114	the whole gay company	PER	NOM
+MENTION	T27	44	131	44	132	the giddiest	PER	NOM
+MENTION	T28	44	137	44	141	the more aged and sedate	PER	NOM
+MENTION	T75	45	14	45	15	the assembly	PER	NOM
+MENTION	T30	51	2	51	8	some who would have thought him mad	PER	NOM
+MENTION	T31	54	12	54	14	the seven chambers	FAC	NOM
+MENTION	T32	58	6	58	7	the madman	PER	NOM
+MENTION	T34	60	4	60	6	the seven chambers	FAC	NOM
+MENTION	T37	61	22	61	23	the orchestra	PER	NOM
+MENTION	T39	67	9	67	10	the seven	FAC	NOM
+MENTION	T40	68	1	68	3	these other apartments	FAC	NOM
+MENTION	T41	71	38	71	43	the thoughtful among those who revelled	PER	NOM
+MENTION	T42	71	41	71	43	those who revelled	PER	NOM
+MENTION	T76	72	51	72	53	no single individual	PER	NOM
+MENTION	T77	72	42	72	54	a masked figure which had arrested the attention of no single individual before	PER	NOM
+MENTION	T78	72	26	72	54	many individuals in the crowd who had found leisure to become aware of the presence of a masked figure which had arrested the attention of no single individual before	PER	NOM
+MENTION	T79	73	4	73	6	this new presence	PER	NOM
+MENTION	T80	73	18	73	20	the whole company	PER	NOM
+MENTION	T81	75	13	75	16	the figure in question	PER	NOM
+MENTION	T48	75	19	75	19	Herod	PER	PROP
+MENTION	T82	75	28	75	29	the prince	PER	NOM
+MENTION	T83	76	7	76	9	the most reckless	PER	NOM
+MENTION	T84	78	0	78	2	The whole company	PER	NOM
+MENTION	T49	78	18	78	19	the stranger	PER	NOM
+MENTION	T85	79	0	79	1	The figure	PER	NOM
+MENTION	T86	6	3	6	3	Prospero	PER	NOM
+MENTION	T87	21	27	21	27	Prospero	PER	NOM
+MENTION	T89	32	12	32	12	here	FAC	NOM
+MENTION	T90	37	2	37	2	here	FAC	NOM
+MENTION	T91	4	21	4	21	him	PER	PRON
+MENTION	T92	4	31	4	31	his	PER	PRON
+MENTION	T93	7	1	7	1	his	PER	PRON
+MENTION	T94	7	7	7	7	he	PER	PRON
+MENTION	T95	7	10	7	10	his	PER	PRON
+MENTION	T96	7	25	7	25	his	PER	PRON
+MENTION	T97	7	39	7	39	his	PER	PRON
+MENTION	T98	12	0	12	0	They	PER	PRON
+MENTION	T99	21	12	21	12	his	PER	PRON
+MENTION	T100	21	29	21	29	his	PER	PRON
+MENTION	T101	23	3	23	3	me	PER	PRON
+MENTION	T102	44	86	44	86	their	PER	PRON
+MENTION	T103	44	101	44	101	their	PER	PRON
+MENTION	T104	44	143	44	143	their	PER	PRON
+MENTION	T105	44	146	44	146	their	PER	PRON
+MENTION	T106	45	28	45	28	their	PER	PRON
+MENTION	T107	45	54	45	54	them	PER	PRON
+MENTION	T108	48	0	48	0	He	PER	PRON
+MENTION	T109	49	0	49	0	He	PER	PRON
+MENTION	T110	50	0	50	0	His	PER	PRON
+MENTION	T111	50	8	50	8	his	PER	PRON
+MENTION	T112	51	7	51	7	him	PER	PRON
+MENTION	T113	52	0	52	0	His	PER	PRON
+MENTION	T114	52	4	52	4	he	PER	PRON
+MENTION	T115	53	9	53	9	him	PER	PRON
+MENTION	T116	53	16	53	16	he	PER	PRON
+MENTION	T117	54	0	54	0	He	PER	PRON
+MENTION	T118	54	28	54	28	his	PER	PRON
+MENTION	T119	55	2	55	2	they	PER	PRON
+MENTION	T120	61	30	61	30	their	PER	PRON
+MENTION	T126	67	79	67	79	their	PER	PRON
+MENTION	T127	68	10	68	10	them	FAC	PRON
+MENTION	T128	70	7	70	7	I	PER	PRON
+MENTION	T129	74	7	74	7	I	PER	PRON
+MENTION	T130	83	0	83	0	His	PER	PRON
+MENTION	T131	83	10	83	10	his	PER	PRON
+MENTION	T132	34	9	34	10	the fifth	FAC	NOM
+MENTION	T133	34	14	34	15	the sixth	FAC	NOM
+MENTION	T134	67	51	67	58	him whose foot falls upon the sable carpet	PER	NOM
+COREF	T52	the_country-0
+COREF	T1	the_victim-1
+COREF	T91	the_victim-1
+COREF	T53	his_fellow-men-2
+COREF	T92	the_victim-1
+COREF	T86	PRINCE_PROSPERO-3
+COREF	T54	his_dominions-4
+COREF	T93	PRINCE_PROSPERO-3
+COREF	T94	PRINCE_PROSPERO-3
+COREF	T95	PRINCE_PROSPERO-3
+COREF	T55	COURTIERS-5
+COREF	T3	the_knights-6
+COREF	T5	dames_of_his_court-7
+COREF	T4	his_court-8
+COREF	T96	PRINCE_PROSPERO-3
+COREF	T56	The_Abbey-9
+COREF	T97	PRINCE_PROSPERO-3
+COREF	T6	PRINCE_PROSPERO-3
+COREF	T7	COURTIERS-5
+COREF	T98	COURTIERS-5
+COREF	T8	The_Abbey-9
+COREF	T9	COURTIERS-5
+COREF	T10	The_external_world-10
+COREF	T11	PRINCE_PROSPERO-3
+COREF	T13	buffoons-11
+COREF	T58	improvisatori-12
+COREF	T59	ballet-dancers-13
+COREF	T12	MUSICIANS_ORCHESTRA-14
+COREF	T99	PRINCE_PROSPERO-3
+COREF	T87	PRINCE_PROSPERO-3
+COREF	T14	COURTIERS-5
+COREF	T100	PRINCE_PROSPERO-3
+COREF	T101	NARRATOR-15
+COREF	T16	The_Seven_Apartments-16
+COREF	T60	an_imperial_suite-17
+COREF	T61	many_palaces-18
+COREF	T63	PRINCE_PROSPERO-3
+COREF	T64	The_Seven_Apartments-16
+COREF	T66	a_closed_corridor_which_pursued_the_windings_of_the_suite-19
+COREF	T65	an_imperial_suite-17
+COREF	T17	the_chamber_into_which_it_opened-20
+COREF	T18	The_second_chamber-21
+COREF	T89	The_second_chamber-21
+COREF	T67	The_third-22
+COREF	T68	The_fourth-23
+COREF	T132	the_fifth-24
+COREF	T133	the_sixth-25
+COREF	T19	The_seventh_apartment-26
+COREF	T20	The_seventh_apartment-26
+COREF	T90	The_seventh_apartment-26
+COREF	T70	no_one_of_the_seven_apartments-100000
+COREF	T69	The_Seven_Apartments-16
+COREF	T21	The_Seven_Apartments-16
+COREF	T72	the_corridors_that_followed_the_suite-27
+COREF	T71	an_imperial_suite-17
+COREF	T22	The_Seven_Apartments-16
+COREF	T23	The_seventh_apartment-26
+COREF	T74	few_of_the_company-28
+COREF	T73	COURTIERS-5
+COREF	T24	The_seventh_apartment-26
+COREF	T29	MUSICIANS_ORCHESTRA-14
+COREF	T102	MUSICIANS_ORCHESTRA-14
+COREF	T25	COURTIERS-5
+COREF	T103	COURTIERS-5
+COREF	T26	COURTIERS-5
+COREF	T27	the_giddiest-29
+COREF	T28	the_more_aged_and_sedate-30
+COREF	T104	the_more_aged_and_sedate-30
+COREF	T105	the_more_aged_and_sedate-30
+COREF	T75	COURTIERS-5
+COREF	T33	MUSICIANS_ORCHESTRA-14
+COREF	T106	MUSICIANS_ORCHESTRA-14
+COREF	T107	MUSICIANS_ORCHESTRA-14
+COREF	T35	PRINCE_PROSPERO-3
+COREF	T108	PRINCE_PROSPERO-3
+COREF	T109	PRINCE_PROSPERO-3
+COREF	T110	PRINCE_PROSPERO-3
+COREF	T111	PRINCE_PROSPERO-3
+COREF	T30	some_who_would_have_thought_him_mad-31
+COREF	T112	PRINCE_PROSPERO-3
+COREF	T36	COURTIERS-5
+COREF	T113	PRINCE_PROSPERO-3
+COREF	T114	PRINCE_PROSPERO-3
+COREF	T115	PRINCE_PROSPERO-3
+COREF	T116	PRINCE_PROSPERO-3
+COREF	T117	PRINCE_PROSPERO-3
+COREF	T31	The_Seven_Apartments-16
+COREF	T118	PRINCE_PROSPERO-3
+COREF	T38	COURTIERS-5
+COREF	T119	COURTIERS-5
+COREF	T32	the_madman-32
+COREF	T34	The_Seven_Apartments-16
+COREF	T43	The_Seven_Apartments-16
+COREF	T37	MUSICIANS_ORCHESTRA-14
+COREF	T120	MUSICIANS_ORCHESTRA-14
+COREF	T44	The_seventh_apartment-26
+COREF	T39	The_Seven_Apartments-16
+COREF	T45	few_of_the_company-28
+COREF	T46	The_seventh_apartment-26
+COREF	T134	him_whose_foot_falls_upon_the_sable_carpet-34
+COREF	T126	him_whose_foot_falls_upon_the_sable_carpet-34
+COREF	T40	Chambers_1-6-35
+COREF	T127	Chambers_1-6-35
+COREF	T128	NARRATOR-15
+COREF	T47	COURTIERS-5
+COREF	T41	the_thoughtful_among_those_who_revelled-36
+COREF	T42	COURTIERS-5
+COREF	T78	many_individuals_in_the_crowd_who_had_found_leisure_to_become_aware_of_the_presence_of_a_masked_figure_which_had_arrested_the_attention_of_no_single_individual_before-37
+COREF	T77	MASKED_FIGURE-38
+COREF	T76	no_single_individual-100001
+COREF	T79	MASKED_FIGURE-38
+COREF	T80	COURTIERS-5
+COREF	T129	NARRATOR-15
+COREF	T81	MASKED_FIGURE-38
+COREF	T48	Herod-39
+COREF	T82	PRINCE_PROSPERO-3
+COREF	T83	the_most_reckless-40
+COREF	T84	COURTIERS-5
+COREF	T49	MASKED_FIGURE-38
+COREF	T85	MASKED_FIGURE-38
+COREF	T50	COURTIERS-5
+COREF	T51	MASKED_FIGURE-38
+COREF	T130	MASKED_FIGURE-38
+COREF	T131	MASKED_FIGURE-38
+COP	T57	T15
+COREF	T62	such-suites-803
+MENTION	T274	9	6	9	6	it	FAC	PRON
+COREF	T274	The_Abbey-9
+MENTION	T288	32	6	32	6	its	FAC	PRON
+COREF	T288	The_second_chamber-21
+MENTION	T292	42	56	42	56	its	FAC	PRON
+COREF	T292	The_seventh_apartment-26
+MENTION	T15	8	0	8	0	This	FAC	NOM
+COREF	T15	The_Abbey-9
+MENTION	T121	67	15	67	20	none of the maskers who venture	PER	NOM
+COREF	T121	none_of_the_maskers_-700

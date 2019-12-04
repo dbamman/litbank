@@ -1,0 +1,634 @@
+T0	NOM_LOC 17 20	Sea
+T2	NOM_ORG 573 600	the British Colonial Office
+T4	NOM_PER 309 326	my convivial host
+T6	NOM_PER 841 865	the principal characters
+T7	NOM_PER 1090 1107	my convivial host
+T8	NOM_PER 992 1007	a man long dead
+T9	NOM_ORG 1029 1048	the Colonial Office
+T10	NOM_ORG 1364 1383	the Colonial Office
+T11	PROP_PER 1498 1512	Lord Greystoke
+T12	NOM_GPE 1593 1628	a British West Coast African Colony
+T14	NOM_PER 1716 1724	soldiers
+T15	PROP_LOC 1845 1854	the Congo
+T16	NOM_PER 1873 1906	The natives of the British Colony
+T17	NOM_PER 1931 1946	their young men
+T18	NOM_PER 2257 2277	their white officers
+T19	NOM_PER 2069 2093	The Englishmen in Africa
+T20	PROP_GPE 2409 2428	British West Africa
+T21	NOM_PER 2555 2596	the officers of a friendly European power
+T22	NOM_ORG 2349 2368	the Colonial Office
+T23	PROP_PER 2379 2391	John Clayton
+T25	NOM_PER 2778 2788	Englishman
+T26	NOM_PER 3363 3372	the Queen
+T27	NOM_ORG 3239 3258	the Colonial Office
+T30	NOM_PER 3765 3785	this fair young girl
+T31	NOM_PER 4024 4031	mothers
+T32	NOM_PER 4063 4068	aunts
+T33	NOM_PER 4073 4080	cousins
+T34	NOM_PER 4049 4056	sisters
+T35	NOM_PER 4036 4044	brothers
+T36	PROP_PER 4264 4274	Lady Alice
+T37	PROP_PER 4243 4257	Lord Greystoke
+T38	PROP_GPE 4287 4292	Dover
+T39	NOM_PER 4579 4582	men
+T40	PROP_PER 4485 4499	Lord Greystoke
+T42	NOM_PER 4519 4527	his wife
+T44	PROP_VEH 4888 4899	the Fuwalda
+T46	NOM_VEH 5063 5101	a barkentine of about one hundred tons
+T48	NOM_LOC 5234 5241	the sea
+T49	NOM_VEH 5312 5323	The Fuwalda
+T50	NOM_PER 5355 5367	Her officers
+T51	NOM_PER 5424 5435	The captain
+T53	NOM_PER 5497 5504	his men
+T56	NOM_PER 5779 5793	his young wife
+T57	NOM_LOC 5926 5933	the sea
+T59	NOM_PER 6156 6167	Two sailors
+T60	PROP_PER 6301 6311	Lady Alice
+T62	PROP_PER 6284 6296	John Clayton
+T63	NOM_PER 6246 6257	the captain
+T64	NOM_PER 6314 6321	The men
+T65	NOM_PER 6395 6406	the sailors
+T66	NOM_PER 6477 6488	the captain
+T69	NOM_FAC 6744 6752	the deck
+T70	NOM_PER 6615 6626	the officer
+T71	NOM_PER 6706 6716	the sailor
+T72	NOM_PER 7055 7065	the sailor
+T73	NOM_FAC 7069 7077	the deck
+T74	NOM_PER 6991 7002	the captain
+T75	NOM_PER 7080 7087	The man
+T76	NOM_PER 7244 7249	a man
+T77	NOM_PER 7171 7187	The other seaman
+T78	NOM_PER 7347 7355	his mate
+T80	PROP_PER 7774 7786	John Clayton
+T81	PROP_PER 7913 7927	Lord Greystoke
+T83	NOM_PER 8041 8052	the captain
+T85	NOM_PER 8255 8266	The captain
+T86	NOM_PER 8653 8672	his wounded comrade
+T88	NOM_PER 8590 8605	The two sailors
+T89	NOM_PER 8720 8729	his mates
+T90	PROP_PER 8733 8746	Black Michael
+T91	PROP_PER 8824 8831	Clayton
+T93	NOM_PER 9353 9364	the captain
+T94	NOM_FAC 9289 9298	his cabin
+T96	NOM_PER 9639 9647	his lady
+T97	NOM_PER 9446 9464	The other officers
+T98	PROP_PER 9658 9670	the Claytons
+T100	NOM_VEH 9812 9827	the little ship
+T101	NOM_FAC 10345 10349	deck
+T102	NOM_PER 10543 10557	sullen sailors
+T103	NOM_PER 10434 10445	his fellows
+T104	PROP_PER 10313 10326	Black Michael
+T105	PROP_PER 10329 10336	Clayton
+T106	NOM_PER 43 101	one who had no business to tell it to me , or to any other
+T107	NOM_PER 92 101	any other
+T1	NOM_PER 164 176	the narrator
+T3	NOM_PER 1393 1405	the dead man
+T5	NOM_PER 1429 1461	a certain young English nobleman
+T13	PROP_PER 1483 1495	John Clayton
+T108	NOM_PER 1640 1665	simple native inhabitants
+T109	NOM_GPE 1674 1688	European power
+T110	NOM_ORG 1729 1744	its native army
+T111	NOM_PER 1821 1870	the savage tribes along the Congo and the Aruwimi
+T112	PROP_LOC 1859 1870	the Aruwimi
+T113	NOM_GPE 1888 1906	the British Colony
+T114	NOM_PER 2052 2066	their families
+T115	PROP_LOC 2087 2093	Africa
+T116	NOM_PER 2126 2143	these poor blacks
+T117	NOM_PER 2529 2551	black British subjects
+T118	NOM_GPE 2571 2596	a friendly European power
+T119	NOM_GPE 2736 2751	his destination
+T120	NOM_FAC 2395 2428	a new post in British West Africa
+T121	PROP_PER 2754 2761	Clayton
+T24	NOM_PER 2916 2937	a strong , virile man
+T122	NOM_PER 2766 2912	the type of Englishman that one likes best to associate with the noblest monuments of historic achievement upon a thousand victorious battlefields
+T123	NOM_FAC 2878 2912	a thousand victorious battlefields
+T124	NOM_ORG 3227 3235	the army
+T28	PROP_PER 3678 3703	the Hon. Alice Rutherford
+T125	PROP_LOC 3820 3835	tropical Africa
+T126	PROP_PER 4236 4240	John
+T127	PROP_LOC 4309 4315	Africa
+T128	NOM_FAC 2827 2912	the noblest monuments of historic achievement upon a thousand victorious battlefields
+T29	PROP_GPE 4348 4356	Freetown
+T129	NOM_VEH 4378 4400	a small sailing vessel
+T131	NOM_GPE 4443 4466	their final destination
+T41	PROP_PER 4478 4482	John
+T132	NOM_FAC 4639 4659	the port of Freetown
+T133	PROP_GPE 4651 4659	Freetown
+T134	NOM_VEH 4660 4692	a half dozen British war vessels
+T135	PROP_LOC 4707 4725	the south Atlantic
+T136	NOM_VEH 4747 4766	their little vessel
+T137	NOM_LOC 4832 4856	the shores of St. Helena
+T138	PROP_GPE 4846 4856	St. Helena
+T139	NOM_PER 4919 4931	all on board
+T140	NOM_VEH 5049 5060	The Fuwalda
+T141	NOM_VEH 5108 5187	a vessel of the type often seen in coastwise trade in the far southern Atlantic
+T142	NOM_LOC 5162 5187	the far southern Atlantic
+T143	NOM_PER 5214 5241	the offscourings of the sea
+T45	NOM_PER 5245 5309	unhanged murderers and cutthroats of every race and every nation
+T47	NOM_GPE 5297 5309	every nation
+T144	NOM_PER 5190 5201	their crews
+T145	NOM_PER 5373 5421	swarthy bullies , hating and hated by their crew
+T52	NOM_PER 5444 5462	a competent seaman
+T54	NOM_PER 5469 5504	a brute in his treatment of his men
+T146	NOM_PER 5641 5663	the motley aggregation
+T55	PROP_GPE 5753 5761	Freetown
+T147	PROP_PER 5762 5774	John Clayton
+T148	PROP_VEH 5828 5839	the Fuwalda
+T149	NOM_FAC 5816 5839	the deck of the Fuwalda
+T58	NOM_FAC 6186 6210	the decks of the Fuwalda
+T150	PROP_VEH 6199 6210	the Fuwalda
+T61	NOM_PER 6213 6227	the first mate
+T151	NOM_PER 6352 6406	the little party who were facing away from the sailors
+T67	PROP_PER 6643 6647	Lord
+T68	PROP_PER 6652 6666	Lady Greystoke
+T152	NOM_PER 7229 7334	a huge bear of a man , with fierce black mustachios , and a great bull neck set between massive shoulders
+T153	NOM_PER 7415 7426	the captain
+T154	NOM_PER 7494 7505	the officer
+T79	NOM_PER 7699 7747	the great mountain of muscle towering before him
+T155	NOM_PER 7851 7861	the sailor
+T156	NOM_PER 7881 7891	the sailor
+T157	NOM_PER 7944 7955	the captain
+T158	PROP_PER 8029 8036	Clayton
+T159	NOM_PER 8055 8065	the former
+T160	NOM_PER 8140 8148	the crew
+T82	PROP_PER 8218 8232	Lady Greystoke
+T84	NOM_PER 8242 8252	passengers
+T161	NOM_PER 8428 8447	an English official
+T162	NOM_PER 8454 8463	the Queen
+T163	NOM_ORG 8559 8587	England 's far-reaching navy
+T164	PROP_GPE 8559 8566	England
+T87	NOM_PER 8629 8680	the older man assisting his wounded comrade to rise
+T165	NOM_PER 8683 8746	The big fellow , who was known among his mates as Black Michael
+T166	NOM_PER 8869 8879	the fellow
+T92	NOM_PER 9169 9180	the captain
+T99	NOM_PER 9470 9497	coarse , illiterate fellows
+T167	NOM_PER 9517 9549	the villainous crew they bullied
+T95	NOM_PER 9608 9634	the polished English noble
+T169	NOM_VEH 9985 9994	the craft
+T170	PROP_PER 10080 10092	the Claytons
+T171	NOM_VEH 10122 10139	the little vessel
+T172	NOM_PER 10370 10402	the limp body of one of the crew
+T173	NOM_PER 10387 10402	one of the crew
+T174	NOM_PER 10394 10402	the crew
+T175	NOM_PER 10426 10445	four of his fellows
+T176	NOM_PER 10452 10466	the first mate
+T177	NOM_PER 10469 10501	a heavy belaying pin in his hand
+T178	NOM_PER 10523 10557	the little party of sullen sailors
+T43	PROP_PER 4506 4516	Lady Alice
+T168	NOM_PER 6150 6153	man
+T189	NOM_PER 4873 4882	the world
+T191	PRON_PER 21 22	I
+T192	PRON_PER 81 83	me
+T193	PRON_PER 104 105	I
+T194	PRON_PER 207 209	my
+T195	PRON_PER 309 311	my
+T196	PRON_PER 343 345	he
+T197	PRON_PER 355 357	me
+T198	PRON_PER 377 378	I
+T199	PRON_PER 407 410	his
+T200	PRON_PER 481 483	he
+T201	PRON_PER 644 647	his
+T202	PRON_PER 671 672	I
+T203	PRON_PER 708 709	I
+T204	PRON_PER 803 806	you
+T205	PRON_PER 807 808	I
+T206	PRON_PER 912 914	my
+T207	PRON_PER 1090 1092	my
+T208	PRON_PER 1117 1118	I
+T209	PRON_PER 1124 1127	you
+T210	PRON_PER 1141 1142	I
+T211	PRON_PER 1212 1215	you
+T212	PRON_PER 1240 1243	you
+T213	PRON_PER 1273 1275	me
+T214	PRON_PER 1415 1417	we
+T215	PRON_PER 1469 1471	we
+T216	PRON_PER 1931 1936	their
+T217	PRON_PER 2052 2057	their
+T218	PRON_PER 2187 2192	their
+T219	PRON_PER 2221 2226	their
+T220	PRON_PER 2257 2262	their
+T221	PRON_PER 2284 2288	they
+T222	PRON_PER 2304 2308	they
+T223	PRON_PER 2435 2438	his
+T224	PRON_PER 2603 2605	he
+T225	PRON_PER 2669 2671	he
+T226	PRON_PER 2722 2724	he
+T227	PRON_PER 2736 2739	his
+T228	PRON_PER 2990 2992	he
+T229	PRON_PER 3024 3027	his
+T230	PRON_PER 3045 3048	his
+T231	PRON_PER 3079 3082	his
+T232	PRON_PER 3138 3141	his
+T233	PRON_PER 3197 3200	him
+T234	PRON_PER 3266 3268	we
+T235	PRON_PER 3274 3277	him
+T236	PRON_PER 3380 3382	he
+T237	PRON_PER 3409 3411	he
+T238	PRON_PER 3468 3471	him
+T239	PRON_PER 3655 3657	he
+T240	PRON_PER 3850 3853	him
+T241	PRON_PER 3860 3863	her
+T242	PRON_PER 3869 3871	he
+T243	PRON_PER 3913 3916	she
+T244	PRON_PER 3948 3951	she
+T245	PRON_PER 3966 3968	he
+T246	PRON_PER 3998 4001	her
+T247	PRON_PER 4007 4010	him
+T248	PRON_PER 4141 4145	they
+T249	PRON_PER 4184 4186	We
+T250	PRON_PER 4296 4301	their
+T251	PRON_PER 4332 4336	they
+T252	PRON_PER 4363 4367	they
+T253	PRON_PER 4435 4439	them
+T254	PRON_PER 4443 4448	their
+T255	PRON_PER 4519 4522	his
+T256	PRON_PER 4602 4606	they
+T257	PRON_PER 4739 4743	them
+T258	PRON_PER 4747 4752	their
+T260	PRON_VEH 5355 5358	Her
+T261	PRON_PER 5411 5416	their
+T262	PRON_PER 5480 5483	his
+T263	PRON_PER 5497 5500	his
+T264	PRON_PER 5507 5509	He
+T265	PRON_PER 5529 5531	he
+T266	PRON_PER 5560 5563	his
+T267	PRON_PER 5578 5582	them
+T268	PRON_PER 5664 5666	he
+T269	PRON_PER 5779 5782	his
+T270	PRON_PER 5848 5852	they
+T271	PRON_PER 6427 6431	they
+T273	PRON_PER 6509 6511	he
+T274	PRON_PER 6678 6680	he
+T275	PRON_PER 6790 6792	he
+T276	PRON_PER 6928 6931	his
+T277	PRON_PER 7012 7015	his
+T278	PRON_PER 7340 7342	he
+T279	PRON_PER 7347 7350	his
+T280	PRON_PER 7364 7366	he
+T281	PRON_PER 7436 7439	him
+T282	PRON_PER 7443 7446	his
+T283	PRON_PER 7560 7562	he
+T284	PRON_PER 7593 7596	his
+T285	PRON_PER 7637 7639	he
+T286	PRON_PER 7664 7667	his
+T287	PRON_PER 7744 7747	him
+T288	PRON_PER 7765 7767	he
+T289	PRON_PER 7966 7968	he
+T290	PRON_PER 8087 8089	he
+T291	PRON_PER 8161 8163	he
+T292	PRON_PER 8211 8213	he
+T293	PRON_PER 8351 8354	his
+T294	PRON_PER 8398 8400	He
+T295	PRON_PER 8514 8516	he
+T296	PRON_PER 8546 8548	he
+T297	PRON_PER 8613 8623	themselves
+T298	PRON_PER 8653 8656	his
+T299	PRON_PER 8720 8723	his
+T300	PRON_PER 8755 8758	his
+T301	PRON_PER 8801 8804	his
+T302	PRON_PER 8900 8903	his
+T303	PRON_PER 8942 8944	he
+T304	PRON_PER 8965 8968	his
+T305	PRON_PER 8983 8985	he
+T306	PRON_PER 9115 9119	They
+T307	PRON_PER 9132 9135	him
+T308	PRON_PER 9188 9192	them
+T309	PRON_PER 9231 9233	he
+T310	PRON_PER 9257 9261	them
+T311	PRON_PER 9264 9268	They
+T312	PRON_PER 9274 9279	their
+T313	PRON_PER 9289 9292	his
+T314	PRON_PER 9304 9308	they
+T315	PRON_PER 9389 9392	his
+T316	PRON_PER 9416 9419	him
+T317	PRON_PER 9537 9541	they
+T318	PRON_PER 9639 9642	his
+T319	PRON_PER 9694 9704	themselves
+T320	PRON_PER 9746 9751	their
+T321	PRON_PER 9790 9794	them
+T322	PRON_PER 9836 9840	they
+T323	PRON_PER 10181 10185	them
+T324	PRON_PER 10232 10236	they
+T325	PRON_PER 10434 10437	his
+T326	PRON_PER 10493 10496	his
+T327	NOM_PER 6445 6456	one of them
+T328	Sea-0 17 20	Sea
+T519	Narrator-1 21 22	I
+T434	Storyteller-2 43 101	one who had no business to tell it to me , or to any other
+T520	Narrator-1 81 83	me
+T435	any_other-3 92 101	any other
+T521	Narrator-1 104 105	I
+T329	Storyteller-2 164 176	the narrator
+T522	Narrator-1 207 209	my
+T332	Storyteller-2 309 326	my convivial host
+T523	Narrator-1 309 311	my
+T524	Storyteller-2 343 345	he
+T525	Narrator-1 355 357	me
+T526	Narrator-1 377 378	I
+T527	Storyteller-2 407 410	his
+T528	Storyteller-2 481 483	he
+T330	the_British_Colonial_Office-4 573 600	the British Colonial Office
+T529	Storyteller-2 644 647	his
+T530	Narrator-1 671 672	I
+T531	Narrator-1 708 709	I
+T532	you-5 803 806	you
+T533	Narrator-1 807 808	I
+T334	the_principal_characters-6 841 865	the principal characters
+T534	Narrator-1 912 914	my
+T336	a_man_long_dead-7 992 1007	a man long dead
+T337	the_British_Colonial_Office-4 1029 1048	the Colonial Office
+T335	Storyteller-2 1090 1107	my convivial host
+T535	Narrator-1 1090 1092	my
+T536	Narrator-1 1117 1118	I
+T537	you-8 1124 1127	you
+T538	Narrator-1 1141 1142	I
+T539	you-9 1212 1215	you
+T540	you-10 1240 1243	you
+T541	Narrator-1 1273 1275	me
+T338	the_British_Colonial_Office-4 1364 1383	the Colonial Office
+T331	a_man_long_dead-7 1393 1405	the dead man
+T542	we-11 1415 1417	we
+T333	John_Clayton-12 1429 1461	a certain young English nobleman
+T543	we-13 1469 1471	we
+T341	John_Clayton-12 1483 1495	John Clayton
+T340	a_British_West_Coast_African_Colony-14 1593 1628	a British West Coast African Colony
+T436	simple_native_inhabitants-15 1640 1665	simple native inhabitants
+T437	European_power-16 1674 1688	European power
+T342	soldiers-17 1716 1724	soldiers
+T438	its_native_army-18 1729 1744	its native army
+T439	the_savage_tribes_along_the_Congo_and_the_Aruwimi-19 1821 1870	the savage tribes along the Congo and the Aruwimi
+T343	the_Congo-20 1845 1854	the Congo
+T440	the_Aruwimi-21 1859 1870	the Aruwimi
+T344	The_natives_of_the_British_Colony-22 1873 1906	The natives of the British Colony
+T441	a_British_West_Coast_African_Colony-14 1888 1906	the British Colony
+T345	their_young_men-23 1931 1946	their young men
+T544	The_natives_of_the_British_Colony-22 1931 1936	their
+T442	their_families-24 2052 2066	their families
+T545	their_young_men-23 2052 2057	their
+T347	The_Englishmen_in_Africa-25 2069 2093	The Englishmen in Africa
+T443	Africa-26 2087 2093	Africa
+T444	The_natives_of_the_British_Colony-22 2126 2143	these poor blacks
+T546	The_natives_of_the_British_Colony-22 2187 2192	their
+T547	The_natives_of_the_British_Colony-22 2221 2226	their
+T346	their_white_officers-27 2257 2277	their white officers
+T548	The_natives_of_the_British_Colony-22 2257 2262	their
+T549	The_natives_of_the_British_Colony-22 2284 2288	they
+T550	The_natives_of_the_British_Colony-22 2304 2308	they
+T350	the_British_Colonial_Office-4 2349 2368	the Colonial Office
+T351	John_Clayton-12 2379 2391	John Clayton
+T448	a_new_post_in_British_West_Africa-28 2395 2428	a new post in British West Africa
+T348	British_West_Africa-29 2409 2428	British West Africa
+T551	John_Clayton-12 2435 2438	his
+T445	black_British_subjects-30 2529 2551	black British subjects
+T349	their_white_officers-27 2555 2596	the officers of a friendly European power
+T446	European_power-16 2571 2596	a friendly European power
+T552	John_Clayton-12 2603 2605	he
+T553	John_Clayton-12 2669 2671	he
+T554	John_Clayton-12 2722 2724	he
+T447	British_West_Africa-29 2736 2751	his destination
+T555	John_Clayton-12 2736 2739	his
+T449	John_Clayton-12 2754 2761	Clayton
+T353	Englishman-31 2778 2788	Englishman
+T456	the_noblest_monuments_of_historic_achievement_upon_a_thousand_victorious_battlefields-32 2827 2912	the noblest monuments of historic achievement upon a thousand victorious battlefields
+T451	a_thousand_victorious_battlefields-33 2878 2912	a thousand victorious battlefields
+T556	John_Clayton-12 2990 2992	he
+T557	John_Clayton-12 3024 3027	his
+T558	John_Clayton-12 3045 3048	his
+T559	John_Clayton-12 3079 3082	his
+T560	John_Clayton-12 3138 3141	his
+T561	John_Clayton-12 3197 3200	him
+T452	the_army-34 3227 3235	the army
+T355	the_British_Colonial_Office-4 3239 3258	the Colonial Office
+T562	we-35 3266 3268	we
+T563	John_Clayton-12 3274 3277	him
+T354	the_Queen-36 3363 3372	the Queen
+T564	John_Clayton-12 3380 3382	he
+T565	John_Clayton-12 3409 3411	he
+T566	John_Clayton-12 3468 3471	him
+T567	John_Clayton-12 3655 3657	he
+T356	the_Hon__Alice_Rutherford-37 3678 3703	the Hon. Alice Rutherford
+T358	the_Hon__Alice_Rutherford-37 3765 3785	this fair young girl
+T453	Africa-26 3820 3835	tropical Africa
+T568	John_Clayton-12 3850 3853	him
+T569	the_Hon__Alice_Rutherford-37 3860 3863	her
+T570	John_Clayton-12 3869 3871	he
+T571	the_Hon__Alice_Rutherford-37 3913 3916	she
+T572	the_Hon__Alice_Rutherford-37 3948 3951	she
+T573	John_Clayton-12 3966 3968	he
+T574	the_Hon__Alice_Rutherford-37 3998 4001	her
+T575	John_Clayton-12 4007 4010	him
+T359	mothers-38 4024 4031	mothers
+T363	brothers-39 4036 4044	brothers
+T362	sisters-40 4049 4056	sisters
+T360	aunts-41 4063 4068	aunts
+T361	cousins-42 4073 4080	cousins
+T576	they-43 4141 4145	they
+T577	We-44 4184 4186	We
+T454	John_Clayton-12 4236 4240	John
+T365	John_Clayton-12 4243 4257	Lord Greystoke
+T364	the_Hon__Alice_Rutherford-37 4264 4274	Lady Alice
+T366	Dover-45 4287 4292	Dover
+T578	John_and_Alice-46 4296 4301	their
+T455	Africa-26 4309 4315	Africa
+T579	John_and_Alice-46 4332 4336	they
+T357	Freetown-47 4348 4356	Freetown
+T580	John_and_Alice-46 4363 4367	they
+T581	John_and_Alice-46 4435 4439	them
+T459	their_final_destination-49 4443 4466	their final destination
+T582	John_and_Alice-46 4443 4448	their
+T369	John_Clayton-12 4478 4482	John
+T368	John_Clayton-12 4485 4499	Lord Greystoke
+T371	the_Hon__Alice_Rutherford-37 4506 4516	Lady Alice
+T583	John_Clayton-12 4519 4522	his
+T367	men-50 4579 4582	men
+T584	John_and_Alice-46 4602 4606	they
+T460	the_port_of_Freetown-51 4639 4659	the port of Freetown
+T461	Freetown-47 4651 4659	Freetown
+T462	a_half_dozen_British_war_vessels-52 4660 4692	a half dozen British war vessels
+T463	the_south_Atlantic-53 4707 4725	the south Atlantic
+T585	John_and_Alice-46 4739 4743	them
+T464	the_Fuwalda-48 4747 4766	their little vessel
+T586	John_and_Alice-46 4747 4752	their
+T465	the_shores_of_St__Helena-54 4832 4856	the shores of St. Helena
+T466	St__Helena-55 4846 4856	St. Helena
+T517	the_world-56 4873 4882	the world
+T372	the_Fuwalda-48 4888 4899	the Fuwalda
+T467	all_on_board-57 4919 4931	all on board
+T468	the_Fuwalda-48 5049 5060	The Fuwalda
+T470	the_south_Atlantic-53 5162 5187	the far southern Atlantic
+T472	their_crews-58 5190 5201	their crews
+T471	the_offscourings_of_the_sea-59 5214 5241	the offscourings of the sea
+T376	Sea-0 5234 5241	the sea
+T375	every_nation-60 5297 5309	every nation
+T377	the_Fuwalda-48 5312 5323	The Fuwalda
+T378	Her_officers-61 5355 5367	Her officers
+T588	the_Fuwalda-48 5355 5358	Her
+T589	Her_officers-61 5411 5416	their
+T379	Fuwalda_Captain-62 5424 5435	The captain
+T590	Fuwalda_Captain-62 5480 5483	his
+T381	Fuwalda_Crew-63 5497 5504	his men
+T591	Fuwalda_Captain-62 5497 5500	his
+T592	Fuwalda_Captain-62 5507 5509	He
+T593	Fuwalda_Captain-62 5529 5531	he
+T594	Fuwalda_Captain-62 5560 5563	his
+T595	Fuwalda_Crew-63 5578 5582	them
+T474	Fuwalda_Crew-63 5641 5663	the motley aggregation
+T596	Fuwalda_Captain-62 5664 5666	he
+T383	Freetown-47 5753 5761	Freetown
+T475	John_Clayton-12 5762 5774	John Clayton
+T384	the_Hon__Alice_Rutherford-37 5779 5793	his young wife
+T597	John_Clayton-12 5779 5782	his
+T477	the_deck_of_the_Fuwalda-64 5816 5839	the deck of the Fuwalda
+T476	the_Fuwalda-48 5828 5839	the Fuwalda
+T598	John_and_Alice-46 5848 5852	they
+T385	Sea-0 5926 5933	the sea
+T496	man-65 6150 6153	man
+T387	Two_sailors-66 6156 6167	Two sailors
+T386	the_deck_of_the_Fuwalda-64 6186 6210	the decks of the Fuwalda
+T478	the_Fuwalda-48 6199 6210	the Fuwalda
+T389	the_first_mate-67 6213 6227	the first mate
+T391	Fuwalda_Captain-62 6246 6257	the captain
+T390	John_Clayton-12 6284 6296	John Clayton
+T388	the_Hon__Alice_Rutherford-37 6301 6311	Lady Alice
+T479	the_little_party_who_were_facing_away_from_the_sailors-68 6352 6406	the little party who were facing away from the sailors
+T393	Fuwalda_Crew-63 6395 6406	the sailors
+T394	Fuwalda_Captain-62 6477 6488	the captain
+T601	Fuwalda_Captain-62 6509 6511	he
+T398	Fuwalda_Captain-62 6615 6626	the officer
+T395	John_Clayton-12 6643 6647	Lord
+T396	the_Hon__Alice_Rutherford-37 6652 6666	Lady Greystoke
+T602	Fuwalda_Captain-62 6678 6680	he
+T655	Older_Sailor-69 6445 6456	one of them
+T399	Older_Sailor-69 6706 6716	the sailor
+T397	the_deck_of_the_Fuwalda-64 6744 6752	the deck
+T603	Fuwalda_Captain-62 6790 6792	he
+T604	Fuwalda_Captain-62 6928 6931	his
+T402	Fuwalda_Captain-62 6991 7002	the captain
+T605	Fuwalda_Captain-62 7012 7015	his
+T400	Older_Sailor-69 7055 7065	the sailor
+T401	the_deck_of_the_Fuwalda-64 7069 7077	the deck
+T403	Older_Sailor-69 7080 7087	The man
+T405	Black_Michael-70 7171 7187	The other seaman
+T404	a_man-71 7244 7249	a man
+T606	Black_Michael-70 7340 7342	he
+T406	Older_Sailor-69 7347 7355	his mate
+T607	Black_Michael-70 7347 7350	his
+T608	Black_Michael-70 7364 7366	he
+T481	Fuwalda_Captain-62 7415 7426	the captain
+T609	Older_Sailor-69 7436 7439	him
+T610	Older_Sailor-69 7443 7446	his
+T482	Fuwalda_Captain-62 7494 7505	the officer
+T611	Fuwalda_Captain-62 7560 7562	he
+T612	Fuwalda_Captain-62 7593 7596	his
+T613	Fuwalda_Captain-62 7637 7639	he
+T614	Fuwalda_Captain-62 7664 7667	his
+T407	Black_Michael-70 7699 7747	the great mountain of muscle towering before him
+T615	Fuwalda_Captain-62 7744 7747	him
+T616	Fuwalda_Captain-62 7765 7767	he
+T408	John_Clayton-12 7774 7786	John Clayton
+T483	Black_Michael-70 7851 7861	the sailor
+T484	Black_Michael-70 7881 7891	the sailor
+T409	John_Clayton-12 7913 7927	Lord Greystoke
+T485	Fuwalda_Captain-62 7944 7955	the captain
+T617	John_Clayton-12 7966 7968	he
+T486	John_Clayton-12 8029 8036	Clayton
+T411	Fuwalda_Captain-62 8041 8052	the captain
+T487	John_Clayton-12 8055 8065	the former
+T618	John_Clayton-12 8087 8089	he
+T488	Fuwalda_Crew-63 8140 8148	the crew
+T619	John_Clayton-12 8161 8163	he
+T620	John_Clayton-12 8211 8213	he
+T410	the_Hon__Alice_Rutherford-37 8218 8232	Lady Greystoke
+T412	passengers-72 8242 8252	passengers
+T413	Fuwalda_Captain-62 8255 8266	The captain
+T621	Fuwalda_Captain-62 8351 8354	his
+T622	Fuwalda_Captain-62 8398 8400	He
+T489	an_English_official-73 8428 8447	an English official
+T490	the_Queen-36 8454 8463	the Queen
+T623	Fuwalda_Captain-62 8514 8516	he
+T624	Fuwalda_Captain-62 8546 8548	he
+T491	England__s_far-reaching_navy-74 8559 8587	England 's far-reaching navy
+T492	England-75 8559 8566	England
+T392	Two_sailors-66 6314 6321	The men
+T599	Two_sailors-66 6427 6431	they
+T416	Two_sailors-66 8590 8605	The two sailors
+T625	Two_sailors-66 8613 8623	themselves
+T415	Older_Sailor-69 8629 8680	the older man assisting his wounded comrade to rise
+T414	Black_Michael-70 8653 8672	his wounded comrade
+T626	Older_Sailor-69 8653 8656	his
+T493	Black_Michael-70 8683 8746	The big fellow , who was known among his mates as Black Michael
+T417	Fuwalda_Crew-63 8720 8729	his mates
+T627	Black_Michael-70 8720 8723	his
+T418	Black_Michael-70 8733 8746	Black Michael
+T628	Black_Michael-70 8755 8758	his
+T629	Black_Michael-70 8801 8804	his
+T419	John_Clayton-12 8824 8831	Clayton
+T494	Black_Michael-70 8869 8879	the fellow
+T630	Black_Michael-70 8900 8903	his
+T631	Black_Michael-70 8942 8944	he
+T632	Black_Michael-70 8965 8968	his
+T633	Black_Michael-70 8983 8985	he
+T634	John_and_Alice-46 9115 9119	They
+T635	Black_Michael-70 9132 9135	him
+T420	Fuwalda_Captain-62 9169 9180	the captain
+T636	John_and_Alice-46 9188 9192	them
+T637	Fuwalda_Captain-62 9231 9233	he
+T638	John_and_Alice-46 9257 9261	them
+T639	John_and_Alice-46 9264 9268	They
+T640	John_and_Alice-46 9274 9279	their
+T422	his_cabin-76 9289 9298	his cabin
+T641	Fuwalda_Captain-62 9289 9292	his
+T642	John_and_Alice-46 9304 9308	they
+T421	Fuwalda_Captain-62 9353 9364	the captain
+T643	Fuwalda_Captain-62 9389 9392	his
+T644	Fuwalda_Captain-62 9416 9419	him
+T425	The_other_officers-77 9446 9464	The other officers
+T495	Fuwalda_Crew-63 9517 9549	the villainous crew they bullied
+T645	The_other_officers-77 9537 9541	they
+T423	John_Clayton-12 9608 9634	the polished English noble
+T424	the_Hon__Alice_Rutherford-37 9639 9647	his lady
+T646	John_Clayton-12 9639 9642	his
+T426	John_and_Alice-46 9658 9670	the Claytons
+T647	John_and_Alice-46 9694 9704	themselves
+T648	John_and_Alice-46 9746 9751	their
+T649	John_and_Alice-46 9790 9794	them
+T428	the_Fuwalda-48 9812 9827	the little ship
+T650	John_and_Alice-46 9836 9840	they
+T497	the_Fuwalda-48 9985 9994	the craft
+T498	John_and_Alice-46 10080 10092	the Claytons
+T499	the_Fuwalda-48 10122 10139	the little vessel
+T651	John_and_Alice-46 10181 10185	them
+T652	John_and_Alice-46 10232 10236	they
+T432	Black_Michael-70 10313 10326	Black Michael
+T433	John_Clayton-12 10329 10336	Clayton
+T429	the_deck_of_the_Fuwalda-64 10345 10349	deck
+T500	the_limp_body_of_one_of_the_crew-78 10370 10402	the limp body of one of the crew
+T501	the_limp_body_of_one_of_the_crew-78 10387 10402	one of the crew
+T502	Fuwalda_Crew-63 10394 10402	the crew
+T503	four_of_his_fellows-79 10426 10445	four of his fellows
+T431	Fuwalda_Crew-63 10434 10445	his fellows
+T653	the_limp_body_of_one_of_the_crew-78 10434 10437	his
+T504	the_first_mate-67 10452 10466	the first mate
+T505	a_heavy_belaying_pin_in_his_hand-80 10469 10501	a heavy belaying pin in his hand
+T654	the_first_mate-67 10493 10496	his
+T506	the_little_party_of_sullen_sailors-81 10523 10557	the little party of sullen sailors
+T430	Fuwalda_Crew-63 10543 10557	sullen sailors
+R1	appos Arg1:T11 Arg2:T13
+R2	cop Arg1:T122 Arg2:T121
+R3	appos Arg1:T24 Arg2:T121
+R5	appos Arg1:T42 Arg2:T43
+R6	appos Arg1:T46 Arg2:T140
+R7	cop Arg1:T141 Arg2:T140
+R8	appos Arg1:T45 Arg2:T143
+R9	cop Arg1:T145 Arg2:T50
+R10	cop Arg1:T52 Arg2:T51
+R11	cop Arg1:T54 Arg2:T51
+R12	cop Arg1:T152 Arg2:T77
+R13	cop Arg1:T99 Arg2:T97
+T672	PRON_GPE 1729 1732	its
+T673	European_power-16 1729 1732	its
+T674	PRON_GPE 1753 1755	it
+T675	European_power-16 1753 1755	it
+T179	PROP_VEH 4403 4414	the Fuwalda
+T130	the_Fuwalda-48 4403 4414	the Fuwalda
+R4	appos Arg1:T129 Arg2:T130

@@ -1,0 +1,570 @@
+T0	NOM_PER 286 300	a fat coachman
+T1	PROP_PER 148 162	Miss Pinkerton
+T2	NOM_VEH 212 232	a large family coach
+T3	NOM_PER 178 190	young ladies
+T4	PROP_PER 503 517	Miss Pinkerton
+T5	NOM_FAC 648 675	the stately old brick house
+T6	NOM_PER 419 435	the fat coachman
+T7	NOM_PER 841 850	that lady
+T8	NOM_PER 684 702	the acute observer
+T9	PROP_PER 748 782	good-natured Miss Jemima Pinkerton
+T10	PROP_PER 920 931	Miss Jemima
+T12	PROP_PER 881 892	Mrs. Sedley
+T13	NOM_PER 993 1005	the coachman
+T14	NOM_PER 944 961	the black servant
+T15	PROP_PER 1098 1109	Miss Sedley
+T16	PROP_PER 1147 1161	Miss Pinkerton
+T17	PROP_PER 1276 1288	Mrs. Chapone
+T18	NOM_PER 1255 1296	the correspondent of Mrs. Chapone herself
+T20	NOM_PER 1301 1310	The girls
+T21	PROP_PER 1382 1393	Miss Jemima
+T23	PROP_PER 1588 1599	Mrs. Sedley
+T24	PROP_PER 1671 1682	Miss Jemima
+T25	PROP_PER 1709 1720	Miss Sedley
+T26	NOM_PER 1911 1919	his lady
+T27	NOM_PER 1839 1860	John Sedley , Esquire
+T28	PROP_PER 1927 1938	Miss Jemima
+T30	PROP_PER 1983 1997	Miss Pinkerton
+T31	PROP_PER 2463 2477	Miss Pinkerton
+T32	NOM_PER 2295 2305	her pupils
+T33	NOM_PER 2280 2305	the parents of her pupils
+T34	NOM_PER 2383 2395	her daughter
+T35	PROP_PER 2236 2250	Miss Pinkerton
+T36	NOM_PER 2093 2103	her pupils
+T37	PROP_PER 2188 2203	poor Miss Birch
+T38	PROP_PER 2368 2378	Mrs. Birch
+T39	PROP_PER 2319 2325	Jemima
+T40	PROP_PER 2524 2538	Miss Pinkerton
+T41	PROP_PER 2724 2742	Miss Amelia Sedley
+T42	NOM_PER 2746 2757	her parents
+T43	NOM_PER 3086 3101	her instructors
+T44	NOM_PER 2890 2919	the young English gentlewoman
+T47	NOM_PER 3320 3331	her friends
+T48	NOM_PER 3612 3639	every young lady of FASHION
+T49	PROP_PER 3687 3698	Miss Sedley
+T50	PROP_PER 3830 3856	the admirable Mrs. Chapone
+T51	PROP_PER 3881 3892	Miss Amelia
+T52	PROP_PER 4099 4109	Miss Sharp
+T53	NOM_PER 3924 3938	her companions
+T54	PROP_PER 4122 4133	Miss Sedley
+T55	PROP_PER 4170 4180	Miss Sharp
+T56	PROP_FAC 4192 4206	Russell Square
+T58	PROP_PER 4375 4389	Miss Pinkerton
+T59	NOM_PER 4546 4558	her scholars
+T61	PROP_PER 4678 4692	Miss Pinkerton
+T62	NOM_PER 4722 4760	the late revered Doctor Samuel Johnson
+T63	NOM_PER 4653 4665	a young lady
+T65	NOM_PER 4827 4846	this majestic woman
+T66	NOM_PER 4775 4792	the Lexicographer
+T67	PROP_PER 5012 5023	Miss Jemima
+T68	NOM_PER 4949 4965	her elder sister
+T69	PROP_PER 5100 5114	Miss Pinkerton
+T72	NOM_PER 5446 5456	her sister
+T73	PROP_PER 5317 5328	Becky Sharp
+T74	PROP_PER 5465 5476	Becky Sharp
+T77	NOM_FAC 5622 5632	the closet
+T78	PROP_PER 5743 5753	poor Becky
+T79	PROP_PER 5805 5816	Miss Sedley
+T80	PROP_PER 5842 5856	Miss Pinkerton
+T81	PROP_PER 5902 5913	poor Jemima
+T82	PROP_PER 5963 5974	Miss Sedley
+T83	PROP_GPE 6001 6007	London
+T84	PROP_PER 6045 6055	Miss Sharp
+T85	NOM_PER 5963 5982	Miss Sedley 's papa
+T87	PROP_PER 6089 6103	Miss Pinkerton
+T88	NOM_PER 6677 6686	the pupil
+T89	NOM_PER 6490 6503	a good parent
+T90	NOM_PER 6514 6518	wife
+T91	NOM_PER 6524 6531	husband
+T92	NOM_PER 6506 6511	child
+T93	NOM_PER 6423 6439	the stone cutter
+T94	NOM_PER 6353 6361	a person
+T95	NOM_PER 6229 6245	schoolmistresses
+T96	NOM_PER 6730 6758	the disinterested instructor
+T97	NOM_PER 6940 6970	pompous old Minerva of a woman
+T98	NOM_PER 7032 7041	her pupil
+T99	NOM_PER 6963 6970	a woman
+T100	PROP_PER 6861 6875	Miss Pinkerton
+T101	PROP_PER 6767 6785	Miss Amelia Sedley
+T102	NOM_PER 7516 7544	the young ladies in the Mall
+T104	PROP_PER 7136 7146	Hillisberg
+T105	NOM_PER 7391 7420	the poor girl in the scullery
+T107	NOM_PER 7427 7450	the one-eyed tart-woman
+T108	NOM_PER 7555 7588	twelve intimate and bosom friends
+T109	NOM_PER 7596 7624	the twenty-four young ladies
+T110	PROP_PER 7708 7719	Lord Dexter
+T111	PROP_PER 7952 7961	Dr. Floss
+T112	NOM_PER 7802 7846	the rich woolly-haired mulatto from St. Kitt
+T114	PROP_GPE 7838 7846	St. Kitt
+T116	PROP_PER 8004 8018	Miss Pinkerton
+T117	NOM_PER 8104 8113	that lady
+T118	PROP_PER 8141 8152	Miss Jemima
+T119	PROP_PER 8204 8210	Amelia
+T121	NOM_PER 8248 8258	her sister
+T122	PROP_PER 8431 8444	Honest Jemima
+T123	NOM_PER 8557 8565	servants
+T127	NOM_PER 9105 9137	villains of the most sombre sort
+T128	NOM_PER 9164 9223	a constant companion so guileless and good-natured a person
+T129	NOM_PER 9411 9420	a heroine
+T133	NOM_PER 9281 9291	her person
+T135	PROP_PER 10194 10205	Miss Sedley
+T136	NOM_PER 10158 10166	teachers
+T137	NOM_PER 10142 10153	all masters
+T139	NOM_PER 9990 10020	that austere and godlike woman
+T140	PROP_FAC 10 23	Chiswick Mall
+T141	NOM_FAC 148 190	Miss Pinkerton 's academy for young ladies
+T142	PROP_FAC 196 209	Chiswick Mall
+T143	NOM_PER 371 386	A black servant
+T144	NOM_FAC 841 870	that lady 's own drawing-room
+T11	NOM_VEH 881 901	Mrs. Sedley 's coach
+T145	NOM_PER 904 910	sister
+T146	PROP_PER 936 941	Sambo
+T147	PROP_PER 1125 1136	Miss Jemima
+T148	NOM_PER 1172 1190	that majestic lady
+T149	PROP_PER 1193 1221	the Semiramis of Hammersmith
+T150	NOM_PER 1224 1252	the friend of Doctor Johnson
+T19	PROP_PER 1238 1252	Doctor Johnson
+T151	PROP_FAC 1210 1221	Hammersmith
+T152	NOM_PER 1363 1369	sister
+T22	PROP_PER 1447 1460	sister Jemima
+T153	PROP_PER 1637 1643	Amelia
+T29	NOM_PER 1970 1980	her sister
+T154	NOM_FAC 2586 2594	The Mall
+T155	PROP_GPE 2597 2605	Chiswick
+T156	NOM_PER 2621 2626	MADAM
+T157	NOM_FAC 2667 2675	the Mall
+T158	NOM_PER 2763 2854	a young lady not unworthy to occupy a fitting position in their polished and refined circle
+T45	PROP_PER 3010 3033	the amiable Miss Sedley
+T159	NOM_PER 3157 3193	her AGED and her YOUTHFUL companions
+T46	NOM_PER 3783 3806	THE GREAT LEXICOGRAPHER
+T160	NOM_FAC 3870 3878	the Mall
+T161	NOM_PER 3973 3985	her mistress
+T162	NOM_PER 4030 4035	Madam
+T163	NOM_PER 4038 4070	Your most obliged humble servant
+T164	PROP_PER 4073 4090	BARBARA PINKERTON
+T165	NOM_PER 4233 4283	The family of distinction with whom she is engaged
+T60	PROP_PER 4428 4439	Miss Sedley
+T57	NOM_FAC 4585 4593	the Mall
+T166	NOM_FAC 4678 4702	Miss Pinkerton 's school
+T167	NOM_FAC 4708 4716	the Mall
+T64	PROP_PER 5159 5165	Jemima
+T70	PROP_PER 5251 5262	Miss Jemima
+T71	PROP_PER 5272 5286	Miss Pinkerton
+T168	PROP_PER 5342 5348	Jemima
+T169	PROP_PER 5502 5513	MISS JEMIMA
+T75	PROP_PER 5528 5542	Miss Pinkerton
+T76	NOM_PER 5699 5705	sister
+T86	NOM_PER 6014 6034	a man of some wealth
+T170	NOM_PER 6060 6077	an articled pupil
+T171	NOM_FAC 6296 6306	churchyard
+T172	NOM_PER 6471 6487	a good Christian
+T173	NOM_PER 6558 6579	a disconsolate family
+T174	NOM_PER 6790 6827	a young lady of this singular species
+T103	PROP_PER 7103 7118	Mrs. Billington
+T175	PROP_PER 7150 7157	Parisot
+T176	NOM_PER 7332 7359	everybody who came near her
+T177	PROP_PER 7367 7374	Minerva
+T178	NOM_FAC 7408 7420	the scullery
+T106	NOM_PER 7427 7462	the one-eyed tart-woman 's daughter
+T179	NOM_FAC 7536 7544	the Mall
+T113	PROP_PER 7632 7651	envious Miss Briggs
+T180	PROP_PER 7693 7705	Miss Saltire
+T181	NOM_PER 7708 7736	Lord Dexter 's granddaughter
+T182	PROP_PER 7788 7799	Miss Swartz
+T183	PROP_PER 7863 7869	Amelia
+T115	NOM_PER 8311 8357	the heiress ( who paid double ) of St. Kitt 's
+T120	NOM_GPE 8346 8357	St. Kitt 's
+T184	NOM_PER 8412 8428	parlour-boarders
+T124	NOM_PER 8775 8791	her awful sister
+T125	PROP_PER 8892 8898	Amelia
+T185	NOM_PER 8979 9001	a dear little creature
+T126	NOM_PER 9240 9249	a heroine
+T130	NOM_PER 9889 9900	any persons
+T131	PROP_PER 9973 9987	Miss Pinkerton
+T132	NOM_ORG 6606 6642	academies of the male and female sex
+T239	PRON_PER 447 450	his
+T240	PRON_PER 550 552	he
+T241	PRON_PER 783 790	herself
+T242	PRON_PER 1041 1044	you
+T243	PRON_PER 1162 1169	herself
+T244	PRON_PER 1289 1296	herself
+T245	PRON_PER 1350 1353	her
+T246	PRON_PER 1398 1400	we
+T247	PRON_PER 1411 1414	her
+T248	PRON_PER 1533 1534	I
+T249	PRON_PER 1661 1662	I
+T250	PRON_PER 1685 1688	you
+T251	PRON_PER 1893 1894	I
+T252	PRON_PER 1911 1914	his
+T253	PRON_PER 1970 1973	her
+T254	PRON_PER 2093 2096	her
+T255	PRON_PER 2140 2144	they
+T256	PRON_PER 2295 2298	her
+T257	PRON_PER 2383 2386	her
+T258	PRON_PER 2638 2641	her
+T259	PRON_PER 2678 2679	I
+T260	PRON_PER 2746 2749	her
+T261	PRON_PER 2821 2826	their
+T262	PRON_PER 2957 2960	her
+T263	PRON_PER 3079 3082	her
+T264	PRON_PER 3086 3089	her
+T265	PRON_PER 3157 3160	her
+T266	PRON_PER 3170 3173	her
+T267	PRON_PER 3285 3288	she
+T268	PRON_PER 3320 3323	her
+T269	PRON_PER 3906 3909	her
+T270	PRON_PER 3924 3927	her
+T271	PRON_PER 3973 3976	her
+T272	PRON_PER 4020 4027	herself
+T273	PRON_PER 4038 4042	Your
+T274	PRON_PER 4269 4272	she
+T275	PRON_PER 4302 4312	themselves
+T276	PRON_PER 4316 4319	her
+T277	PRON_PER 4409 4412	her
+T278	PRON_PER 4518 4521	she
+T279	PRON_PER 4546 4549	her
+T280	PRON_PER 4564 4569	their
+T281	PRON_PER 4861 4863	he
+T282	PRON_PER 4876 4879	her
+T283	PRON_PER 4897 4900	her
+T284	PRON_PER 4916 4919	her
+T285	PRON_PER 4949 4952	her
+T286	PRON_PER 5213 5216	her
+T287	PRON_PER 5391 5394	her
+T288	PRON_PER 5423 5426	she
+T289	PRON_PER 5434 5437	her
+T290	PRON_PER 5446 5449	her
+T291	PRON_PER 5479 5482	she
+T292	PRON_PER 5577 5580	you
+T293	PRON_PER 5584 5588	your
+T294	PRON_PER 5775 5778	she
+T295	PRON_PER 5830 5832	me
+T296	PRON_PER 6118 6121	she
+T297	PRON_PER 6171 6174	her
+T298	PRON_PER 6452 6455	his
+T299	PRON_PER 6589 6592	his
+T300	PRON_PER 6884 6887	her
+T301	PRON_PER 7032 7035	her
+T302	PRON_PER 7046 7053	herself
+T303	PRON_PER 7060 7063	she
+T304	PRON_PER 7233 7236	she
+T305	PRON_PER 7303 7306	her
+T306	PRON_PER 7356 7359	her
+T307	PRON_PER 7375 7382	herself
+T308	PRON_PER 7491 7494	her
+T309	PRON_PER 7547 7550	She
+T310	PRON_PER 7671 7674	her
+T311	PRON_PER 7752 7755	her
+T312	PRON_PER 7882 7885	she
+T313	PRON_PER 7922 7926	they
+T314	PRON_PER 7981 7984	her
+T315	PRON_PER 8248 8251	her
+T316	PRON_PER 8603 8606	her
+T317	PRON_PER 8629 8631	we
+T318	PRON_PER 8650 8653	her
+T319	PRON_PER 8761 8764	her
+T320	PRON_PER 8767 8770	she
+T321	PRON_PER 8775 8778	her
+T322	PRON_PER 8862 8864	we
+T323	PRON_PER 8947 8950	our
+T324	PRON_PER 8971 8974	she
+T325	PRON_PER 9145 9147	we
+T326	PRON_PER 9229 9232	she
+T327	PRON_PER 9281 9284	her
+T328	PRON_PER 9301 9302	I
+T329	PRON_PER 9318 9321	her
+T330	PRON_PER 9365 9368	her
+T331	PRON_PER 9427 9430	her
+T332	PRON_PER 9467 9470	her
+T333	PRON_PER 9510 9513	she
+T335	PRON_PER 9878 9881	her
+T336	PRON_PER 9961 9965	them
+T337	PRON_PER 10039 10042	her
+T338	PRON_PER 10077 10080	she
+T339	PRON_PER 10119 10122	she
+T340	PRON_PER 10271 10274	her
+T482	Chiswick_Mall-0 10 23	Chiswick Mall
+T343	Barbara_Pinkerton-1 148 162	Miss Pinkerton
+T483	Miss_Pinkerton__s_academy_for_young_ladies-2 148 190	Miss Pinkerton 's academy for young ladies
+T345	young_ladies-3 178 190	young ladies
+T484	Chiswick_Mall-4 196 209	Chiswick Mall
+T344	a_large_family_coach-5 212 232	a large family coach
+T342	a_fat_coachman-6 286 300	a fat coachman
+T485	A_black_servant-7 371 386	A black servant
+T348	the_fat_coachman-8 419 435	the fat coachman
+T581	A_black_servant-7 447 450	his
+T346	Barbara_Pinkerton-1 503 517	Miss Pinkerton
+T582	A_black_servant-7 550 552	he
+T347	the_stately_old_brick_house-9 648 675	the stately old brick house
+T350	the_acute_observer-10 684 702	the acute observer
+T349	Barbara_Pinkerton-1 841 850	that lady
+T486	that_lady__s_own_drawing-room-11 841 870	that lady 's own drawing-room
+T354	Mrs__Sedley-12 881 892	Mrs. Sedley
+T488	A_black_servant-7 936 941	Sambo
+T355	a_fat_coachman-6 993 1005	the coachman
+T351	Jemima_Pinkerton-15 748 782	good-natured Miss Jemima Pinkerton
+T583	Jemima_Pinkerton-15 783 790	herself
+T352	Jemima_Pinkerton-15 920 931	Miss Jemima
+T487	Barbara_Pinkerton-1 904 910	sister
+T353	a_large_family_coach-5 881 901	Mrs. Sedley 's coach
+T584	Jemima_Pinkerton-15 1041 1044	you
+T357	Amelia_Sedley-16 1098 1109	Miss Sedley
+T489	Jemima_Pinkerton-15 1125 1136	Miss Jemima
+T358	Barbara_Pinkerton-1 1147 1161	Miss Pinkerton
+T585	Barbara_Pinkerton-1 1162 1169	herself
+T493	Hammersmith-17 1210 1221	Hammersmith
+T361	Doctor_Johnson-18 1238 1252	Doctor Johnson
+T359	Mrs__Chapone-19 1276 1288	Mrs. Chapone
+T586	Mrs__Chapone-19 1289 1296	herself
+T362	The_girls-20 1301 1310	The girls
+T587	Amelia_Sedley-16 1350 1353	her
+T494	Barbara_Pinkerton-1 1363 1369	sister
+T363	Jemima_Pinkerton-15 1382 1393	Miss Jemima
+T588	we-21 1398 1400	we
+T589	Amelia_Sedley-16 1411 1414	her
+T364	Jemima_Pinkerton-15 1447 1460	sister Jemima
+T590	Jemima_Pinkerton-15 1533 1534	I
+T365	Mrs__Sedley-12 1588 1599	Mrs. Sedley
+T495	Amelia_Sedley-16 1637 1643	Amelia
+T591	Barbara_Pinkerton-1 1661 1662	I
+T366	Jemima_Pinkerton-15 1671 1682	Miss Jemima
+T592	Jemima_Pinkerton-15 1685 1688	you
+T367	Amelia_Sedley-16 1709 1720	Miss Sedley
+T369	John_Sedley___Esquire-22 1839 1860	John Sedley , Esquire
+T593	Barbara_Pinkerton-1 1893 1894	I
+T368	Mrs__Sedley-12 1911 1919	his lady
+T594	John_Sedley___Esquire-22 1911 1914	his
+T370	Jemima_Pinkerton-15 1927 1938	Miss Jemima
+T371	Barbara_Pinkerton-1 1970 1980	her sister
+T595	Jemima_Pinkerton-15 1970 1973	her
+T372	Barbara_Pinkerton-1 1983 1997	Miss Pinkerton
+T378	Pinkerton_Academy_ladies-23 2093 2103	her pupils
+T596	Barbara_Pinkerton-1 2093 2096	her
+T597	Pinkerton_Academy_ladies-23 2140 2144	they
+T379	poor_Miss_Birch-24 2188 2203	poor Miss Birch
+T377	Barbara_Pinkerton-1 2236 2250	Miss Pinkerton
+T375	the_parents_of_her_pupils-25 2280 2305	the parents of her pupils
+T374	Pinkerton_Academy_ladies-23 2295 2305	her pupils
+T598	Barbara_Pinkerton-1 2295 2298	her
+T381	Jemima_Pinkerton-15 2319 2325	Jemima
+T380	Mrs__Birch-26 2368 2378	Mrs. Birch
+T376	poor_Miss_Birch-24 2383 2395	her daughter
+T599	Mrs__Birch-26 2383 2386	her
+T373	Barbara_Pinkerton-1 2463 2477	Miss Pinkerton
+T382	Barbara_Pinkerton-1 2524 2538	Miss Pinkerton
+T496	Chiswick_Mall-0 2586 2594	The Mall
+T498	Mrs__Sedley-12 2621 2626	MADAM
+T600	Amelia_Sedley-16 2638 2641	her
+T499	Chiswick_Mall-0 2667 2675	the Mall
+T601	Barbara_Pinkerton-1 2678 2679	I
+T383	Amelia_Sedley-16 2724 2742	Miss Amelia Sedley
+T384	her_parents-27 2746 2757	her parents
+T602	Amelia_Sedley-16 2746 2749	her
+T603	her_parents-27 2821 2826	their
+T386	the_young_English_gentlewoman-28 2890 2919	the young English gentlewoman
+T604	the_young_English_gentlewoman-28 2957 2960	her
+T387	Amelia_Sedley-16 3010 3033	the amiable Miss Sedley
+T605	Amelia_Sedley-16 3079 3082	her
+T385	her_instructors-29 3086 3101	her instructors
+T606	Amelia_Sedley-16 3086 3089	her
+T501	her_AGED_and_her_YOUTHFUL_companions-30 3157 3193	her AGED and her YOUTHFUL companions
+T607	Amelia_Sedley-16 3157 3160	her
+T608	Amelia_Sedley-16 3170 3173	her
+T609	Amelia_Sedley-16 3285 3288	she
+T389	her_friends-31 3320 3331	her friends
+T610	Amelia_Sedley-16 3320 3323	her
+T390	every_young_lady_of_FASHION-32 3612 3639	every young lady of FASHION
+T391	Amelia_Sedley-16 3687 3698	Miss Sedley
+T392	Mrs__Chapone-19 3830 3856	the admirable Mrs. Chapone
+T502	Chiswick_Mall-0 3870 3878	the Mall
+T393	Amelia_Sedley-16 3881 3892	Miss Amelia
+T611	Amelia_Sedley-16 3906 3909	her
+T395	her_friends-31 3924 3938	her companions
+T612	Amelia_Sedley-16 3924 3927	her
+T503	Barbara_Pinkerton-1 3973 3985	her mistress
+T613	Amelia_Sedley-16 3973 3976	her
+T614	Barbara_Pinkerton-1 4020 4027	herself
+T504	Mrs__Sedley-12 4030 4035	Madam
+T505	Barbara_Pinkerton-1 4038 4070	Your most obliged humble servant
+T615	Mrs__Sedley-12 4038 4042	Your
+T506	Barbara_Pinkerton-1 4073 4090	BARBARA PINKERTON
+T394	Becky_Sharp-34 4099 4109	Miss Sharp
+T396	Amelia_Sedley-16 4122 4133	Miss Sedley
+T397	Becky_Sharp-34 4170 4180	Miss Sharp
+T398	Russell_Square-35 4192 4206	Russell Square
+T507	The_family_of_distinction_with_whom_she_is_engaged-36 4233 4283	The family of distinction with whom she is engaged
+T616	Becky_Sharp-34 4269 4272	she
+T617	The_family_of_distinction_with_whom_she_is_engaged-36 4302 4312	themselves
+T618	Becky_Sharp-34 4316 4319	her
+T400	Barbara_Pinkerton-1 4375 4389	Miss Pinkerton
+T619	Barbara_Pinkerton-1 4409 4412	her
+T402	Amelia_Sedley-16 4428 4439	Miss Sedley
+T620	Barbara_Pinkerton-1 4518 4521	she
+T401	Pinkerton_Academy_ladies-23 4546 4558	her scholars
+T621	Barbara_Pinkerton-1 4546 4549	her
+T622	Pinkerton_Academy_ladies-23 4564 4569	their
+T399	Chiswick_Mall-0 4585 4593	the Mall
+T388	Doctor_Johnson-18 3783 3806	THE GREAT LEXICOGRAPHER
+T405	a_young_lady-37 4653 4665	a young lady
+T403	Barbara_Pinkerton-1 4678 4692	Miss Pinkerton
+T508	Miss_Pinkerton__s_academy_for_young_ladies-2 4678 4702	Miss Pinkerton 's school
+T509	Chiswick_Mall-0 4708 4716	the Mall
+T404	Doctor_Johnson-18 4722 4760	the late revered Doctor Samuel Johnson
+T408	Doctor_Johnson-18 4775 4792	the Lexicographer
+T407	Barbara_Pinkerton-1 4827 4846	this majestic woman
+T623	Doctor_Johnson-18 4861 4863	he
+T624	Barbara_Pinkerton-1 4876 4879	her
+T625	Barbara_Pinkerton-1 4897 4900	her
+T626	Barbara_Pinkerton-1 4916 4919	her
+T410	Barbara_Pinkerton-1 4949 4965	her elder sister
+T627	Jemima_Pinkerton-15 4949 4952	her
+T409	Jemima_Pinkerton-15 5012 5023	Miss Jemima
+T411	Barbara_Pinkerton-1 5100 5114	Miss Pinkerton
+T406	Jemima_Pinkerton-15 5159 5165	Jemima
+T628	Barbara_Pinkerton-1 5213 5216	her
+T412	Jemima_Pinkerton-15 5251 5262	Miss Jemima
+T413	Barbara_Pinkerton-1 5272 5286	Miss Pinkerton
+T415	Becky_Sharp-34 5317 5328	Becky Sharp
+T510	Jemima_Pinkerton-15 5342 5348	Jemima
+T629	Jemima_Pinkerton-15 5391 5394	her
+T630	Jemima_Pinkerton-15 5423 5426	she
+T631	Jemima_Pinkerton-15 5434 5437	her
+T414	Barbara_Pinkerton-1 5446 5456	her sister
+T632	Jemima_Pinkerton-15 5446 5449	her
+T416	Becky_Sharp-34 5465 5476	Becky Sharp
+T633	Becky_Sharp-34 5479 5482	she
+T511	Jemima_Pinkerton-15 5502 5513	MISS JEMIMA
+T417	Barbara_Pinkerton-1 5528 5542	Miss Pinkerton
+T634	Jemima_Pinkerton-15 5577 5580	you
+T635	Jemima_Pinkerton-15 5584 5588	your
+T419	the_cupboard-38 5622 5632	the closet
+T418	Barbara_Pinkerton-1 5699 5705	sister
+T420	Becky_Sharp-34 5743 5753	poor Becky
+T636	Becky_Sharp-34 5775 5778	she
+T421	Amelia_Sedley-16 5805 5816	Miss Sedley
+T637	Barbara_Pinkerton-1 5830 5832	me
+T422	Barbara_Pinkerton-1 5842 5856	Miss Pinkerton
+T423	Jemima_Pinkerton-15 5902 5913	poor Jemima
+T424	Amelia_Sedley-16 5963 5974	Miss Sedley
+T427	John_Sedley___Esquire-22 5963 5982	Miss Sedley 's papa
+T425	London-39 6001 6007	London
+T428	John_Sedley___Esquire-22 6014 6034	a man of some wealth
+T426	Becky_Sharp-34 6045 6055	Miss Sharp
+T429	Barbara_Pinkerton-1 6089 6103	Miss Pinkerton
+T638	Barbara_Pinkerton-1 6118 6121	she
+T639	Becky_Sharp-34 6171 6174	her
+T437	schoolmistresses-40 6229 6245	schoolmistresses
+T513	churchyard-41 6296 6306	churchyard
+T436	a_person-42 6353 6361	a person
+T435	the_stone_cutter-43 6423 6439	the stone cutter
+T640	a_person-42 6452 6455	his
+T514	a_good_Christian-44 6471 6487	a good Christian
+T431	a_good_parent-45 6490 6503	a good parent
+T434	child-46 6506 6511	child
+T432	wife-47 6514 6518	wife
+T433	husband-48 6524 6531	husband
+T515	a_disconsolate_family-49 6558 6579	a disconsolate family
+T641	a_person-42 6589 6592	his
+T474	academies_of_the_male_and_female_sex-50 6606 6642	academies of the male and female sex
+T430	the_pupil-51 6677 6686	the pupil
+T438	the_disinterested_instructor-52 6730 6758	the disinterested instructor
+T443	Amelia_Sedley-16 6767 6785	Miss Amelia Sedley
+T442	Barbara_Pinkerton-1 6861 6875	Miss Pinkerton
+T642	Amelia_Sedley-16 6884 6887	her
+T439	Barbara_Pinkerton-1 6940 6970	pompous old Minerva of a woman
+T441	a_woman-53 6963 6970	a woman
+T440	Amelia_Sedley-16 7032 7041	her pupil
+T643	Barbara_Pinkerton-1 7032 7035	her
+T644	Barbara_Pinkerton-1 7046 7053	herself
+T645	Amelia_Sedley-16 7060 7063	she
+T445	Mrs__Billington-54 7103 7118	Mrs. Billington
+T446	Hillisberg-55 7136 7146	Hillisberg
+T517	Parisot-56 7150 7157	Parisot
+T646	Amelia_Sedley-16 7233 7236	she
+T647	Amelia_Sedley-16 7303 7306	her
+T518	everybody_who_came_near_her-57 7332 7359	everybody who came near her
+T648	Amelia_Sedley-16 7356 7359	her
+T519	Barbara_Pinkerton-1 7367 7374	Minerva
+T649	Barbara_Pinkerton-1 7375 7382	herself
+T447	the_poor_girl_in_the_scullery-58 7391 7420	the poor girl in the scullery
+T520	the_scullery-59 7408 7420	the scullery
+T449	the_one-eyed_tart-woman-60 7427 7450	the one-eyed tart-woman
+T448	the_one-eyed_tart-woman__s_daughter-61 7427 7462	the one-eyed tart-woman 's daughter
+T650	the_one-eyed_tart-woman__s_daughter-61 7491 7494	her
+T444	Pinkerton_Academy_ladies-23 7516 7544	the young ladies in the Mall
+T521	Chiswick_Mall-0 7536 7544	the Mall
+T651	Amelia_Sedley-16 7547 7550	She
+T450	twelve_intimate_and_bosom_friends-62 7555 7588	twelve intimate and bosom friends
+T451	the_twenty-four_young_ladies-63 7596 7624	the twenty-four young ladies
+T455	envious_Miss_Briggs-64 7632 7651	envious Miss Briggs
+T652	Amelia_Sedley-16 7671 7674	her
+T522	Miss_Saltire-65 7693 7705	Miss Saltire
+T452	Lord_Dexter-66 7708 7719	Lord Dexter
+T653	Amelia_Sedley-16 7752 7755	her
+T524	Miss_Swartz-67 7788 7799	Miss Swartz
+T456	St__Kitt-68 7838 7846	St. Kitt
+T525	Amelia_Sedley-16 7863 7869	Amelia
+T654	Miss_Swartz-67 7882 7885	she
+T655	they-69 7922 7926	they
+T453	Dr__Floss-70 7952 7961	Dr. Floss
+T656	Miss_Swartz-67 7981 7984	her
+T458	Barbara_Pinkerton-1 8004 8018	Miss Pinkerton
+T459	Barbara_Pinkerton-1 8104 8113	that lady
+T460	Jemima_Pinkerton-15 8141 8152	Miss Jemima
+T461	Amelia_Sedley-16 8204 8210	Amelia
+T463	Barbara_Pinkerton-1 8248 8258	her sister
+T657	Jemima_Pinkerton-15 8248 8251	her
+T457	Miss_Swartz-67 8311 8357	the heiress ( who paid double ) of St. Kitt 's
+T462	St__Kitt-68 8346 8357	St. Kitt 's
+T526	parlour-boarders-71 8412 8428	parlour-boarders
+T464	Jemima_Pinkerton-15 8431 8444	Honest Jemima
+T465	servants-72 8557 8565	servants
+T658	Jemima_Pinkerton-15 8603 8606	her
+T659	we-73 8629 8631	we
+T660	Jemima_Pinkerton-15 8650 8653	her
+T661	Jemima_Pinkerton-15 8761 8764	her
+T662	Jemima_Pinkerton-15 8767 8770	she
+T466	Barbara_Pinkerton-1 8775 8791	her awful sister
+T663	Jemima_Pinkerton-15 8775 8778	her
+T664	we-74 8862 8864	we
+T467	Amelia_Sedley-16 8892 8898	Amelia
+T665	our-75 8947 8950	our
+T666	Amelia_Sedley-16 8971 8974	she
+T469	villains_of_the_most_sombre_sort-76 9105 9137	villains of the most sombre sort
+T667	we-77 9145 9147	we
+T470	Amelia_Sedley-16 9164 9223	a constant companion so guileless and good-natured a person
+T668	Amelia_Sedley-16 9229 9232	she
+T475	Amelia_Sedley-16 9281 9291	her person
+T669	Amelia_Sedley-16 9281 9284	her
+T670	Narrator-78 9301 9302	I
+T671	Amelia_Sedley-16 9318 9321	her
+T672	Amelia_Sedley-16 9365 9368	her
+T471	a_heroine-79 9411 9420	a heroine
+T673	Amelia_Sedley-16 9427 9430	her
+T674	Amelia_Sedley-16 9467 9470	her
+T675	Amelia_Sedley-16 9510 9513	she
+T677	Amelia_Sedley-16 9878 9881	her
+T472	any_persons-80 9889 9900	any persons
+T678	any_persons-80 9961 9965	them
+T473	Barbara_Pinkerton-1 9973 9987	Miss Pinkerton
+T679	Amelia_Sedley-16 10039 10042	her
+T680	Barbara_Pinkerton-1 10077 10080	she
+T681	Barbara_Pinkerton-1 10119 10122	she
+T479	all_masters-81 10142 10153	all masters
+T478	teachers-82 10158 10166	teachers
+T477	Amelia_Sedley-16 10194 10205	Miss Sedley
+T682	Amelia_Sedley-16 10271 10274	her
+R1	appos Arg1:T14 Arg2:T146
+R2	appos Arg1:T148 Arg2:T243
+R3	appos Arg1:T149 Arg2:T243
+R4	appos Arg1:T150 Arg2:T243
+R5	appos Arg1:T18 Arg2:T243
+R7	cop Arg1:T158 Arg2:T41
+R8	cop Arg1:T170 Arg2:T84
+R9	cop Arg1:T174 Arg2:T101
+R10	appos Arg1:T181 Arg2:T180
+R11	appos Arg1:T112 Arg2:T182
+R12	cop Arg1:T185 Arg2:T324
+R14	appos Arg1:T139 Arg2:T131
+T134	chiswick-803 2597 2605	Chiswick
+T138	a_heroine-700 9240 9249	a heroine

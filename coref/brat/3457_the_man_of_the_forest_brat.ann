@@ -1,0 +1,488 @@
+T1	NOM_PER 133 176	the man who glided on under the great trees
+T2	NOM_PER 298 317	the White Mountains
+T3	NOM_LOC 543 566	all that mountain world
+T4	NOM_PER 881 898	the fierce Apache
+T6	NOM_LOC 1133 1143	the forest
+T7	NOM_PER 1126 1143	man of the forest
+T9	NOM_PER 1845 1852	friends
+T10	NOM_PER 1892 1907	the lone hunter
+T11	NOM_PER 1855 1870	That fierce foe
+T12	PROP_PER 1989 1993	Dale
+T13	PROP_LOC 2114 2123	Old Baldy
+T14	NOM_FAC 2782 2798	an old log cabin
+T15	NOM_PER 2951 2958	Indians
+T16	NOM_FAC 3213 3222	the cabin
+T17	NOM_PER 3460 3466	riders
+T18	NOM_FAC 3865 3874	the cabin
+T21	NOM_FAC 4516 4525	the cabin
+T22	NOM_PER 4589 4602	this newcomer
+T24	PROP_PER 5010 5021	the Beasley
+T25	NOM_PER 5095 5113	the White Mountain
+T26	PROP_PER 5168 5179	Snake Anson
+T27	NOM_GPE 5332 5358	the little village of Pine
+T28	NOM_PER 5302 5309	herders
+T29	NOM_PER 5395 5404	Other men
+T30	NOM_FAC 5413 5422	the cabin
+T32	PROP_PER 5677 5680	Jim
+T33	PROP_PER 5945 5950	Snake
+T35	NOM_LOC 5990 6001	these woods
+T37	PROP_PER 6014 6017	Jim
+T38	NOM_FAC 6190 6199	the cabin
+T39	NOM_PER 6489 6496	the men
+T40	PROP_PER 6591 6602	Snake Anson
+T41	NOM_PER 6671 6678	friends
+T42	PROP_PER 6732 6737	Snake
+T44	PROP_PER 7288 7295	Beasley
+T45	PROP_PER 7309 7312	Jim
+T46	NOM_PER 7360 7370	the leader
+T49	NOM_PER 7611 7623	his comrades
+T50	NOM_PER 7691 7720	the man who had sent Moze out
+T51	PROP_PER 7712 7716	Moze
+T52	PROP_PER 7792 7802	Jim Wilson
+T54	NOM_LOC 7839 7854	the Tonto Basin
+T57	NOM_FAC 8179 8188	the cabin
+T58	NOM_PER 8355 8362	The men
+T59	PROP_PER 8442 8453	Snake Anson
+T60	NOM_PER 8791 8803	The newcomer
+T61	NOM_FAC 9392 9401	the cabin
+T62	NOM_PER 9365 9377	Snake 's men
+T64	NOM_LOC 25 35	the forest
+T65	NOM_LOC 255 272	the wild woodland
+T66	PROP_LOC 275 284	Old Baldy
+T67	NOM_LOC 507 537	the black spear-pointed slopes
+T68	NOM_LOC 636 648	dark forests
+T69	NOM_LOC 653 665	grassy parks
+T70	NOM_LOC 576 665	a wild , richly timbered , and abundantly watered region of dark forests and grassy parks
+T5	NOM_LOC 729 756	the southern Arizona desert
+T71	NOM_LOC 760 828	the virgin home of elk and deer , of bear and lion , of wolf and fox
+T72	NOM_LOC 835 898	the birthplace as well as the hiding-place of the fierce Apache
+T73	PROP_PER 1114 1123	Milt Dale
+T74	NOM_LOC 1168 1184	a timbered ridge
+T75	NOM_LOC 1228 1311	a narrow valley , open and grassy , from which rose a faint murmur of running water
+T8	NOM_LOC 1497 1507	the valley
+T76	PROP_PER 1571 1575	Dale
+T77	NOM_LOC 1670 1680	forestland
+T78	NOM_PER 1741 1750	white men
+T79	NOM_PER 1829 1839	the Indian
+T80	NOM_LOC 1937 1947	the forest
+T81	NOM_PER 1968 1981	sheep-thieves
+T82	NOM_PER 1958 1965	bad men
+T83	NOM_PER 1948 2014	a gang of bad men , sheep-thieves , whom Dale did not want to meet
+T84	NOM_LOC 2040 2049	the slope
+T85	NOM_LOC 2134 2144	the valley
+T86	NOM_LOC 2247 2256	the brook
+T87	PROP_PER 2279 2283	Dale
+T88	NOM_LOC 2310 2320	the valley
+T89	NOM_LOC 2373 2382	the brook
+T90	PROP_PER 2555 2559	Dale
+T91	NOM_LOC 2637 2647	the valley
+T92	NOM_FAC 2716 2728	his own camp
+T93	NOM_FAC 2878 2888	This cabin
+T94	NOM_LOC 2924 2935	the valleys
+T95	PROP_PER 3032 3036	Dale
+T96	NOM_PER 3313 3369	dim , moving forms in the darkness , quite close at hand
+T97	PROP_PER 3469 3473	Dale
+T98	NOM_FAC 3603 3609	a loft
+T99	PROP_PER 3885 3892	Beasley
+T100	PROP_PER 3879 3882	Wal
+T101	NOM_PER 3956 3963	The man
+T102	PROP_PER 4039 4046	Beasley
+T103	NOM_PER 4029 4036	Fellars
+T19	PROP_PER 4232 4236	Moze
+T20	PROP_PER 4530 4535	Snake
+T104	PROP_PER 4619 4622	Jim
+T105	PROP_PER 4676 4683	Beasley
+T106	PROP_PER 4717 4721	Dale
+T23	PROP_PER 4836 4847	Snake Anson
+T107	NOM_LOC 4892 4902	the region
+T108	NOM_PER 4850 4902	the worst and most dangerous character of the region
+T109	NOM_PER 4945 4953	his gang
+T110	NOM_LOC 4974 5003	that sparsely settled country
+T111	NOM_PER 5049 5120	the two biggest ranchers and sheep-raisers of the White Mountain ranges
+T112	NOM_PER 5042 5120	one of the two biggest ranchers and sheep-raisers of the White Mountain ranges
+T113	PROP_PER 5184 5191	Beasley
+T114	PROP_PER 5194 5203	Milt Dale
+T115	PROP_PER 5230 5237	Beasley
+T116	PROP_PER 5525 5528	Jim
+T31	NOM_PER 5582 5589	another
+T117	PROP_PER 5806 5811	Snake
+T34	NOM_PER 5970 6001	the meanest cuss in these woods
+T36	PROP_PER 6123 6126	Jim
+T118	PROP_PER 6323 6327	Dale
+T119	PROP_GPE 6579 6583	Pine
+T120	NOM_PER 6539 6625	Jim Wilson , who had been well known at Pine before Snake Anson had ever been heard of
+T122	NOM_PER 6685 6702	the honest people
+T123	PROP_PER 6804 6808	Moze
+T124	PROP_PER 6923 6927	Moze
+T43	PROP_PER 7044 7048	Moze
+T125	PROP_PER 7095 7106	Snake Anson
+T126	PROP_PER 7252 7257	Snake
+T47	NOM_PER 7445 7470	them poor greaser herders
+T48	NOM_PER 7515 7523	the gang
+T127	NOM_PER 7499 7523	the youngest of the gang
+T128	NOM_PER 7526 7623	a boy in years , whose hard , bitter lips and hungry eyes somehow set him apart from his comrades
+T129	PROP_PER 7649 7653	Burt
+T130	PROP_PER 7725 7730	Snake
+T53	NOM_LOC 7759 7770	these woods
+T131	NOM_LOC 7866 7874	the Gila
+T132	PROP_PER 7951 7956	Snake
+T55	PROP_PER 7985 7989	Moze
+T133	NOM_PER 8003 8007	Boss
+T134	PROP_PER 8060 8065	Snake
+T135	PROP_PER 8213 8218	Snake
+T136	PROP_PER 8297 8301	Dale
+T137	NOM_FAC 8329 8344	the rocky trail
+T138	PROP_PER 8680 8685	Anson
+T139	PROP_PER 8701 8706	Snake
+T140	PROP_PER 8765 8770	Anson
+T141	NOM_PER 8821 8884	a large man , wearing a slicker that shone wet in the firelight
+T142	PROP_PER 9168 9173	Snake
+T143	PROP_PER 9184 9190	Wilson
+T144	PROP_PER 9425 9430	Anson
+T145	PROP_PER 9471 9475	Moze
+T146	NOM_PER 9487 9492	Shady
+T63	PROP_PER 9498 9502	Burt
+T121	PROP_PER 6628 6631	Jim
+T147	NOM_PER 4805 4831	That deep-voiced man below
+T148	NOM_FAC 3019 3024	there
+T149	NOM_FAC 3903 3907	here
+T150	NOM_FAC 4054 4058	here
+T151	NOM_FAC 4348 4352	here
+T153	PRON_PER 1220 1223	him
+T155	PRON_PER 1683 1685	He
+T156	PRON_PER 1701 1703	he
+T157	PRON_PER 1816 1819	him
+T158	PRON_PER 1822 1824	He
+T159	PRON_PER 2020 2022	he
+T160	PRON_PER 2588 2591	his
+T161	PRON_PER 2696 2698	he
+T162	PRON_PER 2716 2719	his
+T163	PRON_PER 2765 2768	his
+T164	PRON_PER 2806 2808	he
+T165	PRON_PER 2849 2851	He
+T166	PRON_PER 3085 3087	he
+T167	PRON_PER 3137 3140	his
+T168	PRON_PER 3202 3204	he
+T169	PRON_PER 3245 3247	he
+T170	PRON_PER 3306 3308	he
+T171	PRON_PER 3372 3376	They
+T172	PRON_PER 3490 3494	them
+T173	PRON_PER 3513 3515	he
+T174	PRON_PER 3545 3547	he
+T175	PRON_PER 3588 3590	he
+T176	PRON_PER 3629 3631	he
+T177	PRON_PER 3687 3690	his
+T178	PRON_PER 3761 3763	he
+T179	PRON_PER 3899 3902	you
+T180	PRON_PER 3984 3987	his
+T181	PRON_PER 4067 4069	he
+T182	PRON_PER 4113 4115	We
+T183	PRON_PER 4193 4195	we
+T184	PRON_PER 4246 4249	you
+T186	PRON_PER 4324 4327	you
+T187	PRON_PER 4629 4631	we
+T188	PRON_PER 4696 4698	us
+T189	PRON_PER 4773 4776	his
+T190	PRON_PER 4945 4948	his
+T191	PRON_PER 5035 5037	he
+T192	PRON_PER 5818 5820	me
+T193	PRON_PER 5821 5825	your
+T194	PRON_PER 5838 5839	I
+T195	PRON_PER 5878 5879	I
+T196	PRON_PER 5885 5887	my
+T197	PRON_PER 5902 5903	I
+T198	PRON_PER 5962 5965	you
+T199	PRON_PER 6386 6389	his
+T200	PRON_PER 6458 6460	he
+T201	PRON_PER 6518 6520	he
+T202	PRON_PER 6664 6666	he
+T203	PRON_PER 6725 6727	he
+T204	PRON_PER 6836 6838	he
+T205	PRON_PER 6900 6902	we
+T206	PRON_PER 6962 6964	my
+T207	PRON_PER 6986 6989	you
+T208	PRON_PER 6997 7000	you
+T209	PRON_PER 7146 7149	his
+T210	PRON_PER 7171 7174	his
+T211	PRON_PER 7196 7199	his
+T212	PRON_PER 7239 7242	his
+T213	PRON_PER 7324 7327	you
+T214	PRON_PER 7343 7344	I
+T215	PRON_PER 7373 7375	He
+T216	PRON_PER 7417 7419	we
+T217	PRON_PER 7445 7449	them
+T218	PRON_PER 7596 7599	him
+T219	PRON_PER 7611 7614	his
+T220	PRON_PER 7628 7631	You
+T221	PRON_PER 7670 7672	my
+T222	PRON_PER 7811 7813	we
+T223	PRON_PER 7888 7890	we
+T224	PRON_PER 7923 7925	we
+T225	PRON_PER 8010 8011	I
+T226	PRON_PER 8050 8052	he
+T227	PRON_PER 8401 8405	them
+T228	PRON_PER 8659 8667	yourself
+T229	PRON_PER 8695 8698	you
+T230	PRON_PER 8781 8788	himself
+T231	PRON_PER 8814 8816	He
+T232	PRON_PER 8887 8890	His
+T233	PRON_PER 8930 8933	his
+T234	PRON_PER 8967 8970	his
+T235	PRON_PER 9013 9015	He
+T236	PRON_PER 9142 9145	his
+T237	PRON_PER 9195 9197	he
+T238	PRON_PER 9207 9208	I
+T239	PRON_PER 9253 9256	you
+T240	PRON_PER 9320 9322	he
+T241	PRON_PER 9450 9452	he
+T242	PRON_PER 9478 9481	you
+T243	PRON_PER 9549 9550	I
+T244	PRON_PER 9571 9574	you
+T309	the_forest-0 25 35	the forest
+T246	Dale-1 133 176	the man who glided on under the great trees
+T310	the_wild_woodland-2 255 272	the wild woodland
+T311	Old_Baldy-3 275 284	Old Baldy
+T247	the_White_Mountains-4 298 317	the White Mountains
+T312	the_black_spear-pointed_slopes-5 507 537	the black spear-pointed slopes
+T248	all_that_mountain_world-6 543 566	all that mountain world
+T315	all_that_mountain_world-6 576 665	a wild , richly timbered , and abundantly watered region of dark forests and grassy parks
+T313	dark_forests-7 636 648	dark forests
+T314	grassy_parks-8 653 665	grassy parks
+T250	the_southern_Arizona_desert-9 729 756	the southern Arizona desert
+T317	the_birthplace_as_well_as_the_hiding-place_of_the_fierce_Apache-10 835 898	the birthplace as well as the hiding-place of the fierce Apache
+T249	the_fierce_Apache-11 881 898	the fierce Apache
+T318	Dale-1 1114 1123	Milt Dale
+T251	the_forest-0 1133 1143	the forest
+T319	a_timbered_ridge-12 1168 1184	a timbered ridge
+T398	Dale-1 1220 1223	him
+T320	a_narrow_valley___open_and_grassy___from_which_rose_a_faint_murmur_of_running_water-13 1228 1311	a narrow valley , open and grassy , from which rose a faint murmur of running water
+T253	a_narrow_valley___open_and_grassy___from_which_rose_a_faint_murmur_of_running_water-13 1497 1507	the valley
+T321	Dale-1 1571 1575	Dale
+T322	the_forest-0 1670 1680	forestland
+T400	Dale-1 1683 1685	He
+T401	Dale-1 1701 1703	he
+T323	white_men-14 1741 1750	white men
+T402	Dale-1 1816 1819	him
+T403	Dale-1 1822 1824	He
+T324	the_Indian-15 1829 1839	the Indian
+T254	friends-16 1845 1852	friends
+T256	the_Indian-15 1855 1870	That fierce foe
+T255	Dale-1 1892 1907	the lone hunter
+T325	the_forest-0 1937 1947	the forest
+T328	a_gang_of_bad_men___sheep-thieves___whom_Dale_did_not_want_to_meet-17 1948 2014	a gang of bad men , sheep-thieves , whom Dale did not want to meet
+T327	bad_men-18 1958 1965	bad men
+T257	Dale-1 1989 1993	Dale
+T404	Dale-1 2020 2022	he
+T329	the_slope-19 2040 2049	the slope
+T258	Old_Baldy-3 2114 2123	Old Baldy
+T330	a_narrow_valley___open_and_grassy___from_which_rose_a_faint_murmur_of_running_water-13 2134 2144	the valley
+T331	the_brook-20 2247 2256	the brook
+T332	Dale-1 2279 2283	Dale
+T333	a_narrow_valley___open_and_grassy___from_which_rose_a_faint_murmur_of_running_water-13 2310 2320	the valley
+T334	the_brook-20 2373 2382	the brook
+T335	Dale-1 2555 2559	Dale
+T405	Dale-1 2588 2591	his
+T336	a_narrow_valley___open_and_grassy___from_which_rose_a_faint_murmur_of_running_water-13 2637 2647	the valley
+T406	Dale-1 2696 2698	he
+T337	his_own_camp-21 2716 2728	his own camp
+T407	Dale-1 2716 2719	his
+T408	Dale-1 2765 2768	his
+T259	an_old_log_cabin-22 2782 2798	an old log cabin
+T409	Dale-1 2806 2808	he
+T410	Dale-1 2849 2851	He
+T338	an_old_log_cabin-22 2878 2888	This cabin
+T339	the_valleys-23 2924 2935	the valleys
+T260	Indians-24 2951 2958	Indians
+T393	an_old_log_cabin-22 3019 3024	there
+T340	Dale-1 3032 3036	Dale
+T411	Dale-1 3085 3087	he
+T412	Dale-1 3137 3140	his
+T413	Dale-1 3202 3204	he
+T261	an_old_log_cabin-22 3213 3222	the cabin
+T414	Dale-1 3245 3247	he
+T415	Dale-1 3306 3308	he
+T341	men_coming_to_cabin-25 3313 3369	dim , moving forms in the darkness , quite close at hand
+T416	men_coming_to_cabin-25 3372 3376	They
+T262	men_coming_to_cabin-25 3460 3466	riders
+T342	Dale-1 3469 3473	Dale
+T417	men_coming_to_cabin-25 3490 3494	them
+T418	Dale-1 3513 3515	he
+T419	Dale-1 3545 3547	he
+T420	Dale-1 3588 3590	he
+T343	a_loft-26 3603 3609	a loft
+T421	Dale-1 3629 3631	he
+T422	Dale-1 3687 3690	his
+T423	Dale-1 3761 3763	he
+T263	an_old_log_cabin-22 3865 3874	the cabin
+T345	Wal-27 3879 3882	Wal
+T344	Beasley-28 3885 3892	Beasley
+T424	Wal___Beasley-29 3899 3902	you
+T394	an_old_log_cabin-22 3903 3907	here
+T346	Snake-30 3956 3963	The man
+T425	Snake-30 3984 3987	his
+T348	Fellars-31 4029 4036	Fellars
+T347	Beasley-28 4039 4046	Beasley
+T395	an_old_log_cabin-22 4054 4058	here
+T426	Snake-30 4067 4069	he
+T427	men_coming_to_cabin-25 4113 4115	We
+T428	men_coming_to_cabin-25 4193 4195	we
+T264	Moze-32 4232 4236	Moze
+T429	Moze-32 4246 4249	you
+T431	all_but_ringleader-33 4324 4327	you
+T396	an_old_log_cabin-22 4348 4352	here
+T266	an_old_log_cabin-22 4516 4525	the cabin
+T265	Snake-30 4530 4535	Snake
+T267	Jim-34 4589 4602	this newcomer
+T349	Jim-34 4619 4622	Jim
+T432	men_coming_to_cabin-25 4629 4631	we
+T350	Beasley-28 4676 4683	Beasley
+T433	us-35 4696 4698	us
+T351	Dale-1 4717 4721	Dale
+T434	Dale-1 4773 4776	his
+T392	Snake-30 4805 4831	That deep-voiced man below
+T352	the_region-36 4892 4902	the region
+T354	a_gang_of_bad_men___sheep-thieves___whom_Dale_did_not_want_to_meet-17 4945 4953	his gang
+T435	Snake-30 4945 4948	his
+T355	the_region-36 4974 5003	that sparsely settled country
+T269	Beasley-28 5010 5021	the Beasley
+T436	Beasley-28 5035 5037	he
+T356	the_two_biggest_ranchers_and_sheep-raisers_of_the_White_Mountain_ranges-37 5049 5120	the two biggest ranchers and sheep-raisers of the White Mountain ranges
+T270	the_White_Mountains-4 5095 5113	the White Mountain
+T271	Snake-30 5168 5179	Snake Anson
+T358	Beasley-28 5184 5191	Beasley
+T359	Dale-1 5194 5203	Milt Dale
+T360	Beasley-28 5230 5237	Beasley
+T273	herders-38 5302 5309	herders
+T272	the_little_village_of_Pine-39 5332 5358	the little village of Pine
+T274	Other_men-40 5395 5404	Other men
+T275	an_old_log_cabin-22 5413 5422	the cabin
+T361	Jim-34 5525 5528	Jim
+T276	another-41 5582 5589	another
+T277	Jim-34 5677 5680	Jim
+T362	Snake-30 5806 5811	Snake
+T437	Jim-34 5818 5820	me
+T438	Snake-30 5821 5825	your
+T439	Jim-34 5838 5839	I
+T440	Snake-30 5878 5879	I
+T441	Snake-30 5885 5887	my
+T442	Snake-30 5902 5903	I
+T278	Snake-30 5945 5950	Snake
+T443	Snake-30 5962 5965	you
+T280	the_forest-0 5990 6001	these woods
+T282	Jim-34 6014 6017	Jim
+T281	Jim-34 6123 6126	Jim
+T283	an_old_log_cabin-22 6190 6199	the cabin
+T363	Dale-1 6323 6327	Dale
+T444	Dale-1 6386 6389	his
+T445	Dale-1 6458 6460	he
+T284	men_coming_to_cabin-25 6489 6496	the men
+T446	Dale-1 6518 6520	he
+T365	Jim-34 6539 6625	Jim Wilson , who had been well known at Pine before Snake Anson had ever been heard of
+T364	the_little_village_of_Pine-39 6579 6583	Pine
+T285	Snake-30 6591 6602	Snake Anson
+T366	Jim-34 6628 6631	Jim
+T447	Jim-34 6664 6666	he
+T286	friends-42 6671 6678	friends
+T367	the_honest_people-43 6685 6702	the honest people
+T448	Jim-34 6725 6727	he
+T287	Snake-30 6732 6737	Snake
+T368	Moze-32 6804 6808	Moze
+T449	Moze-32 6836 6838	he
+T450	Moze-32 6900 6902	we
+T369	Moze-32 6923 6927	Moze
+T451	my-44 6962 6964	my
+T452	Moze-32 6986 6989	you
+T453	Moze-32 6997 7000	you
+T288	Moze-32 7044 7048	Moze
+T370	Snake-30 7095 7106	Snake Anson
+T454	Snake-30 7146 7149	his
+T455	Snake-30 7171 7174	his
+T456	Snake-30 7196 7199	his
+T457	Snake-30 7239 7242	his
+T371	Snake-30 7252 7257	Snake
+T289	Beasley-28 7288 7295	Beasley
+T290	Jim-34 7309 7312	Jim
+T458	Jim-34 7324 7327	you
+T459	Snake-30 7343 7344	I
+T291	Snake-30 7360 7370	the leader
+T460	Snake-30 7373 7375	He
+T461	men_coming_to_cabin-25 7417 7419	we
+T292	them_poor_greaser_herders-45 7445 7470	them poor greaser herders
+T462	them_poor_greaser_herders-45 7445 7449	them
+T372	the_youngest_of_the_gang-46 7499 7523	the youngest of the gang
+T293	a_gang_of_bad_men___sheep-thieves___whom_Dale_did_not_want_to_meet-17 7515 7523	the gang
+T373	the_youngest_of_the_gang-46 7526 7623	a boy in years , whose hard , bitter lips and hungry eyes somehow set him apart from his comrades
+T463	the_youngest_of_the_gang-46 7596 7599	him
+T294	his_comrades-47 7611 7623	his comrades
+T464	the_youngest_of_the_gang-46 7611 7614	his
+T465	the_youngest_of_the_gang-46 7628 7631	You
+T374	the_youngest_of_the_gang-46 7649 7653	Burt
+T466	my-44 7670 7672	my
+T295	my-44 7691 7720	the man who had sent Moze out
+T296	Moze-32 7712 7716	Moze
+T375	Snake-30 7725 7730	Snake
+T298	the_forest-0 7759 7770	these woods
+T297	Jim-34 7792 7802	Jim Wilson
+T467	all_men-48 7811 7813	we
+T299	the_Tonto_Basin-49 7839 7854	the Tonto Basin
+T376	the_Gila-50 7866 7874	the Gila
+T377	Snake-30 7951 7956	Snake
+T300	Moze-32 7985 7989	Moze
+T378	Snake-30 8003 8007	Boss
+T470	Moze-32 8010 8011	I
+T471	Moze-32 8050 8052	he
+T379	Snake-30 8060 8065	Snake
+T302	an_old_log_cabin-22 8179 8188	the cabin
+T380	Snake-30 8213 8218	Snake
+T381	Dale-1 8297 8301	Dale
+T382	the_rocky_trail-51 8329 8344	the rocky trail
+T468	men_coming_to_cabin-25 7888 7890	we
+T469	men_coming_to_cabin-25 7923 7925	we
+T303	men_coming_to_cabin-25 8355 8362	The men
+T472	men_coming_to_cabin-25 8401 8405	them
+T304	Snake-30 8442 8453	Snake Anson
+T473	yourself-52 8659 8667	yourself
+T383	Snake-30 8680 8685	Anson
+T474	Snake-30 8695 8698	you
+T384	Snake-30 8701 8706	Snake
+T385	Snake-30 8765 8770	Anson
+T475	Snake-30 8781 8788	himself
+T305	The_newcomer-53 8791 8803	The newcomer
+T476	The_newcomer-53 8814 8816	He
+T477	The_newcomer-53 8887 8890	His
+T478	The_newcomer-53 8930 8933	his
+T479	The_newcomer-53 8967 8970	his
+T480	The_newcomer-53 9013 9015	He
+T481	The_newcomer-53 9142 9145	his
+T387	Snake-30 9168 9173	Snake
+T388	The_newcomer-53 9184 9190	Wilson
+T482	Snake-30 9195 9197	he
+T483	The_newcomer-53 9207 9208	I
+T484	Snake-30 9253 9256	you
+T485	The_newcomer-53 9320 9322	he
+T307	men_coming_to_cabin-25 9365 9377	Snake 's men
+T306	an_old_log_cabin-22 9392 9401	the cabin
+T389	Snake-30 9425 9430	Anson
+T486	Snake-30 9450 9452	he
+T390	Moze-32 9471 9475	Moze
+T487	Moze-32 9478 9481	you
+T391	Shady-54 9487 9492	Shady
+T308	Burt-55 9498 9502	Burt
+T488	Snake-30 9549 9550	I
+T489	you-56 9571 9574	you
+R2	appos Arg1:T7 Arg2:T73
+R3	appos Arg1:T81 Arg2:T82
+R4	cop Arg1:T23 Arg2:T147
+R5	appos Arg1:T108 Arg2:T23
+R6	cop Arg1:T112 Arg2:T191
+R7	cop Arg1:T34 Arg2:T198
+R8	cop Arg1:T141 Arg2:T231
+T245	NOM_PER 8018 8024	a hoss
+T252	The_newcomer-53 8018 8024	a hoss
+T498	PRON_FAC 2817 2819	it
+T499	an_old_log_cabin-22 2817 2819	it
+T56	all_that_mountain_world-6 760 828	the virgin home of elk and deer , of bear and lion , of wolf and fox
+T152	NOM_PER 8393 8405	none of them
+T154	none_of_them-700 8393 8405	none of them
+T185	NOM_PER 4316 4327	some of you
+T268	some_of_you-701 4316 4327	some of you

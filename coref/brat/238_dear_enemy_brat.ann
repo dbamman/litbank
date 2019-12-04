@@ -1,0 +1,656 @@
+T0	PROP_PER 154 160	Jervis
+T1	NOM_ORG 222 241	the John Grier Home
+T4	PROP_PER 867 873	Sallie
+T5	PROP_GPE 1027 1036	Worcester
+T6	NOM_PER 1187 1198	politicians
+T7	NOM_ORG 1344 1363	the John Grier Home
+T8	NOM_PER 1580 1591	politicians
+T9	NOM_PER 1635 1648	society women
+T10	NOM_FAC 1847 1874	the Female Inebriate Asylum
+T11	NOM_PER 1832 1874	the inmates of the Female Inebriate Asylum
+T12	NOM_PER 1668 1686	your moral husband
+T13	PROP_GPE 1760 1769	Worcester
+T15	NOM_PER 1951 1965	the politician
+T16	NOM_PER 2308 2353	those poor defenseless little orphan children
+T17	PROP_GPE 2514 2522	New York
+T18	PROP_PER 2937 2949	Mrs. Lippett
+T19	NOM_PER 2922 2949	a successor to Mrs. Lippett
+T20	PROP_GPE 3144 3152	New York
+T21	PROP_PER 3117 3131	Gordon Hallock
+T22	PROP_PER 3265 3269	Judy
+T25	PROP_PER 3448 3452	Jane
+T27	NOM_PER 3500 3533	superintendents of orphan asylums
+T28	NOM_PER 3553 3567	personal maids
+T29	NOM_PER 3611 3622	housekeeper
+T30	NOM_PER 3835 3847	the watchman
+T31	NOM_FAC 4211 4228	the hospital room
+T33	NOM_FAC 4168 4180	the building
+T34	NOM_PER 4457 4477	her flighty mistress
+T35	PROP_GPE 4579 4588	Worcester
+T36	PROP_FAC 5085 5095	Stone Gate
+T37	NOM_PER 5249 5273	twenty-five little girls
+T38	NOM_FAC 5433 5439	a pool
+T40	NOM_FAC 5661 5676	the dining room
+T41	PROP_PER 5865 5869	Lord
+T42	NOM_PER 5887 5924	The trustee who added that last touch
+T44	NOM_LOC 6013 6022	the world
+T46	PROP_PER 6475 6505	that scurrilous Gordon Hallock
+T47	NOM_PER 6745 6752	orphans
+T48	NOM_PER 6979 7015	their three or four hundred children
+T49	NOM_PER 7020 7042	thousand grandchildren
+T50	NOM_PER 7154 7176	another superintendent
+T51	NOM_PER 7384 7396	the children
+T53	NOM_PER 7727 7757	every little boy and girl here
+T54	NOM_PER 7636 7674	the president of our board of trustees
+T55	NOM_ORG 7567 7586	the John Grier Home
+T56	NOM_PER 7666 7674	trustees
+T60	NOM_PER 8095 8107	The children
+T61	NOM_PER 8235 8251	a superintendent
+T62	NOM_PER 8254 8267	My colleagues
+T64	PROP_PER 8559 8570	Miss Snaith
+T65	NOM_PER 8694 8705	every child
+T67	NOM_PER 8897 8913	one small urchin
+T68	NOM_FAC 9002 9010	the yard
+T69	NOM_PER 9157 9171	These children
+T70	NOM_GPE 9347 9354	village
+T71	NOM_FAC 9343 9365	the village drug store
+T73	PROP_PER 9675 9679	Jane
+T74	PROP_PER 9862 9873	Miss Snaith
+T76	NOM_PER 10034 10044	that woman
+T78	NOM_FAC 9987 10007	an old ladies ' home
+T79	PROP_GPE 13 22	WORCESTER
+T80	PROP_GPE 25 38	MASSACHUSETTS
+T82	PROP_PER 226 236	John Grier
+T83	PROP_PER 331 345	Sallie McBride
+T84	NOM_FAC 360 376	an orphan asylum
+T85	NOM_PER 348 376	the head of an orphan asylum
+T86	NOM_PER 379 393	My poor people
+T87	NOM_PER 571 591	one hundred children
+T3	NOM_FAC 620 625	a zoo
+T88	NOM_PER 605 625	the curator of a zoo
+T89	NOM_PER 650 678	an interesting Scotch doctor
+T81	PROP_PER 55 64	Dear Judy
+T92	PROP_PER 822 831	Pendleton
+T93	PROP_PER 1046 1052	Jervis
+T94	PROP_PER 1091 1120	that confounded young Hallock
+T95	PROP_PER 1348 1358	John Grier
+T96	PROP_PER 1482 1488	Jervis
+T97	NOM_FAC 1456 1481	your delectable household
+T98	NOM_PER 2022 2049	a very desirable politician
+T14	PROP_PER 2147 2153	Jervis
+T99	NOM_ORG 2257 2267	the asylum
+T100	NOM_FAC 2645 2667	the New York Orphanage
+T101	PROP_FAC 2672 2694	the Foundling Hospital
+T102	PROP_PER 3018 3032	SALLIE McBRIDE
+T103	PROP_PER 3229 3235	Sallie
+T23	NOM_FAC 3337 3356	THE JOHN GRIER HOME
+T104	PROP_PER 3341 3351	JOHN GRIER
+T105	PROP_PER 3373 3382	Dear Judy
+T106	NOM_FAC 3519 3533	orphan asylums
+T107	NOM_PER 3588 3606	The night watchman
+T24	NOM_FAC 4055 4073	a strange woodshed
+T108	PROP_PER 4106 4110	Jane
+T32	NOM_PER 4674 4683	the staff
+T109	NOM_PER 4662 4683	the rest of the staff
+T110	NOM_PER 4762 4771	my family
+T111	NOM_FAC 5282 5294	the lavatory
+T112	NOM_FAC 5526 5535	the place
+T39	PROP_PER 5971 5975	Judy
+T43	NOM_PER 6080 6121	pale , listless , blue-uniformed children
+T113	NOM_PER 6253 6263	one person
+T45	NOM_PER 6333 6341	a mother
+T114	NOM_FAC 6569 6578	an asylum
+T115	NOM_FAC 6691 6723	all those seventeen institutions
+T116	NOM_PER 6920 6942	a hundred human beings
+T117	PROP_PER 7179 7183	Jane
+T118	NOM_PER 7304 7313	The staff
+T119	PROP_PER 7571 7581	John Grier
+T120	PROP_PER 7613 7633	Mr. Jervis Pendleton
+T121	PROP_PER 7684 7698	Mrs. Pendleton
+T52	NOM_PER 7701 7757	the dear " Aunt Judy " of every little boy and girl here
+T57	NOM_ORG 7899 7914	the institution
+T122	NOM_PER 7871 7914	the entire working staff of the institution
+T59	PROP_PER 8383 8389	Jervis
+T63	NOM_PER 8532 8556	the kindergarten teacher
+T123	NOM_PER 8494 8518	the rest of these people
+T66	NOM_PER 8832 8844	the children
+T72	NOM_PER 9461 9471	the babies
+T124	NOM_FAC 9461 9483	the babies ' dormitory
+T125	NOM_PER 9486 9508	Those poor little tots
+T126	PROP_PER 9723 9737	SALLIE McBRIDE
+T127	NOM_FAC 9783 9795	the corridor
+T75	NOM_PER 9904 9914	the babies
+T128	NOM_FAC 9904 9926	the babies ' dormitory
+T77	NOM_PER 9987 10000	an old ladies
+T90	PROP_PER 689 693	Judy
+T129	NOM_PER 681 688	My dear
+T91	PROP_PER 716 722	Jervis
+T130	NOM_PER 708 715	my dear
+T131	NOM_PER 2937 2941	Mrs.
+T136	NOM_PER 4003 4012	my family
+T58	NOM_PER 7797 7817	the Pendleton family
+T137	NOM_FAC 1412 1417	there
+T138	NOM_FAC 4697 4701	here
+T139	NOM_FAC 6840 6844	here
+T140	NOM_FAC 7753 7757	here
+T141	PRON_PER 67 71	Your
+T142	PRON_PER 89 90	I
+T143	PRON_PER 136 137	I
+T144	PRON_PER 171 174	you
+T145	PRON_PER 278 281	you
+T146	PRON_PER 294 296	me
+T147	PRON_PER 321 323	Me
+T148	PRON_PER 327 328	I
+T149	PRON_PER 379 381	My
+T150	PRON_PER 401 404	you
+T151	PRON_PER 410 414	your
+T152	PRON_PER 432 435	you
+T153	PRON_PER 527 528	I
+T154	PRON_PER 632 635	you
+T155	PRON_PER 681 683	My
+T156	PRON_PER 708 710	my
+T157	PRON_PER 728 729	I
+T158	PRON_PER 742 745	you
+T159	PRON_PER 748 749	I
+T160	PRON_PER 905 908	she
+T161	PRON_PER 924 927	She
+T162	PRON_PER 985 988	her
+T163	PRON_PER 1062 1065	she
+T164	PRON_PER 1170 1171	I
+T165	PRON_PER 1201 1203	We
+T166	PRON_PER 1217 1220	her
+T167	PRON_PER 1303 1304	I
+T168	PRON_PER 1315 1317	We
+T169	PRON_PER 1327 1330	her
+T170	PRON_PER 1373 1374	I
+T171	PRON_PER 1384 1387	him
+T172	PRON_PER 1405 1406	I
+T173	PRON_PER 1439 1441	my
+T174	PRON_PER 1456 1460	your
+T175	PRON_PER 1493 1494	I
+T176	PRON_PER 1668 1672	your
+T177	PRON_PER 1692 1693	I
+T178	PRON_PER 1699 1702	his
+T179	PRON_PER 1747 1749	my
+T180	PRON_PER 1770 1771	I
+T181	PRON_PER 1877 1879	My
+T182	PRON_PER 1932 1934	me
+T183	PRON_PER 1942 1945	you
+T184	PRON_PER 2016 2018	he
+T185	PRON_PER 2064 2067	his
+T186	PRON_PER 2159 2163	Your
+T187	PRON_PER 2183 2185	my
+T188	PRON_PER 2230 2233	you
+T189	PRON_PER 2292 2295	you
+T190	PRON_PER 2356 2357	I
+T191	PRON_PER 2368 2371	you
+T192	PRON_PER 2387 2388	I
+T193	PRON_PER 2429 2432	you
+T194	PRON_PER 2441 2442	I
+T195	PRON_PER 2482 2486	your
+T196	PRON_PER 2507 2510	you
+T197	PRON_PER 2532 2533	I
+T198	PRON_PER 2556 2557	I
+T199	PRON_PER 2604 2607	you
+T200	PRON_PER 2742 2743	I
+T201	PRON_PER 2822 2823	I
+T203	PRON_PER 2865 2868	you
+T204	PRON_PER 2888 2890	me
+T205	PRON_PER 2895 2901	myself
+T206	PRON_PER 3040 3044	Your
+T207	PRON_PER 3165 3166	I
+T208	PRON_PER 3175 3178	you
+T209	PRON_PER 3189 3192	him
+T210	PRON_PER 3198 3201	you
+T211	PRON_PER 3207 3210	him
+T212	PRON_PER 3243 3246	her
+T213	PRON_PER 3288 3291	her
+T214	PRON_PER 3294 3295	I
+T215	PRON_PER 3300 3303	you
+T216	PRON_PER 3317 3320	you
+T217	PRON_PER 3385 3387	We
+T218	PRON_PER 3457 3458	I
+T219	PRON_PER 3548 3552	them
+T220	PRON_PER 3654 3656	me
+T221	PRON_PER 3695 3699	They
+T222	PRON_PER 3751 3752	I
+T223	PRON_PER 3792 3793	I
+T224	PRON_PER 3804 3808	them
+T227	PRON_PER 3907 3909	He
+T228	PRON_PER 3928 3929	I
+T230	PRON_PER 4003 4005	my
+T231	PRON_PER 4231 4234	She
+T232	PRON_PER 4240 4243	you
+T233	PRON_PER 4268 4270	We
+T234	PRON_PER 4278 4281	her
+T235	PRON_PER 4291 4294	she
+T236	PRON_PER 4340 4343	She
+T237	PRON_PER 4457 4460	her
+T238	PRON_PER 4510 4512	we
+T239	PRON_PER 4527 4530	our
+T240	PRON_PER 4591 4592	I
+T241	PRON_PER 4603 4606	she
+T242	PRON_PER 4629 4631	my
+T243	PRON_PER 4693 4696	her
+T244	PRON_PER 4753 4756	you
+T245	PRON_PER 4762 4764	my
+T246	PRON_PER 4774 4775	I
+T247	PRON_PER 4783 4788	their
+T248	PRON_PER 4819 4823	they
+T249	PRON_PER 4829 4834	their
+T250	PRON_PER 4859 4860	I
+T251	PRON_PER 4869 4872	her
+T252	PRON_PER 4891 4892	I
+T253	PRON_PER 4945 4946	I
+T254	PRON_PER 4982 4983	I
+T255	PRON_PER 5001 5004	her
+T256	PRON_PER 5018 5020	me
+T257	PRON_PER 5023 5024	I
+T258	PRON_PER 5042 5043	I
+T259	PRON_PER 5106 5108	we
+T260	PRON_PER 5130 5132	us
+T261	PRON_PER 5148 5149	I
+T262	PRON_PER 5162 5163	I
+T263	PRON_PER 5300 5302	my
+T264	PRON_PER 5326 5330	they
+T265	PRON_PER 5379 5383	they
+T266	PRON_PER 5442 5443	I
+T267	PRON_PER 5482 5485	You
+T268	PRON_PER 5510 5512	me
+T269	PRON_PER 5548 5549	I
+T270	PRON_PER 5566 5568	my
+T271	PRON_PER 5640 5646	myself
+T272	PRON_PER 5652 5653	I
+T273	PRON_PER 5978 5979	I
+T274	PRON_PER 6051 6052	I
+T275	PRON_PER 6166 6168	me
+T276	PRON_PER 6192 6193	I
+T277	PRON_PER 6320 6324	they
+T278	PRON_PER 6351 6352	I
+T279	PRON_PER 6409 6412	you
+T280	PRON_PER 6448 6449	I
+T281	PRON_PER 6545 6547	my
+T282	PRON_PER 6589 6592	you
+T283	PRON_PER 6597 6600	you
+T284	PRON_PER 6612 6614	me
+T285	PRON_PER 6644 6645	I
+T286	PRON_PER 6726 6727	I
+T287	PRON_PER 6773 6775	my
+T288	PRON_PER 6810 6811	I
+T289	PRON_PER 6833 6839	myself
+T290	PRON_PER 6950 6952	my
+T291	PRON_PER 6979 6984	their
+T292	PRON_PER 7107 7108	I
+T293	PRON_PER 7227 7231	your
+T294	PRON_PER 7291 7293	me
+T295	PRON_PER 7401 7402	I
+T296	PRON_PER 7422 7423	I
+T297	PRON_PER 7440 7443	you
+T298	PRON_PER 7450 7452	my
+T299	PRON_PER 7653 7656	our
+T300	PRON_PER 7784 7786	my
+T301	PRON_PER 7835 7836	I
+T302	PRON_PER 7929 7930	I
+T303	PRON_PER 8074 8076	my
+T304	PRON_PER 8161 8163	my
+T305	PRON_PER 8195 8197	my
+T306	PRON_PER 8254 8256	My
+T307	PRON_PER 8293 8297	they
+T308	PRON_PER 8307 8309	me
+T309	PRON_PER 8367 8368	I
+T310	PRON_PER 8427 8428	I
+T311	PRON_PER 8436 8439	you
+T312	PRON_PER 8445 8447	he
+T313	PRON_PER 8575 8576	I
+T314	PRON_PER 8625 8626	I
+T315	PRON_PER 8685 8686	I
+T316	PRON_PER 8784 8785	I
+T317	PRON_PER 8862 8865	She
+T318	PRON_PER 8878 8880	us
+T319	PRON_PER 8889 8890	I
+T320	PRON_PER 8927 8929	he
+T321	PRON_PER 8978 8982	They
+T322	PRON_PER 9027 9032	their
+T323	PRON_PER 9212 9213	I
+T324	PRON_PER 9264 9268	your
+T325	PRON_PER 9277 9278	I
+T326	PRON_PER 9619 9620	I
+T327	PRON_PER 9685 9686	I
+T328	PRON_PER 9765 9766	I
+T329	PRON_PER 9842 9845	you
+T330	PRON_PER 9852 9853	I
+T331	PRON_PER 9945 9946	I
+T332	PRON_PER 9980 9983	her
+T333	PRON_PER 10010 10011	I
+T334	PROP_PER 4849 4853	Jane
+T335	NOM_PER 5566 5583	my little charges
+T336	NOM_PER 6285 6309	one hundred little faces
+T337	NOM_PER 8383 8416	Jervis 's wonderful Scotch doctor
+T417	WORCESTER-0 13 22	WORCESTER
+T418	MASSACHUSETTS-1 25 38	MASSACHUSETTS
+T419	Dear_Judy-2 55 64	Dear Judy
+T479	Dear_Judy-2 67 71	Your
+T480	narrator_Sallie_McBride-3 89 90	I
+T481	narrator_Sallie_McBride-3 136 137	I
+T338	Jervis-4 154 160	Jervis
+T482	Dear_Judy-2 171 174	you
+T339	Grier-organization-803 222 241	the John Grier Home
+T420	John_Grier-6 226 236	John Grier
+T483	Dear_Judy-2 278 281	you
+T484	narrator_Sallie_McBride-3 294 296	me
+T485	narrator_Sallie_McBride-3 321 323	Me
+T486	narrator_Sallie_McBride-3 327 328	I
+T421	narrator_Sallie_McBride-3 331 345	Sallie McBride
+T422	an_orphan_asylum-7 360 376	an orphan asylum
+T424	Judy_Jervis-8 379 393	My poor people
+T487	narrator_Sallie_McBride-3 379 381	My
+T488	Judy_Jervis-8 401 404	you
+T489	Judy_Jervis-8 410 414	your
+T490	Judy_Jervis-8 432 435	you
+T491	narrator_Sallie_McBride-3 527 528	I
+T425	one_hundred_children-9 571 591	one hundred children
+T426	the_curator_of_a_zoo-10 605 625	the curator of a zoo
+T341	a_zoo-11 620 625	a zoo
+T492	Dear_Judy-2 632 635	you
+T427	an_interesting_Scotch_doctor-12 650 678	an interesting Scotch doctor
+T467	Dear_Judy-2 681 688	My dear
+T493	narrator_Sallie_McBride-3 681 683	My
+T428	Dear_Judy-2 689 693	Judy
+T468	Jervis-4 708 715	my dear
+T494	narrator_Sallie_McBride-3 708 710	my
+T429	Jervis-4 716 722	Jervis
+T495	narrator_Sallie_McBride-3 728 729	I
+T496	Judy_Jervis-8 742 745	you
+T497	narrator_Sallie_McBride-3 748 749	I
+T430	Pendleton-13 822 831	Pendleton
+T342	narrator_Sallie_McBride-3 867 873	Sallie
+T498	narrator_Sallie_McBride-3 905 908	she
+T499	narrator_Sallie_McBride-3 924 927	She
+T500	narrator_Sallie_McBride-3 985 988	her
+T343	WORCESTER-0 1027 1036	Worcester
+T431	Jervis-4 1046 1052	Jervis
+T501	narrator_Sallie_McBride-3 1062 1065	she
+T432	Hallock-14 1091 1120	that confounded young Hallock
+T502	Jervis-4 1170 1171	I
+T344	politicians-15 1187 1198	politicians
+T503	Judy_Jervis-8 1201 1203	We
+T504	narrator_Sallie_McBride-3 1217 1220	her
+T505	Jervis-4 1303 1304	I
+T506	Judy_Jervis-8 1315 1317	We
+T507	narrator_Sallie_McBride-3 1327 1330	her
+T345	Grier-organization-803 1344 1363	the John Grier Home
+T433	John_Grier-6 1348 1358	John Grier
+T508	narrator_Sallie_McBride-3 1373 1374	I
+T509	Jervis-4 1384 1387	him
+T510	narrator_Sallie_McBride-3 1405 1406	I
+T475	there-16 1412 1417	there
+T511	narrator_Sallie_McBride-3 1439 1441	my
+T435	your_delectable_household-17 1456 1481	your delectable household
+T512	Judy_Jervis-8 1456 1460	your
+T434	Jervis-4 1482 1488	Jervis
+T513	narrator_Sallie_McBride-3 1493 1494	I
+T346	politicians-18 1580 1591	politicians
+T347	society_women-19 1635 1648	society women
+T350	Jervis-4 1668 1686	your moral husband
+T514	Dear_Judy-2 1668 1672	your
+T515	narrator_Sallie_McBride-3 1692 1693	I
+T516	Jervis-4 1699 1702	his
+T517	narrator_Sallie_McBride-3 1747 1749	my
+T351	WORCESTER-0 1760 1769	Worcester
+T518	narrator_Sallie_McBride-3 1770 1771	I
+T349	the_inmates_of_the_Female_Inebriate_Asylum-20 1832 1874	the inmates of the Female Inebriate Asylum
+T348	the_Female_Inebriate_Asylum-21 1847 1874	the Female Inebriate Asylum
+T519	narrator_Sallie_McBride-3 1877 1879	My
+T520	narrator_Sallie_McBride-3 1932 1934	me
+T521	Judy_Jervis-8 1942 1945	you
+T353	Hallock-14 1951 1965	the politician
+T522	Hallock-14 2016 2018	he
+T523	Hallock-14 2064 2067	his
+T352	Jervis-4 2147 2153	Jervis
+T524	Dear_Judy-2 2159 2163	Your
+T525	narrator_Sallie_McBride-3 2183 2185	my
+T526	Dear_Judy-2 2230 2233	you
+T437	Grier-organization-803 2257 2267	the asylum
+T527	Dear_Judy-2 2292 2295	you
+T354	those_poor_defenseless_little_orphan_children-22 2308 2353	those poor defenseless little orphan children
+T528	narrator_Sallie_McBride-3 2356 2357	I
+T529	Dear_Judy-2 2368 2371	you
+T530	narrator_Sallie_McBride-3 2387 2388	I
+T531	Dear_Judy-2 2429 2432	you
+T532	narrator_Sallie_McBride-3 2441 2442	I
+T533	Dear_Judy-2 2482 2486	your
+T534	Dear_Judy-2 2507 2510	you
+T355	New_York-23 2514 2522	New York
+T535	narrator_Sallie_McBride-3 2532 2533	I
+T536	narrator_Sallie_McBride-3 2556 2557	I
+T537	Dear_Judy-2 2604 2607	you
+T438	the_New_York_Orphanage-24 2645 2667	the New York Orphanage
+T439	the_Foundling_Hospital-25 2672 2694	the Foundling Hospital
+T538	narrator_Sallie_McBride-3 2742 2743	I
+T539	narrator_Sallie_McBride-3 2822 2823	I
+T541	Dear_Judy-2 2865 2868	you
+T542	narrator_Sallie_McBride-3 2888 2890	me
+T543	narrator_Sallie_McBride-3 2895 2901	myself
+T357	a_successor_to_Mrs__Lippett-26 2922 2949	a successor to Mrs. Lippett
+T356	Mrs__Lippett-27 2937 2949	Mrs. Lippett
+T469	narrator_Sallie_McBride-3 2937 2941	Mrs.
+T440	narrator_Sallie_McBride-3 3018 3032	SALLIE McBRIDE
+T544	Dear_Judy-2 3040 3044	Your
+T359	Hallock-14 3117 3131	Gordon Hallock
+T358	New_York-23 3144 3152	New York
+T545	narrator_Sallie_McBride-3 3165 3166	I
+T546	Dear_Judy-2 3175 3178	you
+T547	Hallock-14 3189 3192	him
+T548	Dear_Judy-2 3198 3201	you
+T549	Hallock-14 3207 3210	him
+T441	narrator_Sallie_McBride-3 3229 3235	Sallie
+T550	narrator_Sallie_McBride-3 3243 3246	her
+T360	Dear_Judy-2 3265 3269	Judy
+T551	narrator_Sallie_McBride-3 3288 3291	her
+T552	narrator_Sallie_McBride-3 3294 3295	I
+T553	Dear_Judy-2 3300 3303	you
+T554	Judy_Jervis-8 3317 3320	you
+T361	the_John_Grier_Home-5 3337 3356	THE JOHN GRIER HOME
+T442	John_Grier-6 3341 3351	JOHN GRIER
+T443	Dear_Judy-2 3373 3382	Dear Judy
+T555	Singapore_Jane_Sallie-28 3385 3387	We
+T363	Jane-29 3448 3452	Jane
+T556	narrator_Sallie_McBride-3 3457 3458	I
+T365	superintendents_of_orphan_asylums-30 3500 3533	superintendents of orphan asylums
+T444	orphan_asylums-31 3519 3533	orphan asylums
+T557	superintendents_of_orphan_asylums-30 3548 3552	them
+T366	personal_maids-32 3553 3567	personal maids
+T445	The_night_watchman-33 3588 3606	The night watchman
+T367	housekeeper-34 3611 3622	housekeeper
+T558	narrator_Sallie_McBride-3 3654 3656	me
+T559	night_watchman_housekeeper-35 3695 3699	They
+T560	narrator_Sallie_McBride-3 3751 3752	I
+T561	narrator_Sallie_McBride-3 3792 3793	I
+T562	night_watchman_housekeeper-35 3804 3808	them
+T368	The_night_watchman-33 3835 3847	the watchman
+T565	The_night_watchman-33 3907 3909	He
+T566	narrator_Sallie_McBride-3 3928 3929	I
+T474	my_family-36 4003 4012	my family
+T568	narrator_Sallie_McBride-3 4003 4005	my
+T362	a_strange_woodshed-37 4055 4073	a strange woodshed
+T446	Jane-29 4106 4110	Jane
+T371	the_John_Grier_Home-5 4168 4180	the building
+T369	the_hospital_room-38 4211 4228	the hospital room
+T569	Jane-29 4231 4234	She
+T570	Dear_Judy-2 4240 4243	you
+T571	narrator_Sallie_McBride-3 4268 4270	We
+T572	Jane-29 4278 4281	her
+T573	Jane-29 4291 4294	she
+T574	Jane-29 4340 4343	She
+T372	narrator_Sallie_McBride-3 4457 4477	her flighty mistress
+T575	Jane-29 4457 4460	her
+T576	narrator_Sallie_McBride-3 4510 4512	we
+T577	narrator_Sallie_McBride-3 4527 4530	our
+T373	WORCESTER-0 4579 4588	Worcester
+T578	narrator_Sallie_McBride-3 4591 4592	I
+T579	Jane-29 4603 4606	she
+T580	narrator_Sallie_McBride-3 4629 4631	my
+T447	the_rest_of_the_staff-39 4662 4683	the rest of the staff
+T370	the_staff-40 4674 4683	the staff
+T581	Jane-29 4693 4696	her
+T476	the_John_Grier_Home-5 4697 4701	here
+T582	Dear_Judy-2 4753 4756	you
+T448	my_family-36 4762 4771	my family
+T583	narrator_Sallie_McBride-3 4762 4764	my
+T584	narrator_Sallie_McBride-3 4774 4775	I
+T585	my_family-36 4783 4788	their
+T586	my_family-36 4819 4823	they
+T587	my_family-36 4829 4834	their
+T672	Jane-29 4849 4853	Jane
+T588	narrator_Sallie_McBride-3 4859 4860	I
+T589	Jane-29 4869 4872	her
+T590	narrator_Sallie_McBride-3 4891 4892	I
+T591	narrator_Sallie_McBride-3 4945 4946	I
+T592	narrator_Sallie_McBride-3 4982 4983	I
+T593	Jane-29 5001 5004	her
+T594	narrator_Sallie_McBride-3 5018 5020	me
+T595	narrator_Sallie_McBride-3 5023 5024	I
+T596	narrator_Sallie_McBride-3 5042 5043	I
+T374	Stone_Gate-41 5085 5095	Stone Gate
+T597	Jane_Sallie-42 5106 5108	we
+T598	Jane_Sallie-42 5130 5132	us
+T599	narrator_Sallie_McBride-3 5148 5149	I
+T600	narrator_Sallie_McBride-3 5162 5163	I
+T375	twenty-five_little_girls-43 5249 5273	twenty-five little girls
+T449	the_lavatory-44 5282 5294	the lavatory
+T601	narrator_Sallie_McBride-3 5300 5302	my
+T602	twenty-five_little_girls-43 5326 5330	they
+T603	twenty-five_little_girls-43 5379 5383	they
+T376	a_pool-45 5433 5439	a pool
+T604	narrator_Sallie_McBride-3 5442 5443	I
+T605	Dear_Judy-2 5482 5485	You
+T606	narrator_Sallie_McBride-3 5510 5512	me
+T450	the_John_Grier_Home-5 5526 5535	the place
+T607	narrator_Sallie_McBride-3 5548 5549	I
+T608	narrator_Sallie_McBride-3 5566 5568	my
+T673	twenty-five_little_girls-43 5566 5583	my little charges
+T609	narrator_Sallie_McBride-3 5640 5646	myself
+T610	narrator_Sallie_McBride-3 5652 5653	I
+T378	the_dining_room-46 5661 5676	the dining room
+T379	Lord-47 5865 5869	Lord
+T380	The_trustee_who_added_that_last_touch-48 5887 5924	The trustee who added that last touch
+T377	Dear_Judy-2 5971 5975	Judy
+T611	narrator_Sallie_McBride-3 5978 5979	I
+T382	the_world-49 6013 6022	the world
+T612	narrator_Sallie_McBride-3 6051 6052	I
+T381	twenty-five_little_girls-43 6080 6121	pale , listless , blue-uniformed children
+T613	narrator_Sallie_McBride-3 6166 6168	me
+T614	narrator_Sallie_McBride-3 6192 6193	I
+T451	one_person-50 6253 6263	one person
+T674	one_hundred_little_faces-51 6285 6309	one hundred little faces
+T615	one_hundred_little_faces-51 6320 6324	they
+T383	a_mother-52 6333 6341	a mother
+T616	narrator_Sallie_McBride-3 6351 6352	I
+T617	Dear_Judy-2 6409 6412	you
+T618	narrator_Sallie_McBride-3 6448 6449	I
+T384	Hallock-14 6475 6505	that scurrilous Gordon Hallock
+T619	narrator_Sallie_McBride-3 6545 6547	my
+T452	an_asylum-53 6569 6578	an asylum
+T620	Judy_Hallock_Jervis_-54 6589 6592	you
+T621	Judy_Hallock_Jervis_-54 6597 6600	you
+T622	narrator_Sallie_McBride-3 6612 6614	me
+T623	narrator_Sallie_McBride-3 6644 6645	I
+T453	all_those_seventeen_institutions-55 6691 6723	all those seventeen institutions
+T624	narrator_Sallie_McBride-3 6726 6727	I
+T385	orphans-56 6745 6752	orphans
+T625	narrator_Sallie_McBride-3 6773 6775	my
+T626	narrator_Sallie_McBride-3 6810 6811	I
+T627	narrator_Sallie_McBride-3 6833 6839	myself
+T477	the_John_Grier_Home-5 6840 6844	here
+T454	one_hundred_little_faces-51 6920 6942	a hundred human beings
+T628	narrator_Sallie_McBride-3 6950 6952	my
+T386	their_three_or_four_hundred_children-57 6979 7015	their three or four hundred children
+T629	one_hundred_little_faces-51 6979 6984	their
+T387	thousand_grandchildren-58 7020 7042	thousand grandchildren
+T630	narrator_Sallie_McBride-3 7107 7108	I
+T388	another_superintendent-59 7154 7176	another superintendent
+T455	Jane-29 7179 7183	Jane
+T631	Dear_Judy-2 7227 7231	your
+T632	narrator_Sallie_McBride-3 7291 7293	me
+T456	the_staff-40 7304 7313	The staff
+T389	one_hundred_little_faces-51 7384 7396	the children
+T633	narrator_Sallie_McBride-3 7401 7402	I
+T634	narrator_Sallie_McBride-3 7422 7423	I
+T635	Dear_Judy-2 7440 7443	you
+T636	narrator_Sallie_McBride-3 7450 7452	my
+T393	Grier-organization-803 7567 7586	the John Grier Home
+T457	John_Grier-6 7571 7581	John Grier
+T458	Mr__Jervis_Pendleton-60 7613 7633	Mr. Jervis Pendleton
+T637	our-61 7653 7656	our
+T394	trustees-62 7666 7674	trustees
+T459	Mrs__Pendleton-63 7684 7698	Mrs. Pendleton
+T391	one_hundred_little_faces-51 7727 7757	every little boy and girl here
+T478	the_John_Grier_Home-5 7753 7757	here
+T638	narrator_Sallie_McBride-3 7784 7786	my
+T396	the_Pendleton_family-64 7797 7817	the Pendleton family
+T639	narrator_Sallie_McBride-3 7835 7836	I
+T460	the_staff-40 7871 7914	the entire working staff of the institution
+T395	Grier-organization-803 7899 7914	the institution
+T640	narrator_Sallie_McBride-3 7929 7930	I
+T641	narrator_Sallie_McBride-3 8074 8076	my
+T398	one_hundred_little_faces-51 8095 8107	The children
+T642	narrator_Sallie_McBride-3 8161 8163	my
+T643	narrator_Sallie_McBride-3 8195 8197	my
+T399	a_superintendent-65 8235 8251	a superintendent
+T400	the_staff-40 8254 8267	My colleagues
+T644	narrator_Sallie_McBride-3 8254 8256	My
+T645	the_staff-40 8293 8297	they
+T646	narrator_Sallie_McBride-3 8307 8309	me
+T647	narrator_Sallie_McBride-3 8367 8368	I
+T397	Jervis-4 8383 8389	Jervis
+T675	an_interesting_Scotch_doctor-12 8383 8416	Jervis 's wonderful Scotch doctor
+T648	narrator_Sallie_McBride-3 8427 8428	I
+T649	Dear_Judy-2 8436 8439	you
+T650	an_interesting_Scotch_doctor-12 8445 8447	he
+T461	the_staff-40 8494 8518	the rest of these people
+T401	the_kindergarten_teacher-66 8532 8556	the kindergarten teacher
+T402	the_kindergarten_teacher-66 8559 8570	Miss Snaith
+T651	narrator_Sallie_McBride-3 8575 8576	I
+T652	narrator_Sallie_McBride-3 8625 8626	I
+T653	narrator_Sallie_McBride-3 8685 8686	I
+T403	every_child-67 8694 8705	every child
+T654	narrator_Sallie_McBride-3 8784 8785	I
+T404	one_hundred_little_faces-51 8832 8844	the children
+T655	narrator_Sallie_McBride-3 8862 8865	She
+T656	one_hundred_little_faces-51 8878 8880	us
+T657	narrator_Sallie_McBride-3 8889 8890	I
+T405	one_small_urchin-68 8897 8913	one small urchin
+T658	one_small_urchin-68 8927 8929	he
+T659	one_hundred_little_faces-51 8978 8982	They
+T406	the_yard-69 9002 9010	the yard
+T660	one_hundred_little_faces-51 9027 9032	their
+T407	one_hundred_little_faces-51 9157 9171	These children
+T661	narrator_Sallie_McBride-3 9212 9213	I
+T662	Dear_Judy-2 9264 9268	your
+T663	narrator_Sallie_McBride-3 9277 9278	I
+T409	the_village_drug_store-70 9343 9365	the village drug store
+T408	village-71 9347 9354	village
+T410	the_babies-72 9461 9471	the babies
+T462	the_babies___dormitory-73 9461 9483	the babies ' dormitory
+T463	the_babies-72 9486 9508	Those poor little tots
+T664	narrator_Sallie_McBride-3 9619 9620	I
+T411	Dear_Judy-2 9675 9679	Jane
+T665	narrator_Sallie_McBride-3 9685 9686	I
+T464	narrator_Sallie_McBride-3 9723 9737	SALLIE McBRIDE
+T666	narrator_Sallie_McBride-3 9765 9766	I
+T465	the_corridor-74 9783 9795	the corridor
+T667	Dear_Judy-2 9842 9845	you
+T668	narrator_Sallie_McBride-3 9852 9853	I
+T412	the_kindergarten_teacher-66 9862 9873	Miss Snaith
+T413	the_babies-72 9904 9914	the babies
+T466	the_babies___dormitory-73 9904 9926	the babies ' dormitory
+T669	narrator_Sallie_McBride-3 9945 9946	I
+T670	the_kindergarten_teacher-66 9980 9983	her
+T416	an_old_ladies___home-75 9987 10007	an old ladies ' home
+T415	an_old_ladies-76 9987 10000	an old ladies
+T671	narrator_Sallie_McBride-3 10010 10011	I
+T414	the_kindergarten_teacher-66 10034 10044	that woman
+R1	appos Arg1:T85 Arg2:T83
+R2	cop Arg1:T98 Arg2:T184
+R3	appos Arg1:T54 Arg2:T120
+R4	appos Arg1:T52 Arg2:T121

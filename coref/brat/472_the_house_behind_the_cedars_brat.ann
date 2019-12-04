@@ -1,0 +1,454 @@
+T1	NOM_FAC 838 858	the Patesville Hotel
+T3	NOM_FAC 1175 1202	the houses along the street
+T4	NOM_GPE 1264 1272	the town
+T5	NOM_GPE 1009 1017	the town
+T6	NOM_FAC 1192 1202	the street
+T7	PROP_GPE 1715 1729	SOUTH CAROLINA
+T9	PROP_GPE 1843 1857	South Carolina
+T10	NOM_FAC 1873 1883	the street
+T11	NOM_GPE 2430 2438	the town
+T12	NOM_FAC 2339 2357	handsome buildings
+T13	NOM_LOC 2399 2406	the sea
+T16	NOM_FAC 2957 2977	the two main streets
+T18	NOM_GPE 2923 2931	the town
+T20	NOM_PER 3703 3714	all negroes
+T22	PROP_PER 3591 3598	Warwick
+T23	NOM_FAC 3958 3968	his office
+T24	NOM_PER 4030 4047	obliging citizens
+T25	NOM_PER 4124 4141	convivial spirits
+T26	PROP_PER 4166 4173	Warwick
+T27	NOM_FAC 4528 4540	the building
+T29	NOM_PER 4927 4938	an idle boy
+T31	NOM_FAC 5115 5134	the town hall above
+T34	NOM_PER 5436 5448	The murderer
+T35	NOM_PER 5541 5560	a merciful governor
+T37	NOM_PER 5648 5657	a prophet
+T38	PROP_PER 5603 5610	Warwick
+T39	NOM_PER 5637 5657	the son of a prophet
+T40	PROP_PER 5811 5818	Warwick
+T42	NOM_PER 6232 6245	a colored man
+T43	NOM_PER 6197 6210	the young man
+T46	NOM_FAC 6734 6740	office
+T49	NOM_LOC 7111 7123	all de earth
+T50	NOM_PER 6956 6970	the undertaker
+T52	NOM_PER 7128 7131	Man
+T56	NOM_FAC 7827 7849	the undertaker 's shop
+T57	NOM_GPE 8271 8279	the town
+T59	NOM_FAC 8091 8134	the Catholic church , with its many crosses
+T60	PROP_PER 8430 8435	Tyler
+T61	PROP_PER 8168 8177	St. James
+T63	NOM_FAC 8537 8550	the old hotel
+T64	PROP_PER 8466 8473	Warwick
+T65	NOM_PER 8648 8653	slave
+T66	PROP_FAC 8495 8507	Front Street
+T67	PROP_PER 8724 8731	Warwick
+T68	NOM_PER 8756 8769	a young woman
+T69	PROP_FAC 8780 8792	Front Street
+T70	PROP_FAC 8884 8896	Front Street
+T71	PROP_PER 8863 8870	Warwick
+T72	NOM_PER 9026 9041	the young woman
+T74	PROP_GPE 18 32	SOUTH CAROLINA
+T75	NOM_PER 2 32	A STRANGER FROM SOUTH CAROLINA
+T76	NOM_PER 458 543	some even-tempered old man or woman who seemed to have drunk of the fountain of youth
+T77	NOM_GPE 573 671	an old town that , having long since ceased to grow , yet held its own without perceptible decline
+T2	PROP_FAC 958 970	Front Street
+T78	NOM_FAC 978 994	the market-house
+T79	NOM_PER 792 994	a young man who came out of the front door of the Patesville Hotel about nine o'clock one fine morning in spring , a few years after the Civil War , and started down Front Street toward the market-house
+T80	NOM_VEH 1073 1086	the steamboat
+T81	NOM_VEH 1090 1100	a carriage
+T82	NOM_PER 1532 1541	the clerk
+T83	NOM_PER 1588 1629	the day clerk , who had just come on duty
+T84	PROP_PER 1689 1701	JOHN WARWICK
+T85	PROP_GPE 1704 1712	CLARENCE
+T8	PROP_GPE 1747 1762	South Ca ' lina
+T86	NOM_PER 1824 1857	The gentleman from South Carolina
+T87	PROP_PER 2379 2386	Sherman
+T88	NOM_FAC 2441 2451	The stores
+T89	NOM_GPE 2534 2540	cities
+T14	PROP_PER 2693 2700	Warwick
+T90	NOM_FAC 2770 2786	the market-house
+T91	PROP_GPE 2812 2822	Patesville
+T92	NOM_FAC 3024 3040	the market-house
+T93	NOM_FAC 3041 3063	a little public square
+T94	NOM_FAC 2993 3011	each street corner
+T15	NOM_FAC 2937 2977	the intersection of the two main streets
+T95	NOM_VEH 3106 3111	carts
+T96	NOM_VEH 3116 3122	wagons
+T17	PROP_PER 3172 3179	Warwick
+T97	NOM_FAC 3218 3234	the market-house
+T19	NOM_FAC 3430 3444	the tall tower
+T98	NOM_LOC 3527 3535	the land
+T21	NOM_PER 3842 3911	the old constable , whose chief business it had been to ring the bell
+T99	NOM_PER 4201 4218	the old constable
+T100	NOM_PER 4178 4197	a colored policeman
+T101	NOM_FAC 4261 4281	the burned buildings
+T102	NOM_GPE 4314 4326	the old town
+T103	NOM_FAC 4388 4404	the market-house
+T104	NOM_FAC 4369 4404	The lower story of the market-house
+T105	NOM_FAC 4442 4459	the public square
+T106	PROP_PER 4462 4469	Warwick
+T107	NOM_PER 4603 4668	the butcher who had sold fresh meat twice a week , on market days
+T108	PROP_PER 4757 4771	old Aunt Lyddy
+T30	NOM_FAC 4961 4977	the market-house
+T109	NOM_PER 4774 4977	the ancient negro woman who had sold him gingerbread and fried fish , and told him weird tales of witchcraft and conjuration , in the old days when , as an idle boy , he had loafed about the market-house
+T28	NOM_FAC 5140 5153	this stairway
+T32	NOM_PER 5171 5192	a manacled free negro
+T33	NOM_FAC 5216 5224	upstairs
+T110	PROP_PER 5267 5274	Warwick
+T111	NOM_PER 5367 5377	the victim
+T112	NOM_PER 5388 5407	the gathering crowd
+T36	NOM_PER 5623 5632	a prophet
+T113	NOM_FAC 5792 5808	the market-house
+T41	PROP_PER 6080 6098	ARCHIBALD STRAIGHT
+T114	NOM_PER 6101 6107	LAWYER
+T115	NOM_FAC 5970 6107	a small weather-beaten frame building , from which projected a wooden sign-board bearing the inscription : -- ARCHIBALD STRAIGHT , LAWYER
+T116	NOM_FAC 6182 6194	a vacant lot
+T117	NOM_FAC 6219 6338	a shop where a colored man was employed in varnishing a coffin , which stood on two trestles in the middle of the floor
+T44	PROP_PER 6463 6470	Warwick
+T118	NOM_PER 6524 6540	the coffin-maker
+T119	NOM_PER 6600 6603	suh
+T45	PROP_PER 6673 6680	Warwick
+T120	PROP_PER 6716 6730	Judge Straight
+T121	NOM_PER 6753 6765	De ole jedge
+T48	NOM_PER 6812 6815	suh
+T47	NOM_PER 7149 7153	oman
+T51	NOM_PER 7322 7334	de ole jedge
+T53	NOM_PER 7361 7364	suh
+T122	PROP_PER 7428 7435	Warwick
+T123	NOM_PER 7454 7468	the undertaker
+T124	NOM_PER 7581 7584	suh
+T54	NOM_PER 7644 7655	all de dead
+T125	NOM_PER 7708 7711	suh
+T55	NOM_PER 7806 7809	suh
+T126	NOM_GPE 7796 7803	de town
+T127	NOM_PER 7766 7803	all de bes ' w ' ite folks er de town
+T128	PROP_PER 7814 7821	Warwick
+T129	NOM_PER 7827 7841	the undertaker
+T130	NOM_PER 7893 7903	the lawyer
+T131	NOM_FAC 7893 7913	the lawyer 's office
+T132	NOM_FAC 7995 8028	the old black Presbyterian church
+T58	NOM_LOC 8068 8083	a stately grove
+T133	NOM_FAC 8219 8242	the old Jefferson House
+T134	NOM_FAC 8444 8482	The street down which Warwick had come
+T135	PROP_FAC 8613 8626	Liberty Point
+T136	PROP_FAC 8740 8753	Liberty Point
+T137	NOM_FAC 8815 8831	the market-house
+T138	PROP_PER 8975 8982	Warwick
+T73	NOM_PER 9314 9322	The girl
+T142	NOM_LOC 3128 3139	the country
+T143	NOM_FAC 8683 8688	there
+T144	NOM_FAC 4201 4227	the old constable 's place
+T146	PRON_PER 87 89	he
+T147	PRON_PER 401 403	he
+T148	PRON_PER 1046 1048	he
+T149	PRON_PER 1114 1116	he
+T150	PRON_PER 1235 1238	his
+T151	PRON_PER 1287 1289	He
+T152	PRON_PER 1411 1413	he
+T153	PRON_PER 1519 1521	he
+T154	PRON_PER 1553 1556	his
+T155	PRON_PER 1576 1579	his
+T156	PRON_PER 1773 1774	I
+T157	PRON_PER 1900 1903	him
+T158	PRON_PER 2000 2002	He
+T159	PRON_PER 2046 2048	he
+T160	PRON_PER 2065 2068	his
+T162	PRON_PER 2658 2661	him
+T163	PRON_PER 2713 2715	he
+T164	PRON_PER 2746 2748	we
+T165	PRON_PER 2760 2763	him
+T166	PRON_PER 3758 3762	them
+T167	PRON_PER 3958 3961	his
+T168	PRON_PER 4072 4075	him
+T169	PRON_PER 4083 4086	his
+T170	PRON_PER 4565 4567	He
+T171	PRON_PER 4675 4677	he
+T172	PRON_PER 4717 4719	he
+T173	PRON_PER 4811 4814	him
+T174	PRON_PER 4853 4856	him
+T175	PRON_PER 4941 4943	he
+T176	PRON_PER 4980 4982	He
+T177	PRON_PER 5000 5003	her
+T178	PRON_PER 5024 5027	her
+T179	PRON_PER 5054 5056	He
+T180	PRON_PER 5154 5156	he
+T181	PRON_PER 5320 5322	He
+T182	PRON_PER 5451 5453	he
+T183	PRON_PER 5585 5588	his
+T184	PRON_PER 5660 5662	he
+T185	PRON_PER 5852 5855	his
+T186	PRON_PER 5869 5871	he
+T187	PRON_PER 5954 5957	him
+T188	PRON_PER 6110 6112	He
+T189	PRON_PER 6167 6170	his
+T190	PRON_PER 6398 6401	his
+T191	PRON_PER 6409 6411	he
+T192	PRON_PER 6608 6610	he
+T193	PRON_PER 6626 6629	his
+T194	PRON_PER 6689 6692	you
+T195	PRON_PER 6698 6700	me
+T196	PRON_PER 6822 6824	he
+T197	PRON_PER 6875 6877	He
+T198	PRON_PER 6933 6934	I
+T199	PRON_PER 6982 6985	his
+T200	PRON_PER 7070 7071	I
+T201	PRON_PER 7079 7081	he
+T202	PRON_PER 7215 7217	He
+T203	PRON_PER 7279 7282	his
+T204	PRON_PER 7681 7683	we
+T205	PRON_PER 7714 7716	we
+T206	PRON_PER 7735 7737	We
+T207	PRON_PER 7863 7866	his
+T208	PRON_PER 7879 7881	he
+T209	PRON_PER 7929 7931	he
+T210	PRON_PER 7986 7989	him
+T211	PRON_PER 8839 8844	their
+T212	PRON_PER 8904 8907	her
+T213	PRON_PER 8933 8936	his
+T214	PRON_PER 9114 9116	he
+T215	PRON_PER 9137 9140	her
+T216	PRON_PER 9166 9168	he
+T217	PRON_PER 9247 9250	his
+T218	PRON_PER 9335 9337	he
+T219	PRON_PER 9379 9382	she
+T220	PRON_PER 9497 9500	Her
+T222	PRON_PER 9727 9729	He
+T223	PRON_PER 9745 9748	she
+T224	PRON_PER 9805 9808	she
+T225	PRON_PER 9899 9902	Her
+T226	PRON_PER 9922 9924	he
+T227	PRON_PER 9951 9953	he
+T228	NOM_PER 33 37	Time
+T304	A_STRANGER_FROM_SOUTH_CAROLINA-0 2 32	A STRANGER FROM SOUTH CAROLINA
+T303	SOUTH_CAROLINA-1 18 32	SOUTH CAROLINA
+T457	Time-2 33 37	Time
+T375	Time-2 87 89	he
+T376	Time-2 401 403	he
+T305	some_even-tempered_old_man_or_woman_who_seemed_to_have_drunk_of_the_fountain_of_youth-3 458 543	some even-tempered old man or woman who seemed to have drunk of the fountain of youth
+T306	town-4 573 671	an old town that , having long since ceased to grow , yet held its own without perceptible decline
+T308	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 792 994	a young man who came out of the front door of the Patesville Hotel about nine o'clock one fine morning in spring , a few years after the Civil War , and started down Front Street toward the market-house
+T230	the_Patesville_Hotel-6 838 858	the Patesville Hotel
+T231	Front_Street-7 958 970	Front Street
+T307	the_market-house-8 978 994	the market-house
+T234	town-4 1009 1017	the town
+T377	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1046 1048	he
+T309	the_steamboat-9 1073 1086	the steamboat
+T310	a_carriage-10 1090 1100	a carriage
+T378	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1114 1116	he
+T232	the_houses_along_the_street-11 1175 1202	the houses along the street
+T235	Front_Street-7 1192 1202	the street
+T379	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1235 1238	his
+T233	town-4 1264 1272	the town
+T380	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1287 1289	He
+T381	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1411 1413	he
+T382	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1519 1521	he
+T311	the_clerk-12 1532 1541	the clerk
+T383	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1553 1556	his
+T384	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1576 1579	his
+T312	the_day_clerk___who_had_just_come_on_duty-13 1588 1629	the day clerk , who had just come on duty
+T313	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1689 1701	JOHN WARWICK
+T314	CLARENCE-14 1704 1712	CLARENCE
+T236	SOUTH_CAROLINA-1 1715 1729	SOUTH CAROLINA
+T237	SOUTH_CAROLINA-1 1747 1762	South Ca ' lina
+T385	the_day_clerk___who_had_just_come_on_duty-13 1773 1774	I
+T315	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1824 1857	The gentleman from South Carolina
+T238	SOUTH_CAROLINA-1 1843 1857	South Carolina
+T239	Front_Street-7 1873 1883	the street
+T386	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 1900 1903	him
+T387	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 2000 2002	He
+T388	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 2046 2048	he
+T389	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 2065 2068	his
+T241	handsome_buildings-15 2339 2357	handsome buildings
+T316	Sherman-16 2379 2386	Sherman
+T242	the_sea-17 2399 2406	the sea
+T240	town-4 2430 2438	the town
+T317	The_stores-18 2441 2451	The stores
+T318	cities-19 2534 2540	cities
+T391	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 2658 2661	him
+T243	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 2693 2700	Warwick
+T392	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 2713 2715	he
+T393	we-20 2746 2748	we
+T394	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 2760 2763	him
+T319	the_market-house-8 2770 2786	the market-house
+T320	town-4 2812 2822	Patesville
+T247	town-4 2923 2931	the town
+T244	the_intersection_of_the_two_main_streets-21 2937 2977	the intersection of the two main streets
+T245	the_two_main_streets-22 2957 2977	the two main streets
+T323	each_street_corner-23 2993 3011	each street corner
+T321	the_market-house-8 3024 3040	the market-house
+T322	a_little_public_square-24 3041 3063	a little public square
+T324	carts-25 3106 3111	carts
+T325	wagons-26 3116 3122	wagons
+T371	the_country-27 3128 3139	the country
+T246	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 3172 3179	Warwick
+T326	the_market-house-8 3218 3234	the market-house
+T248	the_tall_tower-28 3430 3444	the tall tower
+T327	the_land-29 3527 3535	the land
+T251	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 3591 3598	Warwick
+T249	all_negroes-30 3703 3714	all negroes
+T395	all_negroes-30 3758 3762	them
+T250	the_old_constable___whose_chief_business_it_had_been_to_ring_the_bell-31 3842 3911	the old constable , whose chief business it had been to ring the bell
+T252	his_office-32 3958 3968	his office
+T396	the_old_constable___whose_chief_business_it_had_been_to_ring_the_bell-31 3958 3961	his
+T253	obliging_citizens-33 4030 4047	obliging citizens
+T397	the_old_constable___whose_chief_business_it_had_been_to_ring_the_bell-31 4072 4075	him
+T398	the_old_constable___whose_chief_business_it_had_been_to_ring_the_bell-31 4083 4086	his
+T254	convivial_spirits-34 4124 4141	convivial spirits
+T255	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4166 4173	Warwick
+T329	a_colored_policeman-35 4178 4197	a colored policeman
+T328	the_old_constable___whose_chief_business_it_had_been_to_ring_the_bell-31 4201 4218	the old constable
+T373	the_old_constable__s_place-36 4201 4227	the old constable 's place
+T330	handsome_buildings-15 4261 4281	the burned buildings
+T331	town-4 4314 4326	the old town
+T333	The_lower_story_of_the_market-house-37 4369 4404	The lower story of the market-house
+T334	a_little_public_square-24 4442 4459	the public square
+T332	the_market-house-8 4388 4404	the market-house
+T335	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4462 4469	Warwick
+T256	the_market-house-8 4528 4540	the building
+T399	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4565 4567	He
+T336	the_butcher_who_had_sold_fresh_meat_twice_a_week___on_market_days-38 4603 4668	the butcher who had sold fresh meat twice a week , on market days
+T400	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4675 4677	he
+T401	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4717 4719	he
+T337	old_Aunt_Lyddy-39 4757 4771	old Aunt Lyddy
+T402	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4811 4814	him
+T403	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4853 4856	him
+T258	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4927 4938	an idle boy
+T404	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4941 4943	he
+T259	the_market-house-8 4961 4977	the market-house
+T405	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 4980 4982	He
+T406	old_Aunt_Lyddy-39 5000 5003	her
+T407	old_Aunt_Lyddy-39 5024 5027	her
+T408	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5054 5056	He
+T260	the_town_hall_above-40 5115 5134	the town hall above
+T257	this_stairway-41 5140 5153	this stairway
+T409	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5154 5156	he
+T261	a_manacled_free_negro-42 5171 5192	a manacled free negro
+T262	the_town_hall_above-40 5216 5224	upstairs
+T339	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5267 5274	Warwick
+T410	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5320 5322	He
+T340	a_manacled_free_negro-42 5367 5377	the victim
+T341	the_gathering_crowd-43 5388 5407	the gathering crowd
+T263	The_murderer-44 5436 5448	The murderer
+T411	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5451 5453	he
+T264	a_merciful_governor-45 5541 5560	a merciful governor
+T412	The_murderer-44 5585 5588	his
+T267	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5603 5610	Warwick
+T265	a_prophet-100000 5623 5632	a prophet
+T268	the_son_of_a_prophet-100001 5637 5657	the son of a prophet
+T266	a_prophet-46 5648 5657	a prophet
+T413	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5660 5662	he
+T342	the_market-house-8 5792 5808	the market-house
+T269	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5811 5818	Warwick
+T414	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5852 5855	his
+T415	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5869 5871	he
+T416	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 5954 5957	him
+T344	a_small_weather-beaten_frame_building___from_which_projected_a_wooden_sign-board_bearing_the_inscription___--_ARCHIBALD_STRAIGHT___LAWYER-47 5970 6107	a small weather-beaten frame building , from which projected a wooden sign-board bearing the inscription : -- ARCHIBALD STRAIGHT , LAWYER
+T270	ARCHIBALD_STRAIGHT-48 6080 6098	ARCHIBALD STRAIGHT
+T343	LAWYER-100002 6101 6107	LAWYER
+T417	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6110 6112	He
+T418	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6167 6170	his
+T345	a_vacant_lot-49 6182 6194	a vacant lot
+T272	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6197 6210	the young man
+T346	a_shop_where_a_colored_man_was_employed_in_varnishing_a_coffin___which_stood_on_two_trestles_in_the_middle_of_the_floor-50 6219 6338	a shop where a colored man was employed in varnishing a coffin , which stood on two trestles in the middle of the floor
+T271	a_colored_man-51 6232 6245	a colored man
+T419	a_colored_man-51 6398 6401	his
+T420	a_colored_man-51 6409 6411	he
+T273	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6463 6470	Warwick
+T347	a_colored_man-51 6524 6540	the coffin-maker
+T348	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6600 6603	suh
+T421	a_colored_man-51 6608 6610	he
+T422	a_colored_man-51 6626 6629	his
+T274	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6673 6680	Warwick
+T423	a_colored_man-51 6689 6692	you
+T424	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6698 6700	me
+T349	Judge_Straight-52 6716 6730	Judge Straight
+T275	office-53 6734 6740	office
+T350	Judge_Straight-52 6753 6765	De ole jedge
+T277	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 6812 6815	suh
+T425	Judge_Straight-52 6822 6824	he
+T426	Judge_Straight-52 6875 6877	He
+T427	a_colored_man-51 6933 6934	I
+T279	a_colored_man-51 6956 6970	the undertaker
+T428	a_colored_man-51 6982 6985	his
+T429	a_colored_man-51 7070 7071	I
+T430	Judge_Straight-52 7079 7081	he
+T278	all_de_earth-54 7111 7123	all de earth
+T281	Man-55 7128 7131	Man
+T276	oman-56 7149 7153	oman
+T431	Man-55 7215 7217	He
+T432	Man-55 7279 7282	his
+T280	Judge_Straight-52 7322 7334	de ole jedge
+T282	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7361 7364	suh
+T351	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7428 7435	Warwick
+T352	a_colored_man-51 7454 7468	the undertaker
+T353	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7581 7584	suh
+T283	all_de_dead-57 7644 7655	all de dead
+T433	we-58 7681 7683	we
+T354	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7708 7711	suh
+T434	we-58 7714 7716	we
+T435	we-58 7735 7737	We
+T356	all_de_bes___w___ite_folks_er_de_town-59 7766 7803	all de bes ' w ' ite folks er de town
+T355	town-4 7796 7803	de town
+T284	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7806 7809	suh
+T357	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7814 7821	Warwick
+T358	a_colored_man-51 7827 7841	the undertaker
+T285	a_shop_where_a_colored_man_was_employed_in_varnishing_a_coffin___which_stood_on_two_trestles_in_the_middle_of_the_floor-50 7827 7849	the undertaker 's shop
+T436	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7863 7866	his
+T437	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7879 7881	he
+T359	Judge_Straight-52 7893 7903	the lawyer
+T360	the_lawyer__s_office-61 7893 7913	the lawyer 's office
+T438	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7929 7931	he
+T439	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 7986 7989	him
+T361	the_old_black_Presbyterian_church-62 7995 8028	the old black Presbyterian church
+T287	a_stately_grove-63 8068 8083	a stately grove
+T288	the_Catholic_church___with_its_many_crosses-64 8091 8134	the Catholic church , with its many crosses
+T290	St__James-65 8168 8177	St. James
+T362	the_old_Jefferson_House-66 8219 8242	the old Jefferson House
+T286	town-4 8271 8279	the town
+T289	Tyler-67 8430 8435	Tyler
+T363	The_street_down_which_Warwick_had_come-68 8444 8482	The street down which Warwick had come
+T293	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 8466 8473	Warwick
+T295	Front_Street-7 8495 8507	Front Street
+T292	the_Patesville_Hotel-6 8537 8550	the old hotel
+T364	Liberty_Point-69 8613 8626	Liberty Point
+T294	slave-70 8648 8653	slave
+T372	Liberty_Point-69 8683 8688	there
+T296	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 8724 8731	Warwick
+T365	Liberty_Point-69 8740 8753	Liberty Point
+T297	a_young_woman-71 8756 8769	a young woman
+T298	Front_Street-7 8780 8792	Front Street
+T366	the_market-house-8 8815 8831	the market-house
+T440	their-72 8839 8844	their
+T300	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 8863 8870	Warwick
+T299	Front_Street-7 8884 8896	Front Street
+T441	a_young_woman-71 8904 8907	her
+T442	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 8933 8936	his
+T367	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 8975 8982	Warwick
+T301	a_young_woman-71 9026 9041	the young woman
+T443	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 9114 9116	he
+T444	a_young_woman-71 9137 9140	her
+T445	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 9166 9168	he
+T446	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 9247 9250	his
+T302	a_young_woman-71 9314 9322	The girl
+T447	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 9335 9337	he
+T448	a_young_woman-71 9379 9382	she
+T449	a_young_woman-71 9497 9500	Her
+T451	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 9727 9729	He
+T452	a_young_woman-71 9745 9748	she
+T453	a_young_woman-71 9805 9808	she
+T454	a_young_woman-71 9899 9902	Her
+T455	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 9922 9924	he
+T456	a_young_man_who_came_out_of_the_front_door_of_the_Patesville_Hotel_about_nine_o_clock_one_fine_morning_in_spring___a_few_years_after_the_Civil_War___and_started_down_Front_Street_toward_the_market-house-5 9951 9953	he
+R1	appos Arg1:T109 Arg2:T108
+T460	PRON_GPE 636 639	its
+T461	town-4 636 639	its
+T466	PRON_FAC 3452 3455	its
+T467	the_tall_tower-28 3452 3455	its
+T476	PRON_FAC 4429 4432	its
+T477	The_lower_story_of_the_market-house-37 4429 4432	its
+T480	PRON_FAC 8036 8039	its
+T481	the_old_black_Presbyterian_church-62 8036 8039	its
+T482	PRON_FAC 8118 8121	its
+T483	the_Catholic_church___with_its_many_crosses-64 8118 8121	its
+T139	NOM_FAC 8250 8279	the leading hotel of the town
+T140	the_old_Jefferson_House-66 8250 8279	the leading hotel of the town

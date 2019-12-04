@@ -1,0 +1,638 @@
+T29	PROP_PER 146 150	Buck
+T68	PROP_LOC 336 347	Puget Sound
+T71	PROP_GPE 351 360	San Diego
+T75	NOM_PER 371 374	men
+T141	PROP_PER 718 722	Buck
+T154	PROP_PER 783 795	Judge Miller
+T242	NOM_PER 1252 1256	boys
+T249	NOM_PER 1288 1296	servants
+T291	PROP_PER 1509 1521	Judge Miller
+T312	PROP_PER 1621 1625	Buck
+T438	PROP_PER 2205 2211	Ysabel
+T460	PROP_PER 2320 2324	Buck
+T490	PROP_PER 2477 2483	Mollie
+T580	PROP_PER 2942 2948	Ysabel
+T588	NOM_PER 2981 2985	king
+T601	PROP_PER 3044 3056	Judge Miller
+T628	PROP_PER 3177 3181	Buck
+T803	PROP_PER 4059 4063	Buck
+T827	PROP_PER 4174 4178	Buck
+T854	PROP_PER 4310 4316	Manuel
+T918	NOM_PER 4619 4626	progeny
+T948	PROP_PER 4773 4779	Manuel
+T957	PROP_PER 4814 4818	Buck
+T965	PROP_PER 4854 4858	Buck
+T979	NOM_PER 4927 4930	man
+T1027	PROP_PER 5158 5164	Manuel
+T1035	PROP_PER 5202 5206	Buck
+T1056	PROP_PER 5286 5292	Manuel
+T1066	PROP_PER 5342 5346	Buck
+T1092	NOM_PER 5467 5470	men
+T1202	PROP_PER 6008 6012	Buck
+T1471	PROP_GPE 7261 7274	San Francisco
+T1665	PROP_PER 8118 8122	Buck
+T1799	PROP_PER 8783 8788	Judge
+T1803	NOM_PER 8798 8802	boys
+T1841	PROP_PER 8983 8987	Buck
+T1863	NOM_PER 9094 9097	men
+T1872	NOM_PER 9137 9147	tormentors
+T1874	PROP_PER 9150 9154	Buck
+T1959	NOM_PER 9584 9590	Clerks
+T5	NOM_FAC 1018 1027	driveways
+T6	NOM_FAC 1217 1224	stables
+T8	NOM_FAC 1342 1351	outhouses
+T13	NOM_FAC 1634 1638	Here
+T14	NOM_FAC 1657 1661	here
+T17	PROP_PER 2195 2200	Toots
+T21	PROP_PER 2488 2493	Alice
+T23	PROP_PER 2932 2937	Toots
+T24	PROP_PER 3099 3103	Elmo
+T25	PROP_PER 3320 3324	Shep
+T26	PROP_PER 4234 4240	Manuel
+T28	PROP_FAC 4992 5004	College Park
+T31	PROP_PER 5028 5034	Manuel
+T35	PROP_GPE 7079 7085	Frisco
+T37	NOM_GPE 7107 7112	there
+T40	NOM_FAC 7275 7286	water front
+T45	NOM_FAC 8347 8352	There
+T60	NOM_FAC 1391 1399	orchards
+T64	NOM_FAC 2825 2831	beyond
+T69	NOM_FAC 6548 6560	where he was
+T70	PROP_PER 1946 1951	Toots
+T72	PROP_PER 1976 1982	Ysabel
+T74	NOM_FAC 2834 2857	where the paddocks were
+T77	PROP_LOC 388 398	the Arctic
+T78	NOM_FAC 783 804	Judge Miller 's place
+T79	NOM_FAC 732 743	a big house
+T1	NOM_LOC 547 560	the Northland
+T80	NOM_FAC 842 850	the road
+T2	NOM_FAC 925 946	the wide cool veranda
+T3	NOM_FAC 980 989	The house
+T81	NOM_PER 1233 1247	a dozen grooms
+T82	NOM_FAC 1288 1307	servants ' cottages
+T7	NOM_FAC 1437 1454	the pumping plant
+T10	NOM_PER 1509 1529	Judge Miller 's boys
+T83	NOM_FAC 1787 1794	a place
+T84	NOM_FAC 1854 1874	the populous kennels
+T15	NOM_FAC 1915 1924	the house
+T16	NOM_PER 1954 1970	the Japanese pug
+T85	NOM_PER 1985 2005	the Mexican hairless
+T86	NOM_PER 2118 2134	the fox terriers
+T66	NOM_PER 2337 2346	house-dog
+T87	NOM_PER 2351 2361	kennel-dog
+T88	NOM_FAC 2364 2379	The whole realm
+T18	NOM_FAC 2406 2423	the swimming tank
+T19	NOM_PER 2445 2462	the Judge 's sons
+T89	NOM_PER 2445 2454	the Judge
+T20	NOM_PER 2496 2518	the Judge 's daughters
+T90	NOM_PER 2496 2505	the Judge
+T91	NOM_PER 2592 2601	the Judge
+T92	NOM_PER 2655 2664	the Judge
+T93	NOM_PER 2655 2677	the Judge 's grandsons
+T94	NOM_FAC 2798 2813	the stable yard
+T65	NOM_PER 2890 2902	the terriers
+T95	NOM_FAC 3044 3065	Judge Miller 's place
+T96	NOM_PER 3068 3074	humans
+T97	NOM_PER 3086 3096	His father
+T98	NOM_PER 3106 3124	a huge St. Bernard
+T99	NOM_PER 3136 3145	the Judge
+T100	NOM_PER 3136 3170	the Judge 's inseparable companion
+T101	NOM_PER 3215 3225	his father
+T103	NOM_PER 4549 4569	a gardener 's helper
+T104	NOM_PER 4549 4559	a gardener
+T105	NOM_PER 4599 4605	a wife
+T106	NOM_PER 3307 3317	his mother
+T107	NOM_PER 3336 3357	a Scotch shepherd dog
+T108	NOM_PER 3608 3626	a sated aristocrat
+T109	NOM_PER 3697 3714	country gentlemen
+T111	NOM_PER 4250 4273	the gardener 's helpers
+T112	NOM_PER 4250 4262	the gardener
+T113	NOM_PER 4280 4307	an undesirable acquaintance
+T114	NOM_PER 4629 4638	The Judge
+T115	NOM_PER 4698 4706	the boys
+T116	NOM_FAC 4834 4845	the orchard
+T27	NOM_FAC 4959 4982	the little flag station
+T30	NOM_PER 5007 5015	This man
+T117	NOM_PER 5126 5138	the stranger
+T118	NOM_PER 5299 5311	the stranger
+T120	NOM_PER 5846 5853	the man
+T121	NOM_PER 6307 6318	the two men
+T122	NOM_FAC 6334 6349	the baggage car
+T123	NOM_FAC 6469 6481	a conveyance
+T124	NOM_PER 6595 6604	the Judge
+T125	NOM_VEH 6644 6657	a baggage car
+T126	NOM_PER 6723 6739	a kidnapped king
+T127	NOM_PER 6742 6749	The man
+T128	NOM_PER 6928 6935	the man
+T129	NOM_PER 6972 6986	the baggageman
+T130	NOM_PER 7065 7073	the boss
+T131	NOM_PER 7088 7106	A crack dog-doctor
+T132	NOM_PER 7176 7183	the man
+T133	NOM_PER 7517 7530	the other mug
+T134	NOM_PER 7539 7556	the saloon-keeper
+T135	NOM_PER 7682 7699	the saloon-keeper
+T136	NOM_PER 7744 7756	a squarehead
+T137	NOM_PER 7761 7774	The kidnapper
+T138	NOM_PER 7928 7945	the saloon-keeper
+T139	NOM_PER 8141 8155	his tormentors
+T140	NOM_FAC 8328 8344	a cagelike crate
+T142	NOM_PER 8511 8528	these strange men
+T143	NOM_FAC 8568 8585	this narrow crate
+T144	NOM_PER 8855 8872	the saloon-keeper
+T145	NOM_PER 9036 9053	the saloon-keeper
+T146	NOM_FAC 7223 7236	a little shed
+T147	NOM_FAC 7245 7253	a saloon
+T38	NOM_FAC 9456 9465	the crate
+T39	NOM_FAC 9484 9491	a wagon
+T41	NOM_FAC 9508 9517	the crate
+T42	NOM_FAC 9657 9670	another wagon
+T43	NOM_FAC 9673 9680	a truck
+T44	NOM_FAC 9742 9757	a ferry steamer
+T46	NOM_FAC 9779 9790	the steamer
+T47	NOM_FAC 9796 9817	a great railway depot
+T32	PROP_PER 6778 6782	Buck
+T33	NOM_PER 263 360	every tide-water dog , strong of muscle and with warm , long hair , from Puget Sound to San Diego
+T34	NOM_PER 563 572	These men
+T36	NOM_LOC 747 780	the sun-kissed Santa Clara Valley
+T48	NOM_PER 512 528	thousands of men
+T49	NOM_FAC 1602 1620	this great demesne
+T12	NOM_PER 1765 1775	other dogs
+T50	NOM_PER 1729 1739	other dogs
+T51	NOM_FAC 1899 1924	the recesses of the house
+T52	NOM_PER 2264 2286	a legion of housemaids
+T54	NOM_PER 3001 3065	all creeping , crawling , flying things of Judge Miller 's place
+T55	NOM_PER 5589 5601	the stranger
+T56	NOM_PER 9179 9201	evil-looking creatures
+T53	NOM_FAC 9594 9612	the express office
+T57	NOM_VEH 9852 9866	an express car
+T9	NOM_LOC 1380 1388	pastures
+T11	NOM_LOC 4151 4167	the frozen North
+T4	NOM_LOC 4136 4145	the world
+T22	NOM_PER 4123 4145	men from all the world
+T1963	NOM_PER 4795 4801	No one
+T1964	NOM_PER 4933 4939	no one
+T1965	PRON_PER 184 186	he
+T1966	PRON_PER 245 252	himself
+T1967	PRON_PER 600 604	they
+T1969	PRON_PER 1535 1540	their
+T1970	PRON_PER 1639 1641	he
+T1971	PRON_PER 1662 1664	he
+T1972	PRON_PER 1693 1696	his
+T1975	PRON_PER 2148 2152	them
+T1976	PRON_PER 2242 2246	them
+T1977	PRON_PER 2384 2387	his
+T1978	PRON_PER 2390 2392	He
+T1979	PRON_PER 2465 2467	he
+T1980	PRON_PER 2582 2584	he
+T1981	PRON_PER 2644 2646	he
+T1982	PRON_PER 2681 2684	his
+T1983	PRON_PER 2702 2706	them
+T1984	PRON_PER 2734 2739	their
+T1985	PRON_PER 2903 2905	he
+T1986	PRON_PER 2949 2951	he
+T1987	PRON_PER 2974 2976	he
+T1988	PRON_PER 3086 3089	His
+T1989	PRON_PER 3215 3218	his
+T1990	PRON_PER 3228 3230	He
+T1991	PRON_PER 3253 3255	he
+T1992	PRON_PER 3307 3310	his
+T1993	PRON_PER 3495 3498	him
+T1994	PRON_PER 3508 3515	himself
+T1995	PRON_PER 3569 3572	his
+T1996	PRON_PER 3583 3585	he
+T1997	PRON_PER 3629 3631	he
+T1998	PRON_PER 3652 3659	himself
+T1999	PRON_PER 3743 3748	their
+T2000	PRON_PER 3773 3775	he
+T2001	PRON_PER 3786 3793	himself
+T2002	PRON_PER 3910 3913	his
+T2003	PRON_PER 3931 3934	him
+T2004	PRON_PER 4213 4215	he
+T2005	PRON_PER 4341 4343	He
+T2006	PRON_PER 4386 4389	his
+T2007	PRON_PER 4401 4403	he
+T2008	PRON_PER 4468 4471	his
+T2009	PRON_PER 4806 4809	him
+T2010	PRON_PER 4944 4948	them
+T2011	PRON_PER 5063 5067	them
+T2012	PRON_PER 5072 5075	You
+T2013	PRON_PER 5107 5110	you
+T2014	PRON_PER 5252 5255	you
+T2015	PRON_PER 5440 5442	he
+T2016	PRON_PER 5471 5473	he
+T2017	PRON_PER 5493 5497	them
+T2018	PRON_PER 5534 5537	his
+T2019	PRON_PER 5613 5615	he
+T2020	PRON_PER 5637 5639	He
+T2021	PRON_PER 5661 5664	his
+T2022	PRON_PER 5682 5685	his
+T2023	PRON_PER 5743 5746	his
+T2024	PRON_PER 5782 5785	his
+T2025	PRON_PER 5806 5809	his
+T2026	PRON_PER 5833 5835	he
+T2027	PRON_PER 5864 5867	him
+T2028	PRON_PER 5887 5890	him
+T2029	PRON_PER 5941 5944	him
+T2030	PRON_PER 5953 5956	his
+T2031	PRON_PER 6035 6038	his
+T2032	PRON_PER 6061 6064	his
+T2033	PRON_PER 6075 6078	his
+T2034	PRON_PER 6123 6126	his
+T2035	PRON_PER 6136 6138	he
+T2036	PRON_PER 6181 6184	his
+T2037	PRON_PER 6194 6196	he
+T2038	PRON_PER 6217 6220	his
+T2039	PRON_PER 6238 6241	his
+T2040	PRON_PER 6260 6262	he
+T2041	PRON_PER 6325 6328	him
+T2042	PRON_PER 6361 6363	he
+T2043	PRON_PER 6371 6373	he
+T2044	PRON_PER 6395 6398	his
+T2045	PRON_PER 6427 6429	he
+T2046	PRON_PER 6544 6547	him
+T2047	PRON_PER 6554 6556	he
+T2048	PRON_PER 6563 6565	He
+T2049	PRON_PER 6660 6662	He
+T2050	PRON_PER 6670 6673	his
+T2052	PRON_PER 6761 6764	his
+T2053	PRON_PER 6801 6804	him
+T2054	PRON_PER 6807 6810	His
+T2056	PRON_PER 6861 6864	his
+T2057	PRON_PER 6891 6894	him
+T2058	PRON_PER 6950 6953	his
+T2059	PRON_PER 7042 7043	I
+T2060	PRON_PER 7125 7127	he
+T2061	PRON_PER 7210 7217	himself
+T2062	PRON_PER 7295 7296	I
+T2063	PRON_PER 7321 7323	he
+T2064	PRON_PER 7342 7343	I
+T2065	PRON_PER 7396 7399	His
+T2066	PRON_PER 7638 7640	me
+T2067	PRON_PER 7719 7721	he
+T2068	PRON_PER 7739 7740	I
+T2069	PRON_PER 7816 7819	his
+T2070	PRON_PER 7842 7843	I
+T2071	PRON_PER 7895 7898	you
+T2072	PRON_PER 7962 7964	me
+T2073	PRON_PER 7979 7982	you
+T2074	PRON_PER 7988 7992	your
+T2075	PRON_PER 8005 8007	he
+T2076	PRON_PER 8112 8115	him
+T2077	PRON_PER 8141 8144	his
+T2078	PRON_PER 8162 8164	he
+T2079	PRON_PER 8210 8214	they
+T2080	PRON_PER 8267 8270	his
+T2081	PRON_PER 8310 8312	he
+T2082	PRON_PER 8353 8355	he
+T2083	PRON_PER 8407 8410	his
+T2084	PRON_PER 8437 8439	He
+T2085	PRON_PER 8490 8494	they
+T2086	PRON_PER 8505 8508	him
+T2087	PRON_PER 8540 8544	they
+T2088	PRON_PER 8553 8556	him
+T2089	PRON_PER 8588 8590	He
+T2090	PRON_PER 8614 8616	he
+T2091	PRON_PER 8706 8708	he
+T2092	PRON_PER 8719 8722	his
+T2093	PRON_PER 8891 8894	him
+T2094	PRON_PER 9058 9061	him
+T2095	PRON_PER 9169 9173	they
+T2096	PRON_PER 9229 9231	he
+T2097	PRON_PER 9253 9257	them
+T2098	PRON_PER 9277 9281	They
+T2099	PRON_PER 9315 9318	him
+T2100	PRON_PER 9327 9329	he
+T2101	PRON_PER 9353 9356	his
+T2102	PRON_PER 9368 9370	he
+T2103	PRON_PER 9399 9403	they
+T2104	PRON_PER 9423 9425	he
+T2105	PRON_PER 9499 9501	he
+T2106	PRON_PER 9527 9529	he
+T2107	PRON_PER 9628 9631	him
+T2108	PRON_PER 9634 9636	he
+T2109	PRON_PER 9689 9692	him
+T2110	PRON_PER 9760 9762	he
+T2111	PRON_PER 9832 9834	he
+T2141	Buck-0 146 150	Buck
+T4077	Buck-0 184 186	he
+T4078	Buck-0 245 252	himself
+T2145	every_tide-water_dog___strong_of_muscle_and_with_warm___long_hair___from_Puget_Sound_to_San_Diego-1 263 360	every tide-water dog , strong of muscle and with warm , long hair , from Puget Sound to San Diego
+T2180	Puget_Sound-2 336 347	Puget Sound
+T2183	San_Diego-3 351 360	San Diego
+T2187	men-4 371 374	men
+T2189	the_Arctic-5 388 398	the Arctic
+T2160	thousands_of_men-6 512 528	thousands of men
+T2113	the_Northland-7 547 560	the Northland
+T2146	thousands_of_men-6 563 572	These men
+T4079	thousands_of_men-6 600 604	they
+T2253	Buck-0 718 722	Buck
+T2191	a_big_house-8 732 743	a big house
+T2148	the_sun-kissed_Santa_Clara_Valley-9 747 780	the sun-kissed Santa Clara Valley
+T2266	Judge_Miller-10 783 795	Judge Miller
+T2192	the_road-12 842 850	the road
+T2114	the_wide_cool_veranda-13 925 946	the wide cool veranda
+T2115	a_big_house-8 980 989	The house
+T2117	driveways-14 1018 1027	driveways
+T2118	stables-15 1217 1224	stables
+T2193	a_dozen_grooms-16 1233 1247	a dozen grooms
+T2354	boys-17 1252 1256	boys
+T2361	servants-18 1288 1296	servants
+T2194	servants___cottages-19 1288 1307	servants ' cottages
+T2120	outhouses-20 1342 1351	outhouses
+T2121	pastures-21 1380 1388	pastures
+T2172	orchards-22 1391 1399	orchards
+T2119	the_pumping_plant-23 1437 1454	the pumping plant
+T2403	Judge_Miller-10 1509 1521	Judge Miller
+T2122	Judge_Miller__s_boys-24 1509 1529	Judge Miller 's boys
+T4081	Judge_Miller__s_boys-24 1535 1540	their
+T2161	this_great_demesne-25 1602 1620	this great demesne
+T2424	Buck-0 1621 1625	Buck
+T2125	a_big_house-8 1634 1638	Here
+T4082	Buck-0 1639 1641	he
+T2126	a_big_house-8 1657 1661	here
+T4083	Buck-0 1662 1664	he
+T4084	Buck-0 1693 1696	his
+T2162	other_dogs-100000 1729 1739	other dogs
+T2124	other_dogs-100001 1765 1775	other dogs
+T2195	a_big_house-8 1787 1794	a place
+T2196	the_populous_kennels-26 1854 1874	the populous kennels
+T2163	the_recesses_of_the_house-27 1899 1924	the recesses of the house
+T2127	a_big_house-8 1915 1924	the house
+T2182	Toots-28 1946 1951	Toots
+T2184	Ysabel-29 1976 1982	Ysabel
+T2198	the_fox_terriers-30 2118 2134	the fox terriers
+T4087	the_fox_terriers-30 2148 2152	them
+T2129	Toots-28 2195 2200	Toots
+T2550	Ysabel-29 2205 2211	Ysabel
+T4088	them-31 2242 2246	them
+T2164	a_legion_of_housemaids-32 2264 2286	a legion of housemaids
+T2572	Buck-0 2320 2324	Buck
+T2178	house-dog-100002 2337 2346	house-dog
+T2199	kennel-dog-100003 2351 2361	kennel-dog
+T2200	a_big_house-8 2364 2379	The whole realm
+T4089	Buck-0 2384 2387	his
+T4090	Buck-0 2390 2392	He
+T2130	the_swimming_tank-33 2406 2423	the swimming tank
+T2131	Judge_Miller__s_boys-24 2445 2462	the Judge 's sons
+T2201	Judge_Miller-10 2445 2454	the Judge
+T4091	Buck-0 2465 2467	he
+T2602	Mollie-35 2477 2483	Mollie
+T2133	Alice-36 2488 2493	Alice
+T2132	the_Judge__s_daughters-37 2496 2518	the Judge 's daughters
+T2202	Judge_Miller-10 2496 2505	the Judge
+T4092	Buck-0 2582 2584	he
+T2203	Judge_Miller-10 2592 2601	the Judge
+T4093	Buck-0 2644 2646	he
+T2204	Judge_Miller-10 2655 2664	the Judge
+T2205	the_Judge__s_grandsons-38 2655 2677	the Judge 's grandsons
+T4094	Judge_Miller-10 2681 2684	his
+T4095	the_Judge__s_grandsons-38 2702 2706	them
+T4096	the_Judge__s_grandsons-38 2734 2739	their
+T2206	the_stable_yard-39 2798 2813	the stable yard
+T2176	beyond-40 2825 2831	beyond
+T2186	where_the_paddocks_were-41 2834 2857	where the paddocks were
+T2177	the_fox_terriers-30 2890 2902	the terriers
+T4097	Buck-0 2903 2905	he
+T2135	Toots-28 2932 2937	Toots
+T2692	Ysabel-29 2942 2948	Ysabel
+T4098	Buck-0 2949 2951	he
+T4099	Buck-0 2974 2976	he
+T2166	all_creeping___crawling___flying_things_of_Judge_Miller__s_place-42 3001 3065	all creeping , crawling , flying things of Judge Miller 's place
+T2713	Judge_Miller-10 3044 3056	Judge Miller
+T2207	a_big_house-8 3044 3065	Judge Miller 's place
+T2208	humans-43 3068 3074	humans
+T2209	His_father-44 3086 3096	His father
+T4100	Buck-0 3086 3089	His
+T2211	Judge_Miller-10 3136 3145	the Judge
+T2740	Buck-0 3177 3181	Buck
+T2213	His_father-44 3215 3225	his father
+T4101	Buck-0 3215 3218	his
+T4102	Buck-0 3228 3230	He
+T4103	Buck-0 3253 3255	he
+T2218	his_mother-45 3307 3317	his mother
+T4104	Buck-0 3307 3310	his
+T4105	Buck-0 3495 3498	him
+T4106	Buck-0 3508 3515	himself
+T4107	Buck-0 3569 3572	his
+T4108	Buck-0 3583 3585	he
+T2220	a_sated_aristocrat-46 3608 3626	a sated aristocrat
+T4109	Buck-0 3629 3631	he
+T4110	Buck-0 3652 3659	himself
+T2221	country_gentlemen-47 3697 3714	country gentlemen
+T4111	country_gentlemen-47 3743 3748	their
+T4112	Buck-0 3773 3775	he
+T4113	Buck-0 3786 3793	himself
+T4114	Buck-0 3910 3913	his
+T4115	Buck-0 3931 3934	him
+T2915	Buck-0 4059 4063	Buck
+T2134	men_from_all_the_world-48 4123 4145	men from all the world
+T2116	the_world-49 4136 4145	the world
+T2123	the_Northland-7 4151 4167	the frozen North
+T2939	Buck-0 4174 4178	Buck
+T4116	Buck-0 4213 4215	he
+T2138	Manuel-50 4234 4240	Manuel
+T2223	the_gardener__s_helpers-51 4250 4273	the gardener 's helpers
+T2224	the_gardener-52 4250 4262	the gardener
+T2966	Manuel-50 4310 4316	Manuel
+T4117	Manuel-50 4341 4343	He
+T4118	Manuel-50 4386 4389	his
+T4119	Manuel-50 4401 4403	he
+T4120	Manuel-50 4468 4471	his
+T2215	a_gardener__s_helper-53 4549 4569	a gardener 's helper
+T2216	a_gardener-54 4549 4559	a gardener
+T2217	a_wife-55 4599 4605	a wife
+T3030	progeny-56 4619 4626	progeny
+T2226	Judge_Miller-10 4629 4638	The Judge
+T2227	Judge_Miller__s_boys-24 4698 4706	the boys
+T3060	Manuel-50 4773 4779	Manuel
+T4075	No_one-100004 4795 4801	No one
+T4121	Manuel-50 4806 4809	him
+T3069	Buck-0 4814 4818	Buck
+T2228	the_orchard-57 4834 4845	the orchard
+T3077	Buck-0 4854 4858	Buck
+T3091	man_sold_to-58 4927 4930	man
+T4076	no_one-100005 4933 4939	no one
+T4122	them-59 4944 4948	them
+T2139	the_little_flag_station-60 4959 4982	the little flag station
+T2140	the_little_flag_station-60 4992 5004	College Park
+T2142	man_sold_to-58 5007 5015	This man
+T2143	Manuel-50 5028 5034	Manuel
+T4123	them-61 5063 5067	them
+T4124	Manuel-50 5072 5075	You
+T4125	Manuel-50 5107 5110	you
+T2229	man_sold_to-58 5126 5138	the stranger
+T3139	Manuel-50 5158 5164	Manuel
+T3147	Buck-0 5202 5206	Buck
+T4126	man_sold_to-58 5252 5255	you
+T3168	Manuel-50 5286 5292	Manuel
+T2230	man_sold_to-58 5299 5311	the stranger
+T3178	Buck-0 5342 5346	Buck
+T4127	Buck-0 5440 5442	he
+T3204	men-62 5467 5470	men
+T4128	Buck-0 5471 5473	he
+T4129	men-62 5493 5497	them
+T4130	Buck-0 5534 5537	his
+T2167	man_sold_to-58 5589 5601	the stranger
+T4131	Buck-0 5613 5615	he
+T4132	Buck-0 5637 5639	He
+T4133	Buck-0 5661 5664	his
+T4134	Buck-0 5682 5685	his
+T4135	Buck-0 5743 5746	his
+T4136	Buck-0 5782 5785	his
+T4137	Buck-0 5806 5809	his
+T4138	Buck-0 5833 5835	he
+T2232	man_sold_to-58 5846 5853	the man
+T4139	Buck-0 5864 5867	him
+T4140	Buck-0 5887 5890	him
+T4141	Buck-0 5941 5944	him
+T4142	Buck-0 5953 5956	his
+T3314	Buck-0 6008 6012	Buck
+T4143	Buck-0 6035 6038	his
+T4144	Buck-0 6061 6064	his
+T4145	Buck-0 6075 6078	his
+T4146	Buck-0 6123 6126	his
+T4147	Buck-0 6136 6138	he
+T4148	Buck-0 6181 6184	his
+T4149	Buck-0 6194 6196	he
+T4150	Buck-0 6217 6220	his
+T4151	Buck-0 6238 6241	his
+T4152	Buck-0 6260 6262	he
+T2233	them-59 6307 6318	the two men
+T4153	Buck-0 6325 6328	him
+T2234	the_baggage_car-63 6334 6349	the baggage car
+T4154	Buck-0 6361 6363	he
+T4155	Buck-0 6371 6373	he
+T4156	Buck-0 6395 6398	his
+T4157	Buck-0 6427 6429	he
+T2235	a_conveyance-64 6469 6481	a conveyance
+T4158	Buck-0 6544 6547	him
+T4159	Buck-0 6554 6556	he
+T4160	Buck-0 6563 6565	He
+T2236	Judge_Miller-10 6595 6604	the Judge
+T2181	the_baggage_car-63 6548 6560	where he was
+T2237	a_baggage_car-65 6644 6657	a baggage car
+T4161	Buck-0 6660 6662	He
+T4162	Buck-0 6670 6673	his
+T2238	a_kidnapped_king-66 6723 6739	a kidnapped king
+T2239	man_sold_to-58 6742 6749	The man
+T4164	Buck-0 6761 6764	his
+T2144	Buck-0 6778 6782	Buck
+T4165	man_sold_to-58 6801 6804	him
+T4166	Buck-0 6807 6810	His
+T4168	Buck-0 6861 6864	his
+T4169	Buck-0 6891 6894	him
+T2240	man_sold_to-58 6928 6935	the man
+T4170	man_sold_to-58 6950 6953	his
+T2241	the_baggageman-67 6972 6986	the baggageman
+T4171	man_sold_to-58 7042 7043	I
+T2242	the_boss-68 7065 7073	the boss
+T2147	Frisco-69 7079 7085	Frisco
+T2243	A_crack_dog-doctor-70 7088 7106	A crack dog-doctor
+T2149	Frisco-69 7107 7112	there
+T4172	A_crack_dog-doctor-70 7125 7127	he
+T2244	man_sold_to-58 7176 7183	the man
+T4173	man_sold_to-58 7210 7217	himself
+T2258	a_little_shed-71 7223 7236	a little shed
+T2259	a_saloon-72 7245 7253	a saloon
+T3583	Frisco-69 7261 7274	San Francisco
+T2152	water_front-73 7275 7286	water front
+T4174	man_sold_to-58 7295 7296	I
+T4175	man_sold_to-58 7321 7323	he
+T4176	man_sold_to-58 7342 7343	I
+T4177	man_sold_to-58 7396 7399	His
+T2245	Manuel-50 7517 7530	the other mug
+T2246	the_saloon-keeper-74 7539 7556	the saloon-keeper
+T4178	man_sold_to-58 7638 7640	me
+T2247	the_saloon-keeper-74 7682 7699	the saloon-keeper
+T4179	Buck-0 7719 7721	he
+T4180	the_saloon-keeper-74 7739 7740	I
+T2249	man_sold_to-58 7761 7774	The kidnapper
+T4181	man_sold_to-58 7816 7819	his
+T4182	the_saloon-keeper-74 7842 7843	I
+T4183	man_sold_to-58 7895 7898	you
+T2250	the_saloon-keeper-74 7928 7945	the saloon-keeper
+T4184	the_saloon-keeper-74 7962 7964	me
+T4185	man_sold_to-58 7979 7982	you
+T4186	man_sold_to-58 7988 7992	your
+T4187	the_saloon-keeper-74 8005 8007	he
+T4188	Buck-0 8112 8115	him
+T3777	Buck-0 8118 8122	Buck
+T2251	his_tormentors-75 8141 8155	his tormentors
+T4189	Buck-0 8141 8144	his
+T4190	Buck-0 8162 8164	he
+T4191	his_tormentors-75 8210 8214	they
+T4192	Buck-0 8267 8270	his
+T4193	Buck-0 8310 8312	he
+T2252	a_cagelike_crate-76 8328 8344	a cagelike crate
+T2157	a_cagelike_crate-76 8347 8352	There
+T4194	Buck-0 8353 8355	he
+T4195	Buck-0 8407 8410	his
+T4196	Buck-0 8437 8439	He
+T4197	his_tormentors-75 8490 8494	they
+T4198	Buck-0 8505 8508	him
+T2254	his_tormentors-75 8511 8528	these strange men
+T4199	his_tormentors-75 8540 8544	they
+T4200	Buck-0 8553 8556	him
+T2255	a_cagelike_crate-76 8568 8585	this narrow crate
+T4201	Buck-0 8588 8590	He
+T4202	Buck-0 8614 8616	he
+T4203	Buck-0 8706 8708	he
+T4204	Buck-0 8719 8722	his
+T3911	Judge_Miller-10 8783 8788	Judge
+T3915	Judge_Miller__s_boys-24 8798 8802	boys
+T2256	the_saloon-keeper-74 8855 8872	the saloon-keeper
+T4205	Buck-0 8891 8894	him
+T3953	Buck-0 8983 8987	Buck
+T2257	the_saloon-keeper-74 9036 9053	the saloon-keeper
+T4206	Buck-0 9058 9061	him
+T3975	men-77 9094 9097	men
+T3984	tormentors-78 9137 9147	tormentors
+T3986	Buck-0 9150 9154	Buck
+T4207	tormentors-78 9169 9173	they
+T4208	Buck-0 9229 9231	he
+T4209	tormentors-78 9253 9257	them
+T4210	tormentors-78 9277 9281	They
+T4211	Buck-0 9315 9318	him
+T4212	Buck-0 9327 9329	he
+T4213	Buck-0 9353 9356	his
+T4214	Buck-0 9368 9370	he
+T4215	tormentors-78 9399 9403	they
+T4216	Buck-0 9423 9425	he
+T2150	a_cagelike_crate-76 9456 9465	the crate
+T2151	a_wagon-79 9484 9491	a wagon
+T4217	Buck-0 9499 9501	he
+T2153	a_cagelike_crate-76 9508 9517	the crate
+T4218	Buck-0 9527 9529	he
+T4071	Clerks-80 9584 9590	Clerks
+T2165	the_express_office-81 9594 9612	the express office
+T4219	Buck-0 9628 9631	him
+T4220	Buck-0 9634 9636	he
+T2154	another_wagon-82 9657 9670	another wagon
+T2155	a_truck-83 9673 9680	a truck
+T4221	Buck-0 9689 9692	him
+T2156	a_ferry_steamer-84 9742 9757	a ferry steamer
+T4222	Buck-0 9760 9762	he
+T2158	a_ferry_steamer-84 9779 9790	the steamer
+T2159	a_great_railway_depot-85 9796 9817	a great railway depot
+T4223	Buck-0 9832 9834	he
+T2169	express_car-803 9852 9866	an express car
+R1	appos Arg1:T16 Arg2:T70
+R2	appos Arg1:T85 Arg2:T72
+R3	cop Arg1:T588 Arg2:T1987
+R5	appos Arg1:T24 Arg2:T97
+R6	appos Arg1:T98 Arg2:T97
+R7	cop Arg1:T100 Arg2:T97
+R8	appos Arg1:T25 Arg2:T106
+R9	cop Arg1:T107 Arg2:T25
+R10	cop Arg1:T113 Arg2:T26
+R11	cop Arg1:T136 Arg2:T2068
+R12	cop Arg1:T56 Arg2:T2095
+T4226	PRON_FAC 807 809	it
+T4227	a_big_house-8 807 809	it
+T4228	PRON_FAC 823 825	It
+T4229	a_big_house-8 823 825	It
+T4230	PRON_FAC 963 966	its
+T4231	a_big_house-8 963 966	its
+R13	cop Arg1:T78 Arg2:T4226
+T58	NOM_PER 2991 3083	king over all creeping , crawling , flying things of Judge Miller 's place , humans included
+R4	appos Arg1:T58 Arg2:T588

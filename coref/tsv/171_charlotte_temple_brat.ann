@@ -1,0 +1,620 @@
+MENTION	T0	2	11	2	12	his companion	PER	NOM
+MENTION	T2	3	9	3	9	Portsmouth	GPE	PROP
+MENTION	T3	4	26	4	26	church	FAC	NOM
+MENTION	T4	4	11	4	12	the town	GPE	NOM
+MENTION	T5	4	19	4	20	the inhabitants	PER	NOM
+MENTION	T6	5	28	5	28	America	GPE	PROP
+MENTION	T7	5	21	5	22	their friends	PER	NOM
+MENTION	T9	5	35	5	43	Portsmouth , where the troops waited orders for embarkation	GPE	NOM
+MENTION	T10	5	8	5	8	Belcour	PER	PROP
+MENTION	T12	6	4	6	4	Chichester	GPE	PROP
+MENTION	T13	7	38	7	39	the church	FAC	NOM
+MENTION	T14	7	12	7	13	the inn	FAC	NOM
+MENTION	T15	8	9	8	11	the young soldiers	PER	NOM
+MENTION	T17	9	32	9	32	Portsmouth	GPE	PROP
+MENTION	T18	9	7	9	7	Montraville	PER	PROP
+MENTION	T19	9	0	9	4	A tall , elegant girl	PER	NOM
+MENTION	T20	10	9	10	12	a very lovely child	PER	NOM
+MENTION	T21	10	28	10	29	her person	PER	NOM
+MENTION	T22	12	17	12	18	the inn	FAC	NOM
+MENTION	T23	12	7	12	8	the world	LOC	NOM
+MENTION	T24	12	3	12	8	the sweetest girl in the world	PER	NOM
+MENTION	T25	15	15	15	16	the Americans	PER	PROP
+MENTION	T26	15	12	15	13	our friends	PER	NOM
+MENTION	T27	15	5	15	5	Belcour	PER	PROP
+MENTION	T29	16	37	16	38	the girl	PER	NOM
+MENTION	T31	17	25	17	26	his companion	PER	NOM
+MENTION	T32	17	35	17	37	its fair inhabitant	PER	NOM
+MENTION	T33	17	23	17	23	Montraville	PER	PROP
+MENTION	T34	17	33	17	33	Chichester	GPE	PROP
+MENTION	T35	18	1	18	1	Charlotte	PER	PROP
+MENTION	T36	19	13	19	14	the servant	PER	NOM
+MENTION	T37	19	41	19	44	the lovely Charlotte Temple	PER	PROP
+MENTION	T38	19	5	19	6	the town	GPE	NOM
+MENTION	T39	20	11	20	12	the house	FAC	NOM
+MENTION	T40	22	58	22	60	this lovely girl	PER	NOM
+MENTION	T42	22	36	22	36	England	GPE	PROP
+MENTION	T43	23	4	23	4	Portsmouth	GPE	PROP
+MENTION	T45	25	3	25	3	Montraville	PER	PROP
+MENTION	T46	26	41	26	42	two women	PER	NOM
+MENTION	T47	28	54	28	55	Charlotte Temple	PER	PROP
+MENTION	T48	28	24	28	25	the town	GPE	NOM
+MENTION	T49	29	13	29	18	a French teacher at the school	PER	NOM
+MENTION	T50	32	0	32	1	MR. Temple	PER	PROP
+MENTION	T51	33	29	33	30	his sisters	PER	NOM
+MENTION	T52	33	34	33	37	old , decrepid men	PER	NOM
+MENTION	T54	33	23	33	24	the house	PER	NOM
+MENTION	T55	33	2	33	4	his elder brother	PER	NOM
+MENTION	T56	34	28	34	29	a cottage	FAC	NOM
+MENTION	T57	35	0	35	1	Mr. Temple	PER	PROP
+MENTION	T59	38	3	38	5	a benevolent fellow	PER	NOM
+MENTION	T61	39	10	39	10	Temple	PER	PROP
+MENTION	T65	41	33	41	35	the Fleet prison	FAC	NOM
+MENTION	T66	42	0	42	1	The officer	PER	NOM
+MENTION	T67	42	4	42	5	Captain Eldridge	PER	PROP
+MENTION	T68	42	7	42	8	a person	PER	NOM
+MENTION	T69	42	26	42	30	a miserable , small apartment	FAC	NOM
+MENTION	T70	42	35	42	38	the Captain ’s room	FAC	NOM
+MENTION	T72	43	0	43	6	The officer , whose name was Blakeney	PER	NOM
+MENTION	T74	50	4	50	6	the old man	PER	NOM
+MENTION	T75	50	23	50	23	Temple	PER	PROP
+MENTION	T76	50	14	50	14	Blakeney	PER	PROP
+MENTION	T77	50	33	50	34	the room	FAC	NOM
+MENTION	T78	51	11	51	11	Temple	PER	PROP
+MENTION	T81	53	12	53	14	that poor girl	PER	NOM
+MENTION	T82	53	23	53	24	the father	PER	NOM
+MENTION	T83	54	26	54	27	a sailor	PER	NOM
+MENTION	T84	55	0	55	0	Temple	PER	PROP
+MENTION	T85	55	5	55	6	Miss Eldridge	PER	PROP
+MENTION	T87	58	10	58	12	the old man	PER	NOM
+MENTION	T88	1	0	1	2	A BOARDING SCHOOL	FAC	NOM
+MENTION	T1	2	9	2	9	Montraville	PER	PROP
+MENTION	T89	4	0	4	0	Belcour	PER	PROP
+MENTION	T90	5	0	5	0	Montraville	PER	PROP
+MENTION	T91	5	5	5	6	the army	ORG	NOM
+MENTION	T92	5	2	5	6	a Lieutenant in the army	PER	NOM
+MENTION	T8	5	10	5	12	his brother officer	PER	NOM
+MENTION	T93	5	38	5	39	the troops	PER	NOM
+MENTION	T94	6	16	6	19	the place of destination	GPE	NOM
+MENTION	T11	6	44	6	44	Chichester	GPE	PROP
+MENTION	T95	7	18	7	19	the belles	PER	NOM
+MENTION	T96	7	25	7	27	Madame Du Pont	PER	PROP
+MENTION	T97	7	33	7	34	her school	FAC	NOM
+MENTION	T98	8	1	8	6	an assemblage of youth and innocence	PER	NOM
+MENTION	T99	8	19	8	21	the little cavalcade	PER	NOM
+MENTION	T16	9	17	9	32	Charlotte Temple , whom he had once seen and danced with at a ball at Portsmouth	PER	NOM
+MENTION	T100	13	0	13	0	Belcour	PER	PROP
+MENTION	T101	14	9	14	9	Montraville	PER	PROP
+MENTION	T102	16	10	16	10	Montraville	PER	PROP
+MENTION	T28	16	29	16	50	any kind Familiar who would inform me who the girl is , and how I might be likely to obtain an interview	PER	NOM
+MENTION	T30	17	1	17	3	no kind Familiar	PER	NOM
+MENTION	T103	17	10	17	15	the chaise which they had ordered	VEH	NOM
+MENTION	T104	18	43	18	43	Chichester	GPE	PROP
+MENTION	T105	19	31	19	34	an extensive pleasure ground	FAC	NOM
+MENTION	T106	19	37	19	44	the mansion which contained the lovely Charlotte Temple	FAC	NOM
+MENTION	T107	20	0	20	0	Montraville	PER	PROP
+MENTION	T41	26	20	26	21	the place	FAC	NOM
+MENTION	T44	26	35	26	37	the pleasure grounds	FAC	NOM
+MENTION	T108	29	8	29	18	her companion , who was a French teacher at the school	PER	NOM
+MENTION	T109	29	34	29	34	Charlotte	PER	PROP
+MENTION	T110	29	44	29	44	Mademoiselle	PER	PROP
+MENTION	T111	29	53	29	55	her young charge	PER	NOM
+MENTION	T112	29	57	29	58	the field	FAC	NOM
+MENTION	T113	32	7	32	30	a nobleman whose fortune was by no means adequate to the antiquity , grandeur , and I may add , pride of the family	PER	NOM
+MENTION	T114	32	3	32	30	the youngest son of a nobleman whose fortune was by no means adequate to the antiquity , grandeur , and I may add , pride of the family	PER	NOM
+MENTION	T115	33	10	33	24	a disagreeable woman , whose fortune helped to prop the sinking dignity of the house	PER	NOM
+MENTION	T53	37	10	37	11	the unfortunate	PER	NOM
+MENTION	T60	38	9	38	11	a young officer	PER	NOM
+MENTION	T116	39	26	39	28	my fellow creatures	PER	NOM
+MENTION	T63	40	7	40	9	the young man	PER	NOM
+MENTION	T117	40	17	40	29	a man who is not in so good a lodging as he deserves	PER	NOM
+MENTION	T118	40	23	40	29	so good a lodging as he deserves	FAC	NOM
+MENTION	T62	40	39	40	40	an angel	PER	NOM
+MENTION	T119	41	0	41	2	The young man	PER	NOM
+MENTION	T120	41	12	41	12	Temple	PER	PROP
+MENTION	T64	42	12	42	16	several pair of dirty stairs	FAC	NOM
+MENTION	T71	42	35	42	36	the Captain	PER	NOM
+MENTION	T121	44	8	44	8	Temple	PER	PROP
+MENTION	T122	45	0	45	1	The apartment	FAC	NOM
+MENTION	T123	46	24	46	71	an aged man in a Lieutenant ’s uniform , which , though threadbare , would sooner call a blush of shame into the face of those who could neglect real merit , than cause the hectic of confusion to glow on the cheeks of him who wore it	PER	NOM
+MENTION	T124	46	49	46	54	those who could neglect real merit	PER	NOM
+MENTION	T73	47	3	47	11	a lovely creature busied in painting a fan mount	PER	NOM
+MENTION	T126	49	61	49	61	Temple	PER	PROP
+MENTION	T127	49	77	49	79	a courtly belle	PER	NOM
+MENTION	T80	51	16	51	18	visitors of distinction	PER	NOM
+MENTION	T79	53	18	53	19	the philosopher	PER	NOM
+MENTION	T128	58	31	58	31	Sir	PER	NOM
+MENTION	T58	37	7	37	11	the friend of the unfortunate	PER	NOM
+MENTION	T86	58	3	58	3	Blakeney	PER	PROP
+MENTION	T125	58	1	58	2	My friend	PER	NOM
+MENTION	T134	33	48	33	49	the world	LOC	NOM
+MENTION	T135	52	12	52	12	here	FAC	NOM
+MENTION	T136	19	22	19	23	the place	FAC	NOM
+MENTION	T139	2	2	2	2	you	PER	PRON
+MENTION	T140	2	11	2	11	his	PER	PRON
+MENTION	T141	2	15	2	15	they	PER	PRON
+MENTION	T142	2	22	2	22	you	PER	PRON
+MENTION	T143	3	2	3	2	we	PER	PRON
+MENTION	T144	4	6	4	6	they	PER	PRON
+MENTION	T145	4	23	4	23	they	PER	PRON
+MENTION	T146	5	10	5	10	his	PER	PRON
+MENTION	T147	5	14	5	14	they	PER	PRON
+MENTION	T148	5	21	5	21	their	PER	PRON
+MENTION	T149	5	25	5	25	their	PER	PRON
+MENTION	T150	6	0	6	0	They	PER	PRON
+MENTION	T151	6	10	6	10	they	PER	PRON
+MENTION	T152	6	26	6	26	them	PER	PRON
+MENTION	T153	6	47	6	47	they	PER	PRON
+MENTION	T154	6	50	6	50	their	PER	PRON
+MENTION	T155	7	0	7	0	They	PER	PRON
+MENTION	T156	7	3	7	3	their	PER	PRON
+MENTION	T157	7	33	7	33	her	PER	PRON
+MENTION	T158	8	13	8	13	they	PER	PRON
+MENTION	T159	8	28	8	28	their	PER	PRON
+MENTION	T160	9	11	9	11	he	PER	PRON
+MENTION	T161	9	21	9	21	he	PER	PRON
+MENTION	T162	10	3	10	3	he	PER	PRON
+MENTION	T163	10	6	10	6	her	PER	PRON
+MENTION	T164	10	14	10	14	she	PER	PRON
+MENTION	T165	10	28	10	28	her	PER	PRON
+MENTION	T166	10	38	10	38	her	PER	PRON
+MENTION	T167	10	41	10	41	she	PER	PRON
+MENTION	T168	10	46	10	46	his	PER	PRON
+MENTION	T169	11	2	11	2	him	PER	PRON
+MENTION	T170	11	10	11	10	him	PER	PRON
+MENTION	T171	11	16	11	16	he	PER	PRON
+MENTION	T172	11	25	11	25	him	PER	PRON
+MENTION	T173	11	30	11	30	her	PER	PRON
+MENTION	T174	12	1	12	1	She	PER	PRON
+MENTION	T175	12	12	12	12	he	PER	PRON
+MENTION	T176	12	15	12	15	he	PER	PRON
+MENTION	T177	14	2	14	2	you	PER	PRON
+MENTION	T178	14	5	14	5	her	PER	PRON
+MENTION	T179	14	12	14	12	she	PER	PRON
+MENTION	T180	14	35	14	35	me	PER	PRON
+MENTION	T181	15	12	15	12	our	PER	PRON
+MENTION	T182	15	25	15	25	you	PER	PRON
+MENTION	T183	16	1	16	1	I	PER	PRON
+MENTION	T184	16	35	16	35	me	PER	PRON
+MENTION	T185	16	43	16	43	I	PER	PRON
+MENTION	T186	17	13	17	13	they	PER	PRON
+MENTION	T187	17	25	17	25	his	PER	PRON
+MENTION	T188	17	42	17	42	their	PER	PRON
+MENTION	T189	18	9	18	9	his	PER	PRON
+MENTION	T190	18	25	18	25	her	PER	PRON
+MENTION	T191	18	35	18	35	her	PER	PRON
+MENTION	T192	18	37	18	37	he	PER	PRON
+MENTION	T193	18	54	18	54	his	PER	PRON
+MENTION	T194	19	8	19	8	he	PER	PRON
+MENTION	T195	22	8	22	8	he	PER	PRON
+MENTION	T196	22	13	22	13	I	PER	PRON
+MENTION	T197	22	21	22	21	her	PER	PRON
+MENTION	T198	22	31	22	31	I	PER	PRON
+MENTION	T199	22	51	22	51	I	PER	PRON
+MENTION	T200	22	65	22	65	her	PER	PRON
+MENTION	T201	22	77	22	77	she	PER	PRON
+MENTION	T202	23	0	23	0	I	PER	PRON
+MENTION	T203	23	10	23	10	her	PER	PRON
+MENTION	T205	26	1	26	1	I	PER	PRON
+MENTION	T206	26	5	26	5	her	PER	PRON
+MENTION	T207	26	11	26	11	he	PER	PRON
+MENTION	T208	26	25	26	25	he	PER	PRON
+MENTION	T209	26	28	26	28	he	PER	PRON
+MENTION	T210	27	1	27	1	I	PER	PRON
+MENTION	T211	27	12	27	12	he	PER	PRON
+MENTION	T212	28	0	28	0	He	PER	PRON
+MENTION	T213	28	2	28	2	them	PER	PRON
+MENTION	T214	28	6	28	6	them	PER	PRON
+MENTION	T215	28	17	28	17	them	PER	PRON
+MENTION	T216	28	30	28	30	he	PER	PRON
+MENTION	T217	28	40	28	40	he	PER	PRON
+MENTION	T218	29	0	29	0	He	PER	PRON
+MENTION	T219	29	6	29	6	himself	PER	PRON
+MENTION	T220	29	8	29	8	her	PER	PRON
+MENTION	T221	29	28	29	28	he	PER	PRON
+MENTION	T222	29	48	29	48	she	PER	PRON
+MENTION	T223	29	53	29	53	her	PER	PRON
+MENTION	T224	32	23	32	23	I	PER	PRON
+MENTION	T225	33	0	33	0	He	PER	PRON
+MENTION	T226	33	2	33	2	his	PER	PRON
+MENTION	T227	33	27	33	27	he	PER	PRON
+MENTION	T228	33	29	33	29	his	PER	PRON
+MENTION	T229	33	42	33	42	them	PER	PRON
+MENTION	T230	33	55	33	55	them	PER	PRON
+MENTION	T231	34	1	34	1	I	PER	PRON
+MENTION	T232	34	13	34	13	he	PER	PRON
+MENTION	T233	34	16	34	16	I	PER	PRON
+MENTION	T234	34	24	34	24	I	PER	PRON
+MENTION	T237	34	39	34	39	I	PER	PRON
+MENTION	T238	35	17	35	17	he	PER	PRON
+MENTION	T239	35	29	35	29	his	PER	PRON
+MENTION	T240	35	33	35	33	him	PER	PRON
+MENTION	T241	35	38	35	38	his	PER	PRON
+MENTION	T242	35	44	35	44	his	PER	PRON
+MENTION	T243	36	0	36	0	He	PER	PRON
+MENTION	T244	36	26	36	26	he	PER	PRON
+MENTION	T245	36	28	36	28	himself	PER	PRON
+MENTION	T246	37	1	37	1	he	PER	PRON
+MENTION	T247	37	13	37	13	his	PER	PRON
+MENTION	T248	37	26	37	26	he	PER	PRON
+MENTION	T249	37	39	37	39	his	PER	PRON
+MENTION	T250	38	1	38	1	You	PER	PRON
+MENTION	T251	38	13	38	13	him	PER	PRON
+MENTION	T252	38	19	38	19	I	PER	PRON
+MENTION	T253	38	26	38	26	you	PER	PRON
+MENTION	T254	38	35	38	35	your	PER	PRON
+MENTION	T255	39	1	39	1	You	PER	PRON
+MENTION	T256	39	5	39	5	me	PER	PRON
+MENTION	T257	39	21	39	21	I	PER	PRON
+MENTION	T258	39	26	39	26	my	PER	PRON
+MENTION	T259	40	12	40	12	we	PER	PRON
+MENTION	T260	40	28	40	28	he	PER	PRON
+MENTION	T261	40	37	40	37	he	PER	PRON
+MENTION	T262	40	42	40	42	him	PER	PRON
+MENTION	T263	40	48	40	48	him	PER	PRON
+MENTION	T264	40	50	40	50	he	PER	PRON
+MENTION	T265	40	57	40	57	his	PER	PRON
+MENTION	T266	41	17	41	17	his	PER	PRON
+MENTION	T267	41	25	41	25	him	PER	PRON
+MENTION	T268	41	30	41	30	they	PER	PRON
+MENTION	T269	42	10	42	10	them	PER	PRON
+MENTION	T270	44	0	44	0	He	PER	PRON
+MENTION	T271	44	13	44	13	him	PER	PRON
+MENTION	T272	46	4	46	4	his	PER	PRON
+MENTION	T273	46	8	46	8	his	PER	PRON
+MENTION	T274	46	11	46	11	his	PER	PRON
+MENTION	T275	46	21	46	21	him	PER	PRON
+MENTION	T277	47	1	47	1	him	PER	PRON
+MENTION	T278	48	0	48	0	She	PER	PRON
+MENTION	T279	48	14	48	14	her	PER	PRON
+MENTION	T280	49	0	49	0	Her	PER	PRON
+MENTION	T281	49	6	49	6	her	PER	PRON
+MENTION	T282	49	42	49	42	her	PER	PRON
+MENTION	T283	49	51	49	51	she	PER	PRON
+MENTION	T284	49	65	49	65	she	PER	PRON
+MENTION	T285	50	1	50	1	they	PER	PRON
+MENTION	T286	50	9	50	9	his	PER	PRON
+MENTION	T287	50	24	50	24	his	PER	PRON
+MENTION	T288	50	37	50	37	himself	PER	PRON
+MENTION	T289	50	42	50	42	his	PER	PRON
+MENTION	T290	51	9	51	9	he	PER	PRON
+MENTION	T291	51	22	51	22	we	PER	PRON
+MENTION	T292	51	25	51	25	our	PER	PRON
+MENTION	T293	51	28	51	28	our	PER	PRON
+MENTION	T294	52	1	52	1	I	PER	PRON
+MENTION	T295	52	11	52	11	me	PER	PRON
+MENTION	T296	52	16	52	16	I	PER	PRON
+MENTION	T297	52	19	52	19	my	PER	PRON
+MENTION	T298	53	0	53	0	Our	PER	PRON
+MENTION	T299	53	4	53	4	our	PER	PRON
+MENTION	T300	54	0	54	0	He	PER	PRON
+MENTION	T301	54	4	54	4	his	PER	PRON
+MENTION	T302	54	18	54	18	he	PER	PRON
+MENTION	T303	55	2	55	2	his	PER	PRON
+MENTION	T304	55	14	55	14	her	PER	PRON
+MENTION	T305	55	22	55	22	she	PER	PRON
+MENTION	T306	57	6	57	6	he	PER	PRON
+MENTION	T307	58	1	58	1	My	PER	PRON
+MENTION	T308	58	7	58	7	he	PER	PRON
+MENTION	T309	58	16	58	16	me	PER	PRON
+MENTION	T310	58	17	58	17	I	PER	PRON
+MENTION	T311	58	23	58	23	you	PER	PRON
+MENTION	T312	58	41	58	41	I	PER	PRON
+MENTION	T313	58	47	58	47	your	PER	PRON
+MENTION	T314	58	54	58	54	my	PER	PRON
+MENTION	T315	3	4	3	5	the chaise	VEH	NOM
+MENTION	T316	6	43	6	45	the Chichester ladies	PER	NOM
+MENTION	T317	32	29	32	30	the family	PER	NOM
+MENTION	T318	46	68	46	71	him who wore it	PER	NOM
+COREF	T88	A_BOARDING_SCHOOL-0
+COREF	T139	Belcour-1
+COREF	T1	Montraville-2
+COREF	T0	Belcour-1
+COREF	T140	Montraville-2
+COREF	T141	Montraville_Belcour-3
+COREF	T142	Belcour-1
+COREF	T143	Montraville_Belcour-3
+COREF	T315	the_chaise-4
+COREF	T2	Portsmouth-5
+COREF	T89	Belcour-1
+COREF	T144	Montraville_Belcour-3
+COREF	T4	Chichester-6
+COREF	T5	the_inhabitants-7
+COREF	T145	the_inhabitants-7
+COREF	T3	church-8
+COREF	T90	Montraville-2
+COREF	T91	the_army-9
+COREF	T10	Belcour-1
+COREF	T146	Montraville-2
+COREF	T147	Montraville_Belcour-3
+COREF	T7	their_friends-10
+COREF	T148	Montraville_Belcour-3
+COREF	T149	Montraville_Belcour-3
+COREF	T6	America-11
+COREF	T9	Portsmouth-5
+COREF	T93	Montraville_Belcour-3
+COREF	T150	Montraville_Belcour-3
+COREF	T12	Chichester-6
+COREF	T151	Montraville_Belcour-3
+COREF	T94	Portsmouth-5
+COREF	T152	Montraville_Belcour-3
+COREF	T11	Chichester-6
+COREF	T316	the_Chichester_ladies-12
+COREF	T153	the_Chichester_ladies-12
+COREF	T154	the_Chichester_ladies-12
+COREF	T155	Montraville_Belcour-3
+COREF	T156	Montraville_Belcour-3
+COREF	T14	the_inn-13
+COREF	T95	the_belles-14
+COREF	T96	Madame_Du_Pont-15
+COREF	T97	A_BOARDING_SCHOOL-0
+COREF	T157	Madame_Du_Pont-15
+COREF	T13	church-8
+COREF	T15	Montraville_Belcour-3
+COREF	T158	Montraville_Belcour-3
+COREF	T98	an_assemblage_of_youth_and_innocence-16
+COREF	T99	an_assemblage_of_youth_and_innocence-16
+COREF	T159	Montraville_Belcour-3
+COREF	T19	Charlotte_Temple-17
+COREF	T18	Montraville-2
+COREF	T160	Montraville-2
+COREF	T16	Charlotte_Temple-17
+COREF	T161	Montraville-2
+COREF	T17	Portsmouth-5
+COREF	T162	Montraville-2
+COREF	T163	Charlotte_Temple-17
+COREF	T164	Charlotte_Temple-17
+COREF	T21	Charlotte_Temple-17
+COREF	T165	Charlotte_Temple-17
+COREF	T166	Charlotte_Temple-17
+COREF	T167	Charlotte_Temple-17
+COREF	T168	Montraville-2
+COREF	T169	Montraville-2
+COREF	T170	Montraville-2
+COREF	T171	Montraville-2
+COREF	T172	Montraville-2
+COREF	T173	Charlotte_Temple-17
+COREF	T174	Charlotte_Temple-17
+COREF	T23	the_world-18
+COREF	T175	Montraville-2
+COREF	T176	Montraville-2
+COREF	T22	the_inn-13
+COREF	T100	Belcour-1
+COREF	T177	Belcour-1
+COREF	T178	Charlotte_Temple-17
+COREF	T101	Montraville-2
+COREF	T179	Charlotte_Temple-17
+COREF	T180	Montraville-2
+COREF	T27	Belcour-1
+COREF	T26	our_friends-19
+COREF	T181	Montraville_Belcour-3
+COREF	T182	Montraville-2
+COREF	T183	Montraville-2
+COREF	T102	Montraville-2
+COREF	T28	any_kind_Familiar_who_would_inform_me_who_the_girl_is___and_how_I_might_be_likely_to_obtain_an_interview-20
+COREF	T184	Montraville-2
+COREF	T29	Charlotte_Temple-17
+COREF	T185	Montraville-2
+COREF	T30	no_kind_Familiar-21
+COREF	T103	the_chaise-4
+COREF	T186	Montraville_Belcour-3
+COREF	T33	Montraville-2
+COREF	T31	Belcour-1
+COREF	T187	Montraville-2
+COREF	T34	Chichester-6
+COREF	T32	Charlotte_Temple-17
+COREF	T188	Montraville_Belcour-3
+COREF	T35	Charlotte_Temple-17
+COREF	T189	Montraville-2
+COREF	T190	Charlotte_Temple-17
+COREF	T191	Charlotte_Temple-17
+COREF	T192	Montraville-2
+COREF	T104	Chichester-6
+COREF	T193	Montraville-2
+COREF	T38	Chichester-6
+COREF	T194	Montraville-2
+COREF	T36	the_servant-22
+COREF	T105	an_extensive_pleasure_ground-23
+COREF	T106	A_BOARDING_SCHOOL-0
+COREF	T37	Charlotte_Temple-17
+COREF	T136	the_place-24
+COREF	T107	Montraville-2
+COREF	T39	A_BOARDING_SCHOOL-0
+COREF	T195	Montraville-2
+COREF	T196	Montraville-2
+COREF	T197	Charlotte_Temple-17
+COREF	T198	Montraville-2
+COREF	T42	England-25
+COREF	T199	Montraville-2
+COREF	T40	Charlotte_Temple-17
+COREF	T200	Charlotte_Temple-17
+COREF	T201	Charlotte_Temple-17
+COREF	T202	Montraville-2
+COREF	T43	Portsmouth-5
+COREF	T203	Charlotte_Temple-17
+COREF	T45	Montraville-2
+COREF	T205	Montraville-2
+COREF	T206	Charlotte_Temple-17
+COREF	T207	Montraville-2
+COREF	T41	the_place-24
+COREF	T208	Montraville-2
+COREF	T209	Montraville-2
+COREF	T44	an_extensive_pleasure_ground-23
+COREF	T46	two_women-26
+COREF	T210	Montraville-2
+COREF	T211	Montraville-2
+COREF	T212	Montraville-2
+COREF	T213	two_women-26
+COREF	T214	two_women-26
+COREF	T215	two_women-26
+COREF	T48	Chichester-6
+COREF	T216	Montraville-2
+COREF	T217	Montraville-2
+COREF	T47	Charlotte_Temple-17
+COREF	T218	Montraville-2
+COREF	T219	Montraville-2
+COREF	T108	Temple_companion_French_teacher-27
+COREF	T220	Charlotte_Temple-17
+COREF	T49	Temple_companion_French_teacher-27
+COREF	T221	Montraville-2
+COREF	T109	Charlotte_Temple-17
+COREF	T110	Temple_companion_French_teacher-27
+COREF	T222	Temple_companion_French_teacher-27
+COREF	T111	Charlotte_Temple-17
+COREF	T223	Temple_companion_French_teacher-27
+COREF	T112	an_extensive_pleasure_ground-23
+COREF	T50	MR__Temple-28
+COREF	T113	a_nobleman_whose_fortune_was_by_no_means_adequate_to_the_antiquity___grandeur___and_I_may_add___pride_of_the_family-29
+COREF	T224	narrator-30
+COREF	T225	MR__Temple-28
+COREF	T55	his_elder_brother-31
+COREF	T226	MR__Temple-28
+COREF	T115	a_disagreeable_woman___whose_fortune_helped_to_prop_the_sinking_dignity_of_the_house-32
+COREF	T317	the_family-33
+COREF	T54	the_family-33
+COREF	T227	MR__Temple-28
+COREF	T51	his_sisters-34
+COREF	T228	MR__Temple-28
+COREF	T52	old___decrepid_men-35
+COREF	T229	his_sisters-34
+COREF	T134	the_world-18
+COREF	T230	his_sisters-34
+COREF	T231	MR__Temple-28
+COREF	T232	MR__Temple-28
+COREF	T233	MR__Temple-28
+COREF	T234	MR__Temple-28
+COREF	T56	a_cottage-36
+COREF	T237	MR__Temple-28
+COREF	T57	MR__Temple-28
+COREF	T238	MR__Temple-28
+COREF	T239	MR__Temple-28
+COREF	T240	MR__Temple-28
+COREF	T241	MR__Temple-28
+COREF	T242	MR__Temple-28
+COREF	T243	MR__Temple-28
+COREF	T244	MR__Temple-28
+COREF	T245	MR__Temple-28
+COREF	T246	MR__Temple-28
+COREF	T53	the_unfortunate-37
+COREF	T247	MR__Temple-28
+COREF	T248	MR__Temple-28
+COREF	T249	MR__Temple-28
+COREF	T250	MR__Temple-28
+COREF	T60	Blakeney_officer-38
+COREF	T251	MR__Temple-28
+COREF	T252	Blakeney_officer-38
+COREF	T253	MR__Temple-28
+COREF	T254	MR__Temple-28
+COREF	T255	Blakeney_officer-38
+COREF	T256	MR__Temple-28
+COREF	T61	MR__Temple-28
+COREF	T257	MR__Temple-28
+COREF	T116	my_fellow_creatures-39
+COREF	T258	MR__Temple-28
+COREF	T63	Blakeney_officer-38
+COREF	T259	Mr__Temple_young_man-40
+COREF	T117	Captain_Eldridge-41
+COREF	T118	captain_s_apartment-42
+COREF	T260	Captain_Eldridge-41
+COREF	T261	Captain_Eldridge-41
+COREF	T62	an_angel-43
+COREF	T262	Captain_Eldridge-41
+COREF	T263	Captain_Eldridge-41
+COREF	T264	Captain_Eldridge-41
+COREF	T265	Captain_Eldridge-41
+COREF	T119	Blakeney_officer-38
+COREF	T120	MR__Temple-28
+COREF	T266	Blakeney_officer-38
+COREF	T267	Blakeney_officer-38
+COREF	T268	Mr__Temple_young_man-40
+COREF	T66	Blakeney_officer-38
+COREF	T67	Captain_Eldridge-41
+COREF	T68	a_person-44
+COREF	T269	Mr__Temple_young_man-40
+COREF	T64	several_pair_of_dirty_stairs-45
+COREF	T65	the_Fleet_prison-46
+COREF	T69	captain_s_apartment-42
+COREF	T70	captain_s_apartment-42
+COREF	T71	Captain_Eldridge-41
+COREF	T72	Blakeney_officer-38
+COREF	T270	Blakeney_officer-38
+COREF	T121	MR__Temple-28
+COREF	T271	Temple_companion_French_teacher-27
+COREF	T122	captain_s_apartment-42
+COREF	T272	Captain_Eldridge-41
+COREF	T273	Captain_Eldridge-41
+COREF	T274	Captain_Eldridge-41
+COREF	T275	Captain_Eldridge-41
+COREF	T123	Captain_Eldridge-41
+COREF	T124	those_who_could_neglect_real_merit-47
+COREF	T318	him_who_wore_it-48
+COREF	T277	Captain_Eldridge-41
+COREF	T73	Miss_Eldridge-49
+COREF	T278	Miss_Eldridge-49
+COREF	T279	Miss_Eldridge-49
+COREF	T280	Miss_Eldridge-49
+COREF	T281	Miss_Eldridge-49
+COREF	T282	Miss_Eldridge-49
+COREF	T283	Miss_Eldridge-49
+COREF	T126	MR__Temple-28
+COREF	T284	Miss_Eldridge-49
+COREF	T127	a_courtly_belle-50
+COREF	T285	Mr__Temple_young_man-40
+COREF	T74	Captain_Eldridge-41
+COREF	T286	Captain_Eldridge-41
+COREF	T76	Blakeney_officer-38
+COREF	T75	MR__Temple-28
+COREF	T287	Captain_Eldridge-41
+COREF	T77	captain_s_apartment-42
+COREF	T288	Captain_Eldridge-41
+COREF	T289	Captain_Eldridge-41
+COREF	T290	Captain_Eldridge-41
+COREF	T78	MR__Temple-28
+COREF	T80	visitors_of_distinction-51
+COREF	T291	we-52
+COREF	T292	we-52
+COREF	T293	we-52
+COREF	T294	Captain_Eldridge-41
+COREF	T295	Captain_Eldridge-41
+COREF	T135	captain_s_apartment-42
+COREF	T296	Captain_Eldridge-41
+COREF	T297	Captain_Eldridge-41
+COREF	T298	Our-53
+COREF	T299	Our-53
+COREF	T81	Miss_Eldridge-49
+COREF	T79	the_philosopher-54
+COREF	T82	the_father-55
+COREF	T300	Captain_Eldridge-41
+COREF	T301	Captain_Eldridge-41
+COREF	T302	Captain_Eldridge-41
+COREF	T83	a_sailor-56
+COREF	T84	MR__Temple-28
+COREF	T303	MR__Temple-28
+COREF	T85	Miss_Eldridge-49
+COREF	T304	Miss_Eldridge-49
+COREF	T305	Miss_Eldridge-49
+COREF	T306	Captain_Eldridge-41
+COREF	T125	Blakeney_officer-38
+COREF	T307	MR__Temple-28
+COREF	T86	Blakeney_officer-38
+COREF	T308	MR__Temple-28
+COREF	T87	Captain_Eldridge-41
+COREF	T309	MR__Temple-28
+COREF	T310	MR__Temple-28
+COREF	T311	Captain_Eldridge-41
+COREF	T128	Captain_Eldridge-41
+COREF	T312	MR__Temple-28
+COREF	T313	Captain_Eldridge-41
+COREF	T314	MR__Temple-28
+COP	T92	T90
+COP	T8	T10
+COP	T20	T163
+COP	T24	T174
+APPOS	T25	T26
+COP	T114	T50
+COP	T58	T246
+COP	T59	T250
+COREF	T129	Chichester-6
+MENTION	T343	21	4	21	4	it	FAC	PRON
+COREF	T343	A_BOARDING_SCHOOL-0
+MENTION	T129	17	35	17	35	its	GPE	PRON

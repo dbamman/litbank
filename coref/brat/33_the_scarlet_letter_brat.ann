@@ -1,0 +1,432 @@
+T0	NOM_PER 147 165	some wearing hoods
+T2	NOM_PER 139 144	women
+T4	NOM_FAC 541 551	a cemetery
+T5	NOM_FAC 589 597	a prison
+T7	NOM_LOC 718 755	somewhere in the Vicinity of Cornhill
+T8	NOM_PER 659 684	the forefathers of Boston
+T9	NOM_FAC 953 989	the old churchyard of King 's Chapel
+T10	PROP_GPE 678 684	Boston
+T11	PROP_PER 827 840	Isaac Johnson
+T13	NOM_FAC 1077 1092	the wooden jail
+T14	NOM_GPE 1066 1074	the town
+T16	NOM_LOC 1330 1343	the New World
+T18	NOM_FAC 1492 1502	the street
+T19	NOM_FAC 1728 1736	a prison
+T22	NOM_PER 1961 1973	the prisoner
+T24	PROP_PER 2447 2473	the sainted Ann Hutchinson
+T25	NOM_PER 3110 3135	the inhabitants of Boston
+T26	NOM_FAC 2977 2985	the jail
+T27	PROP_GPE 3129 3135	Boston
+T29	PROP_LOC 3279 3290	New England
+T30	NOM_PER 3492 3510	some noted culprit
+T32	NOM_PER 3796 3807	his parents
+T34	NOM_FAC 4091 4102	the streets
+T37	NOM_GPE 3994 4002	the town
+T39	NOM_PER 4041 4054	the white man
+T40	NOM_PER 4230 4273	the bitter-tempered widow of the magistrate
+T41	NOM_PER 4259 4273	the magistrate
+T42	NOM_PER 4390 4404	the spectators
+T44	NOM_PER 4685 4699	a transgressor
+T45	NOM_PER 4722 4737	such bystanders
+T47	NOM_PER 5373 5404	their not unsubstantial persons
+T48	NOM_PER 5613 5635	their fair descendants
+T52	NOM_PER 5785 5794	her child
+T53	NOM_PER 5742 5765	every successive mother
+T55	NOM_PER 5941 5994	The women who were now standing about the prison-door
+T56	NOM_PER 6052 6074	the man-like Elizabeth
+T57	PROP_LOC 6525 6536	New England
+T59	NOM_PER 6603 6616	these matrons
+T60	NOM_PER 6772 6801	a hard-featured dame of fifty
+T61	NOM_PER 6981 7022	such malefactresses as this Hester Prynne
+T62	PROP_PER 7004 7022	this Hester Prynne
+T63	NOM_PER 7054 7063	the hussy
+T64	NOM_PER 7185 7211	the worshipful magistrates
+T66	NOM_PER 7440 7455	The magistrates
+T67	NOM_PER 7535 7558	a third autumnal matron
+T68	PROP_PER 7631 7644	Hester Prynne
+T69	PROP_PER 7659 7672	Madame Hester
+T70	NOM_FAC 7913 7924	the streets
+T71	NOM_PER 8011 8018	a child
+T72	NOM_PER 8293 8322	these self-constituted judges
+T73	NOM_PER 8327 8337	This woman
+T74	NOM_PER 8576 8585	daughters
+T75	NOM_PER 8556 8571	their own wives
+T76	NOM_PER 8639 8657	a man in the crowd
+T77	NOM_PER 8684 8689	woman
+T78	PROP_PER 8859 8874	Mistress Prynne
+T82	NOM_FAC 8899 8907	the jail
+T83	NOM_PER 9135 9149	This personage
+T84	NOM_PER 9328 9340	the offender
+T85	NOM_PER 9437 9450	a young woman
+T86	NOM_FAC 9953 9963	the prison
+T87	NOM_PER 9702 9733	a baby of some three months old
+T89	NOM_PER 10004 10014	this child
+T90	NOM_PER 9990 10014	the mother of this child
+T91	NOM_PER 10101 10111	the infant
+T93	NOM_PER 10401 10409	the baby
+T94	NOM_PER 10554 10564	neighbours
+T1	NOM_PER 39 62	A throng of bearded men
+T95	NOM_PER 172 189	others bareheaded
+T3	NOM_FAC 218 234	a wooden edifice
+T96	NOM_GPE 334 346	a new colony
+T6	PROP_GPE 747 755	Cornhill
+T97	NOM_FAC 695 717	the first prison-house
+T98	NOM_FAC 798 821	the first burial-ground
+T99	NOM_FAC 827 847	Isaac Johnson 's lot
+T12	PROP_FAC 975 989	King 's Chapel
+T15	NOM_FAC 1434 1451	this ugly edifice
+T17	NOM_FAC 1509 1736	a grass-plot , much overgrown with burdock , pig-weed , apple-pern , and such unsightly vegetation , which evidently found something congenial in the soil that had so early borne the black flower of civilised society , a prison
+T20	NOM_PER 1997 2019	the condemned criminal
+T21	NOM_LOC 2236 2260	the stern old wilderness
+T23	NOM_FAC 2938 2954	THE MARKET-PLACE
+T100	PROP_FAC 2991 3002	Prison Lane
+T101	NOM_FAC 2955 3002	The grass-plot before the jail , in Prison Lane
+T28	NOM_PER 3355 3372	these good people
+T102	NOM_PER 3537 3553	a legal tribunal
+T31	NOM_PER 3741 3764	a sluggish bond-servant
+T33	NOM_PER 3770 3845	an undutiful child , whom his parents had given over to the civil authority
+T103	NOM_ORG 3826 3845	the civil authority
+T104	NOM_PER 3908 3921	an Antinomian
+T35	NOM_PER 3924 3932	a Quaker
+T36	NOM_PER 3938 3965	other heterodox religionist
+T38	NOM_PER 4008 4102	an idle or vagrant Indian , whom the white man 's firewater had made riotous about the streets
+T105	NOM_LOC 4154 4164	the forest
+T106	NOM_PER 4192 4199	a witch
+T107	PROP_PER 4207 4227	old Mistress Hibbins
+T43	NOM_PER 4419 4631	a people among whom religion and law were almost identical , and in whose character both were so thoroughly interfused , that the mildest and severest acts of public discipline were alike made venerable and awful
+T108	NOM_PER 5050 5059	the women
+T46	NOM_PER 5277 5317	the wearers of petticoat and farthingale
+T49	NOM_PER 5547 5604	those wives and maidens of old English birth and breeding
+T50	NOM_PER 5661 5697	a series of six or seven generations
+T51	NOM_PER 6152 6168	her countrywomen
+T54	NOM_LOC 6195 6212	their native land
+T58	NOM_LOC 6441 6459	the far-off island
+T109	NOM_PER 6753 6762	Goodwives
+T110	NOM_PER 6889 6894	women
+T111	NOM_PER 6921 6935	church-members
+T112	NOM_PER 7252 7258	People
+T113	NOM_PER 7322 7338	her godly pastor
+T114	NOM_PER 7417 7433	his congregation
+T115	NOM_PER 7460 7481	God-fearing gentlemen
+T116	NOM_PER 7727 7746	the naughty baggage
+T117	NOM_PER 7988 8000	a young wife
+T118	NOM_PER 8232 8246	another female
+T119	NOM_PER 8249 8322	the ugliest as well as the most pitiless of these self-constituted judges
+T120	NOM_PER 8486 8533	the magistrates , who have made it of no effect
+T121	NOM_PER 8616 8624	goodwife
+T122	NOM_PER 8791 8798	gossips
+T79	NOM_PER 9052 9067	the town-beadle
+T80	NOM_PER 9692 9699	a child
+T81	NOM_FAC 9910 9919	a dungeon
+T88	NOM_FAC 9925 9949	other darksome apartment
+T92	NOM_PER 9971 9986	the young woman
+T123	NOM_PER 10538 10549	townspeople
+T124	NOM_GPE 11044 11054	the colony
+T65	NOM_PER 7302 7319	Master Dimmesdale
+T126	NOM_PER 7289 7301	the Reverend
+T131	PRON_PER 395 399	they
+T132	PRON_PER 463 468	their
+T133	PRON_PER 782 786	they
+T134	PRON_PER 866 869	his
+T136	PRON_PER 1977 1979	he
+T137	PRON_PER 2023 2025	he
+T138	PRON_PER 2040 2043	his
+T139	PRON_PER 2116 2119	him
+T140	PRON_PER 2477 2480	she
+T141	PRON_PER 2507 2509	we
+T142	PRON_PER 2530 2532	us
+T143	PRON_PER 2591 2594	our
+T144	PRON_PER 2667 2669	we
+T145	PRON_PER 2778 2780	us
+T146	PRON_PER 3147 3152	their
+T147	PRON_PER 3796 3799	his
+T148	PRON_PER 4799 4802	our
+T149	PRON_PER 5015 5018	our
+T150	PRON_PER 5373 5378	their
+T151	PRON_PER 5613 5618	their
+T152	PRON_PER 5653 5657	them
+T153	PRON_PER 5785 5788	her
+T154	PRON_PER 5931 5934	her
+T155	PRON_PER 6142 6146	They
+T156	PRON_PER 6152 6155	her
+T157	PRON_PER 6195 6200	their
+T158	PRON_PER 6280 6285	their
+T159	PRON_PER 6630 6634	them
+T160	PRON_PER 6669 6671	us
+T161	PRON_PER 6806 6807	I
+T162	PRON_PER 6831 6833	my
+T163	PRON_PER 6886 6888	we
+T164	PRON_PER 7093 7095	us
+T165	PRON_PER 7148 7151	she
+T166	PRON_PER 7235 7236	I
+T167	PRON_PER 7322 7325	her
+T168	PRON_PER 7417 7420	his
+T169	PRON_PER 7583 7587	they
+T170	PRON_PER 7701 7702	I
+T171	PRON_PER 7711 7713	me
+T172	PRON_PER 7720 7723	she
+T173	PRON_PER 7762 7765	she
+T174	PRON_PER 7776 7780	they
+T175	PRON_PER 7804 7807	her
+T176	PRON_PER 7826 7829	you
+T177	PRON_PER 7832 7835	she
+T178	PRON_PER 8039 8042	her
+T179	PRON_PER 8061 8064	she
+T180	PRON_PER 8105 8108	her
+T181	PRON_PER 8129 8131	we
+T182	PRON_PER 8184 8187	her
+T183	PRON_PER 8209 8212	her
+T184	PRON_PER 8361 8363	us
+T185	PRON_PER 8542 8552	themselves
+T186	PRON_PER 8556 8561	their
+T187	PRON_PER 8611 8613	us
+T188	PRON_PER 8875 8882	herself
+T189	PRON_PER 9086 9089	his
+T190	PRON_PER 9101 9104	his
+T191	PRON_PER 9124 9127	his
+T192	PRON_PER 9180 9183	his
+T193	PRON_PER 9261 9264	his
+T194	PRON_PER 9382 9385	his
+T195	PRON_PER 9398 9400	he
+T196	PRON_PER 9406 9409	his
+T197	PRON_PER 9458 9460	he
+T198	PRON_PER 9527 9530	she
+T199	PRON_PER 9540 9543	him
+T200	PRON_PER 9651 9654	her
+T201	PRON_PER 9671 9674	She
+T202	PRON_PER 9683 9686	her
+T203	PRON_PER 10074 10077	her
+T204	PRON_PER 10123 10126	her
+T205	PRON_PER 10193 10196	she
+T206	PRON_PER 10272 10275	her
+T207	PRON_PER 10341 10344	her
+T208	PRON_PER 10392 10395	she
+T209	PRON_PER 10413 10416	her
+T210	PRON_PER 10534 10537	her
+T211	PRON_PER 10584 10587	her
+T212	PRON_PER 10894 10897	she
+T213	NOM_PER 322 330	founders
+T215	A_throng_of_bearded_men-0 39 62	A throng of bearded men
+T216	women-1 139 144	women
+T214	some_wearing_hoods-2 147 165	some wearing hoods
+T309	others_bareheaded-3 172 189	others bareheaded
+T217	a_wooden_edifice-4 218 234	a wooden edifice
+T310	Boston-5 334 346	a new colony
+T427	founders-6 322 330	founders
+T345	founders-6 395 399	they
+T346	founders-6 463 468	their
+T218	a_cemetery-7 541 551	a cemetery
+T219	a_prison-8 589 597	a prison
+T222	founders-6 659 684	the forefathers of Boston
+T224	Boston-5 678 684	Boston
+T311	a_prison-8 695 717	the first prison-house
+T221	somewhere_in_the_Vicinity_of_Cornhill-9 718 755	somewhere in the Vicinity of Cornhill
+T220	Cornhill-10 747 755	Cornhill
+T347	founders-6 782 786	they
+T312	a_cemetery-7 798 821	the first burial-ground
+T225	Isaac_Johnson-11 827 840	Isaac Johnson
+T313	Isaac_Johnson__s_lot-12 827 847	Isaac Johnson 's lot
+T348	Isaac_Johnson-11 866 869	his
+T223	a_cemetery-7 953 989	the old churchyard of King 's Chapel
+T226	King__s_Chapel-13 975 989	King 's Chapel
+T228	Boston-5 1066 1074	the town
+T227	a_prison-8 1077 1092	the wooden jail
+T230	the_New_World-14 1330 1343	the New World
+T229	a_prison-8 1434 1451	this ugly edifice
+T232	the_street-15 1492 1502	the street
+T231	a_grass-plot___much_overgrown_with_burdock___pig-weed___apple-pern___and_such_unsightly_vegetation___which_evidently_found_something_congenial_in_the_soil_that_had_so_early_borne_the_black_flower_of_civilised_society___a_prison-16 1509 1736	a grass-plot , much overgrown with burdock , pig-weed , apple-pern , and such unsightly vegetation , which evidently found something congenial in the soil that had so early borne the black flower of civilised society , a prison
+T233	a_prison-8 1728 1736	a prison
+T236	the_prisoner-17 1961 1973	the prisoner
+T350	the_prisoner-17 1977 1979	he
+T234	the_prisoner-17 1997 2019	the condemned criminal
+T351	the_prisoner-17 2023 2025	he
+T352	the_prisoner-17 2040 2043	his
+T353	the_prisoner-17 2116 2119	him
+T235	the_stern_old_wilderness-18 2236 2260	the stern old wilderness
+T238	the_sainted_Ann_Hutchinson-19 2447 2473	the sainted Ann Hutchinson
+T354	the_sainted_Ann_Hutchinson-19 2477 2480	she
+T355	we-20 2507 2509	we
+T356	we-20 2530 2532	us
+T357	we-20 2591 2594	our
+T358	we-20 2667 2669	we
+T359	we-20 2778 2780	us
+T237	THE_MARKET-PLACE-21 2938 2954	THE MARKET-PLACE
+T315	a_grass-plot___much_overgrown_with_burdock___pig-weed___apple-pern___and_such_unsightly_vegetation___which_evidently_found_something_congenial_in_the_soil_that_had_so_early_borne_the_black_flower_of_civilised_society___a_prison-16 2955 3002	The grass-plot before the jail , in Prison Lane
+T240	a_prison-8 2977 2985	the jail
+T314	the_street-15 2991 3002	Prison Lane
+T239	the_inhabitants_of_Boston-22 3110 3135	the inhabitants of Boston
+T241	Boston-5 3129 3135	Boston
+T360	the_inhabitants_of_Boston-22 3147 3152	their
+T243	New_England-23 3279 3290	New England
+T242	the_inhabitants_of_Boston-22 3355 3372	these good people
+T244	some_noted_culprit-24 3492 3510	some noted culprit
+T316	a_legal_tribunal-25 3537 3553	a legal tribunal
+T245	a_sluggish_bond-servant-26 3741 3764	a sluggish bond-servant
+T247	an_undutiful_child___whom_his_parents_had_given_over_to_the_civil_authority-27 3770 3845	an undutiful child , whom his parents had given over to the civil authority
+T246	his_parents-28 3796 3807	his parents
+T361	an_undutiful_child___whom_his_parents_had_given_over_to_the_civil_authority-27 3796 3799	his
+T317	the_civil_authority-29 3826 3845	the civil authority
+T318	an_Antinomian-30 3908 3921	an Antinomian
+T249	a_Quaker-31 3924 3932	a Quaker
+T250	other_heterodox_religionist-32 3938 3965	other heterodox religionist
+T251	Boston-5 3994 4002	the town
+T252	an_idle_or_vagrant_Indian___whom_the_white_man__s_firewater_had_made_riotous_about_the_streets-33 4008 4102	an idle or vagrant Indian , whom the white man 's firewater had made riotous about the streets
+T253	the_white_man-34 4041 4054	the white man
+T248	the_streets-35 4091 4102	the streets
+T319	the_forest-36 4154 4164	the forest
+T320	a_witch-37 4192 4199	a witch
+T321	old_Mistress_Hibbins-38 4207 4227	old Mistress Hibbins
+T255	the_magistrate-39 4259 4273	the magistrate
+T256	the_inhabitants_of_Boston-22 4390 4404	the spectators
+T257	the_inhabitants_of_Boston-22 4419 4631	a people among whom religion and law were almost identical , and in whose character both were so thoroughly interfused , that the mildest and severest acts of public discipline were alike made venerable and awful
+T258	a_transgressor-40 4685 4699	a transgressor
+T259	the_inhabitants_of_Boston-22 4722 4737	such bystanders
+T362	we-20 4799 4802	our
+T363	we-20 5015 5018	our
+T322	the_women-41 5050 5059	the women
+T260	the_women-41 5277 5317	the wearers of petticoat and farthingale
+T261	the_women-41 5373 5404	their not unsubstantial persons
+T364	the_women-41 5373 5378	their
+T263	the_women-41 5547 5604	those wives and maidens of old English birth and breeding
+T262	their_fair_descendants-42 5613 5635	their fair descendants
+T365	the_women-41 5613 5618	their
+T366	the_women-41 5653 5657	them
+T264	a_series_of_six_or_seven_generations-43 5661 5697	a series of six or seven generations
+T267	every_successive_mother-44 5742 5765	every successive mother
+T266	her_child-45 5785 5794	her child
+T367	every_successive_mother-44 5785 5788	her
+T368	every_successive_mother-44 5931 5934	her
+T269	the_women-41 5941 5994	The women who were now standing about the prison-door
+T270	the_man-like_Elizabeth-46 6052 6074	the man-like Elizabeth
+T369	the_women-41 6142 6146	They
+T265	the_women-41 6152 6168	her countrywomen
+T370	the_man-like_Elizabeth-46 6152 6155	her
+T268	England-47 6195 6212	their native land
+T371	the_women-41 6195 6200	their
+T372	the_women-41 6280 6285	their
+T272	England-47 6441 6459	the far-off island
+T271	New_England-23 6525 6536	New England
+T273	the_women-41 6603 6616	these matrons
+T373	the_women-41 6630 6634	them
+T374	we-20 6669 6671	us
+T323	the_women-41 6753 6762	Goodwives
+T274	a_hard-featured_dame_of_fifty-48 6772 6801	a hard-featured dame of fifty
+T375	a_hard-featured_dame_of_fifty-48 6806 6807	I
+T376	a_hard-featured_dame_of_fifty-48 6831 6833	my
+T377	the_women-41 6886 6888	we
+T324	the_women-41 6889 6894	women
+T325	the_women-41 6921 6935	church-members
+T275	Hester-49 6981 7022	such malefactresses as this Hester Prynne
+T276	Hester-49 7004 7022	this Hester Prynne
+T277	Hester-49 7054 7063	the hussy
+T378	the_women-41 7093 7095	us
+T379	Hester-49 7148 7151	she
+T278	the_worshipful_magistrates-50 7185 7211	the worshipful magistrates
+T380	a_hard-featured_dame_of_fifty-48 7235 7236	I
+T326	People-51 7252 7258	People
+T340	Master_Dimmesdale-52 7289 7301	the Reverend
+T279	Master_Dimmesdale-52 7302 7319	Master Dimmesdale
+T381	Hester-49 7322 7325	her
+T328	his_congregation-53 7417 7433	his congregation
+T382	Master_Dimmesdale-52 7417 7420	his
+T280	the_worshipful_magistrates-50 7440 7455	The magistrates
+T281	a_third_autumnal_matron-54 7535 7558	a third autumnal matron
+T383	the_worshipful_magistrates-50 7583 7587	they
+T282	Hester-49 7631 7644	Hester Prynne
+T283	Hester-49 7659 7672	Madame Hester
+T384	a_third_autumnal_matron-54 7701 7702	I
+T385	a_third_autumnal_matron-54 7711 7713	me
+T386	Hester-49 7720 7723	she
+T387	Hester-49 7762 7765	she
+T388	the_worshipful_magistrates-50 7776 7780	they
+T389	Hester-49 7804 7807	her
+T390	you-55 7826 7829	you
+T391	Hester-49 7832 7835	she
+T284	the_streets-35 7913 7924	the streets
+T331	a_young_wife-56 7988 8000	a young wife
+T285	a_child-57 8011 8018	a child
+T392	Hester-49 8039 8042	her
+T393	Hester-49 8061 8064	she
+T394	Hester-49 8105 8108	her
+T395	the_women-41 8129 8131	we
+T396	Hester-49 8184 8187	her
+T397	Hester-49 8209 8212	her
+T332	another_female-58 8232 8246	another female
+T286	the_women-41 8293 8322	these self-constituted judges
+T287	Hester-49 8327 8337	This woman
+T398	the_women-41 8361 8363	us
+T334	the_worshipful_magistrates-50 8486 8533	the magistrates , who have made it of no effect
+T399	the_worshipful_magistrates-50 8542 8552	themselves
+T289	their_own_wives-59 8556 8571	their own wives
+T400	the_worshipful_magistrates-50 8556 8561	their
+T288	daughters-60 8576 8585	daughters
+T401	us-61 8611 8613	us
+T335	another_female-58 8616 8624	goodwife
+T290	a_man_in_the_crowd-62 8639 8657	a man in the crowd
+T291	woman-63 8684 8689	woman
+T336	the_women-41 8791 8798	gossips
+T292	Hester-49 8859 8874	Mistress Prynne
+T402	Hester-49 8875 8882	herself
+T296	a_prison-8 8899 8907	the jail
+T293	the_town-beadle-64 9052 9067	the town-beadle
+T403	the_town-beadle-64 9086 9089	his
+T404	the_town-beadle-64 9101 9104	his
+T405	the_town-beadle-64 9124 9127	his
+T297	the_town-beadle-64 9135 9149	This personage
+T406	the_town-beadle-64 9180 9183	his
+T407	the_town-beadle-64 9261 9264	his
+T298	Hester-49 9328 9340	the offender
+T408	the_town-beadle-64 9382 9385	his
+T409	the_town-beadle-64 9398 9400	he
+T410	the_town-beadle-64 9406 9409	his
+T299	Hester-49 9437 9450	a young woman
+T411	the_town-beadle-64 9458 9460	he
+T412	Hester-49 9527 9530	she
+T413	the_town-beadle-64 9540 9543	him
+T414	Hester-49 9651 9654	her
+T415	Hester-49 9671 9674	She
+T416	Hester-49 9683 9686	her
+T294	pearl-65 9692 9699	a child
+T295	a_dungeon-66 9910 9919	a dungeon
+T302	other_darksome_apartment-67 9925 9949	other darksome apartment
+T300	a_prison-8 9953 9963	the prison
+T306	Hester-49 9971 9986	the young woman
+T303	pearl-65 10004 10014	this child
+T417	Hester-49 10074 10077	her
+T305	pearl-65 10101 10111	the infant
+T418	Hester-49 10123 10126	her
+T419	Hester-49 10193 10196	she
+T420	Hester-49 10272 10275	her
+T421	Hester-49 10341 10344	her
+T422	Hester-49 10392 10395	she
+T307	pearl-65 10401 10409	the baby
+T423	Hester-49 10413 10416	her
+T424	Hester-49 10534 10537	her
+T337	the_inhabitants_of_Boston-22 10538 10549	townspeople
+T308	the_inhabitants_of_Boston-22 10554 10564	neighbours
+T425	Hester-49 10584 10587	her
+T426	Hester-49 10894 10897	she
+T338	Boston-5 11044 11054	the colony
+R1	appos Arg1:T40 Arg2:T107
+R2	appos Arg1:T113 Arg2:T65
+R3	cop Arg1:T115 Arg2:T66
+R4	appos Arg1:T116 Arg2:T172
+R5	appos Arg1:T119 Arg2:T118
+R6	appos Arg1:T87 Arg2:T80
+R7	appos Arg1:T90 Arg2:T92
+T434	PRON_FAC 1197 1200	its
+T435	a_prison-8 1197 1200	its
+T436	PRON_FAC 1273 1276	its
+T437	a_prison-8 1273 1276	its
+T438	PRON_FAC 1380 1382	it
+T439	a_prison-8 1380 1382	it
+T440	PRON_FAC 1466 1468	it
+T441	a_prison-8 1466 1468	it
+T490	PRON_PER 9764 9767	its
+T491	pearl-65 9764 9767	its
+T492	PRON_PER 9822 9825	its
+T493	pearl-65 9822 9825	its
+T494	PRON_PER 9863 9865	it
+T495	pearl-65 9863 9865	it
+T125	NOM_PER 7272 7279	another
+T127	another-403 7272 7279	another

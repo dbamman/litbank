@@ -1,0 +1,542 @@
+T0	NOM_LOC 136 149	the landscape
+T1	NOM_PER 637 659	a certain tall soldier
+T2	NOM_FAC 964 985	division headquarters
+T3	NOM_PER 947 985	the orderlies at division headquarters
+T4	NOM_FAC 1127 1145	the company street
+T5	NOM_PER 1536 1553	twoscore soldiers
+T9	NOM_PER 2042 2058	The tall soldier
+T10	NOM_FAC 2277 2286	his house
+T12	NOM_FAC 2543 2555	eternal camp
+T14	NOM_PER 2664 2686	the commanding general
+T18	NOM_PER 3467 3479	his comrades
+T19	NOM_PER 3420 3436	the tall soldier
+T20	NOM_FAC 3772 3780	the room
+T26	NOM_FAC 4366 4374	the room
+T28	NOM_FAC 5444 5452	his home
+T29	NOM_GPE 5498 5513	his own country
+T30	NOM_PER 5667 5670	Men
+T31	NOM_PER 6176 6186	his mother
+T32	NOM_FAC 6440 6448	the farm
+T33	NOM_FAC 6457 6476	the field of battle
+T36	NOM_PER 7135 7150	some enthusiast
+T39	NOM_PER 7359 7369	his mother
+T40	NOM_FAC 7359 7377	his mother 's room
+T42	NOM_PER 7467 7477	his mother
+T44	NOM_PER 7655 7665	his mother
+T45	NOM_GPE 7634 7673	a town that was near his mother 's farm
+T46	NOM_PER 7755 7765	his mother
+T50	NOM_FAC 8204 8208	home
+T52	NOM_PER 8263 8273	his mother
+T57	NOM_PER 9115 9121	my boy
+T61	NOM_PER 9467 9490	a young feller like you
+T64	NOM_FAC 9524 9528	home
+T67	NOM_LOC 43 52	the earth
+T68	NOM_ORG 86 120	an army stretched out on the hills
+T69	NOM_LOC 111 120	the hills
+T70	NOM_ORG 180 188	the army
+T71	NOM_FAC 283 292	the roads
+T72	NOM_FAC 319 345	long troughs of liquid mud
+T73	NOM_FAC 349 369	proper thoroughfares
+T74	NOM_LOC 372 421	A river , amber-tinted in the shadow of its banks
+T75	NOM_ORG 434 442	the army
+T76	NOM_LOC 473 483	the stream
+T77	NOM_LOC 498 519	a sorrowful blackness
+T78	NOM_LOC 599 629	the low brows of distant hills
+T79	NOM_LOC 616 629	distant hills
+T80	NOM_LOC 741 748	a brook
+T81	NOM_PER 826 843	a reliable friend
+T82	NOM_PER 868 889	a truthful cavalryman
+T83	NOM_PER 914 985	his trustworthy brother , one of the orderlies at division headquarters
+T84	NOM_PER 1116 1145	a group in the company street
+T85	NOM_LOC 1173 1182	the river
+T86	NOM_PER 1236 1258	his attentive audience
+T87	NOM_PER 1347 1367	the blue-clothed men
+T88	NOM_PER 1383 1403	small arguing groups
+T7	NOM_PER 1443 1553	A negro teamster who had been dancing upon a cracker box with the hilarious encouragement of twoscore soldiers
+T6	NOM_PER 1717 1732	another private
+T8	NOM_ORG 1897 1916	the derned old army
+T89	NOM_PER 2187 2197	A corporal
+T90	NOM_PER 2220 2234	the assemblage
+T11	NOM_ORG 2423 2431	the army
+T13	NOM_PER 2558 2573	Many of the men
+T91	NOM_PER 2707 2764	men who advocated that there were other plans of campaign
+T92	NOM_PER 2864 2901	the soldier who had fetched the rumor
+T93	PROP_PER 2997 3000	Jim
+T94	NOM_ORG 3007 3016	Th ' army
+T15	NOM_PER 3356 3374	a youthful private
+T16	NOM_FAC 3564 3571	his hut
+T17	NOM_FAC 4455 4478	the whole establishment
+T21	NOM_PER 4481 4490	The youth
+T22	NOM_PER 5026 5080	peoples secure in the shadow of his eagle-eyed prowess
+T25	NOM_FAC 5248 5260	high castles
+T27	NOM_GPE 6840 6851	the village
+T34	NOM_PER 7238 7271	the people rejoicing in the night
+T35	PROP_PER 7434 7439	Henry
+T37	NOM_FAC 7655 7673	his mother 's farm
+T38	NOM_PER 7694 7726	a company that was forming there
+T41	NOM_FAC 7750 7754	home
+T43	PROP_PER 7940 7945	Henry
+T47	PROP_PER 8659 8664	Henry
+T48	NOM_PER 8812 8831	the hull rebel army
+T51	NOM_PER 8877 8923	one little feller amongst a hull lot of others
+T53	NOM_PER 8903 8923	a hull lot of others
+T54	PROP_PER 9053 9058	Henry
+T55	NOM_PER 9160 9179	anybody in the army
+T56	NOM_ORG 9171 9179	the army
+T58	NOM_PER 9325 9334	comp ' ny
+T59	NOM_PER 9354 9373	bad men in the army
+T60	PROP_PER 9376 9381	Henry
+T95	NOM_ORG 9384 9392	The army
+T62	NOM_PER 9552 9560	a mother
+T63	NOM_PER 9618 9628	them folks
+T96	PROP_PER 9631 9636	Henry
+T65	PROP_PER 9679 9684	Henry
+T66	PROP_PER 9006 9011	Henry
+T97	NOM_ORG 9365 9373	the army
+T23	NOM_LOC 5286 5295	the world
+T98	NOM_LOC 4811 4820	the earth
+T99	NOM_GPE 7721 7726	there
+T100	PRON_PER 716 718	He
+T101	PRON_PER 756 759	his
+T102	PRON_PER 781 783	He
+T103	PRON_PER 808 810	he
+T104	PRON_PER 914 917	his
+T105	PRON_PER 988 990	He
+T106	PRON_PER 1049 1051	We
+T107	PRON_PER 1095 1097	he
+T108	PRON_PER 1150 1152	We
+T109	PRON_PER 1236 1239	his
+T110	PRON_PER 1259 1261	he
+T111	PRON_PER 1329 1331	he
+T112	PRON_PER 1569 1571	He
+T113	PRON_PER 1742 1745	His
+T114	PRON_PER 1776 1779	his
+T115	PRON_PER 1811 1814	his
+T116	PRON_PER 1836 1838	He
+T117	PRON_PER 1872 1875	him
+T118	PRON_PER 1880 1881	I
+T119	PRON_PER 1941 1943	We
+T120	PRON_PER 1954 1955	I
+T121	PRON_PER 2018 2020	we
+T122	PRON_PER 2107 2109	he
+T123	PRON_PER 2110 2117	himself
+T124	PRON_PER 2135 2137	He
+T125	PRON_PER 2237 2239	He
+T126	PRON_PER 2277 2280	his
+T127	PRON_PER 2289 2291	he
+T128	PRON_PER 2323 2325	he
+T129	PRON_PER 2382 2385	his
+T130	PRON_PER 2406 2408	he
+T131	PRON_PER 2493 2495	he
+T132	PRON_PER 2520 2524	they
+T133	PRON_PER 2689 2691	He
+T134	PRON_PER 2767 2771	They
+T135	PRON_PER 2939 2941	He
+T136	PRON_PER 3123 3125	me
+T137	PRON_PER 3154 3155	I
+T138	PRON_PER 3234 3236	he
+T139	PRON_PER 3247 3249	He
+T140	PRON_PER 3274 3278	them
+T141	PRON_PER 3313 3317	They
+T142	PRON_PER 3467 3470	his
+T143	PRON_PER 3553 3555	he
+T144	PRON_PER 3564 3567	his
+T145	PRON_PER 3637 3639	He
+T146	PRON_PER 3706 3709	him
+T147	PRON_PER 3712 3714	He
+T149	PRON_PER 4535 4539	they
+T150	PRON_PER 4626 4628	he
+T151	PRON_PER 4657 4659	he
+T152	PRON_PER 4689 4696	himself
+T153	PRON_PER 4707 4709	He
+T154	PRON_PER 4755 4757	he
+T155	PRON_PER 4823 4825	He
+T156	PRON_PER 4867 4870	his
+T157	PRON_PER 4927 4930	him
+T159	PRON_PER 4970 4972	he
+T160	PRON_PER 4982 4989	himself
+T161	PRON_PER 5010 5012	He
+T162	PRON_PER 5058 5061	his
+T163	PRON_PER 5093 5095	he
+T164	PRON_PER 5164 5166	He
+T166	PRON_PER 5209 5212	his
+T167	PRON_PER 5313 5315	he
+T168	PRON_PER 5360 5362	he
+T169	PRON_PER 5444 5447	his
+T170	PRON_PER 5453 5456	his
+T171	PRON_PER 5498 5501	his
+T172	PRON_PER 5570 5572	He
+T173	PRON_PER 5653 5655	he
+T174	PRON_PER 5827 5829	He
+T177	PRON_PER 5992 5994	He
+T178	PRON_PER 6042 6044	he
+T179	PRON_PER 6072 6075	His
+T180	PRON_PER 6100 6103	him
+T181	PRON_PER 6176 6179	his
+T182	PRON_PER 6203 6206	him
+T183	PRON_PER 6209 6212	She
+T184	PRON_PER 6273 6276	his
+T185	PRON_PER 6304 6307	She
+T186	PRON_PER 6326 6333	herself
+T187	PRON_PER 6371 6374	him
+T188	PRON_PER 6404 6406	he
+T189	PRON_PER 6479 6482	She
+T190	PRON_PER 6528 6531	him
+T191	PRON_PER 6537 6540	her
+T192	PRON_PER 6611 6614	her
+T193	PRON_PER 6626 6629	his
+T194	PRON_PER 6642 6645	her
+T195	PRON_PER 6715 6717	he
+T196	PRON_PER 6793 6796	his
+T197	PRON_PER 6854 6857	his
+T198	PRON_PER 6887 6890	him
+T199	PRON_PER 6918 6922	They
+T200	PRON_PER 7053 7055	he
+T201	PRON_PER 7094 7097	him
+T202	PRON_PER 7281 7284	him
+T203	PRON_PER 7339 7341	he
+T204	PRON_PER 7359 7362	his
+T205	PRON_PER 7407 7408	I
+T206	PRON_PER 7449 7452	you
+T207	PRON_PER 7467 7470	his
+T208	PRON_PER 7492 7495	She
+T209	PRON_PER 7513 7516	her
+T210	PRON_PER 7619 7621	he
+T211	PRON_PER 7655 7658	his
+T212	PRON_PER 7734 7736	he
+T213	PRON_PER 7755 7758	his
+T214	PRON_PER 7831 7832	I
+T215	PRON_PER 7850 7852	he
+T216	PRON_PER 7865 7868	her
+T217	PRON_PER 7950 7953	she
+T218	PRON_PER 8030 8032	he
+T219	PRON_PER 8063 8066	his
+T220	PRON_PER 8089 8092	his
+T221	PRON_PER 8151 8154	his
+T222	PRON_PER 8217 8219	he
+T224	PRON_PER 8263 8266	his
+T225	PRON_PER 8302 8305	she
+T226	PRON_PER 8323 8326	him
+T227	PRON_PER 8375 8378	his
+T228	PRON_PER 8397 8399	He
+T229	PRON_PER 8421 8428	himself
+T230	PRON_PER 8453 8455	He
+T231	PRON_PER 8493 8495	he
+T232	PRON_PER 8545 8548	her
+T233	PRON_PER 8565 8568	his
+T234	PRON_PER 8577 8580	She
+T235	PRON_PER 8624 8627	him
+T236	PRON_PER 8643 8646	You
+T237	PRON_PER 8732 8735	you
+T238	PRON_PER 8799 8802	you
+T239	PRON_PER 8969 8973	they
+T240	PRON_PER 8985 8986	I
+T241	PRON_PER 8996 8999	you
+T242	PRON_PER 9016 9017	I
+T243	PRON_PER 9065 9066	I
+T244	PRON_PER 9108 9109	I
+T245	PRON_PER 9115 9117	my
+T247	PRON_PER 9215 9216	I
+T248	PRON_PER 9257 9259	me
+T249	PRON_PER 9268 9269	I
+T250	PRON_PER 9414 9418	they
+T251	PRON_PER 9487 9490	you
+T253	PRON_PER 9639 9640	I
+T254	PRON_PER 9721 9723	me
+T255	PRON_PER 9754 9755	I
+T256	PRON_PER 9815 9816	I
+T257	PRON_LOC 543 545	it
+T258	NOM_PER 2605 2608	One
+T260	PRON_PER 3052 3055	yeh
+T261	PRON_PER 3077 3080	yeh
+T262	PRON_PER 3105 3108	yeh
+T263	PRON_PER 3143 3146	yeh
+T331	the_earth-0 43 52	the earth
+T332	an_army_stretched_out_on_the_hills-1 86 120	an army stretched out on the hills
+T333	the_hills-2 111 120	the hills
+T264	the_landscape-3 136 149	the landscape
+T334	an_army_stretched_out_on_the_hills-1 180 188	the army
+T335	the_roads-4 283 292	the roads
+T336	long_troughs_of_liquid_mud-5 319 345	long troughs of liquid mud
+T337	proper_thoroughfares-6 349 369	proper thoroughfares
+T338	A_river___amber-tinted_in_the_shadow_of_its_banks-7 372 421	A river , amber-tinted in the shadow of its banks
+T339	an_army_stretched_out_on_the_hills-1 434 442	the army
+T340	A_river___amber-tinted_in_the_shadow_of_its_banks-7 473 483	the stream
+T341	a_sorrowful_blackness-8 498 519	a sorrowful blackness
+T521	A_river___amber-tinted_in_the_shadow_of_its_banks-7 543 545	it
+T342	the_low_brows_of_distant_hills-9 599 629	the low brows of distant hills
+T343	distant_hills-10 616 629	distant hills
+T265	a_certain_tall_soldier-11 637 659	a certain tall soldier
+T364	a_certain_tall_soldier-11 716 718	He
+T344	a_brook-12 741 748	a brook
+T365	a_certain_tall_soldier-11 756 759	his
+T366	a_certain_tall_soldier-11 781 783	He
+T367	a_certain_tall_soldier-11 808 810	he
+T345	a_reliable_friend-13 826 843	a reliable friend
+T346	a_truthful_cavalryman-14 868 889	a truthful cavalryman
+T347	his_trustworthy_brother___one_of_the_orderlies_at_division_headquarters-15 914 985	his trustworthy brother , one of the orderlies at division headquarters
+T368	a_truthful_cavalryman-14 914 917	his
+T267	the_orderlies_at_division_headquarters-16 947 985	the orderlies at division headquarters
+T266	division_headquarters-17 964 985	division headquarters
+T369	a_certain_tall_soldier-11 988 990	He
+T370	We-18 1049 1051	We
+T371	a_certain_tall_soldier-11 1095 1097	he
+T348	a_group_in_the_company_street-19 1116 1145	a group in the company street
+T268	the_company_street-20 1127 1145	the company street
+T372	We-18 1150 1152	We
+T349	A_river___amber-tinted_in_the_shadow_of_its_banks-7 1173 1182	the river
+T350	a_group_in_the_company_street-19 1236 1258	his attentive audience
+T373	a_certain_tall_soldier-11 1236 1239	his
+T374	a_certain_tall_soldier-11 1259 1261	he
+T375	a_certain_tall_soldier-11 1329 1331	he
+T351	a_group_in_the_company_street-19 1347 1367	the blue-clothed men
+T352	small_arguing_groups-22 1383 1403	small arguing groups
+T271	A_negro_teamster_who_had_been_dancing_upon_a_cracker_box_with_the_hilarious_encouragement_of_twoscore_soldiers-23 1443 1553	A negro teamster who had been dancing upon a cracker box with the hilarious encouragement of twoscore soldiers
+T269	twoscore_soldiers-24 1536 1553	twoscore soldiers
+T376	A_negro_teamster_who_had_been_dancing_upon_a_cracker_box_with_the_hilarious_encouragement_of_twoscore_soldiers-23 1569 1571	He
+T270	another_private-25 1717 1732	another private
+T377	another_private-25 1742 1745	His
+T378	another_private-25 1776 1779	his
+T379	another_private-25 1811 1814	his
+T380	another_private-25 1836 1838	He
+T381	another_private-25 1872 1875	him
+T382	another_private-25 1880 1881	I
+T272	an_army_stretched_out_on_the_hills-1 1897 1916	the derned old army
+T383	We-18 1941 1943	We
+T384	another_private-25 1954 1955	I
+T385	We-18 2018 2020	we
+T273	a_certain_tall_soldier-11 2042 2058	The tall soldier
+T386	a_certain_tall_soldier-11 2107 2109	he
+T387	a_certain_tall_soldier-11 2110 2117	himself
+T388	a_certain_tall_soldier-11 2135 2137	He
+T353	A_corporal-26 2187 2197	A corporal
+T354	a_group_in_the_company_street-19 2220 2234	the assemblage
+T389	A_corporal-26 2237 2239	He
+T274	his_house-27 2277 2286	his house
+T390	A_corporal-26 2277 2280	his
+T391	A_corporal-26 2289 2291	he
+T392	A_corporal-26 2323 2325	he
+T393	A_corporal-26 2382 2385	his
+T394	A_corporal-26 2406 2408	he
+T275	an_army_stretched_out_on_the_hills-1 2423 2431	the army
+T395	A_corporal-26 2493 2495	he
+T396	they-28 2520 2524	they
+T276	eternal_camp-29 2543 2555	eternal camp
+T277	Many_of_the_men-30 2558 2573	Many of the men
+T522	One-31 2605 2608	One
+T278	the_commanding_general-32 2664 2686	the commanding general
+T397	One-31 2689 2691	He
+T355	men_who_advocated_that_there_were_other_plans_of_campaign-33 2707 2764	men who advocated that there were other plans of campaign
+T398	They-34 2767 2771	They
+T356	a_certain_tall_soldier-11 2864 2901	the soldier who had fetched the rumor
+T399	a_certain_tall_soldier-11 2939 2941	He
+T357	a_certain_tall_soldier-11 2997 3000	Jim
+T358	an_army_stretched_out_on_the_hills-1 3007 3016	Th ' army
+T400	a_certain_tall_soldier-11 3123 3125	me
+T401	a_certain_tall_soldier-11 3154 3155	I
+T402	a_certain_tall_soldier-11 3234 3236	he
+T403	a_certain_tall_soldier-11 3247 3249	He
+T404	They-34 3274 3278	them
+T405	They-34 3313 3317	They
+T279	Henry_Fleming-37 3356 3374	a youthful private
+T283	a_certain_tall_soldier-11 3420 3436	the tall soldier
+T282	his_comrades-38 3467 3479	his comrades
+T406	Henry_Fleming-37 3467 3470	his
+T407	Henry_Fleming-37 3553 3555	he
+T280	his_hut-39 3564 3571	his hut
+T408	Henry_Fleming-37 3564 3567	his
+T409	Henry_Fleming-37 3637 3639	He
+T410	Henry_Fleming-37 3706 3709	him
+T411	Henry_Fleming-37 3712 3714	He
+T284	the_room-40 3772 3780	the room
+T290	the_room-40 4366 4374	the room
+T281	his_hut-39 4455 4478	the whole establishment
+T285	Henry_Fleming-37 4481 4490	The youth
+T413	they-42 4535 4539	they
+T414	Henry_Fleming-37 4626 4628	he
+T415	Henry_Fleming-37 4657 4659	he
+T416	Henry_Fleming-37 4689 4696	himself
+T417	Henry_Fleming-37 4707 4709	He
+T418	Henry_Fleming-37 4755 4757	he
+T362	the_earth-43 4811 4820	the earth
+T419	Henry_Fleming-37 4823 4825	He
+T420	Henry_Fleming-37 4867 4870	his
+T421	Henry_Fleming-37 4927 4930	him
+T423	Henry_Fleming-37 4970 4972	he
+T424	Henry_Fleming-37 4982 4989	himself
+T425	Henry_Fleming-37 5010 5012	He
+T286	peoples_secure_in_the_shadow_of_his_eagle-eyed_prowess-44 5026 5080	peoples secure in the shadow of his eagle-eyed prowess
+T426	Henry_Fleming-37 5058 5061	his
+T427	Henry_Fleming-37 5093 5095	he
+T428	Henry_Fleming-37 5164 5166	He
+T430	Henry_Fleming-37 5209 5212	his
+T289	high_castles-45 5248 5260	high castles
+T287	the_world-46 5286 5295	the world
+T431	Henry_Fleming-37 5313 5315	he
+T432	Henry_Fleming-37 5360 5362	he
+T292	his_home-47 5444 5452	his home
+T433	Henry_Fleming-37 5444 5447	his
+T434	Henry_Fleming-37 5453 5456	his
+T293	his_own_country-48 5498 5513	his own country
+T435	Henry_Fleming-37 5498 5501	his
+T436	Henry_Fleming-37 5570 5572	He
+T437	Henry_Fleming-37 5653 5655	he
+T294	Men-49 5667 5670	Men
+T438	Henry_Fleming-37 5827 5829	He
+T441	Henry_Fleming-37 5992 5994	He
+T442	Henry_Fleming-37 6042 6044	he
+T443	Henry_Fleming-37 6072 6075	His
+T444	Henry_Fleming-37 6100 6103	him
+T295	his_mother-50 6176 6186	his mother
+T445	Henry_Fleming-37 6176 6179	his
+T446	Henry_Fleming-37 6203 6206	him
+T447	his_mother-50 6209 6212	She
+T448	Henry_Fleming-37 6273 6276	his
+T449	his_mother-50 6304 6307	She
+T450	his_mother-50 6326 6333	herself
+T451	Henry_Fleming-37 6371 6374	him
+T452	Henry_Fleming-37 6404 6406	he
+T296	the_farm-51 6440 6448	the farm
+T297	the_field_of_battle-52 6457 6476	the field of battle
+T453	his_mother-50 6479 6482	She
+T454	Henry_Fleming-37 6528 6531	him
+T455	his_mother-50 6537 6540	her
+T456	his_mother-50 6611 6614	her
+T457	Henry_Fleming-37 6626 6629	his
+T458	his_mother-50 6642 6645	her
+T459	Henry_Fleming-37 6715 6717	he
+T460	Henry_Fleming-37 6793 6796	his
+T291	the_village-53 6840 6851	the village
+T461	Henry_Fleming-37 6854 6857	his
+T462	Henry_Fleming-37 6887 6890	him
+T463	They-54 6918 6922	They
+T464	Henry_Fleming-37 7053 7055	he
+T465	Henry_Fleming-37 7094 7097	him
+T300	some_enthusiast-55 7135 7150	some enthusiast
+T298	the_people_rejoicing_in_the_night-56 7238 7271	the people rejoicing in the night
+T466	Henry_Fleming-37 7281 7284	him
+T467	Henry_Fleming-37 7339 7341	he
+T303	his_mother-50 7359 7369	his mother
+T304	his_mother__s_room-57 7359 7377	his mother 's room
+T468	Henry_Fleming-37 7359 7362	his
+T469	Henry_Fleming-37 7407 7408	I
+T299	Henry_Fleming-37 7434 7439	Henry
+T470	Henry_Fleming-37 7449 7452	you
+T306	his_mother-50 7467 7477	his mother
+T471	Henry_Fleming-37 7467 7470	his
+T472	his_mother-50 7492 7495	She
+T473	his_mother-50 7513 7516	her
+T474	Henry_Fleming-37 7619 7621	he
+T309	a_town_that_was_near_his_mother__s_farm-58 7634 7673	a town that was near his mother 's farm
+T308	his_mother-50 7655 7665	his mother
+T301	the_farm-51 7655 7673	his mother 's farm
+T475	Henry_Fleming-37 7655 7658	his
+T302	a_company_that_was_forming_there-59 7694 7726	a company that was forming there
+T363	a_town_that_was_near_his_mother__s_farm-58 7721 7726	there
+T476	Henry_Fleming-37 7734 7736	he
+T305	home-60 7750 7754	home
+T310	his_mother-50 7755 7765	his mother
+T477	Henry_Fleming-37 7755 7758	his
+T478	Henry_Fleming-37 7831 7832	I
+T479	Henry_Fleming-37 7850 7852	he
+T480	his_mother-50 7865 7868	her
+T307	Henry_Fleming-37 7940 7945	Henry
+T481	his_mother-50 7950 7953	she
+T482	Henry_Fleming-37 8030 8032	he
+T483	Henry_Fleming-37 8063 8066	his
+T484	Henry_Fleming-37 8089 8092	his
+T485	Henry_Fleming-37 8151 8154	his
+T314	home-61 8204 8208	home
+T486	Henry_Fleming-37 8217 8219	he
+T316	his_mother-50 8263 8273	his mother
+T488	Henry_Fleming-37 8263 8266	his
+T489	his_mother-50 8302 8305	she
+T490	Henry_Fleming-37 8323 8326	him
+T491	Henry_Fleming-37 8375 8378	his
+T492	Henry_Fleming-37 8397 8399	He
+T493	Henry_Fleming-37 8421 8428	himself
+T494	Henry_Fleming-37 8453 8455	He
+T495	Henry_Fleming-37 8493 8495	he
+T496	his_mother-50 8545 8548	her
+T497	Henry_Fleming-37 8565 8568	his
+T498	his_mother-50 8577 8580	She
+T499	Henry_Fleming-37 8624 8627	him
+T500	Henry_Fleming-37 8643 8646	You
+T311	Henry_Fleming-37 8659 8664	Henry
+T501	Henry_Fleming-37 8732 8735	you
+T502	Henry_Fleming-37 8799 8802	you
+T312	the_hull_rebel_army-62 8812 8831	the hull rebel army
+T315	one_little_feller_amongst_a_hull_lot_of_others-63 8877 8923	one little feller amongst a hull lot of others
+T317	a_hull_lot_of_others-64 8903 8923	a hull lot of others
+T503	a_hull_lot_of_others-64 8969 8973	they
+T504	his_mother-50 8985 8986	I
+T505	Henry_Fleming-37 8996 8999	you
+T330	Henry_Fleming-37 9006 9011	Henry
+T506	his_mother-50 9016 9017	I
+T318	Henry_Fleming-37 9053 9058	Henry
+T507	his_mother-50 9065 9066	I
+T508	his_mother-50 9108 9109	I
+T321	Henry_Fleming-37 9115 9121	my boy
+T509	his_mother-50 9115 9117	my
+T319	anybody_in_the_army-65 9160 9179	anybody in the army
+T320	the_army-66 9171 9179	the army
+T511	his_mother-50 9215 9216	I
+T512	his_mother-50 9257 9259	me
+T513	his_mother-50 9268 9269	I
+T322	comp___ny-67 9325 9334	comp ' ny
+T323	bad_men_in_the_army-68 9354 9373	bad men in the army
+T361	the_army-66 9365 9373	the army
+T324	Henry_Fleming-37 9376 9381	Henry
+T359	the_army-66 9384 9392	The army
+T514	bad_men_in_the_army-68 9414 9418	they
+T325	a_young_feller_like_you-69 9467 9490	a young feller like you
+T515	Henry_Fleming-37 9487 9490	you
+T328	home-70 9524 9528	home
+T326	a_mother-71 9552 9560	a mother
+T327	bad_men_in_the_army-68 9618 9628	them folks
+T360	Henry_Fleming-37 9631 9636	Henry
+T517	his_mother-50 9639 9640	I
+T329	Henry_Fleming-37 9679 9684	Henry
+T518	his_mother-50 9721 9723	me
+T519	his_mother-50 9754 9755	I
+T520	his_mother-50 9815 9816	I
+T524	a_certain_tall_soldier-11 3052 3055	yeh
+T525	a_certain_tall_soldier-11 3077 3080	yeh
+T526	a_certain_tall_soldier-11 3105 3108	yeh
+T527	yeh-72 3143 3146	yeh
+T528	NOM_PER 8930 8933	yeh
+T529	Henry_Fleming-37 8930 8933	yeh
+T530	PRON_ORG 261 263	It
+T531	an_army_stretched_out_on_the_hills-1 261 263	It
+T532	PRON_ORG 269 272	its
+T533	an_army_stretched_out_on_the_hills-1 269 272	its
+T534	PRON_LOC 412 415	its
+T535	A_river___amber-tinted_in_the_shadow_of_its_banks-7 412 415	its
+T550	PRON_FAC 3622 3624	it
+T551	his_hut-39 3622 3624	it
+T24	PRON_PER 8855 8858	yeh
+T49	Henry_Fleming-37 8855 8858	yeh
+T148	PRON_PER 8868 8871	Yer
+T158	Henry_Fleming-37 8868 8871	Yer
+T165	PRON_PER 8979 8982	yeh
+T175	Henry_Fleming-37 8979 8982	yeh
+T176	PRON_PER 9027 9030	yeh
+T223	Henry_Fleming-37 9027 9030	yeh
+T246	PRON_PER 9082 9085	yer
+T259	Henry_Fleming-37 9082 9085	yer
+T288	PRON_PER 9222 9225	yeh
+T313	Henry_Fleming-37 9222 9225	yeh
+T412	PRON_PER 9321 9324	yer
+T422	Henry_Fleming-37 9321 9324	yer
+T252	PRON_PER 9653 9656	yeh
+T429	Henry_Fleming-37 9653 9656	yeh
+T439	PRON_PER 9692 9695	yeh
+T440	Henry_Fleming-37 9692 9695	yeh
+T487	PRON_PER 9772 9775	yeh
+T510	Henry_Fleming-37 9772 9775	yeh
+T516	PRON_PER 9781 9784	yeh
+T523	Henry_Fleming-37 9781 9784	yeh
+T536	PRON_PER 9798 9801	yer
+T537	Henry_Fleming-37 9798 9801	yer
+T538	PRON_PER 9823 9826	yeh
+T539	Henry_Fleming-37 9823 9826	yeh

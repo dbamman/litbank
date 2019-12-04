@@ -1,0 +1,640 @@
+MENTION	T0	0	8	0	9	The Signora	PER	NOM
+MENTION	T2	1	21	1	22	a courtyard	FAC	NOM
+MENTION	T4	3	2	3	3	a Cockney	PER	NOM
+MENTION	T5	4	9	4	10	the Signora	PER	NOM
+MENTION	T8	6	62	6	64	the English church	ORG	NOM
+MENTION	T11	11	12	11	13	Miss Bartlett	PER	PROP
+MENTION	T12	13	0	13	8	The rooms the Signora promised us in her letter	FAC	NOM
+MENTION	T13	13	2	13	3	the Signora	PER	NOM
+MENTION	T14	14	0	14	1	The Signora	PER	NOM
+MENTION	T16	16	8	16	9	Miss Bartlett	PER	PROP
+MENTION	T17	20	5	20	6	the front	FAC	NOM
+MENTION	T18	20	0	20	6	The first vacant room in the front	FAC	NOM
+MENTION	T20	20	28	20	28	Lucy	PER	PROP
+MENTION	T21	24	0	24	1	Your mother	PER	NOM
+MENTION	T22	26	0	26	1	The ladies	PER	NOM
+MENTION	T23	28	2	28	3	their neighbours	PER	NOM
+MENTION	T25	30	0	30	1	Miss Bartlett	PER	PROP
+MENTION	T26	32	3	32	4	the intruder	PER	NOM
+MENTION	T28	41	8	41	10	the old man	PER	NOM
+MENTION	T31	43	5	43	6	Miss Bartlett	PER	PROP
+MENTION	T32	44	15	44	16	our rooms	FAC	NOM
+MENTION	T33	46	4	46	4	tourist	PER	NOM
+MENTION	T34	47	0	47	1	Miss Bartlett	PER	PROP
+MENTION	T36	49	1	49	3	the old man	PER	NOM
+MENTION	T37	52	0	52	1	Her cousin	PER	NOM
+MENTION	T38	55	8	55	8	men	PER	NOM
+MENTION	T39	56	14	56	15	his son	PER	NOM
+MENTION	T40	56	7	56	9	a naughty child	PER	NOM
+MENTION	T41	57	8	57	9	the rooms	FAC	NOM
+MENTION	T42	57	13	57	14	the son	PER	NOM
+MENTION	T43	59	5	59	6	the ladies	PER	NOM
+MENTION	T44	60	33	60	35	these ill-bred tourists	PER	NOM
+MENTION	T46	61	5	61	6	Miss Bartlett	PER	PROP
+MENTION	T47	61	1	61	3	the old man	PER	NOM
+MENTION	T48	64	0	64	1	Miss Bartlett	PER	PROP
+MENTION	T52	75	6	75	7	the room	FAC	NOM
+MENTION	T55	79	11	79	12	the rooms	FAC	NOM
+MENTION	T56	81	0	81	1	Miss Bartlett	PER	PROP
+MENTION	T57	81	14	81	15	Mr. Beebe	PER	PROP
+MENTION	T59	83	16	83	17	the ladies	PER	NOM
+MENTION	T61	85	33	85	34	her cousin	PER	NOM
+MENTION	T62	85	30	85	31	the waiter	PER	NOM
+MENTION	T63	88	1	88	2	Miss Honeychurch	PER	PROP
+MENTION	T64	88	48	88	48	mother	PER	NOM
+MENTION	T66	88	13	88	14	Miss Bartlett	PER	PROP
+MENTION	T67	88	8	88	9	Summer Street	FAC	PROP
+MENTION	T68	89	9	89	10	Tunbridge Wells	GPE	PROP
+MENTION	T69	89	24	89	25	Mr. Beebe	PER	PROP
+MENTION	T70	89	35	89	36	the clergyman	PER	NOM
+MENTION	T71	90	4	90	5	the Rectory	FAC	NOM
+MENTION	T72	90	7	90	8	Summer Street	FAC	PROP
+MENTION	T73	91	7	91	10	such a charming neighbourhood	FAC	NOM
+MENTION	T74	93	3	93	4	our house	FAC	NOM
+MENTION	T76	94	0	94	1	Mr. Beebe	PER	PROP
+MENTION	T77	95	23	95	24	The church	FAC	NOM
+MENTION	T79	96	6	96	7	Mr. Beebe	PER	PROP
+MENTION	T81	99	2	99	3	the girl	PER	NOM
+MENTION	T82	99	7	99	7	Florence	GPE	PROP
+MENTION	T83	100	5	100	6	a newcomer	PER	NOM
+MENTION	T87	106	4	106	5	your ladies	PER	NOM
+MENTION	T88	107	1	107	2	That lady	PER	NOM
+MENTION	T89	107	9	107	10	Miss Bartlett	PER	PROP
+MENTION	T90	107	12	107	13	her cousin	PER	NOM
+MENTION	T91	110	24	110	25	the beggars	PER	NOM
+MENTION	T92	110	38	110	39	the place	GPE	NOM
+MENTION	T93	111	0	111	2	The Pension Bertolini	FAC	PROP
+MENTION	T94	112	5	112	6	kind ladies	PER	NOM
+MENTION	T95	113	7	113	9	the clever lady	PER	NOM
+MENTION	T96	115	0	115	1	That place	GPE	NOM
+MENTION	T97	117	0	117	4	The young man named George	PER	NOM
+MENTION	T98	117	4	117	4	George	PER	PROP
+MENTION	T99	117	7	117	9	the clever lady	PER	NOM
+MENTION	T102	120	28	120	30	the two outsiders	PER	NOM
+MENTION	T1	0	19	0	20	Miss Bartlett	PER	PROP
+MENTION	T103	1	3	1	9	south rooms with a view close together	FAC	NOM
+MENTION	T3	1	16	1	28	north rooms , looking into a courtyard , and a long way apart	FAC	NOM
+MENTION	T104	4	1	4	1	Lucy	PER	PROP
+MENTION	T6	5	4	5	4	London	GPE	PROP
+MENTION	T105	6	7	6	8	English people	PER	NOM
+MENTION	T7	6	32	6	34	the English people	PER	NOM
+MENTION	T106	6	40	6	42	the late Queen	PER	NOM
+MENTION	T9	6	44	6	47	the late Poet Laureate	PER	NOM
+MENTION	T107	6	51	6	53	the English people	PER	NOM
+MENTION	T108	6	66	6	68	Rev. Cuthbert Eager	PER	PROP
+MENTION	T109	8	1	8	1	Charlotte	PER	PROP
+MENTION	T10	8	15	8	15	London	GPE	PROP
+MENTION	T110	12	6	12	7	the Arno	LOC	PROP
+MENTION	T111	13	13	13	14	the Arno	LOC	PROP
+MENTION	T15	17	0	17	0	Lucy	PER	PROP
+MENTION	T112	18	1	18	1	Charlotte	PER	PROP
+MENTION	T113	18	16	18	17	the Arno	LOC	PROP
+MENTION	T19	20	17	20	18	Miss Bartlett	PER	PROP
+MENTION	T114	20	28	20	30	Lucy ’s mother	PER	NOM
+MENTION	T115	24	7	24	7	Lucy	PER	PROP
+MENTION	T116	28	0	28	3	Some of their neighbours	PER	NOM
+MENTION	T117	28	12	28	21	one of the ill-bred people whom one does meet abroad	PER	NOM
+MENTION	T118	28	8	28	10	one of them	PER	NOM
+MENTION	T24	33	2	33	18	an old man , of heavy build , with a fair , shaven face and large eyes	PER	NOM
+MENTION	T27	35	4	35	5	Miss Bartlett	PER	PROP
+MENTION	T29	41	3	41	4	my son	PER	NOM
+MENTION	T30	41	16	41	16	George	PER	PROP
+MENTION	T120	43	9	43	9	Lucy	PER	PROP
+MENTION	T121	46	13	46	14	the new-comers	PER	NOM
+MENTION	T122	46	0	46	4	The better class of tourist	PER	NOM
+MENTION	T35	51	13	51	13	Lucy	PER	PROP
+MENTION	T123	55	1	55	1	Women	PER	NOM
+MENTION	T124	56	20	56	20	George	PER	PROP
+MENTION	T125	60	0	60	0	Lucy	PER	PROP
+MENTION	T45	60	48	60	48	rooms	FAC	NOM
+MENTION	T126	65	5	65	8	any one so gross	PER	NOM
+MENTION	T49	68	1	68	12	two little old ladies , who were sitting further up the table	PER	NOM
+MENTION	T127	69	11	69	11	Lucy	PER	PROP
+MENTION	T128	70	0	70	0	Lucy	PER	PROP
+MENTION	T129	70	5	70	8	very odd people opposite	PER	NOM
+MENTION	T130	71	5	71	5	dear	PER	NOM
+MENTION	T131	72	0	72	1	This pension	FAC	NOM
+MENTION	T132	31	2	31	3	a pension	FAC	NOM
+MENTION	T50	75	12	75	34	a clergyman , stout but attractive , who hurried forward to take his place at the table , cheerfully apologizing for his lateness	PER	NOM
+MENTION	T51	76	0	76	0	Lucy	PER	PROP
+MENTION	T53	77	4	77	5	Mr. Beebe	PER	PROP
+MENTION	T54	79	2	79	2	Charlotte	PER	PROP
+MENTION	T133	82	8	82	9	Miss Bartlett	PER	PROP
+MENTION	T58	82	11	82	12	Miss Honeychurch	PER	PROP
+MENTION	T134	82	17	82	18	Tunbridge Wells	GPE	PROP
+MENTION	T135	82	25	82	27	St. Peter ’s	ORG	NOM
+MENTION	T136	82	22	82	27	the Vicar of St. Peter ’s	PER	NOM
+MENTION	T60	83	0	83	11	The clergyman , who had the air of one on a holiday	PER	NOM
+MENTION	T137	84	16	84	16	Lucy	PER	PROP
+MENTION	T138	85	11	85	21	the girl , who was in a state of spiritual starvation	PER	NOM
+MENTION	T139	87	0	87	1	Summer Street	FAC	PROP
+MENTION	T140	88	5	88	9	the parish of Summer Street	FAC	NOM
+MENTION	T65	93	6	93	7	Windy Corner	FAC	PROP
+MENTION	T75	95	3	95	3	mother	PER	NOM
+MENTION	T78	95	9	95	10	my brother	PER	NOM
+MENTION	T141	96	1	96	1	Lucy	PER	PROP
+MENTION	T142	98	5	98	5	Lucy	PER	PROP
+MENTION	T80	98	15	98	16	Miss Bartlett	PER	PROP
+MENTION	T143	99	21	99	21	there	GPE	NOM
+MENTION	T144	102	8	102	8	Fiesole	GPE	PROP
+MENTION	T145	102	13	102	13	Settignano	GPE	PROP
+MENTION	T85	105	1	105	2	Mr. Beebe	PER	PROP
+MENTION	T86	106	9	106	9	Prato	GPE	PROP
+MENTION	T146	110	0	110	0	People	PER	NOM
+MENTION	T147	110	15	110	17	the electric trams	VEH	NOM
+MENTION	T148	113	14	113	14	Prato	GPE	PROP
+MENTION	T149	114	4	114	4	Prato	GPE	PROP
+MENTION	T100	118	3	118	4	his father	PER	NOM
+MENTION	T101	119	0	119	0	Lucy	PER	PROP
+MENTION	T150	0	5	0	6	The Bertolini	FAC	NOM
+MENTION	T151	6	72	6	72	Oxon	ORG	PROP
+MENTION	T119	31	4	31	4	people	PER	NOM
+MENTION	T175	86	5	86	6	the world	LOC	NOM
+MENTION	T176	120	7	120	8	any one	PER	NOM
+MENTION	T177	1	14	1	14	here	FAC	NOM
+MENTION	T179	1	0	1	0	She	PER	PRON
+MENTION	T180	1	2	1	2	us	PER	PRON
+MENTION	T181	6	0	6	0	She	PER	PRON
+MENTION	T182	8	5	8	5	you	PER	PRON
+MENTION	T183	8	11	8	11	we	PER	PRON
+MENTION	T184	9	0	9	0	I	PER	PRON
+MENTION	T185	10	0	10	0	I	PER	PRON
+MENTION	T186	11	17	11	17	her	PER	PRON
+MENTION	T187	12	1	12	1	I	PER	PRON
+MENTION	T188	13	5	13	5	us	PER	PRON
+MENTION	T189	13	7	13	7	her	PER	PRON
+MENTION	T190	16	5	16	5	me	PER	PRON
+MENTION	T191	16	19	16	19	you	PER	PRON
+MENTION	T192	17	3	17	3	she	PER	PRON
+MENTION	T193	18	3	18	3	you	PER	PRON
+MENTION	T194	18	7	18	7	me	PER	PRON
+MENTION	T195	18	12	18	12	you	PER	PRON
+MENTION	T196	19	0	19	0	I	PER	PRON
+MENTION	T197	20	10	20	10	You	PER	PRON
+MENTION	T198	20	38	20	38	she	PER	PRON
+MENTION	T199	22	0	22	0	You	PER	PRON
+MENTION	T200	23	1	23	1	I	PER	PRON
+MENTION	T201	24	0	24	0	Your	PER	PRON
+MENTION	T202	24	5	24	5	me	PER	PRON
+MENTION	T203	25	1	25	1	She	PER	PRON
+MENTION	T204	25	5	25	5	me	PER	PRON
+MENTION	T205	27	0	27	0	They	PER	PRON
+MENTION	T206	27	10	27	10	they	PER	PRON
+MENTION	T207	28	2	28	2	their	PER	PRON
+MENTION	T208	28	10	28	10	them	PER	PRON
+MENTION	T209	28	32	28	32	their	PER	PRON
+MENTION	T210	29	0	29	0	He	PER	PRON
+MENTION	T211	29	4	29	4	I	PER	PRON
+MENTION	T212	29	9	29	9	I	PER	PRON
+MENTION	T213	31	6	31	6	them	PER	PRON
+MENTION	T214	31	23	31	23	they	PER	PRON
+MENTION	T215	31	29	31	29	they	PER	PRON
+MENTION	T216	32	0	32	0	She	PER	PRON
+MENTION	T217	32	10	32	10	she	PER	PRON
+MENTION	T218	32	13	32	13	him	PER	PRON
+MENTION	T219	33	0	33	0	He	PER	PRON
+MENTION	T220	35	13	35	13	her	PER	PRON
+MENTION	T221	35	18	35	18	his	PER	PRON
+MENTION	T222	36	4	36	4	her	PER	PRON
+MENTION	T223	37	0	37	0	He	PER	PRON
+MENTION	T224	37	8	37	8	them	PER	PRON
+MENTION	T225	37	10	37	10	they	PER	PRON
+MENTION	T226	38	1	38	1	she	PER	PRON
+MENTION	T227	38	7	38	7	he	PER	PRON
+MENTION	T228	38	10	38	10	her	PER	PRON
+MENTION	T229	41	3	41	3	my	PER	PRON
+MENTION	T230	41	13	41	13	his	PER	PRON
+MENTION	T231	42	0	42	0	He	PER	PRON
+MENTION	T232	44	2	44	2	I	PER	PRON
+MENTION	T233	44	6	44	6	he	PER	PRON
+MENTION	T234	44	12	44	12	you	PER	PRON
+MENTION	T235	44	15	44	15	our	PER	PRON
+MENTION	T236	44	19	44	19	we	PER	PRON
+MENTION	T237	45	0	45	0	We	PER	PRON
+MENTION	T238	47	7	47	7	her	PER	PRON
+MENTION	T239	47	18	47	18	you	PER	PRON
+MENTION	T240	50	11	50	11	you	PER	PRON
+MENTION	T241	51	1	51	1	You	PER	PRON
+MENTION	T242	51	4	51	4	we	PER	PRON
+MENTION	T243	52	0	52	0	Her	PER	PRON
+MENTION	T244	52	4	52	4	her	PER	PRON
+MENTION	T245	54	0	54	0	he	PER	PRON
+MENTION	T246	56	1	56	1	he	PER	PRON
+MENTION	T247	56	4	56	4	his	PER	PRON
+MENTION	T248	56	14	56	14	his	PER	PRON
+MENTION	T249	56	23	56	23	them	PER	PRON
+MENTION	T250	57	5	57	5	they	PER	PRON
+MENTION	T251	59	0	59	0	He	PER	PRON
+MENTION	T252	59	8	59	8	he	PER	PRON
+MENTION	T253	59	12	59	12	his	PER	PRON
+MENTION	T254	60	8	60	8	she	PER	PRON
+MENTION	T255	60	11	60	11	they	PER	PRON
+MENTION	T256	60	26	60	26	she	PER	PRON
+MENTION	T257	60	64	60	64	she	PER	PRON
+MENTION	T258	61	12	61	12	she	PER	PRON
+MENTION	T259	62	4	62	4	she	PER	PRON
+MENTION	T260	63	0	63	0	They	PER	PRON
+MENTION	T261	66	0	66	0	Her	PER	PRON
+MENTION	T262	67	0	67	0	She	PER	PRON
+MENTION	T263	67	11	67	11	you	PER	PRON
+MENTION	T264	68	30	68	30	We	PER	PRON
+MENTION	T265	68	34	68	34	we	PER	PRON
+MENTION	T266	69	2	69	2	your	PER	PRON
+MENTION	T267	69	8	69	8	she	PER	PRON
+MENTION	T268	69	22	69	22	she	PER	PRON
+MENTION	T269	71	2	71	2	your	PER	PRON
+MENTION	T270	73	1	73	1	we	PER	PRON
+MENTION	T271	74	2	74	2	she	PER	PRON
+MENTION	T272	74	8	74	8	she	PER	PRON
+MENTION	T273	75	24	75	24	his	PER	PRON
+MENTION	T274	75	33	75	33	his	PER	PRON
+MENTION	T275	76	13	76	13	her	PER	PRON
+MENTION	T276	79	4	79	4	we	PER	PRON
+MENTION	T277	81	11	81	11	you	PER	PRON
+MENTION	T278	82	0	82	0	I	PER	PRON
+MENTION	T279	82	3	82	3	you	PER	PRON
+MENTION	T280	82	6	82	6	us	PER	PRON
+MENTION	T281	82	20	82	20	you	PER	PRON
+MENTION	T282	83	22	83	22	they	PER	PRON
+MENTION	T283	83	24	83	24	him	PER	PRON
+MENTION	T284	84	1	84	1	he	PER	PRON
+MENTION	T285	84	12	84	12	he	PER	PRON
+MENTION	T286	85	1	85	1	I	PER	PRON
+MENTION	T287	85	7	85	7	you	PER	PRON
+MENTION	T288	85	33	85	33	her	PER	PRON
+MENTION	T289	88	23	88	23	she	PER	PRON
+MENTION	T290	88	27	88	27	me	PER	PRON
+MENTION	T291	88	34	88	34	you	PER	PRON
+MENTION	T292	88	45	88	45	I	PER	PRON
+MENTION	T293	89	0	89	0	She	PER	PRON
+MENTION	T294	89	5	89	5	I	PER	PRON
+MENTION	T295	89	7	89	7	you	PER	PRON
+MENTION	T296	89	13	89	13	I	PER	PRON
+MENTION	T297	89	20	89	20	I	PER	PRON
+MENTION	T298	90	1	90	1	I	PER	PRON
+MENTION	T299	91	0	91	0	I	PER	PRON
+MENTION	T300	92	5	92	5	I	PER	PRON
+MENTION	T301	93	3	93	3	our	PER	PRON
+MENTION	T302	95	5	95	5	me	PER	PRON
+MENTION	T303	95	9	95	9	my	PER	PRON
+MENTION	T304	95	17	95	17	we	PER	PRON
+MENTION	T305	95	19	95	19	him	PER	PRON
+MENTION	T306	95	30	95	30	I	PER	PRON
+MENTION	T307	96	9	96	9	his	PER	PRON
+MENTION	T308	97	1	97	1	I	PER	PRON
+MENTION	T309	97	7	97	7	you	PER	PRON
+MENTION	T310	98	0	98	0	He	PER	PRON
+MENTION	T311	98	9	98	9	he	PER	PRON
+MENTION	T312	98	21	98	21	his	PER	PRON
+MENTION	T313	99	0	99	0	He	PER	PRON
+MENTION	T314	99	5	99	5	she	PER	PRON
+MENTION	T315	99	17	99	17	she	PER	PRON
+MENTION	T316	100	9	100	9	he	PER	PRON
+MENTION	T317	101	9	101	9	his	PER	PRON
+MENTION	T318	105	4	105	4	you	PER	PRON
+MENTION	T319	106	4	106	4	your	PER	PRON
+MENTION	T320	107	12	107	12	her	PER	PRON
+MENTION	T321	108	1	108	1	We	PER	PRON
+MENTION	T322	109	11	109	11	them	PER	PRON
+MENTION	T323	110	2	110	2	them	PER	PRON
+MENTION	T324	110	43	110	43	them	PER	PRON
+MENTION	T325	111	10	111	10	they	PER	PRON
+MENTION	T326	112	2	112	2	they	PER	PRON
+MENTION	T327	112	11	112	11	them	PER	PRON
+MENTION	T328	114	0	114	0	They	PER	PRON
+MENTION	T329	116	0	116	0	I	PER	PRON
+MENTION	T330	116	4	116	4	I	PER	PRON
+MENTION	T331	116	15	116	15	you	PER	PRON
+MENTION	T332	117	16	117	16	his	PER	PRON
+MENTION	T333	118	1	118	1	he	PER	PRON
+MENTION	T334	118	3	118	3	his	PER	PRON
+MENTION	T335	119	6	119	6	her	PER	PRON
+MENTION	T336	119	13	119	13	they	PER	PRON
+MENTION	T337	120	2	120	2	her	PER	PRON
+MENTION	T338	120	18	120	18	she	PER	PRON
+MENTION	T339	120	23	120	23	she	PER	PRON
+MENTION	T340	2	2	2	2	Lucy	PER	PROP
+MENTION	T341	69	5	69	5	dear	PER	NOM
+COREF	T150	The_Bertolini-0
+COREF	T0	The_Signora-1
+COREF	T1	Charlotte_Bartlett-2
+COREF	T179	The_Signora-1
+COREF	T180	Charlotte_and_Lucy-3
+COREF	T103	south_rooms_with_a_view_close_together-4
+COREF	T177	north_rooms-5
+COREF	T3	north_rooms-5
+COREF	T2	a_courtyard-6
+COREF	T340	Lucy-7
+COREF	T4	a_Cockney-8
+COREF	T104	Lucy-7
+COREF	T5	The_Signora-1
+COREF	T6	London-9
+COREF	T181	Lucy-7
+COREF	T105	English_people-10
+COREF	T7	English_people-10
+COREF	T106	the_late_Queen-11
+COREF	T9	the_late_Poet_Laureate-12
+COREF	T107	English_people-10
+COREF	T8	the_English_church-13
+COREF	T108	Rev__Cuthbert_Eager-14
+COREF	T151	Oxon-15
+COREF	T109	Charlotte_Bartlett-2
+COREF	T182	Charlotte_Bartlett-2
+COREF	T183	Charlotte_and_Lucy-3
+COREF	T10	London-9
+COREF	T184	Lucy-7
+COREF	T185	Lucy-7
+COREF	T11	Charlotte_Bartlett-2
+COREF	T186	Charlotte_Bartlett-2
+COREF	T187	Charlotte_Bartlett-2
+COREF	T110	the_Arno-16
+COREF	T12	south_rooms_with_a_view_close_together-4
+COREF	T13	The_Signora-1
+COREF	T188	Charlotte_and_Lucy-3
+COREF	T189	The_Signora-1
+COREF	T111	the_Arno-16
+COREF	T14	The_Signora-1
+COREF	T190	Charlotte_Bartlett-2
+COREF	T16	Charlotte_Bartlett-2
+COREF	T191	Lucy-7
+COREF	T15	Lucy-7
+COREF	T192	Lucy-7
+COREF	T112	Charlotte_Bartlett-2
+COREF	T193	Charlotte_Bartlett-2
+COREF	T194	Lucy-7
+COREF	T195	Charlotte_Bartlett-2
+COREF	T113	the_Arno-16
+COREF	T196	Lucy-7
+COREF	T18	The_first_vacant_room_in_the_front-17
+COREF	T17	the_front-18
+COREF	T197	Lucy-7
+COREF	T19	Charlotte_Bartlett-2
+COREF	T20	Lucy-7
+COREF	T114	Lucy__s_mother-19
+COREF	T198	Charlotte_Bartlett-2
+COREF	T199	Charlotte_Bartlett-2
+COREF	T200	Charlotte_Bartlett-2
+COREF	T21	Lucy__s_mother-19
+COREF	T201	Lucy-7
+COREF	T202	Charlotte_Bartlett-2
+COREF	T115	Lucy-7
+COREF	T203	Lucy__s_mother-19
+COREF	T204	Charlotte_Bartlett-2
+COREF	T22	Charlotte_and_Lucy-3
+COREF	T205	Charlotte_and_Lucy-3
+COREF	T206	Charlotte_and_Lucy-3
+COREF	T116	Some_of_their_neighbours-20
+COREF	T23	their_neighbours-21
+COREF	T207	Charlotte_and_Lucy-3
+COREF	T118	one_of_them-22
+COREF	T208	Some_of_their_neighbours-20
+COREF	T209	Charlotte_and_Lucy-3
+COREF	T117	one_of_them-22
+COREF	T210	one_of_them-22
+COREF	T211	one_of_them-22
+COREF	T212	one_of_them-22
+COREF	T25	Charlotte_Bartlett-2
+COREF	T132	a_pension-24
+COREF	T119	people-25
+COREF	T213	Charlotte_and_Lucy-3
+COREF	T214	Charlotte_and_Lucy-3
+COREF	T215	Charlotte_and_Lucy-3
+COREF	T216	Charlotte_Bartlett-2
+COREF	T26	one_of_them-22
+COREF	T217	Charlotte_Bartlett-2
+COREF	T218	one_of_them-22
+COREF	T219	one_of_them-22
+COREF	T27	Charlotte_Bartlett-2
+COREF	T220	Charlotte_Bartlett-2
+COREF	T221	one_of_them-22
+COREF	T222	Charlotte_Bartlett-2
+COREF	T223	one_of_them-22
+COREF	T224	Charlotte_and_Lucy-3
+COREF	T225	Charlotte_and_Lucy-3
+COREF	T226	Charlotte_Bartlett-2
+COREF	T227	one_of_them-22
+COREF	T228	Charlotte_Bartlett-2
+COREF	T29	George-26
+COREF	T229	one_of_them-22
+COREF	T28	one_of_them-22
+COREF	T230	George-26
+COREF	T30	George-26
+COREF	T231	George-26
+COREF	T31	Charlotte_Bartlett-2
+COREF	T120	Lucy-7
+COREF	T232	one_of_them-22
+COREF	T233	one_of_them-22
+COREF	T234	Charlotte_and_Lucy-3
+COREF	T32	our_rooms-27
+COREF	T235	father_and_george-28
+COREF	T236	father_and_george-28
+COREF	T237	father_and_george-28
+COREF	T122	The_better_class_of_tourist-29
+COREF	T33	tourist-30
+COREF	T121	Charlotte_and_Lucy-3
+COREF	T34	Charlotte_Bartlett-2
+COREF	T238	Charlotte_Bartlett-2
+COREF	T239	one_of_them-22
+COREF	T36	one_of_them-22
+COREF	T240	one_of_them-22
+COREF	T241	Lucy-7
+COREF	T242	Charlotte_and_Lucy-3
+COREF	T35	Lucy-7
+COREF	T37	Charlotte_Bartlett-2
+COREF	T243	Lucy-7
+COREF	T244	Lucy-7
+COREF	T245	one_of_them-22
+COREF	T123	Women-31
+COREF	T38	men-32
+COREF	T246	one_of_them-22
+COREF	T247	one_of_them-22
+COREF	T40	one_of_them-22
+COREF	T39	George-26
+COREF	T248	one_of_them-22
+COREF	T124	George-26
+COREF	T249	Charlotte_and_Lucy-3
+COREF	T250	Charlotte_and_Lucy-3
+COREF	T41	our_rooms-27
+COREF	T42	George-26
+COREF	T251	George-26
+COREF	T43	Charlotte_and_Lucy-3
+COREF	T252	George-26
+COREF	T253	George-26
+COREF	T125	Lucy-7
+COREF	T254	Lucy-7
+COREF	T255	Charlotte_and_Lucy-3
+COREF	T256	Lucy-7
+COREF	T44	father_and_george-28
+COREF	T45	rooms-33
+COREF	T257	Lucy-7
+COREF	T47	one_of_them-22
+COREF	T46	Charlotte_Bartlett-2
+COREF	T258	Charlotte_Bartlett-2
+COREF	T259	Charlotte_Bartlett-2
+COREF	T260	father_and_george-28
+COREF	T48	Charlotte_Bartlett-2
+COREF	T126	one_of_them-22
+COREF	T261	Charlotte_Bartlett-2
+COREF	T262	Charlotte_Bartlett-2
+COREF	T263	their_neighbours-21
+COREF	T49	two_little_old_ladies___who_were_sitting_further_up_the_table-34
+COREF	T264	two_little_old_ladies___who_were_sitting_further_up_the_table-34
+COREF	T265	two_little_old_ladies___who_were_sitting_further_up_the_table-34
+COREF	T266	Charlotte_Bartlett-2
+COREF	T267	Charlotte_Bartlett-2
+COREF	T127	Lucy-7
+COREF	T268	Charlotte_Bartlett-2
+COREF	T128	Lucy-7
+COREF	T129	father_and_george-28
+COREF	T269	Lucy-7
+COREF	T130	Lucy-7
+COREF	T341	Lucy-7
+COREF	T131	Pension_Bertolini-35
+COREF	T270	Charlotte_and_Lucy-3
+COREF	T271	Charlotte_Bartlett-2
+COREF	T272	Charlotte_Bartlett-2
+COREF	T52	room_of_argument-36
+COREF	T50	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T273	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T274	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T51	Lucy-7
+COREF	T275	Lucy-7
+COREF	T53	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T54	Charlotte_Bartlett-2
+COREF	T276	Charlotte_and_Lucy-3
+COREF	T55	north_rooms-5
+COREF	T56	Charlotte_Bartlett-2
+COREF	T277	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T57	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T278	Charlotte_Bartlett-2
+COREF	T279	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T280	Charlotte_and_Lucy-3
+COREF	T133	Charlotte_Bartlett-2
+COREF	T58	Lucy-7
+COREF	T134	Tunbridge_Wells-38
+COREF	T281	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T136	the_Vicar_of_St__Peter__s-39
+COREF	T135	St__Peter__s-40
+COREF	T60	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T59	Charlotte_and_Lucy-3
+COREF	T282	Charlotte_and_Lucy-3
+COREF	T283	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T284	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T285	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T137	Lucy-7
+COREF	T286	Lucy-7
+COREF	T287	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T138	Lucy-7
+COREF	T62	the_waiter-41
+COREF	T61	Charlotte_Bartlett-2
+COREF	T288	Lucy-7
+COREF	T175	the_world-42
+COREF	T139	Summer_Street-43
+COREF	T63	Lucy-7
+COREF	T140	the_parish_of_Summer_Street-44
+COREF	T67	Summer_Street-43
+COREF	T66	Charlotte_Bartlett-2
+COREF	T289	Lucy-7
+COREF	T290	Charlotte_Bartlett-2
+COREF	T291	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T292	Lucy-7
+COREF	T64	Lucy__s_mother-19
+COREF	T293	Lucy__s_mother-19
+COREF	T294	Lucy-7
+COREF	T295	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T68	Tunbridge_Wells-38
+COREF	T296	Lucy-7
+COREF	T297	Lucy-7
+COREF	T69	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T70	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T298	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T71	the_Rectory-45
+COREF	T72	Summer_Street-43
+COREF	T299	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T73	Summer_Street-43
+COREF	T300	Lucy-7
+COREF	T74	Windy_Corner-46
+COREF	T301	Honeybush_Family-47
+COREF	T65	Windy_Corner-46
+COREF	T76	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T75	Lucy__s_mother-19
+COREF	T302	Lucy-7
+COREF	T78	Lucy_s_Brother-48
+COREF	T303	Lucy-7
+COREF	T304	Lucy_and_mother-49
+COREF	T305	Lucy_s_Brother-48
+COREF	T77	The_church-50
+COREF	T306	Lucy-7
+COREF	T141	Lucy-7
+COREF	T79	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T307	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T308	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T309	Charlotte_Bartlett-2
+COREF	T310	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T142	Lucy-7
+COREF	T311	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T80	Charlotte_Bartlett-2
+COREF	T312	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T313	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T81	Lucy-7
+COREF	T314	Lucy-7
+COREF	T82	Florence-51
+COREF	T315	Lucy-7
+COREF	T143	Florence-51
+COREF	T83	a_newcomer-52
+COREF	T316	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T317	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T144	Fiesole-53
+COREF	T145	Settignano-54
+COREF	T85	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T318	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T87	Charlotte_and_Lucy-3
+COREF	T319	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37
+COREF	T86	Prato-55
+COREF	T88	That_lady-56
+COREF	T89	Charlotte_Bartlett-2
+COREF	T90	Lucy-7
+COREF	T320	Charlotte_Bartlett-2
+COREF	T321	Charlotte_and_Lucy-3
+COREF	T322	Charlotte_and_Lucy-3
+COREF	T146	People-57
+COREF	T323	Charlotte_and_Lucy-3
+COREF	T147	the_electric_trams-58
+COREF	T91	the_beggars-59
+COREF	T92	the_place-60
+COREF	T324	Charlotte_and_Lucy-3
+COREF	T93	Pension_Bertolini-35
+COREF	T325	Charlotte_and_Lucy-3
+COREF	T326	Charlotte_and_Lucy-3
+COREF	T94	kind_ladies-61
+COREF	T327	Charlotte_and_Lucy-3
+COREF	T95	That_lady-56
+COREF	T148	Prato-55
+COREF	T328	Charlotte_and_Lucy-3
+COREF	T149	Prato-55
+COREF	T96	Prato-55
+COREF	T329	That_lady-56
+COREF	T330	That_lady-56
+COREF	T331	Charlotte_and_Lucy-3
+COREF	T97	George-26
+COREF	T98	George-26
+COREF	T99	That_lady-56
+COREF	T332	George-26
+COREF	T333	George-26
+COREF	T100	one_of_them-22
+COREF	T334	George-26
+COREF	T101	Lucy-7
+COREF	T335	Lucy-7
+COREF	T336	father_and_george-28
+COREF	T337	Lucy-7
+COREF	T176	any_one-62
+COREF	T338	Lucy-7
+COREF	T339	Lucy-7
+COREF	T102	father_and_george-28
+COP	T24	T219
+MENTION	T696	20	13	20	13	it	FAC	PRON
+COREF	T696	The_first_vacant_room_in_the_front-17
+MENTION	T698	22	3	22	3	it	FAC	PRON
+COREF	T698	The_first_vacant_room_in_the_front-17
+MENTION	T732	116	2	116	2	it	GPE	PRON
+COREF	T732	Prato-55

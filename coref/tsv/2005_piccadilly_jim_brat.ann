@@ -1,0 +1,598 @@
+MENTION	T2	0	17	0	18	Riverside Drive	FAC	PROP
+MENTION	T3	0	12	0	14	the well-known financier	PER	NOM
+MENTION	T5	3	10	3	12	a suburban villa	FAC	NOM
+MENTION	T6	3	14	3	15	a hotel	FAC	NOM
+MENTION	T7	4	28	4	32	New York 's Public Library	FAC	NOM
+MENTION	T8	4	11	4	12	the porch	FAC	NOM
+MENTION	T10	5	30	5	36	a woman who liked to be noticed	PER	NOM
+MENTION	T11	5	18	5	19	Mrs. Pett	PER	PROP
+MENTION	T12	5	2	5	8	a house which is impossible to overlook	FAC	NOM
+MENTION	T13	6	17	6	19	a lost spirit	PER	NOM
+MENTION	T14	6	10	6	12	its nominal proprietor	PER	NOM
+MENTION	T16	7	18	7	19	the house	FAC	NOM
+MENTION	T17	18	15	18	19	all lovers of sensational fiction	PER	NOM
+MENTION	T20	19	17	19	18	Willie Partridge	PER	PROP
+MENTION	T22	20	4	20	10	mostly novelists who had not yet started	PER	NOM
+MENTION	T23	21	12	21	16	his wife 's first husband	PER	NOM
+MENTION	T25	22	14	22	22	the man who waits fifty years before trying it	PER	NOM
+MENTION	T26	22	6	22	7	Mr. Pett	PER	PROP
+MENTION	T27	23	3	23	4	the geniuses	PER	NOM
+MENTION	T28	23	22	23	29	a fourteen-year-old boy of a singularly unloveable type	PER	NOM
+MENTION	T29	23	13	23	15	her new home	FAC	NOM
+MENTION	T30	23	6	23	7	Mrs. Pett	PER	PROP
+MENTION	T31	24	25	24	26	private tutors	PER	NOM
+MENTION	T32	26	9	26	9	boys	PER	NOM
+MENTION	T33	26	1	26	2	Mr. Pett	PER	PROP
+MENTION	T34	26	11	26	12	Ogden Ford	PER	PROP
+MENTION	T35	29	0	29	1	Mr. Pett	PER	PROP
+MENTION	T39	32	37	32	38	his father	PER	NOM
+MENTION	T40	33	0	33	1	Mr. Pett	PER	PROP
+MENTION	T41	33	29	33	30	the library	FAC	NOM
+MENTION	T42	37	27	37	28	their juniors	PER	NOM
+MENTION	T43	37	23	37	28	a house full of their juniors	FAC	NOM
+MENTION	T44	40	0	40	1	Ogden Ford	PER	PROP
+MENTION	T46	43	0	43	1	Mr. Pett	PER	PROP
+MENTION	T47	45	10	45	12	the bulging child	PER	NOM
+MENTION	T48	46	0	46	1	Ogden Ford	PER	PROP
+MENTION	T51	52	1	52	1	Mother	PER	NOM
+MENTION	T53	54	0	54	1	Mr. Pett	PER	PROP
+MENTION	T55	62	0	62	1	Mr. Pett	PER	PROP
+MENTION	T56	74	4	74	5	the fellows	PER	NOM
+MENTION	T57	78	6	78	7	Mr. Pett	PER	PROP
+MENTION	T59	84	12	84	13	Mr. Pett	PER	PROP
+MENTION	T60	86	6	86	7	a home	FAC	NOM
+MENTION	T62	91	11	91	19	Mr. Pett , who was touchy on the subject	PER	NOM
+MENTION	T64	94	5	94	6	what mother	PER	NOM
+MENTION	T65	105	0	105	1	Mr. Pett	PER	PROP
+MENTION	T66	106	3	106	4	another man	PER	NOM
+MENTION	T68	108	9	108	10	Riverside Drive	FAC	PROP
+MENTION	T70	108	17	108	18	Pine Street	FAC	PROP
+MENTION	T71	109	16	109	19	whiskered , square-jawed financiers	PER	NOM
+MENTION	T72	109	10	109	11	Pine Street	FAC	PROP
+MENTION	T74	109	30	109	32	a fourteen-year-old boy	PER	NOM
+MENTION	T75	109	26	109	27	Riverside Drive	FAC	PROP
+MENTION	T76	113	10	113	11	the stairs	FAC	NOM
+MENTION	T77	115	23	115	24	Mr. Pett	PER	PROP
+MENTION	T78	117	15	117	16	the office	FAC	NOM
+MENTION	T79	117	12	117	12	home	FAC	NOM
+MENTION	T80	119	39	119	39	men	PER	NOM
+MENTION	T81	119	4	119	5	Mr. Pett	PER	PROP
+MENTION	T82	123	19	123	20	the river	LOC	NOM
+MENTION	T83	123	23	123	31	the girl who had been working at the typewriter	PER	NOM
+MENTION	T84	124	3	124	4	Mr. Pett	PER	PROP
+MENTION	T1	0	2	0	4	A RED-HAIRED GIRL	PER	NOM
+MENTION	T85	0	8	0	10	Mr. Peter Pett	PER	PROP
+MENTION	T86	0	26	0	30	that breezy and expensive boulevard	FAC	NOM
+MENTION	T87	0	5	0	18	The residence of Mr. Peter Pett , the well-known financier , on Riverside Drive	FAC	NOM
+MENTION	T88	0	22	0	30	the leading eyesores of that breezy and expensive boulevard	FAC	NOM
+MENTION	T89	1	5	1	6	your limousine	VEH	NOM
+MENTION	T90	1	20	1	22	a green omnibus	VEH	NOM
+MENTION	T91	2	0	2	0	Architects	PER	NOM
+MENTION	T4	2	16	2	18	the lay observer	PER	NOM
+MENTION	T92	3	0	3	1	The place	FAC	NOM
+MENTION	T93	3	7	3	8	a cathedral	FAC	NOM
+MENTION	T94	3	17	3	19	a Chinese pagoda	FAC	NOM
+MENTION	T95	4	28	4	29	New York	GPE	PROP
+MENTION	T9	5	22	5	23	her husband	PER	NOM
+MENTION	T96	6	5	6	6	this mansion	FAC	NOM
+MENTION	T15	6	7	6	8	Mr. Pett	PER	PROP
+MENTION	T97	8	22	8	25	the godless Stock Exchange	FAC	NOM
+MENTION	T98	14	0	14	0	Intruders	PER	NOM
+MENTION	T99	15	0	15	1	The place	FAC	NOM
+MENTION	T100	17	7	17	8	Mrs. Pett	PER	PROP
+MENTION	T101	18	9	18	11	Nesta Ford Pett	PER	PROP
+MENTION	T102	19	9	19	11	a single specimen	PER	NOM
+MENTION	T103	19	14	19	15	her nephew	PER	NOM
+MENTION	T18	20	12	20	17	poets who were about to begin	PER	NOM
+MENTION	T104	20	0	20	2	Six brilliant youths	PER	NOM
+MENTION	T21	20	21	20	22	Mr. Pett	PER	PROP
+MENTION	T105	20	21	20	24	Mr. Pett 's rooms	FAC	NOM
+MENTION	T106	21	12	21	13	his wife	PER	NOM
+MENTION	T24	21	24	21	25	Elmer Ford	PER	PROP
+MENTION	T107	21	18	21	22	a business friend of his	PER	NOM
+MENTION	T108	21	44	21	45	the deceased	PER	NOM
+MENTION	T109	23	16	23	18	her only son	PER	NOM
+MENTION	T110	23	20	23	20	Ogden	PER	PROP
+MENTION	T111	25	18	25	19	the boy	PER	NOM
+MENTION	T112	27	2	27	3	his stepson	PER	NOM
+MENTION	T113	30	13	30	14	the morning-room	FAC	NOM
+MENTION	T37	31	7	31	8	the passage	FAC	NOM
+MENTION	T114	32	20	32	23	his own private library	FAC	NOM
+MENTION	T38	32	25	32	43	a large , soothing room full of old books , of which his father had been a great collector	FAC	NOM
+MENTION	T115	37	16	37	33	elderly gentlemen of solitary habit who in a house full of their juniors find themselves alone at last	PER	NOM
+MENTION	T116	39	3	39	3	pop	PER	NOM
+MENTION	T117	41	4	41	4	pop	PER	NOM
+MENTION	T45	43	8	43	9	his step-son	PER	NOM
+MENTION	T118	44	2	44	3	the boy	PER	NOM
+MENTION	T119	44	26	44	27	the latter	PER	NOM
+MENTION	T49	49	6	49	6	boy	PER	NOM
+MENTION	T50	49	10	49	11	Mr. Pett	PER	PROP
+MENTION	T52	52	9	52	9	Ogden	PER	PROP
+MENTION	T120	53	8	53	9	the enemy	PER	NOM
+MENTION	T121	55	0	55	0	Ogden	PER	PROP
+MENTION	T122	56	11	56	11	pop	PER	NOM
+MENTION	T123	58	8	58	9	his step-son	PER	NOM
+MENTION	T124	76	8	76	8	pop	PER	NOM
+MENTION	T58	79	9	79	20	this calm , goggle-eyed boy who treated him with such supercilious coolness	PER	NOM
+MENTION	T61	95	0	95	0	Ogden	PER	PROP
+MENTION	T63	96	4	96	4	pop	PER	NOM
+MENTION	T125	103	3	103	3	pop	PER	NOM
+MENTION	T67	108	4	108	7	a totally different man	PER	NOM
+MENTION	T69	108	12	108	15	the person he was	PER	NOM
+MENTION	T73	109	13	109	14	grown men	PER	NOM
+MENTION	T126	114	1	114	3	the top floor	FAC	NOM
+MENTION	T127	114	8	114	9	the passage	FAC	NOM
+MENTION	T128	118	6	118	7	a girl	PER	NOM
+MENTION	T129	119	36	119	39	the dens of men	FAC	NOM
+MENTION	T130	122	26	122	26	automobiles	VEH	NOM
+MENTION	T131	122	29	122	30	the Drive	FAC	NOM
+MENTION	T154	66	3	66	3	sir	PER	NOM
+MENTION	T155	72	3	72	3	sir	PER	NOM
+MENTION	T156	34	13	34	13	nobody	PER	NOM
+MENTION	T157	119	0	119	7	The room in which Mr. Pett found himself	FAC	NOM
+MENTION	T158	34	14	34	14	there	FAC	NOM
+MENTION	T159	73	4	73	4	here	FAC	NOM
+MENTION	T160	74	8	74	8	here	FAC	NOM
+MENTION	T162	1	1	1	1	you	PER	PRON
+MENTION	T163	1	5	1	5	your	PER	PRON
+MENTION	T164	1	30	1	30	you	PER	PRON
+MENTION	T165	2	10	2	10	their	PER	PRON
+MENTION	T166	5	22	5	22	her	PER	PRON
+MENTION	T167	5	28	5	28	she	PER	PRON
+MENTION	T168	7	25	7	25	him	PER	PRON
+MENTION	T169	8	7	8	7	his	PER	PRON
+MENTION	T170	8	28	8	28	his	PER	PRON
+MENTION	T171	10	0	10	0	He	PER	PRON
+MENTION	T172	10	10	10	10	his	PER	PRON
+MENTION	T173	11	5	11	5	he	PER	PRON
+MENTION	T174	12	0	12	0	He	PER	PRON
+MENTION	T175	13	5	13	5	he	PER	PRON
+MENTION	T176	13	12	13	12	he	PER	PRON
+MENTION	T177	13	15	13	15	his	PER	PRON
+MENTION	T178	13	23	13	23	he	PER	PRON
+MENTION	T179	16	12	16	12	his	PER	PRON
+MENTION	T180	18	0	18	0	She	PER	PRON
+MENTION	T181	18	5	18	5	herself	PER	PRON
+MENTION	T182	19	14	19	14	her	PER	PRON
+MENTION	T183	19	33	19	33	she	PER	PRON
+MENTION	T184	19	38	19	38	her	PER	PRON
+MENTION	T185	19	43	19	43	she	PER	PRON
+MENTION	T186	19	47	19	47	her	PER	PRON
+MENTION	T187	20	32	20	32	he	PER	PRON
+MENTION	T188	20	35	20	35	his	PER	PRON
+MENTION	T189	21	6	21	6	he	PER	PRON
+MENTION	T190	21	12	21	12	his	PER	PRON
+MENTION	T191	21	22	21	22	his	PER	PRON
+MENTION	T192	21	40	21	40	he	PER	PRON
+MENTION	T193	23	11	23	11	her	PER	PRON
+MENTION	T194	23	13	23	13	her	PER	PRON
+MENTION	T195	23	16	23	16	her	PER	PRON
+MENTION	T196	24	13	24	13	him	PER	PRON
+MENTION	T197	24	29	24	29	themselves	PER	PRON
+MENTION	T198	25	0	25	0	They	PER	PRON
+MENTION	T199	26	6	26	6	his	PER	PRON
+MENTION	T200	27	0	27	0	He	PER	PRON
+MENTION	T201	27	2	27	2	his	PER	PRON
+MENTION	T202	27	8	27	8	he	PER	PRON
+MENTION	T203	27	12	27	12	him	PER	PRON
+MENTION	T204	27	15	27	15	his	PER	PRON
+MENTION	T205	28	6	28	6	he	PER	PRON
+MENTION	T206	28	16	28	16	him	PER	PRON
+MENTION	T207	29	3	29	3	his	PER	PRON
+MENTION	T208	30	0	30	0	He	PER	PRON
+MENTION	T209	30	38	30	38	he	PER	PRON
+MENTION	T210	31	10	31	10	him	PER	PRON
+MENTION	T211	31	13	31	13	his	PER	PRON
+MENTION	T212	31	28	31	28	him	PER	PRON
+MENTION	T214	32	0	32	0	He	PER	PRON
+MENTION	T215	32	15	32	15	him	PER	PRON
+MENTION	T216	32	20	32	20	his	PER	PRON
+MENTION	T217	32	37	32	37	his	PER	PRON
+MENTION	T218	33	7	33	7	himself	PER	PRON
+MENTION	T219	33	10	33	10	he	PER	PRON
+MENTION	T221	33	22	33	22	his	PER	PRON
+MENTION	T222	33	25	33	25	he	PER	PRON
+MENTION	T223	34	1	34	1	his	PER	PRON
+MENTION	T224	35	0	35	0	He	PER	PRON
+MENTION	T225	36	0	36	0	He	PER	PRON
+MENTION	T226	37	0	37	0	He	PER	PRON
+MENTION	T227	37	27	37	27	their	PER	PRON
+MENTION	T228	37	30	37	30	themselves	PER	PRON
+MENTION	T229	38	6	38	6	his	PER	PRON
+MENTION	T230	43	8	43	8	his	PER	PRON
+MENTION	T231	44	0	44	0	He	PER	PRON
+MENTION	T232	44	31	44	31	his	PER	PRON
+MENTION	T233	45	14	45	14	him	PER	PRON
+MENTION	T234	47	0	47	0	He	PER	PRON
+MENTION	T235	48	10	48	10	his	PER	PRON
+MENTION	T236	49	3	49	3	you	PER	PRON
+MENTION	T237	49	13	49	13	his	PER	PRON
+MENTION	T238	51	1	51	1	I	PER	PRON
+MENTION	T239	51	3	51	3	you	PER	PRON
+MENTION	T240	52	5	52	5	me	PER	PRON
+MENTION	T241	53	1	53	1	he	PER	PRON
+MENTION	T242	55	2	55	2	his	PER	PRON
+MENTION	T243	55	11	55	11	his	PER	PRON
+MENTION	T244	56	9	56	9	you	PER	PRON
+MENTION	T245	57	1	57	1	I	PER	PRON
+MENTION	T246	58	1	58	1	I	PER	PRON
+MENTION	T247	58	3	58	3	you	PER	PRON
+MENTION	T248	58	8	58	8	his	PER	PRON
+MENTION	T249	59	1	59	1	I	PER	PRON
+MENTION	T250	60	0	60	0	I	PER	PRON
+MENTION	T251	60	5	60	5	you	PER	PRON
+MENTION	T252	60	11	60	11	me	PER	PRON
+MENTION	T253	61	0	61	0	I	PER	PRON
+MENTION	T254	63	1	63	1	You	PER	PRON
+MENTION	T255	64	1	64	1	Me	PER	PRON
+MENTION	T256	68	1	68	1	I	PER	PRON
+MENTION	T259	71	1	71	1	You	PER	PRON
+MENTION	T260	71	6	71	6	you	PER	PRON
+MENTION	T261	71	8	71	8	me	PER	PRON
+MENTION	T262	73	0	73	0	I	PER	PRON
+MENTION	T263	74	0	74	0	I	PER	PRON
+MENTION	T264	74	10	74	10	me	PER	PRON
+MENTION	T265	75	0	75	0	They	PER	PRON
+MENTION	T266	75	4	75	4	your	PER	PRON
+MENTION	T267	76	0	76	0	You	PER	PRON
+MENTION	T268	77	0	77	0	You	PER	PRON
+MENTION	T269	77	4	77	4	yourself	PER	PRON
+MENTION	T270	79	4	79	4	he	PER	PRON
+MENTION	T271	79	6	79	6	himself	PER	PRON
+MENTION	T272	79	16	79	16	him	PER	PRON
+MENTION	T273	80	1	80	1	You	PER	PRON
+MENTION	T274	80	15	80	15	he	PER	PRON
+MENTION	T275	83	0	83	0	I	PER	PRON
+MENTION	T276	83	3	83	3	you	PER	PRON
+MENTION	T277	84	1	84	1	I	PER	PRON
+MENTION	T278	84	3	84	3	I	PER	PRON
+MENTION	T279	86	9	86	9	you	PER	PRON
+MENTION	T280	87	2	87	2	I	PER	PRON
+MENTION	T281	87	4	87	4	your	PER	PRON
+MENTION	T282	87	7	87	7	I	PER	PRON
+MENTION	T283	87	21	87	21	my	PER	PRON
+MENTION	T284	88	4	88	4	you	PER	PRON
+MENTION	T285	89	3	89	3	you	PER	PRON
+MENTION	T286	91	1	91	1	I	PER	PRON
+MENTION	T287	92	3	92	3	your	PER	PRON
+MENTION	T288	93	1	93	1	I	PER	PRON
+MENTION	T289	94	1	94	1	I	PER	PRON
+MENTION	T290	99	5	99	5	your	PER	PRON
+MENTION	T291	100	3	100	3	you	PER	PRON
+MENTION	T292	101	4	101	4	you	PER	PRON
+MENTION	T293	102	4	102	4	you	PER	PRON
+MENTION	T294	103	6	103	6	you	PER	PRON
+MENTION	T295	106	0	106	0	He	PER	PRON
+MENTION	T296	107	8	107	8	him	PER	PRON
+MENTION	T297	108	2	108	2	he	PER	PRON
+MENTION	T298	108	14	108	14	he	PER	PRON
+MENTION	T299	109	2	109	2	he	PER	PRON
+MENTION	T300	109	7	109	7	his	PER	PRON
+MENTION	T301	110	3	110	3	him	PER	PRON
+MENTION	T302	110	14	110	14	him	PER	PRON
+MENTION	T303	111	2	111	2	he	PER	PRON
+MENTION	T304	111	10	111	10	he	PER	PRON
+MENTION	T305	111	13	111	13	his	PER	PRON
+MENTION	T306	112	0	112	0	He	PER	PRON
+MENTION	T307	113	1	113	1	his	PER	PRON
+MENTION	T308	113	6	113	6	he	PER	PRON
+MENTION	T309	114	5	114	5	he	PER	PRON
+MENTION	T311	116	8	116	8	he	PER	PRON
+MENTION	T312	116	12	116	12	he	PER	PRON
+MENTION	T313	117	0	117	0	He	PER	PRON
+MENTION	T314	119	7	119	7	himself	PER	PRON
+MENTION	T315	123	10	123	10	her	PER	PRON
+MENTION	T316	124	0	124	0	She	PER	PRON
+MENTION	T317	124	10	124	10	her	PER	PRON
+COREF	T1	A_RED-HAIRED_GIRL-0
+COREF	T87	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T85	Mr__Peter_Pett-2
+COREF	T2	Riverside_Drive-3
+COREF	T88	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T86	Riverside_Drive-3
+COREF	T162	you-100000
+COREF	T89	your_limousine-4
+COREF	T163	your-100001
+COREF	T90	a_green_omnibus-5
+COREF	T164	you-100002
+COREF	T91	Architects-6
+COREF	T165	Architects-6
+COREF	T4	the_lay_observer-7
+COREF	T92	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T93	a_cathedral-8
+COREF	T5	a_suburban_villa-9
+COREF	T6	a_hotel-10
+COREF	T94	a_Chinese_pagoda-11
+COREF	T8	the_porch-12
+COREF	T7	New_York__s_Public_Library-13
+COREF	T95	New_York-14
+COREF	T11	Mrs__Pett-15
+COREF	T9	Mr__Peter_Pett-2
+COREF	T166	Mrs__Pett-15
+COREF	T167	Mrs__Pett-15
+COREF	T96	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T15	Mr__Peter_Pett-2
+COREF	T13	a_lost_spirit-16
+COREF	T16	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T168	Mr__Peter_Pett-2
+COREF	T169	Mr__Peter_Pett-2
+COREF	T97	the_godless_Stock_Exchange-17
+COREF	T170	Mr__Peter_Pett-2
+COREF	T171	Mr__Peter_Pett-2
+COREF	T172	Mr__Peter_Pett-2
+COREF	T173	Mr__Peter_Pett-2
+COREF	T174	Mr__Peter_Pett-2
+COREF	T175	Mr__Peter_Pett-2
+COREF	T176	Mr__Peter_Pett-2
+COREF	T177	Mr__Peter_Pett-2
+COREF	T178	Mr__Peter_Pett-2
+COREF	T98	Intruders-18
+COREF	T99	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T179	Mr__Peter_Pett-2
+COREF	T100	Mrs__Pett-15
+COREF	T180	Mrs__Pett-15
+COREF	T181	Mrs__Pett-15
+COREF	T101	Mrs__Pett-15
+COREF	T17	all_lovers_of_sensational_fiction-19
+COREF	T102	Willie-20
+COREF	T182	Mrs__Pett-15
+COREF	T20	Willie-20
+COREF	T183	Mrs__Pett-15
+COREF	T184	Mrs__Pett-15
+COREF	T185	Mrs__Pett-15
+COREF	T186	Mrs__Pett-15
+COREF	T104	six_young_and_unrecognised_geniuses-21
+COREF	T22	six_young_and_unrecognised_geniuses-21
+COREF	T18	six_young_and_unrecognised_geniuses-21
+COREF	T21	Mr__Peter_Pett-2
+COREF	T105	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T187	Mr__Peter_Pett-2
+COREF	T188	Mr__Peter_Pett-2
+COREF	T189	Mr__Peter_Pett-2
+COREF	T23	Elmer-22
+COREF	T106	Mrs__Pett-15
+COREF	T190	Mr__Peter_Pett-2
+COREF	T107	Elmer-22
+COREF	T191	Mr__Peter_Pett-2
+COREF	T24	Elmer-22
+COREF	T192	Mr__Peter_Pett-2
+COREF	T108	Elmer-22
+COREF	T26	Mr__Peter_Pett-2
+COREF	T25	the_man_who_waits_fifty_years_before_trying_it-23
+COREF	T27	six_young_and_unrecognised_geniuses-21
+COREF	T30	Mrs__Pett-15
+COREF	T193	Mrs__Pett-15
+COREF	T29	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T194	Mrs__Pett-15
+COREF	T109	Ogden-24
+COREF	T195	Mrs__Pett-15
+COREF	T28	Ogden-24
+COREF	T196	Ogden-24
+COREF	T31	private_tutors-25
+COREF	T197	private_tutors-25
+COREF	T198	private_tutors-25
+COREF	T111	Ogden-24
+COREF	T33	Mr__Peter_Pett-2
+COREF	T199	Mr__Peter_Pett-2
+COREF	T32	boys-26
+COREF	T34	Ogden-24
+COREF	T200	Mr__Peter_Pett-2
+COREF	T112	Ogden-24
+COREF	T201	Mr__Peter_Pett-2
+COREF	T202	Mr__Peter_Pett-2
+COREF	T203	Ogden-24
+COREF	T204	Mr__Peter_Pett-2
+COREF	T205	Mr__Peter_Pett-2
+COREF	T206	Ogden-24
+COREF	T35	Mr__Peter_Pett-2
+COREF	T207	Mr__Peter_Pett-2
+COREF	T208	Mr__Peter_Pett-2
+COREF	T113	the_morning-room-27
+COREF	T209	Mr__Peter_Pett-2
+COREF	T37	the_passage-29
+COREF	T210	Mr__Peter_Pett-2
+COREF	T211	Mr__Peter_Pett-2
+COREF	T212	Mr__Peter_Pett-2
+COREF	T214	Mr__Peter_Pett-2
+COREF	T215	Mr__Peter_Pett-2
+COREF	T114	his_own_private_library-30
+COREF	T216	Mr__Peter_Pett-2
+COREF	T39	his_father-31
+COREF	T217	Mr__Peter_Pett-2
+COREF	T40	Mr__Peter_Pett-2
+COREF	T218	Mr__Peter_Pett-2
+COREF	T219	Mr__Peter_Pett-2
+COREF	T221	Mr__Peter_Pett-2
+COREF	T222	Mr__Peter_Pett-2
+COREF	T41	his_own_private_library-30
+COREF	T223	Mr__Peter_Pett-2
+COREF	T156	nobody-100003
+COREF	T158	his_own_private_library-30
+COREF	T224	Mr__Peter_Pett-2
+COREF	T225	Mr__Peter_Pett-2
+COREF	T226	Mr__Peter_Pett-2
+COREF	T115	elderly_gentlemen_of_solitary_habit_who_in_a_house_full_of_their_juniors_find_themselves_alone_at_last-32
+COREF	T43	a_house_full_of_their_juniors-33
+COREF	T42	their_juniors-34
+COREF	T227	elderly_gentlemen_of_solitary_habit_who_in_a_house_full_of_their_juniors_find_themselves_alone_at_last-32
+COREF	T228	elderly_gentlemen_of_solitary_habit_who_in_a_house_full_of_their_juniors_find_themselves_alone_at_last-32
+COREF	T229	Mr__Peter_Pett-2
+COREF	T116	Mr__Peter_Pett-2
+COREF	T44	Ogden-24
+COREF	T117	Mr__Peter_Pett-2
+COREF	T46	Mr__Peter_Pett-2
+COREF	T45	Ogden-24
+COREF	T230	Mr__Peter_Pett-2
+COREF	T231	Mr__Peter_Pett-2
+COREF	T118	Ogden-24
+COREF	T119	Ogden-24
+COREF	T232	Mr__Peter_Pett-2
+COREF	T47	Ogden-24
+COREF	T233	Mr__Peter_Pett-2
+COREF	T48	Ogden-24
+COREF	T234	Ogden-24
+COREF	T235	Ogden-24
+COREF	T50	Mr__Peter_Pett-2
+COREF	T236	Ogden-24
+COREF	T49	Ogden-24
+COREF	T237	Mr__Peter_Pett-2
+COREF	T238	Mr__Peter_Pett-2
+COREF	T239	Ogden-24
+COREF	T51	Mrs__Pett-15
+COREF	T240	Ogden-24
+COREF	T52	Ogden-24
+COREF	T241	Ogden-24
+COREF	T120	Mr__Peter_Pett-2
+COREF	T53	Mr__Peter_Pett-2
+COREF	T121	Ogden-24
+COREF	T242	Ogden-24
+COREF	T243	Ogden-24
+COREF	T244	Mr__Peter_Pett-2
+COREF	T122	Mr__Peter_Pett-2
+COREF	T245	Mr__Peter_Pett-2
+COREF	T246	Ogden-24
+COREF	T247	Mr__Peter_Pett-2
+COREF	T123	Ogden-24
+COREF	T248	Mr__Peter_Pett-2
+COREF	T249	Ogden-24
+COREF	T250	Ogden-24
+COREF	T251	Mr__Peter_Pett-2
+COREF	T252	Ogden-24
+COREF	T253	Ogden-24
+COREF	T55	Mr__Peter_Pett-2
+COREF	T254	Ogden-24
+COREF	T255	Ogden-24
+COREF	T154	Mr__Peter_Pett-2
+COREF	T256	Ogden-24
+COREF	T259	Ogden-24
+COREF	T260	Ogden-24
+COREF	T261	Mr__Peter_Pett-2
+COREF	T155	Mr__Peter_Pett-2
+COREF	T262	Ogden-24
+COREF	T159	his_own_private_library-30
+COREF	T263	Ogden-24
+COREF	T56	six_young_and_unrecognised_geniuses-21
+COREF	T160	his_own_private_library-30
+COREF	T264	Ogden-24
+COREF	T265	six_young_and_unrecognised_geniuses-21
+COREF	T266	Mr__Peter_Pett-2
+COREF	T267	Mr__Peter_Pett-2
+COREF	T124	Mr__Peter_Pett-2
+COREF	T268	Mr__Peter_Pett-2
+COREF	T269	Mr__Peter_Pett-2
+COREF	T57	Mr__Peter_Pett-2
+COREF	T270	Mr__Peter_Pett-2
+COREF	T271	Mr__Peter_Pett-2
+COREF	T58	Ogden-24
+COREF	T272	Mr__Peter_Pett-2
+COREF	T273	Ogden-24
+COREF	T274	Mr__Peter_Pett-2
+COREF	T275	Ogden-24
+COREF	T276	Mr__Peter_Pett-2
+COREF	T277	Mr__Peter_Pett-2
+COREF	T278	Mr__Peter_Pett-2
+COREF	T59	Mr__Peter_Pett-2
+COREF	T60	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T279	you-100004
+COREF	T280	Mr__Peter_Pett-2
+COREF	T281	Ogden-24
+COREF	T282	Mr__Peter_Pett-2
+COREF	T283	Mr__Peter_Pett-2
+COREF	T284	Mr__Peter_Pett-2
+COREF	T285	Ogden-24
+COREF	T286	Mr__Peter_Pett-2
+COREF	T62	Mr__Peter_Pett-2
+COREF	T287	Mr__Peter_Pett-2
+COREF	T288	Ogden-24
+COREF	T289	Ogden-24
+COREF	T64	Mrs__Pett-15
+COREF	T61	Ogden-24
+COREF	T63	Mr__Peter_Pett-2
+COREF	T290	Mr__Peter_Pett-2
+COREF	T291	Ogden-24
+COREF	T292	Mr__Peter_Pett-2
+COREF	T293	Mr__Peter_Pett-2
+COREF	T125	Mr__Peter_Pett-2
+COREF	T294	Mr__Peter_Pett-2
+COREF	T65	Mr__Peter_Pett-2
+COREF	T295	Mr__Peter_Pett-2
+COREF	T66	another_man-35
+COREF	T296	Mr__Peter_Pett-2
+COREF	T297	Mr__Peter_Pett-2
+COREF	T67	Mr__Peter_Pett-2
+COREF	T68	Riverside_Drive-3
+COREF	T69	Mr__Peter_Pett-2
+COREF	T298	Mr__Peter_Pett-2
+COREF	T70	Pine_Street-36
+COREF	T299	Mr__Peter_Pett-2
+COREF	T300	Mr__Peter_Pett-2
+COREF	T72	Pine_Street-36
+COREF	T73	grown_men-37
+COREF	T75	Riverside_Drive-3
+COREF	T74	Ogden-24
+COREF	T301	Mr__Peter_Pett-2
+COREF	T302	Mr__Peter_Pett-2
+COREF	T303	Mr__Peter_Pett-2
+COREF	T304	Mr__Peter_Pett-2
+COREF	T305	Mr__Peter_Pett-2
+COREF	T306	Mr__Peter_Pett-2
+COREF	T307	Mr__Peter_Pett-2
+COREF	T308	Mr__Peter_Pett-2
+COREF	T76	the_stairs-38
+COREF	T126	the_top_floor-39
+COREF	T309	Mr__Peter_Pett-2
+COREF	T127	the_passage-40
+COREF	T77	Mr__Peter_Pett-2
+COREF	T311	Mr__Peter_Pett-2
+COREF	T312	Mr__Peter_Pett-2
+COREF	T313	Mr__Peter_Pett-2
+COREF	T79	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+COREF	T78	the_office-41
+COREF	T128	a_girl-42
+COREF	T157	The_room_in_which_Mr__Pett_found_himself-43
+COREF	T81	Mr__Peter_Pett-2
+COREF	T314	Mr__Peter_Pett-2
+COREF	T129	the_dens_of_men-44
+COREF	T80	men-45
+COREF	T130	automobiles-46
+COREF	T131	Riverside_Drive-3
+COREF	T315	a_girl-42
+COREF	T82	the_river-47
+COREF	T83	a_girl-42
+COREF	T316	a_girl-42
+COREF	T84	Mr__Peter_Pett-2
+COREF	T317	a_girl-42
+APPOS	T3	T85
+COP	T10	T167
+APPOS	T14	T15
+APPOS	T103	T102
+APPOS	T110	T109
+APPOS	T38	T114
+APPOS	T71	T73
+MENTION	T318	30	30	30	32	the poet Shelley	PER	PROP
+COREF	T318	Shelley-28
+MENTION	T636	1	24	1	24	it	FAC	PRON
+COREF	T636	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+MENTION	T638	2	4	2	4	it	FAC	PRON
+COREF	T638	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+MENTION	T640	4	2	4	2	its	FAC	PRON
+COREF	T640	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+MENTION	T642	5	0	5	0	It	FAC	PRON
+COREF	T642	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+MENTION	T646	5	25	5	25	it	FAC	PRON
+COREF	T646	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+MENTION	T648	6	10	6	10	its	FAC	PRON
+COREF	T648	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+MENTION	T680	86	14	86	14	it	FAC	PRON
+COREF	T680	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1
+MENTION	T686	114	19	114	19	it	FAC	PRON
+COREF	T686	the_passage-40
+MENTION	T694	119	14	119	14	its	FAC	PRON
+COREF	T694	The_room_in_which_Mr__Pett_found_himself-43
+MENTION	T696	119	23	119	23	its	FAC	PRON
+COREF	T696	The_room_in_which_Mr__Pett_found_himself-43
+MENTION	T698	120	8	120	8	it	FAC	PRON
+COREF	T698	The_room_in_which_Mr__Pett_found_himself-43
+COP	T12	T642
+MENTION	T36	19	51	19	58	no fewer than six young and unrecognised geniuses	PER	NOM
+COREF	T36	six_young_and_unrecognised_geniuses-21

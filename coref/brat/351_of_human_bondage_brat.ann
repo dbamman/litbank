@@ -1,0 +1,786 @@
+T0	NOM_PER 157 164	a child
+T3	NOM_PER 115 130	A woman servant
+T4	NOM_PER 295 304	the child
+T6	NOM_PER 461 472	Your mother
+T8	NOM_PER 589 596	a woman
+T9	NOM_PER 556 565	the child
+T13	NOM_PER 736 745	The woman
+T14	NOM_PER 1004 1013	The child
+T15	NOM_PER 1197 1207	his mother
+T16	NOM_PER 1292 1302	The doctor
+T17	NOM_PER 1394 1404	The doctor
+T18	NOM_PER 1492 1501	the child
+T19	NOM_PER 1516 1525	the woman
+T20	NOM_PER 1777 1787	the doctor
+T21	NOM_PER 1888 1898	The doctor
+T22	NOM_PER 1984 1993	the child
+T23	NOM_PER 1999 2009	The doctor
+T24	NOM_PER 2029 2038	his nurse
+T26	NOM_PER 2162 2172	His mother
+T28	NOM_PER 2246 2263	The monthly nurse
+T29	NOM_PER 2339 2349	The doctor
+T31	NOM_PER 2445 2463	a still-born child
+T34	NOM_PER 2544 2553	the woman
+T36	NOM_PER 2601 2606	a boy
+T37	NOM_PER 2628 2637	the nurse
+T39	NOM_PER 2658 2667	The woman
+T40	NOM_PER 2697 2706	the child
+T41	NOM_PER 2697 2715	the child 's nurse
+T42	PROP_PER 2755 2768	Master Philip
+T44	NOM_PER 2823 2833	the doctor
+T45	NOM_PER 2839 2850	his patient
+T47	NOM_PER 3014 3023	the child
+T48	NOM_PER 3014 3032	the child 's nurse
+T49	NOM_FAC 3047 3057	downstairs
+T50	NOM_PER 3083 3093	the doctor
+T51	PROP_PER 3123 3133	Mrs. Carey
+T53	NOM_PER 3123 3151	Mrs. Carey 's brother-in-law
+T54	NOM_PER 3288 3302	the little boy
+T55	PROP_PER 3357 3368	Miss Watkin
+T58	PROP_PER 3460 3470	Mrs. Carey
+T60	NOM_PER 3498 3508	The doctor
+T61	PROP_PER 3551 3557	Philip
+T62	PROP_PER 3606 3617	Miss Watkin
+T64	NOM_FAC 3586 3644	the drawing-room at Miss Watkin 's house in Onslow gardens
+T68	NOM_PER 3995 4047	the Red Indians who were lurking behind the curtains
+T71	NOM_LOC 4134 4145	the prairie
+T73	PROP_PER 4328 4339	Miss Watkin
+T74	NOM_PER 4310 4325	You naughty boy
+T76	NOM_PER 4397 4406	The nurse
+T78	NOM_PER 4979 4989	your mamma
+T79	NOM_PER 5043 5048	mamma
+T80	NOM_PER 5075 5085	Your mamma
+T81	NOM_PER 5137 5147	Your mamma
+T82	PROP_PER 5200 5206	Philip
+T83	NOM_LOC 5270 5276	heaven
+T85	PROP_PER 5304 5310	Philip
+T87	PROP_PER 5362 5366	Emma
+T89	PROP_GPE 5510 5516	London
+T91	PROP_GPE 5448 5458	Devonshire
+T92	NOM_PER 5612 5626	the little boy
+T95	NOM_PER 5797 5806	strangers
+T99	PROP_PER 5947 5958	Miss Watkin
+T100	NOM_FAC 5975 5979	home
+T102	PROP_PER 6162 6166	Emma
+T104	NOM_PER 6309 6319	her sister
+T106	NOM_PER 6336 6343	friends
+T108	PROP_PER 6483 6494	Miss Watkin
+T110	PROP_PER 6532 6536	Emma
+T111	PROP_PER 6635 6639	Emma
+T112	PROP_PER 6699 6712	Master Philip
+T114	PROP_PER 6803 6809	Philip
+T115	PROP_PER 6822 6838	Henrietta Watkin
+T119	PROP_PER 6943 6949	Philip
+T120	NOM_PER 6985 6998	his godmother
+T121	NOM_FAC 6975 6979	home
+T122	NOM_PER 7034 7099	an elder sister , who had resigned herself contentedly to old age
+T123	NOM_PER 7102 7141	Two ladies , whom Philip did not know ,
+T124	PROP_PER 7120 7126	Philip
+T125	NOM_PER 7194 7207	My poor child
+T126	PROP_PER 7217 7228	Miss Watkin
+T128	PROP_PER 7269 7275	Philip
+T130	NOM_FAC 7400 7404	home
+T131	PROP_PER 7460 7471	Miss Watkin
+T134	NOM_PER 7525 7535	her sister
+T135	NOM_PER 7571 7589	the strange ladies
+T136	PROP_PER 7842 7846	Emma
+T137	NOM_PER 7934 7958	a friend in the basement
+T138	PROP_PER 7895 7899	Emma
+T140	PROP_PER 8009 8025	Henrietta Watkin
+T142	NOM_PER 8039 8049	His mother
+T144	NOM_PER 8184 8194	her sister
+T145	NOM_PER 8241 8254	the strangers
+T146	NOM_PER 8265 8280	Poor little boy
+T148	NOM_PER 8415 8425	his mother
+T149	PROP_PER 8435 8439	Emma
+T150	NOM_PER 8488 8498	the driver
+T151	NOM_FAC 8535 8567	the house Mrs. Carey had died in
+T152	PROP_PER 8545 8555	Mrs. Carey
+T158	PROP_PER 8678 8684	Philip
+T161	NOM_PER 8709 8718	His uncle
+T162	PROP_PER 8924 8928	Emma
+T1	PROP_PER 326 332	Philip
+T10	NOM_PER 616 626	his mother
+T167	NOM_FAC 271 280	a portico
+T168	NOM_FAC 421 431	downstairs
+T170	NOM_FAC 531 546	the floor below
+T169	NOM_FAC 521 546	a room on the floor below
+T11	NOM_PER 662 671	the child
+T171	NOM_PER 797 810	the warm body
+T172	NOM_PER 904 911	darling
+T176	NOM_PER 1574 1582	his body
+T178	NOM_PER 2103 2106	sir
+T25	NOM_PER 2111 2125	The little boy
+T27	NOM_PER 2231 2241	poor child
+T35	NOM_PER 2591 2597	a girl
+T38	NOM_PER 2642 2653	Another boy
+T43	NOM_PER 3001 3004	sir
+T46	NOM_FAC 3074 3082	the hall
+T52	NOM_PER 3179 3182	sir
+T56	NOM_PER 3392 3395	sir
+T57	NOM_PER 3426 3439	his godmother
+T180	NOM_PER 3442 3445	sir
+T59	NOM_PER 3490 3493	sir
+T63	NOM_FAC 3630 3644	Onslow gardens
+T181	NOM_FAC 3606 3644	Miss Watkin 's house in Onslow gardens
+T65	NOM_PER 3654 3667	an only child
+T66	NOM_FAC 3698 3706	The room
+T70	PROP_PER 4378 4382	Emma
+T72	NOM_FAC 4524 4528	home
+T75	NOM_PER 5253 5263	Your mamma
+T84	NOM_PER 5371 5395	a tall , big-boned woman
+T86	NOM_PER 5671 5681	that child
+T88	NOM_FAC 6094 6102	upstairs
+T90	NOM_LOC 6157 6161	down
+T93	NOM_FAC 6190 6198	the hall
+T94	NOM_FAC 6233 6242	the study
+T97	NOM_FAC 6250 6265	the dining-room
+T98	PROP_PER 6293 6304	Miss Watkin
+T101	NOM_PER 6744 6748	miss
+T103	NOM_PER 6843 6856	a stout woman
+T105	PROP_PER 7414 7420	Philip
+T107	NOM_FAC 7986 7997	the landing
+T109	NOM_PER 8054 8072	my greatest friend
+T113	NOM_LOC 8329 8338	the world
+T116	PROP_GPE 8641 8652	High Street
+T117	PROP_GPE 8655 8665	Kensington
+T118	PROP_GPE 8619 8636	Notting Hill Gate
+T127	NOM_FAC 8581 8665	a dreary , respectable street between Notting Hill Gate and High Street , Kensington
+T129	PROP_PER 8669 8673	Emma
+T132	NOM_FAC 8690 8706	the drawing-room
+T141	PROP_PER 8901 8914	Master Philip
+T143	NOM_FAC 3223 3227	here
+T147	NOM_LOC 5711 5720	the world
+T153	NOM_FAC 7884 7892	the room
+T154	NOM_FAC 7909 7919	downstairs
+T155	NOM_FAC 7946 7958	the basement
+T156	NOM_LOC 8499 8510	where to go
+T2	NOM_FAC 230 248	the house opposite
+T157	NOM_FAC 251 280	a stucco house with a portico
+T12	NOM_LOC 3941 4047	an elaborate cave in which he could hide himself from the Red Indians who were lurking behind the curtains
+T67	PROP_PER 5874 5881	William
+T69	NOM_PER 5863 5873	Your Uncle
+T5	NOM_PER 3239 3242	sir
+T7	NOM_FAC 141 177	a room in which a child was sleeping
+T30	NOM_FAC 2389 2397	the room
+T197	PRON_PER 202 205	She
+T198	PRON_PER 337 340	she
+T199	PRON_PER 348 351	She
+T200	PRON_PER 387 390	him
+T201	PRON_PER 394 397	her
+T202	PRON_PER 417 420	him
+T203	PRON_PER 434 436	He
+T204	PRON_PER 461 465	Your
+T205	PRON_PER 479 482	you
+T206	PRON_PER 487 490	she
+T207	PRON_PER 498 501	She
+T208	PRON_PER 616 619	his
+T209	PRON_PER 629 632	She
+T210	PRON_PER 647 650	her
+T211	PRON_PER 683 686	her
+T212	PRON_PER 694 696	He
+T213	PRON_PER 713 715	he
+T214	PRON_PER 753 756	his
+T215	PRON_PER 819 822	his
+T216	PRON_PER 849 852	She
+T217	PRON_PER 861 864	him
+T218	PRON_PER 875 882	herself
+T219	PRON_PER 891 894	you
+T220	PRON_PER 916 919	she
+T221	PRON_PER 927 930	Her
+T222	PRON_PER 1056 1058	He
+T223	PRON_PER 1127 1130	him
+T224	PRON_PER 1133 1135	He
+T225	PRON_PER 1150 1157	himself
+T226	PRON_PER 1175 1177	he
+T227	PRON_PER 1197 1200	his
+T228	PRON_PER 1214 1216	he
+T229	PRON_PER 1224 1227	her
+T230	PRON_PER 1251 1253	he
+T231	PRON_PER 1261 1264	his
+T232	PRON_PER 1364 1367	him
+T233	PRON_PER 1381 1384	she
+T234	PRON_PER 1437 1440	her
+T235	PRON_PER 1459 1462	she
+T236	PRON_PER 1533 1536	him
+T237	PRON_PER 1549 1552	she
+T238	PRON_PER 1560 1563	her
+T239	PRON_PER 1574 1577	his
+T240	PRON_PER 1588 1591	she
+T241	PRON_PER 1600 1603	his
+T242	PRON_PER 1611 1614	she
+T243	PRON_PER 1638 1641	her
+T244	PRON_PER 1701 1704	her
+T245	PRON_PER 1730 1733	She
+T246	PRON_PER 1792 1795	You
+T247	PRON_PER 1810 1813	She
+T248	PRON_PER 1820 1823	her
+T249	PRON_PER 1875 1878	her
+T250	PRON_PER 1917 1919	me
+T251	PRON_PER 1925 1928	him
+T252	PRON_PER 1933 1936	She
+T253	PRON_PER 1960 1963	his
+T254	PRON_PER 1975 1978	she
+T255	PRON_PER 2017 2020	him
+T256	PRON_PER 2029 2032	his
+T257	PRON_PER 2043 2046	You
+T258	PRON_PER 2061 2064	him
+T259	PRON_PER 2073 2076	his
+T260	PRON_PER 2162 2165	His
+T261	PRON_PER 2225 2228	him
+T262	PRON_PER 2279 2282	her
+T263	PRON_PER 2466 2468	He
+T264	PRON_PER 2499 2501	He
+T265	PRON_PER 2567 2569	he
+T266	PRON_PER 2611 2614	she
+T267	PRON_PER 2728 2731	She
+T268	PRON_PER 2787 2790	she
+T269	PRON_PER 2839 2842	his
+T270	PRON_PER 2874 2875	I
+T271	PRON_PER 2907 2908	I
+T272	PRON_PER 2929 2931	he
+T273	PRON_PER 2941 2942	I
+T274	PRON_PER 2980 2981	I
+T275	PRON_PER 2991 2994	you
+T276	PRON_PER 3035 3039	They
+T277	PRON_PER 3106 3109	You
+T278	PRON_PER 3163 3166	you
+T279	PRON_PER 3213 3215	he
+T280	PRON_PER 3245 3246	I
+T281	PRON_PER 3305 3306	I
+T282	PRON_PER 3320 3322	he
+T283	PRON_PER 3374 3377	she
+T284	PRON_PER 3386 3389	him
+T285	PRON_PER 3409 3412	she
+T286	PRON_PER 3419 3422	She
+T287	PRON_PER 3426 3429	his
+T288	PRON_PER 3515 3518	his
+T289	PRON_PER 3647 3649	He
+T290	PRON_PER 3688 3695	himself
+T291	PRON_PER 3848 3850	he
+T292	PRON_PER 3968 3970	he
+T293	PRON_PER 3982 3989	himself
+T294	PRON_PER 4050 4052	He
+T295	PRON_PER 4057 4060	his
+T296	PRON_PER 4184 4186	he
+T297	PRON_PER 4192 4195	his
+T298	PRON_PER 4211 4213	he
+T299	PRON_PER 4310 4313	You
+T300	PRON_PER 4359 4362	you
+T301	PRON_PER 4387 4389	he
+T302	PRON_PER 4428 4431	him
+T305	PRON_PER 4514 4515	I
+T306	PRON_PER 4533 4535	he
+T307	PRON_PER 4552 4553	I
+T308	PRON_PER 4572 4575	you
+T309	PRON_PER 4582 4585	You
+T310	PRON_PER 4650 4653	she
+T311	PRON_PER 4670 4673	Her
+T312	PRON_PER 4785 4788	She
+T313	PRON_PER 4831 4834	She
+T314	PRON_PER 4860 4863	she
+T315	PRON_PER 4899 4902	she
+T316	PRON_PER 4929 4932	she
+T317	PRON_PER 4958 4961	you
+T318	PRON_PER 4979 4983	your
+T319	PRON_PER 4997 5000	she
+T320	PRON_PER 5025 5026	I
+T321	PRON_PER 5057 5060	she
+T322	PRON_PER 5075 5079	Your
+T323	PRON_PER 5121 5122	I
+T324	PRON_PER 5137 5141	Your
+T325	PRON_PER 5163 5166	You
+T326	PRON_PER 5183 5186	her
+T327	PRON_PER 5225 5228	she
+T328	PRON_PER 5253 5257	Your
+T329	PRON_PER 5281 5284	She
+T330	PRON_PER 5320 5322	he
+T331	PRON_PER 5434 5437	She
+T332	PRON_PER 5481 5484	her
+T333	PRON_PER 5549 5552	her
+T334	PRON_PER 5562 5565	Her
+T335	PRON_PER 5582 5585	her
+T336	PRON_PER 5600 5603	she
+T337	PRON_PER 5630 5633	her
+T338	PRON_PER 5642 5645	She
+T339	PRON_PER 5771 5773	he
+T340	PRON_PER 5831 5834	she
+T341	PRON_PER 5842 5849	herself
+T342	PRON_PER 5863 5867	Your
+T343	PRON_PER 5903 5906	you
+T344	PRON_PER 5911 5914	she
+T345	PRON_PER 5965 5967	we
+T346	PRON_PER 5986 5987	I
+T347	PRON_PER 6020 6022	he
+T348	PRON_PER 6064 6067	his
+T349	PRON_PER 6111 6115	your
+T350	PRON_PER 6124 6126	He
+T351	PRON_PER 6149 6151	he
+T352	PRON_PER 6183 6186	him
+T353	PRON_PER 6201 6203	He
+T354	PRON_PER 6268 6270	He
+T355	PRON_PER 6280 6282	He
+T356	PRON_PER 6309 6312	her
+T357	PRON_PER 6363 6366	him
+T358	PRON_PER 6370 6372	he
+T359	PRON_PER 6403 6405	he
+T360	PRON_PER 6414 6418	they
+T361	PRON_PER 6438 6441	him
+T362	PRON_PER 6446 6447	I
+T363	PRON_PER 6454 6455	I
+T364	PRON_PER 6501 6502	I
+T365	PRON_PER 6509 6512	you
+T366	PRON_PER 6556 6560	them
+T367	PRON_PER 6561 6562	I
+T368	PRON_PER 6577 6579	he
+T369	PRON_PER 6587 6589	He
+T370	PRON_PER 6617 6620	his
+T371	PRON_PER 6676 6678	He
+T372	PRON_PER 6685 6688	her
+T373	PRON_PER 6738 6741	you
+T374	PRON_PER 6985 6988	his
+T375	PRON_PER 7019 7022	She
+T376	PRON_PER 7069 7076	herself
+T377	PRON_PER 7161 7165	they
+T378	PRON_PER 7176 7179	him
+T379	PRON_PER 7194 7196	My
+T380	PRON_PER 7239 7242	her
+T381	PRON_PER 7250 7253	She
+T382	PRON_PER 7295 7298	she
+T383	PRON_PER 7335 7338	she
+T384	PRON_PER 7360 7363	She
+T385	PRON_PER 7384 7385	I
+T386	PRON_PER 7433 7435	He
+T387	PRON_PER 7447 7454	himself
+T388	PRON_PER 7486 7489	she
+T389	PRON_PER 7497 7500	him
+T390	PRON_PER 7514 7516	he
+T391	PRON_PER 7525 7528	her
+T392	PRON_PER 7545 7548	her
+T393	PRON_PER 7599 7602	she
+T394	PRON_PER 7614 7617	him
+T395	PRON_PER 7624 7626	he
+T396	PRON_PER 7640 7643	her
+T397	PRON_PER 7673 7675	he
+T398	PRON_PER 7705 7707	he
+T399	PRON_PER 7722 7724	he
+T400	PRON_PER 7800 7804	they
+T401	PRON_PER 7814 7817	him
+T402	PRON_PER 7829 7831	he
+T403	PRON_PER 7863 7866	him
+T404	PRON_PER 7869 7871	He
+T405	PRON_PER 7965 7967	he
+T406	PRON_PER 7979 7982	her
+T407	PRON_PER 8000 8002	He
+T408	PRON_PER 8039 8042	His
+T409	PRON_PER 8054 8056	my
+T410	PRON_PER 8075 8076	I
+T411	PRON_PER 8103 8106	she
+T412	PRON_PER 8121 8124	You
+T413	PRON_PER 8184 8187	her
+T414	PRON_PER 8199 8200	I
+T415	PRON_PER 8221 8224	you
+T416	PRON_PER 8310 8313	him
+T417	PRON_PER 8341 8342	I
+T418	PRON_PER 8347 8349	he
+T419	PRON_PER 8368 8370	he
+T420	PRON_PER 8415 8418	his
+T421	PRON_PER 8452 8456	They
+T422	PRON_PER 8479 8482	she
+T423	PRON_PER 8522 8526	they
+T424	PRON_PER 8709 8712	His
+T426	PROP_PER 8165 8174	Henrietta
+T430	Philip_s_nurse-0 115 130	A woman servant
+T434	a_room_in_which_a_child_was_sleeping-1 141 177	a room in which a child was sleeping
+T427	Philip-2 157 164	a child
+T624	Philip_s_nurse-0 202 205	She
+T429	the_house_opposite-3 230 248	the house opposite
+T594	a_portico-4 271 280	a portico
+T431	Philip-2 295 304	the child
+T428	Philip-2 326 332	Philip
+T625	Philip_s_nurse-0 337 340	she
+T626	Philip_s_nurse-0 348 351	She
+T627	Philip-2 387 390	him
+T628	Philip_s_nurse-0 394 397	her
+T629	Philip-2 417 420	him
+T595	downstairs-5 421 431	downstairs
+T630	Philip-2 434 436	He
+T433	Mrs__Carey-6 461 472	Your mother
+T631	Philip-2 461 465	Your
+T632	Philip-2 479 482	you
+T633	Philip_s_nurse-0 487 490	she
+T634	Philip_s_nurse-0 498 501	She
+T596	a_room_on_the_floor_below-7 521 546	a room on the floor below
+T597	the_floor_below-8 531 546	the floor below
+T436	Philip-2 556 565	the child
+T435	Mrs__Carey-6 589 596	a woman
+T437	Mrs__Carey-6 616 626	his mother
+T635	Philip-2 616 619	his
+T636	Mrs__Carey-6 629 632	She
+T637	Mrs__Carey-6 647 650	her
+T438	Philip-2 662 671	the child
+T638	Mrs__Carey-6 683 686	her
+T639	Philip-2 694 696	He
+T640	Philip-2 713 715	he
+T440	Mrs__Carey-6 736 745	The woman
+T641	Philip-2 753 756	his
+T642	Philip-2 819 822	his
+T643	Mrs__Carey-6 849 852	She
+T644	Philip-2 861 864	him
+T645	Mrs__Carey-6 875 882	herself
+T646	Philip-2 891 894	you
+T599	Philip-2 904 911	darling
+T647	Mrs__Carey-6 916 919	she
+T648	Mrs__Carey-6 927 930	Her
+T441	Philip-2 1004 1013	The child
+T649	Philip-2 1056 1058	He
+T650	Philip-2 1127 1130	him
+T651	Philip-2 1133 1135	He
+T652	Philip-2 1150 1157	himself
+T653	Philip-2 1175 1177	he
+T442	Mrs__Carey-6 1197 1207	his mother
+T654	Philip-2 1197 1200	his
+T655	Philip-2 1214 1216	he
+T656	Mrs__Carey-6 1224 1227	her
+T657	Philip-2 1251 1253	he
+T658	Philip-2 1261 1264	his
+T443	The_doctor-9 1292 1302	The doctor
+T659	Philip-2 1364 1367	him
+T660	Mrs__Carey-6 1381 1384	she
+T444	The_doctor-9 1394 1404	The doctor
+T661	Mrs__Carey-6 1437 1440	her
+T662	Mrs__Carey-6 1459 1462	she
+T445	Philip-2 1492 1501	the child
+T446	Mrs__Carey-6 1516 1525	the woman
+T663	Philip-2 1533 1536	him
+T664	Mrs__Carey-6 1549 1552	she
+T665	Mrs__Carey-6 1560 1563	her
+T666	Philip-2 1574 1577	his
+T603	Philip-2 1574 1582	his body
+T598	Philip-2 797 810	the warm body
+T667	Mrs__Carey-6 1588 1591	she
+T668	Philip-2 1600 1603	his
+T669	Mrs__Carey-6 1611 1614	she
+T670	Mrs__Carey-6 1638 1641	her
+T671	Mrs__Carey-6 1701 1704	her
+T672	Mrs__Carey-6 1730 1733	She
+T447	The_doctor-9 1777 1787	the doctor
+T673	Mrs__Carey-6 1792 1795	You
+T674	Mrs__Carey-6 1810 1813	She
+T675	Mrs__Carey-6 1820 1823	her
+T676	Mrs__Carey-6 1875 1878	her
+T448	The_doctor-9 1888 1898	The doctor
+T677	The_doctor-9 1917 1919	me
+T678	Philip-2 1925 1928	him
+T679	Mrs__Carey-6 1933 1936	She
+T680	The_doctor-9 1960 1963	his
+T681	Mrs__Carey-6 1975 1978	she
+T449	Philip-2 1984 1993	the child
+T450	The_doctor-9 1999 2009	The doctor
+T682	Philip-2 2017 2020	him
+T683	Philip-2 2029 2032	his
+T451	Philip_s_nurse-0 2029 2038	his nurse
+T684	Philip_s_nurse-0 2043 2046	You
+T685	Philip-2 2061 2064	him
+T686	Philip-2 2073 2076	his
+T605	The_doctor-9 2103 2106	sir
+T452	Philip-2 2111 2125	The little boy
+T453	Mrs__Carey-6 2162 2172	His mother
+T687	Philip-2 2162 2165	His
+T688	Philip-2 2225 2228	him
+T454	Philip-2 2231 2241	poor child
+T455	Philip_s_nurse-0 2246 2263	The monthly nurse
+T689	Mrs__Carey-6 2279 2282	her
+T456	The_doctor-9 2339 2349	The doctor
+T457	a_room_on_the_floor_below-7 2389 2397	the room
+T458	a_still-born_child-12 2445 2463	a still-born child
+T690	The_doctor-9 2466 2468	He
+T691	The_doctor-9 2499 2501	He
+T461	Mrs__Carey-6 2544 2553	the woman
+T692	The_doctor-9 2567 2569	he
+T462	a_girl-13 2591 2597	a girl
+T463	a_boy-14 2601 2606	a boy
+T693	Mrs__Carey-6 2611 2614	she
+T464	the_nurse-15 2628 2637	the nurse
+T465	Another_boy-16 2642 2653	Another boy
+T466	Mrs__Carey-6 2658 2667	The woman
+T467	Philip-2 2697 2706	the child
+T468	Philip_s_nurse-0 2697 2715	the child 's nurse
+T694	Philip_s_nurse-0 2728 2731	She
+T469	Philip-2 2755 2768	Master Philip
+T695	Philip_s_nurse-0 2787 2790	she
+T471	The_doctor-9 2823 2833	the doctor
+T472	Mrs__Carey-6 2839 2850	his patient
+T696	The_doctor-9 2839 2842	his
+T697	The_doctor-9 2874 2875	I
+T698	The_doctor-9 2907 2908	I
+T699	The_doctor-9 2929 2931	he
+T700	The_doctor-9 2941 2942	I
+T701	Philip_s_nurse-0 2980 2981	I
+T702	The_doctor-9 2991 2994	you
+T470	The_doctor-9 3001 3004	sir
+T474	Philip-2 3014 3023	the child
+T475	Philip_s_nurse-0 3014 3032	the child 's nurse
+T703	They-17 3035 3039	They
+T476	downstairs-5 3047 3057	downstairs
+T473	the_hall-18 3074 3082	the hall
+T477	The_doctor-9 3083 3093	the doctor
+T704	Philip_s_nurse-0 3106 3109	You
+T478	Mrs__Carey-6 3123 3133	Mrs. Carey
+T480	Uncle_William-19 3123 3151	Mrs. Carey 's brother-in-law
+T705	Philip_s_nurse-0 3163 3166	you
+T479	The_doctor-9 3179 3182	sir
+T706	Uncle_William-19 3213 3215	he
+T570	here-20 3223 3227	here
+T432	The_doctor-9 3239 3242	sir
+T707	Philip_s_nurse-0 3245 3246	I
+T481	Philip-2 3288 3302	the little boy
+T708	The_doctor-9 3305 3306	I
+T709	Philip-2 3320 3322	he
+T482	Henrietta_Watkin-21 3357 3368	Miss Watkin
+T710	Henrietta_Watkin-21 3374 3377	she
+T711	Philip-2 3386 3389	him
+T483	The_doctor-9 3392 3395	sir
+T712	Henrietta_Watkin-21 3409 3412	she
+T713	Henrietta_Watkin-21 3419 3422	She
+T714	Philip-2 3426 3429	his
+T607	The_doctor-9 3442 3445	sir
+T485	Mrs__Carey-6 3460 3470	Mrs. Carey
+T486	The_doctor-9 3490 3493	sir
+T487	The_doctor-9 3498 3508	The doctor
+T715	The_doctor-9 3515 3518	his
+T488	Philip-2 3551 3557	Philip
+T491	the_drawing-room_at_Miss_Watkin__s_house_in_Onslow_gardens-22 3586 3644	the drawing-room at Miss Watkin 's house in Onslow gardens
+T489	Henrietta_Watkin-21 3606 3617	Miss Watkin
+T608	Miss_Watkin__s_house_in_Onslow_gardens-23 3606 3644	Miss Watkin 's house in Onslow gardens
+T490	Onslow_gardens-24 3630 3644	Onslow gardens
+T716	Philip-2 3647 3649	He
+T717	Philip-2 3688 3695	himself
+T493	the_drawing-room_at_Miss_Watkin__s_house_in_Onslow_gardens-22 3698 3706	The room
+T718	Philip-2 3848 3850	he
+T439	an_elaborate_cave_in_which_he_could_hide_himself_from_the_Red_Indians_who_were_lurking_behind_the_curtains-25 3941 4047	an elaborate cave in which he could hide himself from the Red Indians who were lurking behind the curtains
+T719	Philip-2 3968 3970	he
+T720	Philip-2 3982 3989	himself
+T495	the_Red_Indians_who_were_lurking_behind_the_curtains-26 3995 4047	the Red Indians who were lurking behind the curtains
+T721	Philip-2 4050 4052	He
+T722	Philip-2 4057 4060	his
+T498	the_prairie-27 4134 4145	the prairie
+T723	Philip-2 4184 4186	he
+T724	Philip-2 4192 4195	his
+T725	Philip-2 4211 4213	he
+T501	Philip-2 4310 4325	You naughty boy
+T726	Philip-2 4310 4313	You
+T500	Henrietta_Watkin-21 4328 4339	Miss Watkin
+T727	Philip-2 4359 4362	you
+T497	Emma-28 4378 4382	Emma
+T728	Philip-2 4387 4389	he
+T503	Emma-28 4397 4406	The nurse
+T729	Philip-2 4428 4431	him
+T732	Philip-2 4514 4515	I
+T499	home-29 4524 4528	home
+T733	Philip-2 4533 4535	he
+T734	Emma-28 4552 4553	I
+T735	Philip-2 4572 4575	you
+T736	Emma-28 4582 4585	You
+T737	Emma-28 4650 4653	she
+T738	Emma-28 4670 4673	Her
+T739	Emma-28 4785 4788	She
+T740	Emma-28 4831 4834	She
+T741	Emma-28 4860 4863	she
+T742	Emma-28 4899 4902	she
+T743	Emma-28 4929 4932	she
+T744	Philip-2 4958 4961	you
+T505	Mrs__Carey-6 4979 4989	your mamma
+T745	Philip-2 4979 4983	your
+T746	Emma-28 4997 5000	she
+T747	Philip-2 5025 5026	I
+T506	Mrs__Carey-6 5043 5048	mamma
+T748	Emma-28 5057 5060	she
+T507	Mrs__Carey-6 5075 5085	Your mamma
+T749	Philip-2 5075 5079	Your
+T750	Philip-2 5121 5122	I
+T508	Mrs__Carey-6 5137 5147	Your mamma
+T751	Philip-2 5137 5141	Your
+T752	Philip-2 5163 5166	You
+T753	Mrs__Carey-6 5183 5186	her
+T509	Philip-2 5200 5206	Philip
+T754	Emma-28 5225 5228	she
+T502	Mrs__Carey-6 5253 5263	Your mamma
+T755	Philip-2 5253 5257	Your
+T510	heaven-30 5270 5276	heaven
+T756	Emma-28 5281 5284	She
+T512	Philip-2 5304 5310	Philip
+T757	Philip-2 5320 5322	he
+T514	Emma-28 5362 5366	Emma
+T758	Emma-28 5434 5437	She
+T518	Devonshire-31 5448 5458	Devonshire
+T759	Emma-28 5481 5484	her
+T516	London-32 5510 5516	London
+T760	Emma-28 5549 5552	her
+T761	Emma-28 5562 5565	Her
+T762	Emma-28 5582 5585	her
+T763	Emma-28 5600 5603	she
+T519	Philip-2 5612 5626	the little boy
+T764	Emma-28 5630 5633	her
+T765	Emma-28 5642 5645	She
+T513	Philip-2 5671 5681	that child
+T574	the_world-33 5711 5720	the world
+T766	Philip-2 5771 5773	he
+T522	strangers-34 5797 5806	strangers
+T767	Emma-28 5831 5834	she
+T768	Emma-28 5842 5849	herself
+T769	Philip-2 5863 5867	Your
+T770	Philip-2 5903 5906	you
+T771	Emma-28 5911 5914	she
+T526	Henrietta_Watkin-21 5947 5958	Miss Watkin
+T772	we-36 5965 5967	we
+T527	home-29 5975 5979	home
+T773	Philip-2 5986 5987	I
+T774	Philip-2 6020 6022	he
+T775	Philip-2 6064 6067	his
+T515	upstairs-37 6094 6102	upstairs
+T776	Philip-2 6111 6115	your
+T777	Philip-2 6124 6126	He
+T778	Philip-2 6149 6151	he
+T517	down-38 6157 6161	down
+T529	Emma-28 6162 6166	Emma
+T779	Philip-2 6183 6186	him
+T520	the_hall-39 6190 6198	the hall
+T780	Philip-2 6201 6203	He
+T521	the_study-40 6233 6242	the study
+T524	the_dining-room-41 6250 6265	the dining-room
+T781	Philip-2 6268 6270	He
+T782	Philip-2 6280 6282	He
+T525	Henrietta_Watkin-21 6293 6304	Miss Watkin
+T531	her_sister-42 6309 6319	her sister
+T783	Henrietta_Watkin-21 6309 6312	her
+T533	friends-43 6336 6343	friends
+T784	Philip-2 6363 6366	him
+T785	Philip-2 6370 6372	he
+T786	Philip-2 6403 6405	he
+T787	they-44 6414 6418	they
+T788	Philip-2 6438 6441	him
+T789	Philip-2 6446 6447	I
+T790	Philip-2 6454 6455	I
+T535	Henrietta_Watkin-21 6483 6494	Miss Watkin
+T791	Emma-28 6501 6502	I
+T792	Philip-2 6509 6512	you
+T537	Emma-28 6532 6536	Emma
+T793	they-44 6556 6560	them
+T794	Philip-2 6561 6562	I
+T795	Philip-2 6577 6579	he
+T796	Philip-2 6587 6589	He
+T797	Philip-2 6617 6620	his
+T538	Emma-28 6635 6639	Emma
+T798	Philip-2 6676 6678	He
+T799	Emma-28 6685 6688	her
+T539	Philip-2 6699 6712	Master Philip
+T800	Henrietta_Watkin-21 6738 6741	you
+T528	Henrietta_Watkin-21 6744 6748	miss
+T541	Philip-2 6803 6809	Philip
+T542	Henrietta_Watkin-21 6822 6838	Henrietta Watkin
+T546	Philip-2 6943 6949	Philip
+T548	home-29 6975 6979	home
+T547	Henrietta_Watkin-21 6985 6998	his godmother
+T801	Philip-2 6985 6988	his
+T802	Philip-2 7019 7022	She
+T549	her_sister-42 7034 7099	an elder sister , who had resigned herself contentedly to old age
+T803	her_sister-42 7069 7076	herself
+T550	friends-43 7102 7141	Two ladies , whom Philip did not know ,
+T551	Philip-2 7120 7126	Philip
+T804	friends-43 7161 7165	they
+T805	Philip-2 7176 7179	him
+T552	Philip-2 7194 7207	My poor child
+T806	Henrietta_Watkin-21 7194 7196	My
+T553	Henrietta_Watkin-21 7217 7228	Miss Watkin
+T807	Henrietta_Watkin-21 7239 7242	her
+T808	Henrietta_Watkin-21 7250 7253	She
+T555	Philip-2 7269 7275	Philip
+T809	Henrietta_Watkin-21 7295 7298	she
+T810	Henrietta_Watkin-21 7335 7338	she
+T811	Henrietta_Watkin-21 7360 7363	She
+T812	Philip-2 7384 7385	I
+T557	home-29 7400 7404	home
+T532	Philip-2 7414 7420	Philip
+T813	Philip-2 7433 7435	He
+T814	Philip-2 7447 7454	himself
+T558	Henrietta_Watkin-21 7460 7471	Miss Watkin
+T815	Henrietta_Watkin-21 7486 7489	she
+T816	Philip-2 7497 7500	him
+T817	Philip-2 7514 7516	he
+T561	her_sister-42 7525 7535	her sister
+T818	Henrietta_Watkin-21 7525 7528	her
+T819	her_sister-42 7545 7548	her
+T562	friends-43 7571 7589	the strange ladies
+T820	she-46 7599 7602	she
+T821	Philip-2 7614 7617	him
+T822	Philip-2 7624 7626	he
+T823	she-46 7640 7643	her
+T824	Philip-2 7673 7675	he
+T825	Philip-2 7705 7707	he
+T826	Philip-2 7722 7724	he
+T827	they-44 7800 7804	they
+T828	Philip-2 7814 7817	him
+T829	Philip-2 7829 7831	he
+T563	Emma-28 7842 7846	Emma
+T830	Philip-2 7863 7866	him
+T831	Philip-2 7869 7871	He
+T580	the_study-40 7884 7892	the room
+T565	Emma-28 7895 7899	Emma
+T581	basement-47 7909 7919	downstairs
+T564	a_friend_in_the_basement-48 7934 7958	a friend in the basement
+T582	basement-47 7946 7958	the basement
+T832	Philip-2 7965 7967	he
+T833	Emma-28 7979 7982	her
+T534	the_landing-49 7986 7997	the landing
+T834	Philip-2 8000 8002	He
+T567	Henrietta_Watkin-21 8009 8025	Henrietta Watkin
+T569	Mrs__Carey-6 8039 8049	His mother
+T835	Philip-2 8039 8042	His
+T838	Mrs__Carey-6 8103 8106	she
+T836	Henrietta_Watkin-21 8054 8056	my
+T837	Henrietta_Watkin-21 8075 8076	I
+T839	Henrietta_Watkin-21 8121 8124	You
+T853	Henrietta_Watkin-21 8165 8174	Henrietta
+T571	her_sister-42 8184 8194	her sister
+T840	Henrietta_Watkin-21 8184 8187	her
+T841	her_sister-42 8199 8200	I
+T842	Henrietta_Watkin-21 8221 8224	you
+T572	friends-43 8241 8254	the strangers
+T573	Philip-2 8265 8280	Poor little boy
+T843	Philip-2 8310 8313	him
+T540	the_world-50 8329 8338	the world
+T844	I-51 8341 8342	I
+T845	Philip-2 8347 8349	he
+T846	Philip-2 8368 8370	he
+T575	Mrs__Carey-6 8415 8425	his mother
+T847	Philip-2 8415 8418	his
+T576	Emma-28 8435 8439	Emma
+T848	They-52 8452 8456	They
+T849	Emma-28 8479 8482	she
+T577	the_driver-53 8488 8498	the driver
+T583	where_to_go-54 8499 8510	where to go
+T850	They-52 8522 8526	they
+T578	home-29 8535 8567	the house Mrs. Carey had died in
+T579	Mrs__Carey-6 8545 8555	Mrs. Carey
+T554	a_dreary___respectable_street_between_Notting_Hill_Gate_and_High_Street___Kensington-55 8581 8665	a dreary , respectable street between Notting Hill Gate and High Street , Kensington
+T545	Notting_Hill_Gate-56 8619 8636	Notting Hill Gate
+T543	High_Street-57 8641 8652	High Street
+T544	Kensington-58 8655 8665	Kensington
+T556	Emma-28 8669 8673	Emma
+T585	Philip-2 8678 8684	Philip
+T559	the_drawing-room_at_Miss_Watkin__s_house_in_Onslow_gardens-22 8690 8706	the drawing-room
+T496	Uncle_William-19 5863 5873	Your Uncle
+T494	Uncle_William-19 5874 5881	William
+T588	Uncle_William-19 8709 8718	His uncle
+T851	Philip-2 8709 8712	His
+T568	Philip-2 8901 8914	Master Philip
+T589	Emma-28 8924 8928	Emma
+R1	appos Arg1:T157 Arg2:T2
+R2	cop Arg1:T57 Arg2:T286
+R3	cop Arg1:T65 Arg2:T289
+R4	cop Arg1:T84 Arg2:T87
+R5	cop Arg1:T103 Arg2:T115
+R6	cop Arg1:T109 Arg2:T142
+T878	PRON_FAC 8571 8573	it
+T879	home-29 8571 8573	it

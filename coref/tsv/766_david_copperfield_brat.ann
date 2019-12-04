@@ -1,0 +1,570 @@
+MENTION	T1	1	10	1	15	the hero of my own life	PER	NOM
+MENTION	T3	4	15	4	16	the nurse	PER	NOM
+MENTION	T4	4	20	4	45	some sage women in the neighbourhood who had taken a lively interest in me several months before there was any possibility of our becoming personally acquainted	PER	NOM
+MENTION	T5	4	24	4	25	the neighbourhood	FAC	NOM
+MENTION	T6	4	83	4	98	all unlucky infants of either gender , born towards the small hours on a Friday night	PER	NOM
+MENTION	T7	6	27	6	28	a baby	PER	NOM
+MENTION	T2	9	1	9	2	sea-going people	PER	NOM
+MENTION	T8	9	43	9	49	an attorney connected with the bill-broking business	PER	NOM
+MENTION	T9	10	15	10	18	my poor dear mother	PER	NOM
+MENTION	T10	10	43	10	47	our part of the country	LOC	NOM
+MENTION	T11	10	46	10	47	the country	GPE	NOM
+MENTION	T12	10	57	10	58	the winner	PER	NOM
+MENTION	T13	12	9	12	14	an old lady with a hand-basket	PER	NOM
+MENTION	T14	14	21	14	22	the water	LOC	NOM
+MENTION	T15	14	29	14	30	a bridge	FAC	NOM
+MENTION	T16	14	58	14	58	mariners	PER	NOM
+MENTION	T17	14	60	14	73	others , who had the presumption to go ‘ meandering ’ about the world	PER	NOM
+MENTION	T18	18	4	18	4	Blunderstone	GPE	PROP
+MENTION	T19	18	7	18	7	Suffolk	GPE	PROP
+MENTION	T20	18	19	18	19	Scotland	GPE	PROP
+MENTION	T21	19	2	19	4	a posthumous child	PER	NOM
+MENTION	T22	20	0	20	1	My father	PER	NOM
+MENTION	T23	21	40	21	41	the churchyard	FAC	NOM
+MENTION	T24	21	64	21	66	our little parlour	FAC	NOM
+MENTION	T25	21	80	21	81	our house	FAC	NOM
+MENTION	T26	22	0	22	5	An aunt of my father ’s	PER	NOM
+MENTION	T27	22	3	22	4	my father	PER	NOM
+MENTION	T28	22	9	22	12	a great-aunt of mine	PER	NOM
+MENTION	T29	22	31	22	32	our family	PER	NOM
+MENTION	T30	23	0	23	1	Miss Trotwood	PER	PROP
+MENTION	T31	23	4	23	5	Miss Betsey	PER	PROP
+MENTION	T32	23	8	23	10	my poor mother	PER	NOM
+MENTION	T33	23	22	23	24	this formidable personage	PER	NOM
+MENTION	T34	23	40	23	44	a husband younger than herself	PER	NOM
+MENTION	T35	23	77	23	78	Miss Betsey	PER	PROP
+MENTION	T36	23	108	23	108	stairs	FAC	NOM
+MENTION	T37	24	8	24	9	Miss Betsey	PER	PROP
+MENTION	T38	25	3	25	3	India	GPE	PROP
+MENTION	T39	25	17	25	18	our family	PER	NOM
+MENTION	T40	26	3	26	3	India	GPE	PROP
+MENTION	T41	26	9	26	9	home	FAC	NOM
+MENTION	T42	27	3	27	4	my aunt	PER	NOM
+MENTION	T43	27	23	27	34	a cottage in a hamlet on the sea-coast a long way off	FAC	NOM
+MENTION	T44	27	26	27	34	a hamlet on the sea-coast a long way off	GPE	NOM
+MENTION	T45	27	29	27	34	the sea-coast a long way off	LOC	NOM
+MENTION	T46	27	40	27	45	a single woman with one servant	PER	NOM
+MENTION	T47	27	44	27	45	one servant	PER	NOM
+MENTION	T48	28	0	28	1	My father	PER	NOM
+MENTION	T49	28	5	28	8	a favourite of hers	PER	NOM
+MENTION	T50	28	26	28	27	my mother	PER	NOM
+MENTION	T51	28	29	28	33	‘ a wax doll ’	PER	NOM
+MENTION	T52	30	0	30	1	My father	PER	NOM
+MENTION	T53	30	3	30	4	Miss Betsey	PER	PROP
+MENTION	T54	31	3	31	4	my mother	PER	NOM
+MENTION	T55	35	0	35	1	My mother	PER	NOM
+MENTION	T56	35	32	35	65	the fatherless little stranger , who was already welcomed by some grosses of prophetic pins , in a drawer upstairs , to a world not at all excited on the subject of his arrival	PER	NOM
+MENTION	T57	35	51	35	51	upstairs	FAC	NOM
+MENTION	T58	35	67	35	68	my mother	PER	NOM
+MENTION	T59	35	124	35	130	a strange lady coming up the garden	PER	NOM
+MENTION	T60	35	129	35	130	the garden	FAC	NOM
+MENTION	T61	36	0	36	1	My mother	PER	NOM
+MENTION	T62	36	14	36	15	Miss Betsey	PER	PROP
+MENTION	T63	37	6	37	8	the strange lady	PER	NOM
+MENTION	T65	38	3	38	4	the house	FAC	NOM
+MENTION	T66	39	0	39	1	My father	PER	NOM
+MENTION	T67	39	11	39	13	any ordinary Christian	PER	NOM
+MENTION	T68	39	48	39	51	my poor dear mother	PER	NOM
+MENTION	T69	40	2	40	3	my mother	PER	NOM
+MENTION	T70	40	18	40	19	Miss Betsey	PER	PROP
+MENTION	T71	41	0	41	1	My mother	PER	NOM
+MENTION	T72	42	0	42	1	Miss Betsey	PER	PROP
+MENTION	T73	42	5	42	6	the room	FAC	NOM
+MENTION	T74	42	37	42	38	my mother	PER	NOM
+MENTION	T75	43	9	43	10	my mother	PER	NOM
+MENTION	T76	44	0	44	1	My mother	PER	NOM
+MENTION	T77	45	1	45	3	Mrs. David Copperfield	PER	PROP
+MENTION	T78	45	10	45	11	Miss Betsey	PER	PROP
+MENTION	T79	45	20	45	21	my mother	PER	NOM
+MENTION	T80	46	5	46	6	my mother	PER	NOM
+MENTION	T81	47	1	47	2	Miss Trotwood	PER	PROP
+MENTION	T82	49	0	49	1	My mother	PER	NOM
+MENTION	T83	51	8	51	9	Miss Betsey	PER	PROP
+MENTION	T84	52	0	52	1	My mother	PER	NOM
+MENTION	T85	53	3	53	9	the parlour my mother had come from	FAC	NOM
+MENTION	T87	53	14	53	23	the best room on the other side of the passage	FAC	NOM
+MENTION	T88	53	22	53	23	the passage	FAC	NOM
+MENTION	T89	53	36	53	37	my father	PER	NOM
+MENTION	T90	53	49	53	50	Miss Betsey	PER	PROP
+MENTION	T91	53	54	53	55	my mother	PER	NOM
+MENTION	T92	55	1	55	2	Miss Betsey	PER	PROP
+MENTION	T93	58	0	58	1	My mother	PER	NOM
+MENTION	T94	59	6	59	6	child	PER	NOM
+MENTION	T95	59	10	59	11	Miss Betsey	PER	PROP
+MENTION	T96	60	0	60	1	My mother	PER	NOM
+MENTION	T97	7	13	7	14	this property	FAC	NOM
+MENTION	T64	53	5	53	6	my mother	PER	NOM
+MENTION	T86	7	18	7	19	anybody else	PER	NOM
+MENTION	T113	1	25	1	26	anybody else	PER	NOM
+MENTION	T114	14	72	14	73	the world	LOC	NOM
+MENTION	T115	32	19	32	20	the world	LOC	NOM
+MENTION	T116	20	10	20	11	this world	LOC	NOM
+MENTION	T117	27	6	27	6	nobody	PER	NOM
+MENTION	T118	37	37	37	37	nobody	PER	NOM
+MENTION	T119	25	9	25	9	there	GPE	NOM
+MENTION	T120	27	38	27	38	there	FAC	NOM
+MENTION	T121	1	0	1	0	I	PER	PRON
+MENTION	T122	1	4	1	4	I	PER	PRON
+MENTION	T123	1	13	1	13	my	PER	PRON
+MENTION	T124	2	2	2	2	my	PER	PRON
+MENTION	T125	2	8	2	8	my	PER	PRON
+MENTION	T126	2	11	2	11	I	PER	PRON
+MENTION	T127	2	14	2	14	I	PER	PRON
+MENTION	T128	2	19	2	19	I	PER	PRON
+MENTION	T129	3	11	3	11	I	PER	PRON
+MENTION	T130	4	8	4	8	my	PER	PRON
+MENTION	T131	4	33	4	33	me	PER	PRON
+MENTION	T132	4	42	4	42	our	PER	PRON
+MENTION	T133	4	50	4	50	I	PER	PRON
+MENTION	T134	4	63	4	63	I	PER	PRON
+MENTION	T135	4	79	4	79	they	PER	PRON
+MENTION	T136	5	0	5	0	I	PER	PRON
+MENTION	T137	5	17	5	17	my	PER	PRON
+MENTION	T138	6	8	6	8	I	PER	PRON
+MENTION	T139	6	15	6	15	I	PER	PRON
+MENTION	T140	6	21	6	21	my	PER	PRON
+MENTION	T141	6	24	6	24	I	PER	PRON
+MENTION	T142	6	30	6	30	I	PER	PRON
+MENTION	T143	7	1	7	1	I	PER	PRON
+MENTION	T144	7	29	7	29	he	PER	PRON
+MENTION	T145	8	0	8	0	I	PER	PRON
+MENTION	T146	9	21	9	21	I	PER	PRON
+MENTION	T147	9	27	9	27	I	PER	PRON
+MENTION	T148	10	15	10	15	my	PER	PRON
+MENTION	T149	10	43	10	43	our	PER	PRON
+MENTION	T150	11	0	11	0	I	PER	PRON
+MENTION	T151	11	3	11	3	myself	PER	PRON
+MENTION	T152	11	6	11	6	I	PER	PRON
+MENTION	T153	11	20	11	20	myself	PER	PRON
+MENTION	T154	12	5	12	5	I	PER	PRON
+MENTION	T155	12	59	12	59	her	PER	PRON
+MENTION	T156	13	15	13	15	she	PER	PRON
+MENTION	T157	14	0	14	0	I	PER	PRON
+MENTION	T158	14	11	14	11	her	PER	PRON
+MENTION	T159	14	16	14	16	she	PER	PRON
+MENTION	T160	14	24	14	24	her	PER	PRON
+MENTION	T161	14	35	14	35	her	PER	PRON
+MENTION	T162	14	40	14	40	she	PER	PRON
+MENTION	T163	14	45	14	45	she	PER	PRON
+MENTION	T164	14	52	14	52	her	PER	PRON
+MENTION	T165	15	7	15	7	her	PER	PRON
+MENTION	T166	16	0	16	0	She	PER	PRON
+MENTION	T167	16	16	16	16	her	PER	PRON
+MENTION	T168	16	21	16	21	us	PER	PRON
+MENTION	T169	17	3	17	3	myself	PER	PRON
+MENTION	T170	17	8	17	8	I	PER	PRON
+MENTION	T171	17	13	17	13	my	PER	PRON
+MENTION	T172	18	0	18	0	I	PER	PRON
+MENTION	T173	18	16	18	16	they	PER	PRON
+MENTION	T174	19	0	19	0	I	PER	PRON
+MENTION	T175	20	0	20	0	My	PER	PRON
+MENTION	T176	21	5	21	5	me	PER	PRON
+MENTION	T177	21	14	21	14	he	PER	PRON
+MENTION	T178	21	17	21	17	me	PER	PRON
+MENTION	T179	21	28	21	28	I	PER	PRON
+MENTION	T180	21	31	21	31	my	PER	PRON
+MENTION	T181	21	36	21	36	his	PER	PRON
+MENTION	T182	21	48	21	48	I	PER	PRON
+MENTION	T183	21	64	21	64	our	PER	PRON
+MENTION	T184	21	80	21	80	our	PER	PRON
+MENTION	T185	21	90	21	90	me	PER	PRON
+MENTION	T186	22	3	22	3	my	PER	PRON
+MENTION	T187	22	16	22	16	I	PER	PRON
+MENTION	T188	22	31	22	31	our	PER	PRON
+MENTION	T189	23	8	23	8	my	PER	PRON
+MENTION	T190	23	13	23	13	her	PER	PRON
+MENTION	T191	23	16	23	16	she	PER	PRON
+MENTION	T192	23	19	23	19	her	PER	PRON
+MENTION	T193	23	27	23	27	her	PER	PRON
+MENTION	T194	23	44	23	44	herself	PER	PRON
+MENTION	T195	23	70	23	70	he	PER	PRON
+MENTION	T196	23	101	23	101	her	PER	PRON
+MENTION	T197	24	12	24	12	him	PER	PRON
+MENTION	T198	25	0	25	0	He	PER	PRON
+MENTION	T199	25	5	25	5	his	PER	PRON
+MENTION	T200	25	17	25	17	our	PER	PRON
+MENTION	T201	25	20	25	20	he	PER	PRON
+MENTION	T202	25	36	25	36	I	PER	PRON
+MENTION	T203	26	6	26	6	his	PER	PRON
+MENTION	T205	27	3	27	3	my	PER	PRON
+MENTION	T206	27	15	27	15	she	PER	PRON
+MENTION	T207	27	17	27	17	her	PER	PRON
+MENTION	T208	27	37	27	37	herself	PER	PRON
+MENTION	T209	28	0	28	0	My	PER	PRON
+MENTION	T210	28	10	28	10	I	PER	PRON
+MENTION	T211	28	14	28	14	she	PER	PRON
+MENTION	T212	28	19	28	19	his	PER	PRON
+MENTION	T213	28	26	28	26	my	PER	PRON
+MENTION	T214	29	0	29	0	She	PER	PRON
+MENTION	T215	29	4	29	4	my	PER	PRON
+MENTION	T216	29	8	29	8	she	PER	PRON
+MENTION	T217	29	10	29	10	her	PER	PRON
+MENTION	T218	30	0	30	0	My	PER	PRON
+MENTION	T219	31	0	31	0	He	PER	PRON
+MENTION	T220	31	3	31	3	my	PER	PRON
+MENTION	T221	31	8	31	8	he	PER	PRON
+MENTION	T222	32	0	32	0	He	PER	PRON
+MENTION	T223	32	9	32	9	I	PER	PRON
+MENTION	T224	32	16	32	16	I	PER	PRON
+MENTION	T225	33	13	33	13	I	PER	PRON
+MENTION	T226	34	0	34	0	I	PER	PRON
+MENTION	T227	34	29	34	29	my	PER	PRON
+MENTION	T228	35	0	35	0	My	PER	PRON
+MENTION	T229	35	23	35	23	her	PER	PRON
+MENTION	T230	35	30	35	30	herself	PER	PRON
+MENTION	T231	35	64	35	64	his	PER	PRON
+MENTION	T232	35	67	35	67	my	PER	PRON
+MENTION	T233	35	70	35	70	I	PER	PRON
+MENTION	T234	35	105	35	105	her	PER	PRON
+MENTION	T235	35	110	35	110	her	PER	PRON
+MENTION	T236	35	113	35	113	she	PER	PRON
+MENTION	T238	35	122	35	122	she	PER	PRON
+MENTION	T239	36	0	36	0	My	PER	PRON
+MENTION	T240	37	15	37	15	she	PER	PRON
+MENTION	T241	38	1	38	1	she	PER	PRON
+MENTION	T242	38	6	38	6	she	PER	PRON
+MENTION	T243	38	11	38	11	her	PER	PRON
+MENTION	T244	39	0	39	0	My	PER	PRON
+MENTION	T245	39	6	39	6	she	PER	PRON
+MENTION	T246	39	9	39	9	herself	PER	PRON
+MENTION	T247	39	24	39	24	she	PER	PRON
+MENTION	T248	39	38	39	38	her	PER	PRON
+MENTION	T249	39	48	39	48	my	PER	PRON
+MENTION	T250	40	0	40	0	She	PER	PRON
+MENTION	T251	40	2	40	2	my	PER	PRON
+MENTION	T252	40	9	40	9	I	PER	PRON
+MENTION	T253	40	14	40	14	I	PER	PRON
+MENTION	T254	41	0	41	0	My	PER	PRON
+MENTION	T255	41	4	41	4	her	PER	PRON
+MENTION	T256	41	7	41	7	her	PER	PRON
+MENTION	T257	42	20	42	20	her	PER	PRON
+MENTION	T259	42	37	42	37	my	PER	PRON
+MENTION	T260	43	1	43	1	she	PER	PRON
+MENTION	T261	43	9	43	9	my	PER	PRON
+MENTION	T262	44	0	44	0	My	PER	PRON
+MENTION	T263	45	5	45	5	I	PER	PRON
+MENTION	T264	45	20	45	20	my	PER	PRON
+MENTION	T265	45	27	45	27	her	PER	PRON
+MENTION	T266	46	5	46	5	my	PER	PRON
+MENTION	T267	48	1	48	1	You	PER	PRON
+MENTION	T268	48	5	48	5	her	PER	PRON
+MENTION	T269	48	7	48	7	I	PER	PRON
+MENTION	T270	49	0	49	0	My	PER	PRON
+MENTION	T271	49	3	49	3	she	PER	PRON
+MENTION	T272	50	1	50	1	she	PER	PRON
+MENTION	T273	51	2	51	2	you	PER	PRON
+MENTION	T274	51	4	51	4	her	PER	PRON
+MENTION	T275	52	0	52	0	My	PER	PRON
+MENTION	T276	52	3	52	3	her	PER	PRON
+MENTION	T277	52	8	52	8	her	PER	PRON
+MENTION	T278	53	0	53	0	They	PER	PRON
+MENTION	T279	53	5	53	5	my	PER	PRON
+MENTION	T280	53	36	53	36	my	PER	PRON
+MENTION	T281	53	43	53	43	they	PER	PRON
+MENTION	T282	53	54	53	54	my	PER	PRON
+MENTION	T283	53	62	53	62	herself	PER	PRON
+MENTION	T284	58	0	58	0	My	PER	PRON
+MENTION	T285	58	9	58	9	she	PER	PRON
+MENTION	T286	58	12	58	12	she	PER	PRON
+MENTION	T287	58	15	58	15	her	PER	PRON
+MENTION	T288	59	3	59	3	your	PER	PRON
+MENTION	T289	59	16	59	16	me	PER	PRON
+MENTION	T290	59	18	59	18	you	PER	PRON
+MENTION	T291	60	0	60	0	My	PER	PRON
+MENTION	T292	60	7	60	7	her	PER	PRON
+MENTION	T293	60	17	60	17	she	PER	PRON
+MENTION	T294	61	1	61	1	she	PER	PRON
+MENTION	T295	61	4	61	4	she	PER	PRON
+MENTION	T296	61	16	61	16	her	PER	PRON
+MENTION	T297	61	28	61	28	her	PER	PRON
+MENTION	T298	22	27	22	32	the principal magnate of our family	PER	NOM
+MENTION	T299	29	4	29	5	my mother	PER	NOM
+COREF	T121	narrator-0
+COREF	T122	narrator-0
+COREF	T123	narrator-0
+COREF	T113	anybody_else-1
+COREF	T124	narrator-0
+COREF	T125	narrator-0
+COREF	T126	narrator-0
+COREF	T127	narrator-0
+COREF	T128	narrator-0
+COREF	T129	narrator-0
+COREF	T130	narrator-0
+COREF	T3	the_nurse-2
+COREF	T4	some_sage_women_in_the_neighbourhood_who_had_taken_a_lively_interest_in_me_several_months_before_there_was_any_possibility_of_our_becoming_personally_acquainted-3
+COREF	T5	the_neighbourhood-4
+COREF	T131	narrator-0
+COREF	T132	narrator_neighborhood_women-5
+COREF	T133	narrator-0
+COREF	T134	narrator-0
+COREF	T135	some_sage_women_in_the_neighbourhood_who_had_taken_a_lively_interest_in_me_several_months_before_there_was_any_possibility_of_our_becoming_personally_acquainted-3
+COREF	T6	all_unlucky_infants_of_either_gender___born_towards_the_small_hours_on_a_Friday_night-6
+COREF	T136	narrator-0
+COREF	T137	narrator-0
+COREF	T138	narrator-0
+COREF	T139	narrator-0
+COREF	T140	narrator-0
+COREF	T141	narrator-0
+COREF	T142	narrator-0
+COREF	T143	narrator-0
+COREF	T97	this_property-7
+COREF	T86	anybody_else-8
+COREF	T144	anybody_else-8
+COREF	T145	narrator-0
+COREF	T2	sea-going_people-9
+COREF	T146	narrator-0
+COREF	T147	narrator-0
+COREF	T8	an_attorney_connected_with_the_bill-broking_business-10
+COREF	T9	my_poor_dear_mother-11
+COREF	T148	narrator-0
+COREF	T10	our_part_of_the_country-12
+COREF	T149	narrator_our_part_of_the_country-13
+COREF	T11	the_country-14
+COREF	T12	the_winner-15
+COREF	T150	narrator-0
+COREF	T151	narrator-0
+COREF	T152	narrator-0
+COREF	T153	narrator-0
+COREF	T154	narrator-0
+COREF	T13	an_old_lady_with_a_hand-basket-16
+COREF	T155	an_old_lady_with_a_hand-basket-16
+COREF	T156	an_old_lady_with_a_hand-basket-16
+COREF	T157	narrator-0
+COREF	T158	an_old_lady_with_a_hand-basket-16
+COREF	T159	an_old_lady_with_a_hand-basket-16
+COREF	T14	the_water-17
+COREF	T160	an_old_lady_with_a_hand-basket-16
+COREF	T15	a_bridge-18
+COREF	T161	an_old_lady_with_a_hand-basket-16
+COREF	T162	an_old_lady_with_a_hand-basket-16
+COREF	T163	an_old_lady_with_a_hand-basket-16
+COREF	T164	an_old_lady_with_a_hand-basket-16
+COREF	T16	mariners-19
+COREF	T17	others___who_had_the_presumption_to_go___meandering___about_the_world-20
+COREF	T114	the_world-21
+COREF	T165	an_old_lady_with_a_hand-basket-16
+COREF	T166	an_old_lady_with_a_hand-basket-16
+COREF	T167	an_old_lady_with_a_hand-basket-16
+COREF	T168	old_lady___us-22
+COREF	T169	narrator-0
+COREF	T170	narrator-0
+COREF	T171	narrator-0
+COREF	T172	narrator-0
+COREF	T18	Blunderstone-23
+COREF	T19	Suffolk-24
+COREF	T173	they-25
+COREF	T20	Scotland-26
+COREF	T174	narrator-0
+COREF	T175	narrator-0
+COREF	T116	the_world-21
+COREF	T176	narrator-0
+COREF	T22	My_father-27
+COREF	T177	My_father-27
+COREF	T178	narrator-0
+COREF	T179	narrator-0
+COREF	T180	narrator-0
+COREF	T181	My_father-27
+COREF	T23	the_churchyard-28
+COREF	T182	narrator-0
+COREF	T24	our_little_parlour-29
+COREF	T183	narrator___our_parlor-30
+COREF	T25	our_house-31
+COREF	T184	narrator___our_parlor-30
+COREF	T185	narrator-0
+COREF	T26	Aunt_Betsey_Trotwood-32
+COREF	T27	My_father-27
+COREF	T186	narrator-0
+COREF	T187	narrator-0
+COREF	T29	our_family-33
+COREF	T188	narrator_aunt__our_family_-34
+COREF	T30	Aunt_Betsey_Trotwood-32
+COREF	T31	Aunt_Betsey_Trotwood-32
+COREF	T32	my_poor_mother-35
+COREF	T189	narrator-0
+COREF	T190	Aunt_Betsey_Trotwood-32
+COREF	T191	my_poor_mother-35
+COREF	T192	Aunt_Betsey_Trotwood-32
+COREF	T33	Aunt_Betsey_Trotwood-32
+COREF	T193	Aunt_Betsey_Trotwood-32
+COREF	T34	Aunt_Betsey_husband-36
+COREF	T194	Aunt_Betsey_Trotwood-32
+COREF	T195	Aunt_Betsey_husband-36
+COREF	T35	Aunt_Betsey_Trotwood-32
+COREF	T196	Aunt_Betsey_Trotwood-32
+COREF	T36	stairs-37
+COREF	T37	Aunt_Betsey_Trotwood-32
+COREF	T197	Aunt_Betsey_husband-36
+COREF	T198	Aunt_Betsey_husband-36
+COREF	T38	India-38
+COREF	T199	Aunt_Betsey_husband-36
+COREF	T119	India-38
+COREF	T39	our_family-33
+COREF	T200	narrator_aunt__our_family_-34
+COREF	T201	Aunt_Betsey_husband-36
+COREF	T202	narrator-0
+COREF	T40	India-38
+COREF	T203	Aunt_Betsey_husband-36
+COREF	T41	generic_narrator_family_home-39
+COREF	T42	Aunt_Betsey_Trotwood-32
+COREF	T205	narrator-0
+COREF	T117	nobody-40
+COREF	T206	Aunt_Betsey_Trotwood-32
+COREF	T207	Aunt_Betsey_Trotwood-32
+COREF	T43	a_cottage_in_a_hamlet_on_the_sea-coast_a_long_way_off-41
+COREF	T44	a_hamlet_on_the_sea-coast_a_long_way_off-42
+COREF	T45	the_sea-coast_a_long_way_off-43
+COREF	T208	Aunt_Betsey_Trotwood-32
+COREF	T120	a_cottage_in_a_hamlet_on_the_sea-coast_a_long_way_off-41
+COREF	T47	one_servant-44
+COREF	T48	My_father-27
+COREF	T209	narrator-0
+COREF	T210	narrator-0
+COREF	T211	Aunt_Betsey_Trotwood-32
+COREF	T212	My_father-27
+COREF	T50	my_poor_mother-35
+COREF	T213	narrator-0
+COREF	T214	Aunt_Betsey_Trotwood-32
+COREF	T215	narrator-0
+COREF	T299	my_poor_mother-35
+COREF	T216	Aunt_Betsey_Trotwood-32
+COREF	T217	my_poor_mother-35
+COREF	T52	My_father-27
+COREF	T218	narrator-0
+COREF	T53	Aunt_Betsey_Trotwood-32
+COREF	T219	My_father-27
+COREF	T54	my_poor_mother-35
+COREF	T220	narrator-0
+COREF	T221	My_father-27
+COREF	T222	My_father-27
+COREF	T223	narrator-0
+COREF	T224	narrator-0
+COREF	T115	the_world-21
+COREF	T225	narrator-0
+COREF	T226	narrator-0
+COREF	T227	narrator-0
+COREF	T55	my_poor_mother-35
+COREF	T228	narrator-0
+COREF	T229	my_poor_mother-35
+COREF	T230	my_poor_mother-35
+COREF	T56	narrator-0
+COREF	T57	upstairs-45
+COREF	T231	narrator-0
+COREF	T58	my_poor_mother-35
+COREF	T232	narrator-0
+COREF	T233	narrator-0
+COREF	T234	my_poor_mother-35
+COREF	T235	my_poor_mother-35
+COREF	T236	my_poor_mother-35
+COREF	T238	my_poor_mother-35
+COREF	T59	Aunt_Betsey_Trotwood-32
+COREF	T60	the_garden-46
+COREF	T61	my_poor_mother-35
+COREF	T239	narrator-0
+COREF	T62	Aunt_Betsey_Trotwood-32
+COREF	T63	Aunt_Betsey_Trotwood-32
+COREF	T240	Aunt_Betsey_Trotwood-32
+COREF	T118	nobody-47
+COREF	T241	Aunt_Betsey_Trotwood-32
+COREF	T65	our_house-31
+COREF	T242	Aunt_Betsey_Trotwood-32
+COREF	T243	Aunt_Betsey_Trotwood-32
+COREF	T66	My_father-27
+COREF	T244	narrator-0
+COREF	T245	Aunt_Betsey_Trotwood-32
+COREF	T246	Aunt_Betsey_Trotwood-32
+COREF	T67	any_ordinary_Christian-48
+COREF	T247	Aunt_Betsey_Trotwood-32
+COREF	T248	Aunt_Betsey_Trotwood-32
+COREF	T68	my_poor_mother-35
+COREF	T249	narrator-0
+COREF	T250	Aunt_Betsey_Trotwood-32
+COREF	T69	my_poor_mother-35
+COREF	T251	narrator-0
+COREF	T252	narrator-0
+COREF	T253	narrator-0
+COREF	T70	Aunt_Betsey_Trotwood-32
+COREF	T71	my_poor_mother-35
+COREF	T254	narrator-0
+COREF	T255	my_poor_mother-35
+COREF	T256	my_poor_mother-35
+COREF	T72	Aunt_Betsey_Trotwood-32
+COREF	T73	the_room-49
+COREF	T257	Aunt_Betsey_Trotwood-32
+COREF	T74	my_poor_mother-35
+COREF	T259	narrator-0
+COREF	T260	Aunt_Betsey_Trotwood-32
+COREF	T75	my_poor_mother-35
+COREF	T261	narrator-0
+COREF	T76	my_poor_mother-35
+COREF	T262	narrator-0
+COREF	T77	my_poor_mother-35
+COREF	T263	Aunt_Betsey_Trotwood-32
+COREF	T78	Aunt_Betsey_Trotwood-32
+COREF	T79	my_poor_mother-35
+COREF	T264	narrator-0
+COREF	T265	my_poor_mother-35
+COREF	T80	my_poor_mother-35
+COREF	T266	narrator-0
+COREF	T81	Aunt_Betsey_Trotwood-32
+COREF	T267	my_poor_mother-35
+COREF	T268	Aunt_Betsey_Trotwood-32
+COREF	T269	Aunt_Betsey_Trotwood-32
+COREF	T82	my_poor_mother-35
+COREF	T270	narrator-0
+COREF	T271	my_poor_mother-35
+COREF	T272	my_poor_mother-35
+COREF	T273	my_poor_mother-35
+COREF	T274	Aunt_Betsey_Trotwood-32
+COREF	T83	Aunt_Betsey_Trotwood-32
+COREF	T84	my_poor_mother-35
+COREF	T275	narrator-0
+COREF	T276	my_poor_mother-35
+COREF	T277	Aunt_Betsey_Trotwood-32
+COREF	T278	mother_aunt_betsey-50
+COREF	T85	our_little_parlour-29
+COREF	T64	my_poor_mother-35
+COREF	T279	narrator-0
+COREF	T87	the_best_room_on_the_other_side_of_the_passage-51
+COREF	T88	the_passage-52
+COREF	T89	My_father-27
+COREF	T280	narrator-0
+COREF	T281	mother_aunt_betsey-50
+COREF	T90	Aunt_Betsey_Trotwood-32
+COREF	T91	my_poor_mother-35
+COREF	T282	narrator-0
+COREF	T283	my_poor_mother-35
+COREF	T92	Aunt_Betsey_Trotwood-32
+COREF	T93	my_poor_mother-35
+COREF	T284	narrator-0
+COREF	T285	my_poor_mother-35
+COREF	T286	my_poor_mother-35
+COREF	T287	my_poor_mother-35
+COREF	T288	my_poor_mother-35
+COREF	T94	my_poor_mother-35
+COREF	T95	Aunt_Betsey_Trotwood-32
+COREF	T289	Aunt_Betsey_Trotwood-32
+COREF	T290	my_poor_mother-35
+COREF	T96	my_poor_mother-35
+COREF	T291	narrator-0
+COREF	T292	Aunt_Betsey_Trotwood-32
+COREF	T293	my_poor_mother-35
+COREF	T294	my_poor_mother-35
+COREF	T295	my_poor_mother-35
+COREF	T296	my_poor_mother-35
+COREF	T297	my_poor_mother-35
+COP	T1	T122
+COP	T7	T141
+COP	T21	T174
+COP	T298	T26
+COP	T46	T208
+COP	T49	T48
+COP	T51	T50
+MENTION	T606	7	27	7	27	it	FAC	PRON
+COREF	T606	this_property-7
+MENTION	T608	7	35	7	35	it	FAC	PRON
+COREF	T608	this_property-7
+MENTION	T620	20	19	20	19	it	LOC	PRON
+COREF	T620	the_world-21
+COREF	T28	Aunt_Betsey_Trotwood-32
+MENTION	T99	47	6	47	7	the visitor	PER	NOM
+COREF	T99	Aunt_Betsey_Trotwood-32

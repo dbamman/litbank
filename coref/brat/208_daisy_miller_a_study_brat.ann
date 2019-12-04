@@ -1,0 +1,628 @@
+T0	NOM_GPE 10 34	the little town of Vevey
+T1	NOM_FAC 63 95	a particularly comfortable hotel
+T2	PROP_GPE 40 51	Switzerland
+T3	NOM_PER 317 330	every tourist
+T4	NOM_PER 158 166	tourists
+T5	NOM_PER 209 223	many travelers
+T10	NOM_FAC 866 887	its upstart neighbors
+T11	NOM_LOC 934 945	this region
+T12	NOM_LOC 1106 1132	an American watering place
+T13	PROP_GPE 1046 1051	Vevey
+T14	PROP_GPE 1199 1206	Newport
+T15	NOM_FAC 1795 1805	the garden
+T16	NOM_PER 1739 1762	secretaries of legation
+T18	NOM_FAC 1893 1928	the sunny crest of the Dent du Midi
+T20	NOM_PER 1865 1880	their governors
+T22	NOM_GPE 2548 2570	his place of residence
+T23	PROP_GPE 2417 2423	Geneva
+T24	NOM_FAC 2500 2509	the hotel
+T26	NOM_PER 2577 2585	his aunt
+T27	NOM_PER 2604 2612	his aunt
+T28	NOM_FAC 2672 2680	her room
+T29	NOM_PER 2795 2806	his friends
+T31	NOM_PER 2882 2893	his enemies
+T32	NOM_PER 2947 2957	no enemies
+T35	NOM_PER 3063 3078	certain persons
+T36	PROP_GPE 3154 3160	Geneva
+T37	NOM_PER 3224 3269	a foreign lady -- a person older than himself
+T39	NOM_PER 3506 3511	a boy
+T40	NOM_GPE 3434 3468	the little metropolis of Calvinism
+T41	PROP_PER 3395 3407	Winterbourne
+T43	NOM_GPE 3821 3829	the town
+T44	NOM_PER 3739 3747	his aunt
+T45	NOM_FAC 4005 4015	the garden
+T46	NOM_PER 4054 4064	an attache
+T48	NOM_PER 4026 4064	the waiters who looked like an attache
+T50	NOM_PER 4130 4141	a small boy
+T51	NOM_PER 4200 4244	The child , who was diminutive for his years
+T52	NOM_PER 4646 4656	the ladies
+T55	PROP_PER 4681 4693	Winterbourne
+T56	PROP_PER 4902 4914	Winterbourne
+T57	NOM_PER 5121 5132	little boys
+T59	NOM_PER 5137 5152	This little boy
+T60	PROP_PER 5385 5397	Winterbourne
+T62	NOM_PER 5646 5665	a fellow countryman
+T63	PROP_PER 5559 5571	Winterbourne
+T64	NOM_PER 5826 5835	My mother
+T65	PROP_GPE 6035 6042	America
+T66	PROP_PER 6090 6102	Winterbourne
+T67	NOM_PER 6157 6168	your mother
+T68	NOM_PER 6262 6284	his young interlocutor
+T69	NOM_PER 6409 6429	the best little boys
+T71	NOM_PER 6503 6512	the child
+T74	NOM_PER 6612 6633	this vivacious infant
+T75	PROP_PER 6650 6662	Winterbourne
+T76	NOM_PER 6689 6701	American men
+T77	NOM_PER 6733 6746	His companion
+T78	PROP_PER 6909 6921	Winterbourne
+T79	NOM_PER 7068 7077	the child
+T81	NOM_PER 7165 7187	a beautiful young lady
+T82	NOM_PER 7202 7216	American girls
+T83	NOM_PER 7262 7281	his young companion
+T85	NOM_PER 7286 7295	My sister
+T86	NOM_PER 7316 7325	the child
+T87	PROP_PER 7422 7434	Winterbourne
+T88	NOM_PER 7437 7451	The young lady
+T93	NOM_PER 7850 7864	The young lady
+T95	NOM_PER 7957 7971	The little boy
+T96	NOM_PER 8138 8152	the young lady
+T97	PROP_PER 8313 8325	Winterbourne
+T98	PROP_PER 8378 8390	Winterbourne
+T100	NOM_PER 8539 8550	her brother
+T101	NOM_PER 8465 8479	The young lady
+T102	PROP_PER 8633 8645	Winterbourne
+T103	NOM_PER 8723 8737	the young girl
+T104	NOM_PER 8941 8963	a young unmarried lady
+T105	PROP_GPE 8856 8862	Geneva
+T106	NOM_PER 8898 8909	a young man
+T107	NOM_FAC 9145 9153	a garden
+T109	NOM_PER 9083 9105	a pretty American girl
+T111	NOM_PER 9156 9181	This pretty American girl
+T112	NOM_PER 9514 9528	the young lady
+T113	NOM_PER 9539 9553	the little boy
+T114	PROP_GPE 9717 9722	Italy
+T115	NOM_FAC 119 130	many hotels
+T116	NOM_GPE 186 195	the place
+T117	NOM_LOC 255 289	the edge of a remarkably blue lake
+T118	NOM_LOC 293 339	a lake that it behooves every tourist to visit
+T119	NOM_LOC 342 363	The shore of the lake
+T120	NOM_FAC 373 422	an unbroken array of establishments of this order
+T7	NOM_FAC 450 581	the “ grand hotel ” of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof
+T6	NOM_FAC 587 762	the little Swiss pension of an elder day , with its name inscribed in German-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden
+T8	NOM_FAC 765 791	One of the hotels at Vevey
+T9	NOM_PER 971 989	American travelers
+T121	PROP_GPE 1211 1219	Saratoga
+T122	NOM_PER 1264 1287	“ stylish ” young girls
+T123	NOM_FAC 1460 1504	the excellent inn of the “ Trois Couronnes ”
+T124	NOM_FAC 1537 1552	the Ocean House
+T125	PROP_FAC 1559 1572	Congress Hall
+T126	NOM_FAC 1582 1607	the “ Trois Couronnes , ”
+T127	NOM_PER 1703 1762	neat German waiters , who look like secretaries of legation
+T19	NOM_PER 1765 1805	Russian princesses sitting in the garden
+T128	NOM_PER 1808 1880	little Polish boys walking about held by the hand , with their governors
+T17	NOM_FAC 1933 1980	the picturesque towers of the Castle of Chillon
+T129	NOM_PER 2080 2259	a young American , who , two or three years ago , sat in the garden of the “ Trois Couronnes , ” looking about him , rather idly , at some of the graceful objects I have mentioned
+T131	NOM_PER 2322 2340	the young American
+T132	NOM_VEH 2442 2460	the little steamer
+T133	NOM_PER 2470 2478	his aunt
+T134	PROP_GPE 2513 2519	Geneva
+T25	PROP_GPE 2855 2861	Geneva
+T30	NOM_PER 2967 2994	an extremely amiable fellow
+T33	NOM_PER 3198 3220	a lady who lived there
+T34	NOM_PER 3333 3388	this lady , about whom there were some singular stories
+T42	NOM_PER 4173 4197	an urchin of nine or ten
+T47	NOM_FAC 4611 4621	the garden
+T49	NOM_GPE 5969 5984	this old Europe
+T53	NOM_FAC 6073 6085	these hotels
+T54	NOM_PER 6388 6408	American little boys
+T58	NOM_PER 6478 6493	an American boy
+T61	NOM_PER 6531 6546	one of the best
+T70	PROP_PER 6559 6571	Winterbourne
+T72	NOM_PER 6584 6599	an American man
+T73	NOM_PER 6784 6793	the child
+T135	PROP_GPE 7008 7014	Europe
+T136	NOM_PER 7048 7057	my sister
+T80	NOM_PER 7104 7117	American girl
+T137	PROP_PER 7122 7134	Winterbourne
+T84	NOM_PER 7221 7235	the best girls
+T89	PROP_PER 7766 7778	Winterbourne
+T90	NOM_FAC 7901 7954	the parapet of the garden , which overlooked the lake
+T91	NOM_FAC 7916 7926	the garden
+T92	NOM_LOC 7946 7954	the lake
+T94	PROP_PER 8120 8128	Randolph
+T138	PROP_LOC 8196 8204	the Alps
+T139	PROP_PER 8217 8225	Randolph
+T99	NOM_PER 8401 8416	an American man
+T140	PROP_PER 8427 8435	Randolph
+T141	NOM_PER 8772 8787	This little boy
+T142	PROP_GPE 9027 9032	Vevey
+T108	PROP_PER 9205 9217	Winterbourne
+T110	NOM_FAC 9300 9311	the parapet
+T143	NOM_LOC 9317 9325	the lake
+T144	NOM_LOC 9330 9352	the opposite mountains
+T145	PROP_PER 9653 9661	Randolph
+T146	NOM_ORG 3543 3550	college
+T38	NOM_PER 3272 3290	Very few Americans
+T130	NOM_FAC 2151 2176	the “ Trois Couronnes , ”
+T21	NOM_FAC 2137 2176	the garden of the “ Trois Couronnes , ”
+T147	NOM_GPE 3215 3220	there
+T148	NOM_GPE 3551 3556	there
+T149	NOM_GPE 3497 3502	there
+T150	NOM_GPE 9019 9023	here
+T152	PRON_PER 1415 1418	You
+T153	PRON_PER 1865 1870	their
+T154	PRON_PER 1983 1984	I
+T155	PRON_PER 2191 2194	him
+T156	PRON_PER 2243 2244	I
+T158	PRON_PER 2385 2388	him
+T159	PRON_PER 2400 2402	He
+T160	PRON_PER 2470 2473	his
+T161	PRON_PER 2548 2551	his
+T162	PRON_PER 2577 2580	his
+T163	PRON_PER 2604 2607	his
+T164	PRON_PER 2653 2656	she
+T165	PRON_PER 2672 2675	her
+T166	PRON_PER 2710 2712	he
+T167	PRON_PER 2746 2748	He
+T168	PRON_PER 2795 2798	his
+T169	PRON_PER 2816 2819	him
+T170	PRON_PER 2822 2826	they
+T171	PRON_PER 2845 2847	he
+T172	PRON_PER 2882 2885	his
+T173	PRON_PER 2903 2906	him
+T174	PRON_PER 2909 2913	they
+T175	PRON_PER 2940 2942	he
+T176	PRON_PER 2960 2962	he
+T177	PRON_PER 3026 3027	I
+T178	PRON_PER 3088 3091	him
+T179	PRON_PER 3092 3096	they
+T180	PRON_PER 3125 3128	his
+T181	PRON_PER 3170 3172	he
+T182	PRON_PER 3262 3269	himself
+T183	PRON_PER 3303 3304	I
+T184	PRON_PER 3471 3473	he
+T185	PRON_PER 3518 3520	he
+T186	PRON_PER 3591 3594	his
+T187	PRON_PER 3653 3655	he
+T189	PRON_PER 3715 3718	him
+T190	PRON_PER 3739 3742	his
+T191	PRON_PER 3774 3777	she
+T192	PRON_PER 3795 3797	he
+T193	PRON_PER 3841 3843	he
+T194	PRON_PER 3859 3862	his
+T195	PRON_PER 3875 3877	He
+T196	PRON_PER 3895 3898	his
+T197	PRON_PER 3915 3917	he
+T198	PRON_PER 3980 3983	him
+T199	PRON_PER 4075 4077	he
+T200	PRON_PER 4087 4090	his
+T201	PRON_PER 4235 4238	his
+T202	PRON_PER 4335 4337	He
+T203	PRON_PER 4407 4410	his
+T204	PRON_PER 4440 4442	he
+T205	PRON_PER 4478 4480	He
+T206	PRON_PER 4492 4495	his
+T207	PRON_PER 4546 4548	he
+T208	PRON_PER 4577 4579	he
+T209	PRON_PER 4694 4696	he
+T210	PRON_PER 4717 4720	him
+T211	PRON_PER 4778 4781	you
+T212	PRON_PER 4787 4789	me
+T213	PRON_PER 4810 4812	he
+T214	PRON_PER 4947 4950	him
+T215	PRON_PER 4962 4965	his
+T216	PRON_PER 5047 5050	you
+T217	PRON_PER 5068 5070	he
+T218	PRON_PER 5088 5089	I
+T219	PRON_PER 5238 5240	he
+T220	PRON_PER 5265 5268	his
+T221	PRON_PER 5338 5340	He
+T222	PRON_PER 5347 5350	his
+T223	PRON_PER 5449 5452	his
+T224	PRON_PER 5495 5497	he
+T225	PRON_PER 5603 5605	he
+T226	PRON_PER 5639 5642	him
+T227	PRON_PER 5680 5683	you
+T228	PRON_PER 5696 5700	your
+T229	PRON_PER 5711 5713	he
+T230	PRON_PER 5736 5737	I
+T232	PRON_PER 5796 5797	I
+T233	PRON_PER 5826 5828	My
+T235	PRON_PER 5897 5900	She
+T236	PRON_PER 5906 5909	she
+T237	PRON_PER 5918 5920	me
+T238	PRON_PER 5944 5945	I
+T241	PRON_PER 6126 6129	you
+T242	PRON_PER 6157 6161	your
+T243	PRON_PER 6189 6192	you
+T244	PRON_PER 6197 6199	he
+T245	PRON_PER 6209 6212	She
+T246	PRON_PER 6228 6230	me
+T247	PRON_PER 6262 6265	his
+T248	PRON_PER 6289 6290	I
+T249	PRON_PER 6457 6458	I
+T250	PRON_PER 6473 6474	I
+T251	PRON_PER 6517 6518	I
+T252	PRON_PER 6523 6526	you
+T253	PRON_PER 6580 6583	you
+T254	PRON_PER 6719 6721	he
+T255	PRON_PER 6733 6736	His
+T256	PRON_PER 6755 6758	him
+T257	PRON_PER 6823 6826	his
+T258	PRON_PER 6860 6863	him
+T259	PRON_PER 6872 6874	he
+T260	PRON_PER 6934 6936	he
+T261	PRON_PER 6937 6944	himself
+T262	PRON_PER 6967 6970	his
+T263	PRON_PER 6985 6987	he
+T264	PRON_PER 7048 7050	my
+T265	PRON_PER 7094 7097	She
+T266	PRON_PER 7240 7242	he
+T267	PRON_PER 7262 7265	his
+T268	PRON_PER 7286 7288	My
+T269	PRON_PER 7339 7342	She
+T270	PRON_PER 7364 7366	me
+T271	PRON_PER 7373 7374	I
+T272	PRON_PER 7391 7395	your
+T273	PRON_PER 7479 7482	She
+T274	PRON_PER 7585 7588	She
+T275	PRON_PER 7610 7613	she
+T276	PRON_PER 7626 7629	her
+T277	PRON_PER 7692 7695	she
+T278	PRON_PER 7745 7749	they
+T279	PRON_PER 7795 7802	himself
+T280	PRON_PER 7806 7809	his
+T281	PRON_PER 7823 7825	he
+T282	PRON_PER 7884 7887	his
+T283	PRON_PER 7990 7993	his
+T284	PRON_PER 8048 8050	he
+T285	PRON_PER 8166 8169	you
+T286	PRON_PER 8182 8183	I
+T287	PRON_PER 8254 8256	he
+T289	PRON_PER 8395 8397	He
+T290	PRON_PER 8441 8444	his
+T291	PRON_PER 8539 8542	her
+T292	PRON_PER 8562 8563	I
+T293	PRON_PER 8570 8573	you
+T294	PRON_PER 8598 8601	she
+T295	PRON_PER 8651 8653	he
+T296	PRON_PER 8687 8689	He
+T297	PRON_PER 8754 8757	his
+T298	PRON_PER 8792 8793	I
+T299	PRON_PER 8821 8823	he
+T300	PRON_PER 8868 8870	he
+T301	PRON_PER 9138 9141	you
+T302	PRON_PER 9253 9256	him
+T303	PRON_PER 9259 9262	she
+T304	PRON_PER 9275 9278	her
+T305	PRON_PER 9355 9357	He
+T306	PRON_PER 9375 9377	he
+T307	PRON_PER 9401 9403	he
+T308	PRON_PER 9417 9419	he
+T309	PRON_PER 9471 9473	he
+T310	PRON_PER 9564 9565	I
+T311	PRON_PER 9592 9595	you
+T312	PRON_PER 9614 9617	she
+T313	PRON_PER 9627 9628	I
+T314	PRON_PER 9666 9669	You
+T315	PRON_PER 9689 9692	you
+T316	PROP_PER 6440 6452	Winterbourne
+T319	Vevey-0 10 34	the little town of Vevey
+T321	Switzerland-1 40 51	Switzerland
+T320	Tri_ois_Couronnes-2 63 95	a particularly comfortable hotel
+T434	many_hotels-3 119 130	many hotels
+T323	tourists-4 158 166	tourists
+T435	Vevey-0 186 195	the place
+T324	many_travelers-5 209 223	many travelers
+T436	the_edge_of_a_remarkably_blue_lake-6 255 289	the edge of a remarkably blue lake
+T322	every_tourist-7 317 330	every tourist
+T438	The_shore_of_the_lake-8 342 363	The shore of the lake
+T439	many_hotels-3 373 422	an unbroken array of establishments of this order
+T326	the___grand_hotel___of_the_newest_fashion___with_a_chalk-white_front___a_hundred_balconies___and_a_dozen_flags_flying_from_its_roof-9 450 581	the “ grand hotel ” of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof
+T325	the_little_Swiss_pension_of_an_elder_day___with_its_name_inscribed_in_German-looking_lettering_upon_a_pink_or_yellow_wall_and_an_awkward_summerhouse_in_the_angle_of_the_garden-10 587 762	the little Swiss pension of an elder day , with its name inscribed in German-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden
+T327	Tri_ois_Couronnes-2 765 791	One of the hotels at Vevey
+T329	many_hotels-3 866 887	its upstart neighbors
+T330	this_region-11 934 945	this region
+T328	American_travelers-12 971 989	American travelers
+T332	Vevey-0 1046 1051	Vevey
+T331	an_American_watering_place-13 1106 1132	an American watering place
+T333	Newport-14 1199 1206	Newport
+T440	Saratoga-15 1211 1219	Saratoga
+T441	__stylish___young_girls-16 1264 1287	“ stylish ” young girls
+T471	You-17 1415 1418	You
+T442	Tri_ois_Couronnes-2 1460 1504	the excellent inn of the “ Trois Couronnes ”
+T443	the_Ocean_House-18 1537 1552	the Ocean House
+T444	Congress_Hall-19 1559 1572	Congress Hall
+T445	Tri_ois_Couronnes-2 1582 1607	the “ Trois Couronnes , ”
+T446	neat_German_waiters___who_look_like_secretaries_of_legation-20 1703 1762	neat German waiters , who look like secretaries of legation
+T335	secretaries_of_legation-21 1739 1762	secretaries of legation
+T338	Russian_princesses_sitting_in_the_garden-22 1765 1805	Russian princesses sitting in the garden
+T334	the_garden-23 1795 1805	the garden
+T447	little_Polish_boys_walking_about_held_by_the_hand___with_their_governors-24 1808 1880	little Polish boys walking about held by the hand , with their governors
+T339	their_governors-25 1865 1880	their governors
+T472	little_Polish_boys_walking_about_held_by_the_hand___with_their_governors-24 1865 1870	their
+T337	the_sunny_crest_of_the_Dent_du_Midi-26 1893 1928	the sunny crest of the Dent du Midi
+T336	the_picturesque_towers_of_the_Castle_of_Chillon-27 1933 1980	the picturesque towers of the Castle of Chillon
+T473	Narrator-28 1983 1984	I
+T448	young_American-29 2080 2259	a young American , who , two or three years ago , sat in the garden of the “ Trois Couronnes , ” looking about him , rather idly , at some of the graceful objects I have mentioned
+T340	the_garden-23 2137 2176	the garden of the “ Trois Couronnes , ”
+T449	Tri_ois_Couronnes-2 2151 2176	the “ Trois Couronnes , ”
+T474	young_American-29 2191 2194	him
+T475	Narrator-28 2243 2244	I
+T450	young_American-29 2322 2340	the young American
+T477	young_American-29 2385 2388	him
+T478	young_American-29 2400 2402	He
+T342	Geneva-30 2417 2423	Geneva
+T451	the_little_steamer-31 2442 2460	the little steamer
+T452	his_aunt-32 2470 2478	his aunt
+T479	young_American-29 2470 2473	his
+T343	Tri_ois_Couronnes-2 2500 2509	the hotel
+T453	Geneva-30 2513 2519	Geneva
+T480	young_American-29 2548 2551	his
+T345	his_aunt-32 2577 2585	his aunt
+T481	young_American-29 2577 2580	his
+T346	his_aunt-32 2604 2612	his aunt
+T482	young_American-29 2604 2607	his
+T483	his_aunt-32 2653 2656	she
+T347	her_room-33 2672 2680	her room
+T484	his_aunt-32 2672 2675	her
+T485	young_American-29 2710 2712	he
+T486	young_American-29 2746 2748	He
+T348	his_friends-34 2795 2806	his friends
+T487	young_American-29 2795 2798	his
+T488	young_American-29 2816 2819	him
+T489	his_friends-34 2822 2826	they
+T490	young_American-29 2845 2847	he
+T344	Geneva-30 2855 2861	Geneva
+T350	his_enemies-35 2882 2893	his enemies
+T491	young_American-29 2882 2885	his
+T492	young_American-29 2903 2906	him
+T493	his_enemies-35 2909 2913	they
+T494	young_American-29 2940 2942	he
+T351	no_enemies-36 2947 2957	no enemies
+T495	young_American-29 2960 2962	he
+T496	Narrator-28 3026 3027	I
+T354	certain_persons-37 3063 3078	certain persons
+T497	young_American-29 3088 3091	him
+T498	certain_persons-37 3092 3096	they
+T499	young_American-29 3125 3128	his
+T355	Geneva-30 3154 3160	Geneva
+T500	young_American-29 3170 3172	he
+T352	a_lady_who_lived_there-38 3198 3220	a lady who lived there
+T466	Geneva-30 3215 3220	there
+T501	young_American-29 3262 3269	himself
+T357	Very_few_Americans-39 3272 3290	Very few Americans
+T502	Narrator-28 3303 3304	I
+T353	a_lady_who_lived_there-38 3333 3388	this lady , about whom there were some singular stories
+T359	Geneva-30 3434 3468	the little metropolis of Calvinism
+T360	young_American-29 3395 3407	Winterbourne
+T503	young_American-29 3471 3473	he
+T468	Geneva-30 3497 3502	there
+T504	young_American-29 3518 3520	he
+T465	college-41 3543 3550	college
+T467	Geneva-30 3551 3556	there
+T505	young_American-29 3591 3594	his
+T506	young_American-29 3653 3655	he
+T508	young_American-29 3715 3718	him
+T363	his_aunt-32 3739 3747	his aunt
+T509	young_American-29 3739 3742	his
+T510	his_aunt-32 3774 3777	she
+T511	young_American-29 3795 3797	he
+T362	Vevey-0 3821 3829	the town
+T512	young_American-29 3841 3843	he
+T513	young_American-29 3859 3862	his
+T514	young_American-29 3875 3877	He
+T515	young_American-29 3895 3898	his
+T516	young_American-29 3915 3917	he
+T517	young_American-29 3980 3983	him
+T364	the_garden-23 4005 4015	the garden
+T367	the_waiters_who_looked_like_an_attache-42 4026 4064	the waiters who looked like an attache
+T365	an_attache-43 4054 4064	an attache
+T518	young_American-29 4075 4077	he
+T519	young_American-29 4087 4090	his
+T369	a_small_boy-44 4130 4141	a small boy
+T370	a_small_boy-44 4200 4244	The child , who was diminutive for his years
+T520	a_small_boy-44 4235 4238	his
+T521	a_small_boy-44 4335 4337	He
+T522	a_small_boy-44 4407 4410	his
+T523	a_small_boy-44 4440 4442	he
+T524	a_small_boy-44 4478 4480	He
+T525	a_small_boy-44 4492 4495	his
+T526	a_small_boy-44 4546 4548	he
+T527	a_small_boy-44 4577 4579	he
+T366	the_garden-23 4611 4621	the garden
+T371	the_ladies-45 4646 4656	the ladies
+T374	young_American-29 4681 4693	Winterbourne
+T528	a_small_boy-44 4694 4696	he
+T529	young_American-29 4717 4720	him
+T530	young_American-29 4778 4781	you
+T531	a_small_boy-44 4787 4789	me
+T532	a_small_boy-44 4810 4812	he
+T375	young_American-29 4902 4914	Winterbourne
+T533	young_American-29 4947 4950	him
+T534	young_American-29 4962 4965	his
+T535	a_small_boy-44 5047 5050	you
+T536	young_American-29 5068 5070	he
+T537	young_American-29 5088 5089	I
+T376	little_boys-46 5121 5132	little boys
+T378	a_small_boy-44 5137 5152	This little boy
+T538	a_small_boy-44 5238 5240	he
+T539	a_small_boy-44 5265 5268	his
+T540	a_small_boy-44 5338 5340	He
+T541	a_small_boy-44 5347 5350	his
+T379	young_American-29 5385 5397	Winterbourne
+T542	a_small_boy-44 5449 5452	his
+T543	a_small_boy-44 5495 5497	he
+T382	young_American-29 5559 5571	Winterbourne
+T544	young_American-29 5603 5605	he
+T545	a_small_boy-44 5639 5642	him
+T546	a_small_boy-44 5680 5683	you
+T547	a_small_boy-44 5696 5700	your
+T548	young_American-29 5711 5713	he
+T549	a_small_boy-44 5736 5737	I
+T551	a_small_boy-44 5796 5797	I
+T383	My_mother-47 5826 5835	My mother
+T552	a_small_boy-44 5826 5828	My
+T554	My_mother-47 5897 5900	She
+T555	My_mother-47 5906 5909	she
+T556	a_small_boy-44 5918 5920	me
+T557	a_small_boy-44 5944 5945	I
+T368	this_old_Europe-48 5969 5984	this old Europe
+T384	America-49 6035 6042	America
+T372	many_hotels-3 6073 6085	these hotels
+T385	young_American-29 6090 6102	Winterbourne
+T560	a_small_boy-44 6126 6129	you
+T386	My_mother-47 6157 6168	your mother
+T561	a_small_boy-44 6157 6161	your
+T562	a_small_boy-44 6189 6192	you
+T563	young_American-29 6197 6199	he
+T564	My_mother-47 6209 6212	She
+T565	a_small_boy-44 6228 6230	me
+T387	a_small_boy-44 6262 6284	his young interlocutor
+T566	young_American-29 6262 6265	his
+T567	a_small_boy-44 6289 6290	I
+T373	American_little_boys-50 6388 6408	American little boys
+T388	the_best_little_boys-51 6409 6429	the best little boys
+T635	young_American-29 6440 6452	Winterbourne
+T568	a_small_boy-44 6457 6458	I
+T569	a_small_boy-44 6473 6474	I
+T377	an_American_boy-52 6478 6493	an American boy
+T390	a_small_boy-44 6503 6512	the child
+T570	young_American-29 6517 6518	I
+T571	a_small_boy-44 6523 6526	you
+T389	young_American-29 6559 6571	Winterbourne
+T572	young_American-29 6580 6583	you
+T391	an_American_man-53 6584 6599	an American man
+T393	a_small_boy-44 6612 6633	this vivacious infant
+T394	young_American-29 6650 6662	Winterbourne
+T395	American_men-54 6689 6701	American men
+T573	a_small_boy-44 6719 6721	he
+T396	young_American-29 6733 6746	His companion
+T574	a_small_boy-44 6733 6736	His
+T575	a_small_boy-44 6755 6758	him
+T392	a_small_boy-44 6784 6793	the child
+T576	a_small_boy-44 6823 6826	his
+T577	a_small_boy-44 6860 6863	him
+T578	a_small_boy-44 6872 6874	he
+T397	young_American-29 6909 6921	Winterbourne
+T579	young_American-29 6934 6936	he
+T580	young_American-29 6937 6944	himself
+T581	young_American-29 6967 6970	his
+T582	young_American-29 6985 6987	he
+T454	this_old_Europe-48 7008 7014	Europe
+T455	my_sister-55 7048 7057	my sister
+T583	a_small_boy-44 7048 7050	my
+T398	a_small_boy-44 7068 7077	the child
+T584	my_sister-55 7094 7097	She
+T456	young_American-29 7122 7134	Winterbourne
+T400	my_sister-55 7165 7187	a beautiful young lady
+T401	American_girls-56 7202 7216	American girls
+T585	young_American-29 7240 7242	he
+T402	a_small_boy-44 7262 7281	his young companion
+T586	young_American-29 7262 7265	his
+T404	my_sister-55 7286 7295	My sister
+T587	a_small_boy-44 7286 7288	My
+T405	a_small_boy-44 7316 7325	the child
+T588	my_sister-55 7339 7342	She
+T589	a_small_boy-44 7364 7366	me
+T590	young_American-29 7373 7374	I
+T591	a_small_boy-44 7391 7395	your
+T406	young_American-29 7422 7434	Winterbourne
+T407	my_sister-55 7437 7451	The young lady
+T592	my_sister-55 7479 7482	She
+T593	my_sister-55 7585 7588	She
+T594	my_sister-55 7610 7613	she
+T595	my_sister-55 7626 7629	her
+T596	my_sister-55 7692 7695	she
+T597	American_girls-56 7745 7749	they
+T408	young_American-29 7766 7778	Winterbourne
+T598	young_American-29 7795 7802	himself
+T599	young_American-29 7806 7809	his
+T600	young_American-29 7823 7825	he
+T412	my_sister-55 7850 7864	The young lady
+T601	young_American-29 7884 7887	his
+T409	the_parapet_of_the_garden___which_overlooked_the_lake-57 7901 7954	the parapet of the garden , which overlooked the lake
+T410	the_garden-23 7916 7926	the garden
+T411	lake-58 7946 7954	the lake
+T414	a_small_boy-44 7957 7971	The little boy
+T602	a_small_boy-44 7990 7993	his
+T603	a_small_boy-44 8048 8050	he
+T413	a_small_boy-44 8120 8128	Randolph
+T415	my_sister-55 8138 8152	the young lady
+T604	a_small_boy-44 8166 8169	you
+T605	a_small_boy-44 8182 8183	I
+T457	the_Alps-59 8196 8204	the Alps
+T458	a_small_boy-44 8217 8225	Randolph
+T606	a_small_boy-44 8254 8256	he
+T416	young_American-29 8313 8325	Winterbourne
+T417	young_American-29 8378 8390	Winterbourne
+T608	young_American-29 8395 8397	He
+T459	a_small_boy-44 8427 8435	Randolph
+T609	a_small_boy-44 8441 8444	his
+T420	my_sister-55 8465 8479	The young lady
+T419	a_small_boy-44 8539 8550	her brother
+T610	my_sister-55 8539 8542	her
+T611	my_sister-55 8562 8563	I
+T612	a_small_boy-44 8570 8573	you
+T613	my_sister-55 8598 8601	she
+T421	young_American-29 8633 8645	Winterbourne
+T614	young_American-29 8651 8653	he
+T615	young_American-29 8687 8689	He
+T422	my_sister-55 8723 8737	the young girl
+T616	young_American-29 8754 8757	his
+T460	a_small_boy-44 8772 8787	This little boy
+T617	young_American-29 8792 8793	I
+T618	young_American-29 8821 8823	he
+T424	Geneva-30 8856 8862	Geneva
+T619	young_American-29 8868 8870	he
+T425	a_young_man-60 8898 8909	a young man
+T423	a_young_unmarried_lady-61 8941 8963	a young unmarried lady
+T469	Vevey-0 9019 9023	here
+T461	Vevey-0 9027 9032	Vevey
+T428	my_sister-55 9083 9105	a pretty American girl
+T620	you-62 9138 9141	you
+T426	the_garden-23 9145 9153	a garden
+T430	my_sister-55 9156 9181	This pretty American girl
+T427	young_American-29 9205 9217	Winterbourne
+T621	young_American-29 9253 9256	him
+T622	my_sister-55 9259 9262	she
+T623	my_sister-55 9275 9278	her
+T429	the_parapet_of_the_garden___which_overlooked_the_lake-57 9300 9311	the parapet
+T462	lake-58 9317 9325	the lake
+T463	the_opposite_mountains-63 9330 9352	the opposite mountains
+T624	young_American-29 9355 9357	He
+T625	young_American-29 9375 9377	he
+T626	young_American-29 9401 9403	he
+T627	young_American-29 9417 9419	he
+T628	young_American-29 9471 9473	he
+T431	my_sister-55 9514 9528	the young lady
+T432	a_small_boy-44 9539 9553	the little boy
+T629	my_sister-55 9564 9565	I
+T630	a_small_boy-44 9592 9595	you
+T631	my_sister-55 9614 9617	she
+T632	a_small_boy-44 9627 9628	I
+T464	a_small_boy-44 9653 9661	Randolph
+T633	a_small_boy-44 9666 9669	You
+T634	a_small_boy-44 9689 9692	you
+T433	Italy-64 9717 9722	Italy
+R1	appos Arg1:T118 Arg2:T349
+R2	cop Arg1:T30 Arg2:T176
+R3	appos Arg1:T37 Arg2:T33
+R4	cop Arg1:T39 Arg2:T184
+R6	cop Arg1:T62 Arg2:T226
+R7	cop Arg1:T61 Arg2:T252
+R8	cop Arg1:T80 Arg2:T265
+R9	cop Arg1:T84 Arg2:T82
+R10	cop Arg1:T99 Arg2:T289
+T349	NOM_LOC 267 289	a remarkably blue lake
+T356	lake-58 267 289	a remarkably blue lake
+T317	NOM_LOC 355 363	the lake
+T358	lake-58 355 363	the lake
+R11	cop Arg1:T22 Arg2:T134
+T638	PRON_FAC 573 576	its
+T639	the___grand_hotel___of_the_newest_fashion___with_a_chalk-white_front___a_hundred_balconies___and_a_dozen_flags_flying_from_its_roof-9 573 576	its
+T640	PRON_FAC 635 638	its
+T641	the_little_Swiss_pension_of_an_elder_day___with_its_name_inscribed_in_German-looking_lettering_upon_a_pink_or_yellow_wall_and_an_awkward_summerhouse_in_the_angle_of_the_garden-10 635 638	its
+T642	PRON_FAC 866 869	its
+T643	Tri_ois_Couronnes-2 866 869	its
+T151	a_small_boy-44 4173 4197	an urchin of nine or ten

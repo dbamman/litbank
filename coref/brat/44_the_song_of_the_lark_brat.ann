@@ -1,0 +1,602 @@
+T1	NOM_PER 91 110	the Jewish clothier
+T2	PROP_PER 31 48	Dr. Howard Archie
+T3	NOM_PER 205 219	the Duke Block
+T4	NOM_FAC 227 241	the drug store
+T5	NOM_PER 252 269	the doctor 's man
+T6	NOM_PER 489 499	the doctor
+T7	NOM_FAC 645 661	a country parlor
+T8	NOM_FAC 576 592	The waiting room
+T9	NOM_PER 1174 1208	the doctor in New England villages
+T11	PROP_PER 1313 1323	Dr. Archie
+T12	NOM_LOC 1492 1501	the world
+T13	PROP_PER 1834 1846	Napoleon III
+T14	NOM_PER 2013 2030	the traveling men
+T15	PROP_GPE 2075 2081	Denver
+T16	NOM_PER 2091 2101	The doctor
+T17	PROP_PER 2128 2138	Dr. Archie
+T19	NOM_PER 2655 2665	the doctor
+T20	NOM_PER 2877 2887	the doctor
+T21	NOM_FAC 2842 2866	the empty , echoing hall
+T23	NOM_PER 2979 2984	a man
+T25	PROP_PER 3049 3061	Mr. Kronborg
+T26	NOM_PER 3110 3121	His visitor
+T29	PROP_PER 3499 3512	Mrs. Kronborg
+T30	NOM_PER 3651 3661	the doctor
+T31	PROP_PER 3723 3735	Mr. Kronborg
+T32	PROP_PER 3995 4008	Mrs. Kronborg
+T33	NOM_PER 4094 4104	The doctor
+T35	NOM_FAC 4343 4357	the empty hall
+T36	PROP_PER 4300 4312	Mr. Kronborg
+T37	NOM_FAC 4383 4393	the street
+T38	NOM_FAC 4396 4410	The drug store
+T39	PROP_FAC 4493 4504	Main Street
+T40	NOM_FAC 4533 4541	the road
+T41	NOM_FAC 4567 4585	the board sidewalk
+T42	NOM_GPE 4634 4642	The town
+T45	NOM_PER 4999 5009	the doctor
+T46	PROP_PER 5230 5243	Mrs. Kronborg
+T47	PROP_PER 5356 5369	Fay Templeton
+T48	PROP_GPE 5341 5347	Denver
+T49	NOM_FAC 5610 5617	kitchen
+T50	NOM_FAC 5486 5500	another street
+T51	NOM_PER 5815 5825	the doctor
+T52	NOM_FAC 6246 6250	home
+T53	NOM_FAC 6259 6273	The front hall
+T54	PROP_PER 6538 6552	Peter Kronborg
+T55	NOM_PER 6500 6510	the doctor
+T56	NOM_FAC 6811 6821	that house
+T59	PROP_PER 6719 6729	Dr. Archie
+T61	NOM_PER 6942 6952	the doctor
+T62	PROP_PER 6911 6924	Mrs. Kronborg
+T63	NOM_PER 6900 6908	his aunt
+T64	NOM_PER 6858 6863	a boy
+T65	NOM_FAC 7069 7076	kitchen
+T66	NOM_PER 7088 7098	the doctor
+T67	NOM_FAC 7160 7174	the wing rooms
+T68	NOM_FAC 7250 7257	kitchen
+T71	PROP_PER 7510 7523	Mrs. Kronborg
+T72	NOM_PER 7547 7553	doctor
+T74	NOM_PER 7642 7655	a fine mother
+T75	NOM_PER 7660 7670	The doctor
+T76	NOM_FAC 7741 7754	the wing room
+T77	NOM_FAC 7697 7704	kitchen
+T78	NOM_PER 7757 7779	Two chubby little boys
+T80	NOM_PER 8056 8066	The doctor
+T81	NOM_PER 8319 8329	a new baby
+T82	NOM_PER 8378 8388	the doctor
+T83	NOM_PER 8404 8410	sister
+T84	PROP_PER 8393 8400	Brother
+T85	PROP_PER 8465 8472	Brother
+T86	PROP_PER 8525 8533	Brothers
+T87	PROP_PER 8645 8655	Dr. Archie
+T88	PROP_PER 9082 9096	Peter Kronborg
+T89	NOM_PER 9166 9173	his son
+T90	NOM_FAC 9112 9128	his wife 's room
+T91	NOM_PER 9266 9276	the doctor
+T92	PROP_PER 9291 9299	Kronborg
+T93	NOM_PER 9357 9374	a very sick child
+T94	NOM_PER 9488 9496	the baby
+T95	NOM_FAC 9566 9576	the parlor
+T96	NOM_FAC 9599 9610	a warm room
+T97	NOM_PER 9656 9674	the other children
+T98	NOM_PER 8 28	FRIENDS OF CHILDHOOD
+T99	PROP_GPE 173 182	Moonstone
+T100	NOM_PER 115 182	two traveling men who happened to be staying overnight in Moonstone
+T101	NOM_FAC 185 196	His offices
+T102	PROP_PER 244 249	Larry
+T103	NOM_FAC 302 318	the waiting-room
+T104	NOM_FAC 365 374	the study
+T105	NOM_FAC 449 458	the study
+T106	NOM_FAC 521 546	his little operating-room
+T107	NOM_FAC 664 673	The study
+T108	NOM_PER 754 764	The doctor
+T109	PROP_LOC 1188 1199	New England
+T110	NOM_GPE 1188 1208	New England villages
+T10	PROP_GPE 1254 1262	Colorado
+T111	NOM_GPE 1248 1268	small Colorado towns
+T112	NOM_PER 1234 1268	the doctor in small Colorado towns
+T113	NOM_PER 1445 1472	a distinguished-looking man
+T114	NOM_LOC 1479 1501	that part of the world
+T115	NOM_PER 2073 2088	a Denver tailor
+T18	NOM_FAC 2577 2585	the hall
+T22	NOM_FAC 2953 2969	the waiting-room
+T117	NOM_FAC 3010 3029	the consulting-room
+T24	NOM_PER 3071 3081	the doctor
+T118	NOM_PER 3126 3199	a tall , loosely built man , with a thin brown beard , streaked with gray
+T27	NOM_PER 3439 3445	doctor
+T28	NOM_FAC 3471 3480	the house
+T119	NOM_FAC 3702 3720	his operating-room
+T34	NOM_PER 4184 4191	his man
+T120	NOM_FAC 4367 4379	the stairway
+T121	NOM_FAC 4432 4442	the saloon
+T122	PROP_GPE 4871 4880	Moonstone
+T123	NOM_LOC 4835 4880	the white sand hills to the east of Moonstone
+T124	NOM_FAC 4940 4955	the narrow walk
+T43	NOM_FAC 4963 4996	the little dark , sleeping houses
+T125	NOM_PER 5443 5454	this family
+T126	NOM_FAC 5539 5638	a low story-and-a-half house , with a wing built on at the right and a kitchen addition at the back
+T127	PROP_PER 5737 5751	Peter Kronborg
+T128	PROP_PER 5964 5972	Kronborg
+T129	NOM_PER 6175 6181	doctor
+T130	PROP_PER 6186 6194	Kronborg
+T131	NOM_PER 6345 6353	children
+T132	NOM_FAC 6574 6589	the living-room
+T58	NOM_FAC 6737 6747	the parlor
+T57	NOM_FAC 6791 6807	no spare bedroom
+T60	PROP_PER 6824 6838	Peter Kronborg
+T133	NOM_PER 6824 6855	Peter Kronborg 's seventh child
+T134	NOM_FAC 6963 6967	home
+T135	PROP_PER 7002 7010	Kronborg
+T136	NOM_FAC 7107 7122	the dining-room
+T137	NOM_FAC 7153 7174	one of the wing rooms
+T69	NOM_PER 7274 7286	the children
+T138	NOM_PER 7267 7286	One of the children
+T139	PROP_PER 7347 7355	Kronborg
+T70	PROP_PER 7419 7423	Thea
+T73	NOM_PER 7568 7581	your patients
+T140	NOM_PER 7560 7581	many of your patients
+T79	PROP_PER 8115 8119	Thea
+T141	NOM_PER 9112 9120	his wife
+T142	NOM_FAC 9305 9320	the living-room
+T44	PROP_PER 4921 4933	Mr. Kronborg
+T143	NOM_PER 4908 4920	the Reverend
+T158	NOM_PER 5081 5087	people
+T159	NOM_PER 8189 8197	somebody
+T160	NOM_PER 7911 7934	a little girl of eleven
+T161	NOM_FAC 7295 7300	there
+T162	NOM_FAC 9378 9383	there
+T163	NOM_FAC 9558 9562	here
+T165	PRON_PER 185 188	His
+T166	PRON_PER 478 480	he
+T167	PRON_PER 521 524	his
+T168	PRON_PER 1344 1346	He
+T169	PRON_PER 1387 1389	he
+T170	PRON_PER 1438 1440	He
+T171	PRON_PER 1566 1569	his
+T172	PRON_PER 1632 1635	his
+T173	PRON_PER 1652 1655	His
+T174	PRON_PER 1690 1693	his
+T175	PRON_PER 1718 1720	He
+T176	PRON_PER 1795 1798	him
+T177	PRON_PER 1849 1852	His
+T178	PRON_PER 1962 1964	He
+T179	PRON_PER 2209 2212	his
+T180	PRON_PER 2220 2222	He
+T181	PRON_PER 2258 2261	his
+T182	PRON_PER 2273 2276	his
+T183	PRON_PER 2304 2307	him
+T184	PRON_PER 2314 2316	he
+T185	PRON_PER 2330 2332	He
+T186	PRON_PER 2344 2347	his
+T187	PRON_PER 2380 2383	his
+T188	PRON_PER 2501 2504	his
+T189	PRON_PER 2516 2519	his
+T190	PRON_PER 2594 2597	his
+T191	PRON_PER 3110 3113	His
+T192	PRON_PER 3202 3204	He
+T193	PRON_PER 3365 3368	him
+T194	PRON_PER 3374 3376	he
+T195	PRON_PER 3398 3401	his
+T196	PRON_PER 3452 3455	you
+T197	PRON_PER 3486 3488	me
+T198	PRON_PER 3491 3492	I
+T199	PRON_PER 3523 3526	you
+T200	PRON_PER 3673 3676	his
+T201	PRON_PER 3689 3691	he
+T202	PRON_PER 3702 3705	his
+T203	PRON_PER 3751 3754	his
+T204	PRON_PER 3777 3780	his
+T205	PRON_PER 3789 3792	His
+T206	PRON_PER 3871 3873	He
+T207	PRON_PER 3909 3912	his
+T208	PRON_PER 3947 3948	I
+T209	PRON_PER 4037 4040	you
+T210	PRON_PER 4053 4056	She
+T211	PRON_PER 4142 4145	his
+T212	PRON_PER 4153 4155	He
+T213	PRON_PER 4184 4187	his
+T214	PRON_PER 4231 4234	his
+T215	PRON_PER 4262 4264	he
+T216	PRON_PER 4289 4292	his
+T217	PRON_PER 4322 4326	they
+T219	PRON_PER 5107 5111	they
+T220	PRON_PER 5263 5266	she
+T221	PRON_PER 5311 5313	He
+T222	PRON_PER 5321 5323	he
+T223	PRON_PER 5394 5396	he
+T224	PRON_PER 5413 5415	he
+T225	PRON_PER 5469 5473	They
+T226	PRON_PER 5516 5520	them
+T227	PRON_PER 5710 5714	they
+T228	PRON_PER 5775 5778	His
+T229	PRON_PER 5844 5846	he
+T230	PRON_PER 5881 5883	he
+T231	PRON_PER 5894 5896	He
+T232	PRON_PER 5906 5909	his
+T233	PRON_PER 5928 5931	his
+T234	PRON_PER 5977 5979	he
+T235	PRON_PER 6011 6013	me
+T236	PRON_PER 6074 6077	you
+T237	PRON_PER 6086 6089	you
+T238	PRON_PER 6092 6093	I
+T239	PRON_PER 6124 6125	I
+T240	PRON_PER 6146 6148	my
+T241	PRON_PER 6166 6168	we
+T242	PRON_PER 6202 6205	his
+T244	PRON_PER 6519 6522	his
+T245	PRON_PER 6617 6621	them
+T246	PRON_PER 6759 6762	his
+T247	PRON_PER 6900 6903	his
+T248	PRON_PER 6974 6976	he
+T249	PRON_PER 7123 7125	he
+T250	PRON_PER 7195 7197	he
+T251	PRON_PER 7235 7237	He
+T252	PRON_PER 7305 7307	he
+T253	PRON_PER 7392 7395	his
+T254	PRON_PER 7426 7427	I
+T255	PRON_PER 7441 7444	you
+T256	PRON_PER 7456 7459	her
+T257	PRON_PER 7462 7465	She
+T258	PRON_PER 7493 7495	my
+T259	PRON_PER 7568 7572	your
+T260	PRON_PER 7609 7610	I
+T261	PRON_PER 7635 7638	She
+T262	PRON_PER 7834 7839	their
+T263	PRON_PER 7850 7855	their
+T264	PRON_PER 8001 8004	her
+T265	PRON_PER 8007 8010	Her
+T266	PRON_PER 8032 8035	her
+T267	PRON_PER 8088 8091	him
+T268	PRON_PER 8124 8126	he
+T269	PRON_PER 8136 8138	he
+T270	PRON_PER 8148 8151	his
+T271	PRON_PER 8180 8183	you
+T272	PRON_PER 8202 8205	She
+T273	PRON_PER 8216 8219	him
+T274	PRON_PER 8246 8247	I
+T275	PRON_PER 8256 8259	you
+T276	PRON_PER 8274 8277	she
+T277	PRON_PER 8415 8417	He
+T278	PRON_PER 8477 8479	he
+T279	PRON_PER 8494 8497	her
+T280	PRON_PER 8549 8552	she
+T281	PRON_PER 8565 8567	he
+T282	PRON_PER 8593 8596	her
+T283	PRON_PER 8625 8626	I
+T284	PRON_PER 8668 8671	her
+T285	PRON_PER 8690 8693	his
+T286	PRON_PER 8707 8709	he
+T287	PRON_PER 8714 8717	her
+T288	PRON_PER 8744 8746	he
+T290	PRON_PER 8840 8842	He
+T291	PRON_PER 8862 8865	his
+T292	PRON_PER 8931 8932	I
+T293	PRON_PER 8950 8953	you
+T294	PRON_PER 8970 8972	he
+T295	PRON_PER 9013 9016	his
+T296	PRON_PER 9031 9033	He
+T297	PRON_PER 9044 9047	her
+T298	PRON_PER 9069 9071	he
+T299	PRON_PER 9112 9115	his
+T300	PRON_PER 9166 9169	his
+T301	PRON_PER 9176 9179	His
+T302	PRON_PER 9209 9212	his
+T303	PRON_PER 9238 9241	his
+T304	PRON_PER 9279 9281	He
+T305	PRON_PER 9345 9348	You
+T306	PRON_PER 9398 9401	you
+T307	PRON_PER 9407 9409	me
+T308	PRON_PER 9441 9444	she
+T309	PRON_PER 9532 9534	me
+T310	PRON_PER 9579 9582	She
+T311	PRON_PER 9617 9620	she
+T312	PRON_PER 9642 9645	You
+T313	PRON_PER 9710 9711	I
+T314	PRON_PER 9767 9769	We
+T315	PRON_PER 9779 9782	her
+T316	PRON_PER 9802 9805	her
+T317	PRON_PER 9817 9820	she
+T318	PRON_PER 9826 9827	I
+T319	PRON_PER 9851 9854	her
+T418	FRIENDS_OF_CHILDHOOD-100000 8 28	FRIENDS OF CHILDHOOD
+T322	Dr__Howard_Archie-0 31 48	Dr. Howard Archie
+T321	the_Jewish_clothier-1 91 110	the Jewish clothier
+T420	two_traveling_men_who_happened_to_be_staying_overnight_in_Moonstone-2 115 182	two traveling men who happened to be staying overnight in Moonstone
+T419	Moonstone-3 173 182	Moonstone
+T421	His_offices-4 185 196	His offices
+T485	Dr__Howard_Archie-0 185 188	His
+T323	the_Duke_Block-5 205 219	the Duke Block
+T324	the_drug_store-6 227 241	the drug store
+T422	Larry-7 244 249	Larry
+T423	the_waiting-room-8 302 318	the waiting-room
+T424	the_study-9 365 374	the study
+T425	the_study-9 449 458	the study
+T486	Dr__Howard_Archie-0 478 480	he
+T326	Dr__Howard_Archie-0 489 499	the doctor
+T426	his_little_operating-room-10 521 546	his little operating-room
+T487	Dr__Howard_Archie-0 521 524	his
+T328	the_waiting-room-8 576 592	The waiting room
+T327	a_country_parlor-11 645 661	a country parlor
+T427	the_study-9 664 673	The study
+T428	Dr__Howard_Archie-0 754 764	The doctor
+T329	the_doctor_in_New_England_villages-12 1174 1208	the doctor in New England villages
+T429	New_England-13 1188 1199	New England
+T430	New_England_villages-14 1188 1208	New England villages
+T432	the_doctor_in_small_Colorado_towns-15 1234 1268	the doctor in small Colorado towns
+T431	small_Colorado_towns-16 1248 1268	small Colorado towns
+T330	Colorado-17 1254 1262	Colorado
+T331	Dr__Howard_Archie-0 1313 1323	Dr. Archie
+T488	Dr__Howard_Archie-0 1344 1346	He
+T489	Dr__Howard_Archie-0 1387 1389	he
+T490	Dr__Howard_Archie-0 1438 1440	He
+T434	that_part_of_the_world-18 1479 1501	that part of the world
+T332	the_world-19 1492 1501	the world
+T491	Dr__Howard_Archie-0 1566 1569	his
+T492	Dr__Howard_Archie-0 1632 1635	his
+T493	Dr__Howard_Archie-0 1652 1655	His
+T494	Dr__Howard_Archie-0 1690 1693	his
+T495	Dr__Howard_Archie-0 1718 1720	He
+T496	Dr__Howard_Archie-0 1795 1798	him
+T333	Napoleon_III-20 1834 1846	Napoleon III
+T497	Dr__Howard_Archie-0 1849 1852	His
+T498	Dr__Howard_Archie-0 1962 1964	He
+T334	two_traveling_men_who_happened_to_be_staying_overnight_in_Moonstone-2 2013 2030	the traveling men
+T435	a_Denver_tailor-21 2073 2088	a Denver tailor
+T335	Denver-22 2075 2081	Denver
+T336	Dr__Howard_Archie-0 2091 2101	The doctor
+T337	Dr__Howard_Archie-0 2128 2138	Dr. Archie
+T499	Dr__Howard_Archie-0 2209 2212	his
+T500	Dr__Howard_Archie-0 2220 2222	He
+T501	Dr__Howard_Archie-0 2258 2261	his
+T502	Dr__Howard_Archie-0 2273 2276	his
+T503	Dr__Howard_Archie-0 2304 2307	him
+T504	Dr__Howard_Archie-0 2314 2316	he
+T505	Dr__Howard_Archie-0 2330 2332	He
+T506	Dr__Howard_Archie-0 2344 2347	his
+T507	Dr__Howard_Archie-0 2380 2383	his
+T508	Dr__Howard_Archie-0 2501 2504	his
+T509	Dr__Howard_Archie-0 2516 2519	his
+T338	the_hall-23 2577 2585	the hall
+T510	Dr__Howard_Archie-0 2594 2597	his
+T339	Dr__Howard_Archie-0 2655 2665	the doctor
+T341	the_hall-23 2842 2866	the empty , echoing hall
+T340	Dr__Howard_Archie-0 2877 2887	the doctor
+T342	the_waiting-room-8 2953 2969	the waiting-room
+T343	Mr__Kronborg-24 2979 2984	a man
+T437	the_consulting-room-25 3010 3029	the consulting-room
+T345	Mr__Kronborg-24 3049 3061	Mr. Kronborg
+T344	Dr__Howard_Archie-0 3071 3081	the doctor
+T346	Mr__Kronborg-24 3110 3121	His visitor
+T511	Dr__Howard_Archie-0 3110 3113	His
+T512	Mr__Kronborg-24 3202 3204	He
+T513	Mr__Kronborg-24 3365 3368	him
+T514	Mr__Kronborg-24 3374 3376	he
+T515	Mr__Kronborg-24 3398 3401	his
+T347	Dr__Howard_Archie-0 3439 3445	doctor
+T516	Dr__Howard_Archie-0 3452 3455	you
+T348	the_house-26 3471 3480	the house
+T517	Mr__Kronborg-24 3486 3488	me
+T518	Mr__Kronborg-24 3491 3492	I
+T349	Mrs__Kronborg-27 3499 3512	Mrs. Kronborg
+T519	Dr__Howard_Archie-0 3523 3526	you
+T350	Dr__Howard_Archie-0 3651 3661	the doctor
+T520	Dr__Howard_Archie-0 3673 3676	his
+T521	Dr__Howard_Archie-0 3689 3691	he
+T439	his_little_operating-room-10 3702 3720	his operating-room
+T522	Dr__Howard_Archie-0 3702 3705	his
+T351	Mr__Kronborg-24 3723 3735	Mr. Kronborg
+T523	Mr__Kronborg-24 3751 3754	his
+T524	Mr__Kronborg-24 3777 3780	his
+T525	Mr__Kronborg-24 3789 3792	His
+T526	Mr__Kronborg-24 3871 3873	He
+T527	Mr__Kronborg-24 3909 3912	his
+T528	Mr__Kronborg-24 3947 3948	I
+T352	Mrs__Kronborg-27 3995 4008	Mrs. Kronborg
+T529	Dr__Howard_Archie-0 4037 4040	you
+T530	Mrs__Kronborg-27 4053 4056	She
+T353	Dr__Howard_Archie-0 4094 4104	The doctor
+T531	Dr__Howard_Archie-0 4142 4145	his
+T532	Dr__Howard_Archie-0 4153 4155	He
+T354	Larry-7 4184 4191	his man
+T533	Dr__Howard_Archie-0 4184 4187	his
+T534	Dr__Howard_Archie-0 4231 4234	his
+T535	Dr__Howard_Archie-0 4262 4264	he
+T536	Dr__Howard_Archie-0 4289 4292	his
+T356	Mr__Kronborg-24 4300 4312	Mr. Kronborg
+T537	they-28 4322 4326	they
+T355	the_hall-23 4343 4357	the empty hall
+T440	the_stairway-29 4367 4379	the stairway
+T357	the_street-30 4383 4393	the street
+T358	the_drug_store-6 4396 4410	The drug store
+T441	the_saloon-31 4432 4442	the saloon
+T359	Main_Street-32 4493 4504	Main Street
+T360	the_road-33 4533 4541	the road
+T361	the_board_sidewalk-34 4567 4585	the board sidewalk
+T362	The_town-35 4634 4642	The town
+T443	the_white_sand_hills_to_the_east_of_Moonstone-36 4835 4880	the white sand hills to the east of Moonstone
+T442	Moonstone-3 4871 4880	Moonstone
+T463	Mr__Kronborg-24 4908 4920	the Reverend
+T364	Mr__Kronborg-24 4921 4933	Mr. Kronborg
+T444	the_narrow_walk-37 4940 4955	the narrow walk
+T363	the_little_dark___sleeping_houses-38 4963 4996	the little dark , sleeping houses
+T365	Dr__Howard_Archie-0 4999 5009	the doctor
+T478	people-39 5081 5087	people
+T539	people-39 5107 5111	they
+T366	Mrs__Kronborg-27 5230 5243	Mrs. Kronborg
+T540	Mrs__Kronborg-27 5263 5266	she
+T541	Dr__Howard_Archie-0 5311 5313	He
+T542	Dr__Howard_Archie-0 5321 5323	he
+T368	Denver-22 5341 5347	Denver
+T367	Fay_Templeton-40 5356 5369	Fay Templeton
+T543	Dr__Howard_Archie-0 5394 5396	he
+T544	Dr__Howard_Archie-0 5413 5415	he
+T445	this_family-41 5443 5454	this family
+T545	they-28 5469 5473	They
+T370	another_street-42 5486 5500	another street
+T546	they-28 5516 5520	them
+T446	a_low_story-and-a-half_house___with_a_wing_built_on_at_the_right_and_a_kitchen_addition_at_the_back-43 5539 5638	a low story-and-a-half house , with a wing built on at the right and a kitchen addition at the back
+T369	kitchen-44 5610 5617	kitchen
+T547	they-28 5710 5714	they
+T447	Mr__Kronborg-24 5737 5751	Peter Kronborg
+T548	Mr__Kronborg-24 5775 5778	His
+T371	Dr__Howard_Archie-0 5815 5825	the doctor
+T549	Mr__Kronborg-24 5844 5846	he
+T550	Dr__Howard_Archie-0 5881 5883	he
+T551	Dr__Howard_Archie-0 5894 5896	He
+T552	Dr__Howard_Archie-0 5906 5909	his
+T553	Dr__Howard_Archie-0 5928 5931	his
+T448	Mr__Kronborg-24 5964 5972	Kronborg
+T554	Dr__Howard_Archie-0 5977 5979	he
+T555	Dr__Howard_Archie-0 6011 6013	me
+T556	Dr__Howard_Archie-0 6074 6077	you
+T557	Dr__Howard_Archie-0 6086 6089	you
+T558	Mr__Kronborg-24 6092 6093	I
+T559	Mr__Kronborg-24 6124 6125	I
+T560	Mr__Kronborg-24 6146 6148	my
+T561	they-28 6166 6168	we
+T449	Dr__Howard_Archie-0 6175 6181	doctor
+T450	Mr__Kronborg-24 6186 6194	Kronborg
+T562	Mr__Kronborg-24 6202 6205	his
+T372	home-45 6246 6250	home
+T373	The_front_hall-46 6259 6273	The front hall
+T451	children-47 6345 6353	children
+T375	Dr__Howard_Archie-0 6500 6510	the doctor
+T564	Dr__Howard_Archie-0 6519 6522	his
+T374	Mr__Kronborg-24 6538 6552	Peter Kronborg
+T452	the_living-room-48 6574 6589	the living-room
+T565	they-28 6617 6621	them
+T379	Dr__Howard_Archie-0 6719 6729	Dr. Archie
+T378	the_parlor-49 6737 6747	the parlor
+T566	Dr__Howard_Archie-0 6759 6762	his
+T377	no_spare_bedroom-50 6791 6807	no spare bedroom
+T376	a_low_story-and-a-half_house___with_a_wing_built_on_at_the_right_and_a_kitchen_addition_at_the_back-43 6811 6821	that house
+T380	Mr__Kronborg-24 6824 6838	Peter Kronborg
+T453	Peter_Kronborg__s_seventh_child-51 6824 6855	Peter Kronborg 's seventh child
+T383	his_aunt-52 6900 6908	his aunt
+T567	Peter_Kronborg__s_seventh_child-51 6900 6903	his
+T382	Mrs__Kronborg-27 6911 6924	Mrs. Kronborg
+T381	Dr__Howard_Archie-0 6942 6952	the doctor
+T454	home-53 6963 6967	home
+T568	Dr__Howard_Archie-0 6974 6976	he
+T455	Mr__Kronborg-24 7002 7010	Kronborg
+T385	kitchen-44 7069 7076	kitchen
+T386	Dr__Howard_Archie-0 7088 7098	the doctor
+T456	the_dining-room-54 7107 7122	the dining-room
+T569	Dr__Howard_Archie-0 7123 7125	he
+T457	one_of_the_wing_rooms-55 7153 7174	one of the wing rooms
+T387	the_wing_rooms-56 7160 7174	the wing rooms
+T570	Dr__Howard_Archie-0 7195 7197	he
+T571	Dr__Howard_Archie-0 7235 7237	He
+T388	kitchen-44 7250 7257	kitchen
+T458	One_of_the_children-57 7267 7286	One of the children
+T389	the_children-58 7274 7286	the children
+T481	one_of_the_wing_rooms-55 7295 7300	there
+T572	Dr__Howard_Archie-0 7305 7307	he
+T459	Mr__Kronborg-24 7347 7355	Kronborg
+T573	Mr__Kronborg-24 7392 7395	his
+T390	Thea_Kronborg-59 7419 7423	Thea
+T574	Mr__Kronborg-24 7426 7427	I
+T575	Dr__Howard_Archie-0 7441 7444	you
+T576	Thea_Kronborg-59 7456 7459	her
+T577	Thea_Kronborg-59 7462 7465	She
+T578	Mr__Kronborg-24 7493 7495	my
+T391	Mrs__Kronborg-27 7510 7523	Mrs. Kronborg
+T392	Dr__Howard_Archie-0 7547 7553	doctor
+T460	many_of_your_patients-60 7560 7581	many of your patients
+T393	your_patients-61 7568 7581	your patients
+T579	Dr__Howard_Archie-0 7568 7572	your
+T580	Mr__Kronborg-24 7609 7610	I
+T581	Mrs__Kronborg-27 7635 7638	She
+T395	Dr__Howard_Archie-0 7660 7670	The doctor
+T397	kitchen-44 7697 7704	kitchen
+T396	one_of_the_wing_rooms-55 7741 7754	the wing room
+T398	Two_chubby_little_boys-62 7757 7779	Two chubby little boys
+T582	Two_chubby_little_boys-62 7834 7839	their
+T583	Two_chubby_little_boys-62 7850 7855	their
+T480	Thea_Kronborg-59 7911 7934	a little girl of eleven
+T584	Thea_Kronborg-59 8001 8004	her
+T585	Thea_Kronborg-59 8007 8010	Her
+T586	Thea_Kronborg-59 8032 8035	her
+T400	Dr__Howard_Archie-0 8056 8066	The doctor
+T587	Dr__Howard_Archie-0 8088 8091	him
+T399	Thea_Kronborg-59 8115 8119	Thea
+T588	Dr__Howard_Archie-0 8124 8126	he
+T589	Dr__Howard_Archie-0 8136 8138	he
+T590	Dr__Howard_Archie-0 8148 8151	his
+T591	Thea_Kronborg-59 8180 8183	you
+T479	somebody-63 8189 8197	somebody
+T592	Thea_Kronborg-59 8202 8205	She
+T593	Dr__Howard_Archie-0 8216 8219	him
+T594	Thea_Kronborg-59 8246 8247	I
+T595	Dr__Howard_Archie-0 8256 8259	you
+T596	Thea_Kronborg-59 8274 8277	she
+T401	a_new_baby-64 8319 8329	a new baby
+T402	Dr__Howard_Archie-0 8378 8388	the doctor
+T404	Brother-65 8393 8400	Brother
+T403	sister-66 8404 8410	sister
+T597	Dr__Howard_Archie-0 8415 8417	He
+T405	Brother-67 8465 8472	Brother
+T598	Dr__Howard_Archie-0 8477 8479	he
+T599	Thea_Kronborg-59 8494 8497	her
+T406	Brothers-68 8525 8533	Brothers
+T600	Thea_Kronborg-59 8549 8552	she
+T601	Dr__Howard_Archie-0 8565 8567	he
+T602	Thea_Kronborg-59 8593 8596	her
+T603	Dr__Howard_Archie-0 8625 8626	I
+T407	Dr__Howard_Archie-0 8645 8655	Dr. Archie
+T604	Thea_Kronborg-59 8668 8671	her
+T605	Dr__Howard_Archie-0 8690 8693	his
+T606	Dr__Howard_Archie-0 8707 8709	he
+T607	Thea_Kronborg-59 8714 8717	her
+T608	Dr__Howard_Archie-0 8744 8746	he
+T610	Dr__Howard_Archie-0 8840 8842	He
+T611	Dr__Howard_Archie-0 8862 8865	his
+T612	Dr__Howard_Archie-0 8931 8932	I
+T613	Thea_Kronborg-59 8950 8953	you
+T614	Dr__Howard_Archie-0 8970 8972	he
+T615	Dr__Howard_Archie-0 9013 9016	his
+T616	Dr__Howard_Archie-0 9031 9033	He
+T617	Thea_Kronborg-59 9044 9047	her
+T618	Dr__Howard_Archie-0 9069 9071	he
+T408	Mr__Kronborg-24 9082 9096	Peter Kronborg
+T410	his_wife__s_room-69 9112 9128	his wife 's room
+T461	Mrs__Kronborg-27 9112 9120	his wife
+T619	Mr__Kronborg-24 9112 9115	his
+T409	a_new_baby-64 9166 9173	his son
+T620	Mr__Kronborg-24 9166 9169	his
+T621	Mr__Kronborg-24 9176 9179	His
+T622	Mr__Kronborg-24 9209 9212	his
+T623	Mr__Kronborg-24 9238 9241	his
+T411	Dr__Howard_Archie-0 9266 9276	the doctor
+T624	Dr__Howard_Archie-0 9279 9281	He
+T412	Mr__Kronborg-24 9291 9299	Kronborg
+T462	the_living-room-48 9305 9320	the living-room
+T625	Mr__Kronborg-24 9345 9348	You
+T413	Thea_Kronborg-59 9357 9374	a very sick child
+T482	one_of_the_wing_rooms-55 9378 9383	there
+T626	Mr__Kronborg-24 9398 9401	you
+T627	Dr__Howard_Archie-0 9407 9409	me
+T628	Thea_Kronborg-59 9441 9444	she
+T414	a_new_baby-64 9488 9496	the baby
+T629	Dr__Howard_Archie-0 9532 9534	me
+T483	the_parlor-49 9558 9562	here
+T415	the_parlor-49 9566 9576	the parlor
+T630	Thea_Kronborg-59 9579 9582	She
+T416	a_warm_room-70 9599 9610	a warm room
+T631	Thea_Kronborg-59 9617 9620	she
+T632	Mr__Kronborg-24 9642 9645	You
+T417	the_other_children-71 9656 9674	the other children
+T633	Dr__Howard_Archie-0 9710 9711	I
+T634	they-28 9767 9769	We
+T635	Thea_Kronborg-59 9779 9782	her
+T636	Thea_Kronborg-59 9802 9805	her
+T637	Thea_Kronborg-59 9817 9820	she
+T638	Dr__Howard_Archie-0 9826 9827	I
+T639	Thea_Kronborg-59 9851 9854	her
+R1	appos Arg1:T5 Arg2:T102
+R2	cop Arg1:T113 Arg2:T170
+R3	cop Arg1:T118 Arg2:T26
+R4	appos Arg1:T64 Arg2:T133
+R5	cop Arg1:T74 Arg2:T261
+T640	PRON_FAC 749 751	it
+T641	the_study-9 749 751	it

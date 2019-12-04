@@ -1,0 +1,394 @@
+T1	NOM_FAC 20 29	my garden
+T5	NOM_GPE 1072 1078	a town
+T6	NOM_FAC 896 906	the garden
+T7	NOM_FAC 871 880	the house
+T8	NOM_LOC 1159 1168	the world
+T10	NOM_PER 1417 1425	servants
+T11	NOM_FAC 1651 1672	my frost-bound garden
+T12	NOM_PER 1700 1708	children
+T13	NOM_FAC 1949 1959	the garden
+T15	NOM_FAC 2089 2099	the garden
+T16	NOM_FAC 2261 2270	My garden
+T19	PROP_PER 2846 2849	God
+T21	NOM_FAC 3059 3068	The house
+T22	NOM_PER 3233 3240	peasant
+T23	NOM_FAC 3264 3270	a hall
+T24	PROP_PER 3273 3290	Gustavus Adolphus
+T25	PROP_GPE 3438 3444	Sweden
+T28	NOM_LOC 3491 3500	the North
+T29	NOM_PER 3514 3533	an estimable person
+T30	NOM_LOC 3930 3944	distant forest
+T31	NOM_FAC 3815 3824	the house
+T32	NOM_FAC 4177 4186	the house
+T33	NOM_PER 4254 4297	the young woman who attends to such matters
+T38	NOM_PER 4463 4472	This girl
+T39	NOM_PER 4570 4595	a respectable German lady
+T40	NOM_FAC 4516 4526	the garden
+T41	NOM_PER 4975 4984	the maids
+T42	NOM_GPE 5350 5356	a town
+T43	NOM_FAC 5555 5565	the garden
+T45	NOM_FAC 6247 6262	the empty house
+T46	NOM_PER 6402 6421	the old housekeeper
+T48	NOM_FAC 7180 7188	a garden
+T49	NOM_FAC 7017 7045	the bare and desolate garden
+T50	NOM_GPE 6966 6973	village
+T51	NOM_LOC 7361 7380	brown , quiet earth
+T52	NOM_LOC 7629 7638	the world
+T53	NOM_PER 7561 7568	a child
+T54	NOM_FAC 8117 8126	the house
+T56	NOM_PER 9215 9227	the painters
+T58	NOM_FAC 9672 9681	the house
+T2	NOM_FAC 822 830	a garden
+T3	NOM_LOC 836 848	a wilderness
+T4	NOM_FAC 948 966	a pretty old place
+T59	NOM_PER 972 1078	the people who might have lived here and did not , deliberately preferring the horrors of a flat in a town
+T60	NOM_FAC 1062 1078	a flat in a town
+T61	NOM_PER 1103 1191	that vast number of eyeless and earless persons of whom the world seems chiefly composed
+T9	NOM_LOC 2061 2111	a little stream that bounds the garden on the east
+T14	NOM_FAC 2141 2161	the cornfield beyond
+T62	NOM_FAC 2288 2298	cornfields
+T63	NOM_LOC 2303 2310	meadows
+T64	NOM_LOC 2347 2358	sandy heath
+T65	NOM_LOC 2363 2375	pine forests
+T66	NOM_LOC 2388 2399	the forests
+T67	NOM_LOC 2410 2424	the bare heath
+T68	NOM_LOC 2444 2455	the forests
+T17	NOM_LOC 2653 2668	the bare heaths
+T18	NOM_LOC 2869 2879	this plain
+T20	NOM_FAC 2986 3056	the gray stone house with many gables where I pass my reluctant nights
+T69	NOM_FAC 3131 3140	a convent
+T70	NOM_FAC 3177 3195	the vaulted chapel
+T27	NOM_PER 3295 3305	his Swedes
+T71	NOM_FAC 3416 3476	the high-road between Sweden and Brandenburg the unfortunate
+T72	NOM_FAC 2883 2949	the oasis of birdcherries and greenery where I spend my happy days
+T73	NOM_FAC 2973 2982	the oasis
+T26	PROP_GPE 3449 3476	Brandenburg the unfortunate
+T74	NOM_PER 3479 3500	The Lion of the North
+T75	NOM_PER 3604 3669	the peaceful nuns , who were not without convictions of their own
+T76	NOM_LOC 3695 3717	the wide , empty plain
+T77	NOM_FAC 3777 3781	here
+T78	NOM_LOC 3847 3856	the plain
+T79	NOM_LOC 3892 3898	a hill
+T80	NOM_LOC 4018 4041	a green , rolling plain
+T37	NOM_FAC 4150 4160	my bedroom
+T34	NOM_PER 4341 4399	a mistress recumbent in an easychair before an open window
+T35	NOM_PER 4658 4680	The people round about
+T81	NOM_PER 5104 5116	the evil one
+T82	NOM_PER 5129 5140	the foolish
+T83	NOM_FAC 5264 5274	this place
+T84	NOM_FAC 5337 5356	in a flat in a town
+T85	NOM_FAC 5629 5634	there
+T86	NOM_FAC 5637 5641	here
+T87	NOM_FAC 5646 5661	this dear place
+T44	NOM_FAC 6370 6392	the rooms on that side
+T88	NOM_FAC 6456 6460	here
+T89	NOM_FAC 6665 6669	here
+T90	NOM_FAC 6702 6722	my kingdom of heaven
+T91	NOM_FAC 6777 6786	the place
+T92	NOM_FAC 6962 6980	the village school
+T47	NOM_FAC 7844 7853	the place
+T93	NOM_PER 8132 8143	the workmen
+T94	NOM_FAC 8352 8401	a lawn closely strewn with dandelions and daisies
+T36	NOM_PER 5778 5803	nobody but the north wind
+T95	NOM_PER 851 857	No one
+T96	NOM_PER 5883 5889	no one
+T55	NOM_FAC 1004 1008	here
+T57	NOM_FAC 5535 5539	here
+T97	NOM_FAC 8006 8010	here
+T98	NOM_FAC 2037 2046	the place
+T99	PRON_PER 13 14	I
+T100	PRON_PER 20 22	my
+T101	PRON_PER 32 33	I
+T102	PRON_PER 264 266	me
+T103	PRON_PER 314 315	I
+T108	PRON_PER 692 693	I
+T109	PRON_PER 733 735	me
+T110	PRON_PER 742 743	I
+T111	PRON_PER 758 764	myself
+T112	PRON_PER 1267 1269	my
+T113	PRON_PER 1343 1344	I
+T114	PRON_PER 1476 1478	my
+T115	PRON_PER 1520 1522	my
+T116	PRON_PER 1621 1622	I
+T117	PRON_PER 1651 1653	my
+T118	PRON_PER 1687 1689	my
+T119	PRON_PER 1715 1716	I
+T120	PRON_PER 1818 1820	me
+T122	PRON_PER 1983 1984	I
+T125	PRON_PER 2261 2263	My
+T126	PRON_LOC 2473 2478	their
+T127	PRON_LOC 2712 2716	them
+T128	PRON_LOC 2760 2764	them
+T129	PRON_PER 2928 2929	I
+T130	PRON_PER 2936 2938	my
+T131	PRON_PER 3030 3031	I
+T132	PRON_PER 3037 3039	my
+T133	PRON_PER 3295 3298	his
+T134	PRON_PER 3392 3394	we
+T135	PRON_PER 3557 3560	his
+T136	PRON_PER 3579 3581	he
+T137	PRON_PER 3660 3665	their
+T138	PRON_PER 3680 3684	them
+T139	PRON_PER 3825 3826	I
+T140	PRON_PER 4083 4084	I
+T141	PRON_PER 4150 4152	my
+T142	PRON_PER 4324 4327	her
+T143	PRON_PER 4487 4489	my
+T144	PRON_PER 4537 4540	her
+T145	PRON_PER 4641 4644	she
+T146	PRON_PER 4653 4655	me
+T147	PRON_PER 4700 4701	I
+T148	PRON_PER 4797 4798	I
+T149	PRON_PER 4881 4883	me
+T150	PRON_PER 4916 4919	you
+T151	PRON_PER 4949 4952	you
+T152	PRON_PER 5029 5030	I
+T153	PRON_PER 5155 5160	their
+T154	PRON_PER 5179 5181	We
+T155	PRON_PER 5227 5229	us
+T156	PRON_PER 5235 5237	we
+T158	PRON_PER 5402 5403	I
+T159	PRON_PER 5514 5516	me
+T160	PRON_PER 5522 5524	my
+T161	PRON_PER 5603 5605	we
+T162	PRON_PER 5619 5622	our
+T163	PRON_PER 6541 6543	me
+T164	PRON_PER 6582 6583	I
+T165	PRON_PER 6647 6649	my
+T166	PRON_PER 6702 6704	my
+T167	PRON_PER 6757 6759	my
+T168	PRON_PER 6804 6805	I
+T169	PRON_PER 7048 7049	I
+T170	PRON_PER 7117 7119	my
+T171	PRON_PER 7165 7166	I
+T172	PRON_PER 7197 7198	I
+T173	PRON_PER 7246 7248	my
+T174	PRON_PER 7261 7263	my
+T175	PRON_PER 7309 7311	my
+T176	PRON_PER 7464 7465	I
+T177	PRON_PER 7548 7549	I
+T178	PRON_PER 7607 7609	me
+T179	PRON_PER 7662 7663	I
+T180	PRON_PER 7670 7676	myself
+T181	PRON_PER 7737 7739	My
+T182	PRON_PER 8000 8001	I
+T183	PRON_PER 8175 8176	I
+T184	PRON_PER 8183 8184	I
+T185	PRON_PER 8247 8248	I
+T186	PRON_PER 8311 8313	my
+T187	PRON_PER 8463 8464	I
+T189	PRON_PER 8588 8589	I
+T192	PRON_PER 8723 8724	I
+T194	PRON_PER 9105 9107	me
+T198	PRON_PER 9395 9396	I
+T202	PRON_PER 9942 9943	I
+T203	PRON_PER 10018 10019	I
+T204	PRON_PER 10049 10051	My
+T205	NOM_FAC 809 813	This
+T206	NOM_PER 7737 7750	My other half
+T306	narrator-0 13 14	I
+T208	my_garden-1 20 29	my garden
+T307	narrator-0 20 22	my
+T308	narrator-0 32 33	I
+T309	narrator-0 264 266	me
+T310	narrator-0 314 315	I
+T315	narrator-0 692 693	I
+T316	narrator-0 733 735	me
+T317	narrator-0 742 743	I
+T318	narrator-0 758 764	myself
+T412	my_garden-1 809 813	This
+T209	a_garden-2 822 830	a garden
+T210	a_wilderness-3 836 848	a wilderness
+T302	No_one-4 851 857	No one
+T214	the_house-5 871 880	the house
+T213	my_garden-1 896 906	the garden
+T211	the_house-5 948 966	a pretty old place
+T266	the_people-6 972 1078	the people who might have lived here and did not , deliberately preferring the horrors of a flat in a town
+T262	the_house-5 1004 1008	here
+T267	a_flat_in_a_town-7 1062 1078	a flat in a town
+T212	a_town-8 1072 1078	a town
+T268	vast_number-9 1103 1191	that vast number of eyeless and earless persons of whom the world seems chiefly composed
+T215	the_world-10 1159 1168	the world
+T319	narrator-0 1267 1269	my
+T320	narrator-0 1343 1344	I
+T217	servants-11 1417 1425	servants
+T321	narrator-0 1476 1478	my
+T322	narrator-0 1520 1522	my
+T323	narrator-0 1621 1622	I
+T218	my_garden-1 1651 1672	my frost-bound garden
+T324	narrator-0 1651 1653	my
+T325	narrator-0 1687 1689	my
+T219	children-12 1700 1708	children
+T326	narrator-0 1715 1716	I
+T327	narrator-0 1818 1820	me
+T220	my_garden-1 1949 1959	the garden
+T329	narrator-0 1983 1984	I
+T305	my_garden-1 2037 2046	the place
+T216	a_little_stream_that_bounds_the_garden_on_the_east-13 2061 2111	a little stream that bounds the garden on the east
+T222	my_garden-1 2089 2099	the garden
+T221	the_cornfield_beyond-14 2141 2161	the cornfield beyond
+T223	my_garden-1 2261 2270	My garden
+T332	narrator-0 2261 2263	My
+T269	cornfields-15 2288 2298	cornfields
+T270	meadows-16 2303 2310	meadows
+T271	sandy_heath-17 2347 2358	sandy heath
+T272	pine_forests-18 2363 2375	pine forests
+T273	pine_forests-18 2388 2399	the forests
+T274	the_bare_heath-19 2410 2424	the bare heath
+T275	pine_forests-18 2444 2455	the forests
+T333	pine_forests-18 2473 2478	their
+T224	the_bare_heath-19 2653 2668	the bare heaths
+T334	the_bare_heath-19 2712 2716	them
+T335	the_bare_heath-19 2760 2764	them
+T226	God-20 2846 2849	God
+T225	this_plain-21 2869 2879	this plain
+T279	my_garden-1 2883 2949	the oasis of birdcherries and greenery where I spend my happy days
+T336	narrator-0 2928 2929	I
+T337	narrator-0 2936 2938	my
+T280	my_garden-1 2973 2982	the oasis
+T227	the_house-5 2986 3056	the gray stone house with many gables where I pass my reluctant nights
+T338	narrator-0 3030 3031	I
+T339	narrator-0 3037 3039	my
+T228	the_house-5 3059 3068	The house
+T276	a_convent-22 3131 3140	a convent
+T277	the_vaulted_chapel-23 3177 3195	the vaulted chapel
+T229	peasant-24 3233 3240	peasant
+T230	a_hall-25 3264 3270	a hall
+T231	Gustavus_Adolphus-26 3273 3290	Gustavus Adolphus
+T234	his_Swedes-27 3295 3305	his Swedes
+T340	Gustavus_Adolphus-26 3295 3298	his
+T341	we-28 3392 3394	we
+T278	the_high-road_between_Sweden_and_Brandenburg_the_unfortunate-29 3416 3476	the high-road between Sweden and Brandenburg the unfortunate
+T232	Sweden-30 3438 3444	Sweden
+T233	Brandenburg_the_unfortunate-31 3449 3476	Brandenburg the unfortunate
+T281	Gustavus_Adolphus-26 3479 3500	The Lion of the North
+T235	the_North-32 3491 3500	the North
+T342	Gustavus_Adolphus-26 3557 3560	his
+T343	Gustavus_Adolphus-26 3579 3581	he
+T282	the_peaceful_nuns-33 3604 3669	the peaceful nuns , who were not without convictions of their own
+T344	the_peaceful_nuns-33 3660 3665	their
+T345	the_peaceful_nuns-33 3680 3684	them
+T283	the_wide___empty_plain-34 3695 3717	the wide , empty plain
+T284	the_house-5 3777 3781	here
+T238	the_house-5 3815 3824	the house
+T346	narrator-0 3825 3826	I
+T285	the_wide___empty_plain-34 3847 3856	the plain
+T286	a_hill-35 3892 3898	a hill
+T237	distant_forest-36 3930 3944	distant forest
+T287	a_green___rolling_plain-37 4018 4041	a green , rolling plain
+T347	narrator-0 4083 4084	I
+T244	my_bedroom-38 4150 4160	my bedroom
+T348	narrator-0 4150 4152	my
+T239	the_house-5 4177 4186	the house
+T240	hair_comber-39 4254 4297	the young woman who attends to such matters
+T349	hair_comber-39 4324 4327	her
+T241	narrator-0 4341 4399	a mistress recumbent in an easychair before an open window
+T245	hair_comber-39 4463 4472	This girl
+T350	narrator-0 4487 4489	my
+T247	my_garden-1 4516 4526	the garden
+T351	hair_comber-39 4537 4540	her
+T246	a_respectable_German_lady-40 4570 4595	a respectable German lady
+T352	hair_comber-39 4641 4644	she
+T353	narrator-0 4653 4655	me
+T242	The_people_round_about-41 4658 4680	The people round about
+T354	narrator-0 4700 4701	I
+T355	narrator-0 4797 4798	I
+T356	narrator-0 4881 4883	me
+T357	you-42 4916 4919	you
+T358	you-43 4949 4952	you
+T248	the_maids-44 4975 4984	the maids
+T359	narrator-0 5029 5030	I
+T288	the_evil_one-45 5104 5116	the evil one
+T289	the_foolish-46 5129 5140	the foolish
+T360	the_foolish-46 5155 5160	their
+T361	narrator_husband-47 5179 5181	We
+T362	narrator_husband-47 5227 5229	us
+T363	narrator_husband-47 5235 5237	we
+T291	in_a_flat_in_a_town-48 5337 5356	in a flat in a town
+T249	a_town-49 5350 5356	a town
+T365	narrator-0 5402 5403	I
+T366	narrator-0 5514 5516	me
+T367	narrator-0 5522 5524	my
+T264	_this_place__holistically-69 5535 5539	here
+T250	my_garden-1 5555 5565	the garden
+T368	narrator_husband-47 5603 5605	we
+T369	narrator_husband-47 5619 5622	our
+T292	in_a_flat_in_a_town-48 5629 5634	there
+T293	_this_place__holistically-69 5637 5641	here
+T243	nobody_but_the_north_wind-51 5778 5803	nobody but the north wind
+T303	no_one-52 5883 5889	no one
+T252	the_house-5 6247 6262	the empty house
+T251	the_rooms_on_that_side-53 6370 6392	the rooms on that side
+T253	the_old_housekeeper-54 6402 6421	the old housekeeper
+T295	_this_place__holistically-69 6456 6460	here
+T370	narrator-0 6541 6543	me
+T371	narrator-0 6582 6583	I
+T372	narrator-0 6647 6649	my
+T296	_this_place__holistically-69 6665 6669	here
+T373	narrator-0 6702 6704	my
+T374	narrator-0 6757 6759	my
+T298	_this_place__holistically-69 6777 6786	the place
+T375	narrator-0 6804 6805	I
+T299	the_village_school-58 6962 6980	the village school
+T257	village-59 6966 6973	village
+T256	my_garden-1 7017 7045	the bare and desolate garden
+T376	narrator-0 7048 7049	I
+T377	narrator-0 7117 7119	my
+T378	narrator-0 7165 7166	I
+T255	a_garden-60 7180 7188	a garden
+T379	narrator-0 7197 7198	I
+T380	narrator-0 7246 7248	my
+T381	narrator-0 7261 7263	my
+T382	narrator-0 7309 7311	my
+T258	brown___quiet_earth-61 7361 7380	brown , quiet earth
+T383	narrator-0 7464 7465	I
+T384	narrator-0 7548 7549	I
+T260	a_child-62 7561 7568	a child
+T385	narrator-0 7607 7609	me
+T259	the_world-10 7629 7638	the world
+T386	narrator-0 7662 7663	I
+T387	narrator-0 7670 7676	myself
+T388	narrator-0 7737 7739	My
+T413	My_other_half-63 7737 7750	My other half
+T254	_this_place__holistically-69 7844 7853	the place
+T389	narrator-0 8000 8001	I
+T304	_this_place__holistically-69 8006 8010	here
+T261	the_house-5 8117 8126	the house
+T300	the_workmen-66 8132 8143	the workmen
+T390	narrator-0 8175 8176	I
+T391	narrator-0 8183 8184	I
+T392	narrator-0 8247 8248	I
+T393	narrator-0 8311 8313	my
+T301	a_lawn_closely_strewn_with_dandelions_and_daisies-67 8352 8401	a lawn closely strewn with dandelions and daisies
+T394	narrator-0 8463 8464	I
+T396	narrator-0 8588 8589	I
+T399	narrator-0 8723 8724	I
+T401	narrator-0 9105 9107	me
+T263	the_painters-68 9215 9227	the painters
+T405	narrator-0 9395 9396	I
+T265	the_house-5 9672 9681	the house
+T409	narrator-0 9942 9943	I
+T410	narrator-0 10018 10019	I
+T411	narrator-0 10049 10051	My
+T290	_this_place__holistically-69 5264 5274	this place
+R1	cop Arg1:T29 Arg2:T74
+R2	cop Arg1:T90 Arg2:T89
+R3	cop Arg1:T87 Arg2:T86
+T414	PRON_FAC 48 50	it
+T415	my_garden-1 48 50	it
+T428	PRON_FAC 3124 3126	It
+T429	the_house-5 3124 3126	It
+T430	PRON_FAC 3203 3206	its
+T431	the_vaulted_chapel-23 3203 3206	its
+T436	PRON_FAC 5304 5306	it
+T437	this_place_holistically-69 5304 5306	it
+T438	PRON_FAC 5831 5833	it
+T439	this_place_holistically-69 5831 5833	it
+T442	PRON_FAC 6564 6566	it
+T443	this_place_holistically-69 6564 6566	it
+T454	PRON_FAC 7877 7879	it
+T455	this_place_holistically-69 7877 7879	it
+T456	PRON_FAC 8160 8162	it
+T457	the_house-5 8160 8162	it
+T104	NOM_PER 4928 4936	some one
+T105	some_one-700 4928 4936	some one

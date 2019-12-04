@@ -1,0 +1,564 @@
+T1	NOM_FAC 113 120	my room
+T2	PROP_PER 267 283	Sir Henry Curtis
+T4	PROP_PER 609 618	Sir Henry
+T7	NOM_PER 1217 1227	a tall man
+T10	PROP_PER 1679 1696	Hunter Quatermain
+T11	PROP_PER 1644 1660	Allan Quatermain
+T13	PROP_PER 2169 2178	Sir Henry
+T16	PROP_PER 2792 2798	Curtis
+T17	NOM_PER 2803 2807	Good
+T18	NOM_PER 3430 3441	Old friends
+T20	PROP_PER 4030 4039	Sir Henry
+T21	PROP_PER 4291 4300	Sir Henry
+T22	PROP_GPE 4559 4565	Africa
+T24	PROP_PER 4788 4797	Sir Henry
+T25	NOM_PER 4765 4775	old fellow
+T26	NOM_PER 4950 4957	squires
+T27	PROP_PER 5090 5096	Gagool
+T28	PROP_LOC 5074 5085	Kukuanaland
+T30	PROP_LOC 5449 5460	Kukuanaland
+T32	NOM_PER 5730 5737	no wife
+T33	NOM_PER 5741 5747	parent
+T34	NOM_PER 5762 5767	child
+T37	PROP_PER 6501 6510	Sir Henry
+T38	PROP_LOC 6670 6678	Mt Kenia
+T39	PROP_GPE 6862 6870	Zanzibar
+T40	PROP_LOC 7014 7022	Mt Kenia
+T41	NOM_PER 7102 7114	no white man
+T42	PROP_LOC 6943 6947	Lamu
+T43	PROP_LOC 6998 7006	Mt Kenia
+T46	NOM_PER 8034 8042	your man
+T47	PROP_PER 8097 8113	Sir Henry Curtis
+T48	PROP_LOC 8251 8259	Mt Kenia
+T49	PROP_PER 8424 8433	Sir Henry
+T51	NOM_PER 10 20	THE CONSUL
+T52	NOM_FAC 209 218	the steps
+T3	NOM_PER 288 310	Captain John Good , RN
+T53	NOM_PER 252 266	my old friends
+T54	NOM_FAC 326 339	the vestibule
+T5	NOM_PER 838 860	a splendid-looking man
+T6	NOM_PER 967 1020	a magnificent specimen of the higher type of humanity
+T55	PROP_PER 1120 1129	Sir Henry
+T56	NOM_PER 1299 1322	my little dried-up self
+T8	NOM_PER 1382 1556	a small , withered , yellow-faced man of sixty-three , with thin hands , large brown eyes , a head of grizzled hair cut short and standing up like a half-worn scrubbing-brush
+T12	NOM_PER 1705 1716	the natives
+T57	PROP_PER 1719 1729	Macumazahn
+T9	NOM_PER 1812 1852	a sharp fellow who is not to be taken in
+T58	NOM_PER 1870 1874	Good
+T59	NOM_PER 2112 2116	Good
+T60	NOM_PER 2240 2244	Good
+T14	NOM_PER 2748 2774	an eighteen-month-old baby
+T15	PROP_LOC 3495 3506	Kukuanaland
+T61	NOM_PER 3534 3538	Good
+T62	NOM_LOC 3659 3668	the veldt
+T63	PROP_PER 3673 3682	Sir Henry
+T64	NOM_PER 3792 3796	Good
+T65	NOM_PER 3801 3805	Good
+T19	NOM_PER 4010 4020	old fellow
+T66	NOM_PER 4069 4073	Good
+T67	NOM_PER 4124 4128	Good
+T68	NOM_PER 4189 4193	Good
+T69	NOM_PER 4363 4367	Good
+T70	NOM_PER 4690 4694	Good
+T71	NOM_PER 4710 4714	Good
+T23	NOM_PER 4737 4751	that gentleman
+T72	NOM_PER 4910 4920	the squire
+T74	PROP_PER 5101 5113	King Solomon
+T75	NOM_FAC 5101 5122	King Solomon ’s Mines
+T29	NOM_PER 5156 5201	the victim of an almost unaccountable craving
+T31	NOM_PER 5546 5552	a fool
+T36	NOM_PER 5854 5861	his boy
+T76	NOM_PER 6022 6026	Good
+T77	NOM_PER 6110 6114	Good
+T78	NOM_PER 6183 6189	a lady
+T79	NOM_PER 6257 6261	Good
+T80	NOM_PER 6487 6491	Good
+T81	PROP_PER 6525 6535	Quatermain
+T82	NOM_PER 6726 6730	Good
+T83	PROP_LOC 6760 6774	Island of Lamu
+T84	PROP_LOC 7036 7049	Mt Lekakisera
+T85	NOM_LOC 7200 7220	the unknown interior
+T44	PROP_PER 7294 7303	Sir Henry
+T86	NOM_PER 7597 7608	My poor boy
+T87	NOM_LOC 7689 7704	my native wilds
+T45	NOM_PER 7956 7967	you fellows
+T88	NOM_PER 8183 8187	Good
+T89	NOM_LOC 8264 8308	the other place with an unpronounceable name
+T50	NOM_VEH 8475 8502	the British India steamboat
+T90	PROP_PER 8623 8635	King Solomon
+T91	NOM_FAC 8623 8644	King Solomon ’s mines
+T35	PROP_PER 5843 5849	George
+T93	NOM_PER 5832 5842	my brother
+T94	NOM_PER 68 79	my poor boy
+T95	PROP_PER 80 85	Harry
+T110	NOM_PER 8623 8627	King
+T112	NOM_PER 2696 2704	somebody
+T113	NOM_PER 5929 5936	any one
+T114	NOM_LOC 6707 6716	the place
+T115	NOM_LOC 6829 6870	a place about 300 miles north of Zanzibar
+T73	NOM_GPE 4924 4957	a country that is sick of squires
+T117	PRON_PER 68 70	my
+T118	PRON_PER 104 105	I
+T119	PRON_PER 113 115	my
+T120	PRON_PER 219 220	I
+T121	PRON_PER 231 237	myself
+T122	PRON_PER 252 254	my
+T123	PRON_PER 313 317	They
+T124	PRON_PER 348 358	themselves
+T125	PRON_PER 397 398	I
+T126	PRON_PER 478 481	you
+T127	PRON_PER 500 501	I
+T128	PRON_PER 585 589	They
+T129	PRON_PER 633 636	his
+T130	PRON_PER 679 681	he
+T131	PRON_PER 821 822	I
+T132	PRON_PER 861 863	he
+T133	PRON_PER 1031 1034	his
+T134	PRON_PER 1046 1049	his
+T135	PRON_PER 1057 1058	I
+T136	PRON_PER 1165 1167	he
+T137	PRON_PER 1191 1193	he
+T138	PRON_PER 1233 1234	I
+T139	PRON_PER 1245 1248	him
+T140	PRON_PER 1249 1250	I
+T141	PRON_PER 1299 1301	my
+T142	PRON_PER 1336 1339	his
+T143	PRON_PER 1373 1381	yourself
+T144	PRON_PER 1576 1578	my
+T145	PRON_PER 1611 1614	you
+T146	PRON_PER 1745 1747	he
+T147	PRON_PER 1903 1905	us
+T148	PRON_PER 2037 2038	I
+T149	PRON_PER 2075 2076	I
+T150	PRON_PER 2185 2188	him
+T151	PRON_PER 2278 2280	he
+T152	PRON_PER 2299 2301	We
+T153	PRON_PER 2329 2330	I
+T154	PRON_PER 2523 2524	I
+T155	PRON_PER 2619 2620	I
+T156	PRON_PER 2656 2662	myself
+T157	PRON_PER 2685 2687	me
+T158	PRON_PER 2720 2722	my
+T159	PRON_PER 2741 2742	I
+T160	PRON_PER 2836 2837	I
+T161	PRON_PER 2853 2857	they
+T162	PRON_PER 2891 2893	me
+T163	PRON_PER 2925 2927	me
+T164	PRON_PER 2943 2948	their
+T165	PRON_PER 2998 3003	their
+T166	PRON_PER 3099 3101	we
+T167	PRON_PER 3127 3130	our
+T168	PRON_PER 3166 3171	their
+T169	PRON_PER 3215 3217	us
+T172	PRON_PER 3302 3306	They
+T173	PRON_PER 3355 3356	I
+T174	PRON_PER 3403 3407	them
+T175	PRON_PER 3418 3419	I
+T176	PRON_PER 3446 3447	I
+T177	PRON_PER 3478 3480	we
+T178	PRON_PER 3550 3553	you
+T179	PRON_PER 3564 3565	I
+T180	PRON_PER 3578 3579	I
+T181	PRON_PER 3591 3592	I
+T182	PRON_PER 3640 3641	I
+T183	PRON_PER 3688 3691	his
+T184	PRON_PER 3705 3708	his
+T185	PRON_PER 3738 3741	his
+T186	PRON_PER 3775 3777	he
+T187	PRON_PER 3816 3818	me
+T188	PRON_PER 3840 3843	his
+T189	PRON_PER 3898 3899	I
+T190	PRON_PER 3933 3934	I
+T191	PRON_PER 3973 3974	I
+T192	PRON_PER 4004 4007	you
+T193	PRON_PER 4049 4050	I
+T194	PRON_PER 4078 4079	I
+T195	PRON_PER 4101 4103	we
+T196	PRON_PER 4139 4142	you
+T197	PRON_PER 4160 4161	I
+T198	PRON_PER 4271 4274	you
+T199	PRON_PER 4303 4304	I
+T200	PRON_PER 4311 4313	my
+T201	PRON_PER 4344 4345	I
+T202	PRON_PER 4393 4395	He
+T203	PRON_PER 4466 4467	I
+T204	PRON_PER 4500 4503	you
+T205	PRON_PER 4517 4519	we
+T206	PRON_PER 4535 4538	our
+T207	PRON_PER 4592 4593	I
+T208	PRON_PER 4611 4614	his
+T209	PRON_PER 4625 4628	You
+T210	PRON_PER 4647 4648	I
+T211	PRON_PER 4662 4663	I
+T212	PRON_PER 4704 4707	you
+T213	PRON_PER 4842 4843	I
+T214	PRON_PER 4979 4980	I
+T215	PRON_PER 5050 5051	I
+T216	PRON_PER 5125 5126	I
+T217	PRON_PER 5138 5141	you
+T218	PRON_PER 5142 5143	I
+T219	PRON_PER 5204 5205	I
+T220	PRON_PER 5310 5313	you
+T221	PRON_PER 5425 5427	we
+T222	PRON_PER 5470 5472	me
+T223	PRON_PER 5502 5504	my
+T224	PRON_PER 5525 5526	I
+T225	PRON_PER 5541 5542	I
+T226	PRON_PER 5557 5559	my
+T227	PRON_PER 5572 5573	I
+T228	PRON_PER 5591 5592	I
+T229	PRON_PER 5627 5628	I
+T230	PRON_PER 5644 5646	He
+T231	PRON_PER 5712 5713	I
+T232	PRON_PER 5723 5724	I
+T233	PRON_PER 5776 5778	me
+T234	PRON_PER 5804 5806	me
+T235	PRON_PER 5832 5834	my
+T236	PRON_PER 5854 5857	his
+T237	PRON_PER 5904 5905	I
+T238	PRON_PER 5950 5951	I
+T239	PRON_PER 5961 5962	I
+T240	PRON_PER 5971 5974	you
+T241	PRON_PER 6037 6041	your
+T242	PRON_PER 6076 6079	you
+T243	PRON_PER 6094 6095	I
+T244	PRON_PER 6130 6131	I
+T245	PRON_PER 6233 6234	I
+T246	PRON_PER 6245 6248	him
+T247	PRON_PER 6312 6313	I
+T248	PRON_PER 6333 6336	you
+T249	PRON_PER 6366 6367	I
+T250	PRON_PER 6433 6434	I
+T251	PRON_PER 6444 6447	you
+T252	PRON_PER 6450 6451	I
+T253	PRON_PER 6543 6545	us
+T254	PRON_PER 6557 6560	you
+T255	PRON_PER 6582 6583	I
+T256	PRON_PER 6588 6590	my
+T258	PRON_PER 6683 6684	I
+T259	PRON_PER 6739 6742	you
+T260	PRON_PER 6779 6780	I
+T261	PRON_PER 6901 6902	I
+T262	PRON_PER 6934 6936	we
+T263	PRON_PER 6964 6967	our
+T264	PRON_PER 7134 7136	my
+T265	PRON_PER 7170 7172	we
+T266	PRON_PER 7231 7234	you
+T267	PRON_PER 7249 7251	my
+T268	PRON_PER 7323 7326	You
+T269	PRON_PER 7341 7342	I
+T270	PRON_PER 7368 7369	I
+T271	PRON_PER 7383 7385	we
+T272	PRON_PER 7403 7405	us
+T273	PRON_PER 7433 7435	We
+T274	PRON_PER 7465 7467	we
+T275	PRON_PER 7517 7519	my
+T276	PRON_PER 7525 7526	I
+T277	PRON_PER 7566 7567	I
+T278	PRON_PER 7589 7590	I
+T279	PRON_PER 7597 7599	My
+T280	PRON_PER 7651 7653	me
+T281	PRON_PER 7677 7678	I
+T282	PRON_PER 7689 7691	my
+T283	PRON_PER 7715 7716	I
+T284	PRON_PER 7726 7729	you
+T285	PRON_PER 7785 7786	I
+T286	PRON_PER 7900 7901	I
+T289	PRON_PER 8008 8009	I
+T290	PRON_PER 8029 8030	I
+T291	PRON_PER 8034 8038	your
+T292	PRON_PER 8052 8053	I
+T293	PRON_PER 8072 8076	your
+T294	PRON_PER 8135 8138	his
+T295	PRON_PER 8148 8150	my
+T296	PRON_PER 8192 8193	I
+T297	PRON_PER 8376 8378	me
+T298	PRON_PER 8393 8396	you
+T299	PRON_PER 8457 8458	I
+T300	PRON_PER 8516 8519	you
+T301	PRON_PER 8572 8575	you
+T303	NOM_PER 3087 3093	others
+T304	NOM_PER 6645 6655	you people
+T356	THE_CONSUL-0 10 20	THE CONSUL
+T399	Harry-1 68 79	my poor boy
+T422	Narrator-2 68 70	my
+T400	Harry-1 80 85	Harry
+T423	Narrator-2 104 105	I
+T306	my_room-3 113 120	my room
+T424	Narrator-2 113 115	my
+T357	the_steps-4 209 218	the steps
+T425	Narrator-2 219 220	I
+T426	Narrator-2 231 237	myself
+T358	my_old_friends-5 252 266	my old friends
+T427	Narrator-2 252 254	my
+T307	Sir_Henry_Curtis-6 267 283	Sir Henry Curtis
+T308	Captain_John_Good___RN-7 288 310	Captain John Good , RN
+T428	my_old_friends-5 313 317	They
+T359	the_vestibule-8 326 339	the vestibule
+T429	my_old_friends-5 348 358	themselves
+T430	Narrator-2 397 398	I
+T431	my_old_friends-5 478 481	you
+T432	Narrator-2 500 501	I
+T433	my_old_friends-5 585 589	They
+T309	Sir_Henry_Curtis-6 609 618	Sir Henry
+T434	Sir_Henry_Curtis-6 633 636	his
+T435	Sir_Henry_Curtis-6 679 681	he
+T436	Narrator-2 821 822	I
+T437	Sir_Henry_Curtis-6 861 863	he
+T310	Sir_Henry_Curtis-6 838 860	a splendid-looking man
+T311	Sir_Henry_Curtis-6 967 1020	a magnificent specimen of the higher type of humanity
+T438	Sir_Henry_Curtis-6 1031 1034	his
+T439	Sir_Henry_Curtis-6 1046 1049	his
+T440	Narrator-2 1057 1058	I
+T360	Sir_Henry_Curtis-6 1120 1129	Sir Henry
+T441	Sir_Henry_Curtis-6 1165 1167	he
+T442	Sir_Henry_Curtis-6 1191 1193	he
+T312	a_tall_man-9 1217 1227	a tall man
+T443	Narrator-2 1233 1234	I
+T444	Sir_Henry_Curtis-6 1245 1248	him
+T445	Narrator-2 1249 1250	I
+T361	Narrator-2 1299 1322	my little dried-up self
+T446	Narrator-2 1299 1301	my
+T447	Sir_Henry_Curtis-6 1336 1339	his
+T448	yourself-100000 1373 1381	yourself
+T313	Narrator-2 1382 1556	a small , withered , yellow-faced man of sixty-three , with thin hands , large brown eyes , a head of grizzled hair cut short and standing up like a half-worn scrubbing-brush
+T449	Narrator-2 1576 1578	my
+T450	you-100001 1611 1614	you
+T316	Narrator-2 1644 1660	Allan Quatermain
+T315	Narrator-2 1679 1696	Hunter Quatermain
+T317	the_natives-10 1705 1716	the natives
+T362	Narrator-2 1719 1729	Macumazahn
+T451	Narrator-2 1745 1747	he
+T314	Narrator-2 1812 1852	a sharp fellow who is not to be taken in
+T363	Captain_John_Good___RN-7 1870 1874	Good
+T452	Allan_and_Henry-11 1903 1905	us
+T453	Narrator-2 2037 2038	I
+T454	Narrator-2 2075 2076	I
+T364	Captain_John_Good___RN-7 2112 2116	Good
+T318	Sir_Henry_Curtis-6 2169 2178	Sir Henry
+T455	Captain_John_Good___RN-7 2185 2188	him
+T365	Captain_John_Good___RN-7 2240 2244	Good
+T456	Captain_John_Good___RN-7 2278 2280	he
+T457	all_men-12 2299 2301	We
+T458	Narrator-2 2329 2330	I
+T459	Narrator-2 2523 2524	I
+T460	Narrator-2 2619 2620	I
+T461	Narrator-2 2656 2662	myself
+T462	Narrator-2 2685 2687	me
+T417	somebody-13 2696 2704	somebody
+T463	Narrator-2 2720 2722	my
+T464	Narrator-2 2741 2742	I
+T319	an_eighteen-month-old_baby-14 2748 2774	an eighteen-month-old baby
+T321	Sir_Henry_Curtis-6 2792 2798	Curtis
+T322	Captain_John_Good___RN-7 2803 2807	Good
+T465	Narrator-2 2836 2837	I
+T466	my_old_friends-5 2853 2857	they
+T467	Narrator-2 2891 2893	me
+T468	Narrator-2 2925 2927	me
+T469	my_old_friends-5 2943 2948	their
+T470	my_old_friends-5 2998 3003	their
+T471	we-100002 3099 3101	we
+T472	our-100003 3127 3130	our
+T608	others-15 3087 3093	others
+T473	others-15 3166 3171	their
+T474	us-100004 3215 3217	us
+T477	my_old_friends-5 3302 3306	They
+T478	Narrator-2 3355 3356	I
+T479	my_old_friends-5 3403 3407	them
+T480	Narrator-2 3418 3419	I
+T323	my_old_friends-5 3430 3441	Old friends
+T481	Narrator-2 3446 3447	I
+T482	all_men-12 3478 3480	we
+T320	Kukuanaland-16 3495 3506	Kukuanaland
+T366	Captain_John_Good___RN-7 3534 3538	Good
+T483	Narrator-2 3550 3553	you
+T484	Narrator-2 3564 3565	I
+T485	Narrator-2 3578 3579	I
+T486	Narrator-2 3591 3592	I
+T487	Narrator-2 3640 3641	I
+T367	the_veldt-17 3659 3668	the veldt
+T368	Sir_Henry_Curtis-6 3673 3682	Sir Henry
+T488	Sir_Henry_Curtis-6 3688 3691	his
+T489	Sir_Henry_Curtis-6 3705 3708	his
+T490	Sir_Henry_Curtis-6 3738 3741	his
+T491	Sir_Henry_Curtis-6 3775 3777	he
+T369	Captain_John_Good___RN-7 3792 3796	Good
+T370	Captain_John_Good___RN-7 3801 3805	Good
+T492	Narrator-2 3816 3818	me
+T493	Captain_John_Good___RN-7 3840 3843	his
+T494	Narrator-2 3898 3899	I
+T495	Narrator-2 3933 3934	I
+T496	Narrator-2 3973 3974	I
+T497	Narrator-2 4004 4007	you
+T324	Narrator-2 4010 4020	old fellow
+T325	Sir_Henry_Curtis-6 4030 4039	Sir Henry
+T498	Sir_Henry_Curtis-6 4049 4050	I
+T371	Captain_John_Good___RN-7 4069 4073	Good
+T499	Sir_Henry_Curtis-6 4078 4079	I
+T500	my_old_friends-5 4101 4103	we
+T372	Captain_John_Good___RN-7 4124 4128	Good
+T501	my_old_friends-5 4139 4142	you
+T502	Narrator-2 4160 4161	I
+T373	Captain_John_Good___RN-7 4189 4193	Good
+T503	Narrator-2 4271 4274	you
+T326	Sir_Henry_Curtis-6 4291 4300	Sir Henry
+T504	Narrator-2 4303 4304	I
+T505	Narrator-2 4311 4313	my
+T506	Narrator-2 4344 4345	I
+T374	Captain_John_Good___RN-7 4363 4367	Good
+T507	Captain_John_Good___RN-7 4393 4395	He
+T508	Sir_Henry_Curtis-6 4466 4467	I
+T509	Narrator-2 4500 4503	you
+T510	all_men-12 4517 4519	we
+T511	all_men-12 4535 4538	our
+T327	Africa-18 4559 4565	Africa
+T512	Narrator-2 4592 4593	I
+T513	Sir_Henry_Curtis-6 4611 4614	his
+T514	Sir_Henry_Curtis-6 4625 4628	You
+T515	Narrator-2 4647 4648	I
+T516	Sir_Henry_Curtis-6 4662 4663	I
+T375	Captain_John_Good___RN-7 4690 4694	Good
+T517	Captain_John_Good___RN-7 4704 4707	you
+T376	Captain_John_Good___RN-7 4710 4714	Good
+T328	Captain_John_Good___RN-7 4737 4751	that gentleman
+T330	Narrator-2 4765 4775	old fellow
+T329	Sir_Henry_Curtis-6 4788 4797	Sir Henry
+T518	Sir_Henry_Curtis-6 4842 4843	I
+T377	the_squire-19 4910 4920	the squire
+T378	a_country_that_is_sick_of_squires-20 4924 4957	a country that is sick of squires
+T331	squires-21 4950 4957	squires
+T519	Sir_Henry_Curtis-6 4979 4980	I
+T520	Sir_Henry_Curtis-6 5050 5051	I
+T333	Kukuanaland-16 5074 5085	Kukuanaland
+T332	Gagool-22 5090 5096	Gagool
+T379	King_Solomon-23 5101 5113	King Solomon
+T380	King_Solomon__s_Mines-24 5101 5122	King Solomon ’s Mines
+T521	Sir_Henry_Curtis-6 5125 5126	I
+T522	Narrator-2 5138 5141	you
+T524	Sir_Henry_Curtis-6 5204 5205	I
+T525	Narrator-2 5310 5313	you
+T526	all_men-12 5425 5427	we
+T335	Kukuanaland-16 5449 5460	Kukuanaland
+T527	Sir_Henry_Curtis-6 5470 5472	me
+T528	Sir_Henry_Curtis-6 5502 5504	my
+T529	Sir_Henry_Curtis-6 5525 5526	I
+T530	Sir_Henry_Curtis-6 5541 5542	I
+T531	Sir_Henry_Curtis-6 5557 5559	my
+T532	Sir_Henry_Curtis-6 5572 5573	I
+T533	Sir_Henry_Curtis-6 5591 5592	I
+T534	Sir_Henry_Curtis-6 5627 5628	I
+T535	Sir_Henry_Curtis-6 5644 5646	He
+T536	Sir_Henry_Curtis-6 5712 5713	I
+T537	Sir_Henry_Curtis-6 5723 5724	I
+T337	no_wife-100005 5730 5737	no wife
+T338	parent-100006 5741 5747	parent
+T339	child-100007 5762 5767	child
+T538	Sir_Henry_Curtis-6 5776 5778	me
+T539	Sir_Henry_Curtis-6 5804 5806	me
+T398	George-25 5832 5842	my brother
+T540	Sir_Henry_Curtis-6 5832 5834	my
+T340	George-25 5843 5849	George
+T341	his_boy-26 5854 5861	his boy
+T541	George-25 5854 5857	his
+T542	Sir_Henry_Curtis-6 5904 5905	I
+T418	any_one-100008 5929 5936	any one
+T543	Narrator-2 5950 5951	I
+T544	Narrator-2 5961 5962	I
+T545	Sir_Henry_Curtis-6 5971 5974	you
+T381	Captain_John_Good___RN-7 6022 6026	Good
+T546	Captain_John_Good___RN-7 6037 6041	your
+T547	Captain_John_Good___RN-7 6076 6079	you
+T548	Captain_John_Good___RN-7 6094 6095	I
+T382	Captain_John_Good___RN-7 6110 6114	Good
+T549	Captain_John_Good___RN-7 6130 6131	I
+T383	a_lady-100009 6183 6189	a lady
+T550	Narrator-2 6233 6234	I
+T551	Captain_John_Good___RN-7 6245 6248	him
+T384	Captain_John_Good___RN-7 6257 6261	Good
+T552	Narrator-2 6312 6313	I
+T553	Narrator-2 6333 6336	you
+T554	Captain_John_Good___RN-7 6366 6367	I
+T555	Captain_John_Good___RN-7 6433 6434	I
+T556	Narrator-2 6444 6447	you
+T557	Captain_John_Good___RN-7 6450 6451	I
+T385	Captain_John_Good___RN-7 6487 6491	Good
+T342	Sir_Henry_Curtis-6 6501 6510	Sir Henry
+T386	Narrator-2 6525 6535	Quatermain
+T558	my_old_friends-5 6543 6545	us
+T559	Narrator-2 6557 6560	you
+T560	Narrator-2 6582 6583	I
+T561	Narrator-2 6588 6590	my
+T609	my_old_friends-5 6645 6655	you people
+T343	Mt_Kenia-27 6670 6678	Mt Kenia
+T563	Harry-1 6683 6684	I
+T419	Mt_Kenia-27 6707 6716	the place
+T387	Captain_John_Good___RN-7 6726 6730	Good
+T564	my_old_friends-5 6739 6742	you
+T388	Island_of_Lamu-28 6760 6774	Island of Lamu
+T565	Narrator-2 6779 6780	I
+T344	Zanzibar-29 6862 6870	Zanzibar
+T566	Narrator-2 6901 6902	I
+T567	all_men-12 6934 6936	we
+T347	Island_of_Lamu-28 6943 6947	Lamu
+T568	all_men-12 6964 6967	our
+T348	Mt_Kenia-27 6998 7006	Mt Kenia
+T345	Mt_Kenia-27 7014 7022	Mt Kenia
+T389	Mt_Lekakisera-30 7036 7049	Mt Lekakisera
+T346	no_white_man-100010 7102 7114	no white man
+T569	Narrator-2 7134 7136	my
+T570	all_men-12 7170 7172	we
+T390	the_unknown_interior-31 7200 7220	the unknown interior
+T571	my_old_friends-5 7231 7234	you
+T572	Narrator-2 7249 7251	my
+T349	Sir_Henry_Curtis-6 7294 7303	Sir Henry
+T573	Sir_Henry_Curtis-6 7323 7326	You
+T574	Narrator-2 7341 7342	I
+T575	Narrator-2 7368 7369	I
+T576	all_men-12 7383 7385	we
+T577	all_men-12 7403 7405	us
+T578	all_men-12 7433 7435	We
+T579	all_men-12 7465 7467	we
+T580	Narrator-2 7517 7519	my
+T581	Narrator-2 7525 7526	I
+T582	Narrator-2 7566 7567	I
+T583	Narrator-2 7589 7590	I
+T391	Harry-1 7597 7608	My poor boy
+T584	Narrator-2 7597 7599	My
+T585	Narrator-2 7651 7653	me
+T586	Narrator-2 7677 7678	I
+T392	my_native_wilds-32 7689 7704	my native wilds
+T587	Narrator-2 7689 7691	my
+T588	Narrator-2 7715 7716	I
+T589	my_old_friends-5 7726 7729	you
+T590	Narrator-2 7785 7786	I
+T591	Narrator-2 7900 7901	I
+T350	my_old_friends-5 7956 7967	you fellows
+T594	Narrator-2 8008 8009	I
+T595	Sir_Henry_Curtis-6 8029 8030	I
+T596	Narrator-2 8034 8038	your
+T597	Sir_Henry_Curtis-6 8052 8053	I
+T598	Narrator-2 8072 8076	your
+T352	Sir_Henry_Curtis-6 8097 8113	Sir Henry Curtis
+T599	Sir_Henry_Curtis-6 8135 8138	his
+T600	Narrator-2 8148 8150	my
+T393	Captain_John_Good___RN-7 8183 8187	Good
+T601	Captain_John_Good___RN-7 8192 8193	I
+T353	Mt_Kenia-27 8251 8259	Mt Kenia
+T394	Mt_Lekakisera-30 8264 8308	the other place with an unpronounceable name
+T602	Captain_John_Good___RN-7 8376 8378	me
+T603	Narrator-2 8393 8396	you
+T354	Sir_Henry_Curtis-6 8424 8433	Sir Henry
+T604	Narrator-2 8457 8458	I
+T355	the_British_India_steamboat-33 8475 8502	the British India steamboat
+T605	Captain_John_Good___RN-7 8516 8519	you
+T606	Captain_John_Good___RN-7 8572 8575	you
+T395	King_Solomon-23 8623 8635	King Solomon
+T396	King_Solomon__s_Mines-24 8623 8644	King Solomon ’s mines
+T415	Narrator-2 8623 8627	King
+R2	cop Arg1:T29 Arg2:T218
+R3	cop Arg1:T31 Arg2:T225
+R4	cop Arg1:T46 Arg2:T290
+T92	Sir_Henry_Curtis-6 5142 5143	I
+T656	PRON_LOC 6826 6828	it
+T657	Island_of_Lamu-28 6826 6828	it
+R1	cop Arg1:T115 Arg2:T656

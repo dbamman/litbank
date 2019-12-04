@@ -1,0 +1,446 @@
+T1	NOM_GPE 225 248	the province of Gascony
+T3	PROP_PER 293 312	Monsieur St. Aubert
+T6	PROP_GPE 381 388	Gascony
+T9	NOM_LOC 891 941	the pastures and woods that hung upon their skirts
+T11	PROP_GPE 1129 1138	Languedoc
+T12	PROP_GPE 1117 1124	Guienne
+T13	PROP_GPE 1189 1196	Gascony
+T14	NOM_PER 1272 1280	his wife
+T15	NOM_PER 1285 1293	daughter
+T17	NOM_PER 2385 2395	his father
+T18	NOM_PER 2407 2427	a very amiable woman
+T22	NOM_PER 2588 2595	his son
+T24	NOM_PER 2745 2753	his wife
+T25	NOM_PER 2730 2753	the brother of his wife
+T28	NOM_FAC 2938 2947	this spot
+T29	NOM_PER 3111 3134	the grey-headed peasant
+T30	NOM_PER 3936 3946	a stranger
+T35	NOM_PER 4591 4606	its inhabitants
+T37	PROP_PER 4383 4400	Madame St. Aubert
+T38	NOM_FAC 4630 4658	the west side of the chateau
+T40	NOM_PER 5356 5370	the naturalist
+T41	NOM_PER 5669 5681	the shepherd
+T45	PROP_PER 5498 5515	Madame St. Aubert
+T49	NOM_PER 5972 5986	the enthusiast
+T51	PROP_PER 6563 6568	Emily
+T52	NOM_FAC 6464 6499	the eastern side of the green-house
+T54	PROP_PER 6868 6876	Monsieur
+T58	NOM_LOC 7167 7217	the distant landscape , where the Garonne wandered
+T59	NOM_FAC 7035 7076	the little lawn that surrounded the house
+T60	NOM_PER 7220 7252	The peasants of this gay climate
+T62	NOM_PER 7499 7508	the girls
+T63	NOM_PER 8885 8893	his wife
+T64	NOM_PER 8898 8906	children
+T69	NOM_PER 9204 9216	his children
+T70	PROP_PER 9168 9185	Madame St. Aubert
+T71	NOM_PER 9765 9800	a man of moral perceptions like his
+T73	NOM_FAC 19 23	home
+T75	NOM_PER 114 131	polish 'd friends
+T76	NOM_PER 136 150	dear relations
+T77	PROP_PER 175 182	Thomson
+T78	NOM_LOC 186 219	the pleasant banks of the Garonne
+T4	NOM_FAC 278 312	the chateau of Monsieur St. Aubert
+T2	PROP_GPE 369 376	Guienne
+T5	NOM_LOC 342 388	the pastoral landscapes of Guienne and Gascony
+T7	NOM_LOC 410 415	river
+T79	NOM_LOC 427 451	luxuriant woods and vine
+T80	NOM_LOC 458 479	plantations of olives
+T8	NOM_LOC 521 542	the majestic Pyrenees
+T81	NOM_LOC 826 853	These tremendous precipices
+T82	NOM_FAC 981 996	simple cottages
+T83	NOM_LOC 1029 1039	the cliffs
+T86	NOM_LOC 1103 1138	the plains of Guienne and Languedoc
+T88	NOM_LOC 1212 1232	the waters of Biscay
+T89	PROP_GPE 1226 1232	Biscay
+T90	PROP_PER 1235 1248	M. St. Aubert
+T91	NOM_LOC 1299 1324	the margin of the Garonne
+T92	NOM_LOC 1503 1512	the world
+T93	NOM_PER 1562 1571	his heart
+T94	NOM_PER 1546 1553	mankind
+T95	PROP_PER 2190 2200	St. Aubert
+T20	NOM_FAC 2771 2796	a small estate in Gascony
+T23	PROP_GPE 2789 2796	Gascony
+T19	NOM_LOC 3260 3278	The green pastures
+T27	NOM_LOC 3369 3378	the woods
+T96	NOM_LOC 3535 3548	the mountains
+T97	NOM_LOC 3551 3560	the river
+T98	NOM_LOC 3599 3617	the distant plains
+T99	PROP_PER 3696 3706	St. Aubert
+T100	NOM_FAC 3848 3860	The building
+T101	NOM_FAC 3893 3909	a summer cottage
+T102	PROP_PER 4099 4109	St. Aubert
+T103	NOM_FAC 4260 4276	the new building
+T104	NOM_FAC 4303 4314	the old one
+T33	NOM_FAC 4337 4367	a simple and elegant residence
+T34	NOM_FAC 4544 4554	apartments
+T36	NOM_FAC 4609 4620	The library
+T105	NOM_FAC 4750 4759	This room
+T106	NOM_LOC 4772 4779	a grove
+T107	NOM_LOC 4797 4827	the brow of a gentle declivity
+T108	NOM_LOC 4848 4857	the river
+T39	NOM_LOC 4994 5048	the gay and luxuriant landscape stretching to the west
+T109	NOM_LOC 5081 5116	the bold precipices of the Pyrenees
+T110	NOM_FAC 5129 5140	the library
+T111	NOM_FAC 5145 5158	a green-house
+T112	PROP_PER 5232 5242	St. Aubert
+T113	NOM_LOC 5279 5305	the neighbouring mountains
+T44	NOM_LOC 5913 5986	cliffs that seemed scarcely accessible but to the steps of the enthusiast
+T46	NOM_LOC 6095 6122	one of those green recesses
+T47	NOM_LOC 6152 6180	the bosom of these mountains
+T48	NOM_LOC 6304 6347	the cool stream , that crept along the turf
+T50	NOM_LOC 6518 6541	the plains of Languedoc
+T114	PROP_GPE 6532 6541	Languedoc
+T115	NOM_FAC 6548 6554	a room
+T53	PROP_PER 6881 6898	Madame St. Aubert
+T55	NOM_FAC 6947 6956	this room
+T56	PROP_LOC 7197 7208	the Garonne
+T57	NOM_LOC 7340 7363	the margin of the river
+T61	NOM_FAC 7587 7611	The front of the chateau
+T117	NOM_FAC 7729 7742	a rustic hall
+T118	NOM_FAC 7749 7776	two excellent sitting rooms
+T119	NOM_FAC 7779 7794	The first floor
+T120	NOM_FAC 7801 7812	the cottage
+T122	NOM_FAC 7851 7863	bed-chambers
+T123	NOM_FAC 7873 7911	one apartment that opened to a balcony
+T124	NOM_FAC 7947 7963	a breakfast-room
+T125	NOM_FAC 7969 7991	the surrounding ground
+T126	PROP_PER 7994 8004	St. Aubert
+T127	NOM_FAC 8226 8238	the building
+T128	PROP_PER 8272 8282	St. Aubert
+T129	NOM_FAC 8479 8494	a lofty terrace
+T130	NOM_LOC 8507 8537	the swelling bank of the river
+T131	NOM_LOC 8811 8820	the river
+T132	PROP_PER 8823 8833	St. Aubert
+T65	NOM_PER 9541 9550	His heart
+T67	NOM_FAC 27 168	the resort Of love , of joy , of peace and plenty , where , Supporting and supported , polish 'd friends And dear relations mingle into bliss
+T68	PROP_LOC 208 219	the Garonne
+T72	NOM_LOC 7677 7690	the mountains
+T42	NOM_PER 5536 5548	his daughter
+T26	NOM_PER 2711 2727	Monsieur Quesnel
+T10	NOM_PER 1980 2001	an illustrious family
+T16	NOM_PER 1958 2001	the younger branch of an illustrious family
+T31	NOM_PER 1940 2001	a descendant from the younger branch of an illustrious family
+T32	NOM_FAC 4066 4096	a comfortable family residence
+T43	NOM_LOC 3777 3786	the world
+T66	NOM_PER 9529 9538	the world
+T84	NOM_FAC 6695 6699	Here
+T85	NOM_FAC 8545 8666	a plantation of orange , lemon , and palm-trees , whose fruit , in the coolness of evening , breathed delicious fragrance
+T87	NOM_FAC 8724 8728	Here
+T146	NOM_FAC 9115 9119	Here
+T148	PRON_LOC 813 818	their
+T149	PRON_LOC 929 934	their
+T150	PRON_PER 1272 1275	his
+T151	PRON_PER 1382 1384	He
+T152	PRON_PER 1562 1565	his
+T153	PRON_PER 1604 1607	his
+T154	PRON_PER 1695 1698	his
+T155	PRON_PER 1730 1733	his
+T156	PRON_PER 1762 1764	he
+T157	PRON_PER 1933 1935	He
+T158	PRON_PER 2049 2052	his
+T159	PRON_PER 2314 2316	he
+T160	PRON_PER 2385 2388	his
+T161	PRON_PER 2396 2398	he
+T162	PRON_PER 2430 2433	his
+T163	PRON_PER 2459 2462	his
+T164	PRON_PER 2569 2572	his
+T165	PRON_PER 2588 2591	his
+T166	PRON_PER 2682 2685	his
+T167	PRON_PER 2697 2699	he
+T168	PRON_PER 2745 2748	his
+T169	PRON_PER 2855 2858	his
+T170	PRON_PER 2948 2950	he
+T171	PRON_PER 2974 2977	his
+T172	PRON_PER 2988 2990	He
+T173	PRON_PER 3076 3079	his
+T174	PRON_PER 3291 3293	he
+T175	PRON_PER 3410 3412	he
+T176	PRON_PER 3500 3503	his
+T177	PRON_PER 3578 3580	he
+T178	PRON_PER 3646 3649	his
+T179	PRON_PER 3750 3752	he
+T180	PRON_PER 3764 3771	himself
+T181	PRON_PER 4172 4174	he
+T182	PRON_PER 4189 4192	his
+T183	PRON_PER 5373 5375	he
+T184	PRON_PER 5415 5418	his
+T185	PRON_PER 5439 5441	He
+T186	PRON_PER 5536 5539	his
+T187	PRON_PER 5699 5703	they
+T188	PRON_PER 5831 5835	them
+T190	PRON_PER 6079 6083	they
+T191	PRON_PER 6239 6243	they
+T192	PRON_PER 6252 6257	their
+T193	PRON_PER 6603 6606	her
+T194	PRON_PER 6615 6618	her
+T195	PRON_PER 6630 6633	her
+T196	PRON_PER 6700 6703	she
+T197	PRON_PER 6722 6729	herself
+T199	PRON_PER 6795 6798	her
+T200	PRON_PER 6906 6909	her
+T202	PRON_PER 7366 7371	Their
+T203	PRON_PER 7435 7440	their
+T204	PRON_PER 7518 7523	their
+T205	PRON_PER 8058 8061	his
+T206	PRON_PER 8084 8086	he
+T207	PRON_PER 8107 8110	his
+T208	PRON_PER 8130 8132	he
+T209	PRON_PER 8311 8313	he
+T210	PRON_PER 8323 8325	he
+T212	PRON_PER 8413 8415	he
+T213	PRON_PER 8885 8888	his
+T214	PRON_PER 9128 9130	he
+T215	PRON_PER 9204 9207	his
+T216	PRON_PER 9229 9236	himself
+T217	PRON_PER 9334 9336	He
+T218	PRON_PER 9390 9393	his
+T219	PRON_PER 9541 9544	His
+T220	PRON_PER 9716 9719	his
+T221	PRON_PER 9797 9800	his
+T222	PRON_PER 9821 9824	his
+T223	PRON_PER 9906 9909	him
+T224	PRON_PER 9915 9918	his
+T225	PRON_PER 9942 9944	He
+T227	PRON_PER 10301 10303	he
+T228	PRON_PER 10325 10328	his
+T229	PROP_LOC 1313 1324	the Garonne
+T230	PROP_PER 2485 2513	The late Monsieur St. Aubert
+T231	NOM_FAC 4647 4658	the chateau
+T232	NOM_LOC 6165 6180	these mountains
+T233	NOM_FAC 6484 6499	the green-house
+T234	PRON_FAC 6576 6580	hers
+T235	NOM_LOC 8528 8537	the river
+T309	home-100000 19 23	home
+T311	polish_'d_friends-100001 114 131	polish 'd friends
+T312	dear_relations-100002 136 150	dear relations
+T313	Thomson-100003 175 182	Thomson
+T314	the_pleasant_banks_of_the_Garonne-0 186 219	the pleasant banks of the Garonne
+T304	the_Garonne-1 208 219	the Garonne
+T237	Gascony-2 225 248	the province of Gascony
+T240	the_chateau_of_Monsieur_St__Aubert-3 278 312	the chateau of Monsieur St. Aubert
+T239	Monsieur_St__Aubert-4 293 312	Monsieur St. Aubert
+T241	the_pastoral_landscapes_of_Guienne_and_Gascony-5 342 388	the pastoral landscapes of Guienne and Gascony
+T238	Guienne-6 369 376	Guienne
+T242	Gascony-2 381 388	Gascony
+T315	luxuriant_woods_and_vine-8 427 451	luxuriant woods and vine
+T316	plantations_of_olives-9 458 479	plantations of olives
+T244	the_majestic_Pyrenees-10 521 542	the majestic Pyrenees
+T317	the_majestic_Pyrenees-10 826 853	These tremendous precipices
+T245	the_pastures_and_woods_that_hung_upon_their_skirts-11 891 941	the pastures and woods that hung upon their skirts
+T384	the_majestic_Pyrenees-10 813 818	their
+T385	the_majestic_Pyrenees-10 929 934	their
+T318	simple_cottages-12 981 996	simple cottages
+T319	the_cliffs-13 1029 1039	the cliffs
+T322	the_plains_of_Guienne_and_Languedoc-14 1103 1138	the plains of Guienne and Languedoc
+T248	Guienne-6 1117 1124	Guienne
+T247	Languedoc-15 1129 1138	Languedoc
+T243	the_Garonne-1 410 415	river
+T249	Gascony-2 1189 1196	Gascony
+T324	the_waters_of_Biscay-16 1212 1232	the waters of Biscay
+T325	Biscay-17 1226 1232	Biscay
+T326	Monsieur_St__Aubert-4 1235 1248	M. St. Aubert
+T250	Madame_St__Aubert-18 1272 1280	his wife
+T386	Monsieur_St__Aubert-4 1272 1275	his
+T251	Emily_St__Aubert-19 1285 1293	daughter
+T327	the_margin_of_the_Garonne-20 1299 1324	the margin of the Garonne
+T465	the_Garonne-1 1313 1324	the Garonne
+T387	Monsieur_St__Aubert-4 1382 1384	He
+T328	the_world-21 1503 1512	the world
+T330	mankind-22 1546 1553	mankind
+T388	Monsieur_St__Aubert-4 1562 1565	his
+T329	Monsieur_St__Aubert-4 1562 1571	his heart
+T389	Monsieur_St__Aubert-4 1604 1607	his
+T390	Monsieur_St__Aubert-4 1695 1698	his
+T391	Monsieur_St__Aubert-4 1730 1733	his
+T392	Monsieur_St__Aubert-4 1762 1764	he
+T393	Monsieur_St__Aubert-4 1933 1935	He
+T252	the_younger_branch_of_an_illustrious_family-24 1958 2001	the younger branch of an illustrious family
+T246	an_illustrious_family-25 1980 2001	an illustrious family
+T394	Monsieur_St__Aubert-4 2049 2052	his
+T331	Monsieur_St__Aubert-4 2190 2200	St. Aubert
+T395	Monsieur_St__Aubert-4 2314 2316	he
+T253	his_father-26 2385 2395	his father
+T396	Monsieur_St__Aubert-4 2385 2388	his
+T397	Monsieur_St__Aubert-4 2396 2398	he
+T254	Madame_St__Aubert-18 2407 2427	a very amiable woman
+T398	Monsieur_St__Aubert-4 2430 2433	his
+T399	Monsieur_St__Aubert-4 2459 2462	his
+T466	his_father-26 2485 2513	The late Monsieur St. Aubert
+T400	his_father-26 2569 2572	his
+T258	Monsieur_St__Aubert-4 2588 2595	his son
+T401	his_father-26 2588 2591	his
+T402	Monsieur_St__Aubert-4 2682 2685	his
+T403	Monsieur_St__Aubert-4 2697 2699	he
+T262	Monsieur_Quesnel-27 2711 2727	Monsieur Quesnel
+T260	Madame_St__Aubert-18 2745 2753	his wife
+T404	Monsieur_St__Aubert-4 2745 2748	his
+T256	the_chateau_of_Monsieur_St__Aubert-3 2771 2796	a small estate in Gascony
+T259	Gascony-2 2789 2796	Gascony
+T405	Monsieur_St__Aubert-4 2855 2858	his
+T264	the_chateau_of_Monsieur_St__Aubert-3 2938 2947	this spot
+T406	Monsieur_St__Aubert-4 2948 2950	he
+T407	Monsieur_St__Aubert-4 2974 2977	his
+T408	Monsieur_St__Aubert-4 2988 2990	He
+T409	Monsieur_St__Aubert-4 3076 3079	his
+T265	the_grey-headed_peasant-28 3111 3134	the grey-headed peasant
+T255	the_pastures_and_woods_that_hung_upon_their_skirts-11 3260 3278	The green pastures
+T410	Monsieur_St__Aubert-4 3291 3293	he
+T263	luxuriant_woods_and_vine-8 3369 3378	the woods
+T411	Monsieur_St__Aubert-4 3410 3412	he
+T412	Monsieur_St__Aubert-4 3500 3503	his
+T332	the_majestic_Pyrenees-10 3535 3548	the mountains
+T333	the_Garonne-1 3551 3560	the river
+T413	Monsieur_St__Aubert-4 3578 3580	he
+T334	the_plains_of_Guienne_and_Languedoc-14 3599 3617	the distant plains
+T414	Monsieur_St__Aubert-4 3646 3649	his
+T335	Monsieur_St__Aubert-4 3696 3706	St. Aubert
+T415	Monsieur_St__Aubert-4 3750 3752	he
+T416	Monsieur_St__Aubert-4 3764 3771	himself
+T279	the_world-21 3777 3786	the world
+T266	a_stranger-29 3936 3946	a stranger
+T338	Monsieur_St__Aubert-4 4099 4109	St. Aubert
+T417	Monsieur_St__Aubert-4 4172 4174	he
+T418	Monsieur_St__Aubert-4 4189 4192	his
+T336	old_building-30 3848 3860	The building
+T339	the_new_building-31 4260 4276	the new building
+T340	old_building-30 4303 4314	the old one
+T273	Madame_St__Aubert-18 4383 4400	Madame St. Aubert
+T270	apartments-32 4544 4554	apartments
+T271	its_inhabitants-33 4591 4606	its inhabitants
+T272	The_library-34 4609 4620	The library
+T274	the_west_side_of_the_chateau-35 4630 4658	the west side of the chateau
+T467	the_chateau_of_Monsieur_St__Aubert-3 4647 4658	the chateau
+T341	The_library-34 4750 4759	This room
+T342	a_grove-36 4772 4779	a grove
+T343	the_brow_of_a_gentle_declivity-37 4797 4827	the brow of a gentle declivity
+T344	the_Garonne-1 4848 4857	the river
+T275	the_gay_and_luxuriant_landscape_stretching_to_the_west-38 4994 5048	the gay and luxuriant landscape stretching to the west
+T345	the_majestic_Pyrenees-10 5081 5116	the bold precipices of the Pyrenees
+T346	The_library-34 5129 5140	the library
+T347	a_green-house-39 5145 5158	a green-house
+T348	Monsieur_St__Aubert-4 5232 5242	St. Aubert
+T349	the_majestic_Pyrenees-10 5279 5305	the neighbouring mountains
+T276	the_naturalist-40 5356 5370	the naturalist
+T419	Monsieur_St__Aubert-4 5373 5375	he
+T420	Monsieur_St__Aubert-4 5415 5418	his
+T421	Monsieur_St__Aubert-4 5439 5441	He
+T281	Madame_St__Aubert-18 5498 5515	Madame St. Aubert
+T278	Emily_St__Aubert-19 5536 5548	his daughter
+T422	Monsieur_St__Aubert-4 5536 5539	his
+T277	the_grey-headed_peasant-28 5669 5681	the shepherd
+T423	St__Aubert_family-41 5699 5703	they
+T424	St__Aubert_family-41 5831 5835	them
+T280	cliffs_that_seemed_scarcely_accessible_but_to_the_steps_of_the_enthusiast-42 5913 5986	cliffs that seemed scarcely accessible but to the steps of the enthusiast
+T285	the_enthusiast-43 5972 5986	the enthusiast
+T426	St__Aubert_family-41 6079 6083	they
+T282	one_of_those_green_recesses-44 6095 6122	one of those green recesses
+T283	the_bosom_of_these_mountains-45 6152 6180	the bosom of these mountains
+T468	the_majestic_Pyrenees-10 6165 6180	these mountains
+T427	St__Aubert_family-41 6239 6243	they
+T428	St__Aubert_family-41 6252 6257	their
+T284	the_cool_stream___that_crept_along_the_turf-46 6304 6347	the cool stream , that crept along the turf
+T288	the_eastern_side_of_the_green-house-47 6464 6499	the eastern side of the green-house
+T469	a_green-house-39 6484 6499	the green-house
+T286	the_plains_of_Languedoc-48 6518 6541	the plains of Languedoc
+T350	Languedoc-15 6532 6541	Languedoc
+T287	Emily_St__Aubert-19 6563 6568	Emily
+T351	Emily_s_room-50 6548 6554	a room
+T429	Emily_St__Aubert-19 6603 6606	her
+T430	Emily_St__Aubert-19 6615 6618	her
+T431	Emily_St__Aubert-19 6630 6633	her
+T320	Emily_s_room-50 6695 6699	Here
+T432	Emily_St__Aubert-19 6700 6703	she
+T433	Emily_St__Aubert-19 6722 6729	herself
+T435	Emily_St__Aubert-19 6795 6798	her
+T290	Monsieur_St__Aubert-4 6868 6876	Monsieur
+T289	Madame_St__Aubert-18 6881 6898	Madame St. Aubert
+T436	Emily_St__Aubert-19 6906 6909	her
+T291	Emily_s_room-50 6947 6956	this room
+T295	the_little_lawn_that_surrounded_the_house-51 7035 7076	the little lawn that surrounded the house
+T294	the_distant_landscape___where_the_Garonne_wandered-52 7167 7217	the distant landscape , where the Garonne wandered
+T292	the_Garonne-1 7197 7208	the Garonne
+T296	The_peasants_of_this_gay_climate-53 7220 7252	The peasants of this gay climate
+T293	the_margin_of_the_Garonne-20 7340 7363	the margin of the river
+T438	The_peasants_of_this_gay_climate-53 7366 7371	Their
+T439	The_peasants_of_this_gay_climate-53 7435 7440	their
+T298	peasant_girls-54 7499 7508	the girls
+T440	peasant_girls-54 7518 7523	their
+T297	The_front_of_the_chateau-55 7587 7611	The front of the chateau
+T308	the_majestic_Pyrenees-10 7677 7690	the mountains
+T353	a_rustic_hall-56 7729 7742	a rustic hall
+T354	two_excellent_sitting_rooms-57 7749 7776	two excellent sitting rooms
+T355	The_first_floor-58 7779 7794	The first floor
+T356	the_chateau_of_Monsieur_St__Aubert-3 7801 7812	the cottage
+T358	bed-chambers-60 7851 7863	bed-chambers
+T359	one_apartment_that_opened_to_a_balcony-61 7873 7911	one apartment that opened to a balcony
+T360	a_breakfast-room-62 7947 7963	a breakfast-room
+T361	the_surrounding_ground-63 7969 7991	the surrounding ground
+T362	Monsieur_St__Aubert-4 7994 8004	St. Aubert
+T441	Monsieur_St__Aubert-4 8058 8061	his
+T442	Monsieur_St__Aubert-4 8084 8086	he
+T443	Monsieur_St__Aubert-4 8107 8110	his
+T444	Monsieur_St__Aubert-4 8130 8132	he
+T363	the_chateau_of_Monsieur_St__Aubert-3 8226 8238	the building
+T364	Monsieur_St__Aubert-4 8272 8282	St. Aubert
+T445	Monsieur_St__Aubert-4 8311 8313	he
+T446	Monsieur_St__Aubert-4 8323 8325	he
+T448	Monsieur_St__Aubert-4 8413 8415	he
+T365	a_lofty_terrace-64 8479 8494	a lofty terrace
+T366	the_swelling_bank_of_the_river-65 8507 8537	the swelling bank of the river
+T471	the_Garonne-1 8528 8537	the river
+T321	a_plantation_of_orange___lemon___and_palm-trees___whose_fruit___in_the_coolness_of_evening___breathed_delicious_fragrance-66 8545 8666	a plantation of orange , lemon , and palm-trees , whose fruit , in the coolness of evening , breathed delicious fragrance
+T323	a_plantation_of_orange___lemon___and_palm-trees___whose_fruit___in_the_coolness_of_evening___breathed_delicious_fragrance-66 8724 8728	Here
+T367	the_Garonne-1 8811 8820	the river
+T368	Monsieur_St__Aubert-4 8823 8833	St. Aubert
+T299	Madame_St__Aubert-18 8885 8893	his wife
+T449	Monsieur_St__Aubert-4 8885 8888	his
+T300	children-67 8898 8906	children
+T382	a_plantation_of_orange___lemon___and_palm-trees___whose_fruit___in_the_coolness_of_evening___breathed_delicious_fragrance-66 9115 9119	Here
+T450	Monsieur_St__Aubert-4 9128 9130	he
+T306	Madame_St__Aubert-18 9168 9185	Madame St. Aubert
+T305	children-67 9204 9216	his children
+T451	Monsieur_St__Aubert-4 9204 9207	his
+T452	Monsieur_St__Aubert-4 9229 9236	himself
+T453	Monsieur_St__Aubert-4 9334 9336	He
+T454	Monsieur_St__Aubert-4 9390 9393	his
+T302	the_world-803 9529 9538	the world
+T301	Monsieur_St__Aubert-4 9541 9550	His heart
+T455	Monsieur_St__Aubert-4 9541 9544	His
+T456	Monsieur_St__Aubert-4 9716 9719	his
+T307	a_man_of_moral_perceptions_like_his-68 9765 9800	a man of moral perceptions like his
+T457	Monsieur_St__Aubert-4 9797 9800	his
+T458	Monsieur_St__Aubert-4 9821 9824	his
+T459	Monsieur_St__Aubert-4 9906 9909	him
+T460	Monsieur_St__Aubert-4 9915 9918	his
+T461	Monsieur_St__Aubert-4 9942 9944	He
+T463	Monsieur_St__Aubert-4 10301 10303	he
+T464	Monsieur_St__Aubert-4 10325 10328	his
+R1	cop Arg1:T31 Arg2:T157
+R2	appos Arg1:T25 Arg2:T26
+R3	cop Arg1:T101 Arg2:T100
+R5	cop Arg1:T33 Arg2:T103
+R7	cop Arg1:T67 Arg2:T309
+T472	PRON_FAC 320 323	its
+T473	the_chateau_of_Monsieur_St__Aubert-3 320 323	its
+T474	PRON_LOC 1370 1373	its
+T475	the_Garonne-1 1370 1373	its
+T482	PRON_FAC 3020 3022	it
+T483	the_chateau_of_Monsieur_St__Aubert-3 3020 3022	it
+T486	PRON_FAC 3866 3868	it
+T487	old_building-30 3866 3868	it
+T488	PRON_FAC 3950 3953	its
+T489	old_building-30 3950 3953	its
+T490	PRON_FAC 4063 4065	it
+T491	old_building-30 4063 4065	it
+T492	PRON_FAC 4233 4235	it
+T493	old_building-30 4233 4235	it
+T494	PRON_FAC 4329 4331	it
+T495	old_building-30 4329 4331	it
+T498	PRON_FAC 4591 4594	its
+T499	apartments-32 4591 4594	its
+T500	PRON_LOC 4884 4886	it
+T501	a_grove-36 4884 4886	it
+R4	cop Arg1:T32 Arg2:T490
+T21	Emily_s_room-50 6576 6580	hers
+T74	NOM_FAC 7817 7832	no second story
+T116	second_story-59 7817 7832	no second story

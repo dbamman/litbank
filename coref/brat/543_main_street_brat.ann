@@ -1,0 +1,684 @@
+T0	NOM_PER 86 92	a girl
+T2	PROP_PER 47 56	Chippewas
+T3	PROP_GPE 259 267	St. Paul
+T4	PROP_GPE 243 254	Minneapolis
+T5	NOM_PER 163 173	no Indians
+T6	NOM_PER 294 300	squaws
+T7	NOM_PER 490 514	the chemistry instructor
+T8	NOM_PER 455 460	heels
+T9	NOM_FAC 761 775	the lower road
+T10	NOM_PER 741 757	a chance watcher
+T11	PROP_GPE 1279 1286	Camelot
+T12	NOM_PER 1293 1310	a rebellious girl
+T14	PROP_GPE 1422 1433	Minneapolis
+T15	PROP_PER 1517 1525	Voltaire
+T16	PROP_PER 1541 1557	Robert Ingersoll
+T17	PROP_PER 1609 1620	the Dakotas
+T18	PROP_ORG 1655 1663	Blodgett
+T19	NOM_PER 1626 1640	their children
+T20	PROP_PER 1817 1823	Milton
+T21	NOM_PER 1736 1750	friendly girls
+T22	NOM_PER 1753 1771	young men who sing
+T25	PROP_PER 1828 1835	Carlyle
+T26	PROP_ORG 1877 1885	Blodgett
+T27	NOM_PER 1960 1966	rivals
+T30	NOM_PER 2280 2307	two or three prettier girls
+T31	NOM_PER 2412 2450	the three hundred students of Blodgett
+T34	NOM_PER 2620 2652	The other girls in her dormitory
+T35	NOM_PER 2907 2916	the girls
+T37	NOM_LOC 3431 3440	the world
+T39	NOM_PER 4638 4647	Every man
+T40	NOM_FAC 4840 4857	the Main Building
+T41	NOM_FAC 4828 4857	the hall of the Main Building
+T42	NOM_PER 4860 4870	the co-eds
+T43	NOM_FAC 4808 4815	library
+T44	NOM_PER 5106 5122	fabulous suitors
+T45	NOM_PER 5224 5247	an optician in St. Paul
+T47	PROP_GPE 5239 5247	St. Paul
+T48	NOM_LOC 5460 5469	the world
+T51	PROP_PER 5880 5883	God
+T52	NOM_PER 5722 5737	grubby children
+T55	PROP_PER 6163 6169	Caesar
+T56	NOM_PER 6321 6341	an unidentified hero
+T57	NOM_PER 6382 6406	The sociology instructor
+T58	NOM_PER 6539 6560	millionaire uplifters
+T59	PROP_GPE 6593 6601	New York
+T60	NOM_PER 6530 6534	Jews
+T61	PROP_GPE 6477 6483	Boston
+T62	NOM_PER 6515 6525	socialists
+T63	PROP_GPE 6758 6766	St. Paul
+T64	PROP_GPE 6742 6753	Minneapolis
+T65	NOM_PER 6930 6947	a great liberator
+T66	NOM_PER 7336 7356	These college chumps
+T67	PROP_PER 7106 7120	Stewart Snyder
+T68	NOM_FAC 7424 7432	the farm
+T69	NOM_LOC 7758 7767	the world
+T70	PROP_PER 7770 7784	Stewart Snyder
+T71	NOM_PER 8153 8169	a lawyer ’s wife
+T72	NOM_PER 8190 8201	his clients
+T74	NOM_PER 8364 8393	a fellow that was too serious
+T75	PROP_PER 8678 8685	Stewart
+T76	NOM_PER 8771 8791	celebrated reformers
+T77	PROP_PER 8928 8940	Bernard Shaw
+T78	NOM_PER 8862 8867	a nun
+T80	NOM_GPE 9092 9096	town
+T81	PROP_LOC 9179 9190	New England
+T83	NOM_FAC 9551 9574	a Blodgett College room
+T84	NOM_PER 9623 9628	girls
+T85	NOM_FAC 9841 9849	the room
+T86	NOM_PER 9899 9912	girl students
+T88	NOM_PER 10412 10421	a teacher
+T90	PROP_GPE 10488 10499	Long Island
+T92	NOM_LOC 10555 10568	the Northwest
+T93	NOM_FAC 10707 10727	a quaint Main Street
+T1	PROP_LOC 25 40	the Mississippi
+T96	NOM_LOC 15 83	a hill by the Mississippi where Chippewas camped two generations ago
+T97	NOM_FAC 188 199	flour-mills
+T98	NOM_FAC 228 267	skyscrapers in Minneapolis and St. Paul
+T99	NOM_PER 320 375	the Yankee fur-traders whose shadows were all about her
+T100	PROP_PER 430 436	Brieux
+T101	NOM_LOC 620 631	wheat-lands
+T102	NOM_LOC 957 966	a hilltop
+T103	NOM_PER 947 966	A girl on a hilltop
+T104	PROP_PER 1099 1112	Carol Milford
+T105	PROP_ORG 1140 1156	Blodgett College
+T13	NOM_PER 1187 1208	lassies in sunbonnets
+T106	PROP_LOC 1358 1381	the American Middlewest
+T107	PROP_ORG 1387 1403	Blodgett College
+T108	PROP_PER 1528 1534	Darwin
+T109	PROP_GPE 1578 1587	Minnesota
+T110	PROP_GPE 1590 1594	Iowa
+T111	PROP_GPE 1597 1606	Wisconsin
+T112	NOM_ORG 1641 1648	thither
+T113	NOM_ORG 1701 1717	the universities
+T23	NOM_PER 1778 1835	one lady instructress who really likes Milton and Carlyle
+T24	PROP_PER 1862 1867	Carol
+T114	NOM_ORG 1932 1942	the school
+T28	PROP_ORG 2442 2450	Blodgett
+T29	NOM_FAC 2639 2652	her dormitory
+T32	NOM_PER 2827 2890	a fragile child who must be cloaked with understanding kindness
+T33	NOM_ORG 3291 3329	the Blodgett Ladies ’ Basket-Ball Team
+T36	NOM_PER 3101 3329	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the “ gym ” in practise for the Blodgett Ladies ’ Basket-Ball Team
+T115	NOM_FAC 3263 3274	the “ gym ”
+T116	PROP_PER 3689 3694	Carol
+T117	NOM_PER 3689 3711	Carol ’s acquaintances
+T118	NOM_PER 3865 3887	a born hero-worshipper
+T38	NOM_PER 4286 4298	missionaries
+T119	NOM_PER 4238 4298	the Student Volunteers , who intended to become missionaries
+T120	NOM_FAC 4466 4472	chapel
+T121	PROP_PER 4684 4689	Carol
+T122	NOM_ORG 4915 4922	college
+T123	NOM_PER 4932 4985	the girls who knew that they were going to be married
+T46	PROP_PER 5132 5137	Carol
+T124	NOM_PER 5148 5157	an orphan
+T125	NOM_PER 5187 5247	a vanilla-flavored sister married to an optician in St. Paul
+T126	NOM_PER 5160 5182	her only near relative
+T127	NOM_PER 5286 5296	her father
+T49	NOM_LOC 5493 5502	the world
+T128	NOM_PER 5544 5576	the girls who were not betrothed
+T129	NOM_PER 5536 5576	Most of the girls who were not betrothed
+T130	NOM_FAC 5700 5717	beastly classroom
+T131	NOM_PER 5632 5777	careless young women who admitted that they intended to leave the “ beastly classroom and grubby children ” the minute they had a chance to marry
+T132	NOM_PER 5784 5948	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to “ guide their feet along the paths of greatest usefulness . ”
+T133	PROP_PER 5970 5975	Carol
+T53	PROP_PER 6208 6213	Carol
+T134	NOM_PER 6505 6510	poets
+T135	NOM_FAC 6564 6601	the University Settlement in New York
+T136	NOM_FAC 6679 6690	the prisons
+T137	NOM_ORG 6693 6712	the charity bureaus
+T138	NOM_ORG 6715 6766	the employment agencies of Minneapolis and St. Paul
+T139	PROP_PER 6801 6806	Carol
+T140	NOM_PER 6890 6898	the poor
+T141	NOM_FAC 6905 6910	a Zoo
+T142	NOM_PER 7088 7120	A classmate named Stewart Snyder
+T143	NOM_PER 7123 7235	a competent bulky young man in a gray flannel shirt , a rusty black bow tie , and the green-and-purple class cap
+T144	NOM_FAC 7302 7331	the South St. Paul stockyards
+T145	NOM_PER 7452 7465	These workmen
+T146	NOM_PER 7505 7519	common workmen
+T147	PROP_PER 7531 7536	Carol
+T148	NOM_PER 7577 7591	common workmen
+T149	PROP_PER 7659 7664	Carol
+T150	PROP_PER 8025 8030	Carol
+T151	NOM_PER 7996 8013	these darn co-eds
+T152	NOM_PER 7988 8013	Most of these darn co-eds
+T153	NOM_PER 8056 8062	people
+T154	NOM_PER 8153 8161	a lawyer
+T155	NOM_FAC 8836 8854	a settlement-house
+T156	NOM_FAC 8826 8854	a cell in a settlement-house
+T157	NOM_PER 8966 8990	a horde of grateful poor
+T79	NOM_PER 9108 9113	girls
+T158	NOM_ORG 9108 9121	girls ’ clubs
+T82	PROP_GPE 9193 9205	Pennsylvania
+T159	PROP_GPE 9170 9176	France
+T160	PROP_ORG 9553 9569	Blodgett College
+T161	NOM_FAC 9649 9661	the Coliseum
+T162	PROP_PER 9832 9837	Carol
+T87	NOM_GPE 10263 10289	one of these prairie towns
+T89	NOM_PER 10363 10372	a teacher
+T91	NOM_GPE 10462 10499	all the garden suburbs on Long Island
+T163	NOM_FAC 10600 10609	libraries
+T164	NOM_GPE 10532 10568	the ugly towns here in the Northwest
+T94	NOM_FAC 10662 10677	a village green
+T95	NOM_FAC 10684 10700	darling cottages
+T54	NOM_PER 6048 6067	The earnest virgins
+T73	NOM_PER 8221 8229	a lawyer
+T50	NOM_PER 5589 5597	teachers
+T168	NOM_PER 8309 8315	people
+T169	NOM_PER 7979 7985	people
+T170	NOM_PER 10502 10508	Nobody
+T171	NOM_LOC 10547 10551	here
+T174	PRON_PER 155 158	She
+T175	PRON_PER 180 183	she
+T176	PRON_PER 278 281	she
+T177	PRON_PER 372 375	her
+T178	PRON_PER 378 381	She
+T179	PRON_PER 562 565	her
+T180	PRON_PER 640 643	her
+T181	PRON_PER 806 809	her
+T182	PRON_PER 841 844	She
+T183	PRON_PER 852 855	her
+T184	PRON_PER 863 866	she
+T185	PRON_PER 898 901	her
+T186	PRON_PER 1019 1022	she
+T187	PRON_PER 1626 1631	their
+T188	PRON_PER 1673 1677	them
+T189	PRON_PER 1979 1982	her
+T190	PRON_PER 2002 2005	her
+T191	PRON_PER 2029 2032	She
+T192	PRON_PER 2259 2262	her
+T193	PRON_PER 2332 2335	She
+T194	PRON_PER 2534 2537	her
+T195	PRON_PER 2639 2642	her
+T196	PRON_PER 2683 2686	her
+T197	PRON_PER 2697 2701	they
+T198	PRON_PER 2706 2709	her
+T199	PRON_PER 2770 2773	She
+T200	PRON_PER 2807 2811	they
+T201	PRON_PER 2973 2976	her
+T202	PRON_PER 3001 3004	her
+T203	PRON_PER 3066 3069	she
+T204	PRON_PER 3342 3345	she
+T205	PRON_PER 3356 3359	her
+T206	PRON_PER 3387 3390	She
+T207	PRON_PER 3488 3491	she
+T208	PRON_PER 3535 3538	her
+T209	PRON_PER 3609 3612	her
+T210	PRON_PER 3674 3677	she
+T211	PRON_PER 3724 3727	her
+T212	PRON_PER 3735 3738	she
+T213	PRON_PER 3792 3795	she
+T214	PRON_PER 3835 3838	She
+T215	PRON_PER 3894 3897	she
+T216	PRON_PER 3946 3949	she
+T217	PRON_PER 3963 3966	she
+T218	PRON_PER 3991 3994	Her
+T219	PRON_PER 4016 4019	her
+T220	PRON_PER 4031 4034	she
+T221	PRON_PER 4058 4061	she
+T222	PRON_PER 4175 4178	she
+T223	PRON_PER 4209 4212	she
+T224	PRON_PER 4405 4408	She
+T225	PRON_PER 4452 4455	she
+T226	PRON_PER 4491 4494	her
+T227	PRON_PER 4558 4561	her
+T228	PRON_PER 4591 4594	her
+T229	PRON_PER 4619 4622	her
+T230	PRON_PER 4715 4718	she
+T231	PRON_PER 4741 4744	her
+T232	PRON_PER 4894 4896	we
+T233	PRON_PER 4905 4907	we
+T234	PRON_PER 4956 4960	they
+T235	PRON_PER 5050 5054	they
+T236	PRON_PER 5069 5073	they
+T237	PRON_PER 5140 5143	she
+T238	PRON_PER 5160 5163	her
+T239	PRON_PER 5250 5253	She
+T240	PRON_PER 5286 5289	her
+T241	PRON_PER 5309 5312	She
+T242	PRON_PER 5380 5383	She
+T243	PRON_PER 5395 5398	her
+T244	PRON_PER 5416 5419	she
+T245	PRON_PER 5441 5444	she
+T246	PRON_PER 5518 5521	she
+T247	PRON_PER 5671 5675	they
+T248	PRON_PER 5751 5755	they
+T249	PRON_PER 5895 5900	their
+T250	PRON_PER 6075 6078	she
+T251	PRON_PER 6127 6132	their
+T252	PRON_PER 6349 6352	she
+T253	PRON_PER 6417 6419	He
+T254	PRON_PER 6460 6462	he
+T255	PRON_PER 6486 6488	he
+T256	PRON_PER 6608 6610	he
+T257	PRON_PER 6647 6649	He
+T258	PRON_PER 6863 6868	their
+T259	PRON_PER 6913 6916	She
+T260	PRON_PER 6922 6929	herself
+T261	PRON_PER 6950 6953	She
+T262	PRON_PER 6958 6961	her
+T263	PRON_PER 6970 6973	her
+T264	PRON_PER 6982 6985	her
+T265	PRON_PER 7032 7035	her
+T266	PRON_PER 7250 7253	her
+T267	PRON_PER 7257 7261	they
+T268	PRON_PER 7362 7364	me
+T269	PRON_PER 7373 7377	They
+T270	PRON_PER 7397 7401	They
+T271	PRON_PER 7443 7444	I
+T272	PRON_PER 7482 7486	them
+T273	PRON_PER 7493 7494	I
+T274	PRON_PER 7546 7549	you
+T275	PRON_PER 7605 7609	they
+T276	PRON_PER 7627 7630	You
+T277	PRON_PER 7643 7644	I
+T278	PRON_PER 7740 7743	Her
+T279	PRON_PER 7795 7798	her
+T280	PRON_PER 7801 7803	He
+T281	PRON_PER 7811 7814	his
+T282	PRON_PER 7836 7839	his
+T283	PRON_PER 7850 7852	he
+T285	PRON_PER 7871 7873	he
+T287	PRON_PER 7914 7917	his
+T288	PRON_PER 7931 7934	him
+T289	PRON_PER 7941 7943	he
+T290	PRON_PER 7958 7959	I
+T291	PRON_PER 7967 7970	You
+T292	PRON_PER 8033 8036	you
+T293	PRON_PER 8086 8089	you
+T294	PRON_PER 8128 8131	you
+T295	PRON_PER 8144 8147	you
+T296	PRON_PER 8172 8175	You
+T297	PRON_PER 8190 8193	his
+T298	PRON_PER 8204 8205	I
+T299	PRON_PER 8232 8233	I
+T300	PRON_PER 8240 8241	I
+T301	PRON_PER 8276 8277	I
+T302	PRON_PER 8345 8348	You
+T303	PRON_PER 8401 8404	him
+T304	PRON_PER 8421 8424	YOU
+T305	PRON_PER 8449 8452	His
+T306	PRON_PER 8477 8480	his
+T307	PRON_PER 8509 8512	her
+T308	PRON_PER 8520 8523	him
+T309	PRON_PER 8535 8538	She
+T310	PRON_PER 8569 8572	his
+T311	PRON_PER 8585 8588	She
+T312	PRON_PER 8653 8657	them
+T313	PRON_PER 8662 8665	She
+T314	PRON_PER 8708 8710	He
+T315	PRON_PER 8746 8748	he
+T316	PRON_PER 8794 8797	She
+T317	PRON_PER 9036 9039	her
+T318	PRON_PER 9208 9211	She
+T319	PRON_PER 9267 9270	she
+T320	PRON_PER 9288 9291	her
+T321	PRON_PER 9329 9332	She
+T322	PRON_PER 9368 9371	her
+T323	PRON_PER 9391 9394	her
+T324	PRON_PER 9438 9441	her
+T325	PRON_PER 9457 9460	her
+T326	PRON_PER 9468 9471	She
+T327	PRON_PER 9501 9504	she
+T328	PRON_PER 9518 9521	her
+T329	PRON_PER 9852 9855	She
+T330	PRON_PER 9965 9968	she
+T331	PRON_PER 10020 10023	she
+T332	PRON_PER 10053 10056	She
+T333	PRON_PER 10080 10083	She
+T334	PRON_PER 10150 10153	her
+T335	PRON_PER 10188 10191	She
+T336	PRON_PER 10216 10217	I
+T337	PRON_PER 10241 10242	I
+T338	PRON_PER 10251 10253	my
+T339	PRON_PER 10334 10335	I
+T340	PRON_PER 10344 10345	I
+T341	PRON_PER 10387 10388	I
+T342	PRON_PER 10424 10425	I
+T343	PRON_PER 10452 10456	they
+T344	PRON_PER 10639 10640	I
+T345	NOM_PER 1560 1574	Pious families
+T346	NOM_PER 6850 6860	the others
+T443	a_hill_by_the_Mississippi_where_Chippewas_camped_two_generations_ago-0 15 83	a hill by the Mississippi where Chippewas camped two generations ago
+T348	the_Mississippi-1 25 40	the Mississippi
+T349	Chippewas-2 47 56	Chippewas
+T347	Carol_Milford-3 86 92	a girl
+T521	Carol_Milford-3 155 158	She
+T352	no_Indians-4 163 173	no Indians
+T522	Carol_Milford-3 180 183	she
+T444	flour-mills-5 188 199	flour-mills
+T445	skyscrapers_in_Minneapolis_and_St__Paul-6 228 267	skyscrapers in Minneapolis and St. Paul
+T351	Minneapolis-7 243 254	Minneapolis
+T350	St__Paul-8 259 267	St. Paul
+T523	Carol_Milford-3 278 281	she
+T353	squaws-9 294 300	squaws
+T446	the_Yankee_fur-traders_whose_shadows_were_all_about_her-10 320 375	the Yankee fur-traders whose shadows were all about her
+T524	Carol_Milford-3 372 375	her
+T525	Carol_Milford-3 378 381	She
+T447	Brieux-11 430 436	Brieux
+T355	heels-12 455 460	heels
+T354	the_chemistry_instructor-13 490 514	the chemistry instructor
+T526	Carol_Milford-3 562 565	her
+T448	wheat-lands-14 620 631	wheat-lands
+T527	Carol_Milford-3 640 643	her
+T357	a_chance_watcher-15 741 757	a chance watcher
+T356	the_lower_road-16 761 775	the lower road
+T528	Carol_Milford-3 806 809	her
+T529	Carol_Milford-3 841 844	She
+T530	Carol_Milford-3 852 855	her
+T531	Carol_Milford-3 863 866	she
+T532	Carol_Milford-3 898 901	her
+T450	Carol_Milford-3 947 966	A girl on a hilltop
+T449	a_hill_by_the_Mississippi_where_Chippewas_camped_two_generations_ago-0 957 966	a hilltop
+T533	Carol_Milford-3 1019 1022	she
+T451	Carol_Milford-3 1099 1112	Carol Milford
+T452	Blodgett_College-17 1140 1156	Blodgett College
+T360	lassies_in_sunbonnets-18 1187 1208	lassies in sunbonnets
+T358	Camelot-19 1279 1286	Camelot
+T359	Carol_Milford-3 1293 1310	a rebellious girl
+T453	the_American_Middlewest-20 1358 1381	the American Middlewest
+T454	Blodgett_College-17 1387 1403	Blodgett College
+T361	Minneapolis-7 1422 1433	Minneapolis
+T362	Voltaire-21 1517 1525	Voltaire
+T455	Darwin-22 1528 1534	Darwin
+T363	Robert_Ingersoll-23 1541 1557	Robert Ingersoll
+T456	Minnesota-24 1578 1587	Minnesota
+T457	Iowa-25 1590 1594	Iowa
+T458	Wisconsin-26 1597 1606	Wisconsin
+T364	the_Dakotas-27 1609 1620	the Dakotas
+T692	Pious_families-28 1560 1574	Pious families
+T366	their_children-29 1626 1640	their children
+T534	Pious_families-28 1626 1631	their
+T459	Blodgett_College-17 1641 1648	thither
+T365	Blodgett_College-17 1655 1663	Blodgett
+T535	their_children-29 1673 1677	them
+T460	the_universities-30 1701 1717	the universities
+T368	friendly_girls-31 1736 1750	friendly girls
+T369	young_men_who_sing-32 1753 1771	young men who sing
+T370	one_lady_instructress_who_really_likes_Milton_and_Carlyle-33 1778 1835	one lady instructress who really likes Milton and Carlyle
+T367	Milton-34 1817 1823	Milton
+T372	Carlyle-35 1828 1835	Carlyle
+T371	Carol_Milford-3 1862 1867	Carol
+T373	Blodgett_College-17 1877 1885	Blodgett
+T461	Blodgett_College-17 1932 1942	the school
+T374	rivals-36 1960 1966	rivals
+T536	Carol_Milford-3 1979 1982	her
+T537	Carol_Milford-3 2002 2005	her
+T538	Carol_Milford-3 2029 2032	She
+T539	Carol_Milford-3 2259 2262	her
+T377	two_or_three_prettier_girls-37 2280 2307	two or three prettier girls
+T540	Carol_Milford-3 2332 2335	She
+T378	the_three_hundred_students_of_Blodgett-38 2412 2450	the three hundred students of Blodgett
+T375	Blodgett_College-17 2442 2450	Blodgett
+T541	Carol_Milford-3 2534 2537	her
+T381	The_other_girls_in_her_dormitory-39 2620 2652	The other girls in her dormitory
+T376	her_dormitory-40 2639 2652	her dormitory
+T542	Carol_Milford-3 2639 2642	her
+T543	Carol_Milford-3 2683 2686	her
+T544	The_other_girls_in_her_dormitory-39 2697 2701	they
+T545	Carol_Milford-3 2706 2709	her
+T546	Carol_Milford-3 2770 2773	She
+T547	The_other_girls_in_her_dormitory-39 2807 2811	they
+T382	The_other_girls_in_her_dormitory-39 2907 2916	the girls
+T548	Carol_Milford-3 2973 2976	her
+T549	Carol_Milford-3 3001 3004	her
+T550	Carol_Milford-3 3066 3069	she
+T383	the_hulking_young_women_who___with_calves_bulging_in_heavy-ribbed_woolen_stockings_beneath_decorous_blue_serge_bloomers___thuddingly_galloped_across_the_floor_of_the___gym___in_practise_for_the_Blodgett_Ladies___Basket-Ball_Team-41 3101 3329	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the “ gym ” in practise for the Blodgett Ladies ’ Basket-Ball Team
+T462	the___gym__-42 3263 3274	the “ gym ”
+T380	the_Blodgett_Ladies___Basket-Ball_Team-43 3291 3329	the Blodgett Ladies ’ Basket-Ball Team
+T551	Carol_Milford-3 3342 3345	she
+T552	Carol_Milford-3 3356 3359	her
+T553	Carol_Milford-3 3387 3390	She
+T384	the_world-44 3431 3440	the world
+T554	Carol_Milford-3 3488 3491	she
+T555	Carol_Milford-3 3535 3538	her
+T556	Carol_Milford-3 3609 3612	her
+T557	Carol_Milford-3 3674 3677	she
+T463	Carol_Milford-3 3689 3694	Carol
+T464	Carol__s_acquaintances-45 3689 3711	Carol ’s acquaintances
+T558	Carol_Milford-3 3724 3727	her
+T559	Carol_Milford-3 3735 3738	she
+T560	Carol_Milford-3 3792 3795	she
+T561	Carol_Milford-3 3835 3838	She
+T562	Carol_Milford-3 3894 3897	she
+T563	Carol_Milford-3 3946 3949	she
+T564	Carol_Milford-3 3963 3966	she
+T565	Carol_Milford-3 3991 3994	Her
+T566	Carol_Milford-3 4016 4019	her
+T567	Carol_Milford-3 4031 4034	she
+T568	Carol_Milford-3 4058 4061	she
+T569	Carol_Milford-3 4175 4178	she
+T570	Carol_Milford-3 4209 4212	she
+T466	the_Student_Volunteers___who_intended_to_become_missionaries-46 4238 4298	the Student Volunteers , who intended to become missionaries
+T385	missionaries-47 4286 4298	missionaries
+T571	Carol_Milford-3 4405 4408	She
+T572	Carol_Milford-3 4452 4455	she
+T467	chapel-48 4466 4472	chapel
+T573	Carol_Milford-3 4491 4494	her
+T574	Carol_Milford-3 4558 4561	her
+T575	Carol_Milford-3 4591 4594	her
+T576	Carol_Milford-3 4619 4622	her
+T386	Every_man-49 4638 4647	Every man
+T468	Carol_Milford-3 4684 4689	Carol
+T577	Carol_Milford-3 4715 4718	she
+T578	Carol_Milford-3 4741 4744	her
+T390	library-50 4808 4815	library
+T388	the_hall_of_the_Main_Building-51 4828 4857	the hall of the Main Building
+T387	the_Main_Building-52 4840 4857	the Main Building
+T389	the_co-eds-53 4860 4870	the co-eds
+T579	the_co-eds-53 4894 4896	we
+T580	the_co-eds-53 4905 4907	we
+T469	college-54 4915 4922	college
+T470	the_girls_who_knew_that_they_were_going_to_be_married-55 4932 4985	the girls who knew that they were going to be married
+T581	the_girls_who_knew_that_they_were_going_to_be_married-55 4956 4960	they
+T582	they-56 5050 5054	they
+T583	they-56 5069 5073	they
+T391	fabulous_suitors-57 5106 5122	fabulous suitors
+T393	Carol_Milford-3 5132 5137	Carol
+T584	Carol_Milford-3 5140 5143	she
+T473	her_only_near_relative-58 5160 5182	her only near relative
+T585	Carol_Milford-3 5160 5163	her
+T392	an_optician_in_St__Paul-59 5224 5247	an optician in St. Paul
+T394	St__Paul-8 5239 5247	St. Paul
+T586	Carol_Milford-3 5250 5253	She
+T474	her_father-60 5286 5296	her father
+T587	Carol_Milford-3 5286 5289	her
+T588	Carol_Milford-3 5309 5312	She
+T589	Carol_Milford-3 5380 5383	She
+T590	Carol_Milford-3 5395 5398	her
+T591	Carol_Milford-3 5416 5419	she
+T592	Carol_Milford-3 5441 5444	she
+T395	the_world-61 5460 5469	the world
+T396	the_world-61 5493 5502	the world
+T593	Carol_Milford-3 5518 5521	she
+T476	Most_of_the_girls_who_were_not_betrothed-62 5536 5576	Most of the girls who were not betrothed
+T475	the_girls_who_were_not_betrothed-63 5544 5576	the girls who were not betrothed
+T397	teachers-64 5589 5597	teachers
+T478	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65 5632 5777	careless young women who admitted that they intended to leave the “ beastly classroom and grubby children ” the minute they had a chance to marry
+T594	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65 5671 5675	they
+T477	beastly_classroom-66 5700 5717	beastly classroom
+T399	grubby_children-67 5722 5737	grubby children
+T595	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65 5751 5755	they
+T479	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68 5784 5948	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to “ guide their feet along the paths of greatest usefulness . ”
+T398	God-69 5880 5883	God
+T596	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68 5895 5900	their
+T480	Carol_Milford-3 5970 5975	Carol
+T401	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68 6048 6067	The earnest virgins
+T597	Carol_Milford-3 6075 6078	she
+T598	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68 6127 6132	their
+T402	Caesar-70 6163 6169	Caesar
+T400	Carol_Milford-3 6208 6213	Carol
+T403	an_unidentified_hero-71 6321 6341	an unidentified hero
+T599	Carol_Milford-3 6349 6352	she
+T404	The_sociology_instructor-72 6382 6406	The sociology instructor
+T600	The_sociology_instructor-72 6417 6419	He
+T601	The_sociology_instructor-72 6460 6462	he
+T408	Boston-73 6477 6483	Boston
+T602	The_sociology_instructor-72 6486 6488	he
+T481	poets-74 6505 6510	poets
+T409	socialists-75 6515 6525	socialists
+T407	Jews-76 6530 6534	Jews
+T405	millionaire_uplifters-77 6539 6560	millionaire uplifters
+T482	the_University_Settlement_in_New_York-78 6564 6601	the University Settlement in New York
+T406	New_York-79 6593 6601	New York
+T603	The_sociology_instructor-72 6608 6610	he
+T604	The_sociology_instructor-72 6647 6649	He
+T483	the_prisons-80 6679 6690	the prisons
+T484	the_charity_bureaus-81 6693 6712	the charity bureaus
+T485	the_employment_agencies_of_Minneapolis_and_St__Paul-82 6715 6766	the employment agencies of Minneapolis and St. Paul
+T411	Minneapolis-7 6742 6753	Minneapolis
+T410	St__Paul-8 6758 6766	St. Paul
+T486	Carol_Milford-3 6801 6806	Carol
+T693	the_others-83 6850 6860	the others
+T605	the_others-83 6863 6868	their
+T487	the_poor-84 6890 6898	the poor
+T488	a_Zoo-85 6905 6910	a Zoo
+T606	Carol_Milford-3 6913 6916	She
+T607	Carol_Milford-3 6922 6929	herself
+T412	a_great_liberator-86 6930 6947	a great liberator
+T608	Carol_Milford-3 6950 6953	She
+T609	Carol_Milford-3 6958 6961	her
+T610	Carol_Milford-3 6970 6973	her
+T611	Carol_Milford-3 6982 6985	her
+T612	Carol_Milford-3 7032 7035	her
+T489	Stewart_Snyder-87 7088 7120	A classmate named Stewart Snyder
+T414	Stewart_Snyder-87 7106 7120	Stewart Snyder
+T613	Carol_Milford-3 7250 7253	her
+T614	they-88 7257 7261	they
+T491	the_South_St__Paul_stockyards-89 7302 7331	the South St. Paul stockyards
+T413	These_college_chumps-90 7336 7356	These college chumps
+T615	Stewart_Snyder-87 7362 7364	me
+T616	These_college_chumps-90 7373 7377	They
+T617	These_college_chumps-90 7397 7401	They
+T415	the_farm-91 7424 7432	the farm
+T618	Stewart_Snyder-87 7443 7444	I
+T492	These_workmen-92 7452 7465	These workmen
+T619	These_college_chumps-90 7482 7486	them
+T620	Carol_Milford-3 7493 7494	I
+T493	common_workmen-93 7505 7519	common workmen
+T494	Carol_Milford-3 7531 7536	Carol
+T621	Carol_Milford-3 7546 7549	you
+T495	common_workmen-93 7577 7591	common workmen
+T622	common_workmen-93 7605 7609	they
+T623	Stewart_Snyder-87 7627 7630	You
+T624	Carol_Milford-3 7643 7644	I
+T496	Carol_Milford-3 7659 7664	Carol
+T625	Carol_Milford-3 7740 7743	Her
+T416	the_world-94 7758 7767	the world
+T417	Stewart_Snyder-87 7770 7784	Stewart Snyder
+T626	Carol_Milford-3 7795 7798	her
+T627	Stewart_Snyder-87 7801 7803	He
+T628	Stewart_Snyder-87 7811 7814	his
+T629	Stewart_Snyder-87 7836 7839	his
+T630	Stewart_Snyder-87 7850 7852	he
+T632	Stewart_Snyder-87 7871 7873	he
+T634	Stewart_Snyder-87 7914 7917	his
+T635	Stewart_Snyder-87 7931 7934	him
+T636	Stewart_Snyder-87 7941 7943	he
+T637	Stewart_Snyder-87 7958 7959	I
+T638	Carol_Milford-3 7967 7970	You
+T516	people-95 7979 7985	people
+T499	Most_of_these_darn_co-eds-96 7988 8013	Most of these darn co-eds
+T498	these_darn_co-eds-97 7996 8013	these darn co-eds
+T497	Carol_Milford-3 8025 8030	Carol
+T639	Carol_Milford-3 8033 8036	you
+T500	people-98 8056 8062	people
+T640	Carol_Milford-3 8086 8089	you
+T641	Carol_Milford-3 8128 8131	you
+T642	Carol_Milford-3 8144 8147	you
+T418	a_lawyer__s_wife-99 8153 8169	a lawyer ’s wife
+T501	a_lawyer-100 8153 8161	a lawyer
+T643	Carol_Milford-3 8172 8175	You
+T419	his_clients-101 8190 8201	his clients
+T644	a_lawyer-100 8190 8193	his
+T645	Stewart_Snyder-87 8204 8205	I
+T420	a_lawyer-102 8221 8229	a lawyer
+T646	Stewart_Snyder-87 8232 8233	I
+T647	Stewart_Snyder-87 8240 8241	I
+T648	Stewart_Snyder-87 8276 8277	I
+T515	people-103 8309 8315	people
+T649	Carol_Milford-3 8345 8348	You
+T421	a_fellow_that_was_too_serious-104 8364 8393	a fellow that was too serious
+T650	a_fellow_that_was_too_serious-104 8401 8404	him
+T651	Carol_Milford-3 8421 8424	YOU
+T652	Stewart_Snyder-87 8449 8452	His
+T653	Stewart_Snyder-87 8477 8480	his
+T654	Carol_Milford-3 8509 8512	her
+T655	Stewart_Snyder-87 8520 8523	him
+T656	Carol_Milford-3 8535 8538	She
+T657	Stewart_Snyder-87 8569 8572	his
+T658	Carol_Milford-3 8585 8588	She
+T659	them-105 8653 8657	them
+T660	Carol_Milford-3 8662 8665	She
+T422	Stewart_Snyder-87 8678 8685	Stewart
+T661	Stewart_Snyder-87 8708 8710	He
+T662	Stewart_Snyder-87 8746 8748	he
+T423	celebrated_reformers-106 8771 8791	celebrated reformers
+T663	Carol_Milford-3 8794 8797	She
+T503	a_cell_in_a_settlement-house-107 8826 8854	a cell in a settlement-house
+T502	a_settlement-house-108 8836 8854	a settlement-house
+T425	a_nun-109 8862 8867	a nun
+T424	Bernard_Shaw-110 8928 8940	Bernard Shaw
+T504	a_horde_of_grateful_poor-111 8966 8990	a horde of grateful poor
+T664	Carol_Milford-3 9036 9039	her
+T427	town-112 9092 9096	town
+T426	girls-113 9108 9113	girls
+T505	girls___clubs-114 9108 9121	girls ’ clubs
+T506	France-115 9170 9176	France
+T428	New_England-116 9179 9190	New England
+T429	Pennsylvania-117 9193 9205	Pennsylvania
+T665	Carol_Milford-3 9208 9211	She
+T666	Carol_Milford-3 9267 9270	she
+T667	Carol_Milford-3 9288 9291	her
+T668	Carol_Milford-3 9329 9332	She
+T669	Carol_Milford-3 9368 9371	her
+T670	Carol_Milford-3 9391 9394	her
+T671	Carol_Milford-3 9438 9441	her
+T672	Carol_Milford-3 9457 9460	her
+T673	Carol_Milford-3 9468 9471	She
+T674	Carol_Milford-3 9501 9504	she
+T675	Carol_Milford-3 9518 9521	her
+T430	a_Blodgett_College_room-118 9551 9574	a Blodgett College room
+T507	Blodgett_College-17 9553 9569	Blodgett College
+T431	girls-119 9623 9628	girls
+T508	the_Coliseum-120 9649 9661	the Coliseum
+T509	Carol_Milford-3 9832 9837	Carol
+T432	a_Blodgett_College_room-118 9841 9849	the room
+T676	Carol_Milford-3 9852 9855	She
+T433	girl_students-121 9899 9912	girl students
+T677	Carol_Milford-3 9965 9968	she
+T678	Carol_Milford-3 10020 10023	she
+T679	Carol_Milford-3 10053 10056	She
+T680	Carol_Milford-3 10080 10083	She
+T681	Carol_Milford-3 10150 10153	her
+T682	Carol_Milford-3 10188 10191	She
+T683	Carol_Milford-3 10216 10217	I
+T684	Carol_Milford-3 10241 10242	I
+T685	Carol_Milford-3 10251 10253	my
+T434	one_of_these_prairie_towns-122 10263 10289	one of these prairie towns
+T686	Carol_Milford-3 10334 10335	I
+T687	Carol_Milford-3 10344 10345	I
+T436	a_teacher-123 10363 10372	a teacher
+T688	Carol_Milford-3 10387 10388	I
+T435	a_teacher-124 10412 10421	a teacher
+T689	Carol_Milford-3 10424 10425	I
+T690	they-125 10452 10456	they
+T438	all_the_garden_suburbs_on_Long_Island-126 10462 10499	all the garden suburbs on Long Island
+T437	Long_Island-127 10488 10499	Long Island
+T517	Nobody-128 10502 10508	Nobody
+T511	the_ugly_towns_here_in_the_Northwest-129 10532 10568	the ugly towns here in the Northwest
+T518	here-130 10547 10551	here
+T439	here-130 10555 10568	the Northwest
+T510	libraries-131 10600 10609	libraries
+T691	Carol_Milford-3 10639 10640	I
+T441	a_village_green-132 10662 10677	a village green
+T442	darling_cottages-133 10684 10700	darling cottages
+T440	a_quaint_Main_Street-134 10707 10727	a quaint Main Street
+R3	cop Arg1:T124 Arg2:T237
+R4	cop Arg1:T125 Arg2:T126
+R5	appos Arg1:T143 Arg2:T67
+T716	PRON_GPE 10299 10301	it
+T717	one_of_these_prairie_towns-122 10299 10301	it
+T165	Carol_Milford-3 2827 2890	a fragile child who must be cloaked with understanding kindness
+T166	Carol_Milford-3 3865 3887	a born hero-worshipper
+T167	NOM_PER 2314 2329	none more eager
+T172	none_more_eager-700 2314 2329	none more eager

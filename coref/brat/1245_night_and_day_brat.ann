@@ -1,0 +1,636 @@
+T0	NOM_PER 839 851	her daughter
+T1	PROP_PER 694 706	Mrs. Hilbery
+T3	NOM_PER 1173 1184	the hostess
+T4	PROP_PER 1209 1218	Katharine
+T5	NOM_PER 1643 1654	a young man
+T6	NOM_PER 1872 1882	her mother
+T7	NOM_PER 1827 1833	mother
+T9	PROP_PER 1937 1947	Mr. Denham
+T10	NOM_PER 2026 2036	a stranger
+T11	PROP_PER 2151 2161	Mr. Denham
+T14	PROP_PER 2885 2895	Mr. Denham
+T19	NOM_PER 2927 2947	the eminent novelist
+T20	NOM_PER 3185 3196	an engineer
+T23	PROP_GPE 3218 3228	Manchester
+T24	NOM_PER 3024 3036	the newcomer
+T25	PROP_PER 3052 3064	Mrs. Hilbery
+T27	NOM_PER 3292 3318	a thin , elderly gentleman
+T29	PROP_GPE 3377 3387	Manchester
+T32	PROP_GPE 3476 3486	Manchester
+T33	NOM_PER 3427 3443	A cousin of ours
+T34	PROP_PER 3513 3523	Mr. Denham
+T35	NOM_PER 3597 3609	the novelist
+T37	NOM_PER 3792 3811	other disagreeables
+T39	PROP_PER 3654 3664	Mr. Denham
+T40	PROP_PER 3976 3989	Mr. Fortescue
+T42	PROP_GPE 4099 4109	Manchester
+T43	PROP_PER 4255 4261	Denham
+T44	NOM_PER 4375 4397	this strange young man
+T45	NOM_PER 4594 4610	a bony young man
+T46	NOM_PER 4821 4831	her father
+T47	PROP_GPE 4961 4971	Manchester
+T48	PROP_PER 5000 5013	Mr. Fortescue
+T50	NOM_PER 5062 5071	novelists
+T51	NOM_LOC 5518 5543	the outskirts of the town
+T53	NOM_GPE 5535 5543	the town
+T55	PROP_GPE 5828 5834	London
+T57	NOM_PER 5589 5597	the girl
+T61	PROP_GPE 5468 5478	Manchester
+T62	PROP_PER 5845 5854	Katharine
+T63	PROP_PER 6023 6035	Mrs. Hilbery
+T65	PROP_PER 5995 6008	Mr. Fortescue
+T68	PROP_GPE 6311 6317	London
+T70	PROP_PER 6592 6601	Katharine
+T71	NOM_LOC 6519 6524	moors
+T72	PROP_PER 6664 6675	Mr. Hilbery
+T74	NOM_PER 7616 7627	her parents
+T75	PROP_PER 7507 7513	Denham
+T76	PROP_PER 7530 7543	Mr. Fortescue
+T78	NOM_PER 7813 7823	her father
+T79	NOM_PER 7720 7730	her mother
+T81	NOM_PER 8310 8345	a young man , who scarcely knew her
+T82	NOM_PER 8642 8652	her mother
+T83	PROP_PER 8535 8541	Denham
+T84	PROP_GPE 9008 9018	Manchester
+T85	NOM_PER 9137 9147	her mother
+T87	PROP_PER 9296 9314	dear Mr. Fortescue
+T89	NOM_PER 9384 9410	gentlemen with Roman noses
+T91	PROP_PER 9491 9497	Denham
+T92	NOM_PER 9553 9567	the solicitors
+T94	PROP_PER 9760 9771	Mr. Hilbery
+T95	PROP_PER 9715 9721	Denham
+T97	PROP_PER 9900 9910	Mr. Denham
+T100	PROP_PER 9842 9860	Mrs. Sutton Bailey
+T102	PROP_PER 10217 10226	Katharine
+T104	PROP_PER 10559 10571	Mrs. Hilbery
+T105	PROP_PER 10878 10888	Mr. Denham
+T109	PROP_PER 10916 10931	dear Mr. Ruskin
+T111	PROP_PER 11027 11037	Mr. Denham
+T113	PROP_PER 11062 11068	Ruskin
+T114	NOM_PER 11048 11068	an admirer of Ruskin
+T117	PROP_PER 11147 11159	Mrs. Hilbery
+T118	NOM_PER 66 102	many other young ladies of her class
+T119	PROP_PER 105 122	Katharine Hilbery
+T2	NOM_PER 459 467	mistress
+T120	NOM_PER 758 786	elderly distinguished people
+T122	NOM_FAC 1351 1374	an extremely nice house
+T123	NOM_PER 1235 1243	some one
+T124	NOM_PER 964 980	the little party
+T125	NOM_FAC 1485 1494	the house
+T126	NOM_FAC 1663 1671	the room
+T127	PROP_PER 1674 1683	Katharine
+T128	PROP_PER 1814 1824	Mr. Denham
+T8	NOM_FAC 2042 2116	a room full of people much at their ease , and all launched upon sentences
+T129	NOM_PER 2057 2116	people much at their ease , and all launched upon sentences
+T12	NOM_FAC 2226 2244	the street outside
+T130	NOM_FAC 2315 2366	the wide and rather empty space of the drawing-room
+T131	NOM_FAC 2414 2427	the tea-table
+T13	NOM_FAC 2575 2586	the streets
+T132	NOM_FAC 2635 2652	this drawing-room
+T133	NOM_PER 2701 2719	the elderly people
+T134	NOM_FAC 2829 2845	the drawing-room
+T16	PROP_PER 2911 2924	Mr. Fortescue
+T15	PROP_PER 3231 3241	Mr. Denham
+T21	PROP_PER 3491 3500	Katharine
+T22	NOM_FAC 3729 3739	the street
+T26	NOM_FAC 3744 3775	this sophisticated drawing-room
+T28	PROP_PER 3905 3914	Katharine
+T30	NOM_PER 3994 4018	a considerable celebrity
+T31	PROP_PER 4123 4132	Katharine
+T36	PROP_PER 4198 4207	Katharine
+T38	NOM_PER 4414 4422	the rest
+T41	NOM_PER 4897 4905	the rest
+T49	PROP_PER 5235 5244	Katharine
+T54	NOM_FAC 5453 5478	the streets of Manchester
+T135	NOM_LOC 5490 5514	the bare , immense moors
+T56	NOM_FAC 5555 5579	the scrubby little house
+T60	NOM_PER 5620 5634	the professors
+T136	NOM_PER 5639 5667	the miserable young students
+T59	NOM_FAC 5938 5964	clamorous butchers ’ shops
+T52	NOM_PER 5972 5985	dear creature
+T64	NOM_FAC 6120 6135	the big gardens
+T66	NOM_PER 6140 6235	the dear old ladies in mittens , who read nothing but the “ Spectator , ” and snuff the candles
+T67	NOM_FAC 6326 6364	the horrid streets that depress one so
+T137	NOM_FAC 6380 6394	the University
+T139	NOM_PER 6475 6497	people knowing Persian
+T69	NOM_PER 6650 6659	my family
+T73	NOM_PER 6694 6708	an elderly man
+T140	PROP_PER 7492 7501	Katharine
+T80	NOM_FAC 8804 8817	the tea-table
+T141	NOM_PER 8830 8850	these elderly people
+T142	PROP_PER 9123 9132	Katharine
+T86	NOM_PER 9173 9179	mother
+T88	NOM_VEH 9439 9448	omnibuses
+T90	PROP_PER 9453 9464	Mr. Hilbery
+T93	PROP_PER 9644 9650	Denham
+T96	PROP_PER 9984 9993	Katharine
+T98	PROP_PER 10450 10456	Denham
+T99	NOM_PER 10273 10287	this young man
+T101	NOM_FAC 10616 10632	the drawing-room
+T103	NOM_LOC 10835 10849	one sunny spot
+T106	PROP_PER 10954 10963	Katharine
+T107	NOM_PER 11071 11079	Some one
+T108	PROP_PER 11138 11144	Ruskin
+T112	NOM_VEH 11244 11254	aeroplanes
+T115	NOM_LOC 11274 11297	the bowels of the earth
+T58	NOM_PER 5707 5751	our younger dramatists , who would visit her
+T116	NOM_PER 6404 6497	the thin gentleman , who had previously insisted upon the existence of people knowing Persian
+T121	NOM_PER 2617 2632	foot-passengers
+T138	NOM_PER 4297 4310	somebody else
+T166	NOM_PER 4940 4946	no one
+T167	NOM_GPE 6525 6530	there
+T169	PRON_PER 93 96	her
+T170	PRON_PER 169 172	her
+T171	PRON_PER 424 427	she
+T172	PRON_PER 441 444	she
+T173	PRON_PER 512 515	her
+T174	PRON_PER 627 630	her
+T175	PRON_PER 805 808	she
+T176	PRON_PER 839 842	her
+T177	PRON_PER 941 944	her
+T178	PRON_PER 1076 1081	their
+T179	PRON_PER 1114 1118	they
+T180	PRON_PER 1275 1277	he
+T181	PRON_PER 1295 1299	they
+T182	PRON_PER 1314 1324	themselves
+T183	PRON_PER 1327 1329	he
+T184	PRON_PER 1410 1413	she
+T185	PRON_PER 1514 1517	she
+T186	PRON_PER 1518 1525	herself
+T187	PRON_PER 1597 1600	her
+T188	PRON_PER 1689 1692	she
+T189	PRON_PER 1710 1713	him
+T190	PRON_PER 1722 1725	him
+T191	PRON_PER 1731 1734	her
+T192	PRON_PER 1757 1760	you
+T193	PRON_PER 1767 1769	we
+T194	PRON_PER 1783 1792	ourselves
+T195	PRON_PER 1838 1841	she
+T196	PRON_PER 1859 1862	she
+T197	PRON_PER 1872 1875	her
+T198	PRON_PER 1897 1900	his
+T199	PRON_PER 2072 2077	their
+T200	PRON_PER 2218 2221	him
+T201	PRON_PER 2510 2513	his
+T202	PRON_PER 2525 2528	his
+T203	PRON_PER 2554 2557	his
+T204	PRON_PER 2790 2794	them
+T205	PRON_PER 2995 2997	He
+T206	PRON_PER 3116 3119	him
+T207	PRON_PER 3155 3158	you
+T208	PRON_PER 3165 3168	you
+T209	PRON_PER 3255 3258	she
+T210	PRON_PER 3398 3401	she
+T211	PRON_PER 3587 3590	him
+T212	PRON_PER 3624 3626	he
+T213	PRON_PER 3672 3679	himself
+T214	PRON_PER 3814 3816	he
+T215	PRON_PER 3847 3850	his
+T216	PRON_PER 3858 3860	He
+T217	PRON_PER 3875 3878	him
+T218	PRON_PER 3917 3921	they
+T219	PRON_PER 4069 4072	him
+T220	PRON_PER 4082 4085	you
+T221	PRON_PER 4114 4116	he
+T222	PRON_PER 4147 4150	she
+T223	PRON_PER 4170 4173	you
+T224	PRON_PER 4216 4219	her
+T225	PRON_PER 4324 4327	she
+T226	PRON_PER 4353 4356	she
+T227	PRON_PER 4425 4428	She
+T228	PRON_PER 4443 4445	he
+T229	PRON_PER 4462 4465	his
+T230	PRON_PER 4541 4544	She
+T231	PRON_PER 4560 4562	he
+T232	PRON_PER 4616 4619	his
+T233	PRON_PER 4661 4664	his
+T234	PRON_PER 4736 4738	he
+T235	PRON_PER 4821 4824	her
+T236	PRON_PER 4844 4847	him
+T237	PRON_PER 4860 4862	he
+T238	PRON_PER 4910 4911	I
+T239	PRON_PER 4976 4979	she
+T240	PRON_PER 5033 5036	her
+T241	PRON_PER 5117 5119	he
+T242	PRON_PER 5273 5275	he
+T243	PRON_PER 5301 5304	his
+T244	PRON_PER 5318 5321	his
+T245	PRON_PER 5387 5390	his
+T246	PRON_PER 5418 5420	he
+T247	PRON_PER 5707 5710	our
+T248	PRON_PER 5748 5751	her
+T249	PRON_PER 5762 5765	her
+T250	PRON_PER 5811 5814	she
+T251	PRON_PER 5874 5877	her
+T252	PRON_PER 6041 6043	he
+T253	PRON_PER 6057 6058	I
+T254	PRON_PER 6087 6088	I
+T255	PRON_PER 6096 6099	her
+T256	PRON_PER 6102 6103	I
+T257	PRON_PER 6243 6247	they
+T258	PRON_PER 6266 6267	I
+T259	PRON_PER 6273 6276	her
+T260	PRON_PER 6277 6280	she
+T261	PRON_PER 6502 6503	I
+T262	PRON_PER 6541 6542	I
+T263	PRON_LOC 6554 6558	them
+T264	PRON_PER 6606 6607	I
+T265	PRON_PER 6650 6652	my
+T266	PRON_PER 6687 6689	He
+T267	PRON_PER 6773 6776	his
+T268	PRON_PER 6822 6825	his
+T269	PRON_PER 6833 6835	He
+T270	PRON_PER 6892 6895	his
+T271	PRON_PER 6986 6989	his
+T272	PRON_PER 7060 7063	his
+T273	PRON_PER 7106 7108	he
+T274	PRON_PER 7132 7139	himself
+T275	PRON_PER 7262 7264	he
+T276	PRON_PER 7298 7301	his
+T277	PRON_PER 7336 7338	he
+T279	PRON_PER 7368 7370	he
+T280	PRON_PER 7407 7410	his
+T281	PRON_PER 7616 7619	her
+T282	PRON_PER 7677 7680	She
+T283	PRON_PER 7720 7723	her
+T284	PRON_PER 7813 7816	her
+T285	PRON_PER 7881 7884	she
+T286	PRON_PER 8062 8065	her
+T287	PRON_PER 8073 8076	her
+T288	PRON_PER 8105 8108	her
+T289	PRON_PER 8120 8123	she
+T290	PRON_PER 8198 8201	her
+T291	PRON_PER 8342 8345	her
+T292	PRON_PER 8351 8354	his
+T293	PRON_PER 8377 8380	she
+T294	PRON_PER 8392 8395	her
+T295	PRON_PER 8575 8578	she
+T296	PRON_PER 8642 8645	her
+T297	PRON_PER 8665 8668	her
+T298	PRON_PER 8706 8709	him
+T299	PRON_PER 8715 8718	she
+T300	PRON_PER 8758 8761	her
+T301	PRON_PER 8779 8782	him
+T302	PRON_PER 8788 8791	her
+T303	PRON_PER 8892 8894	he
+T304	PRON_PER 8903 8906	his
+T305	PRON_PER 8927 8930	her
+T306	PRON_PER 8936 8939	her
+T307	PRON_PER 8977 8980	him
+T308	PRON_PER 9137 9140	her
+T309	PRON_PER 9224 9226	me
+T310	PRON_PER 9332 9334	my
+T311	PRON_PER 9431 9435	them
+T312	PRON_PER 9605 9607	he
+T313	PRON_PER 9620 9623	his
+T314	PRON_PER 9668 9671	his
+T315	PRON_PER 9775 9778	his
+T316	PRON_PER 9800 9804	them
+T317	PRON_PER 9877 9879	he
+T318	PRON_PER 9890 9893	her
+T319	PRON_PER 9917 9924	himself
+T320	PRON_PER 10071 10075	they
+T321	PRON_PER 10187 10191	They
+T322	PRON_PER 10328 10331	she
+T323	PRON_PER 10362 10365	her
+T324	PRON_PER 10422 10426	They
+T325	PRON_PER 10469 10472	his
+T326	PRON_PER 10539 10542	her
+T327	PRON_PER 10704 10707	she
+T328	PRON_PER 10780 10783	her
+T329	PRON_PER 10891 10894	you
+T330	PRON_PER 10902 10904	me
+T331	PRON_PER 10944 10947	his
+T332	PRON_PER 10969 10972	his
+T333	PRON_PER 10991 10993	he
+T334	PRON_PER 11002 11005	his
+T335	PRON_PER 11022 11024	me
+T336	PRON_PER 11044 11047	you
+T337	PRON_PER 11106 11108	me
+T338	PRON_PER 11123 11125	we
+T339	PRON_PER 11172 11175	you
+T340	PRON_PER 11183 11184	I
+T341	PRON_PER 11201 11204	you
+T342	PRON_PER 11222 11226	your
+T343	PROP_LOC 9089 9098	Trafalgar
+T344	PROP_LOC 9161 9170	Trafalgar
+T345	PROP_LOC 9186 9195	Trafalgar
+T464	many_other_young_ladies_of_her_class-0 66 102	many other young ladies of her class
+T515	Katherine-1 93 96	her
+T465	Katherine-1 105 122	Katharine Hilbery
+T516	Katherine-1 169 172	her
+T517	Katherine-1 424 427	she
+T518	Katherine-1 441 444	she
+T519	Katherine-1 512 515	her
+T520	Katherine-1 627 630	her
+T347	Mrs__Hilbery-2 694 706	Mrs. Hilbery
+T466	elderly_distinguished_people-3 758 786	elderly distinguished people
+T521	Mrs__Hilbery-2 805 808	she
+T346	Katherine-1 839 851	her daughter
+T522	Mrs__Hilbery-2 839 842	her
+T523	Mrs__Hilbery-2 941 944	her
+T470	the_little_party-4 964 980	the little party
+T524	the_little_party-4 1076 1081	their
+T525	the_little_party-4 1114 1118	they
+T349	Mrs__Hilbery-2 1173 1184	the hostess
+T350	Katherine-1 1209 1218	Katharine
+T469	some_one-5 1235 1243	some one
+T526	some_one-5 1275 1277	he
+T527	the_little_party-4 1295 1299	they
+T528	the_little_party-4 1314 1324	themselves
+T529	some_one-5 1327 1329	he
+T468	an_extremely_nice_house-6 1351 1374	an extremely nice house
+T530	Katherine-1 1410 1413	she
+T471	an_extremely_nice_house-6 1485 1494	the house
+T531	Katherine-1 1514 1517	she
+T532	Katherine-1 1518 1525	herself
+T533	Katherine-1 1597 1600	her
+T351	Denham-7 1643 1654	a young man
+T472	the_room-8 1663 1671	the room
+T473	Katherine-1 1674 1683	Katharine
+T534	Katherine-1 1689 1692	she
+T535	Denham-7 1710 1713	him
+T536	Denham-7 1722 1725	him
+T537	Katherine-1 1731 1734	her
+T538	Denham-7 1757 1760	you
+T539	the_little_party-4 1767 1769	we
+T540	the_little_party-4 1783 1792	ourselves
+T474	Denham-7 1814 1824	Mr. Denham
+T353	Mrs__Hilbery-2 1827 1833	mother
+T541	Katherine-1 1838 1841	she
+T542	Katherine-1 1859 1862	she
+T352	Mrs__Hilbery-2 1872 1882	her mother
+T543	Katherine-1 1872 1875	her
+T544	Denham-7 1897 1900	his
+T355	Denham-7 1937 1947	Mr. Denham
+T356	a_stranger-9 2026 2036	a stranger
+T354	a_room_full_of_people_much_at_their_ease___and_all_launched_upon_sentences-10 2042 2116	a room full of people much at their ease , and all launched upon sentences
+T475	people_much_at_their_ease___and_all_launched_upon_sentences-11 2057 2116	people much at their ease , and all launched upon sentences
+T545	people_much_at_their_ease___and_all_launched_upon_sentences-11 2072 2077	their
+T357	Denham-7 2151 2161	Mr. Denham
+T546	Denham-7 2218 2221	him
+T358	the_street_outside-12 2226 2244	the street outside
+T476	the_wide_and_rather_empty_space_of_the_drawing-room-13 2315 2366	the wide and rather empty space of the drawing-room
+T477	the_tea-table-14 2414 2427	the tea-table
+T547	Denham-7 2510 2513	his
+T548	Denham-7 2525 2528	his
+T549	Denham-7 2554 2557	his
+T359	the_streets-15 2575 2586	the streets
+T467	foot-passengers-16 2617 2632	foot-passengers
+T478	the_room-8 2635 2652	this drawing-room
+T479	group__excluding_katherine-17 2701 2719	the elderly people
+T550	group__excluding_katherine-17 2790 2794	them
+T480	the_room-8 2829 2845	the drawing-room
+T360	Denham-7 2885 2895	Mr. Denham
+T362	Mr__Fortescue-18 2911 2924	Mr. Fortescue
+T551	Mr__Fortescue-18 2995 2997	He
+T370	Denham-7 3024 3036	the newcomer
+T371	Mrs__Hilbery-2 3052 3064	Mrs. Hilbery
+T552	Denham-7 3116 3119	him
+T553	Denham-7 3155 3158	you
+T554	Denham-7 3165 3168	you
+T366	an_engineer-19 3185 3196	an engineer
+T369	Manchester-20 3218 3228	Manchester
+T361	Denham-7 3231 3241	Mr. Denham
+T555	she-21 3255 3258	she
+T373	a_thin___elderly_gentleman-22 3292 3318	a thin , elderly gentleman
+T375	Manchester-20 3377 3387	Manchester
+T556	she-21 3398 3401	she
+T379	she-21 3427 3443	A cousin of ours
+T378	Manchester-20 3476 3486	Manchester
+T367	Katherine-1 3491 3500	Katharine
+T380	Denham-7 3513 3523	Mr. Denham
+T557	Denham-7 3587 3590	him
+T381	Mr__Fortescue-18 3597 3609	the novelist
+T558	Mr__Fortescue-18 3624 3626	he
+T385	Denham-7 3654 3664	Mr. Denham
+T559	Denham-7 3672 3679	himself
+T368	the_street_outside-12 3729 3739	the street
+T372	the_room-8 3744 3775	this sophisticated drawing-room
+T383	the_little_party-4 3792 3811	other disagreeables
+T560	Denham-7 3814 3816	he
+T561	Denham-7 3847 3850	his
+T562	Denham-7 3858 3860	He
+T563	Denham-7 3875 3878	him
+T374	Katherine-1 3905 3914	Katharine
+T564	group__excluding_katherine-17 3917 3921	they
+T386	Mr__Fortescue-18 3976 3989	Mr. Fortescue
+T565	Mr__Fortescue-18 4069 4072	him
+T566	Katherine-1 4082 4085	you
+T388	Manchester-20 4099 4109	Manchester
+T567	Denham-7 4114 4116	he
+T377	Katherine-1 4123 4132	Katharine
+T568	Katherine-1 4147 4150	she
+T569	Denham-7 4170 4173	you
+T382	Katherine-1 4198 4207	Katharine
+T570	Katherine-1 4216 4219	her
+T389	Denham-7 4255 4261	Denham
+T484	somebody_else-24 4297 4310	somebody else
+T571	Katherine-1 4324 4327	she
+T572	Katherine-1 4353 4356	she
+T390	Denham-7 4375 4397	this strange young man
+T384	group__excluding_katherine-17 4414 4422	the rest
+T573	Katherine-1 4425 4428	She
+T574	Denham-7 4443 4445	he
+T575	Denham-7 4462 4465	his
+T576	Katherine-1 4541 4544	She
+T577	Denham-7 4560 4562	he
+T391	Denham-7 4594 4610	a bony young man
+T578	Denham-7 4616 4619	his
+T579	Denham-7 4661 4664	his
+T580	Denham-7 4736 4738	he
+T392	her_father-25 4821 4831	her father
+T581	Katherine-1 4821 4824	her
+T582	Denham-7 4844 4847	him
+T583	Denham-7 4860 4862	he
+T387	group__excluding_katherine-17 4897 4905	the rest
+T584	Katherine-1 4910 4911	I
+T512	no_one-100002 4940 4946	no one
+T393	Manchester-20 4961 4971	Manchester
+T585	Katherine-1 4976 4979	she
+T394	Mr__Fortescue-18 5000 5013	Mr. Fortescue
+T586	Katherine-1 5033 5036	her
+T396	novelists-26 5062 5071	novelists
+T587	Mr__Fortescue-18 5117 5119	he
+T395	Katherine-1 5235 5244	Katharine
+T588	Mr__Fortescue-18 5273 5275	he
+T589	Mr__Fortescue-18 5301 5304	his
+T590	Mr__Fortescue-18 5318 5321	his
+T591	Mr__Fortescue-18 5387 5390	his
+T592	Mr__Fortescue-18 5418 5420	he
+T400	the_streets_of_Manchester-27 5453 5478	the streets of Manchester
+T407	Manchester-20 5468 5478	Manchester
+T481	the_bare___immense_moors-28 5490 5514	the bare , immense moors
+T397	the_outskirts_of_the_town-29 5518 5543	the outskirts of the town
+T399	Manchester-20 5535 5543	the town
+T402	the_scrubby_little_house-30 5555 5579	the scrubby little house
+T403	she-21 5589 5597	the girl
+T406	the_professors-31 5620 5634	the professors
+T482	the_miserable_young_students-32 5639 5667	the miserable young students
+T404	our_younger_dramatists___who_would_visit_her-33 5707 5751	our younger dramatists , who would visit her
+T593	our-34 5707 5710	our
+T594	she-21 5748 5751	her
+T595	she-21 5762 5765	her
+T596	she-21 5811 5814	she
+T401	London-35 5828 5834	London
+T408	Katherine-1 5845 5854	Katharine
+T597	she-21 5874 5877	her
+T405	clamorous_butchers___shops-36 5938 5964	clamorous butchers ’ shops
+T398	she-21 5972 5985	dear creature
+T411	Mr__Fortescue-18 5995 6008	Mr. Fortescue
+T409	Mrs__Hilbery-2 6023 6035	Mrs. Hilbery
+T598	Mr__Fortescue-18 6041 6043	he
+T599	Mrs__Hilbery-2 6057 6058	I
+T600	Mrs__Hilbery-2 6087 6088	I
+T601	she-21 6096 6099	her
+T602	Mrs__Hilbery-2 6102 6103	I
+T410	the_big_gardens-37 6120 6135	the big gardens
+T412	the_dear_old_ladies_in_mittens___who_read_nothing_but_the___Spectator_____and_snuff_the_candles-38 6140 6235	the dear old ladies in mittens , who read nothing but the “ Spectator , ” and snuff the candles
+T603	the_dear_old_ladies_in_mittens___who_read_nothing_but_the___Spectator_____and_snuff_the_candles-38 6243 6247	they
+T604	Mrs__Hilbery-2 6266 6267	I
+T605	she-21 6273 6276	her
+T606	she-21 6277 6280	she
+T414	London-35 6311 6317	London
+T413	the_streets-15 6326 6364	the horrid streets that depress one so
+T483	the_University-39 6380 6394	the University
+T462	a_thin___elderly_gentleman-22 6404 6497	the thin gentleman , who had previously insisted upon the existence of people knowing Persian
+T485	people_knowing_Persian-40 6475 6497	people knowing Persian
+T607	Katherine-1 6502 6503	I
+T417	the_bare___immense_moors-28 6519 6524	moors
+T513	Manchester-20 6525 6530	there
+T608	Katherine-1 6541 6542	I
+T609	the_bare___immense_moors-28 6554 6558	them
+T416	Katherine-1 6592 6601	Katharine
+T610	her_father-25 6606 6607	I
+T415	my_family-41 6650 6659	my family
+T611	her_father-25 6650 6652	my
+T418	her_father-25 6664 6675	Mr. Hilbery
+T612	her_father-25 6687 6689	He
+T613	her_father-25 6773 6776	his
+T614	her_father-25 6822 6825	his
+T615	her_father-25 6833 6835	He
+T616	her_father-25 6892 6895	his
+T617	her_father-25 6986 6989	his
+T618	her_father-25 7060 7063	his
+T619	her_father-25 7106 7108	he
+T620	her_father-25 7132 7139	himself
+T621	her_father-25 7262 7264	he
+T622	her_father-25 7298 7301	his
+T623	her_father-25 7336 7338	he
+T625	her_father-25 7368 7370	he
+T626	her_father-25 7407 7410	his
+T486	Katherine-1 7492 7501	Katharine
+T421	Denham-7 7507 7513	Denham
+T422	Mr__Fortescue-18 7530 7543	Mr. Fortescue
+T420	her_parents-42 7616 7627	her parents
+T627	Katherine-1 7616 7619	her
+T628	Katherine-1 7677 7680	She
+T425	Mrs__Hilbery-2 7720 7730	her mother
+T629	Katherine-1 7720 7723	her
+T424	her_father-25 7813 7823	her father
+T630	Katherine-1 7813 7816	her
+T631	Katherine-1 7881 7884	she
+T632	Katherine-1 8062 8065	her
+T633	Katherine-1 8073 8076	her
+T634	Katherine-1 8105 8108	her
+T635	Katherine-1 8120 8123	she
+T636	Katherine-1 8198 8201	her
+T427	Denham-7 8310 8345	a young man , who scarcely knew her
+T637	Katherine-1 8342 8345	her
+T638	Denham-7 8351 8354	his
+T639	Katherine-1 8377 8380	she
+T640	Katherine-1 8392 8395	her
+T429	Denham-7 8535 8541	Denham
+T641	Katherine-1 8575 8578	she
+T428	Mrs__Hilbery-2 8642 8652	her mother
+T642	Katherine-1 8642 8645	her
+T643	Katherine-1 8665 8668	her
+T644	Denham-7 8706 8709	him
+T645	Katherine-1 8715 8718	she
+T646	Katherine-1 8758 8761	her
+T647	Denham-7 8779 8782	him
+T648	Katherine-1 8788 8791	her
+T426	the_tea-table-14 8804 8817	the tea-table
+T487	group__excluding_katherine-17 8830 8850	these elderly people
+T649	Denham-7 8892 8894	he
+T650	Denham-7 8903 8906	his
+T651	Katherine-1 8927 8930	her
+T652	Katherine-1 8936 8939	her
+T653	Denham-7 8977 8980	him
+T430	Manchester-20 9008 9018	Manchester
+T488	Katherine-1 9123 9132	Katharine
+T431	Mrs__Hilbery-2 9137 9147	her mother
+T654	Katherine-1 9137 9140	her
+T432	Mrs__Hilbery-2 9173 9179	mother
+T689	Trafalgar-43 9089 9098	Trafalgar
+T690	Trafalgar-43 9161 9170	Trafalgar
+T691	Trafalgar-43 9186 9195	Trafalgar
+T655	Mrs__Hilbery-2 9224 9226	me
+T433	Mr__Fortescue-18 9296 9314	dear Mr. Fortescue
+T656	Mrs__Hilbery-2 9332 9334	my
+T435	gentlemen_with_Roman_noses-44 9384 9410	gentlemen with Roman noses
+T657	gentlemen_with_Roman_noses-44 9431 9435	them
+T434	omnibuses-45 9439 9448	omnibuses
+T436	her_father-25 9453 9464	Mr. Hilbery
+T437	Denham-7 9491 9497	Denham
+T438	the_solicitors-46 9553 9567	the solicitors
+T658	her_father-25 9605 9607	he
+T659	her_father-25 9620 9623	his
+T439	Denham-7 9644 9650	Denham
+T660	her_father-25 9668 9671	his
+T441	Denham-7 9715 9721	Denham
+T440	Mrs__Hilbery-2 9760 9771	Mr. Hilbery
+T661	her_father-25 9775 9778	his
+T662	them-47 9800 9804	them
+T446	Mrs__Sutton_Bailey-48 9842 9860	Mrs. Sutton Bailey
+T663	her_father-25 9877 9879	he
+T664	Mrs__Sutton_Bailey-48 9890 9893	her
+T443	Denham-7 9900 9910	Mr. Denham
+T665	Denham-7 9917 9924	himself
+T442	Katherine-1 9984 9993	Katharine
+T666	katherine_and_Denham-49 10071 10075	they
+T667	katherine_and_Denham-49 10187 10191	They
+T448	Katherine-1 10217 10226	Katharine
+T445	Denham-7 10273 10287	this young man
+T668	Katherine-1 10328 10331	she
+T669	Katherine-1 10362 10365	her
+T670	katherine_and_Denham-49 10422 10426	They
+T444	Denham-7 10450 10456	Denham
+T671	Denham-7 10469 10472	his
+T672	Katherine-1 10539 10542	her
+T450	Mrs__Hilbery-2 10559 10571	Mrs. Hilbery
+T447	the_room-8 10616 10632	the drawing-room
+T673	Mrs__Hilbery-2 10704 10707	she
+T674	Mrs__Hilbery-2 10780 10783	her
+T449	one_sunny_spot-50 10835 10849	one sunny spot
+T451	Denham-7 10878 10888	Mr. Denham
+T675	Denham-7 10891 10894	you
+T676	Mrs__Hilbery-2 10902 10904	me
+T455	dear_Mr__Ruskin-51 10916 10931	dear Mr. Ruskin
+T677	Denham-7 10944 10947	his
+T452	Katherine-1 10954 10963	Katharine
+T678	Denham-7 10969 10972	his
+T679	Denham-7 10991 10993	he
+T680	Denham-7 11002 11005	his
+T681	Mrs__Hilbery-2 11022 11024	me
+T457	Denham-7 11027 11037	Mr. Denham
+T682	Denham-7 11044 11047	you
+T460	an_admirer_of_Ruskin-52 11048 11068	an admirer of Ruskin
+T459	dear_Mr__Ruskin-51 11062 11068	Ruskin
+T453	Some_one-53 11071 11079	Some one
+T683	Mrs__Hilbery-2 11106 11108	me
+T684	we-54 11123 11125	we
+T454	dear_Mr__Ruskin-51 11138 11144	Ruskin
+T463	Mrs__Hilbery-2 11147 11159	Mrs. Hilbery
+T685	Some_one-53 11172 11175	you
+T686	Mrs__Hilbery-2 11183 11184	I
+T687	you-100003 11201 11204	you
+T688	your-100004 11222 11226	your
+T458	aeroplanes-55 11244 11254	aeroplanes
+T461	the_bowels_of_the_earth-56 11274 11297	the bowels of the earth
+R1	cop Arg1:T2 Arg2:T172
+R2	appos Arg1:T19 Arg2:T16
+R3	cop Arg1:T30 Arg2:T40
+R4	cop Arg1:T73 Arg2:T266
+T77	NOM_PER 3332 3420	no retired schoolmaster or man of letters in Manchester with whom she could read Persian
+T110	no_retired_schoolmas-700 3332 3420	no retired schoolmaster or man of letters in Manchester with whom she could read Persian

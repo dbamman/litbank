@@ -1,0 +1,522 @@
+T0	NOM_GPE 43 63	a town of iron-works
+T2	PROP_GPE 359 368	Lynchburg
+T3	NOM_PER 330 346	drunken Irishmen
+T4	NOM_GPE 492 501	this town
+T5	NOM_FAC 636 653	the muddy streets
+T6	NOM_VEH 688 703	the dingy boats
+T7	NOM_LOC 709 725	the yellow river
+T8	NOM_FAC 905 922	the narrow street
+T9	NOM_PER 1021 1067	an angel pointing upward from the mantel-shelf
+T11	NOM_VEH 1540 1545	boats
+T14	NOM_PER 1918 1921	men
+T16	NOM_PER 2406 2415	these men
+T17	NOM_LOC 2524 2533	the river
+T20	NOM_PER 2838 2872	the Welsh puddler passing just now
+T21	NOM_VEH 3189 3202	the coalboats
+T22	NOM_FAC 3272 3282	this house
+T23	NOM_PER 4229 4238	Pantheist
+T24	PROP_PER 4244 4252	Arminian
+T25	NOM_PER 4370 4378	men here
+T26	NOM_PER 4486 4495	These men
+T27	PROP_PER 4595 4598	God
+T28	NOM_LOC 4947 4956	the world
+T30	PROP_PER 5429 5433	John
+T31	NOM_PER 5379 5388	these men
+T32	PROP_GPE 5530 5538	Virginia
+T33	NOM_PER 5592 5606	a thousand men
+T34	NOM_PER 5665 5675	this Wolfe
+T35	NOM_FAC 5900 5910	this house
+T36	NOM_PER 5928 5938	the Wolfes
+T37	NOM_PER 6098 6134	a picker in some of the cotton-mills
+T38	NOM_PER 6083 6095	their cousin
+T39	NOM_PER 5973 5976	son
+T41	NOM_FAC 6137 6146	The house
+T42	PROP_PER 6190 6200	The Wolfes
+T43	NOM_PER 6258 6295	the puddlers and feeders of the mills
+T44	NOM_PER 6380 6399	the Welsh emigrants
+T46	NOM_PER 6798 6808	the Wolfes
+T47	NOM_FAC 7029 7033	jail
+T48	NOM_FAC 6897 6914	kennel-like rooms
+T49	NOM_PER 6969 6983	the distillers
+T51	NOM_PER 7219 7247	So many a political reformer
+T52	NOM_PER 7459 7477	half-clothed women
+T53	NOM_FAC 7531 7535	home
+T54	PROP_FAC 7732 7744	Miss Potts '
+T56	NOM_PER 7934 7943	the woman
+T59	NOM_PER 8265 8276	the Vargent
+T62	NOM_FAC 8618 8626	the room
+T63	PROP_PER 8745 8754	Old Wolfe
+T64	NOM_FAC 9202 9217	the room beyond
+T66	NOM_PER 9808 9818	this woman
+T67	NOM_PER 9890 9915	the weak , flaccid wretch
+T68	NOM_PER 170 190	crowded human beings
+T1	NOM_FAC 283 301	the grocer 's shop
+T69	NOM_PER 283 293	the grocer
+T70	NOM_PER 319 346	a crowd of drunken Irishmen
+T71	NOM_FAC 572 590	the iron-foundries
+T72	NOM_FAC 665 676	the wharves
+T73	NOM_FAC 771 786	the house-front
+T74	NOM_PER 826 840	the passers-by
+T75	NOM_LOC 1221 1233	green fields
+T10	NOM_FAC 1331 1416	a narrow brick-yard sloping down to the river-side , strewed with rain-butts and tubs
+T76	NOM_LOC 1367 1381	the river-side
+T77	NOM_LOC 1419 1428	The river
+T78	NOM_LOC 1458 1474	la belle riviere
+T79	NOM_VEH 1550 1561	coal-barges
+T12	NOM_PER 1589 1596	a child
+T81	NOM_LOC 1662 1725	the negro-like river slavishly bearing its burden day after day
+T82	NOM_PER 1821 1905	the slow stream of human life creeping past , night and morning , to the great mills
+T83	NOM_PER 1840 1850	human life
+T84	NOM_FAC 1890 1905	the great mills
+T85	NOM_PER 1908 2015	Masses of men , with dull , besotted faces bent to the ground , sharpened here and there by pain or cunning
+T86	NOM_FAC 2145 2175	dens of drunkenness and infamy
+T13	NOM_PER 2463 2469	angels
+T15	NOM_FAC 2682 2783	quaint old gardens , dusky with soft , green foliage of apple-trees , and flushing crimson with roses
+T18	NOM_LOC 2799 2805	fields
+T19	NOM_LOC 2812 2821	mountains
+T87	NOM_FAC 2958 2977	the muddy graveyard
+T88	NOM_LOC 3011 3023	green fields
+T89	NOM_FAC 3165 3184	the dirty back-yard
+T90	NOM_LOC 3662 3688	yonder stagnant water-butt
+T91	NOM_PER 3746 3755	my friend
+T92	NOM_PER 4217 4223	Egoist
+T93	NOM_LOC 4302 4311	the hills
+T94	NOM_PER 4486 4561	These men , going by with drunken faces and brains full of unawakened power
+T29	NOM_PER 5372 5388	one of these men
+T96	NOM_PER 5394 5450	a furnace-tender in one of Kirby & John 's rolling-mills
+T99	PROP_PER 5456 5466	Hugh Wolfe
+T101	NOM_FAC 5478 5487	the mills
+T102	NOM_FAC 5520 5548	the lower Virginia railroads
+T103	NOM_PER 5694 5724	myriads of these furnace-hands
+T104	NOM_PER 5705 5724	these furnace-hands
+T105	NOM_PER 5958 5968	the father
+T106	NOM_PER 5987 6063	hands , as I said , in one of Kirby & John 's mills for making railroad-iron
+T40	PROP_PER 5421 5426	Kirby
+T97	PROP_PER 6017 6022	Kirby
+T107	PROP_PER 6025 6029	John
+T108	NOM_FAC 6010 6038	one of Kirby & John 's mills
+T98	NOM_FAC 5414 5450	one of Kirby & John 's rolling-mills
+T109	PROP_PER 6073 6080	Deborah
+T110	NOM_FAC 6118 6134	the cotton-mills
+T111	NOM_PER 6166 6187	half a dozen families
+T112	NOM_FAC 6205 6228	two of the cellar-rooms
+T113	NOM_PER 6231 6242	The old man
+T114	NOM_FAC 6286 6295	the mills
+T115	PROP_PER 6302 6307	Welsh
+T116	NOM_FAC 6343 6364	the Cornish tin-mines
+T117	PROP_PER 6402 6416	Cornish miners
+T118	NOM_PER 6426 6456	the throng passing the windows
+T45	NOM_PER 6709 6734	the slight angular bodies
+T119	NOM_PER 6853 6864	their class
+T120	PROP_PER 6961 6964	God
+T121	NOM_PER 7142 7186	their duplicates swarming the streets to-day
+T50	NOM_FAC 7168 7179	the streets
+T122	NOM_PER 7271 7404	many a private reformer , too , who has gone among them with a heart tender with Christ 's charity , and come out outraged , hardened
+T123	PROP_PER 7352 7358	Christ
+T124	NOM_PER 7448 7477	a crowd of half-clothed women
+T125	NOM_FAC 7497 7512	the cellar-door
+T127	PROP_PER 7574 7577	Deb
+T128	NOM_FAC 7593 7602	a mulatto
+T129	PROP_PER 7787 7790	Deb
+T55	NOM_PER 7860 7869	the crowd
+T130	PROP_PER 8015 8024	Kit Small
+T57	NOM_PER 8165 8177	a quite body
+T58	PROP_PER 8128 8131	Deb
+T131	NOM_PER 8327 8338	the mulatto
+T60	PROP_PER 8387 8402	the woman Wolfe
+T61	PROP_PER 8463 8470	Deborah
+T132	NOM_FAC 8491 8501	the cellar
+T133	NOM_PER 8828 8892	a pale , meek little man , with a white face and red rabbit-eyes
+T134	NOM_PER 8899 8904	woman
+T135	PROP_PER 8905 8912	Deborah
+T136	NOM_PER 9123 9134	a hunchback
+T137	NOM_PER 9728 9750	most of her companions
+T65	NOM_PER 10082 10085	Man
+T126	NOM_FAC 7541 7556	the cotton-mill
+T95	NOM_FAC 5549 5554	there
+T139	NOM_FAC 6815 6819	here
+T140	PRON_PER 18 21	you
+T141	PRON_PER 204 206	me
+T142	PRON_PER 209 210	I
+T143	PRON_PER 380 385	their
+T144	PRON_PER 394 395	I
+T146	PRON_PER 1203 1205	me
+T147	PRON_PER 1290 1291	I
+T148	PRON_PER 1321 1322	I
+T149	PRON_PER 1583 1584	I
+T150	PRON_PER 1599 1600	I
+T151	PRON_PER 1771 1773	me
+T152	PRON_PER 1811 1812	I
+T153	PRON_PER 2295 2298	you
+T154	PRON_PER 2349 2352	You
+T155	PRON_PER 2483 2487	them
+T156	PRON_PER 2509 2511	My
+T157	PRON_PER 2920 2923	his
+T158	PRON_PER 3050 3053	you
+T159	PRON_PER 3084 3085	I
+T160	PRON_PER 3253 3255	me
+T161	PRON_PER 3294 3295	I
+T162	PRON_PER 3322 3325	You
+T163	PRON_PER 3443 3444	I
+T165	PRON_PER 3730 3733	you
+T166	PRON_PER 3746 3748	my
+T167	PRON_PER 3824 3825	I
+T168	PRON_PER 3863 3864	I
+T169	PRON_PER 3870 3873	you
+T170	PRON_PER 3882 3883	I
+T171	PRON_PER 3889 3892	you
+T172	PRON_PER 3901 3905	your
+T173	PRON_PER 3932 3936	your
+T174	PRON_PER 3978 3980	me
+T175	PRON_PER 4050 4051	I
+T176	PRON_PER 4057 4060	you
+T177	PRON_PER 4171 4172	I
+T178	PRON_PER 4205 4208	you
+T179	PRON_PER 4211 4214	You
+T180	PRON_PER 4289 4293	your
+T181	PRON_PER 4421 4422	I
+T182	PRON_PER 4461 4462	I
+T183	PRON_PER 4468 4471	you
+T184	PRON_PER 4601 4606	Their
+T185	PRON_PER 4622 4627	their
+T186	PRON_PER 4664 4665	I
+T187	PRON_PER 4676 4679	you
+T188	PRON_PER 4693 4694	I
+T189	PRON_PER 4719 4720	I
+T190	PRON_PER 4733 4736	you
+T191	PRON_PER 4854 4856	we
+T192	PRON_PER 4989 4990	I
+T193	PRON_PER 5001 5003	my
+T194	PRON_PER 5044 5046	my
+T195	PRON_PER 5083 5086	you
+T196	PRON_PER 5130 5132	us
+T197	PRON_PER 5171 5175	your
+T198	PRON_PER 5307 5309	My
+T199	PRON_PER 5346 5347	I
+T200	PRON_PER 5469 5472	You
+T201	PRON_PER 5490 5494	They
+T202	PRON_PER 5609 5610	I
+T203	PRON_PER 5628 5629	I
+T204	PRON_PER 5998 5999	I
+T205	PRON_PER 6083 6088	their
+T206	PRON_PER 6331 6334	his
+T207	PRON_PER 6367 6370	You
+T208	PRON_PER 6469 6473	They
+T209	PRON_PER 6501 6506	their
+T210	PRON_PER 6535 6539	they
+T211	PRON_PER 6558 6562	they
+T212	PRON_PER 6575 6579	they
+T213	PRON_PER 6683 6684	I
+T214	PRON_PER 6822 6827	Their
+T215	PRON_PER 6853 6858	their
+T216	PRON_PER 7086 7091	their
+T217	PRON_PER 7127 7131	them
+T218	PRON_PER 7142 7147	their
+T219	PRON_PER 7258 7261	you
+T220	PRON_PER 7322 7326	them
+T221	PRON_PER 7515 7519	They
+T222	PRON_PER 7615 7622	herself
+T223	PRON_PER 7646 7649	She
+T224	PRON_PER 7676 7679	her
+T225	PRON_PER 7706 7710	them
+T226	PRON_PER 8087 8089	we
+T227	PRON_PER 8097 8100	her
+T228	PRON_PER 8103 8105	we
+T229	PRON_PER 8199 8201	we
+T230	PRON_PER 8312 8316	They
+T231	PRON_PER 8412 8416	them
+T232	PRON_PER 8442 8445	she
+T233	PRON_PER 8478 8481	her
+T234	PRON_PER 8821 8823	He
+T235	PRON_PER 8922 8925	him
+T236	PRON_PER 8933 8936	her
+T237	PRON_PER 8966 8969	her
+T238	PRON_PER 8983 8986	her
+T239	PRON_PER 9006 9009	She
+T240	PRON_PER 9065 9068	she
+T241	PRON_PER 9097 9100	she
+T242	PRON_PER 9137 9140	She
+T243	PRON_PER 9174 9177	him
+T244	PRON_PER 9226 9229	she
+T245	PRON_PER 9324 9327	she
+T246	PRON_PER 9433 9436	she
+T247	PRON_PER 9444 9447	her
+T248	PRON_PER 9486 9489	her
+T249	PRON_PER 9517 9520	her
+T250	PRON_PER 9569 9572	her
+T251	PRON_PER 9651 9654	She
+T252	PRON_PER 9736 9739	her
+T253	PRON_PER 9788 9791	She
+T254	PRON_PER 9824 9827	her
+T255	PRON_PER 9938 9941	her
+T256	PRON_PER 9960 9963	her
+T257	PRON_PER 10054 10057	she
+T258	PRON_PER 10121 10124	she
+T260	PRON_PER 10188 10191	her
+T261	PRON_PER 10197 10200	her
+T262	PRON_LOC 1485 1491	itself
+T263	NOM_PER 2326 2346	amateur psychologist
+T264	NOM_PER 7587 7590	one
+T405	you-0 18 21	you
+T265	a_town_of_iron-works-1 43 63	a town of iron-works
+T333	crowded_human_beings-2 170 190	crowded human beings
+T406	me-3 204 206	me
+T407	me-3 209 210	I
+T266	the_grocer__s_shop-4 283 301	the grocer 's shop
+T334	the_grocer-5 283 293	the grocer
+T335	a_crowd_of_drunken_Irishmen-6 319 346	a crowd of drunken Irishmen
+T268	drunken_Irishmen-7 330 346	drunken Irishmen
+T267	Lynchburg-8 359 368	Lynchburg
+T408	a_crowd_of_drunken_Irishmen-6 380 385	their
+T409	me-3 394 395	I
+T269	a_town_of_iron-works-1 492 501	this town
+T336	the_iron-foundries-9 572 590	the iron-foundries
+T270	the_muddy_streets-10 636 653	the muddy streets
+T337	the_wharves-11 665 676	the wharves
+T271	the_dingy_boats-12 688 703	the dingy boats
+T272	the_yellow_river-13 709 725	the yellow river
+T338	the_house-front-14 771 786	the house-front
+T339	the_passers-by-15 826 840	the passers-by
+T273	the_narrow_street-16 905 922	the narrow street
+T274	an_angel_pointing_upward_from_the_mantel-shelf-17 1021 1067	an angel pointing upward from the mantel-shelf
+T411	me-3 1203 1205	me
+T340	green_fields-18 1221 1233	green fields
+T412	me-3 1290 1291	I
+T413	me-3 1321 1322	I
+T275	a_narrow_brick-yard_sloping_down_to_the_river-side___strewed_with_rain-butts_and_tubs-19 1331 1416	a narrow brick-yard sloping down to the river-side , strewed with rain-butts and tubs
+T341	the_river-side-20 1367 1381	the river-side
+T342	The_river-21 1419 1428	The river
+T343	The_river-21 1458 1474	la belle riviere
+T527	The_river-21 1485 1491	itself
+T276	boats-22 1540 1545	boats
+T344	coal-barges-23 1550 1561	coal-barges
+T414	me-3 1583 1584	I
+T415	me-3 1599 1600	I
+T346	The_river-21 1662 1725	the negro-like river slavishly bearing its burden day after day
+T416	me-3 1771 1773	me
+T417	me-3 1811 1812	I
+T347	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24 1821 1905	the slow stream of human life creeping past , night and morning , to the great mills
+T348	human_life-25 1840 1850	human life
+T349	the_great_mills-26 1890 1905	the great mills
+T350	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24 1908 2015	Masses of men , with dull , besotted faces bent to the ground , sharpened here and there by pain or cunning
+T279	men-27 1918 1921	men
+T351	dens_of_drunkenness_and_infamy-28 2145 2175	dens of drunkenness and infamy
+T418	you-29 2295 2298	you
+T528	amateur_psychologist-30 2326 2346	amateur psychologist
+T419	You-31 2349 2352	You
+T281	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24 2406 2415	these men
+T278	angels-32 2463 2469	angels
+T420	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24 2483 2487	them
+T421	me-3 2509 2511	My
+T282	The_river-21 2524 2533	the river
+T280	quaint_old_gardens___dusky_with_soft___green_foliage_of_apple-trees___and_flushing_crimson_with_roses-33 2682 2783	quaint old gardens , dusky with soft , green foliage of apple-trees , and flushing crimson with roses
+T283	fields-34 2799 2805	fields
+T284	mountains-35 2812 2821	mountains
+T285	the_Welsh_puddler_passing_just_now-36 2838 2872	the Welsh puddler passing just now
+T422	the_Welsh_puddler_passing_just_now-36 2920 2923	his
+T352	the_muddy_graveyard-37 2958 2977	the muddy graveyard
+T353	green_fields-38 3011 3023	green fields
+T423	you-39 3050 3053	you
+T424	me-3 3084 3085	I
+T354	the_dirty_back-yard-40 3165 3184	the dirty back-yard
+T286	the_coalboats-41 3189 3202	the coalboats
+T425	me-3 3253 3255	me
+T287	this_house-42 3272 3282	this house
+T426	me-3 3294 3295	I
+T427	You-43 3322 3325	You
+T428	me-3 3443 3444	I
+T355	yonder_stagnant_water-butt-44 3662 3688	yonder stagnant water-butt
+T430	you-45 3730 3733	you
+T431	me-3 3746 3748	my
+T432	me-3 3824 3825	I
+T433	me-3 3863 3864	I
+T434	you-46 3870 3873	you
+T435	me-3 3882 3883	I
+T436	you-47 3889 3892	you
+T437	your-48 3901 3905	your
+T438	your-49 3932 3936	your
+T439	me-3 3978 3980	me
+T440	me-3 4050 4051	I
+T441	you-50 4057 4060	you
+T442	me-3 4171 4172	I
+T443	you-51 4205 4208	you
+T444	You-52 4211 4214	You
+T445	your-53 4289 4293	your
+T358	the_hills-54 4302 4311	the hills
+T290	men_here-55 4370 4378	men here
+T446	me-3 4421 4422	I
+T447	me-3 4461 4462	I
+T448	you-56 4468 4471	you
+T291	These_men-58 4486 4495	These men
+T359	These_men___going_by_with_drunken_faces_and_brains_full_of_unawakened_power-59 4486 4561	These men , going by with drunken faces and brains full of unawakened power
+T292	God-60 4595 4598	God
+T449	These_men___going_by_with_drunken_faces_and_brains_full_of_unawakened_power-59 4601 4606	Their
+T450	These_men___going_by_with_drunken_faces_and_brains_full_of_unawakened_power-59 4622 4627	their
+T451	me-3 4664 4665	I
+T452	you-61 4676 4679	you
+T453	me-3 4693 4694	I
+T454	me-3 4719 4720	I
+T455	you-62 4733 4736	you
+T456	we-63 4854 4856	we
+T293	the_world-64 4947 4956	the world
+T457	me-3 4989 4990	I
+T458	me-3 5001 5003	my
+T459	me-3 5044 5046	my
+T460	you-65 5083 5086	you
+T461	us-66 5130 5132	us
+T462	your-67 5171 5175	your
+T463	me-3 5307 5309	My
+T464	me-3 5346 5347	I
+T294	Hugh_Wolfe-68 5372 5388	one of these men
+T296	these_men-69 5379 5388	these men
+T363	one_of_Kirby___John__s_rolling-mills-70 5414 5450	one of Kirby & John 's rolling-mills
+T305	Kirby-71 5421 5426	Kirby
+T295	John-72 5429 5433	John
+T465	You-73 5469 5472	You
+T366	the_mills-74 5478 5487	the mills
+T367	the_lower_Virginia_railroads-75 5520 5548	the lower Virginia railroads
+T297	Virginia-76 5530 5538	Virginia
+T466	They-77 5490 5494	They
+T360	the_mills-74 5549 5554	there
+T298	a_thousand_men-78 5592 5606	a thousand men
+T467	me-3 5609 5610	I
+T468	me-3 5628 5629	I
+T299	Hugh_Wolfe-68 5665 5675	this Wolfe
+T368	myriads_of_these_furnace-hands-79 5694 5724	myriads of these furnace-hands
+T369	these_furnace-hands-80 5705 5724	these furnace-hands
+T300	this_house-42 5900 5910	this house
+T301	the_Wolfes-81 5928 5938	the Wolfes
+T370	the_father-82 5958 5968	the father
+T304	Hugh_Wolfe-68 5973 5976	son
+T371	Wolfe_father_son-83 5987 6063	hands , as I said , in one of Kirby & John 's mills for making railroad-iron
+T469	me-3 5998 5999	I
+T373	one_of_Kirby___John__s_rolling-mills-70 6010 6038	one of Kirby & John 's mills
+T362	Kirby-71 6017 6022	Kirby
+T372	John-72 6025 6029	John
+T470	Wolfe_father_son-83 6083 6088	their
+T375	the_cotton-mills-85 6118 6134	the cotton-mills
+T306	this_house-42 6137 6146	The house
+T376	half_a_dozen_families-86 6166 6187	half a dozen families
+T307	Wolfe_father_son-83 6190 6200	The Wolfes
+T377	two_of_the_cellar-rooms-87 6205 6228	two of the cellar-rooms
+T378	the_father-82 6231 6242	The old man
+T308	the_puddlers_and_feeders_of_the_mills-88 6258 6295	the puddlers and feeders of the mills
+T379	the_mills-89 6286 6295	the mills
+T380	Welsh-90 6302 6307	Welsh
+T471	the_father-82 6331 6334	his
+T381	the_Cornish_tin-mines-91 6343 6364	the Cornish tin-mines
+T472	You-92 6367 6370	You
+T309	the_Welsh_emigrants-93 6380 6399	the Welsh emigrants
+T382	Cornish_miners-94 6402 6416	Cornish miners
+T383	the_throng_passing_the_windows-95 6426 6456	the throng passing the windows
+T473	They-96 6469 6473	They
+T474	They-96 6501 6506	their
+T475	They-96 6535 6539	they
+T476	They-96 6558 6562	they
+T477	They-96 6575 6579	they
+T478	me-3 6683 6684	I
+T310	the_slight_angular_bodies-97 6709 6734	the slight angular bodies
+T311	Wolfe_father_son-83 6798 6808	the Wolfes
+T404	this_house-42 6815 6819	here
+T479	Wolfe_father_son-83 6822 6827	Their
+T384	their_class-98 6853 6864	their class
+T480	Wolfe_father_son-83 6853 6858	their
+T313	kennel-like_rooms-99 6897 6914	kennel-like rooms
+T385	God-100 6961 6964	God
+T314	the_distillers-101 6969 6983	the distillers
+T312	jail-102 7029 7033	jail
+T481	Wolfe_father_son-83 7086 7091	their
+T482	Wolfe_father_son-83 7127 7131	them
+T386	their_duplicates_swarming_the_streets_to-day-103 7142 7186	their duplicates swarming the streets to-day
+T483	Wolfe_father_son-83 7142 7147	their
+T315	the_streets-104 7168 7179	the streets
+T316	So_many_a_political_reformer-105 7219 7247	So many a political reformer
+T484	you-106 7258 7261	you
+T387	many_a_private_reformer___too___who_has_gone_among_them_with_a_heart_tender_with_Christ__s_charity___and_come_out_outraged___hardened-107 7271 7404	many a private reformer , too , who has gone among them with a heart tender with Christ 's charity , and come out outraged , hardened
+T485	their_duplicates_swarming_the_streets_to-day-103 7322 7326	them
+T388	Christ-108 7352 7358	Christ
+T389	a_crowd_of_half-clothed_women-109 7448 7477	a crowd of half-clothed women
+T317	half-clothed_women-110 7459 7477	half-clothed women
+T390	the_cellar-door-111 7497 7512	the cellar-door
+T486	a_crowd_of_half-clothed_women-109 7515 7519	They
+T318	home-112 7531 7535	home
+T391	the_cotton-mill-113 7541 7556	the cotton-mill
+T392	Deb-114 7574 7577	Deb
+T529	one-115 7587 7590	one
+T487	one-115 7615 7622	herself
+T488	one-115 7646 7649	She
+T489	one-115 7676 7679	her
+T490	them-116 7706 7710	them
+T319	Miss_Potts__-117 7732 7744	Miss Potts '
+T394	Deborah-84 7787 7790	Deb
+T320	the_crowd-118 7860 7869	the crowd
+T321	the_woman-119 7934 7943	the woman
+T395	Kit_Small-120 8015 8024	Kit Small
+T491	we-121 8087 8089	we
+T492	Kit_Small-120 8097 8100	her
+T493	we-121 8103 8105	we
+T323	Deb-114 8128 8131	Deb
+T322	a_quite_body-122 8165 8177	a quite body
+T494	we-121 8199 8201	we
+T324	the_Vargent-123 8265 8276	the Vargent
+T495	a_crowd_of_half-clothed_women-109 8312 8316	They
+T396	the_mulatto-124 8327 8338	the mulatto
+T374	Deb-114 6073 6080	Deborah
+T325	Deb-114 8387 8402	the woman Wolfe
+T496	a_crowd_of_half-clothed_women-109 8412 8416	them
+T497	Deb-114 8442 8445	she
+T326	Deb-114 8463 8470	Deborah
+T498	Deb-114 8478 8481	her
+T397	the_cellar-125 8491 8501	the cellar
+T327	the_cellar-125 8618 8626	the room
+T328	the_father-82 8745 8754	Old Wolfe
+T499	the_father-82 8821 8823	He
+T399	Deb-114 8899 8904	woman
+T400	Deb-114 8905 8912	Deborah
+T500	the_father-82 8922 8925	him
+T501	Deb-114 8933 8936	her
+T502	Deb-114 8966 8969	her
+T503	Deb-114 8983 8986	her
+T504	Deb-114 9006 9009	She
+T505	Deb-114 9065 9068	she
+T506	Deb-114 9097 9100	she
+T401	a_hunchback-126 9123 9134	a hunchback
+T507	Deb-114 9137 9140	She
+T508	the_father-82 9174 9177	him
+T329	the_room_beyond-127 9202 9217	the room beyond
+T509	Deb-114 9226 9229	she
+T510	Deb-114 9324 9327	she
+T511	Deb-114 9433 9436	she
+T512	Deb-114 9444 9447	her
+T513	Deb-114 9486 9489	her
+T514	Deb-114 9517 9520	her
+T515	Deb-114 9569 9572	her
+T516	Deb-114 9651 9654	She
+T402	most_of_her_companions-128 9728 9750	most of her companions
+T517	Deb-114 9736 9739	her
+T518	Deb-114 9788 9791	She
+T331	Deb-114 9808 9818	this woman
+T519	Deb-114 9824 9827	her
+T332	Deb-114 9890 9915	the weak , flaccid wretch
+T520	Deb-114 9938 9941	her
+T521	Deb-114 9960 9963	her
+T522	Deb-114 10054 10057	she
+T330	Man-129 10082 10085	Man
+T523	Deb-114 10121 10124	she
+T525	Deb-114 10188 10191	her
+T526	Deb-114 10197 10200	her
+R1	cop Arg1:T12 Arg2:T149
+R3	appos Arg1:T92 Arg2:T179
+R4	appos Arg1:T23 Arg2:T179
+R5	appos Arg1:T24 Arg2:T179
+R6	appos Arg1:T96 Arg2:T29
+R7	appos Arg1:T99 Arg2:T29
+R8	appos Arg1:T128 Arg2:T264
+R9	appos Arg1:T38 Arg2:T109
+R10	appos Arg1:T37 Arg2:T109
+R11	cop Arg1:T133 Arg2:T234
+T538	PRON_LOC 1701 1704	its
+T539	The_river-21 1701 1704	its
+T80	my_friend-805 3746 3755	my friend
+T100	NOM_FAC 6110 6134	some of the cotton-mills
+T138	some_of_the_cotton-m-700 6110 6134	some of the cotton-mills

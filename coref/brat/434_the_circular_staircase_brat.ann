@@ -1,0 +1,610 @@
+T0	NOM_PER 58 80	a middle-aged spinster
+T1	NOM_FAC 17 32	A COUNTRY HOUSE
+T2	NOM_PER 106 123	her domestic gods
+T3	NOM_GPE 183 187	town
+T4	NOM_FAC 143 160	a furnished house
+T5	NOM_PER 568 578	my friends
+T6	NOM_PER 1794 1804	the tenant
+T7	NOM_PER 1898 1911	the detective
+T9	NOM_PER 2119 2129	my brother
+T10	NOM_PER 2148 2164	his two children
+T11	PROP_PER 2196 2204	Gertrude
+T12	NOM_PER 2362 2371	the child
+T14	PROP_PER 2571 2577	Halsey
+T15	PROP_PER 2527 2535	Gertrude
+T16	NOM_PER 3057 3069	the children
+T17	NOM_PER 3105 3112	friends
+T18	PROP_PER 3268 3274	Halsey
+T19	PROP_PER 3314 3322	Gertrude
+T21	PROP_PER 3416 3424	Gertrude
+T25	NOM_PER 3861 3872	college men
+T27	NOM_PER 3813 3833	beardless sophomores
+T28	NOM_PER 4278 4309	a properly equipped maiden aunt
+T29	PROP_PER 4358 4364	Halsey
+T30	NOM_PER 4548 4558	the doctor
+T31	NOM_FAC 4453 4473	a good country house
+T32	PROP_PER 4406 4414	Gertrude
+T33	NOM_GPE 4517 4521	town
+T35	NOM_PER 4795 4840	the housekeeper , who had been left in charge
+T36	NOM_FAC 4858 4867	the house
+T37	NOM_PER 5001 5008	thieves
+T38	NOM_FAC 4953 4962	the house
+T39	NOM_FAC 5208 5216	the road
+T40	NOM_FAC 5280 5304	the Greenwood Club House
+T41	PROP_PER 5320 5326	Halsey
+T42	NOM_FAC 5425 5435	good roads
+T43	PROP_PER 5383 5389	Halsey
+T45	NOM_FAC 5478 5488	a hospital
+T48	NOM_FAC 5445 5454	the house
+T49	PROP_PER 5823 5829	Halsey
+T50	PROP_PER 5834 5842	Gertrude
+T54	NOM_PER 6175 6184	criminals
+T58	NOM_PER 6603 6611	his wife
+T59	NOM_PER 6649 6679	the Armstrong family physician
+T61	NOM_PER 6616 6624	daughter
+T62	NOM_FAC 6572 6581	the house
+T64	PROP_PER 6776 6782	Halsey
+T66	PROP_PER 6694 6710	Louise Armstrong
+T67	PROP_PER 7050 7066	Arnold Armstrong
+T68	PROP_PER 6899 6912	Mr. Armstrong
+T69	PROP_PER 7230 7236	Halsey
+T70	NOM_FAC 7260 7265	house
+T72	PROP_PER 7241 7249	Gertrude
+T73	NOM_FAC 7320 7329	The roads
+T74	NOM_FAC 7420 7429	the house
+T75	NOM_FAC 7514 7525	the station
+T76	NOM_LOC 7460 7469	the woods
+T78	PROP_PER 8427 8439	Mrs. Ralston
+T79	NOM_PER 8372 8390	my own housekeeper
+T80	NOM_VEH 8448 8464	the eleven train
+T82	PROP_PER 8357 8369	Mrs. Ralston
+T83	NOM_PER 8497 8507	the butler
+T84	NOM_PER 8667 8685	the cook 's sister
+T86	PROP_PER 8850 8855	Liddy
+T88	NOM_FAC 8894 8910	twenty-two rooms
+T89	NOM_PER 9018 9049	the Armstrongs ' colored butler
+T90	NOM_PER 9067 9097	a waiter at the Greenwood Club
+T93	NOM_PER 8978 8990	the milk-boy
+T96	NOM_PER 9163 9181	people 's servants
+T97	NOM_FAC 9577 9586	the house
+T100	PROP_PER 10124 10138	Thomas Johnson
+T102	NOM_LOC 10146 10162	somewhar 's else
+T104	NOM_GPE 669 673	town
+T105	PROP_GPE 858 867	Sunnyside
+T106	PROP_PER 997 1002	Liddy
+T107	PROP_PER 1318 1323	Liddy
+T108	PROP_GPE 1531 1540	Sunnyside
+T8	PROP_PER 1883 1895	Mr. Jamieson
+T109	PROP_PER 2167 2173	Halsey
+T13	NOM_PER 2389 2484	the man who started to carry the calf and ended by walking along with the bull on his shoulders
+T110	NOM_FAC 2698 2710	good schools
+T111	NOM_FAC 3027 3042	boarding-school
+T112	NOM_FAC 3047 3054	college
+T113	NOM_FAC 3323 3342	her boarding-school
+T20	NOM_FAC 3359 3363	home
+T22	NOM_PER 3537 3552	the dressmakers
+T24	NOM_PER 3598 3678	ineligible youths with either more money than brains , or more brains than money
+T26	NOM_PER 3842 3854	college boys
+T114	PROP_PER 3875 3881	Halsey
+T115	NOM_PER 3940 3952	their mother
+T116	PROP_PER 4018 4024	Halsey
+T117	NOM_VEH 4032 4037	a car
+T118	NOM_PER 4186 4192	People
+T119	PROP_LOC 4390 4401	Adirondacks
+T34	PROP_GPE 4422 4432	Bar Harbor
+T120	PROP_GPE 4585 4594	Sunnyside
+T121	NOM_FAC 4620 4632	the property
+T122	NOM_FAC 4871 4892	the gardener 's lodge
+T123	NOM_PER 4871 4883	the gardener
+T124	NOM_FAC 4918 4927	the lodge
+T125	NOM_FAC 5064 5076	The property
+T126	NOM_FAC 5100 5109	the house
+T127	NOM_LOC 5124 5130	a hill
+T128	NOM_FAC 5173 5183	green lawn
+T129	NOM_LOC 5230 5240	the valley
+T130	PROP_PER 5307 5315	Gertrude
+T44	NOM_FAC 5612 5621	the place
+T46	NOM_PER 5711 5722	the servant
+T47	NOM_PER 6006 6093	a half-civilized ancestor who wore a sheepskin garment and trailed his food or his prey
+T51	NOM_PER 6144 6149	a man
+T52	NOM_PER 6162 6184	a trapper of criminals
+T53	NOM_PER 6229 6250	my sheepskin ancestor
+T55	NOM_PER 6281 6299	an unmarried woman
+T56	PROP_PER 6493 6507	Paul Armstrong
+T63	NOM_ORG 6527 6545	the Traders ' Bank
+T131	NOM_PER 6510 6624	the president of the Traders ' Bank , who at the time we took the house was in the west with his wife and daughter
+T57	PROP_PER 6653 6662	Armstrong
+T132	PROP_PER 6682 6688	Halsey
+T65	NOM_PER 6871 6886	a charming girl
+T133	NOM_ORG 6946 7005	the bank , where the children 's money was largely invested
+T134	NOM_PER 7040 7047	the son
+T135	NOM_PER 7101 7111	his father
+T71	PROP_GPE 7291 7300	Sunnyside
+T136	NOM_VEH 7549 7556	the car
+T137	NOM_LOC 7584 7624	a bank showered with tiny forget-me-nots
+T77	PROP_PER 7822 7827	Liddy
+T138	NOM_LOC 8126 8137	the country
+T81	PROP_PER 8347 8352	Liddy
+T139	PROP_PER 8489 8494	Burke
+T140	NOM_PER 8667 8675	the cook
+T85	NOM_PER 8700 8708	the cook
+T141	NOM_PER 8750 8755	twins
+T142	NOM_PER 8690 8696	a baby
+T143	NOM_PER 8818 8837	the household staff
+T144	NOM_FAC 8915 8925	five baths
+T145	PROP_PER 8928 8933	Liddy
+T146	NOM_GPE 8955 8963	the city
+T147	NOM_FAC 9079 9097	the Greenwood Club
+T148	NOM_PER 9163 9169	people
+T94	NOM_ORG 9289 9323	railroads and street-car companies
+T149	NOM_FAC 9354 9362	the club
+T95	PROP_PER 9389 9403	Thomas Johnson
+T98	PROP_PER 9466 9472	Thomas
+T150	NOM_PER 9541 9553	the gardener
+T151	NOM_FAC 9541 9562	the gardener 's lodge
+T99	NOM_PER 9600 9611	The old man
+T152	PROP_PER 9775 9786	Mis ' Innes
+T91	NOM_PER 9018 9032	the Armstrongs
+T92	PROP_PER 9001 9015	Thomas Johnson
+T103	NOM_PER 6807 6815	somebody
+T157	NOM_PER 10095 10101	nobody
+T158	NOM_FAC 5857 5862	there
+T159	NOM_FAC 5915 5920	there
+T160	NOM_FAC 9867 9871	here
+T162	PRON_PER 10 11	I
+T163	PRON_PER 86 89	her
+T164	PRON_PER 106 109	her
+T165	PRON_PER 200 207	herself
+T166	PRON_PER 261 264	our
+T167	PRON_PER 339 340	I
+T168	PRON_PER 391 392	I
+T169	PRON_PER 546 547	I
+T170	PRON_PER 568 570	my
+T171	PRON_PER 602 607	their
+T172	PRON_PER 809 811	me
+T173	PRON_PER 819 820	I
+T174	PRON_PER 847 848	I
+T175	PRON_PER 870 871	I
+T176	PRON_PER 884 885	I
+T177	PRON_PER 915 916	I
+T178	PRON_PER 943 945	my
+T179	PRON_PER 970 971	I
+T180	PRON_PER 1012 1014	me
+T181	PRON_PER 1101 1103	my
+T182	PRON_PER 1150 1151	I
+T183	PRON_PER 1197 1198	I
+T184	PRON_PER 1207 1210	her
+T185	PRON_PER 1226 1227	I
+T186	PRON_PER 1245 1246	I
+T187	PRON_PER 1277 1279	my
+T188	PRON_PER 1345 1348	she
+T189	PRON_PER 1386 1389	she
+T190	PRON_PER 1434 1437	she
+T191	PRON_PER 1473 1476	her
+T192	PRON_PER 1490 1491	I
+T193	PRON_PER 1547 1550	she
+T194	PRON_PER 1614 1617	you
+T196	PRON_PER 1763 1765	me
+T197	PRON_PER 1844 1845	I
+T198	PRON_PER 1854 1856	my
+T199	PRON_PER 1874 1875	I
+T200	PRON_PER 1919 1926	himself
+T201	PRON_PER 1927 1929	he
+T202	PRON_PER 1960 1962	me
+T203	PRON_PER 1974 1976	he
+T204	PRON_PER 1982 1984	me
+T205	PRON_PER 2019 2020	I
+T206	PRON_PER 2095 2097	my
+T207	PRON_PER 2119 2121	my
+T208	PRON_PER 2145 2147	me
+T209	PRON_PER 2148 2151	his
+T210	PRON_PER 2272 2274	me
+T211	PRON_PER 2471 2474	his
+T212	PRON_PER 2497 2498	I
+T213	PRON_PER 2512 2513	I
+T214	PRON_PER 2678 2679	I
+T215	PRON_PER 2685 2689	them
+T216	PRON_PER 2726 2728	my
+T217	PRON_PER 2818 2823	their
+T218	PRON_PER 2846 2851	their
+T219	PRON_PER 2899 2901	my
+T220	PRON_PER 2969 2970	I
+T221	PRON_PER 2995 2999	them
+T222	PRON_PER 3084 3089	their
+T223	PRON_PER 3125 3126	I
+T224	PRON_PER 3138 3140	my
+T225	PRON_PER 3224 3225	I
+T227	PRON_PER 3288 3291	his
+T228	PRON_PER 3323 3326	her
+T229	PRON_PER 3500 3503	her
+T230	PRON_PER 3530 3533	her
+T231	PRON_PER 3688 3689	I
+T232	PRON_PER 3926 3930	they
+T233	PRON_PER 3940 3945	their
+T234	PRON_PER 3978 3980	my
+T235	PRON_PER 4056 4057	I
+T236	PRON_PER 4082 4084	my
+T237	PRON_PER 4227 4232	their
+T238	PRON_PER 4257 4259	my
+T239	PRON_PER 4275 4277	me
+T240	PRON_PER 4326 4327	I
+T241	PRON_PER 4435 4437	we
+T242	PRON_PER 4574 4576	we
+T243	PRON_PER 4597 4599	We
+T244	PRON_PER 4790 4792	me
+T245	PRON_PER 4978 4980	me
+T247	PRON_PER 5370 5373	you
+T248	PRON_PER 5604 5606	we
+T249	PRON_PER 5635 5637	my
+T250	PRON_PER 5746 5747	I
+T251	PRON_PER 5753 5759	myself
+T252	PRON_PER 5808 5809	I
+T253	PRON_PER 5854 5856	me
+T254	PRON_PER 5950 5952	me
+T255	PRON_PER 6073 6076	his
+T256	PRON_PER 6085 6088	his
+T257	PRON_PER 6096 6097	I
+T258	PRON_PER 6106 6108	me
+T259	PRON_PER 6142 6143	I
+T260	PRON_PER 6150 6151	I
+T261	PRON_PER 6196 6200	them
+T262	PRON_PER 6229 6231	my
+T263	PRON_PER 6255 6258	his
+T264	PRON_PER 6323 6325	my
+T265	PRON_PER 6332 6334	my
+T266	PRON_PER 6382 6384	my
+T267	PRON_PER 6430 6432	my
+T268	PRON_PER 6564 6566	we
+T269	PRON_PER 6603 6606	his
+T270	PRON_PER 6745 6748	her
+T271	PRON_PER 6818 6819	I
+T272	PRON_PER 6863 6866	she
+T273	PRON_PER 6889 6890	I
+T274	PRON_PER 6926 6929	his
+T275	PRON_PER 7101 7104	his
+T276	PRON_PER 7215 7217	me
+T277	PRON_PER 7220 7221	I
+T278	PRON_PER 7576 7577	I
+T279	PRON_PER 7651 7653	me
+T281	PRON_PER 7689 7691	me
+T285	PRON_PER 8054 8055	I
+T286	PRON_PER 8208 8209	I
+T287	PRON_PER 8214 8216	my
+T288	PRON_PER 8225 8227	my
+T289	PRON_PER 8289 8291	my
+T290	PRON_PER 8372 8374	my
+T291	PRON_PER 8548 8551	his
+T292	PRON_PER 8581 8582	I
+T293	PRON_PER 8630 8632	he
+T294	PRON_PER 8732 8734	my
+T295	PRON_PER 8860 8866	myself
+T296	PRON_PER 9122 9123	I
+T297	PRON_PER 9200 9202	us
+T298	PRON_PER 9281 9283	we
+T299	PRON_PER 9329 9331	we
+T300	PRON_PER 9342 9343	I
+T301	PRON_PER 9416 9418	me
+T302	PRON_PER 9454 9456	my
+T303	PRON_PER 9615 9617	he
+T304	PRON_PER 9686 9689	his
+T305	PRON_PER 9715 9717	me
+T306	PRON_PER 9718 9721	his
+T307	PRON_PER 9747 9748	I
+T308	PRON_PER 9791 9793	he
+T309	PRON_PER 9806 9809	his
+T310	NOM_FAC 3504 3508	home
+T311	PROP_PER 6631 6646	a Doctor Walker
+T312	NOM_FAC 8881 8925	a house with twenty-two rooms and five baths
+T313	PROP_PER 9421 9432	Poor Thomas
+T476	narrator-0 10 11	I
+T315	A_COUNTRY_HOUSE-1 17 32	A COUNTRY HOUSE
+T314	narrator-0 58 80	a middle-aged spinster
+T477	narrator-0 86 89	her
+T316	her_domestic_gods-2 106 123	her domestic gods
+T478	narrator-0 106 109	her
+T318	A_COUNTRY_HOUSE-1 143 160	a furnished house
+T317	Sunnyside-3 183 187	town
+T479	narrator-0 200 207	herself
+T480	our-4 261 264	our
+T481	narrator-0 339 340	I
+T482	narrator-0 391 392	I
+T483	narrator-0 546 547	I
+T319	my_friends-5 568 578	my friends
+T484	narrator-0 568 570	my
+T485	my_friends-5 602 607	their
+T418	Sunnyside-3 669 673	town
+T486	narrator-0 809 811	me
+T487	narrator-0 819 820	I
+T488	narrator-0 847 848	I
+T419	Sunnyside-3 858 867	Sunnyside
+T489	narrator-0 870 871	I
+T490	narrator-0 884 885	I
+T491	narrator-0 915 916	I
+T492	narrator-0 943 945	my
+T493	narrator-0 970 971	I
+T420	Liddy-6 997 1002	Liddy
+T494	narrator-0 1012 1014	me
+T495	narrator-0 1101 1103	my
+T496	narrator-0 1150 1151	I
+T497	narrator-0 1197 1198	I
+T498	Liddy-6 1207 1210	her
+T499	narrator-0 1226 1227	I
+T500	narrator-0 1245 1246	I
+T501	narrator-0 1277 1279	my
+T421	Liddy-6 1318 1323	Liddy
+T502	Liddy-6 1345 1348	she
+T503	Liddy-6 1386 1389	she
+T504	Liddy-6 1434 1437	she
+T505	Liddy-6 1473 1476	her
+T506	narrator-0 1490 1491	I
+T422	Sunnyside-3 1531 1540	Sunnyside
+T507	Liddy-6 1547 1550	she
+T508	you-7 1614 1617	you
+T510	narrator-0 1763 1765	me
+T320	narrator-0 1794 1804	the tenant
+T511	narrator-0 1844 1845	I
+T512	narrator-0 1854 1856	my
+T513	narrator-0 1874 1875	I
+T322	Mr__Jamieson-8 1883 1895	Mr. Jamieson
+T514	Mr__Jamieson-8 1919 1926	himself
+T515	Mr__Jamieson-8 1927 1929	he
+T516	narrator-0 1960 1962	me
+T517	Mr__Jamieson-8 1974 1976	he
+T518	narrator-0 1982 1984	me
+T519	narrator-0 2019 2020	I
+T520	narrator-0 2095 2097	my
+T323	my_brother-9 2119 2129	my brother
+T521	narrator-0 2119 2121	my
+T522	narrator-0 2145 2147	me
+T324	Halsey_Gertrude-10 2148 2164	his two children
+T523	my_brother-9 2148 2151	his
+T423	Halsey-11 2167 2173	Halsey
+T325	Gertrude-12 2196 2204	Gertrude
+T524	narrator-0 2272 2274	me
+T326	the_child-13 2362 2371	the child
+T327	the_man_who_started_to_carry_the_calf_and_ended_by_walking_along_with_the_bull_on_his_shoulders-14 2389 2484	the man who started to carry the calf and ended by walking along with the bull on his shoulders
+T525	the_man_who_started_to_carry_the_calf_and_ended_by_walking_along_with_the_bull_on_his_shoulders-14 2471 2474	his
+T526	narrator-0 2497 2498	I
+T527	narrator-0 2512 2513	I
+T329	Gertrude-12 2527 2535	Gertrude
+T328	Halsey-11 2571 2577	Halsey
+T528	narrator-0 2678 2679	I
+T529	Halsey_Gertrude-10 2685 2689	them
+T424	good_schools-15 2698 2710	good schools
+T530	narrator-0 2726 2728	my
+T531	Halsey_Gertrude-10 2818 2823	their
+T532	Halsey_Gertrude-10 2846 2851	their
+T533	narrator-0 2899 2901	my
+T534	narrator-0 2969 2970	I
+T535	Halsey_Gertrude-10 2995 2999	them
+T425	boarding-school-16 3027 3042	boarding-school
+T426	college-17 3047 3054	college
+T330	Halsey_Gertrude-10 3057 3069	the children
+T536	Halsey_Gertrude-10 3084 3089	their
+T331	friends-19 3105 3112	friends
+T537	narrator-0 3125 3126	I
+T538	narrator-0 3138 3140	my
+T539	narrator-0 3224 3225	I
+T332	Halsey-11 3268 3274	Halsey
+T541	Halsey-11 3288 3291	his
+T333	Gertrude-12 3314 3322	Gertrude
+T427	her_boarding-school-20 3323 3342	her boarding-school
+T542	Gertrude-12 3323 3326	her
+T334	home-21 3359 3363	home
+T335	Gertrude-12 3416 3424	Gertrude
+T543	Gertrude-12 3500 3503	her
+T624	home-22 3504 3508	home
+T544	Gertrude-12 3530 3533	her
+T336	the_dressmakers-23 3537 3552	the dressmakers
+T338	ineligible_youths_with_either_more_money_than_brains___or_more_brains_than_money-24 3598 3678	ineligible youths with either more money than brains , or more brains than money
+T545	narrator-0 3688 3689	I
+T341	beardless_sophomores-25 3813 3833	beardless sophomores
+T340	college_boys-26 3842 3854	college boys
+T339	college_men-27 3861 3872	college men
+T428	Halsey-11 3875 3881	Halsey
+T546	Halsey_Gertrude-10 3926 3930	they
+T429	their_mother-28 3940 3952	their mother
+T547	Halsey_Gertrude-10 3940 3945	their
+T548	narrator-0 3978 3980	my
+T430	Halsey-11 4018 4024	Halsey
+T431	a_car-29 4032 4037	a car
+T549	narrator-0 4056 4057	I
+T550	narrator-0 4082 4084	my
+T432	People-30 4186 4192	People
+T551	People-30 4227 4232	their
+T552	narrator-0 4257 4259	my
+T553	narrator-0 4275 4277	me
+T554	narrator-0 4326 4327	I
+T343	Halsey-11 4358 4364	Halsey
+T433	Adirondacks-31 4390 4401	Adirondacks
+T346	Gertrude-12 4406 4414	Gertrude
+T348	Bar_Harbor-32 4422 4432	Bar Harbor
+T555	narrator_Halsey_Gertrude-33 4435 4437	we
+T345	a_good_country_house-34 4453 4473	a good country house
+T347	Sunnyside-3 4517 4521	town
+T344	the_doctor-36 4548 4558	the doctor
+T556	narrator_Halsey_Gertrude-33 4574 4576	we
+T434	Sunnyside-3 4585 4594	Sunnyside
+T557	narrator_Halsey_Gertrude-33 4597 4599	We
+T435	the_property-37 4620 4632	the property
+T558	narrator-0 4790 4792	me
+T349	the_housekeeper___who_had_been_left_in_charge-38 4795 4840	the housekeeper , who had been left in charge
+T350	the_house-39 4858 4867	the house
+T436	the_gardener__s_lodge-40 4871 4892	the gardener 's lodge
+T437	the_gardener-41 4871 4883	the gardener
+T438	the_gardener__s_lodge-40 4918 4927	the lodge
+T352	the_house-39 4953 4962	the house
+T559	narrator-0 4978 4980	me
+T351	thieves-42 5001 5008	thieves
+T439	the_property-37 5064 5076	The property
+T440	the_house-39 5100 5109	the house
+T441	a_hill-43 5124 5130	a hill
+T442	green_lawn-44 5173 5183	green lawn
+T353	the_road-45 5208 5216	the road
+T443	the_valley-46 5230 5240	the valley
+T354	the_Greenwood_Club_House-47 5280 5304	the Greenwood Club House
+T444	Gertrude-12 5307 5315	Gertrude
+T355	Halsey-11 5320 5326	Halsey
+T561	you-48 5370 5373	you
+T357	Halsey-11 5383 5389	Halsey
+T356	good_roads-49 5425 5435	good roads
+T362	the_house-39 5445 5454	the house
+T359	a_hospital-50 5478 5488	a hospital
+T562	narrator_Halsey_Gertrude-33 5604 5606	we
+T358	the_house-39 5612 5621	the place
+T563	narrator-0 5635 5637	my
+T360	the_servant-51 5711 5722	the servant
+T564	narrator-0 5746 5747	I
+T565	narrator-0 5753 5759	myself
+T566	narrator-0 5808 5809	I
+T363	Halsey-11 5823 5829	Halsey
+T364	Gertrude-12 5834 5842	Gertrude
+T567	narrator-0 5854 5856	me
+T472	the_house-39 5857 5862	there
+T473	the_house-39 5915 5920	there
+T568	narrator-0 5950 5952	me
+T361	a_half-civilized_ancestor_who_wore_a_sheepskin_garment_and_trailed_his_food_or_his_prey-52 6006 6093	a half-civilized ancestor who wore a sheepskin garment and trailed his food or his prey
+T569	a_half-civilized_ancestor_who_wore_a_sheepskin_garment_and_trailed_his_food_or_his_prey-52 6073 6076	his
+T570	a_half-civilized_ancestor_who_wore_a_sheepskin_garment_and_trailed_his_food_or_his_prey-52 6085 6088	his
+T571	narrator-0 6096 6097	I
+T572	narrator-0 6106 6108	me
+T573	narrator-0 6142 6143	I
+T365	a_man-53 6144 6149	a man
+T574	narrator-0 6150 6151	I
+T366	a_trapper_of_criminals-54 6162 6184	a trapper of criminals
+T368	criminals-55 6175 6184	criminals
+T575	criminals-55 6196 6200	them
+T367	a_half-civilized_ancestor_who_wore_a_sheepskin_garment_and_trailed_his_food_or_his_prey-52 6229 6250	my sheepskin ancestor
+T576	narrator-0 6229 6231	my
+T577	a_half-civilized_ancestor_who_wore_a_sheepskin_garment_and_trailed_his_food_or_his_prey-52 6255 6258	his
+T369	narrator-0 6281 6299	an unmarried woman
+T578	narrator-0 6323 6325	my
+T579	narrator-0 6332 6334	my
+T580	narrator-0 6382 6384	my
+T581	narrator-0 6430 6432	my
+T370	Paul_Armstrong-56 6493 6507	Paul Armstrong
+T377	the_Traders___Bank-57 6527 6545	the Traders ' Bank
+T582	narrator_Halsey_Gertrude-33 6564 6566	we
+T376	the_house-39 6572 6581	the house
+T372	his_wife-58 6603 6611	his wife
+T583	Paul_Armstrong-56 6603 6606	his
+T375	Louise_Armstrong-59 6616 6624	daughter
+T625	a_Doctor_Walker-60 6631 6646	a Doctor Walker
+T371	Armstrong-61 6653 6662	Armstrong
+T446	Halsey-11 6682 6688	Halsey
+T380	Louise_Armstrong-59 6694 6710	Louise Armstrong
+T584	Louise_Armstrong-59 6745 6748	her
+T378	Halsey-11 6776 6782	Halsey
+T417	somebody-63 6807 6815	somebody
+T585	narrator-0 6818 6819	I
+T586	Louise_Armstrong-62 6863 6866	she
+T587	narrator-0 6889 6890	I
+T382	Paul_Armstrong-56 6899 6912	Mr. Armstrong
+T588	Paul_Armstrong-56 6926 6929	his
+T447	the_Traders___Bank-57 6946 7005	the bank , where the children 's money was largely invested
+T448	Arnold_Armstrong-64 7040 7047	the son
+T449	Paul_Armstrong-56 7101 7111	his father
+T589	Arnold_Armstrong-64 7101 7104	his
+T590	narrator-0 7215 7217	me
+T591	narrator-0 7220 7221	I
+T383	Halsey-11 7230 7236	Halsey
+T386	Gertrude-12 7241 7249	Gertrude
+T384	house-65 7260 7265	house
+T385	Sunnyside-3 7291 7300	Sunnyside
+T387	The_roads-66 7320 7329	The roads
+T388	the_house-39 7420 7429	the house
+T390	the_woods-67 7460 7469	the woods
+T389	the_station-68 7514 7525	the station
+T450	a_car-29 7549 7556	the car
+T592	narrator-0 7576 7577	I
+T451	a_bank_showered_with_tiny_forget-me-nots-69 7584 7624	a bank showered with tiny forget-me-nots
+T593	narrator-0 7651 7653	me
+T595	narrator-0 7689 7691	me
+T391	Liddy-6 7822 7827	Liddy
+T599	narrator-0 8054 8055	I
+T452	the_country-70 8126 8137	the country
+T601	narrator-0 8214 8216	my
+T600	narrator-0 8208 8209	I
+T602	narrator-0 8225 8227	my
+T603	narrator-0 8289 8291	my
+T395	Liddy-6 8347 8352	Liddy
+T396	Mrs__Ralston-72 8357 8369	Mrs. Ralston
+T604	narrator-0 8372 8374	my
+T392	Mrs__Ralston-72 8427 8439	Mrs. Ralston
+T394	the_eleven_train-73 8448 8464	the eleven train
+T453	Burke-74 8489 8494	Burke
+T605	Burke-74 8548 8551	his
+T606	narrator-0 8581 8582	I
+T607	Burke-74 8630 8632	he
+T398	the_cook__s_sister-75 8667 8685	the cook 's sister
+T454	the_cook-76 8667 8675	the cook
+T456	a_baby-77 8690 8696	a baby
+T399	the_cook-76 8700 8708	the cook
+T608	narrator-0 8732 8734	my
+T455	twins-78 8750 8755	twins
+T457	the_household_staff-79 8818 8837	the household staff
+T400	Liddy-6 8850 8855	Liddy
+T609	narrator-0 8860 8866	myself
+T626	the_house-39 8881 8925	a house with twenty-two rooms and five baths
+T402	twenty-two_rooms-80 8894 8910	twenty-two rooms
+T458	five_baths-81 8915 8925	five baths
+T459	Liddy-6 8928 8933	Liddy
+T460	the_city-82 8955 8963	the city
+T407	the_milk-boy-83 8978 8990	the milk-boy
+T406	Thomas_Johnson-84 9001 9015	Thomas Johnson
+T405	the_Armstrongs-85 9018 9032	the Armstrongs
+T404	a_waiter_at_the_Greenwood_Club-86 9067 9097	a waiter at the Greenwood Club
+T461	the_Greenwood_Club-87 9079 9097	the Greenwood Club
+T610	narrator-0 9122 9123	I
+T410	people__s_servants-88 9163 9181	people 's servants
+T462	people-89 9163 9169	people
+T611	us-90 9200 9202	us
+T612	we-91 9281 9283	we
+T408	railroads_and_street-car_companies-92 9289 9323	railroads and street-car companies
+T613	we-93 9329 9331	we
+T614	narrator-0 9342 9343	I
+T463	the_Greenwood_Club-87 9354 9362	the club
+T409	Thomas_Johnson-84 9389 9403	Thomas Johnson
+T615	narrator-0 9416 9418	me
+T627	Thomas_Johnson-84 9421 9432	Poor Thomas
+T616	narrator-0 9454 9456	my
+T412	Thomas_Johnson-84 9466 9472	Thomas
+T464	the_gardener-41 9541 9553	the gardener
+T465	the_gardener__s_lodge-40 9541 9562	the gardener 's lodge
+T411	the_house-39 9577 9586	the house
+T413	Thomas_Johnson-84 9600 9611	The old man
+T617	Thomas_Johnson-84 9615 9617	he
+T618	Thomas_Johnson-84 9686 9689	his
+T619	narrator-0 9715 9717	me
+T620	Thomas_Johnson-84 9718 9721	his
+T621	Thomas_Johnson-84 9747 9748	I
+T466	narrator-0 9775 9786	Mis ' Innes
+T622	Thomas_Johnson-84 9791 9793	he
+T623	Thomas_Johnson-84 9806 9809	his
+T474	here-94 9867 9871	here
+T471	nobody-95 10095 10101	nobody
+T414	Thomas_Johnson-84 10124 10138	Thomas Johnson
+T416	somewhar__s_else-96 10146 10162	somewhar 's else
+R1	appos Arg1:T7 Arg2:T8
+R2	cop Arg1:T28 Arg2:T239
+R3	appos Arg1:T131 Arg2:T56
+R4	appos Arg1:T59 Arg2:T311
+R5	cop Arg1:T65 Arg2:T272
+R6	appos Arg1:T67 Arg2:T134
+R7	appos Arg1:T79 Arg2:T82
+R8	appos Arg1:T83 Arg2:T139
+R9	appos Arg1:T89 Arg2:T92
+T636	PRON_FAC 4639 4641	it
+T637	the_property-37 4639 4641	it
+T638	PRON_FAC 4660 4663	its
+T639	the_property-37 4660 4663	its
+T640	PRON_FAC 4671 4674	Its
+T641	the_property-37 4671 4674	Its
+T646	PRON_FAC 5457 5459	it
+T647	the_house-39 5457 5459	it
+T648	PRON_FAC 5494 5496	it
+T649	the_house-39 5494 5496	it
+T650	PRON_FAC 5568 5570	it
+T651	the_house-39 5568 5570	it
+T23	NOM_PER 9193 9202	few of us
+T60	few_of_us-700 9193 9202	few of us

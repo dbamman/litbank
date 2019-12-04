@@ -1,0 +1,632 @@
+T0	PROP_PER 533 540	English
+T3	NOM_LOC 886 895	the river
+T4	NOM_LOC 991 1007	a river of blood
+T6	PROP_PER 1338 1355	good Mr. Stockham
+T7	NOM_PER 1358 1382	our minister at Weyanoke
+T9	NOM_PER 1714 1725	the savages
+T10	NOM_PER 1810 1819	the women
+T11	NOM_PER 1917 1928	the savages
+T14	PROP_PER 1888 1893	Smith
+T15	NOM_PER 2112 2120	a Jesuit
+T16	NOM_PER 1763 1781	The bolder spirits
+T17	NOM_PER 2041 2052	the red men
+T18	NOM_PER 2625 2638	their emperor
+T19	NOM_PER 2433 2440	hunters
+T21	NOM_PER 2464 2476	lazy masters
+T22	NOM_PER 2353 2373	that noblest captain
+T23	NOM_FAC 2757 2761	home
+T25	NOM_PER 3022 3033	the savages
+T27	NOM_FAC 3291 3299	my house
+T28	NOM_FAC 3231 3235	home
+T30	NOM_LOC 4012 4022	the forest
+T31	PROP_PER 4135 4152	Master John Rolfe
+T33	NOM_PER 3979 3984	rider
+T35	NOM_FAC 4647 4656	the house
+T37	NOM_PER 5376 5390	your relatives
+T38	NOM_PER 5540 5553	your princess
+T40	NOM_PER 5988 6002	your commander
+T42	PROP_GPE 6425 6434	Jamestown
+T44	NOM_PER 6542 6560	the bachelor world
+T45	NOM_PER 6460 6472	the only man
+T46	PROP_PER 6623 6626	Tom
+T47	PROP_PER 6640 6645	Harry
+T48	NOM_VEH 6720 6744	the boats upon the river
+T49	NOM_LOC 6735 6744	the river
+T50	PROP_LOC 6759 6769	the Thames
+T52	NOM_PER 7010 7019	The maids
+T53	NOM_VEH 7064 7088	a goodly ship down there
+T58	NOM_VEH 7454 7462	the ship
+T60	NOM_PER 7588 7595	Beggars
+T61	PROP_GPE 7857 7864	England
+T62	NOM_GPE 7847 7851	home
+T63	NOM_GPE 8018 8027	our Egypt
+T65	NOM_PER 8068 8072	wife
+T66	NOM_PER 8101 8108	peasant
+T69	PROP_GPE 8293 8302	Jamestown
+T70	PROP_PER 8325 8337	Master Bucke
+T71	NOM_PER 8460 8468	the Lord
+T72	NOM_PER 8382 8394	the good man
+T73	NOM_LOC 8527 8531	home
+T74	NOM_PER 9057 9082	these same errant damsels
+T75	NOM_LOC 190 209	this Virginian land
+T1	NOM_PER 909 919	a dead man
+T2	PROP_GPE 1374 1382	Weyanoke
+T5	NOM_PER 1527 1547	the Lord 's anointed
+T76	NOM_PER 1527 1535	the Lord
+T77	NOM_PER 1504 1547	the Indian subjects of the Lord 's anointed
+T78	NOM_FAC 1565 1579	the churchyard
+T79	NOM_PER 1605 1622	the more timorous
+T8	NOM_PER 1983 1996	their emperor
+T12	PROP_PER 1956 1996	Opechancanough who was now their emperor
+T13	NOM_PER 2227 2240	these heathen
+T20	NOM_PER 2796 2826	a hunter , red-brown and naked
+T24	NOM_PER 3104 3119	the dark figure
+T26	NOM_LOC 3351 3372	a slope of green turf
+T80	NOM_FAC 3305 3430	a poor and rude one , but pleasantly set upon a slope of green turf , and girt with maize and the broad leaves of the tobacco
+T81	NOM_FAC 3474 3483	their hut
+T82	NOM_PER 3484 3558	the two Paspahegh lads bought by me from their tribe the Michaelmas before
+T83	NOM_PER 3623 3641	my ancient captain
+T84	NOM_FAC 4028 4064	the cleared space before my palisade
+T32	NOM_PER 4118 4132	my good friend
+T86	NOM_FAC 4280 4293	the inclosure
+T34	NOM_PER 4591 4602	old friends
+T88	NOM_LOC 4629 4643	the green bank
+T89	PROP_PER 4893 4897	Dale
+T90	PROP_PER 4911 4915	Dale
+T92	NOM_LOC 5189 5195	heaven
+T93	NOM_PER 5267 5276	the Enemy
+T39	PROP_PER 5859 5864	Ralph
+T94	NOM_PER 5956 5976	your brother-in-arms
+T41	NOM_PER 6012 6023	a commander
+T43	NOM_PER 6529 6538	the world
+T95	PROP_PER 6629 6633	Dick
+T96	NOM_GPE 6705 6713	the city
+T97	NOM_LOC 6856 6866	the fields
+T51	NOM_PER 6990 6995	woman
+T55	NOM_PER 7135 7174	fourscore waiting damsels and milkmaids
+T56	PROP_PER 7259 7271	Edwyn Sandys
+T57	NOM_PER 7608 7616	choosers
+T59	NOM_LOC 7619 7627	The land
+T98	NOM_GPE 7743 7751	a nation
+T99	NOM_FAC 7780 7797	these plantations
+T100	NOM_LOC 7910 7949	this land in which we have cast our lot
+T101	NOM_PER 8055 8063	children
+T67	NOM_PER 8084 8088	wife
+T102	NOM_PER 8089 8097	princess
+T68	NOM_FAC 8122 8126	home
+T103	NOM_LOC 8130 8138	a desert
+T64	NOM_PER 8151 8156	a man
+T104	NOM_LOC 8180 8208	the country where they abide
+T105	PROP_PER 8249 8263	Master Wickham
+T106	PROP_GPE 8281 8289	Henricus
+T107	NOM_LOC 8504 8512	the land
+T108	PROP_PER 8782 8787	Ralph
+T109	NOM_GPE 9016 9024	the city
+T110	NOM_PER 9050 9082	one of these same errant damsels
+T85	NOM_LOC 4102 4110	the bank
+T54	PROP_PER 7197 7212	my Lord Warwick
+T29	NOM_PER 3269 3274	Percy
+T112	NOM_PER 3259 3268	my cousin
+T117	PRON_PER 19 20	I
+T118	PRON_PER 69 70	I
+T119	PRON_PER 85 87	my
+T120	PRON_PER 530 532	we
+T121	PRON_PER 811 814	his
+T122	PRON_PER 839 840	I
+T123	PRON_PER 1358 1361	our
+T124	PRON_PER 1394 1396	us
+T125	PRON_PER 1406 1409	our
+T126	PRON_PER 1425 1428	his
+T127	PRON_PER 1662 1666	they
+T128	PRON_PER 1737 1739	us
+T129	PRON_PER 1790 1794	them
+T130	PRON_PER 1850 1851	I
+T131	PRON_PER 1861 1862	I
+T132	PRON_PER 1904 1906	he
+T133	PRON_PER 1983 1988	their
+T134	PRON_PER 2033 2035	us
+T135	PRON_PER 2067 2069	we
+T136	PRON_PER 2083 2087	they
+T137	PRON_PER 2187 2188	I
+T138	PRON_PER 2210 2212	we
+T139	PRON_PER 2250 2254	they
+T140	PRON_PER 2288 2290	us
+T141	PRON_PER 2304 2307	our
+T142	PRON_PER 2390 2395	their
+T143	PRON_PER 2531 2533	we
+T144	PRON_PER 2539 2543	them
+T145	PRON_PER 2625 2630	their
+T146	PRON_PER 2659 2661	us
+T147	PRON_PER 2687 2692	their
+T148	PRON_PER 2709 2714	their
+T149	PRON_PER 2750 2751	I
+T150	PRON_PER 2881 2883	my
+T151	PRON_PER 2915 2917	me
+T152	PRON_PER 2918 2920	my
+T153	PRON_PER 3038 3044	myself
+T154	PRON_PER 3076 3077	I
+T155	PRON_PER 3083 3086	him
+T156	PRON_PER 3087 3089	my
+T157	PRON_PER 3097 3098	I
+T158	PRON_PER 3207 3209	my
+T159	PRON_PER 3223 3225	me
+T160	PRON_PER 3259 3261	my
+T161	PRON_PER 3291 3293	my
+T162	PRON_PER 3438 3439	I
+T163	PRON_PER 3448 3450	my
+T164	PRON_PER 3460 3461	I
+T165	PRON_PER 3474 3479	their
+T166	PRON_PER 3517 3519	me
+T167	PRON_PER 3525 3530	their
+T168	PRON_PER 3581 3585	them
+T169	PRON_PER 3603 3605	my
+T170	PRON_PER 3623 3625	my
+T171	PRON_PER 3658 3660	He
+T172	PRON_PER 3734 3735	I
+T173	PRON_PER 3796 3797	I
+T174	PRON_PER 3807 3809	my
+T175	PRON_PER 3821 3823	my
+T176	PRON_PER 3842 3844	my
+T177	PRON_PER 3855 3857	my
+T178	PRON_PER 3894 3896	my
+T179	PRON_PER 3953 3954	I
+T180	PRON_PER 4053 4055	my
+T181	PRON_PER 4084 4087	his
+T182	PRON_PER 4118 4120	my
+T183	PRON_PER 4186 4188	me
+T184	PRON_PER 4191 4192	I
+T185	PRON_PER 4243 4246	him
+T186	PRON_PER 4247 4249	my
+T187	PRON_PER 4319 4321	he
+T188	PRON_PER 4347 4349	he
+T189	PRON_PER 4382 4385	you
+T190	PRON_PER 4428 4431	his
+T191	PRON_PER 4472 4474	my
+T192	PRON_PER 4490 4491	I
+T193	PRON_PER 4521 4524	his
+T194	PRON_PER 4534 4535	I
+T195	PRON_PER 4544 4546	He
+T196	PRON_PER 4551 4554	his
+T197	PRON_PER 4565 4567	my
+T198	PRON_PER 4583 4585	we
+T199	PRON_PER 4618 4620	we
+T200	PRON_PER 4670 4671	I
+T201	PRON_PER 4684 4687	him
+T202	PRON_PER 4754 4757	you
+T203	PRON_PER 4771 4773	he
+T204	PRON_PER 4797 4799	we
+T205	PRON_PER 4813 4822	ourselves
+T206	PRON_PER 4850 4851	I
+T207	PRON_PER 4859 4862	you
+T208	PRON_PER 4875 4876	I
+T209	PRON_PER 4928 4930	He
+T210	PRON_PER 4953 4955	my
+T211	PRON_PER 4966 4969	his
+T212	PRON_PER 5081 5083	he
+T213	PRON_PER 5283 5284	I
+T214	PRON_PER 5306 5307	I
+T215	PRON_PER 5339 5340	I
+T216	PRON_PER 5376 5380	your
+T217	PRON_PER 5395 5397	He
+T218	PRON_PER 5436 5439	his
+T219	PRON_PER 5450 5453	his
+T220	PRON_PER 5478 5481	his
+T221	PRON_PER 5532 5533	I
+T222	PRON_PER 5540 5544	your
+T223	PRON_PER 5569 5570	I
+T224	PRON_PER 5596 5597	I
+T225	PRON_PER 5602 5604	he
+T226	PRON_PER 5644 5647	his
+T227	PRON_PER 5661 5664	his
+T228	PRON_PER 5672 5674	he
+T229	PRON_PER 5682 5685	his
+T230	PRON_PER 5751 5753	he
+T231	PRON_PER 5767 5768	I
+T232	PRON_PER 5791 5794	her
+T233	PRON_PER 5822 5823	I
+T234	PRON_PER 5870 5871	I
+T235	PRON_PER 5912 5913	I
+T236	PRON_PER 5924 5925	I
+T237	PRON_PER 5935 5937	my
+T238	PRON_PER 5956 5960	your
+T239	PRON_PER 5988 5992	your
+T240	PRON_PER 6006 6008	he
+T241	PRON_PER 6048 6052	your
+T242	PRON_PER 6069 6070	I
+T243	PRON_PER 6230 6231	I
+T244	PRON_PER 6295 6297	he
+T245	PRON_PER 6354 6355	I
+T246	PRON_PER 6399 6400	I
+T247	PRON_PER 6439 6441	he
+T248	PRON_PER 6454 6455	I
+T250	PRON_PER 6523 6524	I
+T251	PRON_PER 6576 6580	them
+T252	PRON_PER 6609 6610	I
+T253	PRON_PER 6659 6664	their
+T254	PRON_PER 6747 6748	I
+T255	PRON_PER 6827 6828	I
+T256	PRON_PER 6842 6843	I
+T257	PRON_PER 6937 6939	us
+T258	PRON_PER 7041 7043	He
+T259	PRON_PER 7197 7199	my
+T260	PRON_PER 7217 7218	I
+T261	PRON_PER 7290 7293	you
+T262	PRON_PER 7313 7315	he
+T263	PRON_PER 7346 7349	His
+T264	PRON_PER 7375 7376	I
+T265	PRON_PER 7382 7386	them
+T266	PRON_PER 7401 7405	they
+T267	PRON_PER 7415 7416	I
+T268	PRON_PER 7443 7447	them
+T269	PRON_PER 7489 7490	I
+T270	PRON_PER 7522 7523	I
+T271	PRON_PER 7530 7533	you
+T272	PRON_PER 7543 7545	he
+T273	PRON_PER 7687 7689	us
+T274	PRON_PER 7774 7776	we
+T275	PRON_PER 7841 7843	us
+T276	PRON_PER 7904 7906	us
+T277	PRON_PER 7929 7931	we
+T278	PRON_PER 7942 7945	our
+T279	PRON_PER 7952 7954	We
+T280	PRON_PER 7959 7962	our
+T281	PRON_PER 7988 7990	we
+T282	PRON_PER 7996 7999	our
+T283	PRON_PER 8018 8021	our
+T284	PRON_PER 8198 8202	they
+T285	PRON_PER 8238 8239	I
+T286	PRON_PER 8314 8317	his
+T287	PRON_PER 8341 8344	his
+T288	PRON_PER 8375 8376	I
+T289	PRON_PER 8418 8421	his
+T290	PRON_PER 8484 8485	I
+T291	PRON_PER 8497 8498	I
+T292	PRON_PER 8534 8536	My
+T293	PRON_PER 8561 8563	He
+T294	PRON_PER 8572 8575	his
+T295	PRON_PER 8634 8636	My
+T296	PRON_PER 8651 8654	his
+T297	PRON_PER 8744 8746	my
+T298	PRON_PER 8792 8794	he
+T299	PRON_PER 8837 8839	me
+T300	PRON_PER 8849 8852	you
+T301	PRON_PER 8917 8918	I
+T302	PRON_PER 8926 8927	I
+T303	PRON_PER 8946 8947	I
+T305	PRON_LOC 906 908	it
+T306	NOM_FAC 4053 4064	my palisade
+T425	Ralph_Percy-0 19 20	I
+T426	Ralph_Percy-0 69 70	I
+T427	Ralph_Percy-0 85 87	my
+T383	this_Virginian_land-1 190 209	this Virginian land
+T428	we_English-2 530 532	we
+T308	we_English-2 533 540	English
+T429	one-3 811 814	his
+T430	Ralph_Percy-0 839 840	I
+T311	the_river-4 886 895	the river
+T613	the_river-4 906 908	it
+T309	a_dead_man-5 909 919	a dead man
+T312	the_river-4 991 1007	a river of blood
+T314	good_Mr__Stockham-6 1338 1355	good Mr. Stockham
+T431	settlers-7 1358 1361	our
+T310	Weyanoke-8 1374 1382	Weyanoke
+T432	settlers-7 1394 1396	us
+T433	settlers-7 1406 1409	our
+T434	good_Mr__Stockham-6 1425 1428	his
+T385	the_Indian_subjects_of_the_Lord__s_anointed-9 1504 1547	the Indian subjects of the Lord 's anointed
+T313	the_Lord__s_anointed-10 1527 1547	the Lord 's anointed
+T384	the_Lord-11 1527 1535	the Lord
+T386	the_churchyard-12 1565 1579	the churchyard
+T387	the_more_timorous-13 1605 1622	the more timorous
+T435	the_more_timorous-13 1662 1666	they
+T317	the_Indian_subjects_of_the_Lord__s_anointed-9 1714 1725	the savages
+T436	settlers-7 1737 1739	us
+T324	The_bolder_spirits-14 1763 1781	The bolder spirits
+T437	the_more_timorous-13 1790 1794	them
+T318	the_women-15 1810 1819	the women
+T438	Ralph_Percy-0 1850 1851	I
+T439	Ralph_Percy-0 1861 1862	I
+T322	Smith-16 1888 1893	Smith
+T440	Smith-16 1904 1906	he
+T319	the_Indian_subjects_of_the_Lord__s_anointed-9 1917 1928	the savages
+T320	Opechancanough_who_was_now_their_emperor-17 1956 1996	Opechancanough who was now their emperor
+T441	the_Indian_subjects_of_the_Lord__s_anointed-9 1983 1988	their
+T442	settlers-7 2033 2035	us
+T325	the_Indian_subjects_of_the_Lord__s_anointed-9 2041 2052	the red men
+T443	settlers-7 2067 2069	we
+T444	the_Indian_subjects_of_the_Lord__s_anointed-9 2083 2087	they
+T323	a_Jesuit-18 2112 2120	a Jesuit
+T445	Ralph_Percy-0 2187 2188	I
+T446	settlers-7 2210 2212	we
+T321	the_Indian_subjects_of_the_Lord__s_anointed-9 2227 2240	these heathen
+T447	the_Indian_subjects_of_the_Lord__s_anointed-9 2250 2254	they
+T448	settlers-7 2288 2290	us
+T449	settlers-7 2304 2307	our
+T450	the_Indian_subjects_of_the_Lord__s_anointed-9 2390 2395	their
+T327	hunters-20 2433 2440	hunters
+T329	lazy_masters-21 2464 2476	lazy masters
+T451	settlers-7 2531 2533	we
+T452	the_Indian_subjects_of_the_Lord__s_anointed-9 2539 2543	them
+T326	Opechancanough_who_was_now_their_emperor-17 2625 2638	their emperor
+T453	the_Indian_subjects_of_the_Lord__s_anointed-9 2625 2630	their
+T454	settlers-7 2659 2661	us
+T455	the_Indian_subjects_of_the_Lord__s_anointed-9 2687 2692	their
+T456	the_Indian_subjects_of_the_Lord__s_anointed-9 2709 2714	their
+T457	Ralph_Percy-0 2750 2751	I
+T331	home-22 2757 2761	home
+T328	a_hunter___red-brown_and_naked-23 2796 2826	a hunter , red-brown and naked
+T458	Ralph_Percy-0 2881 2883	my
+T459	Ralph_Percy-0 2915 2917	me
+T460	Ralph_Percy-0 2918 2920	my
+T333	the_Indian_subjects_of_the_Lord__s_anointed-9 3022 3033	the savages
+T461	Ralph_Percy-0 3038 3044	myself
+T462	Ralph_Percy-0 3076 3077	I
+T463	a_hunter___red-brown_and_naked-23 3083 3086	him
+T464	Ralph_Percy-0 3087 3089	my
+T465	Ralph_Percy-0 3097 3098	I
+T332	a_hunter___red-brown_and_naked-23 3104 3119	the dark figure
+T466	Ralph_Percy-0 3207 3209	my
+T467	Ralph_Percy-0 3223 3225	me
+T420	my_cousin-24 3259 3268	my cousin
+T468	Ralph_Percy-0 3259 3261	my
+T337	my_cousin-24 3269 3274	Percy
+T336	home-803 3231 3235	home
+T335	home-22 3291 3299	my house
+T469	Ralph_Percy-0 3291 3293	my
+T388	home-22 3305 3430	a poor and rude one , but pleasantly set upon a slope of green turf , and girt with maize and the broad leaves of the tobacco
+T334	a_slope_of_green_turf-26 3351 3372	a slope of green turf
+T470	Ralph_Percy-0 3438 3439	I
+T471	Ralph_Percy-0 3448 3450	my
+T472	Ralph_Percy-0 3460 3461	I
+T389	their_hut-27 3474 3483	their hut
+T473	Paspahegh_lads-28 3474 3479	their
+T390	Paspahegh_lads-28 3484 3558	the two Paspahegh lads bought by me from their tribe the Michaelmas before
+T474	Ralph_Percy-0 3517 3519	me
+T475	Paspahegh_lads-28 3525 3530	their
+T476	Paspahegh_lads-28 3581 3585	them
+T477	Ralph_Percy-0 3603 3605	my
+T330	Smith-16 2353 2373	that noblest captain
+T391	Smith-16 3623 3641	my ancient captain
+T478	Ralph_Percy-0 3623 3625	my
+T479	He-29 3658 3660	He
+T480	Ralph_Percy-0 3734 3735	I
+T481	Ralph_Percy-0 3796 3797	I
+T482	Ralph_Percy-0 3807 3809	my
+T483	Ralph_Percy-0 3821 3823	my
+T484	Ralph_Percy-0 3842 3844	my
+T485	Ralph_Percy-0 3855 3857	my
+T486	Ralph_Percy-0 3894 3896	my
+T487	Ralph_Percy-0 3953 3954	I
+T341	John_Rolfe-30 3979 3984	rider
+T338	the_forest-31 4012 4022	the forest
+T392	John_Rolfe-32 4028 4064	the cleared space before my palisade
+T488	Ralph_Percy-0 4053 4055	my
+T614	my_palisade-33 4053 4064	my palisade
+T489	John_Rolfe-30 4084 4087	his
+T393	the_bank-34 4102 4110	the bank
+T490	Ralph_Percy-0 4118 4120	my
+T491	Ralph_Percy-0 4186 4188	me
+T492	Ralph_Percy-0 4191 4192	I
+T493	John_Rolfe-30 4243 4246	him
+T494	Ralph_Percy-0 4247 4249	my
+T340	John_Rolfe-30 4118 4132	my good friend
+T394	the_inclosure-36 4280 4293	the inclosure
+T495	John_Rolfe-30 4319 4321	he
+T496	John_Rolfe-30 4347 4349	he
+T497	Ralph_Percy-0 4382 4385	you
+T498	his-37 4428 4431	his
+T499	Ralph_Percy-0 4472 4474	my
+T500	Ralph_Percy-0 4490 4491	I
+T501	John_Rolfe-30 4521 4524	his
+T502	Ralph_Percy-0 4534 4535	I
+T503	John_Rolfe-30 4544 4546	He
+T504	John_Rolfe-30 4551 4554	his
+T505	Ralph_Percy-0 4565 4567	my
+T506	38-38 4583 4585	we
+T507	38-38 4618 4620	we
+T396	the_bank-34 4629 4643	the green bank
+T343	home-22 4647 4656	the house
+T508	Ralph_Percy-0 4670 4671	I
+T509	John_Rolfe-30 4684 4687	him
+T510	Ralph_Percy-0 4754 4757	you
+T511	John_Rolfe-30 4771 4773	he
+T512	38-38 4797 4799	we
+T513	38-38 4813 4822	ourselves
+T514	John_Rolfe-30 4850 4851	I
+T515	Ralph_Percy-0 4859 4862	you
+T516	Ralph_Percy-0 4875 4876	I
+T397	Dale-39 4893 4897	Dale
+T398	Dale-39 4911 4915	Dale
+T517	John_Rolfe-30 4928 4930	He
+T518	Ralph_Percy-0 4953 4955	my
+T519	John_Rolfe-30 4966 4969	his
+T520	John_Rolfe-30 5081 5083	he
+T400	heaven-43 5189 5195	heaven
+T401	the_Enemy-44 5267 5276	the Enemy
+T521	Ralph_Percy-0 5283 5284	I
+T522	Ralph_Percy-0 5306 5307	I
+T523	Ralph_Percy-0 5339 5340	I
+T345	your_relatives-45 5376 5390	your relatives
+T524	John_Rolfe-30 5376 5380	your
+T525	John_Rolfe-30 5395 5397	He
+T526	John_Rolfe-30 5436 5439	his
+T527	John_Rolfe-30 5450 5453	his
+T528	John_Rolfe-30 5478 5481	his
+T529	Ralph_Percy-0 5532 5533	I
+T346	Pocahontas-46 5540 5553	your princess
+T530	John_Rolfe-30 5540 5544	your
+T531	Ralph_Percy-0 5569 5570	I
+T532	John_Rolfe-30 5596 5597	I
+T533	John_Rolfe-30 5602 5604	he
+T534	John_Rolfe-30 5644 5647	his
+T535	John_Rolfe-30 5661 5664	his
+T536	John_Rolfe-30 5672 5674	he
+T537	John_Rolfe-30 5682 5685	his
+T538	John_Rolfe-30 5751 5753	he
+T539	John_Rolfe-30 5767 5768	I
+T540	Pocahontas-46 5791 5794	her
+T541	John_Rolfe-30 5822 5823	I
+T347	Ralph_Percy-0 5859 5864	Ralph
+T542	John_Rolfe-30 5870 5871	I
+T543	Ralph_Percy-0 5912 5913	I
+T544	Ralph_Percy-0 5924 5925	I
+T545	Ralph_Percy-0 5935 5937	my
+T402	your_brother-in-arms-48 5956 5976	your brother-in-arms
+T546	your-49 5956 5960	your
+T348	your_commander-50 5988 6002	your commander
+T547	your-51 5988 5992	your
+T548	your_commander-50 6006 6008	he
+T349	a_commander-52 6012 6023	a commander
+T549	your-53 6048 6052	your
+T550	Ralph_Percy-0 6069 6070	I
+T551	John_Rolfe-30 6230 6231	I
+T552	John_Rolfe-30 6295 6297	he
+T553	Ralph_Percy-0 6354 6355	I
+T554	John_Rolfe-30 6399 6400	I
+T350	Jamestown-54 6425 6434	Jamestown
+T555	John_Rolfe-30 6439 6441	he
+T556	John_Rolfe-30 6454 6455	I
+T558	John_Rolfe-30 6523 6524	I
+T351	the_world-55 6529 6538	the world
+T559	them-56 6576 6580	them
+T560	John_Rolfe-30 6609 6610	I
+T354	Tom-57 6623 6626	Tom
+T403	Dick-58 6629 6633	Dick
+T355	Harry-59 6640 6645	Harry
+T561	their-60 6659 6664	their
+T356	the_boats_upon_the_river-62 6720 6744	the boats upon the river
+T357	the_river-63 6735 6744	the river
+T562	John_Rolfe-30 6747 6748	I
+T358	the_Thames-64 6759 6769	the Thames
+T563	Ralph_Percy-0 6827 6828	I
+T564	Ralph_Percy-0 6842 6843	I
+T405	the_fields-65 6856 6866	the fields
+T565	us-66 6937 6939	us
+T359	woman-67 6990 6995	woman
+T360	The_maids-68 7010 7019	The maids
+T566	John_Rolfe-30 7041 7043	He
+T361	a_goodly_ship_down_there-69 7064 7088	a goodly ship down there
+T363	fourscore_waiting_damsels_and_milkmaids-70 7135 7174	fourscore waiting damsels and milkmaids
+T362	my_Lord_Warwick-71 7197 7212	my Lord Warwick
+T567	Ralph_Percy-0 7197 7199	my
+T568	Ralph_Percy-0 7217 7218	I
+T364	Edwyn_Sandys-72 7259 7271	Edwyn Sandys
+T569	Ralph_Percy-0 7290 7293	you
+T570	John_Rolfe-30 7313 7315	he
+T571	Edwyn_Sandys-72 7346 7349	His
+T572	John_Rolfe-30 7375 7376	I
+T573	fourscore_waiting_damsels_and_milkmaids-70 7382 7386	them
+T574	fourscore_waiting_damsels_and_milkmaids-70 7401 7405	they
+T575	John_Rolfe-30 7415 7416	I
+T576	fourscore_waiting_damsels_and_milkmaids-70 7443 7447	them
+T366	the_ship-73 7454 7462	the ship
+T577	Ralph_Percy-0 7489 7490	I
+T578	Ralph_Percy-0 7522 7523	I
+T579	John_Rolfe-30 7530 7533	you
+T580	John_Rolfe-30 7543 7545	he
+T368	Beggars-74 7588 7595	Beggars
+T365	choosers-75 7608 7616	choosers
+T367	The_land-76 7619 7627	The land
+T581	us-77 7687 7689	us
+T406	a_nation-78 7743 7751	a nation
+T582	we-79 7774 7776	we
+T407	these_plantations-80 7780 7797	these plantations
+T583	we-79 7841 7843	us
+T370	home__England_-25 7847 7851	home
+T369	England-81 7857 7864	England
+T584	we-79 7904 7906	us
+T408	this_land_in_which_we_have_cast_our_lot-82 7910 7949	this land in which we have cast our lot
+T585	we-79 7929 7931	we
+T586	we-79 7942 7945	our
+T587	we-79 7952 7954	We
+T588	we-79 7959 7962	our
+T589	we-79 7988 7990	we
+T590	we-79 7996 7999	our
+T371	our_Egypt-83 8018 8027	our Egypt
+T591	we-79 8018 8021	our
+T409	children-84 8055 8063	children
+T373	wife-85 8068 8072	wife
+T375	wife-85 8084 8088	wife
+T410	princess-86 8089 8097	princess
+T374	peasant-87 8101 8108	peasant
+T376	home-88 8122 8126	home
+T411	a_desert-89 8130 8138	a desert
+T372	a_man-90 8151 8156	a man
+T412	the_country_where_they_abide-91 8180 8208	the country where they abide
+T592	they-92 8198 8202	they
+T593	John_Rolfe-30 8238 8239	I
+T413	Master_Wickham-93 8249 8263	Master Wickham
+T414	Henricus-94 8281 8289	Henricus
+T377	Jamestown-54 8293 8302	Jamestown
+T594	Master_Wickham-93 8314 8317	his
+T378	Master_Bucke-95 8325 8337	Master Bucke
+T595	Master_Bucke-95 8341 8344	his
+T596	John_Rolfe-30 8375 8376	I
+T380	Master_Wickham-93 8382 8394	the good man
+T597	Master_Wickham-93 8418 8421	his
+T379	the_Lord-11 8460 8468	the Lord
+T598	Ralph_Percy-0 8484 8485	I
+T599	Ralph_Percy-0 8497 8498	I
+T415	the_land-96 8504 8512	the land
+T600	Ralph_Percy-0 8534 8536	My
+T601	John_Rolfe-30 8561 8563	He
+T602	John_Rolfe-30 8572 8575	his
+T603	Ralph_Percy-0 8634 8636	My
+T604	John_Rolfe-30 8651 8654	his
+T605	Ralph_Percy-0 8744 8746	my
+T416	Ralph_Percy-0 8782 8787	Ralph
+T606	John_Rolfe-30 8792 8794	he
+T607	Ralph_Percy-0 8837 8839	me
+T608	John_Rolfe-30 8849 8852	you
+T609	John_Rolfe-30 8917 8918	I
+T610	Ralph_Percy-0 8926 8927	I
+T611	Ralph_Percy-0 8946 8947	I
+T417	Jamestown-54 9016 9024	the city
+T418	one_of_these_same_errant_damsels-97 9050 9082	one of these same errant damsels
+T382	fourscore_waiting_damsels_and_milkmaids-70 9057 9082	these same errant damsels
+T404	Jamestown-54 6705 6713	the city
+R1	appos Arg1:T7 Arg2:T6
+R3	appos Arg1:T31 Arg2:T32
+R4	cop Arg1:T34 Arg2:T198
+R5	cop Arg1:T45 Arg2:T248
+R6	appos Arg1:T44 Arg2:T43
+T315	NOM_PER 793 836	one who sleeps in his watch beside the dead
+T316	one-3 793 836	one who sleeps in his watch beside the dead
+T111	PRON_PER 5057 5061	Thou
+T113	Ralph_Percy-0 5057 5061	Thou
+T115	PRON_PER 5094 5098	Thou
+T116	Ralph_Percy-0 5094 5098	Thou
+T249	PRON_PER 5160 5164	thou
+T304	Ralph_Percy-0 5160 5164	thou
+T307	PRON_PER 5173 5177	thou
+T339	Ralph_Percy-0 5173 5177	thou
+T342	PRON_PER 5222 5226	thee
+T352	Ralph_Percy-0 5222 5226	thee
+T353	PRON_PER 6266 6270	thee
+T419	Ralph_Percy-0 6266 6270	thee
+T421	PRON_PER 6340 6343	thy
+T423	John_Rolfe-30 6340 6343	thy
+T36	PRON_PER 4298 4302	Thou
+T91	Ralph_Percy-0 4298 4302	Thou
+T344	NOM_PER 4303 4314	careful man
+R7	cop Arg1:T344 Arg2:T91
+T87	PROP_PER 5062 5076	Mars incarnate
+R8	cop Arg1:T87 Arg2:T113
+T399	PRON_PER 9042 9049	thyself
+T424	Ralph_Percy-0 9042 9049	thyself
+T635	PRON_GPE 6507 6510	its
+T636	Jamestown-54 6507 6510	its
+T639	PRON_GPE 7757 7760	its
+T640	a_nation-78 7757 7760	its
+T641	PRON_GPE 8032 8035	its
+T642	our_Egypt-83 8032 8035	its
+T643	PRON_LOC 8524 8526	it
+T644	the_land-96 8524 8526	it
+R10	cop Arg1:T73 Arg2:T644
+T114	Opechancanough_who_was_now_their_emperor-17 1983 1996	their emperor
+T381	NOM_PER 5099 5141	first , last , and in the meantime soldier
+R2	cop Arg1:T381 Arg2:T116
+T395	NOM_PER 492 496	some
+T422	some-700 492 496	some
+T557	PRON_LOC 966 968	it
+T612	the_river-63 966 968	it

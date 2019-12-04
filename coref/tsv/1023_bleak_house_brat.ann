@@ -1,0 +1,512 @@
+MENTION	T2	1	11	1	14	Lincoln 's Inn Hall	FAC	PROP
+MENTION	T3	3	44	3	45	Holborn Hill	LOC	PROP
+MENTION	T4	3	4	3	5	the streets	FAC	NOM
+MENTION	T6	9	9	9	10	green aits	LOC	NOM
+MENTION	T7	9	12	9	12	meadows	LOC	NOM
+MENTION	T8	10	3	10	3	Essex	GPE	PROP
+MENTION	T9	11	20	11	21	great ships	VEH	NOM
+MENTION	T11	12	16	12	17	their wards	FAC	NOM
+MENTION	T13	12	48	12	53	his shivering little ' prentice boy	PER	NOM
+MENTION	T14	12	30	12	32	the wrathful skipper	PER	NOM
+MENTION	T16	12	36	12	38	his close cabin	FAC	NOM
+MENTION	T18	14	9	14	10	the streets	FAC	NOM
+MENTION	T19	14	28	14	28	husbandman	PER	NOM
+MENTION	T20	14	30	14	30	ploughboy	PER	NOM
+MENTION	T22	14	19	14	21	the spongey fields	LOC	NOM
+MENTION	T24	16	14	16	16	the muddy streets	FAC	NOM
+MENTION	T26	17	7	17	10	Lincoln 's Inn Hall	FAC	PROP
+MENTION	T28	18	36	18	37	hoary sinners	PER	NOM
+MENTION	T30	18	46	18	46	heaven	FAC	NOM
+MENTION	T32	19	8	19	11	the Lord High Chancellor	PER	NOM
+MENTION	T36	20	73	20	73	players	PER	NOM
+MENTION	T39	22	56	22	56	masters	PER	NOM
+MENTION	T40	22	54	22	54	masters	PER	NOM
+MENTION	T42	22	27	22	28	the registrar	PER	NOM
+MENTION	T44	23	46	23	47	the place	FAC	NOM
+MENTION	T46	23	91	23	94	the Lord High Chancellor	PER	NOM
+MENTION	T47	24	17	24	18	every shire	LOC	NOM
+MENTION	T48	24	9	24	11	its decaying houses	FAC	NOM
+MENTION	T49	24	54	24	55	every man	PER	NOM
+MENTION	T50	24	22	24	24	its worn-out lunatic	PER	NOM
+MENTION	T52	24	101	24	102	its practitioners	PER	NOM
+MENTION	T53	25	5	25	7	the Lord Chancellor	PER	NOM
+MENTION	T55	26	5	26	6	the judge	PER	NOM
+MENTION	T62	28	0	28	2	The short-hand writers	PER	NOM
+MENTION	T65	30	8	30	9	the hall	FAC	NOM
+MENTION	T66	30	5	30	9	the side of the hall	LOC	NOM
+MENTION	T69	33	0	33	2	A sallow prisoner	PER	NOM
+MENTION	T70	35	16	35	17	the Chancellor	PER	NOM
+MENTION	T71	35	8	35	8	Shropshire	GPE	PROP
+MENTION	T72	35	37	35	38	the Chancellor	PER	NOM
+MENTION	T74	35	67	35	68	the judge	PER	NOM
+MENTION	T76	37	9	37	10	this suitor	PER	NOM
+MENTION	T80	39	16	39	18	no man alive	PER	NOM
+MENTION	T81	40	14	40	17	no two Chancery lawyers	PER	NOM
+MENTION	T82	41	0	41	1	Innumerable children	PER	NOM
+MENTION	T89	44	9	44	9	grandmothers	PER	NOM
+MENTION	T91	44	42	44	43	three Jarndyces	PER	NOM
+MENTION	T93	44	15	44	15	Chancellors	PER	NOM
+MENTION	T94	44	7	44	7	mothers	PER	NOM
+MENTION	T98	48	0	48	3	Every master in Chancery	PER	NOM
+MENTION	T102	50	20	50	20	hall	FAC	NOM
+MENTION	T103	51	0	51	1	Articled clerks	PER	NOM
+MENTION	T104	52	0	52	3	The last Lord Chancellor	PER	NOM
+MENTION	T110	54	47	54	48	no man	PER	NOM
+MENTION	T113	56	8	56	10	the wretched suitors	PER	NOM
+MENTION	T116	57	21	57	23	his own mother	PER	NOM
+MENTION	T118	58	48	58	49	the office	FAC	NOM
+MENTION	T121	0	3	0	3	Chancery	FAC	PROP
+MENTION	T122	0	4	0	4	London	GPE	PROP
+MENTION	T123	1	7	1	8	Lord Chancellor	PER	PROP
+MENTION	T1	3	18	3	19	the earth	LOC	NOM
+MENTION	T125	7	0	7	1	Foot passengers	PER	NOM
+MENTION	T129	9	2	9	3	the river	LOC	NOM
+MENTION	T130	9	16	9	17	the river	LOC	NOM
+MENTION	T131	9	33	9	39	a great ( and dirty ) city	GPE	NOM
+MENTION	T132	10	3	10	4	Essex marshes	LOC	NOM
+MENTION	T133	10	8	10	10	the Kentish heights	LOC	NOM
+MENTION	T135	11	12	11	13	the yards	FAC	NOM
+MENTION	T10	11	31	11	32	small boats	VEH	NOM
+MENTION	T137	12	7	12	9	ancient Greenwich pensioners	PER	NOM
+MENTION	T138	13	1	13	4	people on the bridges	PER	NOM
+MENTION	T140	15	2	15	3	the shops	FAC	NOM
+MENTION	T23	16	20	16	23	that leaden-headed old obstruction	FAC	NOM
+MENTION	T141	16	36	16	37	Temple Bar	FAC	PROP
+MENTION	T25	17	3	17	4	Temple Bar	FAC	PROP
+MENTION	T27	17	22	17	24	Lord High Chancellor	PER	PROP
+MENTION	T142	17	27	17	30	High Court of Chancery	FAC	PROP
+MENTION	T144	18	48	18	48	earth	LOC	NOM
+MENTION	T33	20	4	20	14	some score of members of the High Court of Chancery bar	PER	NOM
+MENTION	T34	21	4	21	9	the various solicitors in the cause	PER	NOM
+MENTION	T37	21	11	21	16	some two or three of whom	PER	NOM
+MENTION	T147	23	2	23	3	the court	FAC	NOM
+MENTION	T148	23	51	23	55	the uninitiated from the streets	PER	NOM
+MENTION	T150	24	13	24	15	its blighted lands	LOC	NOM
+MENTION	T151	24	26	24	27	every madhouse	LOC	NOM
+MENTION	T152	24	32	24	33	every churchyard	FAC	NOM
+MENTION	T153	24	97	24	99	an honourable man	PER	NOM
+MENTION	T154	25	5	25	9	the Lord Chancellor 's court	FAC	NOM
+MENTION	T155	25	14	25	16	the Lord Chancellor	PER	NOM
+MENTION	T156	25	18	25	22	the counsel in the cause	PER	NOM
+MENTION	T157	25	24	25	33	two or three counsel who are never in any cause	PER	NOM
+MENTION	T56	26	2	26	6	the registrar below the judge	PER	NOM
+MENTION	T158	26	16	26	19	two or three maces	PER	NOM
+MENTION	T159	26	22	26	22	petty-bags	PER	NOM
+MENTION	T160	26	25	26	26	privy purses	PER	NOM
+MENTION	T61	28	11	28	15	the reporters of the newspapers	PER	NOM
+MENTION	T57	28	19	28	23	the rest of the regulars	PER	NOM
+MENTION	T58	30	16	30	18	the curtained sanctuary	LOC	NOM
+MENTION	T59	30	21	30	29	a little mad old woman in a squeezed bonnet	PER	NOM
+MENTION	T60	30	34	30	34	court	FAC	NOM
+MENTION	T68	31	9	31	13	a party to a suit	PER	NOM
+MENTION	T161	33	31	33	34	a solitary surviving executor	PER	NOM
+MENTION	T73	35	0	35	2	Another ruined suitor	PER	NOM
+MENTION	T77	37	0	37	4	A few lawyers ' clerks	PER	NOM
+MENTION	T78	40	0	40	3	The parties to it	PER	NOM
+MENTION	T79	41	9	41	11	innumerable young people	PER	NOM
+MENTION	T163	41	17	41	19	innumerable old people	PER	NOM
+MENTION	T84	42	0	42	2	Scores of persons	PER	NOM
+MENTION	T83	42	19	42	20	whole families	PER	NOM
+MENTION	T85	43	0	43	2	The little plaintiff	PER	NOM
+MENTION	T86	43	33	43	35	the other world	LOC	NOM
+MENTION	T88	44	0	44	3	Fair wards of court	PER	NOM
+MENTION	T90	44	50	44	52	old Tom Jarndyce	PER	PROP
+MENTION	T164	44	60	44	61	a coffee-house	FAC	NOM
+MENTION	T165	44	63	44	64	Chancery Lane	FAC	PROP
+MENTION	T92	44	76	44	77	the court	FAC	NOM
+MENTION	T95	49	0	49	1	Every Chancellor	PER	NOM
+MENTION	T96	49	16	49	16	counsel	PER	NOM
+MENTION	T97	50	8	50	12	blue-nosed , bulbous-shoed old benchers	PER	NOM
+MENTION	T99	52	11	52	12	Mr. Blowers	PER	PROP
+MENTION	T101	52	45	52	46	Mr. Blowers	PER	PROP
+MENTION	T105	52	54	52	55	the maces	PER	NOM
+MENTION	T166	52	57	52	57	bags	PER	NOM
+MENTION	T167	52	60	52	60	purses	PER	NOM
+MENTION	T106	54	1	54	2	the master	PER	NOM
+MENTION	T107	54	27	54	31	the Six Clerks ' Office	FAC	NOM
+MENTION	T108	54	24	54	25	the copying-clerk	PER	NOM
+MENTION	T109	56	0	56	4	The very solicitors ' boys	PER	NOM
+MENTION	T111	56	21	56	22	Mr. Chizzle	PER	PROP
+MENTION	T112	56	24	56	24	Mizzle	PER	PROP
+MENTION	T114	57	0	57	4	The receiver in the cause	PER	NOM
+MENTION	T115	58	0	58	0	Chizzle	PER	PROP
+MENTION	T117	58	2	58	2	Mizzle	PER	PROP
+MENTION	T168	58	31	58	31	Drizzle	PER	PROP
+MENTION	T54	25	36	25	39	the well of solicitors	PER	NOM
+MENTION	T17	18	28	18	31	High Court of Chancery	FAC	PROP
+MENTION	T38	7	21	7	72	street-corners , where tens of thousands of other foot passengers have been slipping and sliding since the day broke ( if this day ever broke ) , adding new deposits to the crust upon crust of mud , sticking at those points tenaciously to the pavement , and accumulating at compound interest	FAC	NOM
+MENTION	T45	7	24	7	30	tens of thousands of other foot passengers	PER	NOM
+MENTION	T5	9	1	9	12	up the river , where it flows among green aits and meadows	LOC	NOM
+MENTION	T119	9	15	9	39	down the river , where it rolls defiled among the tiers of shipping and the waterside pollutions of a great ( and dirty ) city	LOC	NOM
+MENTION	T120	9	24	9	27	the tiers of shipping	FAC	NOM
+MENTION	T126	11	6	11	6	collier-brigs	VEH	NOM
+MENTION	T127	11	29	11	29	barges	VEH	NOM
+MENTION	T12	13	3	13	4	the bridges	FAC	NOM
+MENTION	T134	13	7	13	8	the parapets	FAC	NOM
+MENTION	T31	19	42	19	56	a large advocate with great whiskers , a little voice , and an interminable brief	PER	NOM
+MENTION	T35	21	21	21	22	their fathers	PER	NOM
+MENTION	T43	23	54	23	55	the streets	FAC	NOM
+MENTION	T136	24	29	24	30	its dead	PER	NOM
+MENTION	T51	24	37	24	46	its ruined suitor with his slipshod heels and threadbare dress	PER	NOM
+MENTION	T63	28	4	28	8	the reporters of the court	PER	NOM
+MENTION	T139	28	27	28	27	Jarndyce	PER	PROP
+MENTION	T143	28	25	28	25	Jarndyce	PER	PROP
+MENTION	T145	27	13	27	13	Jarndyce	PER	PROP
+MENTION	T146	27	15	27	15	Jarndyce	PER	PROP
+MENTION	T64	37	6	37	12	others who know this suitor by sight	PER	NOM
+MENTION	T67	38	0	38	0	Jarndyce	PER	PROP
+MENTION	T162	38	2	38	2	Jarndyce	PER	PROP
+MENTION	T169	42	10	42	10	Jarndyce	PER	PROP
+MENTION	T170	42	12	42	12	Jarndyce	PER	PROP
+MENTION	T87	43	4	43	17	defendant who was promised a new rocking-horse when Jarndyce and Jarndyce should be settled	PER	NOM
+MENTION	T171	43	12	43	12	Jarndyce	PER	PROP
+MENTION	T172	43	14	43	14	Jarndyce	PER	PROP
+MENTION	T173	44	46	44	47	the earth	LOC	NOM
+MENTION	T174	44	67	44	67	Jarndyce	PER	PROP
+MENTION	T175	44	69	44	69	Jarndyce	PER	PROP
+MENTION	T176	45	0	45	0	Jarndyce	PER	PROP
+MENTION	T177	45	2	45	2	Jarndyce	PER	PROP
+MENTION	T178	48	3	48	3	Chancery	FAC	PROP
+MENTION	T100	52	14	52	30	the eminent silk gown who said that such a thing might happen when the sky rained potatoes	PER	NOM
+MENTION	T179	52	41	52	41	Jarndyce	PER	PROP
+MENTION	T180	52	43	52	43	Jarndyce	PER	PROP
+MENTION	T181	53	2	53	2	people	PER	NOM
+MENTION	T182	53	7	53	7	Jarndyce	PER	PROP
+MENTION	T183	53	9	53	9	Jarndyce	PER	PROP
+MENTION	T184	54	12	54	12	Jarndyce	PER	PROP
+MENTION	T185	54	14	54	14	Jarndyce	PER	PROP
+MENTION	T186	54	40	54	40	Chancery	FAC	PROP
+MENTION	T187	56	50	56	50	Jarndyce	PER	PROP
+MENTION	T188	56	52	56	52	Jarndyce	PER	PROP
+MENTION	T189	58	40	58	40	Jarndyce	PER	PROP
+MENTION	T190	58	42	58	42	Jarndyce	PER	PROP
+MENTION	T191	16	31	16	34	a leaden-headed old corporation	ORG	NOM
+MENTION	T192	16	28	16	34	the threshold of a leaden-headed old corporation	FAC	NOM
+MENTION	T29	24	2	24	130	the Court of Chancery , which has its decaying houses and its blighted lands in every shire , which has its worn-out lunatic in every madhouse and its dead in every churchyard , which has its ruined suitor with his slipshod heels and threadbare dress borrowing and begging through the round of every man 's acquaintance , which gives to monied might the means abundantly of wearying out the right , which so exhausts finances , patience , courage , hope , so overthrows the brain and breaks the heart , that there is not an honourable man among its practitioners who would not give -- who does not often give -- the warning , " Suffer any wrong that can be done you rather than come here !	FAC	NOM
+MENTION	T193	28	7	28	8	the court	FAC	NOM
+MENTION	T194	28	14	28	15	the newspapers	ORG	NOM
+MENTION	T15	49	9	49	9	somebody	PER	NOM
+MENTION	T41	59	58	59	59	the world	LOC	NOM
+MENTION	T200	31	16	31	17	no one	PER	NOM
+MENTION	T201	31	22	31	23	no one	PER	NOM
+MENTION	T204	7	18	7	18	their	PER	PRON
+MENTION	T205	12	16	12	16	their	PER	PRON
+MENTION	T206	12	36	12	36	his	PER	PRON
+MENTION	T207	12	48	12	48	his	PER	PRON
+MENTION	T208	13	20	13	20	them	PER	PRON
+MENTION	T209	13	24	13	24	they	PER	PRON
+MENTION	T210	15	8	15	8	their	FAC	PRON
+MENTION	T211	17	26	17	26	his	PER	PRON
+MENTION	T212	19	20	19	20	he	PER	PRON
+MENTION	T213	19	28	19	28	his	PER	PRON
+MENTION	T214	19	61	19	61	his	PER	PRON
+MENTION	T215	19	71	19	71	he	PER	PRON
+MENTION	T216	20	21	20	21	they	PER	PRON
+MENTION	T217	20	52	20	52	their	PER	PRON
+MENTION	T218	21	21	21	21	their	PER	PRON
+MENTION	T219	21	37	21	37	they	PER	PRON
+MENTION	T220	22	13	22	13	you	PER	PRON
+MENTION	T221	22	67	22	67	them	PER	PRON
+MENTION	T223	24	41	24	41	his	PER	PRON
+MENTION	T224	24	125	24	125	you	PER	PRON
+MENTION	T225	26	30	26	30	they	PER	PRON
+MENTION	T226	29	0	29	0	Their	PER	PRON
+MENTION	T227	30	53	30	53	her	PER	PRON
+MENTION	T228	31	2	31	2	she	PER	PRON
+MENTION	T229	32	0	32	0	She	PER	PRON
+MENTION	T230	32	9	32	9	she	PER	PRON
+MENTION	T231	32	11	32	11	her	PER	PRON
+MENTION	T232	33	22	33	22	himself	PER	PRON
+MENTION	T233	33	24	33	24	his	PER	PRON
+MENTION	T234	33	52	33	52	he	PER	PRON
+MENTION	T235	33	58	33	58	he	PER	PRON
+MENTION	T236	34	3	34	3	his	PER	PRON
+MENTION	T237	35	43	35	43	his	PER	PRON
+MENTION	T238	35	57	35	57	himself	PER	PRON
+MENTION	T239	35	75	35	75	My	PER	PRON
+MENTION	T240	36	10	36	10	his	PER	PRON
+MENTION	T241	37	18	37	18	his	PER	PRON
+MENTION	T242	42	6	42	6	themselves	PER	PRON
+MENTION	T243	43	23	43	23	himself	PER	PRON
+MENTION	T244	44	56	44	56	his	PER	PRON
+MENTION	T245	49	14	49	14	he	PER	PRON
+MENTION	T246	51	9	51	9	their	PER	PRON
+MENTION	T247	52	32	52	32	he	PER	PRON
+MENTION	T248	52	38	52	38	we	PER	PRON
+MENTION	T249	54	35	54	35	his	PER	PRON
+MENTION	T250	56	47	56	47	themselves	PER	PRON
+MENTION	T251	57	21	57	21	his	PER	PRON
+MENTION	T252	57	28	57	28	his	PER	PRON
+MENTION	T253	58	14	58	14	themselves	PER	PRON
+MENTION	T254	58	16	58	16	they	PER	PRON
+MENTION	T255	59	5	59	5	their	PER	PRON
+MENTION	T256	59	47	59	47	their	PER	PRON
+MENTION	T257	9	6	9	6	it	LOC	PRON
+MENTION	T258	9	20	9	20	it	LOC	PRON
+MENTION	T259	24	9	24	9	its	FAC	PRON
+MENTION	T260	24	29	24	29	its	FAC	PRON
+COREF	T121	Chancery-0
+COREF	T122	London-1
+COREF	T123	Lord_Chancellor-2
+COREF	T2	Lincoln__s_Inn_Hall-3
+COREF	T4	the_streets-4
+COREF	T1	the_earth-5
+COREF	T3	Holborn_Hill-6
+COREF	T125	Foot_passengers-7
+COREF	T204	Foot_passengers-7
+COREF	T38	street-corners___where_tens_of_thousands_of_other_foot_passengers_have_been_slipping_and_sliding_since_the_day_broke___if_this_day_ever_broke_____adding_new_deposits_to_the_crust_upon_crust_of_mud___sticking_at_those_points_tenaciously_to_the_pavement___and_accumulating_at_compound_interest-8
+COREF	T45	tens_of_thousands_of_other_foot_passengers-9
+COREF	T5	up_the_river___where_it_flows_among_green_aits_and_meadows-10
+COREF	T129	the_river-11
+COREF	T257	the_river-11
+COREF	T6	green_aits-12
+COREF	T7	meadows-13
+COREF	T119	down_the_river___where_it_rolls_defiled_among_the_tiers_of_shipping_and_the_waterside_pollutions_of_a_great___and_dirty___city-14
+COREF	T130	the_river-11
+COREF	T258	the_river-11
+COREF	T120	the_tiers_of_shipping-15
+COREF	T131	London-1
+COREF	T8	Essex-16
+COREF	T132	Essex_marshes-17
+COREF	T133	the_Kentish_heights-18
+COREF	T126	collier-brigs-19
+COREF	T135	the_yards-20
+COREF	T9	great_ships-21
+COREF	T127	barges-22
+COREF	T10	small_boats-23
+COREF	T137	ancient_Greenwich_pensioners-24
+COREF	T11	their_wards-25
+COREF	T205	ancient_Greenwich_pensioners-24
+COREF	T14	the_wrathful_skipper-26
+COREF	T16	his_close_cabin-27
+COREF	T206	the_wrathful_skipper-26
+COREF	T13	his_shivering_little___prentice_boy-28
+COREF	T207	the_wrathful_skipper-26
+COREF	T138	people_on_the_bridges-29
+COREF	T12	the_bridges-30
+COREF	T134	the_parapets-31
+COREF	T208	people_on_the_bridges-29
+COREF	T209	people_on_the_bridges-29
+COREF	T18	the_streets-4
+COREF	T22	the_spongey_fields-32
+COREF	T19	husbandman-33
+COREF	T20	ploughboy-34
+COREF	T140	the_shops-35
+COREF	T210	the_shops-35
+COREF	T24	the_streets-4
+COREF	T23	Temple_Bar-36
+COREF	T192	the_threshold_of_a_leaden-headed_old_corporation-37
+COREF	T191	Temple_Bar-org-803
+COREF	T141	Temple_Bar-36
+COREF	T25	Temple_Bar-36
+COREF	T26	Lincoln__s_Inn_Hall-3
+COREF	T27	Lord_Chancellor-2
+COREF	T211	Lord_Chancellor-2
+COREF	T142	High_Court_of_Chancery-38
+COREF	T17	High_Court_of_Chancery-38
+COREF	T28	hoary_sinners-39
+COREF	T30	heaven-40
+COREF	T144	the_earth-5
+COREF	T32	Lord_Chancellor-2
+COREF	T212	Lord_Chancellor-2
+COREF	T213	Lord_Chancellor-2
+COREF	T31	a_large_advocate_with_great_whiskers___a_little_voice___and_an_interminable_brief-41
+COREF	T214	Lord_Chancellor-2
+COREF	T215	Lord_Chancellor-2
+COREF	T33	some_score_of_members_of_the_High_Court_of_Chancery_bar-42
+COREF	T216	some_score_of_members_of_the_High_Court_of_Chancery_bar-42
+COREF	T217	some_score_of_members_of_the_High_Court_of_Chancery_bar-42
+COREF	T36	players-43
+COREF	T34	the_various_solicitors_in_the_cause-44
+COREF	T37	some_two_or_three_of_whom-45
+COREF	T35	their_fathers-46
+COREF	T218	some_two_or_three_of_whom-45
+COREF	T219	some_two_or_three_of_whom-45
+COREF	T220	you-47
+COREF	T42	the_registrar-48
+COREF	T40	masters-49
+COREF	T39	masters-49
+COREF	T221	the_various_solicitors_in_the_cause-44
+COREF	T147	High_Court_of_Chancery-38
+COREF	T44	High_Court_of_Chancery-38
+COREF	T148	the_uninitiated_from_the_streets-50
+COREF	T43	the_streets-4
+COREF	T46	Lord_Chancellor-2
+COREF	T29	High_Court_of_Chancery-38
+COREF	T48	its_decaying_houses-51
+COREF	T259	High_Court_of_Chancery-38
+COREF	T150	its_blighted_lands-52
+COREF	T47	every_shire-53
+COREF	T50	its_worn-out_lunatic-54
+COREF	T151	every_madhouse-55
+COREF	T136	its_dead-56
+COREF	T260	High_Court_of_Chancery-38
+COREF	T152	every_churchyard-57
+COREF	T51	its_ruined_suitor_with_his_slipshod_heels_and_threadbare_dress-58
+COREF	T223	its_ruined_suitor_with_his_slipshod_heels_and_threadbare_dress-58
+COREF	T49	every_man-59
+COREF	T153	an_honourable_man-100000
+COREF	T52	its_practitioners-60
+COREF	T224	you-61
+COREF	T53	Lord_Chancellor-2
+COREF	T154	High_Court_of_Chancery-38
+COREF	T155	Lord_Chancellor-2
+COREF	T156	the_counsel_in_the_cause-62
+COREF	T157	two_or_three_counsel_who_are_never_in_any_cause-63
+COREF	T54	the_various_solicitors_in_the_cause-44
+COREF	T56	the_registrar_below_the_judge-64
+COREF	T55	the_judge-65
+COREF	T158	two_or_three_maces-66
+COREF	T159	two_or_three_maces-66
+COREF	T160	two_or_three_maces-66
+COREF	T225	two_or_three_maces-66
+COREF	T62	The_short-hand_writers-67
+COREF	T63	the_reporters_of_the_court-68
+COREF	T193	High_Court_of_Chancery-38
+COREF	T61	the_reporters_of_the_newspapers-69
+COREF	T194	the_newspapers-70
+COREF	T57	the_rest_of_the_regulars-71
+COREF	T145	Jarndyce_1-72
+COREF	T146	jarndyce_2-73
+COREF	T143	Jarndyce_1-72
+COREF	T139	jarndyce_2-73
+COREF	T226	Their-74
+COREF	T66	the_side_of_the_hall-75
+COREF	T65	the_hall-76
+COREF	T58	the_curtained_sanctuary-77
+COREF	T59	a_little_mad_old_woman_in_a_squeezed_bonnet-78
+COREF	T60	High_Court_of_Chancery-38
+COREF	T227	a_little_mad_old_woman_in_a_squeezed_bonnet-78
+COREF	T228	a_little_mad_old_woman_in_a_squeezed_bonnet-78
+COREF	T200	no_one-100001
+COREF	T201	no_one-100002
+COREF	T229	a_little_mad_old_woman_in_a_squeezed_bonnet-78
+COREF	T230	a_little_mad_old_woman_in_a_squeezed_bonnet-78
+COREF	T231	a_little_mad_old_woman_in_a_squeezed_bonnet-78
+COREF	T69	A_sallow_prisoner-79
+COREF	T232	A_sallow_prisoner-79
+COREF	T233	A_sallow_prisoner-79
+COREF	T234	A_sallow_prisoner-79
+COREF	T235	A_sallow_prisoner-79
+COREF	T236	A_sallow_prisoner-79
+COREF	T73	Another_ruined_suitor-80
+COREF	T71	Shropshire-81
+COREF	T70	Lord_Chancellor-2
+COREF	T72	Lord_Chancellor-2
+COREF	T237	Another_ruined_suitor-80
+COREF	T238	Another_ruined_suitor-80
+COREF	T74	the_judge-65
+COREF	T239	Another_ruined_suitor-80
+COREF	T240	the_judge-65
+COREF	T77	A_few_lawyers___clerks-82
+COREF	T64	others_who_know_this_suitor_by_sight-83
+COREF	T76	Another_ruined_suitor-80
+COREF	T241	Another_ruined_suitor-80
+COREF	T67	Jarndyce_1-72
+COREF	T162	jarndyce_2-73
+COREF	T80	no_man_alive-100003
+COREF	T78	The_parties_to_it-84
+COREF	T81	no_two_Chancery_lawyers-100004
+COREF	T82	Innumerable_children-85
+COREF	T79	innumerable_young_people-86
+COREF	T163	innumerable_old_people-87
+COREF	T84	Scores_of_persons-88
+COREF	T242	Scores_of_persons-88
+COREF	T169	Jarndyce_1-72
+COREF	T170	jarndyce_2-73
+COREF	T83	whole_families-89
+COREF	T85	The_little_plaintiff-90
+COREF	T87	The_little_plaintiff-90
+COREF	T171	Jarndyce_1-72
+COREF	T172	jarndyce_2-73
+COREF	T243	The_little_plaintiff-90
+COREF	T86	the_other_world-91
+COREF	T88	Fair_wards_of_court-92
+COREF	T94	mothers-93
+COREF	T89	grandmothers-94
+COREF	T93	Chancellors-95
+COREF	T91	three_Jarndyces-96
+COREF	T173	the_earth-5
+COREF	T90	old_Tom_Jarndyce-97
+COREF	T244	old_Tom_Jarndyce-97
+COREF	T164	a_coffee-house-98
+COREF	T165	Chancery_Lane-99
+COREF	T174	Jarndyce_1-72
+COREF	T175	jarndyce_2-73
+COREF	T92	High_Court_of_Chancery-38
+COREF	T176	Jarndyce_1-72
+COREF	T177	jarndyce_2-73
+COREF	T98	Every_master_in_Chancery-100
+COREF	T178	Chancery-0
+COREF	T95	Every_Chancellor-101
+COREF	T15	somebody-102
+COREF	T245	Every_Chancellor-101
+COREF	T96	Every_Chancellor-101
+COREF	T97	blue-nosed___bulbous-shoed_old_benchers-103
+COREF	T102	hall-104
+COREF	T103	Articled_clerks-105
+COREF	T246	Articled_clerks-105
+COREF	T104	The_last_Lord_Chancellor-106
+COREF	T99	Mr__Blowers-107
+COREF	T247	The_last_Lord_Chancellor-106
+COREF	T248	we-108
+COREF	T179	Jarndyce_1-72
+COREF	T180	jarndyce_2-73
+COREF	T101	Mr__Blowers-107
+COREF	T105	the_maces-109
+COREF	T166	bags-110
+COREF	T167	purses-111
+COREF	T181	people-112
+COREF	T182	Jarndyce_1-72
+COREF	T183	jarndyce_2-73
+COREF	T106	the_master-113
+COREF	T184	Jarndyce_1-72
+COREF	T185	jarndyce_2-73
+COREF	T108	the_copying-clerk-114
+COREF	T107	the_Six_Clerks___Office-115
+COREF	T249	the_copying-clerk-114
+COREF	T186	Chancery-0
+COREF	T110	no_man-100005
+COREF	T109	The_very_solicitors___boys-116
+COREF	T113	the_wretched_suitors-117
+COREF	T111	Mr__Chizzle-118
+COREF	T112	Mizzle-119
+COREF	T250	The_very_solicitors___boys-116
+COREF	T187	Jarndyce_1-72
+COREF	T188	jarndyce_2-73
+COREF	T114	The_receiver_in_the_cause-120
+COREF	T116	his_own_mother-121
+COREF	T251	The_receiver_in_the_cause-120
+COREF	T252	The_receiver_in_the_cause-120
+COREF	T115	Mr__Chizzle-118
+COREF	T117	Mizzle-119
+COREF	T253	themselves-122
+COREF	T254	themselves-122
+COREF	T168	Drizzle-123
+COREF	T189	Jarndyce_1-72
+COREF	T190	jarndyce_2-73
+COREF	T118	the_office-124
+COREF	T255	themselves-122
+COREF	T256	themselves-122
+COREF	T41	the_earth-5
+COP	T68	T228
+COP	T161	T69
+APPOS	T100	T99
+MENTION	T534	23	21	23	21	it	FAC	PRON
+COREF	T534	High_Court_of_Chancery-38
+MENTION	T538	23	73	23	73	its	FAC	PRON
+COREF	T538	High_Court_of_Chancery-38
+MENTION	T542	24	13	24	13	its	FAC	PRON
+COREF	T542	High_Court_of_Chancery-38
+MENTION	T544	24	22	24	22	its	FAC	PRON
+COREF	T544	High_Court_of_Chancery-38
+MENTION	T546	24	37	24	37	its	FAC	PRON
+COREF	T546	High_Court_of_Chancery-38
+MENTION	T548	24	101	24	101	its	FAC	PRON
+COREF	T548	High_Court_of_Chancery-38
+MENTION	T550	30	37	30	37	its	FAC	PRON
+COREF	T550	High_Court_of_Chancery-38
+MENTION	T552	30	40	30	40	its	FAC	PRON
+COREF	T552	High_Court_of_Chancery-38
+MENTION	T21	31	0	31	0	Some	PER	NOM
+COREF	T21	Some-700

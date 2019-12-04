@@ -1,0 +1,556 @@
+T0	NOM_PER 17 44	the heroine of this fiction
+T1	NOM_PER 96 123	a gentle , fashionable girl
+T2	NOM_PER 512 526	her attendants
+T4	NOM_PER 971 981	her father
+T5	NOM_PER 1465 1475	the master
+T6	PROP_GPE 1194 1200	London
+T7	NOM_PER 1931 1945	a _ gourmand _
+T8	NOM_PER 1761 1779	his pretty tenants
+T11	NOM_LOC 2657 2667	this world
+T13	NOM_PER 2674 2688	metaphysicians
+T18	NOM_PER 3791 3800	the swain
+T19	NOM_LOC 3989 3998	the world
+T20	NOM_PER 4206 4229	those susceptible souls
+T23	NOM_PER 4664 4680	the fair peruser
+T24	NOM_PER 4359 4369	my readers
+T26	NOM_PER 5065 5073	a person
+T27	NOM_LOC 5471 5480	the world
+T29	NOM_PER 5722 5732	the lovers
+T31	NOM_PER 5827 5838	her husband
+T32	NOM_FAC 5855 5859	home
+T33	NOM_PER 6291 6301	a daughter
+T35	NOM_PER 6252 6265	a feeble babe
+T36	NOM_PER 6412 6418	nurses
+T37	NOM_PER 6385 6397	the children
+T38	NOM_PER 6616 6628	Her children
+T39	NOM_PER 6710 6717	the son
+T40	NOM_FAC 6916 6927	her station
+T41	NOM_PER 6956 6968	Her children
+T43	NOM_PER 7012 7036	the little blushing girl
+T45	NOM_PER 7174 7185	her brother
+T46	NOM_FAC 7281 7291	the garden
+T47	NOM_FAC 7137 7144	a house
+T48	NOM_PER 7340 7359	An old house-keeper
+T49	NOM_PER 7430 7440	Her mother
+T51	NOM_PER 7465 7476	a governess
+T52	NOM_PER 7862 7868	angels
+T53	NOM_LOC 7887 7897	this earth
+T54	NOM_PER 8104 8114	Her father
+T55	NOM_PER 8365 8377	her daughter
+T56	NOM_PER 8317 8333	a fine tall girl
+T58	NOM_PER 8447 8458	Her husband
+T59	PROP_PER 8551 8555	Mary
+T60	NOM_PER 8605 8615	her mother
+T61	PROP_LOC 9008 9014	Heaven
+T62	NOM_LOC 9589 9621	the sea that was not far distant
+T63	NOM_PER 9730 9740	confidants
+T64	NOM_PER 9705 9725	her constant friends
+T67	NOM_LOC 10014 10025	a new world
+T68	NOM_PER 9921 9927	mother
+T69	NOM_PER 9907 9917	her father
+T70	NOM_LOC 10094 10099	earth
+T71	NOM_PER 10125 10135	her mother
+T72	NOM_PER 10207 10218	her brother
+T73	PROP_PER 10 14	Mary
+T74	NOM_PER 67 93	Edward , who married Eliza
+T75	NOM_PER 51 93	the daughter of Edward , who married Eliza
+T76	PROP_PER 88 93	Eliza
+T77	NOM_PER 912 964	an officer , whom she faintly wished to be united to
+T78	NOM_PER 1006 1050	another in a more distinguished rank of life
+T3	NOM_PER 1134 1148	a vicious fool
+T79	NOM_LOC 1372 1392	a delightful country
+T80	NOM_PER 1835 1843	his wife
+T9	NOM_LOC 2455 2459	hell
+T10	NOM_LOC 2464 2481	the regions below
+T81	NOM_LOC 2419 2461	that horrid place vulgarly called _ hell _
+T12	NOM_PER 2802 2825	her French waiting-maid
+T14	NOM_GPE 2840 2854	the metropolis
+T16	NOM_PER 3968 3983	a knight-errant
+T17	NOM_PER 4111 4129	the sleeping lover
+T21	NOM_PER 4264 4271	a lover
+T22	NOM_PER 4692 4708	the hair-dresser
+T25	NOM_LOC 5736 5753	the lonely arbors
+T28	NOM_PER 5974 5987	Gentle reader
+T30	NOM_PER 6244 6249	a son
+T34	NOM_PER 6310 6320	the mother
+T44	PROP_PER 7005 7009	Mary
+T42	NOM_PER 7065 7082	the awkward thing
+T82	NOM_FAC 7203 7209	school
+T50	NOM_PER 7541 7549	own maid
+T83	NOM_LOC 7917 7929	a thick wood
+T84	NOM_FAC 7933 7941	the park
+T85	NOM_PER 8180 8188	his wife
+T57	PROP_PER 8657 8661	Mary
+T86	NOM_PER 8878 8888	her father
+T87	NOM_FAC 9507 9522	the gloomy path
+T66	NOM_PER 9765 9786	the Great First Cause
+T88	PRON_PER 154 157	her
+T89	PRON_PER 212 215	her
+T90	PRON_PER 260 263	She
+T91	PRON_PER 316 319	her
+T92	PRON_PER 331 332	I
+T93	PRON_PER 405 408	She
+T94	PRON_PER 512 515	her
+T95	PRON_PER 548 551	her
+T96	PRON_PER 577 580	she
+T97	PRON_PER 631 634	her
+T98	PRON_PER 658 661	her
+T99	PRON_PER 716 719	her
+T101	PRON_PER 846 849	she
+T102	PRON_PER 896 899	she
+T103	PRON_PER 930 933	she
+T104	PRON_PER 971 974	her
+T105	PRON_PER 1053 1056	she
+T106	PRON_PER 1078 1081	his
+T107	PRON_PER 1178 1182	they
+T108	PRON_PER 1203 1207	they
+T109	PRON_PER 1284 1288	they
+T110	PRON_PER 1313 1317	they
+T112	PRON_PER 1579 1581	He
+T113	PRON_PER 1699 1702	him
+T114	PRON_PER 1733 1735	he
+T115	PRON_PER 1761 1764	his
+T116	PRON_PER 1791 1793	he
+T117	PRON_PER 1803 1808	their
+T118	PRON_PER 1835 1838	his
+T119	PRON_PER 1977 1982	Their
+T120	PRON_PER 2041 2044	his
+T121	PRON_PER 2056 2059	her
+T122	PRON_PER 2088 2091	Her
+T123	PRON_PER 2134 2137	she
+T124	PRON_PER 2156 2159	her
+T125	PRON_PER 2182 2185	her
+T126	PRON_PER 2200 2203	she
+T127	PRON_PER 2282 2285	she
+T128	PRON_PER 2308 2311	her
+T129	PRON_PER 2335 2338	she
+T130	PRON_PER 2381 2384	her
+T131	PRON_PER 2407 2410	she
+T132	PRON_PER 2496 2499	her
+T133	PRON_PER 2527 2528	I
+T134	PRON_PER 2612 2615	her
+T135	PRON_PER 2623 2626	she
+T136	PRON_PER 2632 2635	her
+T137	PRON_PER 2698 2699	I
+T138	PRON_PER 2723 2726	her
+T139	PRON_PER 2749 2752	she
+T140	PRON_PER 2802 2805	her
+T141	PRON_PER 2828 2831	she
+T142	PRON_PER 2896 2899	she
+T143	PRON_PER 2913 2916	her
+T144	PRON_PER 2928 2931	she
+T145	PRON_PER 2943 2946	her
+T146	PRON_PER 2969 2972	she
+T147	PRON_PER 3050 3051	I
+T148	PRON_PER 3316 3319	she
+T149	PRON_PER 3381 3384	she
+T150	PRON_PER 3841 3844	his
+T151	PRON_PER 4176 4179	She
+T152	PRON_PER 4296 4299	her
+T153	PRON_PER 4307 4310	she
+T154	PRON_PER 4327 4330	her
+T155	PRON_PER 4359 4361	my
+T156	PRON_PER 4420 4422	me
+T157	PRON_PER 4443 4444	I
+T158	PRON_PER 4466 4470	them
+T159	PRON_PER 4626 4627	I
+T160	PRON_PER 4729 4736	himself
+T161	PRON_PER 4757 4760	her
+T162	PRON_PER 4763 4766	She
+T163	PRON_PER 4835 4838	her
+T164	PRON_PER 4875 4878	her
+T165	PRON_PER 4899 4902	she
+T167	PRON_PER 5195 5198	her
+T168	PRON_PER 5340 5343	She
+T169	PRON_PER 5417 5420	she
+T170	PRON_PER 5460 5463	she
+T171	PRON_PER 5559 5562	she
+T172	PRON_PER 5634 5637	she
+T173	PRON_PER 5652 5655	she
+T174	PRON_PER 5663 5666	her
+T175	PRON_PER 5706 5709	she
+T176	PRON_PER 5776 5780	them
+T177	PRON_PER 5814 5817	She
+T178	PRON_PER 5827 5830	her
+T179	PRON_PER 5862 5865	She
+T180	PRON_PER 5889 5891	he
+T181	PRON_PER 5901 5904	her
+T182	PRON_PER 5914 5917	her
+T183	PRON_PER 5933 5936	her
+T184	PRON_PER 5990 5991	I
+T185	PRON_PER 6009 6013	they
+T186	PRON_PER 6025 6029	them
+T187	PRON_PER 6040 6044	they
+T188	PRON_PER 6063 6064	I
+T189	PRON_PER 6094 6098	they
+T190	PRON_PER 6138 6142	they
+T191	PRON_PER 6226 6229	she
+T192	PRON_PER 6331 6334	she
+T193	PRON_PER 6425 6428	she
+T194	PRON_PER 6441 6444	her
+T195	PRON_PER 6499 6502	her
+T196	PRON_PER 6590 6593	her
+T197	PRON_PER 6616 6619	Her
+T198	PRON_PER 6641 6646	their
+T199	PRON_PER 6684 6687	she
+T200	PRON_PER 6723 6725	he
+T201	PRON_PER 6762 6765	she
+T202	PRON_PER 6774 6777	her
+T203	PRON_PER 6823 6826	She
+T204	PRON_PER 6916 6919	her
+T205	PRON_PER 6937 6940	her
+T206	PRON_PER 6956 6959	Her
+T207	PRON_PER 7050 7053	she
+T208	PRON_PER 7109 7112	she
+T209	PRON_PER 7174 7177	her
+T210	PRON_PER 7216 7219	she
+T211	PRON_PER 7248 7255	herself
+T212	PRON_PER 7258 7261	she
+T213	PRON_PER 7365 7368	her
+T214	PRON_PER 7387 7390	her
+T215	PRON_PER 7416 7419	her
+T216	PRON_PER 7430 7433	Her
+T217	PRON_PER 7482 7485	her
+T218	PRON_PER 7537 7540	her
+T219	PRON_PER 7559 7562	her
+T220	PRON_PER 7575 7578	she
+T221	PRON_PER 7601 7604	she
+T222	PRON_PER 7650 7653	her
+T223	PRON_PER 7719 7722	her
+T224	PRON_PER 7734 7737	she
+T225	PRON_PER 7777 7780	her
+T226	PRON_PER 7817 7820	She
+T227	PRON_PER 7900 7903	She
+T228	PRON_PER 7956 7960	them
+T229	PRON_PER 7994 7998	them
+T230	PRON_PER 8010 8014	them
+T231	PRON_PER 8027 8030	her
+T232	PRON_PER 8051 8054	her
+T233	PRON_PER 8104 8107	Her
+T234	PRON_PER 8180 8183	his
+T235	PRON_PER 8222 8225	her
+T236	PRON_PER 8238 8245	herself
+T238	PRON_PER 8259 8262	She
+T239	PRON_PER 8292 8295	she
+T240	PRON_PER 8365 8368	her
+T241	PRON_PER 8380 8383	she
+T242	PRON_PER 8447 8450	Her
+T243	PRON_PER 8586 8588	he
+T244	PRON_PER 8605 8608	her
+T245	PRON_PER 8627 8630	her
+T246	PRON_PER 8692 8695	her
+T247	PRON_PER 8809 8812	her
+T248	PRON_PER 8834 8837	She
+T249	PRON_PER 8853 8856	her
+T250	PRON_PER 8870 8873	she
+T251	PRON_PER 8878 8881	her
+T252	PRON_PER 8940 8943	his
+T253	PRON_PER 8956 8959	her
+T254	PRON_PER 8969 8972	She
+T255	PRON_PER 9033 9036	she
+T256	PRON_PER 9073 9076	her
+T257	PRON_PER 9122 9125	she
+T258	PRON_PER 9199 9206	herself
+T259	PRON_PER 9249 9252	her
+T260	PRON_PER 9398 9401	her
+T261	PRON_PER 9409 9412	she
+T262	PRON_PER 9459 9462	She
+T263	PRON_PER 9654 9657	she
+T264	PRON_PER 9705 9708	her
+T265	PRON_PER 9743 9746	She
+T266	PRON_PER 9812 9815	his
+T267	PRON_PER 9860 9863	his
+T268	PRON_PER 9892 9895	she
+T269	PRON_PER 9907 9910	her
+T270	PRON_PER 9934 9938	they
+T271	PRON_PER 9948 9951	her
+T272	PRON_PER 9964 9967	she
+T273	PRON_PER 10028 10031	Her
+T274	PRON_PER 10053 10056	her
+T275	PRON_PER 10125 10128	her
+T276	PRON_PER 10159 10162	her
+T277	PRON_PER 10193 10196	she
+T278	PRON_PER 10207 10210	her
+T279	PRON_PER 10224 10227	her
+T280	PRON_PER 10291 10294	her
+T281	PRON_PER 10347 10350	her
+T355	Mary-0 10 14	Mary
+T356	Edward-1 67 93	Edward , who married Eliza
+T358	Eliza-2 88 93	Eliza
+T370	Eliza-2 154 157	her
+T371	Eliza-2 212 215	her
+T372	Eliza-2 260 263	She
+T373	Eliza-2 316 319	her
+T374	Narrator-3 331 332	I
+T375	Eliza-2 405 408	She
+T284	her_attendants-4 512 526	her attendants
+T376	Eliza-2 512 515	her
+T377	Eliza-2 548 551	her
+T378	Eliza-2 577 580	she
+T379	Eliza-2 631 634	her
+T380	Eliza-2 658 661	her
+T381	Eliza-2 716 719	her
+T383	Eliza-2 846 849	she
+T384	Eliza-2 896 899	she
+T359	an_officer___whom_she_faintly_wished_to_be_united_to-5 912 964	an officer , whom she faintly wished to be united to
+T385	Eliza-2 930 933	she
+T286	her_father-6 971 981	her father
+T386	Eliza-2 971 974	her
+T387	Eliza-2 1053 1056	she
+T388	her_father-6 1078 1081	his
+T389	Mary_s_parents-8 1178 1182	they
+T288	London-9 1194 1200	London
+T390	Mary_s_parents-8 1203 1207	they
+T391	Mary_s_parents-8 1284 1288	they
+T392	Mary_s_parents-8 1313 1317	they
+T361	a_delightful_country-10 1372 1392	a delightful country
+T360	Edward-1 1006 1050	another in a more distinguished rank of life
+T285	Edward-1 1134 1148	a vicious fool
+T287	Edward-1 1465 1475	the master
+T394	Edward-1 1579 1581	He
+T395	Edward-1 1699 1702	him
+T396	Edward-1 1733 1735	he
+T290	his_pretty_tenants-700 1761 1779	his pretty tenants
+T397	Edward-1 1761 1764	his
+T398	Edward-1 1791 1793	he
+T399	his_pretty_tenants-12 1803 1808	their
+T362	Eliza-2 1835 1843	his wife
+T400	Edward-1 1835 1838	his
+T289	a___gourmand__-13 1931 1945	a _ gourmand _
+T401	his_pretty_tenants-12 1977 1982	Their
+T402	Edward-1 2041 2044	his
+T403	Eliza-2 2056 2059	her
+T404	Eliza-2 2088 2091	Her
+T405	Eliza-2 2134 2137	she
+T406	Eliza-2 2156 2159	her
+T407	Eliza-2 2182 2185	her
+T408	Eliza-2 2200 2203	she
+T409	Eliza-2 2282 2285	she
+T410	Eliza-2 2308 2311	her
+T411	Eliza-2 2335 2338	she
+T412	Eliza-2 2381 2384	her
+T413	Eliza-2 2407 2410	she
+T363	that_horrid_place_vulgarly_called___hell__-14 2419 2461	that horrid place vulgarly called _ hell _
+T291	that_horrid_place_vulgarly_called___hell__-14 2455 2459	hell
+T414	Eliza-2 2496 2499	her
+T415	Narrator-3 2527 2528	I
+T416	Eliza-2 2612 2615	her
+T417	Eliza-2 2623 2626	she
+T418	Eliza-2 2632 2635	her
+T293	this_world-15 2657 2667	this world
+T295	metaphysicians-16 2674 2688	metaphysicians
+T419	Narrator-3 2698 2699	I
+T420	Eliza-2 2723 2726	her
+T421	Eliza-2 2749 2752	she
+T294	her_French_waiting-maid-17 2802 2825	her French waiting-maid
+T422	Eliza-2 2802 2805	her
+T423	Eliza-2 2828 2831	she
+T296	the_metropolis-18 2840 2854	the metropolis
+T424	Eliza-2 2896 2899	she
+T425	Eliza-2 2913 2916	her
+T426	Eliza-2 2928 2931	she
+T427	Eliza-2 2943 2946	her
+T428	Eliza-2 2969 2972	she
+T429	Narrator-3 3050 3051	I
+T430	Eliza-2 3316 3319	she
+T431	Eliza-2 3381 3384	she
+T300	the_swain-19 3791 3800	the swain
+T432	the_swain-19 3841 3844	his
+T298	a_knight-errant-20 3968 3983	a knight-errant
+T301	the_world-21 3989 3998	the world
+T299	the_sleeping_lover-22 4111 4129	the sleeping lover
+T433	Eliza-2 4176 4179	She
+T302	those_susceptible_souls-23 4206 4229	those susceptible souls
+T303	a_lover-24 4264 4271	a lover
+T434	Eliza-2 4296 4299	her
+T435	Eliza-2 4307 4310	she
+T436	Eliza-2 4327 4330	her
+T306	my_readers-25 4359 4369	my readers
+T437	Narrator-3 4359 4361	my
+T438	Narrator-3 4420 4422	me
+T439	Narrator-3 4443 4444	I
+T440	my_readers-25 4466 4470	them
+T441	Narrator-3 4626 4627	I
+T305	the_fair_peruser-26 4664 4680	the fair peruser
+T304	the_hair-dresser-27 4692 4708	the hair-dresser
+T442	the_hair-dresser-27 4729 4736	himself
+T443	the_fair_peruser-26 4757 4760	her
+T444	Eliza-2 4763 4766	She
+T445	Eliza-2 4835 4838	her
+T446	Eliza-2 4875 4878	her
+T447	Eliza-2 4899 4902	she
+T308	a_person-28 5065 5073	a person
+T449	Eliza-2 5195 5198	her
+T450	Eliza-2 5340 5343	She
+T451	Eliza-2 5417 5420	she
+T452	Eliza-2 5460 5463	she
+T309	the_world-29 5471 5480	the world
+T453	Eliza-2 5559 5562	she
+T454	Eliza-2 5634 5637	she
+T455	Eliza-2 5652 5655	she
+T456	Eliza-2 5663 5666	her
+T457	Eliza-2 5706 5709	she
+T311	the_lovers-30 5722 5732	the lovers
+T307	the_lonely_arbors-31 5736 5753	the lonely arbors
+T458	the_lovers-30 5776 5780	them
+T459	Eliza-2 5814 5817	She
+T313	Edward-1 5827 5838	her husband
+T460	Eliza-2 5827 5830	her
+T314	home-32 5855 5859	home
+T461	Eliza-2 5862 5865	She
+T462	Edward-1 5889 5891	he
+T463	Eliza-2 5901 5904	her
+T464	Eliza-2 5914 5917	her
+T465	Eliza-2 5933 5936	her
+T310	Gentle_reader-33 5974 5987	Gentle reader
+T466	Narrator-3 5990 5991	I
+T467	Mary_s_parents-8 6009 6013	they
+T468	Mary_s_parents-8 6025 6029	them
+T469	Mary_s_parents-8 6040 6044	they
+T470	Narrator-3 6063 6064	I
+T471	Mary_s_parents-8 6094 6098	they
+T472	Mary_s_parents-8 6138 6142	they
+T473	Eliza-2 6226 6229	she
+T312	a_son-34 6244 6249	a son
+T316	the_mother-100000 6310 6320	the mother
+T474	Eliza-2 6331 6334	she
+T319	the_children-36 6385 6397	the children
+T318	nurses-37 6412 6418	nurses
+T475	Eliza-2 6425 6428	she
+T476	Eliza-2 6441 6444	her
+T477	Eliza-2 6499 6502	her
+T478	Eliza-2 6590 6593	her
+T320	the_children-36 6616 6628	Her children
+T479	Eliza-2 6616 6619	Her
+T480	the_children-36 6641 6646	their
+T481	Eliza-2 6684 6687	she
+T321	a_son-34 6710 6717	the son
+T482	a_son-34 6723 6725	he
+T483	Eliza-2 6762 6765	she
+T484	Eliza-2 6774 6777	her
+T485	Eliza-2 6823 6826	She
+T322	her_station-38 6916 6927	her station
+T486	Eliza-2 6916 6919	her
+T487	Eliza-2 6937 6940	her
+T323	the_children-36 6956 6968	Her children
+T488	Eliza-2 6956 6959	Her
+T315	Mary-0 6291 6301	a daughter
+T326	Mary-0 7005 7009	Mary
+T489	Eliza-2 7050 7053	she
+T324	Mary-0 7065 7082	the awkward thing
+T490	Mary-0 7109 7112	she
+T329	a_house-39 7137 7144	a house
+T327	a_son-34 7174 7185	her brother
+T491	Mary-0 7174 7177	her
+T364	school-40 7203 7209	school
+T492	Mary-0 7216 7219	she
+T493	Mary-0 7248 7255	herself
+T494	Mary-0 7258 7261	she
+T328	the_garden-41 7281 7291	the garden
+T330	An_old_house-keeper-42 7340 7359	An old house-keeper
+T495	Mary-0 7365 7368	her
+T496	Mary-0 7387 7390	her
+T497	Mary-0 7416 7419	her
+T331	Eliza-2 7430 7440	Her mother
+T498	Mary-0 7430 7433	Her
+T333	a_governess-43 7465 7476	a governess
+T499	Eliza-2 7482 7485	her
+T500	Eliza-2 7537 7540	her
+T332	her_French_waiting-maid-17 7541 7549	own maid
+T501	Mary-0 7559 7562	her
+T502	Mary-0 7575 7578	she
+T503	Mary-0 7601 7604	she
+T504	Mary-0 7650 7653	her
+T505	Mary-0 7719 7722	her
+T506	Mary-0 7734 7737	she
+T507	Mary-0 7777 7780	her
+T508	Mary-0 7817 7820	She
+T334	angels-44 7862 7868	angels
+T335	this_earth-45 7887 7897	this earth
+T509	Mary-0 7900 7903	She
+T365	a_thick_wood-46 7917 7929	a thick wood
+T366	the_park-47 7933 7941	the park
+T510	angels-44 7956 7960	them
+T511	angels-44 7994 7998	them
+T512	angels-44 8010 8014	them
+T513	Mary-0 8027 8030	her
+T514	Mary-0 8051 8054	her
+T336	Edward-1 8104 8114	Her father
+T515	Mary-0 8104 8107	Her
+T367	Eliza-2 8180 8188	his wife
+T516	Edward-1 8180 8183	his
+T517	Eliza-2 8222 8225	her
+T518	Eliza-2 8238 8245	herself
+T520	Eliza-2 8259 8262	She
+T521	Eliza-2 8292 8295	she
+T338	a_fine_tall_girl-48 8317 8333	a fine tall girl
+T337	Mary-0 8365 8377	her daughter
+T522	Eliza-2 8365 8368	her
+T523	Eliza-2 8380 8383	she
+T340	Edward-1 8447 8458	Her husband
+T524	Eliza-2 8447 8450	Her
+T341	Mary-0 8551 8555	Mary
+T525	Edward-1 8586 8588	he
+T342	Eliza-2 8605 8615	her mother
+T526	Mary-0 8605 8608	her
+T527	Eliza-2 8627 8630	her
+T339	Mary-0 8657 8661	Mary
+T528	Mary-0 8692 8695	her
+T529	Mary-0 8809 8812	her
+T530	Mary-0 8834 8837	She
+T531	Mary-0 8853 8856	her
+T532	Mary-0 8870 8873	she
+T368	Edward-1 8878 8888	her father
+T533	Mary-0 8878 8881	her
+T534	Edward-1 8940 8943	his
+T535	Mary-0 8956 8959	her
+T536	Mary-0 8969 8972	She
+T343	Heaven-49 9008 9014	Heaven
+T537	Mary-0 9033 9036	she
+T538	Mary-0 9073 9076	her
+T539	Mary-0 9122 9125	she
+T540	Mary-0 9199 9206	herself
+T541	Mary-0 9249 9252	her
+T542	Mary-0 9398 9401	her
+T543	Mary-0 9409 9412	she
+T544	Mary-0 9459 9462	She
+T369	the_gloomy_path-50 9507 9522	the gloomy path
+T344	the_sea_that_was_not_far_distant-51 9589 9621	the sea that was not far distant
+T545	Mary-0 9654 9657	she
+T346	her_constant_friends-52 9705 9725	her constant friends
+T546	Mary-0 9705 9708	her
+T345	confidants-53 9730 9740	confidants
+T547	Mary-0 9743 9746	She
+T348	the_Great_First_Cause-54 9765 9786	the Great First Cause
+T548	the_Great_First_Cause-54 9812 9815	his
+T549	the_Great_First_Cause-54 9860 9863	his
+T550	Mary-0 9892 9895	she
+T351	Edward-1 9907 9917	her father
+T551	Mary-0 9907 9910	her
+T350	Eliza-2 9921 9927	mother
+T552	Mary_s_parents-8 9934 9938	they
+T553	Mary-0 9948 9951	her
+T554	Mary-0 9964 9967	she
+T349	a_new_world-55 10014 10025	a new world
+T555	Mary-0 10028 10031	Her
+T556	Mary-0 10053 10056	her
+T352	earth-56 10094 10099	earth
+T353	Eliza-2 10125 10135	her mother
+T557	Mary-0 10125 10128	her
+T558	Mary-0 10159 10162	her
+T559	Eliza-2 10193 10196	she
+T354	a_son-34 10207 10218	her brother
+T560	Mary-0 10207 10210	her
+T561	Mary-0 10224 10227	her
+T562	Mary-0 10291 10294	her
+T563	Mary-0 10347 10350	her
+R1	appos Arg1:T0 Arg2:T73
+R2	cop Arg1:T75 Arg2:T73
+R3	appos Arg1:T1 Arg2:T76
+R4	appos Arg1:T10 Arg2:T9
+R5	appos Arg1:T35 Arg2:T30
+R6	appos Arg1:T43 Arg2:T44
+T15	PRON_PER 6002 6006	thee
+T65	thee-803 6002 6006	thee
+T100	NOM_PER 1753 1779	some of his pretty tenants
+T111	his_pretty_tenants-12 1753 1779	some of his pretty tenants

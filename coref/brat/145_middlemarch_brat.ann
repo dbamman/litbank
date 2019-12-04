@@ -1,0 +1,512 @@
+T0	NOM_PER 127 135	The Maid
+T1	PROP_PER 173 184	Miss Brooke
+T4	NOM_PER 405 421	Italian painters
+T5	NOM_PER 656 671	our elder poets
+T6	NOM_PER 374 392	the Blessed Virgin
+T10	NOM_PER 956 966	her sister
+T11	NOM_PER 1103 1113	her sister
+T13	PROP_PER 1026 1037	Miss Brooke
+T14	PROP_PER 1520 1528	Cromwell
+T15	PROP_PER 1183 1189	Brooke
+T16	NOM_PER 1425 1434	clergyman
+T17	NOM_PER 1456 1467	an ancestor
+T19	NOM_PER 1483 1528	a Puritan gentleman who served under Cromwell
+T20	NOM_PER 1409 1419	an admiral
+T21	NOM_PER 1611 1656	the proprietor of a respectable family estate
+T23	NOM_PER 1374 1385	forefathers
+T24	NOM_PER 1829 1839	a huckster
+T25	NOM_PER 1659 1684	Young women of such birth
+T26	NOM_PER 1829 1851	a huckster 's daughter
+T27	NOM_PER 2242 2252	her sister
+T28	PROP_PER 2143 2154	Miss Brooke
+T30	PROP_PER 2211 2216	Celia
+T31	PROP_PER 2389 2397	Dorothea
+T35	PROP_PER 2420 2426	Pascal
+T37	NOM_PER 3248 3267	a marriageable girl
+T39	PROP_GPE 3690 3698	Lausanne
+T40	NOM_PER 3448 3459	the sisters
+T41	NOM_PER 3569 3582	their parents
+T43	PROP_FAC 3864 3877	Tipton Grange
+T44	NOM_PER 3897 3915	a man nearly sixty
+T46	NOM_GPE 4057 4067	the county
+T47	PROP_PER 4118 4128	Mr. Brooke
+T49	NOM_PER 4418 4423	a man
+T50	PROP_PER 4584 4594	Mr. Brooke
+T51	NOM_PER 4769 4778	her uncle
+T56	NOM_PER 4984 4994	an heiress
+T57	PROP_PER 5080 5088	Dorothea
+T59	PROP_PER 5278 5286	Mr. Peel
+T60	PROP_PER 5310 5318	Catholic
+T61	NOM_PER 5057 5070	their parents
+T64	PROP_PER 5136 5146	Mr. Brooke
+T68	NOM_PER 5872 5886	a sick laborer
+T69	NOM_PER 6009 6017	a Papist
+T70	NOM_PER 6258 6263	a man
+T71	NOM_PER 6079 6090	Such a wife
+T72	NOM_PER 6338 6343	Women
+T73	NOM_PER 6499 6514	their neighbors
+T74	NOM_PER 6532 6544	any lunatics
+T75	PROP_PER 6750 6761	Miss Brooke
+T76	NOM_PER 6617 6637	the new young ladies
+T79	PROP_PER 6868 6894	the innocent-looking Celia
+T81	NOM_PER 7193 7201	Most men
+T82	NOM_PER 7404 7413	a devotee
+T85	PROP_PER 8017 8022	Celia
+T86	NOM_PER 7795 7808	any gentleman
+T88	PROP_PER 7883 7893	Mr. Brooke
+T90	PROP_PER 8089 8094	Celia
+T91	PROP_FAC 7829 7839	the Grange
+T92	PROP_PER 7939 7944	Celia
+T93	NOM_PER 8141 8160	a suitor to herself
+T95	PROP_PER 8366 8386	the judicious Hooker
+T98	NOM_PER 8759 8766	a lover
+T99	NOM_PER 8819 8831	your husband
+T100	NOM_PER 8846 8852	father
+T103	NOM_PER 9086 9096	his nieces
+T104	NOM_PER 9063 9096	guide and companion to his nieces
+T105	NOM_PER 9038 9059	some middle-aged lady
+T106	PROP_PER 8960 8970	Mr. Brooke
+T108	NOM_PER 8931 8952	Dorothea 's character
+T109	PROP_PER 9245 9253	Dorothea
+T111	NOM_PER 9142 9156	superior woman
+T112	NOM_PER 9359 9377	the Rector 's wife
+T114	NOM_LOC 9434 9467	the northeast corner of Loamshire
+T115	NOM_PER 9359 9369	the Rector
+T117	PROP_PER 9473 9484	Miss Brooke
+T118	NOM_PER 9497 9506	her uncle
+T121	PROP_PER 9734 9742	Dorothea
+T123	PROP_PER 9607 9624	Sir James Chettam
+T124	NOM_PER 9692 9701	the girls
+T125	NOM_PER 9669 9716	another gentleman whom the girls had never seen
+T128	NOM_GPE 9827 9837	the county
+T129	NOM_PER 9841 9867	a man of profound learning
+T2	NOM_PER 1142 1148	ladies
+T9	NOM_PER 66 73	a woman
+T18	PROP_PER 8 19	MISS BROOKE
+T130	PROP_PER 149 157	BEAUMONT
+T131	PROP_PER 162 170	FLETCHER
+T7	PROP_PER 855 860	Celia
+T12	NOM_PER 911 926	close observers
+T22	NOM_FAC 1697 1718	a quiet country-house
+T132	NOM_FAC 1735 1751	a village church
+T133	NOM_FAC 1771 1779	a parlor
+T29	PROP_PER 2445 2458	Jeremy Taylor
+T32	NOM_PER 2498 2505	mankind
+T33	NOM_LOC 2861 2870	the world
+T135	NOM_PER 3435 3459	the elder of the sisters
+T136	NOM_PER 3636 3653	an English family
+T137	NOM_PER 3672 3698	a Swiss family at Lausanne
+T138	NOM_PER 3701 3734	their bachelor uncle and guardian
+T38	NOM_PER 3883 3894	their uncle
+T42	NOM_PER 5105 5110	a son
+T45	NOM_PER 5113 5121	that son
+T48	NOM_PER 5239 5258	provincial families
+T53	PROP_PER 5471 5479	Dorothea
+T54	NOM_PER 5495 5537	a girl so handsome and with such prospects
+T55	NOM_PER 5668 5678	a wary man
+T62	NOM_PER 5775 5813	A young lady of some birth and fortune
+T63	PROP_PER 5955 5967	the Apostles
+T65	NOM_PER 6478 6489	Sane people
+T66	NOM_PER 6651 6664	the cottagers
+T67	PROP_PER 6693 6698	Celia
+T77	PROP_PER 6837 6845	Dorothea
+T78	PROP_PER 7061 7069	Dorothea
+T80	PROP_PER 7947 7964	Sir James Chettam
+T83	PROP_PER 8213 8221	Dorothea
+T84	PROP_PER 8483 8494	John Milton
+T94	NOM_PER 8625 8652	an amiable handsome baronet
+T96	NOM_LOC 9312 9321	the world
+T97	PROP_PER 9342 9358	Mrs. Cadwallader
+T101	NOM_PER 9384 9467	the small group of gentry with whom he visited in the northeast corner of Loamshire
+T102	NOM_FAC 9510 9519	household
+T110	PROP_PER 9791 9815	Reverend Edward Casaubon
+T113	NOM_PER 9965 10015	a man of wealth enough to give lustre to his piety
+T116	PROP_PER 10246 10254	Dorothea
+T119	NOM_FAC 10273 10290	the infant school
+T120	NOM_GPE 10318 10329	the village
+T122	NOM_FAC 10366 10431	the pretty sitting-room which divided the bedrooms of the sisters
+T126	NOM_FAC 10404 10416	the bedrooms
+T127	NOM_PER 10420 10431	the sisters
+T139	NOM_FAC 10463 10477	some buildings
+T140	PROP_PER 10527 10532	Celia
+T58	NOM_PER 5014 5025	the sisters
+T87	NOM_PER 7721 7731	her sister
+T141	PROP_PER 7732 7737	Celia
+T8	NOM_PER 799 809	her sister
+T142	PROP_PER 810 815	Celia
+T52	NOM_PER 4668 4677	his niece
+T143	PROP_PER 4678 4686	Dorothea
+T158	NOM_FAC 2948 2953	there
+T159	NOM_LOC 7304 7315	the country
+T160	PRON_PER 41 42	I
+T161	PRON_PER 262 265	Her
+T162	PRON_PER 308 311	she
+T163	PRON_PER 428 431	her
+T164	PRON_PER 451 454	her
+T165	PRON_PER 512 515	her
+T166	PRON_PER 578 581	her
+T167	PRON_PER 656 659	our
+T168	PRON_PER 717 720	She
+T169	PRON_PER 799 802	her
+T170	PRON_PER 932 935	her
+T171	PRON_PER 956 959	her
+T172	PRON_PER 1103 1106	her
+T173	PRON_PER 1272 1275	you
+T174	PRON_PER 1320 1323	you
+T175	PRON_PER 2242 2245	her
+T177	PRON_PER 2477 2480	her
+T178	PRON_PER 2619 2622	She
+T179	PRON_PER 2779 2782	Her
+T180	PRON_PER 2924 2927	her
+T181	PRON_PER 2956 2959	she
+T182	PRON_PER 3044 3047	her
+T183	PRON_PER 3180 3183	she
+T184	PRON_PER 3293 3296	her
+T185	PRON_PER 3429 3432	she
+T186	PRON_PER 3487 3491	they
+T187	PRON_PER 3523 3527	they
+T188	PRON_PER 3569 3574	their
+T189	PRON_PER 3701 3706	their
+T190	PRON_PER 3785 3790	their
+T191	PRON_PER 3839 3843	they
+T192	PRON_PER 3883 3888	their
+T193	PRON_PER 3988 3990	He
+T194	PRON_PER 4008 4011	his
+T195	PRON_PER 4219 4221	he
+T196	PRON_PER 4270 4272	he
+T198	PRON_PER 4452 4455	his
+T199	PRON_PER 4494 4497	his
+T200	PRON_PER 4527 4529	he
+T201	PRON_PER 4668 4671	his
+T202	PRON_PER 4769 4772	her
+T203	PRON_PER 4790 4793	his
+T204	PRON_PER 4826 4829	his
+T205	PRON_PER 4850 4853	her
+T206	PRON_PER 4890 4893	she
+T207	PRON_PER 4964 4967	She
+T208	PRON_PER 5057 5062	their
+T209	PRON_PER 5568 5571	her
+T210	PRON_PER 5595 5598	her
+T211	PRON_PER 5698 5700	he
+T212	PRON_PER 5706 5709	her
+T213	PRON_PER 5740 5743	her
+T214	PRON_PER 5913 5916	she
+T215	PRON_PER 5925 5932	herself
+T216	PRON_PER 6104 6107	you
+T217	PRON_PER 6167 6170	her
+T218	PRON_PER 6299 6301	he
+T219	PRON_PER 6309 6316	himself
+T220	PRON_PER 6499 6504	their
+T221	PRON_PER 6586 6590	them
+T222	PRON_PER 6790 6793	her
+T223	PRON_PER 6862 6865	her
+T224	PRON_PER 7098 7101	her
+T225	PRON_PER 7140 7143	she
+T226	PRON_PER 7210 7213	her
+T227	PRON_PER 7230 7233	she
+T228	PRON_PER 7253 7256	She
+T229	PRON_PER 7327 7330	her
+T230	PRON_PER 7376 7379	she
+T231	PRON_PER 7447 7450	she
+T232	PRON_PER 7459 7466	herself
+T233	PRON_PER 7502 7505	she
+T234	PRON_PER 7516 7519	she
+T235	PRON_PER 7602 7605	She
+T236	PRON_PER 7697 7700	her
+T237	PRON_PER 7721 7724	her
+T238	PRON_PER 7778 7781	her
+T239	PRON_PER 7896 7899	she
+T240	PRON_PER 7915 7917	he
+T241	PRON_PER 7986 7989	she
+T242	PRON_PER 8105 8108	him
+T243	PRON_PER 8116 8118	he
+T244	PRON_PER 8153 8160	herself
+T245	PRON_PER 8182 8185	her
+T246	PRON_PER 8233 8236	her
+T247	PRON_PER 8323 8326	She
+T248	PRON_PER 8342 8345	she
+T249	PRON_PER 8392 8395	she
+T250	PRON_PER 8426 8429	him
+T251	PRON_PER 8457 8459	he
+T252	PRON_PER 8500 8503	his
+T253	PRON_PER 8679 8682	her
+T254	PRON_PER 8701 8704	she
+T255	PRON_PER 8742 8744	he
+T256	PRON_PER 8752 8755	her
+T257	PRON_PER 8819 8823	your
+T258	PRON_PER 8871 8874	you
+T259	PRON_PER 8892 8895	you
+T260	PRON_PER 9086 9089	his
+T261	PRON_PER 9103 9105	he
+T262	PRON_PER 9106 9113	himself
+T263	PRON_PER 9207 9209	he
+T264	PRON_PER 9218 9225	himself
+T265	PRON_PER 9420 9422	he
+T266	PRON_PER 9497 9500	her
+T267	PRON_PER 9549 9552	her
+T268	PRON_PER 10006 10009	his
+T269	PRON_PER 10038 10041	his
+T270	PRON_PER 10110 10113	his
+T271	PRON_PER 10121 10124	His
+T272	PRON_PER 10297 10300	she
+T273	PRON_PER 10347 10350	her
+T274	PRON_PER 10501 10504	she
+T275	PRON_PER 10557 10560	her
+T294	Dorothea-0 8 19	MISS BROOKE
+T436	I-1 41 42	I
+T285	a_woman-2 66 73	a woman
+T276	The_Maid-3 127 135	The Maid
+T406	BEAUMONT-4 149 157	BEAUMONT
+T407	FLETCHER-5 162 170	FLETCHER
+T277	Dorothea-0 173 184	Miss Brooke
+T437	Dorothea-0 262 265	Her
+T438	Dorothea-0 308 311	she
+T282	the_Blessed_Virgin-6 374 392	the Blessed Virgin
+T280	Italian_painters-7 405 421	Italian painters
+T439	Dorothea-0 428 431	her
+T440	Dorothea-0 451 454	her
+T441	Dorothea-0 512 515	her
+T442	Dorothea-0 578 581	her
+T281	our_elder_poets-8 656 671	our elder poets
+T443	our-9 656 659	our
+T444	Dorothea-0 717 720	She
+T284	Celia-10 799 809	her sister
+T445	Dorothea-0 799 802	her
+T418	Celia-10 810 815	Celia
+T283	Celia-10 855 860	Celia
+T288	close_observers-11 911 926	close observers
+T446	Celia-10 932 935	her
+T286	Dorothea-0 956 966	her sister
+T447	Celia-10 956 959	her
+T289	Dorothea-0 1026 1037	Miss Brooke
+T287	Celia-10 1103 1113	her sister
+T448	Dorothea-0 1103 1106	her
+T278	ladies-12 1142 1148	ladies
+T291	Brooke_family-13 1183 1189	Brooke
+T449	you-100000 1272 1275	you
+T450	you-100001 1320 1323	you
+T299	forefathers-14 1374 1385	forefathers
+T296	an_admiral-15 1409 1419	an admiral
+T292	clergyman-16 1425 1434	clergyman
+T293	an_ancestor-17 1456 1467	an ancestor
+T295	an_ancestor-17 1483 1528	a Puritan gentleman who served under Cromwell
+T290	Cromwell-18 1520 1528	Cromwell
+T297	an_ancestor-17 1611 1656	the proprietor of a respectable family estate
+T301	Brooke_sisters-19 1659 1684	Young women of such birth
+T298	a_quiet_country-house-20 1697 1718	a quiet country-house
+T408	a_village_church-21 1735 1751	a village church
+T409	a_parlor-22 1771 1779	a parlor
+T300	a_huckster-23 1829 1839	a huckster
+T302	a_huckster__s_daughter-24 1829 1851	a huckster 's daughter
+T304	Dorothea-0 2143 2154	Miss Brooke
+T306	Celia-10 2211 2216	Celia
+T303	Dorothea-0 2242 2252	her sister
+T451	Celia-10 2242 2245	her
+T307	Dorothea-0 2389 2397	Dorothea
+T311	Pascal-25 2420 2426	Pascal
+T305	Jeremy_Taylor-26 2445 2458	Jeremy Taylor
+T453	Dorothea-0 2477 2480	her
+T308	mankind-27 2498 2505	mankind
+T454	Dorothea-0 2619 2622	She
+T455	Dorothea-0 2779 2782	Her
+T309	the_world-28 2861 2870	the world
+T456	Dorothea-0 2924 2927	her
+T434	the_parish-29 2948 2953	there
+T457	Dorothea-0 2956 2959	she
+T458	Dorothea-0 3044 3047	her
+T459	Dorothea-0 3180 3183	she
+T313	a_marriageable_girl-31 3248 3267	a marriageable girl
+T460	Dorothea-0 3293 3296	her
+T461	Dorothea-0 3429 3432	she
+T316	Brooke_sisters-19 3448 3459	the sisters
+T462	Brooke_sisters-19 3487 3491	they
+T463	Brooke_sisters-19 3523 3527	they
+T317	Brooke_parents-32 3569 3582	their parents
+T464	Brooke_sisters-19 3569 3574	their
+T412	an_English_family-33 3636 3653	an English family
+T413	a_Swiss_family_at_Lausanne-34 3672 3698	a Swiss family at Lausanne
+T315	Lausanne-35 3690 3698	Lausanne
+T414	Uncle-36 3701 3734	their bachelor uncle and guardian
+T465	Brooke_sisters-19 3701 3706	their
+T466	Brooke_sisters-19 3785 3790	their
+T467	Brooke_sisters-19 3839 3843	they
+T319	Tipton_Grange-37 3864 3877	Tipton Grange
+T314	Uncle-36 3883 3894	their uncle
+T468	Brooke_sisters-19 3883 3888	their
+T469	Uncle-36 3988 3990	He
+T470	Uncle-36 4008 4011	his
+T322	the_county-38 4057 4067	the county
+T323	Uncle-36 4118 4128	Mr. Brooke
+T471	Uncle-36 4219 4221	he
+T472	Uncle-36 4270 4272	he
+T325	a_man-39 4418 4423	a man
+T474	a_man-39 4452 4455	his
+T475	a_man-39 4494 4497	his
+T476	a_man-39 4527 4529	he
+T326	Uncle-36 4584 4594	Mr. Brooke
+T328	Dorothea-0 4668 4677	his niece
+T477	Uncle-36 4668 4671	his
+T419	Dorothea-0 4678 4686	Dorothea
+T327	Uncle-36 4769 4778	her uncle
+T478	Dorothea-0 4769 4772	her
+T479	Uncle-36 4790 4793	his
+T480	Uncle-36 4826 4829	his
+T481	Dorothea-0 4850 4853	her
+T482	Dorothea-0 4890 4893	she
+T483	Dorothea-0 4964 4967	She
+T334	Brooke_sisters-19 5014 5025	the sisters
+T337	Brooke_parents-32 5057 5070	their parents
+T484	Brooke_sisters-19 5057 5062	their
+T333	Dorothea-0 5080 5088	Dorothea
+T318	a_son-40 5105 5110	a son
+T321	a_son-40 5113 5121	that son
+T340	Uncle-36 5136 5146	Mr. Brooke
+T324	provincial_families-41 5239 5258	provincial families
+T335	Mr__Peel-42 5278 5286	Mr. Peel
+T336	Catholic-43 5310 5318	Catholic
+T329	Dorothea-0 5471 5479	Dorothea
+T485	Dorothea-0 5568 5571	her
+T486	Dorothea-0 5595 5598	her
+T331	a_wary_man-44 5668 5678	a wary man
+T487	a_wary_man-44 5698 5700	he
+T488	Dorothea-0 5706 5709	her
+T489	Dorothea-0 5740 5743	her
+T338	Dorothea-0 5775 5813	A young lady of some birth and fortune
+T344	a_sick_laborer-45 5872 5886	a sick laborer
+T490	Dorothea-0 5913 5916	she
+T491	Dorothea-0 5925 5932	herself
+T339	the_Apostles-48 5955 5967	the Apostles
+T345	a_Papist-49 6009 6017	a Papist
+T347	Such_a_wife-50 6079 6090	Such a wife
+T492	you-100002 6104 6107	you
+T493	Such_a_wife-50 6167 6170	her
+T346	a_man-51 6258 6263	a man
+T494	a_man-51 6299 6301	he
+T495	a_man-51 6309 6316	himself
+T348	Women-52 6338 6343	Women
+T341	Sane_people-53 6478 6489	Sane people
+T349	their_neighbors-54 6499 6514	their neighbors
+T496	Sane_people-53 6499 6504	their
+T350	any_lunatics-55 6532 6544	any lunatics
+T497	any_lunatics-55 6586 6590	them
+T352	Brooke_sisters-19 6617 6637	the new young ladies
+T342	the_cottagers-56 6651 6664	the cottagers
+T343	Celia-10 6693 6698	Celia
+T351	Dorothea-0 6750 6761	Miss Brooke
+T498	Dorothea-0 6790 6793	her
+T353	Dorothea-0 6837 6845	Dorothea
+T499	Dorothea-0 6862 6865	her
+T355	Celia-10 6868 6894	the innocent-looking Celia
+T354	Dorothea-0 7061 7069	Dorothea
+T500	Dorothea-0 7098 7101	her
+T501	Dorothea-0 7140 7143	she
+T357	Most_men-57 7193 7201	Most men
+T502	Dorothea-0 7210 7213	her
+T503	Dorothea-0 7230 7233	she
+T504	Dorothea-0 7253 7256	She
+T435	the_country-58 7304 7315	the country
+T505	Dorothea-0 7327 7330	her
+T506	Dorothea-0 7376 7379	she
+T358	a_devotee-59 7404 7413	a devotee
+T507	Dorothea-0 7447 7450	she
+T508	Dorothea-0 7459 7466	herself
+T509	Dorothea-0 7502 7505	she
+T510	Dorothea-0 7516 7519	she
+T511	Dorothea-0 7602 7605	She
+T512	Dorothea-0 7697 7700	her
+T363	Celia-10 7721 7731	her sister
+T513	Dorothea-0 7721 7724	her
+T417	Celia-10 7732 7737	Celia
+T514	Dorothea-0 7778 7781	her
+T362	any_gentleman-60 7795 7808	any gentleman
+T367	Tipton_Grange-37 7829 7839	the Grange
+T364	Uncle-36 7883 7893	Mr. Brooke
+T515	Dorothea-0 7896 7899	she
+T516	any_gentleman-60 7915 7917	he
+T368	Celia-10 7939 7944	Celia
+T356	Sir_James_Chettam-61 7947 7964	Sir James Chettam
+T517	Dorothea-0 7986 7989	she
+T361	Celia-10 8017 8022	Celia
+T366	Celia-10 8089 8094	Celia
+T518	Sir_James_Chettam-61 8105 8108	him
+T519	Sir_James_Chettam-61 8116 8118	he
+T369	a_suitor_to_herself-62 8141 8160	a suitor to herself
+T520	Dorothea-0 8153 8160	herself
+T521	Dorothea-0 8182 8185	her
+T359	Dorothea-0 8213 8221	Dorothea
+T522	Dorothea-0 8233 8236	her
+T523	Dorothea-0 8323 8326	She
+T524	Dorothea-0 8342 8345	she
+T371	the_judicious_Hooker-63 8366 8386	the judicious Hooker
+T525	Dorothea-0 8392 8395	she
+T526	Dorothea-0 8426 8429	him
+T527	Dorothea-0 8457 8459	he
+T360	John_Milton-64 8483 8494	John Milton
+T528	John_Milton-64 8500 8503	his
+T370	an_amiable_handsome_baronet-66 8625 8652	an amiable handsome baronet
+T529	Dorothea-0 8679 8682	her
+T530	Dorothea-0 8701 8704	she
+T531	an_amiable_handsome_baronet-66 8742 8744	he
+T532	Dorothea-0 8752 8755	her
+T375	your_husband-67 8819 8831	your husband
+T533	your-100003 8819 8823	your
+T376	father-100004 8846 8852	father
+T534	you-100005 8871 8874	you
+T535	you-100006 8892 8895	you
+T384	Dorothea-0 8931 8952	Dorothea 's character
+T382	Uncle-36 8960 8970	Mr. Brooke
+T381	some_middle-aged_lady-68 9038 9059	some middle-aged lady
+T379	Brooke_sisters-19 9086 9096	his nieces
+T536	Uncle-36 9086 9089	his
+T537	Uncle-36 9103 9105	he
+T538	Uncle-36 9106 9113	himself
+T387	superior_woman-69 9142 9156	superior woman
+T539	Uncle-36 9207 9209	he
+T540	Uncle-36 9218 9225	himself
+T385	Dorothea-0 9245 9253	Dorothea
+T372	the_world-28 9312 9321	the world
+T373	Mrs__Cadwallader-70 9342 9358	Mrs. Cadwallader
+T391	the_Rector-71 9359 9369	the Rector
+T377	the_small_group_of_gentry_with_whom_he_visited_in_the_northeast_corner_of_Loamshire-72 9384 9467	the small group of gentry with whom he visited in the northeast corner of Loamshire
+T541	the_Rector-71 9420 9422	he
+T390	the_northeast_corner_of_Loamshire-73 9434 9467	the northeast corner of Loamshire
+T393	Dorothea-0 9473 9484	Miss Brooke
+T394	Uncle-36 9497 9506	her uncle
+T542	Dorothea-0 9497 9500	her
+T378	a_quiet_country-house-20 9510 9519	household
+T543	Dorothea-0 9549 9552	her
+T399	Sir_James_Chettam-61 9607 9624	Sir James Chettam
+T401	another_gentleman_whom_the_girls_had_never_seen-74 9669 9716	another gentleman whom the girls had never seen
+T400	Brooke_sisters-19 9692 9701	the girls
+T397	Dorothea-0 9734 9742	Dorothea
+T386	another_gentleman_whom_the_girls_had_never_seen-74 9791 9815	Reverend Edward Casaubon
+T404	the_county-38 9827 9837	the county
+T544	another_gentleman_whom_the_girls_had_never_seen-74 10006 10009	his
+T545	another_gentleman_whom_the_girls_had_never_seen-74 10038 10041	his
+T546	another_gentleman_whom_the_girls_had_never_seen-74 10110 10113	his
+T547	another_gentleman_whom_the_girls_had_never_seen-74 10121 10124	His
+T392	Dorothea-0 10246 10254	Dorothea
+T395	the_infant_school-75 10273 10290	the infant school
+T548	Dorothea-0 10297 10300	she
+T396	the_village-76 10318 10329	the village
+T549	Dorothea-0 10347 10350	her
+T398	the_pretty_sitting-room_which_divided_the_bedrooms_of_the_sisters-77 10366 10431	the pretty sitting-room which divided the bedrooms of the sisters
+T402	the_bedrooms-78 10404 10416	the bedrooms
+T403	Brooke_sisters-19 10420 10431	the sisters
+T415	some_buildings-100007 10463 10477	some buildings
+T550	Dorothea-0 10501 10504	she
+T416	Celia-10 10527 10532	Celia
+T551	Dorothea-0 10557 10560	her
+R1	appos Arg1:T135 Arg2:T185
+R2	appos Arg1:T44 Arg2:T38
+R3	cop Arg1:T56 Arg2:T207
+R5	cop Arg1:T98 Arg2:T255
+R6	cop Arg1:T104 Arg2:T105
+R8	cop Arg1:T129 Arg2:T110
+R9	cop Arg1:T113 Arg2:T110
+T3	PROP_FAC 2899 2919	the parish of Tipton
+T107	the_parish-29 2899 2919	the parish of Tipton
+T34	Dorothea-0 5495 5537	a girl so handsome and with such prospects
+R4	appos Arg1:T112 Arg2:T97
+T36	NOM_PER 8531 8618	any of the other great men whose odd habits it would have been glorious piety to endure
+T134	any_of_the_other_great_men_whose_odd_habits_it_would_have_been_glorious_piety_to_endur-65 8531 8618	any of the other great men whose odd habits it would have been glorious piety to endure

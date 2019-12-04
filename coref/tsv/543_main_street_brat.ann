@@ -1,0 +1,684 @@
+MENTION	T0	0	16	0	17	a girl	PER	NOM
+MENTION	T2	0	10	0	10	Chippewas	PER	PROP
+MENTION	T3	1	18	1	19	St. Paul	GPE	PROP
+MENTION	T4	1	16	1	16	Minneapolis	GPE	PROP
+MENTION	T5	1	2	1	3	no Indians	PER	NOM
+MENTION	T6	2	5	2	5	squaws	PER	NOM
+MENTION	T7	3	23	3	25	the chemistry instructor	PER	NOM
+MENTION	T8	3	15	3	15	heels	PER	NOM
+MENTION	T9	4	36	4	38	the lower road	FAC	NOM
+MENTION	T10	4	32	4	34	a chance watcher	PER	NOM
+MENTION	T11	9	23	9	23	Camelot	GPE	PROP
+MENTION	T12	9	26	9	28	a rebellious girl	PER	NOM
+MENTION	T14	10	8	10	8	Minneapolis	GPE	PROP
+MENTION	T15	12	8	12	8	Voltaire	PER	PROP
+MENTION	T16	12	13	12	14	Robert Ingersoll	PER	PROP
+MENTION	T17	13	9	13	10	the Dakotas	PER	PROP
+MENTION	T18	13	17	13	17	Blodgett	ORG	PROP
+MENTION	T19	13	12	13	13	their children	PER	NOM
+MENTION	T20	14	18	14	18	Milton	PER	PROP
+MENTION	T21	14	3	14	4	friendly girls	PER	NOM
+MENTION	T22	14	6	14	9	young men who sing	PER	NOM
+MENTION	T25	14	20	14	20	Carlyle	PER	PROP
+MENTION	T26	15	8	15	8	Blodgett	ORG	PROP
+MENTION	T27	16	9	16	9	rivals	PER	NOM
+MENTION	T30	18	5	18	9	two or three prettier girls	PER	NOM
+MENTION	T31	19	15	19	20	the three hundred students of Blodgett	PER	NOM
+MENTION	T34	21	0	21	5	The other girls in her dormitory	PER	NOM
+MENTION	T35	23	4	23	5	the girls	PER	NOM
+MENTION	T37	26	9	26	10	the world	LOC	NOM
+MENTION	T39	36	0	36	1	Every man	PER	NOM
+MENTION	T40	38	11	38	13	the Main Building	FAC	NOM
+MENTION	T41	38	8	38	13	the hall of the Main Building	FAC	NOM
+MENTION	T42	38	15	38	16	the co-eds	PER	NOM
+MENTION	T43	38	4	38	4	library	FAC	NOM
+MENTION	T44	39	32	39	33	fabulous suitors	PER	NOM
+MENTION	T45	40	19	40	23	an optician in St. Paul	PER	NOM
+MENTION	T47	40	22	40	23	St. Paul	GPE	PROP
+MENTION	T48	44	13	44	14	the world	LOC	NOM
+MENTION	T51	46	47	46	47	God	PER	PROP
+MENTION	T52	46	22	46	23	grubby children	PER	NOM
+MENTION	T55	49	25	49	25	Caesar	PER	PROP
+MENTION	T56	50	22	50	24	an unidentified hero	PER	NOM
+MENTION	T57	52	0	52	2	The sociology instructor	PER	NOM
+MENTION	T58	53	25	53	26	millionaire uplifters	PER	NOM
+MENTION	T59	53	32	53	33	New York	GPE	PROP
+MENTION	T60	53	23	53	23	Jews	PER	NOM
+MENTION	T61	53	13	53	13	Boston	GPE	PROP
+MENTION	T62	53	21	53	21	socialists	PER	NOM
+MENTION	T63	54	19	54	20	St. Paul	GPE	PROP
+MENTION	T64	54	17	54	17	Minneapolis	GPE	PROP
+MENTION	T65	56	3	56	5	a great liberator	PER	NOM
+MENTION	T66	58	49	58	51	These college chumps	PER	NOM
+MENTION	T67	58	3	58	4	Stewart Snyder	PER	PROP
+MENTION	T68	60	6	60	7	the farm	FAC	NOM
+MENTION	T69	67	3	67	4	the world	LOC	NOM
+MENTION	T70	68	0	68	1	Stewart Snyder	PER	PROP
+MENTION	T71	72	20	72	23	a lawyer ’s wife	PER	NOM
+MENTION	T72	73	3	73	4	his clients	PER	NOM
+MENTION	T74	77	5	77	10	a fellow that was too serious	PER	NOM
+MENTION	T75	83	0	83	0	Stewart	PER	PROP
+MENTION	T76	84	14	84	15	celebrated reformers	PER	NOM
+MENTION	T77	85	31	85	32	Bernard Shaw	PER	PROP
+MENTION	T78	85	15	85	16	a nun	PER	NOM
+MENTION	T80	86	15	86	15	town	GPE	NOM
+MENTION	T81	87	10	87	11	New England	LOC	PROP
+MENTION	T83	91	7	91	10	a Blodgett College room	FAC	NOM
+MENTION	T84	91	17	91	17	girls	PER	NOM
+MENTION	T85	93	8	93	9	the room	FAC	NOM
+MENTION	T86	94	8	94	9	girl students	PER	NOM
+MENTION	T88	102	19	102	20	a teacher	PER	NOM
+MENTION	T90	104	9	104	10	Long Island	GPE	PROP
+MENTION	T92	105	10	105	11	the Northwest	LOC	NOM
+MENTION	T93	106	16	106	19	a quaint Main Street	FAC	NOM
+MENTION	T1	0	7	0	8	the Mississippi	LOC	PROP
+MENTION	T96	0	4	0	14	a hill by the Mississippi where Chippewas camped two generations ago	LOC	NOM
+MENTION	T97	1	8	1	8	flour-mills	FAC	NOM
+MENTION	T98	1	14	1	19	skyscrapers in Minneapolis and St. Paul	FAC	NOM
+MENTION	T99	2	10	2	18	the Yankee fur-traders whose shadows were all about her	PER	NOM
+MENTION	T100	3	10	3	10	Brieux	PER	PROP
+MENTION	T101	4	9	4	9	wheat-lands	LOC	NOM
+MENTION	T102	6	3	6	4	a hilltop	LOC	NOM
+MENTION	T103	6	0	6	4	A girl on a hilltop	PER	NOM
+MENTION	T104	8	2	8	3	Carol Milford	PER	PROP
+MENTION	T105	8	10	8	11	Blodgett College	ORG	PROP
+MENTION	T13	9	6	9	8	lassies in sunbonnets	PER	NOM
+MENTION	T106	9	37	9	39	the American Middlewest	LOC	PROP
+MENTION	T107	10	1	10	2	Blodgett College	ORG	PROP
+MENTION	T108	12	10	12	10	Darwin	PER	PROP
+MENTION	T109	13	3	13	3	Minnesota	GPE	PROP
+MENTION	T110	13	5	13	5	Iowa	GPE	PROP
+MENTION	T111	13	7	13	7	Wisconsin	GPE	PROP
+MENTION	T112	13	14	13	14	thither	ORG	NOM
+MENTION	T113	13	24	13	25	the universities	ORG	NOM
+MENTION	T23	14	12	14	20	one lady instructress who really likes Milton and Carlyle	PER	NOM
+MENTION	T24	15	5	15	5	Carol	PER	PROP
+MENTION	T114	16	3	16	4	the school	ORG	NOM
+MENTION	T28	19	20	19	20	Blodgett	ORG	PROP
+MENTION	T29	21	4	21	5	her dormitory	FAC	NOM
+MENTION	T32	22	12	22	21	a fragile child who must be cloaked with understanding kindness	PER	NOM
+MENTION	T33	24	59	24	64	the Blodgett Ladies ’ Basket-Ball Team	ORG	NOM
+MENTION	T36	24	27	24	64	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the “ gym ” in practise for the Blodgett Ladies ’ Basket-Ball Team	PER	NOM
+MENTION	T115	24	52	24	55	the “ gym ”	FAC	NOM
+MENTION	T116	27	18	27	18	Carol	PER	PROP
+MENTION	T117	27	18	27	20	Carol ’s acquaintances	PER	NOM
+MENTION	T118	29	6	29	8	a born hero-worshipper	PER	NOM
+MENTION	T38	33	20	33	20	missionaries	PER	NOM
+MENTION	T119	33	12	33	20	the Student Volunteers , who intended to become missionaries	PER	NOM
+MENTION	T120	34	12	34	12	chapel	FAC	NOM
+MENTION	T121	36	9	36	9	Carol	PER	PROP
+MENTION	T122	38	27	38	27	college	ORG	NOM
+MENTION	T123	39	1	39	11	the girls who knew that they were going to be married	PER	NOM
+MENTION	T46	40	2	40	2	Carol	PER	PROP
+MENTION	T124	40	6	40	7	an orphan	PER	NOM
+MENTION	T125	40	14	40	23	a vanilla-flavored sister married to an optician in St. Paul	PER	NOM
+MENTION	T126	40	9	40	12	her only near relative	PER	NOM
+MENTION	T127	41	8	41	9	her father	PER	NOM
+MENTION	T49	44	19	44	20	the world	LOC	NOM
+MENTION	T128	45	2	45	7	the girls who were not betrothed	PER	NOM
+MENTION	T129	45	0	45	7	Most of the girls who were not betrothed	PER	NOM
+MENTION	T130	46	19	46	20	beastly classroom	FAC	NOM
+MENTION	T131	46	7	46	32	careless young women who admitted that they intended to leave the “ beastly classroom and grubby children ” the minute they had a chance to marry	PER	NOM
+MENTION	T132	46	35	46	60	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to “ guide their feet along the paths of greatest usefulness . ”	PER	NOM
+MENTION	T133	47	3	47	3	Carol	PER	PROP
+MENTION	T53	50	6	50	6	Carol	PER	PROP
+MENTION	T134	53	19	53	19	poets	PER	NOM
+MENTION	T135	53	28	53	33	the University Settlement in New York	FAC	NOM
+MENTION	T136	54	6	54	7	the prisons	FAC	NOM
+MENTION	T137	54	9	54	11	the charity bureaus	ORG	NOM
+MENTION	T138	54	13	54	20	the employment agencies of Minneapolis and St. Paul	ORG	NOM
+MENTION	T139	55	7	55	7	Carol	PER	PROP
+MENTION	T140	55	23	55	24	the poor	PER	NOM
+MENTION	T141	55	27	55	28	a Zoo	FAC	NOM
+MENTION	T142	58	0	58	4	A classmate named Stewart Snyder	PER	NOM
+MENTION	T143	58	6	58	27	a competent bulky young man in a gray flannel shirt , a rusty black bow tie , and the green-and-purple class cap	PER	NOM
+MENTION	T144	58	42	58	46	the South St. Paul stockyards	FAC	NOM
+MENTION	T145	61	0	61	1	These workmen	PER	NOM
+MENTION	T146	62	4	62	5	common workmen	PER	NOM
+MENTION	T147	62	9	62	9	Carol	PER	PROP
+MENTION	T148	63	9	63	10	common workmen	PER	NOM
+MENTION	T149	66	0	66	0	Carol	PER	PROP
+MENTION	T150	71	8	71	8	Carol	PER	PROP
+MENTION	T151	71	2	71	4	these darn co-eds	PER	NOM
+MENTION	T152	71	0	71	4	Most of these darn co-eds	PER	NOM
+MENTION	T153	71	16	71	16	people	PER	NOM
+MENTION	T154	72	20	72	21	a lawyer	PER	NOM
+MENTION	T155	85	11	85	12	a settlement-house	FAC	NOM
+MENTION	T156	85	8	85	12	a cell in a settlement-house	FAC	NOM
+MENTION	T157	85	37	85	41	a horde of grateful poor	PER	NOM
+MENTION	T79	86	18	86	18	girls	PER	NOM
+MENTION	T158	86	18	86	20	girls ’ clubs	ORG	NOM
+MENTION	T82	87	13	87	13	Pennsylvania	GPE	PROP
+MENTION	T159	87	8	87	8	France	GPE	PROP
+MENTION	T160	91	8	91	9	Blodgett College	ORG	PROP
+MENTION	T161	91	23	91	24	the Coliseum	FAC	NOM
+MENTION	T162	93	6	93	6	Carol	PER	PROP
+MENTION	T87	100	6	100	10	one of these prairie towns	GPE	NOM
+MENTION	T89	102	6	102	7	a teacher	PER	NOM
+MENTION	T91	104	4	104	10	all the garden suburbs on Long Island	GPE	NOM
+MENTION	T163	105	17	105	17	libraries	FAC	NOM
+MENTION	T164	105	5	105	11	the ugly towns here in the Northwest	GPE	NOM
+MENTION	T94	106	7	106	9	a village green	FAC	NOM
+MENTION	T95	106	12	106	13	darling cottages	FAC	NOM
+MENTION	T54	49	0	49	2	The earnest virgins	PER	NOM
+MENTION	T73	74	5	74	6	a lawyer	PER	NOM
+MENTION	T50	45	11	45	11	teachers	PER	NOM
+MENTION	T168	76	6	76	6	people	PER	NOM
+MENTION	T169	70	4	70	4	people	PER	NOM
+MENTION	T170	105	0	105	0	Nobody	PER	NOM
+MENTION	T171	105	8	105	8	here	LOC	NOM
+MENTION	T174	1	0	1	0	She	PER	PRON
+MENTION	T175	1	6	1	6	she	PER	PRON
+MENTION	T176	2	2	2	2	she	PER	PRON
+MENTION	T177	2	18	2	18	her	PER	PRON
+MENTION	T178	3	0	3	0	She	PER	PRON
+MENTION	T179	3	34	3	34	her	PER	PRON
+MENTION	T180	4	11	4	11	her	PER	PRON
+MENTION	T181	4	43	4	43	her	PER	PRON
+MENTION	T182	5	0	5	0	She	PER	PRON
+MENTION	T183	5	2	5	2	her	PER	PRON
+MENTION	T184	5	5	5	5	she	PER	PRON
+MENTION	T185	5	12	5	12	her	PER	PRON
+MENTION	T186	6	16	6	16	she	PER	PRON
+MENTION	T187	13	12	13	12	their	PER	PRON
+MENTION	T188	13	19	13	19	them	PER	PRON
+MENTION	T189	16	12	16	12	her	PER	PRON
+MENTION	T190	16	16	16	16	her	PER	PRON
+MENTION	T191	17	0	17	0	She	PER	PRON
+MENTION	T192	18	1	18	1	her	PER	PRON
+MENTION	T193	19	0	19	0	She	PER	PRON
+MENTION	T194	20	3	20	3	her	PER	PRON
+MENTION	T195	21	4	21	4	her	PER	PRON
+MENTION	T196	21	11	21	11	her	PER	PRON
+MENTION	T197	21	14	21	14	they	PER	PRON
+MENTION	T198	21	16	21	16	her	PER	PRON
+MENTION	T199	22	0	22	0	She	PER	PRON
+MENTION	T200	22	8	22	8	they	PER	PRON
+MENTION	T201	24	4	24	4	her	PER	PRON
+MENTION	T202	24	9	24	9	her	PER	PRON
+MENTION	T203	24	20	24	20	she	PER	PRON
+MENTION	T204	25	2	25	2	she	PER	PRON
+MENTION	T205	25	5	25	5	her	PER	PRON
+MENTION	T206	26	0	26	0	She	PER	PRON
+MENTION	T207	26	21	26	21	she	PER	PRON
+MENTION	T208	26	29	26	29	her	PER	PRON
+MENTION	T209	27	2	27	2	her	PER	PRON
+MENTION	T210	27	15	27	15	she	PER	PRON
+MENTION	T211	27	24	27	24	her	PER	PRON
+MENTION	T212	28	1	28	1	she	PER	PRON
+MENTION	T213	28	10	28	10	she	PER	PRON
+MENTION	T214	29	0	29	0	She	PER	PRON
+MENTION	T215	29	11	29	11	she	PER	PRON
+MENTION	T216	30	1	30	1	she	PER	PRON
+MENTION	T217	30	4	30	4	she	PER	PRON
+MENTION	T218	31	0	31	0	Her	PER	PRON
+MENTION	T219	31	3	31	3	her	PER	PRON
+MENTION	T220	32	2	32	2	she	PER	PRON
+MENTION	T221	32	7	32	7	she	PER	PRON
+MENTION	T222	33	1	33	1	she	PER	PRON
+MENTION	T223	33	7	33	7	she	PER	PRON
+MENTION	T224	34	0	34	0	She	PER	PRON
+MENTION	T225	34	9	34	9	she	PER	PRON
+MENTION	T226	35	4	35	4	her	PER	PRON
+MENTION	T227	35	16	35	16	her	PER	PRON
+MENTION	T228	35	23	35	23	her	PER	PRON
+MENTION	T229	35	30	35	30	her	PER	PRON
+MENTION	T230	37	3	37	3	she	PER	PRON
+MENTION	T231	37	7	37	7	her	PER	PRON
+MENTION	T232	38	22	38	22	we	PER	PRON
+MENTION	T233	38	25	38	25	we	PER	PRON
+MENTION	T234	39	6	39	6	they	PER	PRON
+MENTION	T235	39	21	39	21	they	PER	PRON
+MENTION	T236	39	25	39	25	they	PER	PRON
+MENTION	T237	40	4	40	4	she	PER	PRON
+MENTION	T238	40	9	40	9	her	PER	PRON
+MENTION	T239	41	0	41	0	She	PER	PRON
+MENTION	T240	41	8	41	8	her	PER	PRON
+MENTION	T241	42	0	42	0	She	PER	PRON
+MENTION	T242	43	0	43	0	She	PER	PRON
+MENTION	T243	43	3	43	3	her	PER	PRON
+MENTION	T244	44	2	44	2	she	PER	PRON
+MENTION	T245	44	9	44	9	she	PER	PRON
+MENTION	T246	44	25	44	25	she	PER	PRON
+MENTION	T247	46	13	46	13	they	PER	PRON
+MENTION	T248	46	27	46	27	they	PER	PRON
+MENTION	T249	46	51	46	51	their	PER	PRON
+MENTION	T250	49	5	49	5	she	PER	PRON
+MENTION	T251	49	18	49	18	their	PER	PRON
+MENTION	T252	51	1	51	1	she	PER	PRON
+MENTION	T253	53	0	53	0	He	PER	PRON
+MENTION	T254	53	9	53	9	he	PER	PRON
+MENTION	T255	53	15	53	15	he	PER	PRON
+MENTION	T256	53	36	53	36	he	PER	PRON
+MENTION	T257	54	0	54	0	He	PER	PRON
+MENTION	T258	55	18	55	18	their	PER	PRON
+MENTION	T259	56	0	56	0	She	PER	PRON
+MENTION	T260	56	2	56	2	herself	PER	PRON
+MENTION	T261	57	0	57	0	She	PER	PRON
+MENTION	T262	57	2	57	2	her	PER	PRON
+MENTION	T263	57	5	57	5	her	PER	PRON
+MENTION	T264	57	8	57	8	her	PER	PRON
+MENTION	T265	57	15	57	15	her	PER	PRON
+MENTION	T266	58	31	58	31	her	PER	PRON
+MENTION	T267	58	33	58	33	they	PER	PRON
+MENTION	T268	58	53	58	53	me	PER	PRON
+MENTION	T269	59	0	59	0	They	PER	PRON
+MENTION	T270	60	0	60	0	They	PER	PRON
+MENTION	T271	60	11	60	11	I	PER	PRON
+MENTION	T272	61	6	61	6	them	PER	PRON
+MENTION	T273	62	1	62	1	I	PER	PRON
+MENTION	T274	63	2	63	2	you	PER	PRON
+MENTION	T275	63	14	63	14	they	PER	PRON
+MENTION	T276	64	1	64	1	You	PER	PRON
+MENTION	T277	65	0	65	0	I	PER	PRON
+MENTION	T278	67	0	67	0	Her	PER	PRON
+MENTION	T279	68	4	68	4	her	PER	PRON
+MENTION	T280	69	0	69	0	He	PER	PRON
+MENTION	T281	69	2	69	2	his	PER	PRON
+MENTION	T282	69	7	69	7	his	PER	PRON
+MENTION	T283	69	10	69	10	he	PER	PRON
+MENTION	T285	69	15	69	15	he	PER	PRON
+MENTION	T287	69	23	69	23	his	PER	PRON
+MENTION	T288	69	26	69	26	him	PER	PRON
+MENTION	T289	69	29	69	29	he	PER	PRON
+MENTION	T290	69	33	69	33	I	PER	PRON
+MENTION	T291	70	0	70	0	You	PER	PRON
+MENTION	T292	71	10	71	10	you	PER	PRON
+MENTION	T293	72	6	72	6	you	PER	PRON
+MENTION	T294	72	14	72	14	you	PER	PRON
+MENTION	T295	72	18	72	18	you	PER	PRON
+MENTION	T296	73	0	73	0	You	PER	PRON
+MENTION	T297	73	3	73	3	his	PER	PRON
+MENTION	T298	74	0	74	0	I	PER	PRON
+MENTION	T299	75	0	75	0	I	PER	PRON
+MENTION	T300	75	2	75	2	I	PER	PRON
+MENTION	T301	76	0	76	0	I	PER	PRON
+MENTION	T302	77	0	77	0	You	PER	PRON
+MENTION	T303	78	1	78	1	him	PER	PRON
+MENTION	T304	78	6	78	6	YOU	PER	PRON
+MENTION	T305	79	0	79	0	His	PER	PRON
+MENTION	T306	79	5	79	5	his	PER	PRON
+MENTION	T307	79	11	79	11	her	PER	PRON
+MENTION	T308	79	14	79	14	him	PER	PRON
+MENTION	T309	80	0	80	0	She	PER	PRON
+MENTION	T310	80	6	80	6	his	PER	PRON
+MENTION	T311	81	0	81	0	She	PER	PRON
+MENTION	T312	81	15	81	15	them	PER	PRON
+MENTION	T313	82	0	82	0	She	PER	PRON
+MENTION	T314	84	0	84	0	He	PER	PRON
+MENTION	T315	84	9	84	9	he	PER	PRON
+MENTION	T316	85	0	85	0	She	PER	PRON
+MENTION	T317	86	6	86	6	her	PER	PRON
+MENTION	T318	88	0	88	0	She	PER	PRON
+MENTION	T319	88	12	88	12	she	PER	PRON
+MENTION	T320	88	16	88	16	her	PER	PRON
+MENTION	T321	89	0	89	0	She	PER	PRON
+MENTION	T322	89	8	89	8	her	PER	PRON
+MENTION	T323	89	12	89	12	her	PER	PRON
+MENTION	T324	89	20	89	20	her	PER	PRON
+MENTION	T325	89	24	89	24	her	PER	PRON
+MENTION	T326	90	0	90	0	She	PER	PRON
+MENTION	T327	90	6	90	6	she	PER	PRON
+MENTION	T328	91	1	91	1	her	PER	PRON
+MENTION	T329	94	0	94	0	She	PER	PRON
+MENTION	T330	95	10	95	10	she	PER	PRON
+MENTION	T331	96	1	96	1	she	PER	PRON
+MENTION	T332	97	0	97	0	She	PER	PRON
+MENTION	T333	98	0	98	0	She	PER	PRON
+MENTION	T334	98	12	98	12	her	PER	PRON
+MENTION	T335	99	0	99	0	She	PER	PRON
+MENTION	T336	99	7	99	7	I	PER	PRON
+MENTION	T337	100	0	100	0	I	PER	PRON
+MENTION	T338	100	3	100	3	my	PER	PRON
+MENTION	T339	102	0	102	0	I	PER	PRON
+MENTION	T340	102	2	102	2	I	PER	PRON
+MENTION	T341	102	12	102	12	I	PER	PRON
+MENTION	T342	103	0	103	0	I	PER	PRON
+MENTION	T343	104	2	104	2	they	PER	PRON
+MENTION	T344	106	0	106	0	I	PER	PRON
+MENTION	T345	13	0	13	1	Pious families	PER	NOM
+MENTION	T346	55	15	55	16	the others	PER	NOM
+COREF	T96	a_hill_by_the_Mississippi_where_Chippewas_camped_two_generations_ago-0
+COREF	T1	the_Mississippi-1
+COREF	T2	Chippewas-2
+COREF	T0	Carol_Milford-3
+COREF	T174	Carol_Milford-3
+COREF	T5	no_Indians-4
+COREF	T175	Carol_Milford-3
+COREF	T97	flour-mills-5
+COREF	T98	skyscrapers_in_Minneapolis_and_St__Paul-6
+COREF	T4	Minneapolis-7
+COREF	T3	St__Paul-8
+COREF	T176	Carol_Milford-3
+COREF	T6	squaws-9
+COREF	T99	the_Yankee_fur-traders_whose_shadows_were_all_about_her-10
+COREF	T177	Carol_Milford-3
+COREF	T178	Carol_Milford-3
+COREF	T100	Brieux-11
+COREF	T8	heels-12
+COREF	T7	the_chemistry_instructor-13
+COREF	T179	Carol_Milford-3
+COREF	T101	wheat-lands-14
+COREF	T180	Carol_Milford-3
+COREF	T10	a_chance_watcher-15
+COREF	T9	the_lower_road-16
+COREF	T181	Carol_Milford-3
+COREF	T182	Carol_Milford-3
+COREF	T183	Carol_Milford-3
+COREF	T184	Carol_Milford-3
+COREF	T185	Carol_Milford-3
+COREF	T103	Carol_Milford-3
+COREF	T102	a_hill_by_the_Mississippi_where_Chippewas_camped_two_generations_ago-0
+COREF	T186	Carol_Milford-3
+COREF	T104	Carol_Milford-3
+COREF	T105	Blodgett_College-17
+COREF	T13	lassies_in_sunbonnets-18
+COREF	T11	Camelot-19
+COREF	T12	Carol_Milford-3
+COREF	T106	the_American_Middlewest-20
+COREF	T107	Blodgett_College-17
+COREF	T14	Minneapolis-7
+COREF	T15	Voltaire-21
+COREF	T108	Darwin-22
+COREF	T16	Robert_Ingersoll-23
+COREF	T109	Minnesota-24
+COREF	T110	Iowa-25
+COREF	T111	Wisconsin-26
+COREF	T17	the_Dakotas-27
+COREF	T345	Pious_families-28
+COREF	T19	their_children-29
+COREF	T187	Pious_families-28
+COREF	T112	Blodgett_College-17
+COREF	T18	Blodgett_College-17
+COREF	T188	their_children-29
+COREF	T113	the_universities-30
+COREF	T21	friendly_girls-31
+COREF	T22	young_men_who_sing-32
+COREF	T23	one_lady_instructress_who_really_likes_Milton_and_Carlyle-33
+COREF	T20	Milton-34
+COREF	T25	Carlyle-35
+COREF	T24	Carol_Milford-3
+COREF	T26	Blodgett_College-17
+COREF	T114	Blodgett_College-17
+COREF	T27	rivals-36
+COREF	T189	Carol_Milford-3
+COREF	T190	Carol_Milford-3
+COREF	T191	Carol_Milford-3
+COREF	T192	Carol_Milford-3
+COREF	T30	two_or_three_prettier_girls-37
+COREF	T193	Carol_Milford-3
+COREF	T31	the_three_hundred_students_of_Blodgett-38
+COREF	T28	Blodgett_College-17
+COREF	T194	Carol_Milford-3
+COREF	T34	The_other_girls_in_her_dormitory-39
+COREF	T29	her_dormitory-40
+COREF	T195	Carol_Milford-3
+COREF	T196	Carol_Milford-3
+COREF	T197	The_other_girls_in_her_dormitory-39
+COREF	T198	Carol_Milford-3
+COREF	T199	Carol_Milford-3
+COREF	T200	The_other_girls_in_her_dormitory-39
+COREF	T35	The_other_girls_in_her_dormitory-39
+COREF	T201	Carol_Milford-3
+COREF	T202	Carol_Milford-3
+COREF	T203	Carol_Milford-3
+COREF	T36	the_hulking_young_women_who___with_calves_bulging_in_heavy-ribbed_woolen_stockings_beneath_decorous_blue_serge_bloomers___thuddingly_galloped_across_the_floor_of_the___gym___in_practise_for_the_Blodgett_Ladies___Basket-Ball_Team-41
+COREF	T115	the___gym__-42
+COREF	T33	the_Blodgett_Ladies___Basket-Ball_Team-43
+COREF	T204	Carol_Milford-3
+COREF	T205	Carol_Milford-3
+COREF	T206	Carol_Milford-3
+COREF	T37	the_world-44
+COREF	T207	Carol_Milford-3
+COREF	T208	Carol_Milford-3
+COREF	T209	Carol_Milford-3
+COREF	T210	Carol_Milford-3
+COREF	T116	Carol_Milford-3
+COREF	T117	Carol__s_acquaintances-45
+COREF	T211	Carol_Milford-3
+COREF	T212	Carol_Milford-3
+COREF	T213	Carol_Milford-3
+COREF	T214	Carol_Milford-3
+COREF	T215	Carol_Milford-3
+COREF	T216	Carol_Milford-3
+COREF	T217	Carol_Milford-3
+COREF	T218	Carol_Milford-3
+COREF	T219	Carol_Milford-3
+COREF	T220	Carol_Milford-3
+COREF	T221	Carol_Milford-3
+COREF	T222	Carol_Milford-3
+COREF	T223	Carol_Milford-3
+COREF	T119	the_Student_Volunteers___who_intended_to_become_missionaries-46
+COREF	T38	missionaries-47
+COREF	T224	Carol_Milford-3
+COREF	T225	Carol_Milford-3
+COREF	T120	chapel-48
+COREF	T226	Carol_Milford-3
+COREF	T227	Carol_Milford-3
+COREF	T228	Carol_Milford-3
+COREF	T229	Carol_Milford-3
+COREF	T39	Every_man-49
+COREF	T121	Carol_Milford-3
+COREF	T230	Carol_Milford-3
+COREF	T231	Carol_Milford-3
+COREF	T43	library-50
+COREF	T41	the_hall_of_the_Main_Building-51
+COREF	T40	the_Main_Building-52
+COREF	T42	the_co-eds-53
+COREF	T232	the_co-eds-53
+COREF	T233	the_co-eds-53
+COREF	T122	college-54
+COREF	T123	the_girls_who_knew_that_they_were_going_to_be_married-55
+COREF	T234	the_girls_who_knew_that_they_were_going_to_be_married-55
+COREF	T235	they-56
+COREF	T236	they-56
+COREF	T44	fabulous_suitors-57
+COREF	T46	Carol_Milford-3
+COREF	T237	Carol_Milford-3
+COREF	T126	her_only_near_relative-58
+COREF	T238	Carol_Milford-3
+COREF	T45	an_optician_in_St__Paul-59
+COREF	T47	St__Paul-8
+COREF	T239	Carol_Milford-3
+COREF	T127	her_father-60
+COREF	T240	Carol_Milford-3
+COREF	T241	Carol_Milford-3
+COREF	T242	Carol_Milford-3
+COREF	T243	Carol_Milford-3
+COREF	T244	Carol_Milford-3
+COREF	T245	Carol_Milford-3
+COREF	T48	the_world-61
+COREF	T49	the_world-61
+COREF	T246	Carol_Milford-3
+COREF	T129	Most_of_the_girls_who_were_not_betrothed-62
+COREF	T128	the_girls_who_were_not_betrothed-63
+COREF	T50	teachers-64
+COREF	T131	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65
+COREF	T247	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65
+COREF	T130	beastly_classroom-66
+COREF	T52	grubby_children-67
+COREF	T248	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65
+COREF	T132	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68
+COREF	T51	God-69
+COREF	T249	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68
+COREF	T133	Carol_Milford-3
+COREF	T54	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68
+COREF	T250	Carol_Milford-3
+COREF	T251	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68
+COREF	T55	Caesar-70
+COREF	T53	Carol_Milford-3
+COREF	T56	an_unidentified_hero-71
+COREF	T252	Carol_Milford-3
+COREF	T57	The_sociology_instructor-72
+COREF	T253	The_sociology_instructor-72
+COREF	T254	The_sociology_instructor-72
+COREF	T61	Boston-73
+COREF	T255	The_sociology_instructor-72
+COREF	T134	poets-74
+COREF	T62	socialists-75
+COREF	T60	Jews-76
+COREF	T58	millionaire_uplifters-77
+COREF	T135	the_University_Settlement_in_New_York-78
+COREF	T59	New_York-79
+COREF	T256	The_sociology_instructor-72
+COREF	T257	The_sociology_instructor-72
+COREF	T136	the_prisons-80
+COREF	T137	the_charity_bureaus-81
+COREF	T138	the_employment_agencies_of_Minneapolis_and_St__Paul-82
+COREF	T64	Minneapolis-7
+COREF	T63	St__Paul-8
+COREF	T139	Carol_Milford-3
+COREF	T346	the_others-83
+COREF	T258	the_others-83
+COREF	T140	the_poor-84
+COREF	T141	a_Zoo-85
+COREF	T259	Carol_Milford-3
+COREF	T260	Carol_Milford-3
+COREF	T65	a_great_liberator-86
+COREF	T261	Carol_Milford-3
+COREF	T262	Carol_Milford-3
+COREF	T263	Carol_Milford-3
+COREF	T264	Carol_Milford-3
+COREF	T265	Carol_Milford-3
+COREF	T142	Stewart_Snyder-87
+COREF	T67	Stewart_Snyder-87
+COREF	T266	Carol_Milford-3
+COREF	T267	they-88
+COREF	T144	the_South_St__Paul_stockyards-89
+COREF	T66	These_college_chumps-90
+COREF	T268	Stewart_Snyder-87
+COREF	T269	These_college_chumps-90
+COREF	T270	These_college_chumps-90
+COREF	T68	the_farm-91
+COREF	T271	Stewart_Snyder-87
+COREF	T145	These_workmen-92
+COREF	T272	These_college_chumps-90
+COREF	T273	Carol_Milford-3
+COREF	T146	common_workmen-93
+COREF	T147	Carol_Milford-3
+COREF	T274	Carol_Milford-3
+COREF	T148	common_workmen-93
+COREF	T275	common_workmen-93
+COREF	T276	Stewart_Snyder-87
+COREF	T277	Carol_Milford-3
+COREF	T149	Carol_Milford-3
+COREF	T278	Carol_Milford-3
+COREF	T69	the_world-94
+COREF	T70	Stewart_Snyder-87
+COREF	T279	Carol_Milford-3
+COREF	T280	Stewart_Snyder-87
+COREF	T281	Stewart_Snyder-87
+COREF	T282	Stewart_Snyder-87
+COREF	T283	Stewart_Snyder-87
+COREF	T285	Stewart_Snyder-87
+COREF	T287	Stewart_Snyder-87
+COREF	T288	Stewart_Snyder-87
+COREF	T289	Stewart_Snyder-87
+COREF	T290	Stewart_Snyder-87
+COREF	T291	Carol_Milford-3
+COREF	T169	people-95
+COREF	T152	Most_of_these_darn_co-eds-96
+COREF	T151	these_darn_co-eds-97
+COREF	T150	Carol_Milford-3
+COREF	T292	Carol_Milford-3
+COREF	T153	people-98
+COREF	T293	Carol_Milford-3
+COREF	T294	Carol_Milford-3
+COREF	T295	Carol_Milford-3
+COREF	T71	a_lawyer__s_wife-99
+COREF	T154	a_lawyer-100
+COREF	T296	Carol_Milford-3
+COREF	T72	his_clients-101
+COREF	T297	a_lawyer-100
+COREF	T298	Stewart_Snyder-87
+COREF	T73	a_lawyer-102
+COREF	T299	Stewart_Snyder-87
+COREF	T300	Stewart_Snyder-87
+COREF	T301	Stewart_Snyder-87
+COREF	T168	people-103
+COREF	T302	Carol_Milford-3
+COREF	T74	a_fellow_that_was_too_serious-104
+COREF	T303	a_fellow_that_was_too_serious-104
+COREF	T304	Carol_Milford-3
+COREF	T305	Stewart_Snyder-87
+COREF	T306	Stewart_Snyder-87
+COREF	T307	Carol_Milford-3
+COREF	T308	Stewart_Snyder-87
+COREF	T309	Carol_Milford-3
+COREF	T310	Stewart_Snyder-87
+COREF	T311	Carol_Milford-3
+COREF	T312	them-105
+COREF	T313	Carol_Milford-3
+COREF	T75	Stewart_Snyder-87
+COREF	T314	Stewart_Snyder-87
+COREF	T315	Stewart_Snyder-87
+COREF	T76	celebrated_reformers-106
+COREF	T316	Carol_Milford-3
+COREF	T156	a_cell_in_a_settlement-house-107
+COREF	T155	a_settlement-house-108
+COREF	T78	a_nun-109
+COREF	T77	Bernard_Shaw-110
+COREF	T157	a_horde_of_grateful_poor-111
+COREF	T317	Carol_Milford-3
+COREF	T80	town-112
+COREF	T79	girls-113
+COREF	T158	girls___clubs-114
+COREF	T159	France-115
+COREF	T81	New_England-116
+COREF	T82	Pennsylvania-117
+COREF	T318	Carol_Milford-3
+COREF	T319	Carol_Milford-3
+COREF	T320	Carol_Milford-3
+COREF	T321	Carol_Milford-3
+COREF	T322	Carol_Milford-3
+COREF	T323	Carol_Milford-3
+COREF	T324	Carol_Milford-3
+COREF	T325	Carol_Milford-3
+COREF	T326	Carol_Milford-3
+COREF	T327	Carol_Milford-3
+COREF	T328	Carol_Milford-3
+COREF	T83	a_Blodgett_College_room-118
+COREF	T160	Blodgett_College-17
+COREF	T84	girls-119
+COREF	T161	the_Coliseum-120
+COREF	T162	Carol_Milford-3
+COREF	T85	a_Blodgett_College_room-118
+COREF	T329	Carol_Milford-3
+COREF	T86	girl_students-121
+COREF	T330	Carol_Milford-3
+COREF	T331	Carol_Milford-3
+COREF	T332	Carol_Milford-3
+COREF	T333	Carol_Milford-3
+COREF	T334	Carol_Milford-3
+COREF	T335	Carol_Milford-3
+COREF	T336	Carol_Milford-3
+COREF	T337	Carol_Milford-3
+COREF	T338	Carol_Milford-3
+COREF	T87	one_of_these_prairie_towns-122
+COREF	T339	Carol_Milford-3
+COREF	T340	Carol_Milford-3
+COREF	T89	a_teacher-123
+COREF	T341	Carol_Milford-3
+COREF	T88	a_teacher-124
+COREF	T342	Carol_Milford-3
+COREF	T343	they-125
+COREF	T91	all_the_garden_suburbs_on_Long_Island-126
+COREF	T90	Long_Island-127
+COREF	T170	Nobody-128
+COREF	T164	the_ugly_towns_here_in_the_Northwest-129
+COREF	T171	here-130
+COREF	T92	here-130
+COREF	T163	libraries-131
+COREF	T344	Carol_Milford-3
+COREF	T94	a_village_green-132
+COREF	T95	darling_cottages-133
+COREF	T93	a_quaint_Main_Street-134
+COP	T124	T237
+COP	T125	T126
+APPOS	T143	T67
+MENTION	T716	100	13	100	13	it	GPE	PRON
+COREF	T716	one_of_these_prairie_towns-122
+COREF	T32	Carol_Milford-3
+COREF	T118	Carol_Milford-3
+MENTION	T167	18	12	18	14	none more eager	PER	NOM
+COREF	T167	none_more_eager-700

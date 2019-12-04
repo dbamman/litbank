@@ -1,0 +1,668 @@
+T1	NOM_GPE 62 88	the little town of Hanover
+T2	PROP_GPE 111 119	Nebraska
+T3	NOM_FAC 237 255	low drab buildings
+T5	NOM_GPE 792 800	the town
+T6	NOM_FAC 639 654	The main street
+T7	NOM_FAC 715 744	the squat red railway station
+T8	NOM_FAC 804 819	the lumber yard
+T9	NOM_FAC 1000 1014	the feed store
+T10	NOM_FAC 983 997	the drug store
+T11	NOM_FAC 915 931	wooden buildings
+T12	NOM_FAC 876 885	this road
+T13	NOM_PER 1135 1150	the shopkeepers
+T14	NOM_PER 1232 1244	The children
+T15	NOM_FAC 1297 1308	the streets
+T16	NOM_FAC 1518 1527	one store
+T18	NOM_GPE 1456 1460	town
+T19	NOM_PER 1441 1452	their wives
+T21	NOM_FAC 1582 1592	the street
+T24	NOM_FAC 1776 1788	the sidewalk
+T25	NOM_PER 1823 1841	a little Swede boy
+T27	NOM_PER 1961 1977	a little old man
+T28	NOM_FAC 2382 2391	the store
+T29	NOM_PER 2724 2734	his sister
+T30	NOM_PER 2683 2690	The boy
+T31	NOM_FAC 2743 2763	the doctor 's office
+T32	NOM_FAC 2708 2717	the store
+T33	NOM_PER 2916 2926	Her master
+T34	NOM_GPE 2983 2995	this village
+T35	NOM_PER 2956 2976	a little country boy
+T36	NOM_PER 3301 3311	his sister
+T37	NOM_PER 3394 3414	a tall , strong girl
+T38	NOM_PER 3379 3389	His sister
+T39	NOM_PER 3675 3690	a young soldier
+T40	NOM_PER 3937 3951	the little boy
+T41	NOM_FAC 4086 4095	the store
+T43	NOM_PER 4185 4190	A man
+T45	NOM_GPE 4814 4818	town
+T48	NOM_FAC 4985 4994	the store
+T50	NOM_PER 5558 5562	girl
+T51	NOM_FAC 5836 5848	the sidewalk
+T52	NOM_PER 5756 5783	the little clothing drummer
+T53	NOM_PER 5966 5979	the bartender
+T54	NOM_PER 6146 6155	a drummer
+T55	NOM_PER 6369 6374	a man
+T56	PROP_PER 6507 6520	Carl Linstrum
+T57	NOM_FAC 6459 6473	the drug store
+T58	NOM_PER 6383 6401	the little drummer
+T59	PROP_GPE 6616 6623	Hanover
+T60	NOM_PER 6612 6652	the Hanover women who did china-painting
+T61	PROP_PER 6740 6744	Emil
+T62	NOM_PER 6697 6704	the boy
+T65	PROP_PER 7106 7115	Alexandra
+T66	NOM_FAC 7178 7192	the drug store
+T67	NOM_PER 7569 7594	her tearful little master
+T69	NOM_PER 7679 7688	the child
+T70	NOM_PER 7820 7830	the doctor
+T71	NOM_PER 7885 7891	father
+T72	NOM_FAC 7981 7997	the bleak street
+T74	NOM_PER 8573 8588	The two friends
+T75	PROP_PER 8770 8774	Carl
+T76	NOM_FAC 8846 8855	the store
+T77	NOM_PER 9289 9299	her mother
+T78	PROP_PER 9321 9332	Joe Tovesky
+T79	NOM_PER 9309 9318	her uncle
+T82	PROP_GPE 9603 9611	Colorado
+T83	NOM_LOC 9 22	The Wild Land
+T84	NOM_LOC 267 283	the gray prairie
+T85	NOM_FAC 305 324	The dwelling-houses
+T4	NOM_LOC 514 528	the open plain
+T86	NOM_FAC 659 855	a deeply rutted road , now frozen hard , which ran from the squat red railway station and the grain “ elevator ” at the north end of the town to the lumber yard and the horse pond at the south end
+T87	NOM_FAC 749 771	the grain “ elevator ”
+T88	NOM_LOC 775 800	the north end of the town
+T89	NOM_LOC 824 838	the horse pond
+T90	NOM_LOC 842 855	the south end
+T91	NOM_FAC 934 964	the general merchandise stores
+T92	NOM_FAC 967 980	the two banks
+T93	NOM_FAC 1017 1027	the saloon
+T94	NOM_FAC 1030 1045	the post-office
+T95	NOM_FAC 1048 1067	The board sidewalks
+T96	NOM_FAC 1257 1263	school
+T97	NOM_PER 1313 1363	a few rough-looking countrymen in coarse overcoats
+T17	NOM_FAC 1548 1555	another
+T20	NOM_VEH 1632 1643	farm wagons
+T22	NOM_FAC 1684 1695	the station
+T23	NOM_VEH 1742 1755	another train
+T98	NOM_FAC 1808 1818	the stores
+T26	NOM_PER 2281 2310	the few people who hurried by
+T99	NOM_PER 2354 2361	any one
+T100	NOM_PER 3545 3550	a man
+T101	PROP_PER 4057 4061	Emil
+T42	NOM_PER 4164 4170	sister
+T102	PROP_PER 4361 4365	Emil
+T103	PROP_PER 4679 4688	Alexandra
+T46	NOM_VEH 4789 4810	the Linstrums ' wagon
+T104	PROP_PER 4852 4856	Carl
+T47	NOM_FAC 5186 5195	the store
+T49	NOM_FAC 5210 5220	the saloon
+T105	NOM_PER 5122 5220	A shabby little traveling man , who was just then coming out of the store on his way to the saloon
+T106	NOM_PER 5549 5555	My God
+T107	NOM_FAC 5897 5907	the saloon
+T108	NOM_GPE 6183 6200	little drab towns
+T109	NOM_LOC 6221 6239	the wintry country
+T110	NOM_VEH 6243 6261	dirty smoking-cars
+T111	PROP_PER 6438 6447	Alexandra
+T112	NOM_PER 6591 6603	the druggist
+T113	PROP_PER 6655 6664	Alexandra
+T114	PROP_PER 6803 6812	Alexandra
+T115	NOM_FAC 6826 6835	the depot
+T116	PROP_PER 6901 6905	Carl
+T63	NOM_FAC 6975 6985	the street
+T64	NOM_PER 7018 7067	a tall boy of fifteen , slight and narrow-chested
+T117	PROP_PER 7251 7255	Emil
+T118	PROP_PER 7300 7309	Alexandra
+T119	NOM_LOC 7364 7374	the ground
+T120	PROP_PER 7414 7418	Carl
+T121	NOM_LOC 7535 7545	the ground
+T68	NOM_FAC 7611 7620	the store
+T122	PROP_PER 7632 7636	Emil
+T123	PROP_PER 7709 7718	Alexandra
+T124	NOM_PER 7932 7940	The girl
+T125	PROP_PER 8245 8249	Carl
+T126	NOM_PER 8332 8376	a thin , frail boy , with brooding dark eyes
+T127	NOM_PER 8496 8501	a boy
+T73	NOM_FAC 8616 8639	the windy street corner
+T128	NOM_PER 8667 8762	two travelers , who have lost their way , sometimes stand and admit their perplexity in silence
+T129	PROP_PER 8826 8835	Alexandra
+T130	PROP_PER 8984 8988	Emil
+T131	NOM_FAC 9026 9089	the staircase that led up to the clothing and carpet department
+T132	NOM_PER 9112 9134	a little Bohemian girl
+T133	PROP_PER 9137 9150	Marie Tovesky
+T134	PROP_PER 9223 9228	Marie
+T80	PROP_GPE 9278 9283	Omaha
+T135	NOM_PER 9343 9466	a dark child , with brown curly hair , like a brunette doll 's , a coaxing little red mouth , and round , yellow-brown eyes
+T81	NOM_LOC 103 129	a windy Nebraska tableland
+T136	NOM_PER 6310 6331	a fine human creature
+T44	NOM_PER 4789 4802	the Linstrums
+T137	NOM_PER 3051 3057	people
+T138	NOM_LOC 9247 9258	the country
+T139	NOM_PER 9233 9258	a stranger in the country
+T140	NOM_PER 9469 9478	Every one
+T141	NOM_PER 1280 1286	nobody
+T142	NOM_GPE 3129 3133	here
+T143	NOM_FAC 6523 6528	There
+T144	NOM_GPE 3007 3095	a very strange and perplexing place , where people wore fine clothes and had hard hearts
+T145	NOM_FAC 6477 6520	the most likely place to find Carl Linstrum
+T146	NOM_FAC 7758 7767	our place
+T149	PRON_FAC 385 389	them
+T150	PRON_FAC 403 407	they
+T151	PRON_FAC 455 459	they
+T152	PRON_FAC 481 491	themselves
+T153	PRON_FAC 539 543	them
+T154	PRON_FAC 611 615	them
+T155	PRON_FAC 632 636	them
+T156	PRON_PER 1209 1214	their
+T157	PRON_PER 1371 1376	their
+T158	PRON_PER 1402 1407	their
+T159	PRON_PER 1424 1428	them
+T160	PRON_PER 1441 1446	their
+T162	PRON_PER 1862 1864	He
+T163	PRON_PER 1892 1895	His
+T164	PRON_PER 1934 1937	him
+T165	PRON_PER 1947 1950	him
+T166	PRON_PER 1980 1983	His
+T167	PRON_PER 2095 2098	his
+T168	PRON_PER 2121 2124	his
+T169	PRON_PER 2154 2157	His
+T170	PRON_PER 2183 2186	his
+T171	PRON_PER 2194 2197	his
+T172	PRON_PER 2207 2210	his
+T173	PRON_PER 2258 2260	He
+T174	PRON_PER 2326 2329	him
+T175	PRON_PER 2332 2334	He
+T176	PRON_PER 2414 2416	he
+T177	PRON_PER 2430 2433	his
+T178	PRON_PER 2486 2489	him
+T179	PRON_PER 2507 2509	My
+T180	PRON_PER 2524 2526	my
+T183	PRON_PER 2724 2727	his
+T184	PRON_PER 2773 2776	her
+T185	PRON_PER 2802 2805	his
+T188	PRON_PER 2949 2951	He
+T189	PRON_PER 3003 3006	him
+T190	PRON_PER 3098 3100	He
+T191	PRON_PER 3202 3205	him
+T192	PRON_PER 3219 3221	he
+T193	PRON_PER 3268 3270	he
+T194	PRON_PER 3301 3304	his
+T195	PRON_PER 3329 3331	he
+T196	PRON_PER 3354 3357	her
+T197	PRON_PER 3361 3364	his
+T198	PRON_PER 3379 3382	His
+T199	PRON_PER 3421 3424	she
+T200	PRON_PER 3463 3466	she
+T201	PRON_PER 3486 3489	she
+T202	PRON_PER 3509 3512	she
+T203	PRON_PER 3536 3539	She
+T204	PRON_PER 3653 3656	her
+T205	PRON_PER 3749 3752	She
+T206	PRON_PER 3791 3794	her
+T207	PRON_PER 3896 3899	she
+T208	PRON_PER 3918 3921	She
+T209	PRON_PER 3958 3960	he
+T210	PRON_PER 3968 3971	her
+T211	PRON_PER 3991 3994	she
+T212	PRON_PER 4034 4037	his
+T213	PRON_PER 4064 4065	I
+T214	PRON_PER 4071 4074	you
+T215	PRON_PER 4142 4145	you
+T216	PRON_PER 4152 4154	My
+T217	PRON_PER 4173 4175	my
+T220	PRON_PER 4239 4242	His
+T221	PRON_PER 4286 4289	his
+T222	PRON_PER 4376 4377	I
+T223	PRON_PER 4383 4386	you
+T225	PRON_PER 4398 4400	us
+T226	PRON_PER 4432 4435	you
+T228	PRON_PER 4460 4463	you
+T229	PRON_PER 4470 4472	me
+T230	PRON_PER 4490 4491	I
+T231	PRON_PER 4519 4525	myself
+T232	PRON_PER 4530 4533	She
+T233	PRON_PER 4576 4579	her
+T236	PRON_PER 4783 4784	I
+T237	PRON_PER 4821 4822	I
+T238	PRON_PER 4841 4842	I
+T239	PRON_PER 4865 4867	he
+T240	PRON_PER 4892 4895	you
+T241	PRON_PER 4918 4919	I
+T242	PRON_PER 4948 4952	your
+T243	PRON_PER 4969 4972	you
+T244	PRON_PER 5028 5029	I
+T245	PRON_PER 5042 5045	you
+T246	PRON_PER 5050 5053	She
+T247	PRON_PER 5082 5085	her
+T248	PRON_PER 5109 5112	his
+T249	PRON_PER 5199 5202	his
+T250	PRON_PER 5278 5281	she
+T251	PRON_PER 5293 5296	she
+T252	PRON_PER 5306 5309	her
+T253	PRON_PER 5349 5352	her
+T254	PRON_PER 5439 5442	her
+T255	PRON_PER 5449 5451	He
+T256	PRON_PER 5457 5460	his
+T257	PRON_PER 5474 5477	his
+T258	PRON_PER 5528 5531	his
+T259	PRON_PER 5549 5551	My
+T260	PRON_PER 5589 5591	he
+T261	PRON_PER 5637 5640	She
+T262	PRON_PER 5649 5652	him
+T263	PRON_PER 5703 5706	her
+T264	PRON_PER 5802 5804	he
+T265	PRON_PER 5818 5821	his
+T266	PRON_PER 5910 5913	His
+T267	PRON_PER 5943 5945	he
+T268	PRON_PER 5951 5954	his
+T269	PRON_PER 5982 5985	His
+T270	PRON_PER 6068 6070	He
+T271	PRON_PER 6135 6138	him
+T272	PRON_PER 6268 6270	he
+T273	PRON_PER 6294 6296	he
+T274	PRON_PER 6334 6336	he
+T275	PRON_PER 6353 6360	himself
+T276	PRON_PER 6426 6429	his
+T277	PRON_PER 6529 6531	he
+T278	PRON_PER 6675 6678	her
+T279	PRON_PER 6714 6717	her
+T280	PRON_PER 6771 6772	I
+T282	PRON_PER 6815 6816	I
+T283	PRON_PER 6836 6840	they
+T284	PRON_PER 6858 6859	I
+T285	PRON_PER 6873 6875	my
+T286	PRON_PER 6913 6916	his
+T287	PRON_PER 6928 6931	his
+T288	PRON_PER 6950 6953	his
+T289	PRON_PER 7011 7013	He
+T290	PRON_PER 7075 7077	he
+T291	PRON_PER 7122 7125	him
+T292	PRON_PER 7131 7133	he
+T293	PRON_PER 7148 7151	his
+T294	PRON_PER 7165 7166	I
+T295	PRON_PER 7195 7196	I
+T296	PRON_PER 7236 7238	me
+T297	PRON_PER 7242 7243	I
+T298	PRON_PER 7260 7262	he
+T299	PRON_PER 7278 7280	he
+T300	PRON_PER 7287 7290	his
+T301	PRON_PER 7318 7321	him
+T304	PRON_PER 7524 7526	he
+T305	PRON_PER 7548 7550	he
+T308	PRON_PER 7656 7658	He
+T309	PRON_PER 7732 7733	I
+T310	PRON_PER 7744 7747	you
+T311	PRON_PER 7758 7761	our
+T312	PRON_PER 7811 7814	you
+T313	PRON_PER 7843 7845	He
+T314	PRON_PER 7877 7879	he
+T315	PRON_PER 7959 7962	She
+T316	PRON_PER 8004 8007	she
+T317	PRON_PER 8023 8026	her
+T318	PRON_PER 8062 8065	she
+T319	PRON_PER 8087 8090	her
+T320	PRON_PER 8218 8221	her
+T321	PRON_PER 8239 8242	her
+T322	PRON_PER 8277 8280	she
+T323	PRON_PER 8286 8289	his
+T324	PRON_PER 8301 8303	He
+T325	PRON_PER 8325 8327	He
+T326	PRON_PER 8397 8400	his
+T327	PRON_PER 8444 8447	his
+T328	PRON_PER 8464 8467	his
+T329	PRON_PER 8697 8702	their
+T330	PRON_PER 8735 8740	their
+T331	PRON_PER 8787 8789	he
+T332	PRON_PER 8799 8800	I
+T333	PRON_PER 8812 8816	your
+T334	PRON_PER 8864 8867	her
+T335	PRON_PER 8927 8930	she
+T336	PRON_PER 8942 8945	her
+T337	PRON_PER 8969 8972	she
+T338	PRON_PER 8991 8994	she
+T339	PRON_PER 9001 9004	him
+T340	PRON_PER 9092 9094	He
+T341	PRON_PER 9167 9170	her
+T342	PRON_PER 9289 9292	her
+T343	PRON_PER 9309 9312	her
+T344	PRON_PER 9335 9338	She
+T345	PRON_PER 9487 9490	her
+T430	The_Wild_Land-0 9 22	The Wild Land
+T348	the_little_town_of_Hanover-1 62 88	the little town of Hanover
+T428	a_windy_Nebraska_tableland-2 103 129	a windy Nebraska tableland
+T349	Nebraska-3 111 119	Nebraska
+T350	low_drab_buildings-4 237 255	low drab buildings
+T431	the_gray_prairie-5 267 283	the gray prairie
+T432	The_dwelling-houses-6 305 324	The dwelling-houses
+T496	The_dwelling-houses-6 385 389	them
+T497	some_of_them-702 403 407	they
+T498	others-950 455 459	they
+T499	others-950 481 491	themselves
+T351	the_open_plain-7 514 528	the open plain
+T500	The_dwelling-houses-6 539 543	them
+T501	The_dwelling-houses-6 611 615	them
+T502	The_dwelling-houses-6 632 636	them
+T353	The_main_street-8 639 654	The main street
+T354	train_station-9 715 744	the squat red railway station
+T434	the_grain___elevator__-10 749 771	the grain “ elevator ”
+T435	the_north_end_of_the_town-11 775 800	the north end of the town
+T352	the_little_town_of_Hanover-1 792 800	the town
+T355	the_lumber_yard-12 804 819	the lumber yard
+T436	the_horse_pond-13 824 838	the horse pond
+T437	the_south_end-14 842 855	the south end
+T359	The_main_street-8 876 885	this road
+T358	wooden_buildings-15 915 931	wooden buildings
+T438	all_stores-16 934 964	the general merchandise stores
+T439	the_two_banks-17 967 980	the two banks
+T357	the_drug_store-18 983 997	the drug store
+T356	the_feed_store-19 1000 1014	the feed store
+T440	the_saloon-20 1017 1027	the saloon
+T441	the_post-office-21 1030 1045	the post-office
+T442	The_board_sidewalks-22 1048 1067	The board sidewalks
+T360	the_shopkeepers-23 1135 1150	the shopkeepers
+T503	the_shopkeepers-23 1209 1214	their
+T361	The_children-24 1232 1244	The children
+T443	school-25 1257 1263	school
+T488	nobody-26 1280 1286	nobody
+T362	the_streets-27 1297 1308	the streets
+T444	a_few_rough-looking_countrymen_in_coarse_overcoats-28 1313 1363	a few rough-looking countrymen in coarse overcoats
+T504	a_few_rough-looking_countrymen_in_coarse_overcoats-28 1371 1376	their
+T505	a_few_rough-looking_countrymen_in_coarse_overcoats-28 1402 1407	their
+T506	a_few_rough-looking_countrymen_in_coarse_overcoats-28 1424 1428	them
+T366	their_wives-29 1441 1452	their wives
+T507	a_few_rough-looking_countrymen_in_coarse_overcoats-28 1441 1446	their
+T365	the_little_town_of_Hanover-1 1456 1460	town
+T363	one_store-30 1518 1527	one store
+T364	another-31 1548 1555	another
+T368	The_main_street-8 1582 1592	the street
+T367	farm_wagons-32 1632 1643	farm wagons
+T369	train_station-9 1684 1695	the station
+T370	another_train-33 1742 1755	another train
+T371	the_sidewalk-34 1776 1788	the sidewalk
+T445	all_stores-16 1808 1818	the stores
+T372	a_little_Swede_boy-35 1823 1841	a little Swede boy
+T509	a_little_Swede_boy-35 1862 1864	He
+T510	a_little_Swede_boy-35 1892 1895	His
+T511	a_little_Swede_boy-35 1934 1937	him
+T512	a_little_Swede_boy-35 1947 1950	him
+T513	a_little_Swede_boy-35 1980 1983	His
+T514	a_little_Swede_boy-35 2095 2098	his
+T515	a_little_Swede_boy-35 2121 2124	his
+T516	a_little_Swede_boy-35 2154 2157	His
+T517	a_little_Swede_boy-35 2183 2186	his
+T518	a_little_Swede_boy-35 2194 2197	his
+T519	a_little_Swede_boy-35 2207 2210	his
+T520	a_little_Swede_boy-35 2258 2260	He
+T373	the_few_people_who_hurried_by-36 2281 2310	the few people who hurried by
+T521	a_little_Swede_boy-35 2326 2329	him
+T522	a_little_Swede_boy-35 2332 2334	He
+T446	any_one-37 2354 2361	any one
+T375	the_store-38 2382 2391	the store
+T523	a_little_Swede_boy-35 2414 2416	he
+T524	a_little_Swede_boy-35 2430 2433	his
+T525	a_little_Swede_boy-35 2486 2489	him
+T526	a_little_Swede_boy-35 2507 2509	My
+T527	a_little_Swede_boy-35 2524 2526	my
+T377	a_little_Swede_boy-35 2683 2690	The boy
+T379	the_store-38 2708 2717	the store
+T376	his_sister-39 2724 2734	his sister
+T530	a_little_Swede_boy-35 2724 2727	his
+T378	the_doctor__s_office-40 2743 2763	the doctor 's office
+T531	his_sister-39 2773 2776	her
+T532	a_little_Swede_boy-35 2802 2805	his
+T380	a_little_Swede_boy-35 2916 2926	Her master
+T535	a_little_Swede_boy-35 2949 2951	He
+T381	the_little_town_of_Hanover-1 2983 2995	this village
+T536	a_little_Swede_boy-35 3003 3006	him
+T484	people-41 3051 3057	people
+T537	a_little_Swede_boy-35 3098 3100	He
+T489	the_little_town_of_Hanover-1 3129 3133	here
+T538	a_little_Swede_boy-35 3202 3205	him
+T539	a_little_Swede_boy-35 3219 3221	he
+T540	a_little_Swede_boy-35 3268 3270	he
+T383	his_sister-39 3301 3311	his sister
+T541	a_little_Swede_boy-35 3301 3304	his
+T542	a_little_Swede_boy-35 3329 3331	he
+T543	his_sister-39 3354 3357	her
+T544	a_little_Swede_boy-35 3361 3364	his
+T385	his_sister-39 3379 3389	His sister
+T545	a_little_Swede_boy-35 3379 3382	His
+T546	his_sister-39 3421 3424	she
+T547	his_sister-39 3463 3466	she
+T548	his_sister-39 3486 3489	she
+T549	his_sister-39 3509 3512	she
+T550	his_sister-39 3536 3539	She
+T447	a_man-42 3545 3550	a man
+T551	his_sister-39 3653 3656	her
+T552	his_sister-39 3749 3752	She
+T553	his_sister-39 3791 3794	her
+T554	his_sister-39 3896 3899	she
+T555	his_sister-39 3918 3921	She
+T387	a_little_Swede_boy-35 3937 3951	the little boy
+T556	a_little_Swede_boy-35 3958 3960	he
+T557	his_sister-39 3968 3971	her
+T558	his_sister-39 3991 3994	she
+T559	a_little_Swede_boy-35 4034 4037	his
+T448	a_little_Swede_boy-35 4057 4061	Emil
+T560	his_sister-39 4064 4065	I
+T561	a_little_Swede_boy-35 4071 4074	you
+T388	the_store-38 4086 4095	the store
+T562	a_little_Swede_boy-35 4142 4145	you
+T563	a_little_Swede_boy-35 4152 4154	My
+T389	his_sister-39 4164 4170	sister
+T564	a_little_Swede_boy-35 4173 4175	my
+T390	A_man-43 4185 4190	A man
+T567	a_little_Swede_boy-35 4239 4242	His
+T568	a_little_Swede_boy-35 4286 4289	his
+T449	a_little_Swede_boy-35 4361 4365	Emil
+T569	his_sister-39 4376 4377	I
+T570	a_little_Swede_boy-35 4383 4386	you
+T572	Emil_and_sister-44 4398 4400	us
+T573	a_little_Swede_boy-35 4432 4435	you
+T575	a_little_Swede_boy-35 4460 4463	you
+T576	his_sister-39 4470 4472	me
+T577	his_sister-39 4490 4491	I
+T578	his_sister-39 4519 4525	myself
+T579	his_sister-39 4530 4533	She
+T580	his_sister-39 4576 4579	her
+T450	his_sister-39 4679 4688	Alexandra
+T583	his_sister-39 4783 4784	I
+T393	the_Linstrums___wagon-45 4789 4810	the Linstrums ' wagon
+T391	the_Linstrums-46 4789 4802	the Linstrums
+T392	the_little_town_of_Hanover-1 4814 4818	town
+T584	his_sister-39 4821 4822	I
+T585	his_sister-39 4841 4842	I
+T451	Carl-47 4852 4856	Carl
+T586	Carl-47 4865 4867	he
+T587	a_little_Swede_boy-35 4892 4895	you
+T588	his_sister-39 4918 4919	I
+T589	a_little_Swede_boy-35 4948 4952	your
+T590	a_little_Swede_boy-35 4969 4972	you
+T395	the_store-38 4985 4994	the store
+T591	his_sister-39 5028 5029	I
+T592	a_little_Swede_boy-35 5042 5045	you
+T593	his_sister-39 5050 5053	She
+T594	his_sister-39 5082 5085	her
+T595	a_little_Swede_boy-35 5109 5112	his
+T452	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5122 5220	A shabby little traveling man , who was just then coming out of the store on his way to the saloon
+T394	the_store-38 5186 5195	the store
+T596	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5199 5202	his
+T396	the_saloon-20 5210 5220	the saloon
+T597	his_sister-39 5278 5281	she
+T598	his_sister-39 5293 5296	she
+T599	his_sister-39 5306 5309	her
+T600	his_sister-39 5349 5352	her
+T601	his_sister-39 5439 5442	her
+T602	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5449 5451	He
+T603	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5457 5460	his
+T604	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5474 5477	his
+T605	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5528 5531	his
+T453	My_God-49 5549 5555	My God
+T606	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5549 5551	My
+T397	his_sister-39 5558 5562	girl
+T607	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5589 5591	he
+T608	his_sister-39 5637 5640	She
+T609	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5649 5652	him
+T610	his_sister-39 5703 5706	her
+T399	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5756 5783	the little clothing drummer
+T611	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5802 5804	he
+T612	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5818 5821	his
+T398	the_sidewalk-34 5836 5848	the sidewalk
+T454	the_saloon-20 5897 5907	the saloon
+T613	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5910 5913	His
+T614	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5943 5945	he
+T615	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5951 5954	his
+T400	the_bartender-50 5966 5979	the bartender
+T616	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 5982 5985	His
+T617	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 6068 6070	He
+T618	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 6135 6138	him
+T401	a_drummer-51 6146 6155	a drummer
+T455	little_drab_towns-52 6183 6200	little drab towns
+T456	the_wintry_country-53 6221 6239	the wintry country
+T457	dirty_smoking-cars-54 6243 6261	dirty smoking-cars
+T619	he-55 6268 6270	he
+T620	he-55 6294 6296	he
+T483	a_fine_human_creature-56 6310 6331	a fine human creature
+T621	he-55 6334 6336	he
+T622	he-55 6353 6360	himself
+T402	he-55 6369 6374	a man
+T405	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 6383 6401	the little drummer
+T623	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48 6426 6429	his
+T458	his_sister-39 6438 6447	Alexandra
+T404	the_drug_store-18 6459 6473	the drug store
+T403	Carl-47 6507 6520	Carl Linstrum
+T490	the_drug_store-18 6523 6528	There
+T624	Carl-47 6529 6531	he
+T459	the_druggist-57 6591 6603	the druggist
+T407	the_Hanover_women_who_did_china-painting-58 6612 6652	the Hanover women who did china-painting
+T406	Hanover-59 6616 6623	Hanover
+T460	his_sister-39 6655 6664	Alexandra
+T625	his_sister-39 6675 6678	her
+T409	Carl-47 6697 6704	the boy
+T626	his_sister-39 6714 6717	her
+T408	a_little_Swede_boy-35 6740 6744	Emil
+T627	Carl-47 6771 6772	I
+T461	his_sister-39 6803 6812	Alexandra
+T629	Carl-47 6815 6816	I
+T462	the_depot-60 6826 6835	the depot
+T630	they-61 6836 6840	they
+T631	Carl-47 6858 6859	I
+T632	Carl-47 6873 6875	my
+T463	Carl-47 6901 6905	Carl
+T633	Carl-47 6913 6916	his
+T634	Carl-47 6928 6931	his
+T635	Carl-47 6950 6953	his
+T410	The_main_street-8 6975 6985	the street
+T636	Carl-47 7011 7013	He
+T637	Carl-47 7075 7077	he
+T412	his_sister-39 7106 7115	Alexandra
+T638	Carl-47 7122 7125	him
+T639	Carl-47 7131 7133	he
+T640	Carl-47 7148 7151	his
+T641	Carl-47 7165 7166	I
+T413	the_drug_store-18 7178 7192	the drug store
+T642	Carl-47 7195 7196	I
+T643	Carl-47 7236 7238	me
+T644	Carl-47 7242 7243	I
+T464	a_little_Swede_boy-35 7251 7255	Emil
+T645	Carl-47 7260 7262	he
+T646	Carl-47 7278 7280	he
+T647	Carl-47 7287 7290	his
+T465	his_sister-39 7300 7309	Alexandra
+T648	Carl-47 7318 7321	him
+T466	the_ground-62 7364 7374	the ground
+T467	Carl-47 7414 7418	Carl
+T651	Carl-47 7524 7526	he
+T468	the_ground-62 7535 7545	the ground
+T652	Carl-47 7548 7550	he
+T414	a_little_Swede_boy-35 7569 7594	her tearful little master
+T415	the_store-38 7611 7620	the store
+T469	a_little_Swede_boy-35 7632 7636	Emil
+T655	Carl-47 7656 7658	He
+T416	a_little_Swede_boy-35 7679 7688	the child
+T470	his_sister-39 7709 7718	Alexandra
+T656	Carl-47 7732 7733	I
+T657	Emil_and_sister-44 7744 7747	you
+T493	our_place-63 7758 7767	our place
+T658	our-64 7758 7761	our
+T659	his_sister-39 7811 7814	you
+T417	the_doctor-65 7820 7830	the doctor
+T660	the_doctor-65 7843 7845	He
+T661	the_doctor-65 7877 7879	he
+T418	father-66 7885 7891	father
+T471	his_sister-39 7932 7940	The girl
+T662	his_sister-39 7959 7962	She
+T419	The_main_street-8 7981 7997	the bleak street
+T663	his_sister-39 8004 8007	she
+T664	his_sister-39 8023 8026	her
+T665	his_sister-39 8062 8065	she
+T666	his_sister-39 8087 8090	her
+T667	his_sister-39 8218 8221	her
+T668	his_sister-39 8239 8242	her
+T472	Carl-47 8245 8249	Carl
+T669	his_sister-39 8277 8280	she
+T670	Carl-47 8286 8289	his
+T671	Carl-47 8301 8303	He
+T672	Carl-47 8325 8327	He
+T673	Carl-47 8397 8400	his
+T674	Carl-47 8444 8447	his
+T675	Carl-47 8464 8467	his
+T474	a_boy-67 8496 8501	a boy
+T421	The_two_friends-68 8573 8588	The two friends
+T420	the_windy_street_corner-69 8616 8639	the windy street corner
+T475	two_travelers___who_have_lost_their_way___sometimes_stand_and_admit_their_perplexity_in_silence-70 8667 8762	two travelers , who have lost their way , sometimes stand and admit their perplexity in silence
+T676	two_travelers___who_have_lost_their_way___sometimes_stand_and_admit_their_perplexity_in_silence-70 8697 8702	their
+T677	two_travelers___who_have_lost_their_way___sometimes_stand_and_admit_their_perplexity_in_silence-70 8735 8740	their
+T422	Carl-47 8770 8774	Carl
+T678	Carl-47 8787 8789	he
+T679	Carl-47 8799 8800	I
+T680	Emil_and_sister-44 8812 8816	your
+T476	his_sister-39 8826 8835	Alexandra
+T423	the_store-38 8846 8855	the store
+T681	his_sister-39 8864 8867	her
+T682	his_sister-39 8927 8930	she
+T683	his_sister-39 8942 8945	her
+T684	his_sister-39 8969 8972	she
+T477	a_little_Swede_boy-35 8984 8988	Emil
+T685	his_sister-39 8991 8994	she
+T686	a_little_Swede_boy-35 9001 9004	him
+T478	the_staircase_that_led_up_to_the_clothing_and_carpet_department-71 9026 9089	the staircase that led up to the clothing and carpet department
+T687	a_little_Swede_boy-35 9092 9094	He
+T688	her-72 9167 9170	her
+T481	her-72 9223 9228	Marie
+T485	the_country-73 9247 9258	the country
+T427	Omaha-74 9278 9283	Omaha
+T424	her_mother-75 9289 9299	her mother
+T689	her-72 9289 9292	her
+T426	her_uncle-76 9309 9318	her uncle
+T690	her-72 9309 9312	her
+T691	her-72 9335 9338	She
+T487	Every_one-77 9469 9478	Every one
+T692	her-72 9487 9490	her
+T429	Colorado-78 9603 9611	Colorado
+R1	cop Arg1:T86 Arg2:T6
+R2	cop Arg1:T27 Arg2:T165
+R3	cop Arg1:T35 Arg2:T188
+R4	cop Arg1:T144 Arg2:T35
+R5	cop Arg1:T37 Arg2:T38
+R7	cop Arg1:T145 Arg2:T57
+R8	cop Arg1:T64 Arg2:T289
+R9	cop Arg1:T126 Arg2:T325
+R11	appos Arg1:T133 Arg2:T132
+R12	cop Arg1:T139 Arg2:T134
+R13	appos Arg1:T78 Arg2:T79
+R14	cop Arg1:T135 Arg2:T344
+T147	a_young_soldier-700 3675 3690	a young soldier
+T148	her-72 9112 9134	a little Bohemian girl
+T161	NOM_FAC 531 543	None of them
+T181	None_of_them-700 531 543	None of them
+T182	NOM_PER 4743 4751	Somebody
+T186	Somebody-701 4743 4751	Somebody
+T187	NOM_FAC 377 389	some of them
+T218	some_of_them-702 377 389	some of them
+T219	NOM_PER 1416 1428	Some of them
+T224	Some_of_them-703 1416 1428	Some of them
+T227	NOM_PER 3178 3186	some one
+T234	some_one-704 3178 3186	some one
+T235	NOM_PER 6103 6111	some one
+T281	some_one-705 6103 6111	some one
+T302	NOM_FAC 442 448	others
+T303	others-950 442 448	others

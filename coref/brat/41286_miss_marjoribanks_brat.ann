@@ -1,0 +1,700 @@
+T0	PROP_PER 14 31	Miss Marjoribanks
+T1	NOM_PER 37 47	her mother
+T2	NOM_PER 509 518	poor lady
+T3	NOM_LOC 648 658	this world
+T4	NOM_PER 1183 1219	her maid , whose occupation was gone
+T5	NOM_PER 1261 1272	Her husband
+T6	PROP_PER 1516 1531	Dr Marjoribanks
+T11	NOM_PER 2350 2382	so many young persons of her age
+T12	NOM_PER 2250 2263	an only child
+T13	PROP_PER 2425 2442	Miss Marjoribanks
+T14	NOM_PER 2590 2600	her mother
+T16	NOM_PER 2701 2705	papa
+T17	PROP_PER 2840 2857	Miss Marjoribanks
+T18	NOM_FAC 3211 3223	her own room
+T19	NOM_PER 3416 3428	his patients
+T20	NOM_FAC 3311 3321	downstairs
+T22	NOM_PER 3501 3543	a great many young ladies in deep mourning
+T23	PROP_PER 3920 3927	Lucilla
+T24	NOM_PER 3864 3881	her schoolfellows
+T27	PROP_PER 4489 4506	Miss Marjoribanks
+T28	NOM_PER 4755 4769	her companions
+T29	NOM_PER 4960 4970	schoolgirl
+T30	PROP_PER 5041 5048	Lucilla
+T31	NOM_PER 5513 5527	her companions
+T32	NOM_FAC 5696 5700	home
+T33	NOM_PER 5720 5738	her widowed father
+T34	NOM_PER 6422 6432	dear mamma
+T35	PROP_PER 6216 6231	Dr Marjoribanks
+T36	NOM_PER 6348 6360	his daughter
+T38	NOM_FAC 6387 6407	the chamber of death
+T39	NOM_PER 6600 6620	the devoted daughter
+T40	NOM_PER 6725 6729	papa
+T41	PROP_PER 6817 6834	Miss Marjoribanks
+T42	NOM_PER 7447 7469	a patient in extremity
+T43	NOM_PER 7525 7535	the Doctor
+T44	PROP_PER 7273 7290	Miss Marjoribanks
+T45	NOM_FAC 7299 7303	home
+T46	NOM_LOC 7507 7516	the world
+T47	NOM_PER 7304 7314	her mother
+T48	NOM_PER 7357 7367	her father
+T49	PROP_PER 7586 7593	Lucilla
+T51	NOM_PER 7893 7915	the faithful attendant
+T53	NOM_LOC 8040 8050	this world
+T55	PROP_PER 8202 8219	Miss Marjoribanks
+T56	NOM_PER 8315 8324	poor papa
+T57	NOM_PER 8257 8279	this anxious attendant
+T58	PROP_PER 8343 8350	Lucilla
+T59	NOM_FAC 8531 8540	the house
+T60	NOM_PER 8384 8407	the sober-minded Doctor
+T61	NOM_PER 8588 8598	the Doctor
+T64	PROP_PER 8826 8843	Miss Marjoribanks
+T65	NOM_PER 8907 8918	The widower
+T66	NOM_LOC 9167 9176	the world
+T67	NOM_LOC 9409 9418	the world
+T68	PROP_PER 9512 9527	Dr Marjoribanks
+T70	PROP_PER 9938 9945	Lucilla
+T71	PROP_PER 10014 10029	Dr Marjoribanks
+T72	NOM_PER 10281 10291	the Doctor
+T73	NOM_PER 10440 10448	patients
+T74	NOM_PER 10400 10435	the favourite doctor of Carlingford
+T75	PROP_GPE 10424 10435	Carlingford
+T76	NOM_FAC 10597 10608	his library
+T77	NOM_PER 10818 10837	The unfortunate man
+T78	PROP_PER 11071 11088	Miss Marjoribanks
+T79	NOM_PER 11252 11278	a girl of much less spirit
+T80	NOM_PER 11491 11509	her young mistress
+T82	PROP_PER 11446 11451	Ellis
+T83	NOM_PER 11649 11655	master
+T84	NOM_PER 11947 11958	the kitchen
+T85	NOM_PER 11796 11804	Them men
+T87	PROP_PER 12154 12171	Miss Marjoribanks
+T88	PROP_PER 12410 12417	Lucilla
+T89	NOM_PER 12759 12769	the Doctor
+T90	PROP_PER 12779 12796	Miss Marjoribanks
+T91	NOM_PER 12851 12859	His wife
+T93	NOM_LOC 12876 12885	the world
+T94	NOM_PER 13138 13148	the Doctor
+T95	NOM_PER 13410 13421	his friends
+T96	PROP_PER 13455 13470	Dr Marjoribanks
+T97	NOM_FAC 132 138	school
+T98	NOM_PER 186 200	her dear mamma
+T99	PROP_PER 490 506	Mrs Marjoribanks
+T100	NOM_PER 990 1033	that poor self which other people neglected
+T101	NOM_PER 872 1033	Mrs Marjoribanks , who devoted all her powers , during the last ten years of her life , to the solacement and care of that poor self which other people neglected
+T102	NOM_PER 530 540	an invalid
+T103	NOM_PER 671 801	some rare natures that are content to acquiesce in the general neglect , and forget themselves when they find themselves forgotten
+T104	NOM_PER 1011 1023	other people
+T105	NOM_FAC 1462 1509	the house from which she had gone away for ever
+T106	NOM_PER 1545 1550	a man
+T107	NOM_PER 1595 1607	His daughter
+T7	NOM_FAC 1721 1725	home
+T8	PROP_PER 1866 1883	Miss Marjoribanks
+T108	NOM_FAC 1866 1890	Miss Marjoribanks school
+T9	NOM_PER 1895 1938	a devoted admirer of _ Friends in Council _
+T109	PROP_PER 2033 2040	Lucilla
+T110	NOM_PER 2285 2295	her father
+T15	NOM_FAC 2681 2696	a cheerful home
+T111	NOM_VEH 2913 2933	the railway carriage
+T112	NOM_PER 3015 3023	her papa
+T113	NOM_PER 3336 3345	dear papa
+T114	NOM_PER 3626 3685	the unobservant male creatures of whom they have the charge
+T21	PROP_PER 3743 3760	Miss Marjoribanks
+T115	NOM_PER 3899 3912	their friends
+T26	NOM_PER 3940 3962	an important personage
+T25	NOM_PER 4045 4061	" a large girl "
+T116	NOM_PER 4140 4151	a tall girl
+T117	PROP_GPE 4347 4361	Mount Pleasant
+T118	NOM_PER 4748 4769	any of her companions
+T119	NOM_PER 5673 5788	the girl who was going home to be a comfort to her widowed father , and meant to sacrifice herself to his happiness
+T120	NOM_PER 6068 6078	her father
+T37	PROP_PER 6497 6504	Lucilla
+T121	NOM_FAC 6646 6656	downstairs
+T122	NOM_PER 7008 7018	the Doctor
+T50	NOM_PER 7602 7630	the woman to be disconcerted
+T123	PROP_PER 7736 7752	Mrs Marjoribanks
+T124	NOM_PER 7736 7760	Mrs Marjoribanks 's maid
+T125	NOM_PER 7877 7881	miss
+T54	NOM_PER 8023 8036	a good friend
+T126	NOM_PER 8097 8176	the weeping handmaiden , who naturally saw her own loss in the most vivid light
+T127	PROP_PER 8186 8191	Ellis
+T128	PROP_PER 8486 8502	Mrs Marjoribanks
+T62	NOM_FAC 8645 8798	the great house , where the faded helpless woman , who had notwithstanding been his love and his bride in other days , lay no longer on the familiar sofa
+T63	NOM_PER 8725 8733	his love
+T129	NOM_PER 8738 8747	his bride
+T130	NOM_PER 8669 8761	the faded helpless woman , who had notwithstanding been his love and his bride in other days
+T131	NOM_PER 9136 9144	his wife
+T132	PROP_PER 9254 9261	Mr Lake
+T133	NOM_PER 9264 9282	the drawing-master
+T134	NOM_PER 9377 9393	a human creature
+T135	NOM_PER 9487 9539	the pretty creature whom Dr Marjoribanks had married
+T69	NOM_PER 9846 9876	a weeping and devoted daughter
+T136	NOM_FAC 9983 10056	the large gloomy library where Dr Marjoribanks always sat in the evenings
+T137	NOM_PER 10216 10226	her father
+T138	NOM_FAC 10303 10326	his favourite seclusion
+T139	NOM_PER 10380 10388	his wife
+T140	PROP_PER 10707 10714	Lucilla
+T141	PROP_PER 11146 11153	Lucilla
+T81	NOM_FAC 11366 11374	upstairs
+T142	NOM_PER 11415 11425	dear mamma
+T143	PROP_PER 11528 11540	Miss Lucilla
+T145	NOM_PER 11686 11703	all the household
+T146	NOM_PER 11862 11914	the indignant cook , who indeed had a real grievance
+T86	NOM_PER 12005 12015	the Doctor
+T147	NOM_FAC 12117 12125	upstairs
+T148	NOM_FAC 12129 12145	the drawing-room
+T149	NOM_PER 12287 12295	his wife
+T150	NOM_FAC 12570 12586	the drawing-room
+T92	NOM_PER 13080 13090	her mother
+T151	NOM_PER 12946 13093	that large girl , whose spirits and forces were unbounded , but whose discretion at the present moment did not seem much greater than her mother 's
+T152	NOM_PER 13479 13587	a man who had any great need of sympathy by nature , or who was at all addicted to demonstrations of feeling
+T153	NOM_PER 13613 13621	his wife
+T154	NOM_PER 13760 13772	his daughter
+T179	NOM_PER 4468 4475	anybody
+T180	NOM_PER 4367 4375	somebody
+T181	NOM_PER 3057 3066	everybody
+T182	NOM_PER 10622 10631	everybody
+T183	NOM_PER 8010 8017	any one
+T184	NOM_PER 1167 1173	no one
+T185	NOM_FAC 11125 11141	the drawing-room
+T186	NOM_FAC 6460 6465	there
+T187	NOM_LOC 9472 9477	there
+T188	NOM_FAC 10174 10179	there
+T190	PRON_PER 37 40	her
+T191	PRON_PER 53 56	she
+T192	PRON_PER 114 117	she
+T193	PRON_PER 166 169	her
+T194	PRON_PER 186 189	her
+T195	PRON_PER 222 225	she
+T196	PRON_PER 226 233	herself
+T197	PRON_PER 558 561	she
+T198	PRON_PER 592 595	her
+T199	PRON_PER 621 628	herself
+T200	PRON_PER 755 765	themselves
+T201	PRON_PER 771 775	they
+T202	PRON_PER 781 791	themselves
+T203	PRON_PER 907 910	her
+T204	PRON_PER 949 952	her
+T205	PRON_PER 1068 1071	she
+T206	PRON_PER 1089 1092	her
+T207	PRON_PER 1140 1143	she
+T208	PRON_PER 1183 1186	her
+T209	PRON_PER 1261 1264	Her
+T210	PRON_PER 1347 1350	his
+T211	PRON_PER 1448 1450	he
+T212	PRON_PER 1483 1486	she
+T213	PRON_PER 1560 1563	his
+T214	PRON_PER 1595 1598	His
+T215	PRON_PER 1666 1669	her
+T216	PRON_PER 1726 1729	she
+T217	PRON_PER 1756 1759	her
+T218	PRON_PER 2115 2118	She
+T219	PRON_PER 2127 2130	her
+T220	PRON_PER 2139 2142	her
+T221	PRON_PER 2274 2281	herself
+T222	PRON_PER 2285 2288	her
+T223	PRON_PER 2336 2339	his
+T224	PRON_PER 2375 2378	her
+T225	PRON_PER 2576 2579	her
+T226	PRON_PER 2590 2593	her
+T227	PRON_PER 2625 2628	her
+T228	PRON_PER 2634 2637	she
+T229	PRON_PER 2653 2656	her
+T230	PRON_PER 2870 2877	herself
+T231	PRON_PER 2883 2886	she
+T232	PRON_PER 2941 2944	her
+T233	PRON_PER 2961 2964	she
+T234	PRON_PER 2976 2983	herself
+T235	PRON_PER 3015 3018	her
+T236	PRON_PER 3070 3073	her
+T237	PRON_PER 3121 3124	his
+T238	PRON_PER 3168 3171	she
+T239	PRON_PER 3195 3198	her
+T240	PRON_PER 3211 3214	her
+T241	PRON_PER 3373 3376	her
+T242	PRON_PER 3388 3391	him
+T243	PRON_PER 3397 3399	he
+T244	PRON_PER 3416 3419	his
+T245	PRON_PER 3559 3564	their
+T246	PRON_PER 3665 3669	they
+T247	PRON_PER 3779 3782	She
+T248	PRON_PER 3864 3867	her
+T249	PRON_PER 3892 3895	her
+T250	PRON_PER 3899 3904	their
+T251	PRON_PER 4012 4016	they
+T252	PRON_PER 4022 4025	her
+T253	PRON_PER 4037 4040	she
+T254	PRON_PER 4109 4112	She
+T255	PRON_PER 4205 4208	she
+T256	PRON_PER 4559 4562	her
+T257	PRON_PER 4606 4609	her
+T258	PRON_PER 4620 4623	she
+T259	PRON_PER 4656 4659	her
+T260	PRON_PER 4699 4702	her
+T261	PRON_PER 4755 4758	her
+T263	PRON_PER 5237 5240	She
+T264	PRON_PER 5513 5516	her
+T265	PRON_PER 5537 5540	her
+T266	PRON_PER 5720 5723	her
+T267	PRON_PER 5764 5771	herself
+T268	PRON_PER 5775 5778	his
+T269	PRON_PER 5808 5811	her
+T270	PRON_PER 5826 5829	she
+T271	PRON_PER 6045 6048	she
+T272	PRON_PER 6068 6071	her
+T273	PRON_PER 6294 6297	her
+T274	PRON_PER 6330 6332	he
+T275	PRON_PER 6348 6351	his
+T276	PRON_PER 6450 6451	I
+T277	PRON_PER 6476 6479	her
+T278	PRON_PER 6513 6520	herself
+T280	PRON_PER 6629 6632	her
+T281	PRON_PER 6714 6721	herself
+T282	PRON_PER 6771 6774	him
+T283	PRON_PER 6852 6855	his
+T284	PRON_PER 6888 6891	him
+T285	PRON_PER 6937 6940	her
+T286	PRON_PER 7057 7060	she
+T287	PRON_PER 7102 7105	her
+T288	PRON_PER 7124 7127	she
+T289	PRON_PER 7164 7167	her
+T290	PRON_PER 7304 7307	her
+T291	PRON_PER 7357 7360	her
+T292	PRON_PER 7399 7402	her
+T293	PRON_PER 7406 7409	she
+T294	PRON_PER 7565 7568	her
+T295	PRON_PER 7633 7636	She
+T296	PRON_PER 7668 7671	her
+T297	PRON_PER 7801 7804	her
+T298	PRON_PER 7817 7818	I
+T299	PRON_PER 7844 7845	I
+T300	PRON_PER 7867 7870	you
+T301	PRON_PER 7920 7921	I
+T302	PRON_PER 7965 7966	I
+T303	PRON_PER 7995 7998	her
+T304	PRON_PER 8053 8057	they
+T305	PRON_PER 8140 8143	her
+T306	PRON_PER 8231 8234	her
+T307	PRON_PER 8284 8286	we
+T308	PRON_PER 8356 8363	herself
+T309	PRON_PER 8725 8728	his
+T310	PRON_PER 8738 8741	his
+T311	PRON_PER 9024 9027	him
+T312	PRON_PER 9033 9035	he
+T313	PRON_PER 9079 9082	his
+T314	PRON_PER 9136 9139	his
+T315	PRON_PER 9454 9457	she
+T316	PRON_PER 9542 9545	she
+T317	PRON_PER 10107 10110	him
+T318	PRON_PER 10141 10144	she
+T319	PRON_PER 10216 10219	her
+T320	PRON_PER 10232 10235	she
+T321	PRON_PER 10303 10306	his
+T322	PRON_PER 10380 10383	his
+T323	PRON_PER 10486 10489	his
+T324	PRON_PER 10514 10517	his
+T325	PRON_PER 10532 10534	He
+T326	PRON_PER 10597 10600	his
+T327	PRON_PER 10643 10645	he
+T328	PRON_PER 10739 10742	her
+T329	PRON_PER 10993 10995	me
+T330	PRON_PER 11026 11028	he
+T331	PRON_PER 11212 11215	her
+T332	PRON_PER 11233 11236	she
+T333	PRON_PER 11310 11317	herself
+T334	PRON_PER 11322 11325	her
+T335	PRON_PER 11335 11338	her
+T336	PRON_PER 11383 11386	she
+T337	PRON_PER 11467 11470	her
+T338	PRON_PER 11491 11494	her
+T339	PRON_PER 11559 11562	her
+T340	PRON_PER 11583 11586	her
+T341	PRON_PER 11707 11710	his
+T342	PRON_PER 11726 11729	his
+T343	PRON_PER 11743 11746	his
+T344	PRON_PER 11768 11771	his
+T346	PRON_PER 11828 11830	we
+T347	PRON_PER 11842 11845	our
+T348	PRON_PER 12109 12111	he
+T349	PRON_PER 12188 12191	him
+T350	PRON_PER 12217 12220	she
+T351	PRON_PER 12249 12251	he
+T352	PRON_PER 12287 12290	his
+T353	PRON_PER 12306 12308	he
+T354	PRON_PER 12469 12472	her
+T355	PRON_PER 12499 12502	she
+T356	PRON_PER 12507 12514	herself
+T357	PRON_PER 12553 12556	her
+T358	PRON_PER 12805 12808	him
+T359	PRON_PER 12822 12825	his
+T360	PRON_PER 12851 12854	His
+T361	PRON_PER 12920 12923	her
+T362	PRON_PER 13080 13083	her
+T363	PRON_PER 13119 13122	her
+T364	PRON_PER 13154 13161	himself
+T365	PRON_PER 13256 13259	him
+T366	PRON_PER 13291 13298	himself
+T367	PRON_PER 13337 13340	his
+T368	PRON_PER 13367 13370	his
+T369	PRON_PER 13410 13413	his
+T370	PRON_PER 13440 13442	he
+T371	PRON_PER 13605 13607	he
+T372	PRON_PER 13613 13616	his
+T373	PRON_PER 13672 13675	his
+T374	PRON_PER 13732 13734	he
+T375	PRON_PER 13760 13763	his
+T376	NOM_PER 1842 1890	the lady at the head of Miss Marjoribanks school
+T377	PROP_GPE 3966 3980	Mount Pleasant
+T378	NOM_PER 7931 7958	the best missus as ever was
+T379	NOM_PER 11583 11596	her dear papa
+T380	Miss_Marjoribanks-0 14 31	Miss Marjoribanks
+T381	Miss_Marjoribank_s_mother-1 37 47	her mother
+T570	Miss_Marjoribanks-0 37 40	her
+T571	Miss_Marjoribanks-0 53 56	she
+T572	Miss_Marjoribanks-0 114 117	she
+T477	school-2 132 138	school
+T573	Miss_Marjoribanks-0 166 169	her
+T478	Miss_Marjoribank_s_mother-1 186 200	her dear mamma
+T574	Miss_Marjoribanks-0 186 189	her
+T575	Miss_Marjoribanks-0 222 225	she
+T576	Miss_Marjoribanks-0 226 233	herself
+T479	Miss_Marjoribank_s_mother-1 490 506	Mrs Marjoribanks
+T577	Miss_Marjoribank_s_mother-1 558 561	she
+T578	Miss_Marjoribank_s_mother-1 592 595	her
+T579	Miss_Marjoribank_s_mother-1 621 628	herself
+T383	this_world-3 648 658	this world
+T483	rare_natures-4 671 801	some rare natures that are content to acquiesce in the general neglect , and forget themselves when they find themselves forgotten
+T580	rare_natures-4 755 765	themselves
+T581	rare_natures-4 771 775	they
+T582	rare_natures-4 781 791	themselves
+T481	Miss_Marjoribank_s_mother-1 872 1033	Mrs Marjoribanks , who devoted all her powers , during the last ten years of her life , to the solacement and care of that poor self which other people neglected
+T583	Miss_Marjoribank_s_mother-1 907 910	her
+T584	Miss_Marjoribank_s_mother-1 949 952	her
+T480	Miss_Marjoribank_s_mother-1 990 1033	that poor self which other people neglected
+T484	other_people-5 1011 1023	other people
+T585	Miss_Marjoribank_s_mother-1 1068 1071	she
+T586	Miss_Marjoribank_s_mother-1 1089 1092	her
+T587	Miss_Marjoribank_s_mother-1 1140 1143	she
+T564	no_one-6 1167 1173	no one
+T384	maid_Ellis-7 1183 1219	her maid , whose occupation was gone
+T588	Miss_Marjoribank_s_mother-1 1183 1186	her
+T385	Miss_Marjoribank_s_father-8 1261 1272	Her husband
+T589	Miss_Marjoribank_s_mother-1 1261 1264	Her
+T590	Miss_Marjoribank_s_father-8 1347 1350	his
+T591	Miss_Marjoribank_s_father-8 1448 1450	he
+T485	the_house-9 1462 1509	the house from which she had gone away for ever
+T592	Miss_Marjoribank_s_mother-1 1483 1486	she
+T386	Miss_Marjoribank_s_father-8 1516 1531	Dr Marjoribanks
+T593	Miss_Marjoribank_s_father-8 1560 1563	his
+T487	Miss_Marjoribanks-0 1595 1607	His daughter
+T594	Miss_Marjoribank_s_father-8 1595 1598	His
+T595	Miss_Marjoribanks-0 1666 1669	her
+T387	home-10 1721 1725	home
+T596	Miss_Marjoribanks-0 1726 1729	she
+T597	Miss_Marjoribanks-0 1756 1759	her
+T756	the_lady_at_the_head_of_Miss_Marjoribanks_school-11 1842 1890	the lady at the head of Miss Marjoribanks school
+T388	Miss_Marjoribanks-0 1866 1883	Miss Marjoribanks
+T488	Miss_Marjoribanks_school-12 1866 1890	Miss Marjoribanks school
+T489	Miss_Marjoribanks-0 2033 2040	Lucilla
+T598	Miss_Marjoribanks-0 2115 2118	She
+T599	Miss_Marjoribanks-0 2127 2130	her
+T600	Miss_Marjoribanks-0 2139 2142	her
+T392	an_only_child-13 2250 2263	an only child
+T601	an_only_child-13 2274 2281	herself
+T490	arbitrary_father-14 2285 2295	her father
+T602	an_only_child-13 2285 2288	her
+T603	arbitrary_father-14 2336 2339	his
+T391	so_many_young_persons_of_her_age-15 2350 2382	so many young persons of her age
+T604	Miss_Marjoribanks-0 2375 2378	her
+T393	Miss_Marjoribanks-0 2425 2442	Miss Marjoribanks
+T605	Miss_Marjoribanks-0 2576 2579	her
+T394	Miss_Marjoribank_s_mother-1 2590 2600	her mother
+T606	Miss_Marjoribanks-0 2590 2593	her
+T607	Miss_Marjoribanks-0 2625 2628	her
+T608	Miss_Marjoribanks-0 2634 2637	she
+T609	Miss_Marjoribanks-0 2653 2656	her
+T395	a_cheerful_home-16 2681 2696	a cheerful home
+T396	Miss_Marjoribank_s_father-8 2701 2705	papa
+T397	Miss_Marjoribanks-0 2840 2857	Miss Marjoribanks
+T610	Miss_Marjoribanks-0 2870 2877	herself
+T611	Miss_Marjoribanks-0 2883 2886	she
+T491	the_railway_carriage-17 2913 2933	the railway carriage
+T612	Miss_Marjoribanks-0 2941 2944	her
+T613	Miss_Marjoribanks-0 2961 2964	she
+T614	Miss_Marjoribanks-0 2976 2983	herself
+T492	Miss_Marjoribank_s_father-8 3015 3023	her papa
+T615	Miss_Marjoribanks-0 3015 3018	her
+T561	everybody-18 3057 3066	everybody
+T616	Miss_Marjoribanks-0 3070 3073	her
+T617	Miss_Marjoribank_s_father-8 3121 3124	his
+T618	Miss_Marjoribanks-0 3168 3171	she
+T619	Miss_Marjoribanks-0 3195 3198	her
+T398	her_own_room-19 3211 3223	her own room
+T620	Miss_Marjoribanks-0 3211 3214	her
+T400	downstairs-36 3311 3321	downstairs
+T493	Miss_Marjoribank_s_father-8 3336 3345	dear papa
+T621	Miss_Marjoribanks-0 3373 3376	her
+T622	Miss_Marjoribank_s_father-8 3388 3391	him
+T623	Miss_Marjoribank_s_father-8 3397 3399	he
+T399	his_patients-20 3416 3428	his patients
+T624	Miss_Marjoribank_s_father-8 3416 3419	his
+T402	a_great_many_young_ladies_in_deep_mourning-21 3501 3543	a great many young ladies in deep mourning
+T625	a_great_many_young_ladies_in_deep_mourning-21 3559 3564	their
+T494	the_unobservant_male_creatures_of_whom_they_have_the_charge-22 3626 3685	the unobservant male creatures of whom they have the charge
+T626	a_great_many_young_ladies_in_deep_mourning-21 3665 3669	they
+T401	Miss_Marjoribanks-0 3743 3760	Miss Marjoribanks
+T627	Miss_Marjoribanks-0 3779 3782	She
+T404	her_schoolfellows-23 3864 3881	her schoolfellows
+T628	Miss_Marjoribanks-0 3864 3867	her
+T629	Miss_Marjoribanks-0 3892 3895	her
+T495	their_friends-24 3899 3912	their friends
+T630	her_schoolfellows-23 3899 3904	their
+T403	Miss_Marjoribanks-0 3920 3927	Lucilla
+T631	her_schoolfellows-23 4012 4016	they
+T632	Miss_Marjoribanks-0 4022 4025	her
+T633	Miss_Marjoribanks-0 4037 4040	she
+T634	Miss_Marjoribanks-0 4109 4112	She
+T496	a_tall_girl-25 4140 4151	a tall girl
+T635	Miss_Marjoribanks-0 4205 4208	she
+T497	Mount_Pleasant-26 4347 4361	Mount Pleasant
+T757	Mount_Pleasant-26 3966 3980	Mount Pleasant
+T560	somebody-27 4367 4375	somebody
+T559	anybody-28 4468 4475	anybody
+T407	Miss_Marjoribanks-0 4489 4506	Miss Marjoribanks
+T636	Miss_Marjoribanks-0 4559 4562	her
+T637	Miss_Marjoribanks-0 4606 4609	her
+T638	Miss_Marjoribanks-0 4620 4623	she
+T639	Miss_Marjoribanks-0 4656 4659	her
+T640	Miss_Marjoribanks-0 4699 4702	her
+T498	any_of_her_companions-29 4748 4769	any of her companions
+T408	her_companions-30 4755 4769	her companions
+T641	Miss_Marjoribanks-0 4755 4758	her
+T409	schoolgirl-31 4960 4970	schoolgirl
+T410	Miss_Marjoribanks-0 5041 5048	Lucilla
+T643	Miss_Marjoribanks-0 5237 5240	She
+T411	her_companions-32 5513 5527	her companions
+T644	Miss_Marjoribanks-0 5513 5516	her
+T645	Miss_Marjoribanks-0 5537 5540	her
+T499	the_girl_who_was_going_home_to_be_a_comfort_to_her_widowed_father___and_meant_to_sacrifice_herself_to_his_happiness-33 5673 5788	the girl who was going home to be a comfort to her widowed father , and meant to sacrifice herself to his happiness
+T412	home-10 5696 5700	home
+T413	Miss_Marjoribank_s_father-8 5720 5738	her widowed father
+T646	Miss_Marjoribanks-0 5720 5723	her
+T647	Miss_Marjoribanks-0 5764 5771	herself
+T648	Miss_Marjoribank_s_father-8 5775 5778	his
+T649	Miss_Marjoribanks-0 5808 5811	her
+T650	Miss_Marjoribanks-0 5826 5829	she
+T651	Miss_Marjoribanks-0 6045 6048	she
+T500	Miss_Marjoribank_s_father-8 6068 6078	her father
+T652	Miss_Marjoribanks-0 6068 6071	her
+T415	Miss_Marjoribank_s_father-8 6216 6231	Dr Marjoribanks
+T653	Miss_Marjoribanks-0 6294 6297	her
+T654	Miss_Marjoribank_s_father-8 6330 6332	he
+T416	Miss_Marjoribanks-0 6348 6360	his daughter
+T655	Miss_Marjoribank_s_father-8 6348 6351	his
+T418	the_chamber_of_death-34 6387 6407	the chamber of death
+T414	Miss_Marjoribank_s_mother-1 6422 6432	dear mamma
+T656	Miss_Marjoribanks-0 6450 6451	I
+T566	there-35 6460 6465	there
+T657	Miss_Marjoribank_s_mother-1 6476 6479	her
+T417	Miss_Marjoribanks-0 6497 6504	Lucilla
+T658	Miss_Marjoribanks-0 6513 6520	herself
+T419	Miss_Marjoribanks-0 6600 6620	the devoted daughter
+T660	Miss_Marjoribanks-0 6629 6632	her
+T501	downstairs-36 6646 6656	downstairs
+T661	Miss_Marjoribanks-0 6714 6721	herself
+T420	Miss_Marjoribank_s_father-8 6725 6729	papa
+T662	Miss_Marjoribank_s_father-8 6771 6774	him
+T421	Miss_Marjoribanks-0 6817 6834	Miss Marjoribanks
+T663	Miss_Marjoribank_s_father-8 6852 6855	his
+T664	Miss_Marjoribank_s_father-8 6888 6891	him
+T665	Miss_Marjoribanks-0 6937 6940	her
+T502	Miss_Marjoribank_s_father-8 7008 7018	the Doctor
+T666	Miss_Marjoribanks-0 7057 7060	she
+T667	Miss_Marjoribanks-0 7102 7105	her
+T668	Miss_Marjoribanks-0 7124 7127	she
+T669	Miss_Marjoribanks-0 7164 7167	her
+T424	Miss_Marjoribanks-0 7273 7290	Miss Marjoribanks
+T425	home-10 7299 7303	home
+T427	Miss_Marjoribank_s_mother-1 7304 7314	her mother
+T670	Miss_Marjoribanks-0 7304 7307	her
+T428	Miss_Marjoribank_s_father-8 7357 7367	her father
+T671	Miss_Marjoribanks-0 7357 7360	her
+T672	Miss_Marjoribanks-0 7399 7402	her
+T673	Miss_Marjoribanks-0 7406 7409	she
+T422	a_patient_in_extremity-37 7447 7469	a patient in extremity
+T426	this_world-3 7507 7516	the world
+T423	Miss_Marjoribank_s_father-8 7525 7535	the Doctor
+T674	Miss_Marjoribanks-0 7565 7568	her
+T429	Miss_Marjoribanks-0 7586 7593	Lucilla
+T430	the_woman_to_be_disconcerted-38 7602 7630	the woman to be disconcerted
+T675	Miss_Marjoribanks-0 7633 7636	She
+T676	Miss_Marjoribanks-0 7668 7671	her
+T503	Miss_Marjoribank_s_mother-1 7736 7752	Mrs Marjoribanks
+T504	maid_Ellis-7 7736 7760	Mrs Marjoribanks 's maid
+T677	Miss_Marjoribanks-0 7801 7804	her
+T678	maid_Ellis-7 7817 7818	I
+T679	maid_Ellis-7 7844 7845	I
+T680	Miss_Marj_father-40 7867 7870	you
+T505	Miss_Marjoribanks-0 7877 7881	miss
+T431	maid_Ellis-7 7893 7915	the faithful attendant
+T681	maid_Ellis-7 7920 7921	I
+T758	Miss_Marjoribank_s_mother-1 7931 7958	the best missus as ever was
+T682	maid_Ellis-7 7965 7966	I
+T683	Miss_Marjoribank_s_mother-1 7995 7998	her
+T563	any_one-41 8010 8017	any one
+T434	a_good_friend-42 8023 8036	a good friend
+T433	this_world-3 8040 8050	this world
+T684	a_good_friend-42 8053 8057	they
+T506	maid_Ellis-7 8097 8176	the weeping handmaiden , who naturally saw her own loss in the most vivid light
+T685	maid_Ellis-7 8140 8143	her
+T507	maid_Ellis-7 8186 8191	Ellis
+T435	Miss_Marjoribanks-0 8202 8219	Miss Marjoribanks
+T686	Miss_Marjoribanks-0 8231 8234	her
+T437	maid_Ellis-7 8257 8279	this anxious attendant
+T687	Miss_Marj_maid-43 8284 8286	we
+T436	Miss_Marjoribank_s_father-8 8315 8324	poor papa
+T438	Miss_Marjoribanks-0 8343 8350	Lucilla
+T688	Miss_Marjoribanks-0 8356 8363	herself
+T440	Miss_Marjoribank_s_father-8 8384 8407	the sober-minded Doctor
+T508	Miss_Marjoribank_s_mother-1 8486 8502	Mrs Marjoribanks
+T439	the_house-9 8531 8540	the house
+T441	Miss_Marjoribank_s_father-8 8588 8598	the Doctor
+T442	the_house-9 8645 8798	the great house , where the faded helpless woman , who had notwithstanding been his love and his bride in other days , lay no longer on the familiar sofa
+T510	Miss_Marjoribank_s_mother-1 8669 8761	the faded helpless woman , who had notwithstanding been his love and his bride in other days
+T443	his_love-44 8725 8733	his love
+T689	Miss_Marjoribank_s_father-8 8725 8728	his
+T509	his_bride-45 8738 8747	his bride
+T690	Miss_Marjoribank_s_father-8 8738 8741	his
+T444	Miss_Marjoribanks-0 8826 8843	Miss Marjoribanks
+T445	Miss_Marjoribank_s_father-8 8907 8918	The widower
+T691	Miss_Marjoribank_s_father-8 9024 9027	him
+T692	Miss_Marjoribank_s_father-8 9033 9035	he
+T693	Miss_Marjoribank_s_father-8 9079 9082	his
+T511	Miss_Marjoribank_s_mother-1 9136 9144	his wife
+T694	Miss_Marjoribank_s_father-8 9136 9139	his
+T446	this_world-3 9167 9176	the world
+T512	Mr_Lake-46 9254 9261	Mr Lake
+T514	a_human_creature-47 9377 9393	a human creature
+T447	this_world-3 9409 9418	the world
+T695	a_human_creature-47 9454 9457	she
+T567	this_world-3 9472 9477	there
+T515	Miss_Marjoribank_s_mother-1 9487 9539	the pretty creature whom Dr Marjoribanks had married
+T448	Miss_Marjoribank_s_father-8 9512 9527	Dr Marjoribanks
+T696	Miss_Marjoribank_s_mother-1 9542 9545	she
+T449	a_weeping_and_devoted_daughter-48 9846 9876	a weeping and devoted daughter
+T450	Miss_Marjoribanks-0 9938 9945	Lucilla
+T516	library-49 9983 10056	the large gloomy library where Dr Marjoribanks always sat in the evenings
+T451	Miss_Marjoribank_s_father-8 10014 10029	Dr Marjoribanks
+T697	Miss_Marjoribank_s_father-8 10107 10110	him
+T698	Miss_Marjoribanks-0 10141 10144	she
+T568	library-49 10174 10179	there
+T517	Miss_Marjoribank_s_father-8 10216 10226	her father
+T699	Miss_Marjoribanks-0 10216 10219	her
+T700	Miss_Marjoribanks-0 10232 10235	she
+T452	Miss_Marjoribank_s_father-8 10281 10291	the Doctor
+T518	library-49 10303 10326	his favourite seclusion
+T701	Miss_Marjoribank_s_father-8 10303 10306	his
+T519	Miss_Marjoribank_s_mother-1 10380 10388	his wife
+T702	Miss_Marjoribank_s_father-8 10380 10383	his
+T454	Miss_Marjoribank_s_father-8 10400 10435	the favourite doctor of Carlingford
+T455	Carlingford-50 10424 10435	Carlingford
+T453	patients-51 10440 10448	patients
+T703	Miss_Marjoribank_s_father-8 10486 10489	his
+T704	Miss_Marjoribank_s_father-8 10514 10517	his
+T705	Miss_Marjoribank_s_father-8 10532 10534	He
+T456	library-49 10597 10608	his library
+T706	Miss_Marjoribank_s_father-8 10597 10600	his
+T562	everybody-52 10622 10631	everybody
+T707	Miss_Marjoribank_s_father-8 10643 10645	he
+T520	Miss_Marjoribanks-0 10707 10714	Lucilla
+T708	Miss_Marjoribanks-0 10739 10742	her
+T457	Miss_Marjoribank_s_father-8 10818 10837	The unfortunate man
+T709	Miss_Marjoribank_s_father-8 10993 10995	me
+T710	Miss_Marjoribank_s_father-8 11026 11028	he
+T458	Miss_Marjoribanks-0 11071 11088	Miss Marjoribanks
+T565	the_drawing-room-53 11125 11141	the drawing-room
+T521	Miss_Marjoribanks-0 11146 11153	Lucilla
+T711	Miss_Marjoribanks-0 11212 11215	her
+T712	Miss_Marjoribanks-0 11233 11236	she
+T459	a_girl_of_much_less_spirit-54 11252 11278	a girl of much less spirit
+T713	Miss_Marjoribanks-0 11310 11317	herself
+T714	Miss_Marjoribanks-0 11322 11325	her
+T715	Miss_Marjoribanks-0 11335 11338	her
+T461	upstairs-55 11366 11374	upstairs
+T716	Miss_Marjoribanks-0 11383 11386	she
+T522	Miss_Marjoribank_s_mother-1 11415 11425	dear mamma
+T462	maid_Ellis-7 11446 11451	Ellis
+T717	maid_Ellis-7 11467 11470	her
+T460	Miss_Marjoribanks-0 11491 11509	her young mistress
+T718	maid_Ellis-7 11491 11494	her
+T523	Miss_Marjoribanks-0 11528 11540	Miss Lucilla
+T719	Miss_Marjoribanks-0 11559 11562	her
+T720	Miss_Marjoribanks-0 11583 11586	her
+T759	Miss_Marjoribank_s_father-8 11583 11596	her dear papa
+T463	Miss_Marjoribank_s_father-8 11649 11655	master
+T525	all_the_household-56 11686 11703	all the household
+T721	Miss_Marjoribank_s_father-8 11707 11710	his
+T722	Miss_Marjoribank_s_father-8 11726 11729	his
+T723	Miss_Marjoribank_s_father-8 11743 11746	his
+T724	Miss_Marjoribank_s_father-8 11768 11771	his
+T465	Them_men-57 11796 11804	Them men
+T726	we-58 11828 11830	we
+T727	we-58 11842 11845	our
+T526	maid_Ellis-7 11862 11914	the indignant cook , who indeed had a real grievance
+T464	the_kitchen-59 11947 11958	the kitchen
+T466	Miss_Marjoribank_s_father-8 12005 12015	the Doctor
+T728	Miss_Marjoribank_s_father-8 12109 12111	he
+T527	upstairs-55 12117 12125	upstairs
+T528	the_drawing-room-53 12129 12145	the drawing-room
+T467	Miss_Marjoribanks-0 12154 12171	Miss Marjoribanks
+T729	Miss_Marjoribank_s_father-8 12188 12191	him
+T730	Miss_Marjoribanks-0 12217 12220	she
+T731	Miss_Marjoribank_s_father-8 12249 12251	he
+T529	Miss_Marjoribank_s_mother-1 12287 12295	his wife
+T732	Miss_Marjoribank_s_father-8 12287 12290	his
+T733	Miss_Marjoribank_s_father-8 12306 12308	he
+T468	Miss_Marjoribanks-0 12410 12417	Lucilla
+T734	Miss_Marjoribanks-0 12469 12472	her
+T735	Miss_Marjoribanks-0 12499 12502	she
+T736	Miss_Marjoribanks-0 12507 12514	herself
+T737	Miss_Marjoribanks-0 12553 12556	her
+T530	the_drawing-room-53 12570 12586	the drawing-room
+T469	Miss_Marjoribank_s_father-8 12759 12769	the Doctor
+T470	Miss_Marjoribanks-0 12779 12796	Miss Marjoribanks
+T738	Miss_Marjoribank_s_father-8 12805 12808	him
+T739	Miss_Marjoribank_s_father-8 12822 12825	his
+T471	Miss_Marjoribank_s_mother-1 12851 12859	His wife
+T740	Miss_Marjoribank_s_father-8 12851 12854	His
+T473	this_world-3 12876 12885	the world
+T741	Miss_Marjoribank_s_mother-1 12920 12923	her
+T531	Miss_Marjoribanks-0 12946 13093	that large girl , whose spirits and forces were unbounded , but whose discretion at the present moment did not seem much greater than her mother 's
+T472	Miss_Marjoribank_s_mother-1 13080 13090	her mother
+T742	Miss_Marjoribanks-0 13080 13083	her
+T743	Miss_Marjoribanks-0 13119 13122	her
+T474	Miss_Marjoribank_s_father-8 13138 13148	the Doctor
+T744	Miss_Marjoribank_s_father-8 13154 13161	himself
+T745	Miss_Marjoribank_s_father-8 13256 13259	him
+T746	Miss_Marjoribank_s_father-8 13291 13298	himself
+T747	Miss_Marjoribank_s_father-8 13337 13340	his
+T748	Miss_Marjoribank_s_father-8 13367 13370	his
+T475	his_friends-60 13410 13421	his friends
+T749	Miss_Marjoribank_s_father-8 13410 13413	his
+T750	Miss_Marjoribank_s_father-8 13440 13442	he
+T476	Miss_Marjoribank_s_father-8 13455 13470	Dr Marjoribanks
+T532	a_man_who_had_any_great_need_of_sympathy_by_nature___or_who_was_at_all_addicted_to_demonstrations_of_feeling-61 13479 13587	a man who had any great need of sympathy by nature , or who was at all addicted to demonstrations of feeling
+T751	Miss_Marjoribank_s_father-8 13605 13607	he
+T533	Miss_Marjoribank_s_mother-1 13613 13621	his wife
+T752	Miss_Marjoribank_s_father-8 13613 13616	his
+T753	Miss_Marjoribank_s_father-8 13672 13675	his
+T754	Miss_Marjoribank_s_father-8 13732 13734	he
+T534	Miss_Marjoribanks-0 13760 13772	his daughter
+T755	Miss_Marjoribank_s_father-8 13760 13763	his
+R2	cop Arg1:T102 Arg2:T99
+R3	cop Arg1:T106 Arg2:T6
+R4	cop Arg1:T9 Arg2:T376
+R5	cop Arg1:T26 Arg2:T23
+R6	cop Arg1:T25 Arg2:T253
+R7	appos Arg1:T133 Arg2:T132
+T796	PRON_FAC 10652 10654	it
+T797	library-49 10652 10654	it
+R1	appos Arg1:T2 Arg2:T99

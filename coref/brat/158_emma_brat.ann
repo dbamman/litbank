@@ -1,0 +1,638 @@
+T2	NOM_FAC 72 90	a comfortable home
+T3	NOM_PER 274 349	the youngest of the two daughters of a most affectionate , indulgent father
+T4	NOM_PER 290 349	the two daughters of a most affectionate , indulgent father
+T5	NOM_PER 311 349	a most affectionate , indulgent father
+T6	NOM_PER 410 431	mistress of his house
+T7	NOM_FAC 422 431	his house
+T8	NOM_PER 459 469	Her mother
+T9	NOM_PER 597 628	an excellent woman as governess
+T10	NOM_PER 662 670	a mother
+T11	PROP_PER 704 715	Miss Taylor
+T12	NOM_PER 724 747	Mr. Woodhouse 's family
+T13	PROP_PER 724 737	Mr. Woodhouse
+T14	NOM_PER 758 769	a governess
+T15	NOM_PER 775 783	a friend
+T16	NOM_PER 799 813	both daughters
+T17	PROP_PER 836 840	Emma
+T18	NOM_PER 888 895	sisters
+T19	PROP_PER 910 921	Miss Taylor
+T20	NOM_PER 963 972	governess
+T21	NOM_PER 1141 1147	friend
+T22	NOM_PER 1152 1158	friend
+T23	PROP_PER 1188 1192	Emma
+T24	PROP_PER 1238 1249	Miss Taylor
+T25	PROP_PER 1327 1331	Emma
+T26	PROP_PER 1753 1764	Miss Taylor
+T27	PROP_PER 1782 1793	Miss Taylor
+T28	Miss_Taylor-6 1859 1878	this beloved friend
+T29	PROP_PER 1884 1888	Emma
+T30	NOM_PER 1963 1979	the bride-people
+T31	NOM_PER 1987 1997	her father
+T32	NOM_PER 2059 2066	a third
+T33	NOM_PER 2093 2103	Her father
+T34	NOM_PER 2263 2273	her friend
+T35	PROP_PER 2276 2286	Mr. Weston
+T36	NOM_PER 2291 2378	a man of unexceptionable character , easy fortune , suitable age , and pleasant manners
+T37	PROP_PER 2577 2588	Miss Taylor
+T38	PROP_PER 3075 3083	Isabella
+T39	NOM_PER 3190 3234	a friend and companion such as few possessed
+T40	NOM_PER 3309 3319	the family
+T41	NOM_PER 3613 3623	her friend
+T42	PROP_PER 3667 3671	Emma
+T45	NOM_FAC 3790 3799	the house
+T46	NOM_PER 3942 3952	her father
+T47	NOM_PER 3966 3986	no companion for her
+T48	PROP_PER 4104 4117	Mr. Woodhouse
+T49	NOM_PER 4210 4226	a valetudinarian
+T50	NOM_PER 4284 4322	a much older man in ways than in years
+T52	PROP_GPE 4556 4562	London
+T53	PROP_FAC 4698 4707	Hartfield
+T54	PROP_PER 4755 4763	Isabella
+T55	NOM_PER 4768 4779	her husband
+T56	NOM_PER 4786 4807	their little children
+T57	NOM_FAC 4818 4827	the house
+T58	PROP_GPE 4868 4876	Highbury
+T59	NOM_GPE 4879 4909	the large and populous village
+T60	NOM_GPE 4932 4938	a town
+T61	PROP_FAC 4950 4959	Hartfield
+T62	PROP_PER 5068 5082	The Woodhouses
+T63	NOM_PER 5186 5196	her father
+T64	PROP_PER 5277 5288	Miss Taylor
+T65	PROP_PER 5344 5348	Emma
+T66	NOM_PER 5416 5426	her father
+T67	NOM_PER 5512 5525	a nervous man
+T68	NOM_PER 5754 5770	his own daughter
+T69	PROP_PER 5923 5934	Miss Taylor
+T70	NOM_PER 6025 6037	other people
+T71	PROP_PER 6111 6122	Miss Taylor
+T72	PROP_FAC 6259 6268	Hartfield
+T73	PROP_PER 6271 6275	Emma
+T74	PROP_PER 6456 6467	Miss Taylor
+T75	PROP_PER 6525 6535	Mr. Weston
+T76	NOM_PER 6589 6593	papa
+T77	PROP_PER 6617 6627	Mr. Weston
+T78	NOM_PER 6636 6678	a good-humoured , pleasant , excellent man
+T79	NOM_PER 6709 6720	a good wife
+T80	PROP_PER 6753 6764	Miss Taylor
+T81	NOM_FAC 6839 6857	a house of her own
+T82	NOM_FAC 6864 6882	A house of her own
+T83	NOM_FAC 6918 6936	a house of her own
+T84	PROP_FAC 7230 7238	Randalls
+T85	NOM_PER 7300 7304	papa
+T86	NOM_VEH 7354 7366	the carriage
+T87	NOM_VEH 7386 7398	The carriage
+T88	PROP_PER 7405 7410	James
+T89	PROP_PER 7569 7579	Mr. Weston
+T90	NOM_FAC 7569 7589	Mr. Weston 's stable
+T91	NOM_PER 7592 7596	papa
+T92	PROP_PER 7670 7680	Mr. Weston
+T93	PROP_PER 7705 7710	James
+T94	PROP_FAC 7763 7771	Randalls
+T95	NOM_PER 7785 7797	his daughter
+T96	NOM_PER 7905 7909	papa
+T97	PROP_PER 7920 7926	Hannah
+T98	PROP_PER 7963 7969	Hannah
+T99	PROP_PER 7996 8001	James
+T100	PROP_PER 8115 8120	James
+T101	NOM_PER 8191 8210	a very good servant
+T102	NOM_PER 8220 8248	a civil , pretty-spoken girl
+T103	NOM_PER 8528 8548	an excellent servant
+T104	PROP_PER 8590 8601	Miss Taylor
+T105	PROP_PER 8664 8669	James
+T106	NOM_PER 8687 8699	his daughter
+T107	PROP_PER 8788 8792	Emma
+T108	NOM_PER 8901 8911	her father
+T109	NOM_PER 9026 9035	a visitor
+T110	PROP_PER 9095 9108	Mr. Knightley
+T111	NOM_PER 9111 9157	a sensible man about seven or eight-and-thirty
+T112	NOM_PER 9173 9217	a very old and intimate friend of the family
+T113	NOM_PER 9207 9217	the family
+T114	NOM_PER 9260 9300	the elder brother of Isabella 's husband
+T115	NOM_PER 9281 9300	Isabella 's husband
+T116	PROP_PER 9281 9289	Isabella
+T117	PROP_GPE 9330 9338	Highbury
+T118	NOM_PER 9345 9363	a frequent visitor
+T119	PROP_GPE 9481 9487	London
+T120	PROP_FAC 9574 9583	Hartfield
+T121	PROP_FAC 9613 9629	Brunswick Square
+T122	PROP_PER 9675 9688	Mr. Woodhouse
+T123	PROP_PER 9705 9718	Mr. Knightley
+T124	PROP_PER 9802 9815	poor Isabella
+T125	NOM_PER 9822 9834	her children
+T126	PROP_PER 9892 9905	Mr. Woodhouse
+T127	PROP_PER 9955 9968	Mr. Knightley
+T1	NOM_PER 19 112	Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition
+T43	NOM_PER 3724 3737	a Mrs. Weston
+T44	NOM_PER 3773 3786	a Miss Taylor
+T152	NOM_PER 8610 8618	somebody
+T153	NOM_LOC 214 223	the world
+T155	NOM_PER 7307 7313	nobody
+T156	NOM_PER 7945 7951	Nobody
+T157	NOM_PER 5555 5585	every body that he was used to
+T158	NOM_GPE 5109 5114	there
+T159	NOM_FAC 7817 7822	there
+T160	NOM_PER 7807 7816	housemaid
+T161	NOM_FAC 8399 8403	here
+T162	NOM_GPE 5170 5179	the place
+T165	PRON_PER 260 263	her
+T166	PRON_PER 266 269	She
+T167	PRON_PER 380 383	her
+T168	PRON_PER 422 425	his
+T169	PRON_PER 459 462	Her
+T170	PRON_PER 496 499	her
+T171	PRON_PER 547 550	her
+T172	PRON_PER 566 569	her
+T173	PRON_PER 853 857	them
+T174	PRON_PER 991 994	her
+T175	PRON_PER 1021 1024	her
+T176	PRON_PER 1108 1112	they
+T177	PRON_PER 1209 1212	she
+T178	PRON_PER 1288 1291	her
+T179	PRON_PER 1386 1389	her
+T180	PRON_PER 1448 1455	herself
+T181	PRON_PER 1513 1516	her
+T183	PRON_PER 1646 1649	her
+T184	PRON_PER 1987 1990	her
+T185	PRON_PER 2002 2009	herself
+T186	PRON_PER 2093 2096	Her
+T187	PRON_PER 2113 2120	himself
+T188	PRON_PER 2160 2163	she
+T189	PRON_PER 2203 2206	she
+T190	PRON_PER 2263 2266	her
+T191	PRON_PER 2473 2476	she
+T192	PRON_PER 2559 2562	her
+T193	PRON_PER 2629 2632	She
+T194	PRON_PER 2642 2645	her
+T195	PRON_PER 2716 2719	she
+T196	PRON_PER 2739 2742	she
+T197	PRON_PER 2759 2762	her
+T198	PRON_PER 2790 2793	she
+T199	PRON_PER 2810 2813	her
+T200	PRON_PER 2841 2844	her
+T201	PRON_PER 2873 2876	her
+T202	PRON_PER 3101 3106	their
+T203	PRON_PER 3177 3180	She
+T204	PRON_PER 3384 3391	herself
+T205	PRON_PER 3450 3453	she
+T206	PRON_PER 3528 3531	her
+T207	PRON_PER 3568 3571	she
+T208	PRON_PER 3613 3616	her
+T209	PRON_PER 3656 3660	them
+T210	PRON_PER 3762 3766	them
+T211	PRON_PER 3815 3818	her
+T212	PRON_PER 3855 3858	she
+T213	PRON_PER 3925 3928	She
+T214	PRON_PER 3942 3945	her
+T215	PRON_PER 3959 3961	he
+T216	PRON_PER 3983 3986	her
+T217	PRON_PER 3989 3991	He
+T218	PRON_PER 4007 4010	her
+T219	PRON_PER 4087 4092	their
+T220	PRON_PER 4164 4167	his
+T221	PRON_PER 4231 4234	his
+T222	PRON_PER 4277 4279	he
+T223	PRON_PER 4379 4382	his
+T224	PRON_PER 4393 4396	his
+T225	PRON_PER 4414 4417	his
+T226	PRON_PER 4453 4456	him
+T227	PRON_PER 4471 4474	Her
+T228	PRON_PER 4606 4609	her
+T229	PRON_PER 4768 4771	her
+T230	PRON_PER 4786 4791	their
+T231	PRON_PER 4839 4842	her
+T232	PRON_PER 5052 5055	her
+T233	PRON_PER 5134 5138	them
+T234	PRON_PER 5141 5144	She
+T235	PRON_PER 5186 5189	her
+T236	PRON_PER 5239 5243	them
+T237	PRON_PER 5416 5419	her
+T238	PRON_PER 5474 5477	His
+T239	PRON_PER 5505 5507	He
+T240	PRON_PER 5571 5573	he
+T241	PRON_PER 5612 5616	them
+T242	PRON_PER 5717 5719	he
+T243	PRON_PER 5754 5757	his
+T244	PRON_PER 5809 5812	her
+T245	PRON_PER 5891 5893	he
+T246	PRON_PER 5950 5953	his
+T247	PRON_PER 6066 6073	himself
+T248	PRON_PER 6076 6078	he
+T249	PRON_PER 6151 6158	herself
+T250	PRON_PER 6166 6170	them
+T251	PRON_PER 6217 6220	she
+T252	PRON_PER 6247 6250	her
+T253	PRON_PER 6312 6315	she
+T254	PRON_PER 6332 6335	him
+T255	PRON_PER 6399 6402	him
+T256	PRON_PER 6425 6427	he
+T257	PRON_PER 6473 6474	I
+T258	PRON_PER 6480 6483	she
+T259	PRON_PER 6552 6555	her
+T260	PRON_PER 6562 6563	I
+T261	PRON_PER 6583 6586	you
+T262	PRON_PER 6596 6599	you
+T263	PRON_PER 6605 6606	I
+T264	PRON_PER 6686 6688	he
+T265	PRON_PER 6730 6733	you
+T266	PRON_PER 6775 6777	us
+T267	PRON_PER 6802 6804	my
+T268	PRON_PER 6824 6827	she
+T269	PRON_PER 6850 6853	her
+T270	PRON_PER 6875 6878	her
+T271	PRON_PER 6929 6932	her
+T272	PRON_PER 6977 6980	you
+T273	PRON_PER 7010 7012	my
+T274	PRON_PER 7034 7036	we
+T275	PRON_PER 7059 7063	them
+T276	PRON_PER 7070 7074	they
+T277	PRON_PER 7089 7091	us
+T278	PRON_PER 7097 7099	We
+T279	PRON_PER 7128 7130	We
+T280	PRON_PER 7146 7148	we
+T281	PRON_PER 7195 7197	My
+T282	PRON_PER 7212 7213	I
+T283	PRON_PER 7260 7261	I
+T284	PRON_PER 7325 7329	your
+T285	PRON_PER 7340 7342	We
+T286	PRON_PER 7515 7517	we
+T287	PRON_PER 7529 7532	our
+T289	PRON_PER 7599 7602	You
+T290	PRON_PER 7608 7610	we
+T291	PRON_PER 7643 7645	We
+T292	PRON_PER 7713 7716	you
+T293	PRON_PER 7734 7736	he
+T294	PRON_PER 7785 7788	his
+T295	PRON_PER 7825 7826	I
+T296	PRON_PER 7846 7848	he
+T297	PRON_PER 7864 7866	us
+T298	PRON_PER 7892 7896	your
+T299	PRON_PER 7912 7915	You
+T300	PRON_PER 7975 7978	you
+T301	PRON_PER 7989 7992	her
+T302	PRON_PER 8019 8022	you
+T303	PRON_PER 8029 8030	I
+T304	PRON_PER 8044 8045	I
+T305	PRON_PER 8059 8062	her
+T306	PRON_PER 8089 8090	I
+T307	PRON_PER 8127 8134	himself
+T308	PRON_PER 8167 8168	I
+T309	PRON_PER 8177 8180	she
+T310	PRON_PER 8213 8216	she
+T311	PRON_PER 8251 8252	I
+T312	PRON_PER 8277 8280	her
+T313	PRON_PER 8292 8293	I
+T314	PRON_PER 8298 8301	her
+T315	PRON_PER 8304 8307	she
+T316	PRON_PER 8333 8335	me
+T317	PRON_PER 8340 8341	I
+T318	PRON_PER 8382 8385	you
+T319	PRON_PER 8395 8398	her
+T320	PRON_PER 8423 8424	I
+T321	PRON_PER 8433 8436	she
+T322	PRON_PER 8506 8507	I
+T323	PRON_PER 8516 8519	she
+T324	PRON_PER 8625 8628	her
+T325	PRON_PER 8634 8637	she
+T326	PRON_PER 8687 8690	his
+T327	PRON_PER 8702 8705	you
+T328	PRON_PER 8713 8716	she
+T329	PRON_PER 8736 8738	us
+T330	PRON_PER 8741 8743	He
+T331	PRON_PER 8765 8768	her
+T332	PRON_PER 8773 8775	we
+T333	PRON_PER 8901 8904	her
+T334	PRON_PER 8978 8981	her
+T335	PRON_PER 9303 9305	He
+T336	PRON_PER 9454 9459	their
+T337	PRON_PER 9490 9492	He
+T338	PRON_PER 9760 9763	him
+T339	PRON_PER 9775 9778	his
+T340	PRON_PER 9822 9825	her
+T341	PRON_PER 9949 9952	you
+T342	PRON_PER 10014 10016	us
+T343	PRON_PER 10019 10020	I
+T344	PRON_PER 10031 10034	you
+T345	PRON_PER 3430 3434	hers
+T347	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 19 112	Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition
+T348	Hartfield-1 72 90	a comfortable home
+T499	the_world-2 214 223	the world
+T511	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 260 263	her
+T512	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 266 269	She
+T350	Emma_and_Isabelle-3 290 349	the two daughters of a most affectionate , indulgent father
+T351	Mr_Woodhouse-4 311 349	a most affectionate , indulgent father
+T513	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 380 383	her
+T353	Hartfield-1 422 431	his house
+T514	Mr_Woodhouse-4 422 425	his
+T354	Her_mother-5 459 469	Her mother
+T515	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 459 462	Her
+T516	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 496 499	her
+T517	Her_mother-5 547 550	her
+T518	Her_mother-5 566 569	her
+T355	Miss_Taylor-6 597 628	an excellent woman as governess
+T356	a_mother-100000 662 670	a mother
+T357	Miss_Taylor-6 704 715	Miss Taylor
+T358	Woodhouse_Family-7 724 747	Mr. Woodhouse 's family
+T359	Mr_Woodhouse-4 724 737	Mr. Woodhouse
+T362	Emma_and_Isabelle-3 799 813	both daughters
+T363	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 836 840	Emma
+T519	Emma_and_Miss_Taylor-8 853 857	them
+T364	sisters-100001 888 895	sisters
+T365	Miss_Taylor-6 910 921	Miss Taylor
+T366	governess-100002 963 972	governess
+T520	Miss_Taylor-6 991 994	her
+T521	Miss_Taylor-6 1021 1024	her
+T522	Emma_and_Miss_Taylor-8 1108 1112	they
+T367	friend-100003 1141 1147	friend
+T368	friend-100004 1152 1158	friend
+T369	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1188 1192	Emma
+T523	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1209 1212	she
+T370	Miss_Taylor-6 1238 1249	Miss Taylor
+T524	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1288 1291	her
+T371	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1327 1331	Emma
+T525	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1386 1389	her
+T526	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1448 1455	herself
+T527	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1513 1516	her
+T529	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1646 1649	her
+T372	Miss_Taylor-6 1753 1764	Miss Taylor
+T373	Miss_Taylor-6 1782 1793	Miss Taylor
+T375	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1884 1888	Emma
+T376	the_bride-people-9 1963 1979	the bride-people
+T377	Mr_Woodhouse-4 1987 1997	her father
+T530	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 1987 1990	her
+T531	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2002 2009	herself
+T378	a_third-100005 2059 2066	a third
+T379	Mr_Woodhouse-4 2093 2103	Her father
+T532	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2093 2096	Her
+T533	Mr_Woodhouse-4 2113 2120	himself
+T534	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2160 2163	she
+T535	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2203 2206	she
+T380	Miss_Taylor-6 2263 2273	her friend
+T536	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2263 2266	her
+T381	Mr__Weston-10 2276 2286	Mr. Weston
+T537	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2473 2476	she
+T538	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2559 2562	her
+T383	Miss_Taylor-6 2577 2588	Miss Taylor
+T539	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2629 2632	She
+T540	Miss_Taylor-6 2642 2645	her
+T541	Miss_Taylor-6 2716 2719	she
+T542	Miss_Taylor-6 2739 2742	she
+T543	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2759 2762	her
+T544	Miss_Taylor-6 2790 2793	she
+T545	Miss_Taylor-6 2810 2813	her
+T546	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2841 2844	her
+T547	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 2873 2876	her
+T384	Isabella-11 3075 3083	Isabella
+T548	Emma_and_Miss_Taylor-8 3101 3106	their
+T549	Miss_Taylor-6 3177 3180	She
+T386	Woodhouse_Family-7 3309 3319	the family
+T550	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3384 3391	herself
+T691	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3430 3434	hers
+T551	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3450 3453	she
+T552	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3528 3531	her
+T553	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3568 3571	she
+T387	Miss_Taylor-6 3613 3623	her friend
+T554	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3613 3616	her
+T555	Emma_and_father-12 3656 3660	them
+T388	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3667 3671	Emma
+T389	Miss_Taylor-6 3724 3737	a Mrs. Weston
+T556	Emma_and_father-12 3762 3766	them
+T390	Miss_Taylor-6 3773 3786	a Miss Taylor
+T391	Hartfield-1 3790 3799	the house
+T557	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3815 3818	her
+T558	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3855 3858	she
+T559	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3925 3928	She
+T392	Mr_Woodhouse-4 3942 3952	her father
+T560	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3942 3945	her
+T561	Mr_Woodhouse-4 3959 3961	he
+T393	no_companion_for_her-100006 3966 3986	no companion for her
+T562	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 3983 3986	her
+T563	Mr_Woodhouse-4 3989 3991	He
+T564	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 4007 4010	her
+T565	Emma_and_father-12 4087 4092	their
+T394	Mr_Woodhouse-4 4104 4117	Mr. Woodhouse
+T567	Mr_Woodhouse-4 4231 4234	his
+T568	Mr_Woodhouse-4 4277 4279	he
+T569	Mr_Woodhouse-4 4379 4382	his
+T570	Mr_Woodhouse-4 4393 4396	his
+T571	Mr_Woodhouse-4 4414 4417	his
+T572	Mr_Woodhouse-4 4453 4456	him
+T573	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 4471 4474	Her
+T398	London-13 4556 4562	London
+T574	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 4606 4609	her
+T399	Hartfield-1 4698 4707	Hartfield
+T400	Isabella-11 4755 4763	Isabella
+T401	Isabella_s_husband-14 4768 4779	her husband
+T575	Isabella-11 4768 4771	her
+T402	Isabella_s_children-15 4786 4807	their little children
+T576	Isabella_and_husband-16 4786 4791	their
+T403	Hartfield-1 4818 4827	the house
+T577	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 4839 4842	her
+T404	Highbury-17 4868 4876	Highbury
+T407	Hartfield-1 4950 4959	Hartfield
+T578	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 5052 5055	her
+T408	Woodhouse_Family-7 5068 5082	The Woodhouses
+T504	Highbury-17 5109 5114	there
+T579	Woodhouse_Family-7 5134 5138	them
+T580	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 5141 5144	She
+T508	Highbury-17 5170 5179	the place
+T409	Mr_Woodhouse-4 5186 5196	her father
+T581	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 5186 5189	her
+T582	People_of_Highbury-18 5239 5243	them
+T410	Miss_Taylor-6 5277 5288	Miss Taylor
+T411	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 5344 5348	Emma
+T412	Mr_Woodhouse-4 5416 5426	her father
+T583	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 5416 5419	her
+T584	Mr_Woodhouse-4 5474 5477	His
+T585	Mr_Woodhouse-4 5505 5507	He
+T503	every_body_that_he_was_used_to-19 5555 5585	every body that he was used to
+T586	Mr_Woodhouse-4 5571 5573	he
+T587	every_body_that_he_was_used_to-19 5612 5616	them
+T588	Mr_Woodhouse-4 5717 5719	he
+T414	Isabella-11 5754 5770	his own daughter
+T589	Mr_Woodhouse-4 5754 5757	his
+T590	Isabella-11 5809 5812	her
+T591	Mr_Woodhouse-4 5891 5893	he
+T415	Miss_Taylor-6 5923 5934	Miss Taylor
+T592	Mr_Woodhouse-4 5950 5953	his
+T416	other_people-100007 6025 6037	other people
+T593	Mr_Woodhouse-4 6066 6073	himself
+T594	Mr_Woodhouse-4 6076 6078	he
+T417	Miss_Taylor-6 6111 6122	Miss Taylor
+T595	Miss_Taylor-6 6151 6158	herself
+T596	Emma_and_father-12 6166 6170	them
+T597	Miss_Taylor-6 6217 6220	she
+T598	Miss_Taylor-6 6247 6250	her
+T418	Hartfield-1 6259 6268	Hartfield
+T419	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 6271 6275	Emma
+T599	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 6312 6315	she
+T600	Mr_Woodhouse-4 6332 6335	him
+T601	Mr_Woodhouse-4 6399 6402	him
+T602	Mr_Woodhouse-4 6425 6427	he
+T420	Miss_Taylor-6 6456 6467	Miss Taylor
+T603	Mr_Woodhouse-4 6473 6474	I
+T604	Miss_Taylor-6 6480 6483	she
+T421	Mr__Weston-10 6525 6535	Mr. Weston
+T605	Miss_Taylor-6 6552 6555	her
+T606	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 6562 6563	I
+T607	Mr_Woodhouse-4 6583 6586	you
+T422	Mr_Woodhouse-4 6589 6593	papa
+T608	Mr_Woodhouse-4 6596 6599	you
+T609	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 6605 6606	I
+T423	Mr__Weston-10 6617 6627	Mr. Weston
+T610	Mr__Weston-10 6686 6688	he
+T425	a_good_wife-100008 6709 6720	a good wife
+T611	Mr_Woodhouse-4 6730 6733	you
+T426	Miss_Taylor-6 6753 6764	Miss Taylor
+T612	Emma_and_father-12 6775 6777	us
+T613	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 6802 6804	my
+T614	Miss_Taylor-6 6824 6827	she
+T427	Randalls-20 6839 6857	a house of her own
+T615	Miss_Taylor-6 6850 6853	her
+T428	Randalls-20 6864 6882	A house of her own
+T616	Miss_Taylor-6 6875 6878	her
+T429	Randalls-20 6918 6936	a house of her own
+T617	Miss_Taylor-6 6929 6932	her
+T618	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 6977 6980	you
+T619	Mr_Woodhouse-4 7010 7012	my
+T620	Emma_and_father-12 7034 7036	we
+T621	Weston_family-21 7059 7063	them
+T622	Weston_family-21 7070 7074	they
+T623	Emma_and_father-12 7089 7091	us
+T624	Emma_and_father-12 7097 7099	We
+T625	Emma_and_father-12 7128 7130	We
+T626	Emma_and_father-12 7146 7148	we
+T627	Mr_Woodhouse-4 7195 7197	My
+T628	Mr_Woodhouse-4 7212 7213	I
+T430	Randalls-20 7230 7238	Randalls
+T629	Mr_Woodhouse-4 7260 7261	I
+T431	Mr_Woodhouse-4 7300 7304	papa
+T501	nobody-100009 7307 7313	nobody
+T630	Mr_Woodhouse-4 7325 7329	your
+T631	Emma_and_father-12 7340 7342	We
+T432	the_carriage-22 7354 7366	the carriage
+T433	the_carriage-22 7386 7398	The carriage
+T434	James-23 7405 7410	James
+T632	Emma_and_father-12 7515 7517	we
+T633	Emma_and_father-12 7529 7532	our
+T435	Mr__Weston-10 7569 7579	Mr. Weston
+T436	Mr__Weston__s_stable-24 7569 7589	Mr. Weston 's stable
+T437	Mr_Woodhouse-4 7592 7596	papa
+T635	Mr_Woodhouse-4 7599 7602	You
+T636	Emma_and_father-12 7608 7610	we
+T637	Emma_and_father-12 7643 7645	We
+T438	Mr__Weston-10 7670 7680	Mr. Weston
+T439	James-23 7705 7710	James
+T638	Mr_Woodhouse-4 7713 7716	you
+T639	James-23 7734 7736	he
+T440	Randalls-20 7763 7771	Randalls
+T441	Hannah-25 7785 7797	his daughter
+T640	James-23 7785 7788	his
+T505	Randalls-20 7817 7822	there
+T641	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 7825 7826	I
+T642	James-23 7846 7848	he
+T643	Emma_and_father-12 7864 7866	us
+T644	Mr_Woodhouse-4 7892 7896	your
+T442	Mr_Woodhouse-4 7905 7909	papa
+T645	Mr_Woodhouse-4 7912 7915	You
+T443	Hannah-25 7920 7926	Hannah
+T502	Nobody-100010 7945 7951	Nobody
+T444	Hannah-25 7963 7969	Hannah
+T646	Mr_Woodhouse-4 7975 7978	you
+T647	Hannah-25 7989 7992	her
+T445	James-23 7996 8001	James
+T648	Mr_Woodhouse-4 8019 8022	you
+T649	Mr_Woodhouse-4 8029 8030	I
+T650	Mr_Woodhouse-4 8044 8045	I
+T651	Hannah-25 8059 8062	her
+T652	Mr_Woodhouse-4 8089 8090	I
+T446	James-23 8115 8120	James
+T653	James-23 8127 8134	himself
+T654	Mr_Woodhouse-4 8167 8168	I
+T655	Hannah-25 8177 8180	she
+T656	Hannah-25 8213 8216	she
+T657	Mr_Woodhouse-4 8251 8252	I
+T658	Hannah-25 8277 8280	her
+T659	Mr_Woodhouse-4 8292 8293	I
+T660	Hannah-25 8298 8301	her
+T661	Hannah-25 8304 8307	she
+T662	Mr_Woodhouse-4 8333 8335	me
+T663	Mr_Woodhouse-4 8340 8341	I
+T664	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 8382 8385	you
+T665	Hannah-25 8395 8398	her
+T507	Hartfield-1 8399 8403	here
+T666	Mr_Woodhouse-4 8423 8424	I
+T667	Hannah-25 8433 8436	she
+T668	Mr_Woodhouse-4 8506 8507	I
+T669	Hannah-25 8516 8519	she
+T450	Miss_Taylor-6 8590 8601	Miss Taylor
+T498	somebody-100011 8610 8618	somebody
+T670	Miss_Taylor-6 8625 8628	her
+T671	Miss_Taylor-6 8634 8637	she
+T451	James-23 8664 8669	James
+T452	Hannah-25 8687 8699	his daughter
+T672	James-23 8687 8690	his
+T673	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 8702 8705	you
+T674	Miss_Taylor-6 8713 8716	she
+T675	Emma_and_father-12 8736 8738	us
+T676	James-23 8741 8743	He
+T677	Miss_Taylor-6 8765 8768	her
+T678	Emma_and_father-12 8773 8775	we
+T453	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 8788 8792	Emma
+T454	Mr_Woodhouse-4 8901 8911	her father
+T679	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 8901 8904	her
+T680	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0 8978 8981	her
+T455	Mr__Knightley-26 9026 9035	a visitor
+T456	Mr__Knightley-26 9095 9108	Mr. Knightley
+T459	Woodhouse_Family-7 9207 9217	the family
+T461	Mr__Weston-10 9281 9300	Isabella 's husband
+T462	Isabella-11 9281 9289	Isabella
+T681	Mr__Knightley-26 9303 9305	He
+T463	Highbury-17 9330 9338	Highbury
+T682	Knightly_and_Woodhouses-27 9454 9459	their
+T465	London-13 9481 9487	London
+T683	Mr__Knightley-26 9490 9492	He
+T466	Hartfield-1 9574 9583	Hartfield
+T467	Brunswick_Square-28 9613 9629	Brunswick Square
+T468	Mr_Woodhouse-4 9675 9688	Mr. Woodhouse
+T469	Mr__Knightley-26 9705 9718	Mr. Knightley
+T684	Mr_Woodhouse-4 9760 9763	him
+T685	Mr__Knightley-26 9775 9778	his
+T470	Isabella-11 9802 9815	poor Isabella
+T471	Isabella_s_children-15 9822 9834	her children
+T686	Isabella-11 9822 9825	her
+T472	Mr_Woodhouse-4 9892 9905	Mr. Woodhouse
+T687	Mr__Knightley-26 9949 9952	you
+T473	Mr__Knightley-26 9955 9968	Mr. Knightley
+T688	Emma_and_father-12 10014 10016	us
+T689	Mr_Woodhouse-4 10019 10020	I
+T690	Mr__Knightley-26 10031 10034	you
+R1	cop Arg1:T3 Arg2:T166
+R2	cop Arg1:T6 Arg2:T166
+R4	cop Arg1:T15 Arg2:T11
+R6	cop Arg1:T36 Arg2:T35
+R7	cop Arg1:T39 Arg2:T203
+R9	cop Arg1:T49 Arg2:T222
+R11	appos Arg1:T59 Arg2:T58
+R13	cop Arg1:T67 Arg2:T239
+R15	cop Arg1:T78 Arg2:T77
+R16	cop Arg1:T160 Arg2:T95
+R18	cop Arg1:T102 Arg2:T310
+R20	appos Arg1:T111 Arg2:T110
+R21	cop Arg1:T112 Arg2:T110
+R22	cop Arg1:T114 Arg2:T110
+R23	cop Arg1:T118 Arg2:T335
+R5	cop Arg1:T50 Arg2:T222
+T128	Mr_Woodhouse-4 4164 4167	his
+T129	NOM_PER 1859 1878	this beloved friend
+T700	PRON_PER 3340 3343	its
+T701	Woodhouse_Family-7 3340 3343	its
+T706	PRON_FAC 4974 4977	its
+T707	Hartfield-1 4974 4977	its
+T730	PRON_PER 9252 9254	it
+T731	Woodhouse_Family-7 9252 9254	it
+T130	a_governess-700 758 769	a governess
+T131	a_town-701 4932 4938	a town
+T132	a_very_good_servant-702 8191 8210	a very good servant
+T133	an_excellent_servant-703 8528 8548	an excellent servant
+T134	NOM_PER 4471 4481	Her sister
+T135	Isabella-11 4471 4481	Her sister

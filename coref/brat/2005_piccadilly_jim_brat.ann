@@ -1,0 +1,598 @@
+T2	PROP_FAC 92 107	Riverside Drive
+T3	NOM_PER 62 86	the well-known financier
+T5	NOM_FAC 511 527	a suburban villa
+T6	NOM_FAC 530 537	a hotel
+T7	NOM_FAC 727 753	New York 's Public Library
+T8	NOM_FAC 614 623	the porch
+T10	NOM_PER 903 934	a woman who liked to be noticed
+T11	PROP_PER 845 854	Mrs. Pett
+T12	NOM_FAC 762 801	a house which is impossible to overlook
+T13	NOM_PER 1034 1047	a lost spirit
+T14	NOM_PER 990 1012	its nominal proprietor
+T16	NOM_FAC 1136 1145	the house
+T17	NOM_PER 1931 1964	all lovers of sensational fiction
+T20	PROP_PER 2082 2098	Willie Partridge
+T22	NOM_PER 2359 2399	mostly novelists who had not yet started
+T23	NOM_PER 2656 2681	his wife 's first husband
+T25	NOM_PER 2944 2990	the man who waits fifty years before trying it
+T26	PROP_PER 2907 2915	Mr. Pett
+T27	NOM_PER 3008 3020	the geniuses
+T28	NOM_PER 3093 3148	a fourteen-year-old boy of a singularly unloveable type
+T29	NOM_FAC 3057 3069	her new home
+T30	PROP_PER 3023 3032	Mrs. Pett
+T31	NOM_PER 3298 3312	private tutors
+T32	NOM_PER 3548 3552	boys
+T33	PROP_PER 3514 3522	Mr. Pett
+T34	PROP_PER 3555 3565	Ogden Ford
+T35	PROP_PER 3798 3806	Mr. Pett
+T39	NOM_PER 4413 4423	his father
+T40	PROP_PER 4453 4461	Mr. Pett
+T41	NOM_FAC 4582 4593	the library
+T42	NOM_PER 4905 4918	their juniors
+T43	NOM_FAC 4889 4918	a house full of their juniors
+T44	PROP_PER 5025 5035	Ogden Ford
+T46	PROP_PER 5128 5136	Mr. Pett
+T47	NOM_PER 5438 5455	the bulging child
+T48	PROP_PER 5471 5481	Ogden Ford
+T51	NOM_PER 5917 5923	Mother
+T53	PROP_PER 6027 6035	Mr. Pett
+T55	PROP_PER 6407 6415	Mr. Pett
+T56	NOM_PER 6761 6772	the fellows
+T57	PROP_PER 6951 6959	Mr. Pett
+T59	PROP_PER 7272 7280	Mr. Pett
+T60	NOM_FAC 7394 7400	a home
+T62	NOM_PER 7641 7681	Mr. Pett , who was touchy on the subject
+T64	NOM_PER 7764 7775	what mother
+T65	PROP_PER 8086 8094	Mr. Pett
+T66	NOM_PER 8134 8145	another man
+T68	PROP_FAC 8295 8310	Riverside Drive
+T70	PROP_FAC 8337 8348	Pine Street
+T71	NOM_PER 8422 8457	whiskered , square-jawed financiers
+T72	PROP_FAC 8392 8403	Pine Street
+T74	NOM_PER 8507 8530	a fourteen-year-old boy
+T75	PROP_FAC 8482 8497	Riverside Drive
+T76	NOM_FAC 8814 8824	the stairs
+T77	PROP_PER 9039 9047	Mr. Pett
+T78	NOM_FAC 9226 9236	the office
+T79	NOM_FAC 9213 9217	home
+T80	NOM_PER 9469 9472	men
+T81	PROP_PER 9296 9304	Mr. Pett
+T82	NOM_LOC 9926 9935	the river
+T83	NOM_PER 9942 9989	the girl who had been working at the typewriter
+T84	PROP_PER 10006 10014	Mr. Pett
+T1	NOM_PER 10 27	A RED-HAIRED GIRL
+T85	PROP_PER 45 59	Mr. Peter Pett
+T86	NOM_FAC 142 177	that breezy and expensive boulevard
+T87	NOM_FAC 28 107	The residence of Mr. Peter Pett , the well-known financier , on Riverside Drive
+T88	NOM_FAC 118 177	the leading eyesores of that breezy and expensive boulevard
+T89	NOM_VEH 198 212	your limousine
+T90	NOM_VEH 272 287	a green omnibus
+T91	NOM_PER 322 332	Architects
+T4	NOM_PER 409 425	the lay observer
+T92	NOM_FAC 449 458	The place
+T93	NOM_FAC 497 508	a cathedral
+T94	NOM_FAC 542 558	a Chinese pagoda
+T95	PROP_GPE 727 735	New York
+T9	NOM_PER 867 878	her husband
+T96	NOM_FAC 966 978	this mansion
+T15	PROP_PER 979 987	Mr. Pett
+T97	NOM_FAC 1290 1316	the godless Stock Exchange
+T98	NOM_PER 1627 1636	Intruders
+T99	NOM_FAC 1664 1673	The place
+T100	PROP_PER 1826 1835	Mrs. Pett
+T101	PROP_PER 1900 1915	Nesta Ford Pett
+T102	NOM_PER 2046 2063	a single specimen
+T103	NOM_PER 2069 2079	her nephew
+T18	NOM_PER 2404 2433	poets who were about to begin
+T104	NOM_PER 2336 2356	Six brilliant youths
+T21	PROP_PER 2449 2457	Mr. Pett
+T105	NOM_FAC 2449 2466	Mr. Pett 's rooms
+T106	NOM_PER 2656 2664	his wife
+T24	PROP_PER 2715 2725	Elmer Ford
+T107	NOM_PER 2684 2708	a business friend of his
+T108	NOM_PER 2822 2834	the deceased
+T109	NOM_PER 3070 3082	her only son
+T110	PROP_PER 3085 3090	Ogden
+T111	NOM_PER 3446 3453	the boy
+T112	NOM_PER 3604 3615	his stepson
+T113	NOM_FAC 3889 3905	the morning-room
+T37	NOM_FAC 4090 4101	the passage
+T114	NOM_FAC 4333 4356	his own private library
+T38	NOM_FAC 4360 4450	a large , soothing room full of old books , of which his father had been a great collector
+T115	NOM_PER 4846 4948	elderly gentlemen of solitary habit who in a house full of their juniors find themselves alone at last
+T116	NOM_PER 5017 5020	pop
+T117	NOM_PER 5095 5098	pop
+T45	NOM_PER 5170 5182	his step-son
+T118	NOM_PER 5215 5222	the boy
+T119	NOM_PER 5339 5349	the latter
+T49	NOM_PER 5785 5788	boy
+T50	PROP_PER 5802 5810	Mr. Pett
+T52	PROP_PER 5947 5952	Ogden
+T120	NOM_PER 6004 6013	the enemy
+T121	PROP_PER 6075 6080	Ogden
+T122	NOM_PER 6198 6201	pop
+T123	NOM_PER 6275 6287	his step-son
+T124	NOM_PER 6878 6881	pop
+T58	NOM_PER 7013 7088	this calm , goggle-eyed boy who treated him with such supercilious coolness
+T61	PROP_PER 7799 7804	Ogden
+T63	NOM_PER 7862 7865	pop
+T125	NOM_PER 8021 8024	pop
+T67	NOM_PER 8268 8291	a totally different man
+T69	NOM_PER 8316 8333	the person he was
+T73	NOM_PER 8409 8418	grown men
+T126	NOM_FAC 8836 8849	the top floor
+T127	NOM_FAC 8868 8879	the passage
+T128	NOM_PER 9260 9266	a girl
+T129	NOM_FAC 9457 9472	the dens of men
+T130	NOM_VEH 9800 9811	automobiles
+T131	NOM_FAC 9819 9828	the Drive
+T154	NOM_PER 6513 6516	sir
+T155	NOM_PER 6703 6706	sir
+T156	NOM_PER 4674 4680	nobody
+T157	NOM_FAC 9278 9318	The room in which Mr. Pett found himself
+T158	NOM_FAC 4681 4686	there
+T159	NOM_FAC 6725 6729	here
+T160	NOM_FAC 6780 6784	here
+T162	PRON_PER 183 186	you
+T163	PRON_PER 198 202	your
+T164	PRON_PER 316 319	you
+T165	PRON_PER 374 379	their
+T166	PRON_PER 867 870	her
+T167	PRON_PER 895 898	she
+T168	PRON_PER 1177 1180	him
+T169	PRON_PER 1219 1222	his
+T170	PRON_PER 1327 1330	his
+T171	PRON_PER 1352 1354	He
+T172	PRON_PER 1397 1400	his
+T173	PRON_PER 1429 1431	he
+T174	PRON_PER 1458 1460	He
+T175	PRON_PER 1515 1517	he
+T176	PRON_PER 1548 1550	he
+T177	PRON_PER 1562 1565	his
+T178	PRON_PER 1603 1605	he
+T179	PRON_PER 1753 1756	his
+T180	PRON_PER 1848 1851	She
+T181	PRON_PER 1880 1887	herself
+T182	PRON_PER 2069 2072	her
+T183	PRON_PER 2180 2183	she
+T184	PRON_PER 2207 2210	her
+T185	PRON_PER 2235 2238	she
+T186	PRON_PER 2260 2263	her
+T187	PRON_PER 2501 2503	he
+T188	PRON_PER 2516 2519	his
+T189	PRON_PER 2625 2627	he
+T190	PRON_PER 2656 2659	his
+T191	PRON_PER 2705 2708	his
+T192	PRON_PER 2800 2802	he
+T193	PRON_PER 3050 3053	her
+T194	PRON_PER 3057 3060	her
+T195	PRON_PER 3070 3073	her
+T196	PRON_PER 3238 3241	him
+T197	PRON_PER 3326 3336	themselves
+T198	PRON_PER 3347 3351	They
+T199	PRON_PER 3534 3537	his
+T200	PRON_PER 3592 3594	He
+T201	PRON_PER 3604 3607	his
+T202	PRON_PER 3637 3639	he
+T203	PRON_PER 3660 3663	him
+T204	PRON_PER 3676 3679	his
+T205	PRON_PER 3729 3731	he
+T206	PRON_PER 3786 3789	him
+T207	PRON_PER 3815 3818	his
+T208	PRON_PER 3829 3831	He
+T209	PRON_PER 4026 4028	he
+T210	PRON_PER 4113 4116	him
+T211	PRON_PER 4126 4129	his
+T212	PRON_PER 4201 4204	him
+T214	PRON_PER 4227 4229	He
+T215	PRON_PER 4305 4308	him
+T216	PRON_PER 4333 4336	his
+T217	PRON_PER 4413 4416	his
+T218	PRON_PER 4485 4492	himself
+T219	PRON_PER 4499 4501	he
+T221	PRON_PER 4546 4549	his
+T222	PRON_PER 4565 4567	he
+T223	PRON_PER 4605 4608	his
+T224	PRON_PER 4689 4691	He
+T225	PRON_PER 4737 4739	He
+T226	PRON_PER 4761 4763	He
+T227	PRON_PER 4905 4910	their
+T228	PRON_PER 4924 4934	themselves
+T229	PRON_PER 4983 4986	his
+T230	PRON_PER 5170 5173	his
+T231	PRON_PER 5203 5205	He
+T232	PRON_PER 5366 5369	his
+T233	PRON_PER 5465 5468	him
+T234	PRON_PER 5524 5526	He
+T235	PRON_PER 5702 5705	his
+T236	PRON_PER 5772 5775	you
+T237	PRON_PER 5813 5816	his
+T238	PRON_PER 5872 5873	I
+T239	PRON_PER 5879 5882	you
+T240	PRON_PER 5935 5937	me
+T241	PRON_PER 5965 5967	he
+T242	PRON_PER 6092 6095	his
+T243	PRON_PER 6141 6144	his
+T244	PRON_PER 6192 6195	you
+T245	PRON_PER 6208 6209	I
+T246	PRON_PER 6248 6249	I
+T247	PRON_PER 6258 6261	you
+T248	PRON_PER 6275 6278	his
+T249	PRON_PER 6305 6306	I
+T250	PRON_PER 6325 6326	I
+T251	PRON_PER 6342 6345	you
+T252	PRON_PER 6370 6372	me
+T253	PRON_PER 6384 6385	I
+T254	PRON_PER 6446 6449	You
+T255	PRON_PER 6473 6475	Me
+T256	PRON_PER 6565 6566	I
+T259	PRON_PER 6645 6648	You
+T260	PRON_PER 6671 6674	you
+T261	PRON_PER 6681 6683	me
+T262	PRON_PER 6709 6710	I
+T263	PRON_PER 6746 6747	I
+T264	PRON_PER 6792 6794	me
+T265	PRON_PER 6797 6801	They
+T266	PRON_PER 6821 6825	your
+T267	PRON_PER 6841 6844	You
+T268	PRON_PER 6884 6887	You
+T269	PRON_PER 6904 6912	yourself
+T270	PRON_PER 6986 6988	he
+T271	PRON_PER 6994 7001	himself
+T272	PRON_PER 7053 7056	him
+T273	PRON_PER 7093 7096	You
+T274	PRON_PER 7153 7155	he
+T275	PRON_PER 7207 7208	I
+T276	PRON_PER 7217 7220	you
+T277	PRON_PER 7232 7233	I
+T278	PRON_PER 7237 7238	I
+T279	PRON_PER 7404 7407	you
+T280	PRON_PER 7437 7438	I
+T281	PRON_PER 7443 7447	your
+T282	PRON_PER 7454 7455	I
+T283	PRON_PER 7516 7518	my
+T284	PRON_PER 7542 7545	you
+T285	PRON_PER 7564 7567	you
+T286	PRON_PER 7603 7604	I
+T287	PRON_PER 7694 7698	your
+T288	PRON_PER 7713 7714	I
+T289	PRON_PER 7747 7748	I
+T290	PRON_PER 7916 7920	your
+T291	PRON_PER 7939 7942	you
+T292	PRON_PER 7967 7970	you
+T293	PRON_PER 7994 7997	you
+T294	PRON_PER 8030 8033	you
+T295	PRON_PER 8118 8120	He
+T296	PRON_PER 8245 8248	him
+T297	PRON_PER 8262 8264	he
+T298	PRON_PER 8327 8329	he
+T299	PRON_PER 8362 8364	he
+T300	PRON_PER 8381 8384	his
+T301	PRON_PER 8565 8568	him
+T302	PRON_PER 8626 8629	him
+T303	PRON_PER 8666 8668	he
+T304	PRON_PER 8701 8703	he
+T305	PRON_PER 8715 8718	his
+T306	PRON_PER 8734 8736	He
+T307	PRON_PER 8773 8776	his
+T308	PRON_PER 8796 8798	he
+T309	PRON_PER 8852 8854	he
+T311	PRON_PER 9090 9092	he
+T312	PRON_PER 9105 9107	he
+T313	PRON_PER 9160 9162	He
+T314	PRON_PER 9311 9318	himself
+T315	PRON_PER 9874 9877	her
+T316	PRON_PER 9992 9995	She
+T317	PRON_PER 10041 10044	her
+T319	A_RED-HAIRED_GIRL-0 10 27	A RED-HAIRED GIRL
+T405	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 28 107	The residence of Mr. Peter Pett , the well-known financier , on Riverside Drive
+T403	Mr__Peter_Pett-2 45 59	Mr. Peter Pett
+T320	Riverside_Drive-3 92 107	Riverside Drive
+T406	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 118 177	the leading eyesores of that breezy and expensive boulevard
+T404	Riverside_Drive-3 142 177	that breezy and expensive boulevard
+T480	you-100000 183 186	you
+T407	your_limousine-4 198 212	your limousine
+T481	your-100001 198 202	your
+T408	a_green_omnibus-5 272 287	a green omnibus
+T482	you-100002 316 319	you
+T409	Architects-6 322 332	Architects
+T483	Architects-6 374 379	their
+T322	the_lay_observer-7 409 425	the lay observer
+T410	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 449 458	The place
+T411	a_cathedral-8 497 508	a cathedral
+T323	a_suburban_villa-9 511 527	a suburban villa
+T324	a_hotel-10 530 537	a hotel
+T412	a_Chinese_pagoda-11 542 558	a Chinese pagoda
+T326	the_porch-12 614 623	the porch
+T325	New_York__s_Public_Library-13 727 753	New York 's Public Library
+T413	New_York-14 727 735	New York
+T329	Mrs__Pett-15 845 854	Mrs. Pett
+T327	Mr__Peter_Pett-2 867 878	her husband
+T484	Mrs__Pett-15 867 870	her
+T485	Mrs__Pett-15 895 898	she
+T414	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 966 978	this mansion
+T333	Mr__Peter_Pett-2 979 987	Mr. Pett
+T331	a_lost_spirit-16 1034 1047	a lost spirit
+T334	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 1136 1145	the house
+T486	Mr__Peter_Pett-2 1177 1180	him
+T487	Mr__Peter_Pett-2 1219 1222	his
+T415	the_godless_Stock_Exchange-17 1290 1316	the godless Stock Exchange
+T488	Mr__Peter_Pett-2 1327 1330	his
+T489	Mr__Peter_Pett-2 1352 1354	He
+T490	Mr__Peter_Pett-2 1397 1400	his
+T491	Mr__Peter_Pett-2 1429 1431	he
+T492	Mr__Peter_Pett-2 1458 1460	He
+T493	Mr__Peter_Pett-2 1515 1517	he
+T494	Mr__Peter_Pett-2 1548 1550	he
+T495	Mr__Peter_Pett-2 1562 1565	his
+T496	Mr__Peter_Pett-2 1603 1605	he
+T416	Intruders-18 1627 1636	Intruders
+T417	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 1664 1673	The place
+T497	Mr__Peter_Pett-2 1753 1756	his
+T418	Mrs__Pett-15 1826 1835	Mrs. Pett
+T498	Mrs__Pett-15 1848 1851	She
+T499	Mrs__Pett-15 1880 1887	herself
+T419	Mrs__Pett-15 1900 1915	Nesta Ford Pett
+T335	all_lovers_of_sensational_fiction-19 1931 1964	all lovers of sensational fiction
+T420	Willie-20 2046 2063	a single specimen
+T500	Mrs__Pett-15 2069 2072	her
+T338	Willie-20 2082 2098	Willie Partridge
+T501	Mrs__Pett-15 2180 2183	she
+T502	Mrs__Pett-15 2207 2210	her
+T503	Mrs__Pett-15 2235 2238	she
+T504	Mrs__Pett-15 2260 2263	her
+T422	six_young_and_unrecognised_geniuses-21 2336 2356	Six brilliant youths
+T340	six_young_and_unrecognised_geniuses-21 2359 2399	mostly novelists who had not yet started
+T336	six_young_and_unrecognised_geniuses-21 2404 2433	poets who were about to begin
+T339	Mr__Peter_Pett-2 2449 2457	Mr. Pett
+T423	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 2449 2466	Mr. Pett 's rooms
+T505	Mr__Peter_Pett-2 2501 2503	he
+T506	Mr__Peter_Pett-2 2516 2519	his
+T507	Mr__Peter_Pett-2 2625 2627	he
+T341	Elmer-22 2656 2681	his wife 's first husband
+T424	Mrs__Pett-15 2656 2664	his wife
+T508	Mr__Peter_Pett-2 2656 2659	his
+T425	Elmer-22 2684 2708	a business friend of his
+T509	Mr__Peter_Pett-2 2705 2708	his
+T342	Elmer-22 2715 2725	Elmer Ford
+T510	Mr__Peter_Pett-2 2800 2802	he
+T426	Elmer-22 2822 2834	the deceased
+T344	Mr__Peter_Pett-2 2907 2915	Mr. Pett
+T343	the_man_who_waits_fifty_years_before_trying_it-23 2944 2990	the man who waits fifty years before trying it
+T345	six_young_and_unrecognised_geniuses-21 3008 3020	the geniuses
+T348	Mrs__Pett-15 3023 3032	Mrs. Pett
+T511	Mrs__Pett-15 3050 3053	her
+T347	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 3057 3069	her new home
+T512	Mrs__Pett-15 3057 3060	her
+T427	Ogden-24 3070 3082	her only son
+T513	Mrs__Pett-15 3070 3073	her
+T346	Ogden-24 3093 3148	a fourteen-year-old boy of a singularly unloveable type
+T514	Ogden-24 3238 3241	him
+T349	private_tutors-25 3298 3312	private tutors
+T515	private_tutors-25 3326 3336	themselves
+T516	private_tutors-25 3347 3351	They
+T429	Ogden-24 3446 3453	the boy
+T351	Mr__Peter_Pett-2 3514 3522	Mr. Pett
+T517	Mr__Peter_Pett-2 3534 3537	his
+T350	boys-26 3548 3552	boys
+T352	Ogden-24 3555 3565	Ogden Ford
+T518	Mr__Peter_Pett-2 3592 3594	He
+T430	Ogden-24 3604 3615	his stepson
+T519	Mr__Peter_Pett-2 3604 3607	his
+T520	Mr__Peter_Pett-2 3637 3639	he
+T521	Ogden-24 3660 3663	him
+T522	Mr__Peter_Pett-2 3676 3679	his
+T523	Mr__Peter_Pett-2 3729 3731	he
+T524	Ogden-24 3786 3789	him
+T353	Mr__Peter_Pett-2 3798 3806	Mr. Pett
+T525	Mr__Peter_Pett-2 3815 3818	his
+T526	Mr__Peter_Pett-2 3829 3831	He
+T431	the_morning-room-27 3889 3905	the morning-room
+T527	Mr__Peter_Pett-2 4026 4028	he
+T355	the_passage-29 4090 4101	the passage
+T528	Mr__Peter_Pett-2 4113 4116	him
+T529	Mr__Peter_Pett-2 4126 4129	his
+T530	Mr__Peter_Pett-2 4201 4204	him
+T532	Mr__Peter_Pett-2 4227 4229	He
+T533	Mr__Peter_Pett-2 4305 4308	him
+T432	his_own_private_library-30 4333 4356	his own private library
+T534	Mr__Peter_Pett-2 4333 4336	his
+T357	his_father-31 4413 4423	his father
+T535	Mr__Peter_Pett-2 4413 4416	his
+T358	Mr__Peter_Pett-2 4453 4461	Mr. Pett
+T536	Mr__Peter_Pett-2 4485 4492	himself
+T537	Mr__Peter_Pett-2 4499 4501	he
+T539	Mr__Peter_Pett-2 4546 4549	his
+T540	Mr__Peter_Pett-2 4565 4567	he
+T359	his_own_private_library-30 4582 4593	the library
+T541	Mr__Peter_Pett-2 4605 4608	his
+T474	nobody-100003 4674 4680	nobody
+T476	his_own_private_library-30 4681 4686	there
+T542	Mr__Peter_Pett-2 4689 4691	He
+T543	Mr__Peter_Pett-2 4737 4739	He
+T544	Mr__Peter_Pett-2 4761 4763	He
+T433	elderly_gentlemen_of_solitary_habit_who_in_a_house_full_of_their_juniors_find_themselves_alone_at_last-32 4846 4948	elderly gentlemen of solitary habit who in a house full of their juniors find themselves alone at last
+T361	a_house_full_of_their_juniors-33 4889 4918	a house full of their juniors
+T360	their_juniors-34 4905 4918	their juniors
+T545	elderly_gentlemen_of_solitary_habit_who_in_a_house_full_of_their_juniors_find_themselves_alone_at_last-32 4905 4910	their
+T546	elderly_gentlemen_of_solitary_habit_who_in_a_house_full_of_their_juniors_find_themselves_alone_at_last-32 4924 4934	themselves
+T547	Mr__Peter_Pett-2 4983 4986	his
+T434	Mr__Peter_Pett-2 5017 5020	pop
+T362	Ogden-24 5025 5035	Ogden Ford
+T435	Mr__Peter_Pett-2 5095 5098	pop
+T364	Mr__Peter_Pett-2 5128 5136	Mr. Pett
+T363	Ogden-24 5170 5182	his step-son
+T548	Mr__Peter_Pett-2 5170 5173	his
+T549	Mr__Peter_Pett-2 5203 5205	He
+T436	Ogden-24 5215 5222	the boy
+T437	Ogden-24 5339 5349	the latter
+T550	Mr__Peter_Pett-2 5366 5369	his
+T365	Ogden-24 5438 5455	the bulging child
+T551	Mr__Peter_Pett-2 5465 5468	him
+T366	Ogden-24 5471 5481	Ogden Ford
+T552	Ogden-24 5524 5526	He
+T553	Ogden-24 5702 5705	his
+T368	Mr__Peter_Pett-2 5802 5810	Mr. Pett
+T554	Ogden-24 5772 5775	you
+T367	Ogden-24 5785 5788	boy
+T555	Mr__Peter_Pett-2 5813 5816	his
+T556	Mr__Peter_Pett-2 5872 5873	I
+T557	Ogden-24 5879 5882	you
+T369	Mrs__Pett-15 5917 5923	Mother
+T558	Ogden-24 5935 5937	me
+T370	Ogden-24 5947 5952	Ogden
+T559	Ogden-24 5965 5967	he
+T438	Mr__Peter_Pett-2 6004 6013	the enemy
+T371	Mr__Peter_Pett-2 6027 6035	Mr. Pett
+T439	Ogden-24 6075 6080	Ogden
+T560	Ogden-24 6092 6095	his
+T561	Ogden-24 6141 6144	his
+T562	Mr__Peter_Pett-2 6192 6195	you
+T440	Mr__Peter_Pett-2 6198 6201	pop
+T563	Mr__Peter_Pett-2 6208 6209	I
+T564	Ogden-24 6248 6249	I
+T565	Mr__Peter_Pett-2 6258 6261	you
+T441	Ogden-24 6275 6287	his step-son
+T566	Mr__Peter_Pett-2 6275 6278	his
+T567	Ogden-24 6305 6306	I
+T568	Ogden-24 6325 6326	I
+T569	Mr__Peter_Pett-2 6342 6345	you
+T570	Ogden-24 6370 6372	me
+T571	Ogden-24 6384 6385	I
+T373	Mr__Peter_Pett-2 6407 6415	Mr. Pett
+T572	Ogden-24 6446 6449	You
+T573	Ogden-24 6473 6475	Me
+T472	Mr__Peter_Pett-2 6513 6516	sir
+T574	Ogden-24 6565 6566	I
+T577	Ogden-24 6645 6648	You
+T578	Ogden-24 6671 6674	you
+T579	Mr__Peter_Pett-2 6681 6683	me
+T473	Mr__Peter_Pett-2 6703 6706	sir
+T580	Ogden-24 6709 6710	I
+T477	his_own_private_library-30 6725 6729	here
+T581	Ogden-24 6746 6747	I
+T374	six_young_and_unrecognised_geniuses-21 6761 6772	the fellows
+T478	his_own_private_library-30 6780 6784	here
+T582	Ogden-24 6792 6794	me
+T583	six_young_and_unrecognised_geniuses-21 6797 6801	They
+T584	Mr__Peter_Pett-2 6821 6825	your
+T585	Mr__Peter_Pett-2 6841 6844	You
+T442	Mr__Peter_Pett-2 6878 6881	pop
+T586	Mr__Peter_Pett-2 6884 6887	You
+T587	Mr__Peter_Pett-2 6904 6912	yourself
+T375	Mr__Peter_Pett-2 6951 6959	Mr. Pett
+T588	Mr__Peter_Pett-2 6986 6988	he
+T589	Mr__Peter_Pett-2 6994 7001	himself
+T376	Ogden-24 7013 7088	this calm , goggle-eyed boy who treated him with such supercilious coolness
+T590	Mr__Peter_Pett-2 7053 7056	him
+T591	Ogden-24 7093 7096	You
+T592	Mr__Peter_Pett-2 7153 7155	he
+T593	Ogden-24 7207 7208	I
+T594	Mr__Peter_Pett-2 7217 7220	you
+T595	Mr__Peter_Pett-2 7232 7233	I
+T596	Mr__Peter_Pett-2 7237 7238	I
+T377	Mr__Peter_Pett-2 7272 7280	Mr. Pett
+T378	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 7394 7400	a home
+T597	you-100004 7404 7407	you
+T598	Mr__Peter_Pett-2 7437 7438	I
+T599	Ogden-24 7443 7447	your
+T600	Mr__Peter_Pett-2 7454 7455	I
+T601	Mr__Peter_Pett-2 7516 7518	my
+T602	Mr__Peter_Pett-2 7542 7545	you
+T603	Ogden-24 7564 7567	you
+T604	Mr__Peter_Pett-2 7603 7604	I
+T380	Mr__Peter_Pett-2 7641 7681	Mr. Pett , who was touchy on the subject
+T605	Mr__Peter_Pett-2 7694 7698	your
+T606	Ogden-24 7713 7714	I
+T607	Ogden-24 7747 7748	I
+T382	Mrs__Pett-15 7764 7775	what mother
+T379	Ogden-24 7799 7804	Ogden
+T381	Mr__Peter_Pett-2 7862 7865	pop
+T608	Mr__Peter_Pett-2 7916 7920	your
+T609	Ogden-24 7939 7942	you
+T610	Mr__Peter_Pett-2 7967 7970	you
+T611	Mr__Peter_Pett-2 7994 7997	you
+T443	Mr__Peter_Pett-2 8021 8024	pop
+T612	Mr__Peter_Pett-2 8030 8033	you
+T383	Mr__Peter_Pett-2 8086 8094	Mr. Pett
+T613	Mr__Peter_Pett-2 8118 8120	He
+T384	another_man-35 8134 8145	another man
+T614	Mr__Peter_Pett-2 8245 8248	him
+T615	Mr__Peter_Pett-2 8262 8264	he
+T385	Mr__Peter_Pett-2 8268 8291	a totally different man
+T386	Riverside_Drive-3 8295 8310	Riverside Drive
+T387	Mr__Peter_Pett-2 8316 8333	the person he was
+T616	Mr__Peter_Pett-2 8327 8329	he
+T388	Pine_Street-36 8337 8348	Pine Street
+T617	Mr__Peter_Pett-2 8362 8364	he
+T618	Mr__Peter_Pett-2 8381 8384	his
+T390	Pine_Street-36 8392 8403	Pine Street
+T391	grown_men-37 8409 8418	grown men
+T393	Riverside_Drive-3 8482 8497	Riverside Drive
+T392	Ogden-24 8507 8530	a fourteen-year-old boy
+T619	Mr__Peter_Pett-2 8565 8568	him
+T620	Mr__Peter_Pett-2 8626 8629	him
+T621	Mr__Peter_Pett-2 8666 8668	he
+T622	Mr__Peter_Pett-2 8701 8703	he
+T623	Mr__Peter_Pett-2 8715 8718	his
+T624	Mr__Peter_Pett-2 8734 8736	He
+T625	Mr__Peter_Pett-2 8773 8776	his
+T626	Mr__Peter_Pett-2 8796 8798	he
+T394	the_stairs-38 8814 8824	the stairs
+T444	the_top_floor-39 8836 8849	the top floor
+T627	Mr__Peter_Pett-2 8852 8854	he
+T445	the_passage-40 8868 8879	the passage
+T395	Mr__Peter_Pett-2 9039 9047	Mr. Pett
+T629	Mr__Peter_Pett-2 9090 9092	he
+T630	Mr__Peter_Pett-2 9105 9107	he
+T631	Mr__Peter_Pett-2 9160 9162	He
+T397	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 9213 9217	home
+T396	the_office-41 9226 9236	the office
+T446	a_girl-42 9260 9266	a girl
+T475	The_room_in_which_Mr__Pett_found_himself-43 9278 9318	The room in which Mr. Pett found himself
+T399	Mr__Peter_Pett-2 9296 9304	Mr. Pett
+T632	Mr__Peter_Pett-2 9311 9318	himself
+T447	the_dens_of_men-44 9457 9472	the dens of men
+T398	men-45 9469 9472	men
+T448	automobiles-46 9800 9811	automobiles
+T449	Riverside_Drive-3 9819 9828	the Drive
+T633	a_girl-42 9874 9877	her
+T400	the_river-47 9926 9935	the river
+T401	a_girl-42 9942 9989	the girl who had been working at the typewriter
+T634	a_girl-42 9992 9995	She
+T402	Mr__Peter_Pett-2 10006 10014	Mr. Pett
+T635	a_girl-42 10041 10044	her
+R1	appos Arg1:T3 Arg2:T85
+R2	cop Arg1:T10 Arg2:T167
+R3	appos Arg1:T14 Arg2:T15
+R4	appos Arg1:T103 Arg2:T102
+R5	appos Arg1:T110 Arg2:T109
+R6	appos Arg1:T38 Arg2:T114
+R7	appos Arg1:T71 Arg2:T73
+T318	PROP_PER 3981 3997	the poet Shelley
+T321	Shelley-28 3981 3997	the poet Shelley
+T636	PRON_FAC 290 292	it
+T637	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 290 292	it
+T638	PRON_FAC 351 353	it
+T639	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 351 353	it
+T640	PRON_FAC 569 572	its
+T641	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 569 572	its
+T642	PRON_FAC 756 758	It
+T643	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 756 758	It
+T646	PRON_FAC 886 888	it
+T647	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 886 888	it
+T648	PRON_FAC 990 993	its
+T649	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 990 993	its
+T680	PRON_FAC 7423 7425	it
+T681	The_residence_of_Mr__Peter_Pett___the_well-known_financier___on_Riverside_Drive-1 7423 7425	it
+T686	PRON_FAC 8916 8918	it
+T687	the_passage-40 8916 8918	it
+T694	PRON_FAC 9344 9347	its
+T695	The_room_in_which_Mr__Pett_found_himself-43 9344 9347	its
+T696	PRON_FAC 9391 9394	its
+T697	The_room_in_which_Mr__Pett_found_himself-43 9391 9394	its
+T698	PRON_FAC 9519 9521	it
+T699	The_room_in_which_Mr__Pett_found_himself-43 9519 9521	it
+R8	cop Arg1:T12 Arg2:T643
+T36	NOM_PER 2284 2333	no fewer than six young and unrecognised geniuses
+T54	six_young_and_unrecognised_geniuses-21 2284 2333	no fewer than six young and unrecognised geniuses

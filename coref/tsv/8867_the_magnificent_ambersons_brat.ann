@@ -1,0 +1,466 @@
+MENTION	T0	0	24	0	25	the Ambersons	PER	PROP
+MENTION	T1	0	2	0	3	Major Amberson	PER	PROP
+MENTION	T2	1	33	1	34	the Ambersons	PER	PROP
+MENTION	T4	1	27	1	28	New York	GPE	PROP
+MENTION	T5	2	31	2	31	children	PER	NOM
+MENTION	T6	3	1	3	2	that town	GPE	NOM
+MENTION	T8	4	25	4	26	the drivers	PER	NOM
+MENTION	T9	4	16	4	17	Tennessee Street	FAC	PROP
+MENTION	T10	5	45	5	45	store	FAC	NOM
+MENTION	T11	5	21	5	22	the street	FAC	NOM
+MENTION	T12	5	43	5	43	office	FAC	NOM
+MENTION	T15	8	3	8	3	governors	PER	NOM
+MENTION	T16	8	0	8	1	Old men	PER	NOM
+MENTION	T17	9	4	9	5	these men	PER	NOM
+MENTION	T18	9	1	9	1	town	GPE	NOM
+MENTION	T19	10	16	10	16	tailors	PER	NOM
+MENTION	T20	12	0	12	1	Every house	FAC	NOM
+MENTION	T23	14	15	14	15	women	PER	NOM
+MENTION	T26	19	33	19	38	a Senator of the United States	PER	NOM
+MENTION	T28	21	11	21	16	the houses of the Midland town	FAC	NOM
+MENTION	T29	21	14	21	16	the Midland town	GPE	NOM
+MENTION	T32	24	18	24	19	Tennessee Street	FAC	PROP
+MENTION	T40	27	7	27	8	three rooms	FAC	NOM
+MENTION	T42	27	28	27	29	the library	FAC	NOM
+MENTION	T44	28	18	28	18	callers	PER	NOM
+MENTION	T46	28	7	28	8	the library	FAC	NOM
+MENTION	T48	29	18	29	20	the “ parlour	FAC	NOM
+MENTION	T51	31	6	31	8	mother-and-father 's room	FAC	NOM
+MENTION	T52	31	23	31	26	one or two daughters	PER	NOM
+MENTION	T53	31	68	31	68	downstairs	FAC	NOM
+MENTION	T55	32	33	32	34	a bathroom	FAC	NOM
+MENTION	T56	32	10	32	10	visitors	PER	NOM
+MENTION	T57	33	6	33	8	the new houses	FAC	NOM
+MENTION	T59	33	11	33	13	the older houses	FAC	NOM
+MENTION	T60	33	38	33	40	its own bathroom	FAC	NOM
+MENTION	T61	33	1	33	2	the architects	PER	NOM
+MENTION	T62	34	3	34	3	plumber	PER	NOM
+MENTION	T64	35	7	35	7	upstairs	FAC	NOM
+MENTION	T65	35	4	35	5	the house	FAC	NOM
+MENTION	T66	35	38	35	42	the hired man 's room	FAC	NOM
+MENTION	T68	36	0	36	0	House	FAC	NOM
+MENTION	T73	39	0	39	1	The man	PER	NOM
+MENTION	T75	39	3	39	8	youth who lived in the stable	PER	NOM
+MENTION	T76	40	41	40	42	the darkies	PER	NOM
+MENTION	T77	40	49	40	50	the alley	FAC	NOM
+MENTION	T78	42	22	42	24	less investigative children	PER	NOM
+MENTION	T79	42	5	42	7	early rising children	PER	NOM
+MENTION	T80	43	8	43	10	the Midland town	GPE	NOM
+MENTION	T83	50	16	50	16	passengers	PER	NOM
+MENTION	T84	51	24	51	25	the driver	PER	NOM
+MENTION	T85	51	16	51	17	no conductor	PER	NOM
+MENTION	T86	51	47	51	48	the passengers	PER	NOM
+MENTION	T87	52	16	52	17	the passengers	PER	NOM
+MENTION	T88	53	23	53	23	upstairs	FAC	NOM
+MENTION	T89	53	72	53	73	the house	FAC	NOM
+MENTION	T90	53	15	53	16	a lady	PER	NOM
+MENTION	T91	54	0	54	2	The previous passengers	PER	NOM
+MENTION	T92	56	2	56	3	its passengers	PER	NOM
+MENTION	T93	57	48	57	49	a lady	PER	NOM
+MENTION	T3	1	15	1	16	Magnificent Lorenzo	PER	PROP
+MENTION	T94	2	9	2	11	their Midland town	GPE	NOM
+MENTION	T95	2	16	2	17	a city	GPE	NOM
+MENTION	T96	2	27	2	31	every prosperous family with children	PER	NOM
+MENTION	T98	3	8	3	15	all the women who wore silk or velvet	PER	NOM
+MENTION	T7	3	17	3	25	all the other women who wore silk or velvet	PER	NOM
+MENTION	T99	3	37	3	38	sick people	PER	NOM
+MENTION	T101	4	13	4	14	National Avenue	FAC	PROP
+MENTION	T100	4	39	4	40	slim buggies	VEH	NOM
+MENTION	T102	5	6	5	10	everybody else 's family horse-and-carriage	VEH	NOM
+MENTION	T103	5	32	5	32	market	FAC	NOM
+MENTION	T13	5	41	5	41	home	FAC	NOM
+MENTION	T104	9	3	9	3	country	LOC	NOM
+MENTION	T105	10	9	10	9	dressmakers	PER	NOM
+MENTION	T106	10	11	10	11	shoemakers	PER	NOM
+MENTION	T107	10	13	10	13	hatmakers	PER	NOM
+MENTION	T21	12	42	12	43	racing shells	VEH	NOM
+MENTION	T108	14	17	14	26	that variation of dandy known as the “ dude ”	PER	NOM
+MENTION	T109	14	20	14	20	dandy	PER	NOM
+MENTION	T110	14	23	14	26	the “ dude ”	PER	NOM
+MENTION	T22	19	36	19	38	the United States	GPE	NOM
+MENTION	T24	19	55	19	56	the land	GPE	NOM
+MENTION	T111	21	9	21	16	most of the houses of the Midland town	FAC	NOM
+MENTION	T112	23	3	23	39	commodious yards , well shaded by leftover forest trees , elm and walnut and beech , with here and there a line of tall sycamores where the land had been made by filling bayous from the creek	FAC	NOM
+MENTION	T30	23	29	23	30	the land	LOC	NOM
+MENTION	T113	23	36	23	36	bayous	LOC	NOM
+MENTION	T114	23	38	23	39	the creek	LOC	NOM
+MENTION	T115	24	0	24	19	The house of a “ prominent resident , ” facing Military Square , or National Avenue , or Tennessee Street	FAC	NOM
+MENTION	T116	24	10	24	11	Military Square	FAC	PROP
+MENTION	T117	24	14	24	15	National Avenue	FAC	PROP
+MENTION	T119	27	40	27	41	these people	PER	NOM
+MENTION	T120	28	2	28	3	the family	PER	NOM
+MENTION	T121	28	33	28	39	a place of formidable polish and discomfort	FAC	NOM
+MENTION	T49	29	3	29	4	the library	FAC	NOM
+MENTION	T122	31	0	31	0	Upstairs	FAC	NOM
+MENTION	T123	31	2	31	3	the bedrooms	FAC	NOM
+MENTION	T124	31	6	31	6	mother-and-father	PER	NOM
+MENTION	T126	31	13	31	20	a smaller room for one or two sons	FAC	NOM
+MENTION	T54	31	17	31	20	one or two sons	PER	NOM
+MENTION	T127	31	21	31	26	another for one or two daughters	FAC	NOM
+MENTION	T50	31	28	31	85	each of these rooms containing a double bed , a “ washstand , ” a “ bureau , ” a wardrobe , a little table , a rocking-chair , and often a chair or two that had been slightly damaged downstairs , but not enough to justify either the expense of repair or decisive abandonment in the attic	FAC	NOM
+MENTION	T128	31	84	31	85	the attic	FAC	NOM
+MENTION	T129	32	4	32	10	a “ spare-room , ” for visitors	FAC	NOM
+MENTION	T130	33	4	33	4	bathrooms	FAC	NOM
+MENTION	T58	34	2	34	2	American	GPE	NOM
+MENTION	T131	35	9	35	12	a bleak little chamber	FAC	NOM
+MENTION	T132	35	24	35	25	the stable	FAC	NOM
+MENTION	T67	35	28	35	33	another bedroom , adjoining the hayloft	FAC	NOM
+MENTION	T133	35	32	35	33	the hayloft	FAC	NOM
+MENTION	T135	35	38	35	40	the hired man	PER	NOM
+MENTION	T136	36	2	36	2	stable	FAC	NOM
+MENTION	T137	36	13	36	22	people with that much money to invest in such comforts	PER	NOM
+MENTION	T138	36	26	36	27	the Rich	PER	NOM
+MENTION	T139	37	6	37	7	the girl	PER	NOM
+MENTION	T142	38	18	38	19	the land	GPE	NOM
+MENTION	T143	38	25	38	28	a person of colour	PER	NOM
+MENTION	T144	39	7	39	8	the stable	FAC	NOM
+MENTION	T74	39	21	39	23	a steerage voyager	PER	NOM
+MENTION	T72	40	7	40	13	the alleys behind the stables were gay	FAC	NOM
+MENTION	T145	40	10	40	11	the stables	FAC	NOM
+MENTION	T147	40	37	40	37	stable	FAC	NOM
+MENTION	T148	41	0	41	0	Darkies	PER	NOM
+MENTION	T149	42	11	42	12	older people	PER	NOM
+MENTION	T150	43	4	43	10	those darky hired-men of the Midland town	PER	NOM
+MENTION	T81	45	0	45	1	The stables	FAC	NOM
+MENTION	T151	45	24	45	27	the “ girl ”	PER	NOM
+MENTION	T152	45	29	45	32	the “ hired-man ”	PER	NOM
+MENTION	T153	46	2	46	2	stable	FAC	NOM
+MENTION	T154	46	4	46	4	woodshed	FAC	NOM
+MENTION	T157	49	2	49	5	the little bunty street-cars	VEH	NOM
+MENTION	T158	49	7	49	19	the long , single track that went its troubled way among the cobblestones	FAC	NOM
+MENTION	T159	50	5	50	6	the car	VEH	NOM
+MENTION	T160	50	27	50	28	the car	VEH	NOM
+MENTION	T161	51	0	51	1	The patrons	PER	NOM
+MENTION	T162	52	4	52	5	the car	VEH	NOM
+MENTION	T163	53	9	53	10	the car	VEH	NOM
+MENTION	T164	53	27	53	28	the car	VEH	NOM
+MENTION	T165	53	51	53	51	downstairs	FAC	NOM
+MENTION	T166	53	58	53	61	the “ girl ”	PER	NOM
+MENTION	T167	54	13	54	14	the car	VEH	NOM
+MENTION	T168	55	6	55	7	the car	VEH	NOM
+MENTION	T169	55	27	55	28	the trolley-car	VEH	NOM
+MENTION	T25	18	3	18	4	the wearers	PER	NOM
+MENTION	T82	44	27	44	29	the careless drivers	PER	NOM
+MENTION	T27	21	4	21	5	the Ambersons	PER	PROP
+MENTION	T70	37	5	37	10	“ the girl 's room ”	FAC	NOM
+MENTION	T69	37	2	37	10	the inhabitant of “ the girl 's room ”	PER	NOM
+MENTION	T36	26	18	26	23	a “ back hall . ”	FAC	NOM
+MENTION	T38	26	10	26	14	a “ side hall ”	FAC	NOM
+MENTION	T37	26	2	26	6	a “ front hall ”	FAC	NOM
+MENTION	T41	27	2	27	5	“ front hall ”	FAC	NOM
+MENTION	T33	25	9	25	13	a “ back porch ”	FAC	NOM
+MENTION	T35	25	16	25	21	a “ side porch , ”	FAC	NOM
+MENTION	T34	25	3	25	7	a “ front porch ”	FAC	NOM
+MENTION	T118	27	10	27	14	the “ parlour , ”	FAC	NOM
+MENTION	T43	27	15	27	20	the “ sitting room , ”	FAC	NOM
+MENTION	T39	27	22	27	25	the “ library ”	FAC	NOM
+MENTION	T31	24	3	24	8	a “ prominent resident , ”	PER	NOM
+MENTION	T47	28	11	28	16	the “ sitting room , ”	FAC	NOM
+MENTION	T45	28	28	28	32	the “ parlour , ”	FAC	NOM
+MENTION	T134	35	16	35	17	the girl	PER	NOM
+MENTION	T63	35	16	35	19	the girl 's room	FAC	NOM
+MENTION	T156	46	11	46	15	the “ hired-man , ”	PER	NOM
+MENTION	T155	46	7	46	15	the whole tribe of the “ hired-man , ”	PER	NOM
+MENTION	T14	8	23	8	47	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove-pipe . ”	PER	NOM
+MENTION	T171	0	14	0	15	other people	PER	NOM
+MENTION	T172	4	19	4	19	everybody	PER	NOM
+MENTION	T173	5	6	5	7	everybody else	PER	NOM
+MENTION	T174	5	4	5	4	everybody	PER	NOM
+MENTION	T175	55	44	55	44	nobody	PER	NOM
+MENTION	T177	1	22	1	22	he	PER	PRON
+MENTION	T178	1	38	1	38	their	PER	PRON
+MENTION	T179	2	0	2	0	Their	PER	PRON
+MENTION	T180	2	9	2	9	their	PER	PRON
+MENTION	T181	4	31	4	31	them	PER	PRON
+MENTION	T183	9	17	9	17	they	PER	PRON
+MENTION	T186	14	30	14	30	he	PER	PRON
+MENTION	T187	14	76	14	76	his	PER	PRON
+MENTION	T188	15	3	15	3	he	PER	PRON
+MENTION	T189	15	11	15	11	his	PER	PRON
+MENTION	T190	15	29	15	29	he	PER	PRON
+MENTION	T191	15	31	15	31	his	PER	PRON
+MENTION	T192	15	36	15	36	his	PER	PRON
+MENTION	T193	15	40	15	40	he	PER	PRON
+MENTION	T194	15	44	15	44	his	PER	PRON
+MENTION	T195	16	4	16	4	he	PER	PRON
+MENTION	T196	16	18	16	18	him	PER	PRON
+MENTION	T197	19	47	19	47	his	PER	PRON
+MENTION	T198	20	13	20	13	we	PER	PRON
+MENTION	T199	22	0	22	0	They	FAC	PRON
+MENTION	T200	23	0	23	0	They	FAC	PRON
+MENTION	T201	28	21	28	21	they	PER	PRON
+MENTION	T204	37	0	37	0	They	PER	PRON
+MENTION	T205	38	0	38	0	She	PER	PRON
+MENTION	T206	38	21	38	21	she	PER	PRON
+MENTION	T207	39	15	39	15	he	PER	PRON
+MENTION	T208	39	28	39	28	he	PER	PRON
+MENTION	T209	40	22	40	22	their	FAC	PRON
+MENTION	T210	40	46	40	46	their	PER	PRON
+MENTION	T211	41	12	41	12	they	PER	PRON
+MENTION	T212	43	0	43	0	They	PER	PRON
+MENTION	T213	43	16	43	16	they	PER	PRON
+MENTION	T216	44	5	44	5	they	PER	PRON
+MENTION	T217	47	0	47	0	They	PER	PRON
+MENTION	T218	47	8	47	8	we	PER	PRON
+MENTION	T219	47	10	47	10	they	PER	PRON
+MENTION	T220	47	18	47	18	they	PER	PRON
+MENTION	T221	51	9	51	9	their	PER	PRON
+MENTION	T222	51	30	51	30	his	PER	PRON
+MENTION	T223	51	39	51	39	his	PER	PRON
+MENTION	T224	53	0	53	0	They	PER	PRON
+MENTION	T225	53	36	53	36	her	PER	PRON
+MENTION	T226	53	38	53	38	she	PER	PRON
+MENTION	T227	53	45	53	45	her	PER	PRON
+MENTION	T228	54	16	54	16	they	PER	PRON
+MENTION	T229	54	24	54	24	themselves	PER	PRON
+MENTION	T230	56	13	56	13	they	PER	PRON
+MENTION	T231	56	19	56	19	they	PER	PRON
+MENTION	T232	57	7	57	7	them	PER	PRON
+MENTION	T233	57	9	57	9	their	PER	PRON
+MENTION	T234	57	14	57	14	they	PER	PRON
+MENTION	T235	57	27	57	27	they	PER	PRON
+MENTION	T236	39	1	39	3	man or youth	PER	NOM
+COREF	T1	Major_Amberson-0
+COREF	T171	other_people-1
+COREF	T0	the_Ambersons-2
+COREF	T3	Magnificent_Lorenzo-3
+COREF	T177	Magnificent_Lorenzo-3
+COREF	T4	New_York-4
+COREF	T2	the_Ambersons-2
+COREF	T178	the_Ambersons-2
+COREF	T179	the_Ambersons-2
+COREF	T94	their_Midland_town-5
+COREF	T180	the_Ambersons-2
+COREF	T95	a_city-6
+COREF	T96	every_prosperous_family_with_children-7
+COREF	T5	children-8
+COREF	T6	their_Midland_town-5
+COREF	T98	all_the_women_who_wore_silk_or_velvet-10
+COREF	T7	all_the_other_women_who_wore_silk_or_velvet-11
+COREF	T99	sick_people-12
+COREF	T101	National_Avenue-13
+COREF	T9	Tennessee_Street-14
+COREF	T172	everybody-15
+COREF	T8	the_drivers-16
+COREF	T181	them-17
+COREF	T100	slim_buggies-18
+COREF	T174	everybody-19
+COREF	T102	everybody_else__s_family_horse-and-carriage-20
+COREF	T173	everybody_else-21
+COREF	T11	the_street-22
+COREF	T103	market-23
+COREF	T13	home-24
+COREF	T12	office-25
+COREF	T10	store-26
+COREF	T16	Old_men-27
+COREF	T15	governors-28
+COREF	T14	men_of_all_ages_to_whom_a_hat_meant_only_that_rigid___tall_silk_thing_known_to_impudence_as_a___stove-pipe____-29
+COREF	T18	their_Midland_town-5
+COREF	T104	country-30
+COREF	T17	these_men-31
+COREF	T183	these_men-31
+COREF	T105	dressmakers-32
+COREF	T106	shoemakers-33
+COREF	T107	hatmakers-34
+COREF	T19	tailors-35
+COREF	T20	Every_house-36
+COREF	T21	racing_shells-100000
+COREF	T23	women-37
+COREF	T108	that_variation_of_dandy_known_as_the___dude__-38
+COREF	T109	dandy-39
+COREF	T110	dandy-39
+COREF	T186	dandy-39
+COREF	T187	dandy-39
+COREF	T188	dandy-39
+COREF	T189	dandy-39
+COREF	T190	dandy-39
+COREF	T191	dandy-39
+COREF	T192	dandy-39
+COREF	T193	dandy-39
+COREF	T194	dandy-39
+COREF	T195	dandy-39
+COREF	T196	dandy-39
+COREF	T25	the_wearers-40
+COREF	T26	a_Senator_of_the_United_States-41
+COREF	T22	the_United_States-42
+COREF	T197	a_Senator_of_the_United_States-41
+COREF	T24	the_United_States-42
+COREF	T198	we-43
+COREF	T27	the_Ambersons-2
+COREF	T111	most_of_the_houses_of_the_Midland_town-100001
+COREF	T28	the_houses_of_the_Midland_town-45
+COREF	T29	their_Midland_town-5
+COREF	T199	the_houses_of_the_Midland_town-45
+COREF	T200	the_houses_of_the_Midland_town-45
+COREF	T112	commodious_yards___well_shaded_by_leftover_forest_trees___elm_and_walnut_and_beech___with_here_and_there_a_line_of_tall_sycamores_where_the_land_had_been_made_by_filling_bayous_from_the_creek-46
+COREF	T30	the_land-47
+COREF	T113	bayous-48
+COREF	T114	the_creek-49
+COREF	T115	The_house_of_a___prominent_resident_____facing_Military_Square___or_National_Avenue___or_Tennessee_Street-50
+COREF	T31	a___prominent_resident____-51
+COREF	T116	Military_Square-52
+COREF	T117	National_Avenue-53
+COREF	T32	Tennessee_Street-54
+COREF	T34	a___front_porch__-55
+COREF	T33	a___back_porch__-56
+COREF	T35	a___side_porch____-57
+COREF	T37	a___front_hall__-58
+COREF	T38	a___side_hall__-59
+COREF	T36	a___back_hall____-60
+COREF	T41	a___front_hall__-58
+COREF	T40	three_rooms-61
+COREF	T118	the___parlour____-62
+COREF	T43	the___sitting_room____-63
+COREF	T39	the___library__-64
+COREF	T42	the___library__-64
+COREF	T119	the_Ambersons-2
+COREF	T120	the_Ambersons-2
+COREF	T46	the___library__-64
+COREF	T47	the___sitting_room____-63
+COREF	T44	callers-65
+COREF	T201	callers-65
+COREF	T45	the___parlour____-62
+COREF	T49	the___library__-64
+COREF	T48	the___parlour____-62
+COREF	T122	Upstairs-66
+COREF	T123	the_bedrooms-67
+COREF	T51	mother-and-father__s_room-68
+COREF	T124	mother-and-father-100002
+COREF	T126	a_smaller_room_for_one_or_two_sons-69
+COREF	T54	one_or_two_sons-70
+COREF	T127	another_for_one_or_two_daughters-71
+COREF	T52	one_or_two_daughters-72
+COREF	T50	each_of_these_rooms_containing_a_double_bed_,_a_“_washstand_,_”_a_“_bureau_,_”_a_wardrobe_,_a_little_table_,_a_rocking-chair_,_and_often_a_chair_or_two_that_had_been_slightly_damaged_downstairs_,_but_not_enough_to_justify_either_the_expense_of_repair_or_decisive_abandonment_in_the_attic-100003
+COREF	T53	downstairs-74
+COREF	T128	the_attic-75
+COREF	T129	a___spare-room_____for_visitors-76
+COREF	T56	visitors-77
+COREF	T55	a_bathroom-78
+COREF	T61	the_architects-79
+COREF	T130	bathrooms-80
+COREF	T57	the_new_houses-81
+COREF	T59	the_older_houses-82
+COREF	T60	its_own_bathroom-83
+COREF	T58	American-84
+COREF	T62	plumber-85
+COREF	T65	the_house-86
+COREF	T64	Upstairs-66
+COREF	T131	a_bleak_little_chamber-87
+COREF	T134	the_girl-88
+COREF	T63	a_bleak_little_chamber-87
+COREF	T132	the_stable-89
+COREF	T67	another_bedroom___adjoining_the_hayloft-90
+COREF	T133	the_hayloft-91
+COREF	T66	the_hired_man__s_room-92
+COREF	T135	the_hired_man-93
+COREF	T68	the_house-86
+COREF	T136	the_stable-89
+COREF	T137	people_with_that_much_money_to_invest_in_such_comforts-94
+COREF	T138	the_Rich-95
+COREF	T204	the_Rich-95
+COREF	T69	the_inhabitant_of___the_girl__s_room__-96
+COREF	T70	a_bleak_little_chamber-87
+COREF	T139	the_girl-88
+COREF	T205	the_girl-88
+COREF	T142	the_United_States-42
+COREF	T206	the_girl-88
+COREF	T144	the_stable-89
+COREF	T73	The_man-100004
+COREF	T236	man_or_youth-99
+COREF	T75	youth_who_lived_in_the_stable-100005
+COREF	T207	man_or_youth-99
+COREF	T208	man_or_youth-99
+COREF	T72	the_alleys_behind_the_stables_were_gay-100
+COREF	T145	the_stable-89
+COREF	T209	the_alleys_behind_the_stables_were_gay-100
+COREF	T147	the_stable-89
+COREF	T76	the_darkies-101
+COREF	T210	the_darkies-101
+COREF	T77	the_alleys_behind_the_stables_were_gay-100
+COREF	T148	the_darkies-101
+COREF	T211	the_darkies-101
+COREF	T79	early_rising_children-102
+COREF	T149	older_people-103
+COREF	T78	less_investigative_children-104
+COREF	T212	the_darkies-101
+COREF	T150	the_darkies-101
+COREF	T80	their_Midland_town-5
+COREF	T213	the_darkies-101
+COREF	T216	other_people-1
+COREF	T82	the_careless_drivers-105
+COREF	T81	the_stable-89
+COREF	T151	the_girl-88
+COREF	T152	man_or_youth-99
+COREF	T153	the_stable-89
+COREF	T154	woodshed-106
+COREF	T155	the_whole_tribe_of_the___hired-man____-107
+COREF	T156	man_or_youth-99
+COREF	T217	man_or_youth-99
+COREF	T218	we-108
+COREF	T219	man_or_youth-99
+COREF	T220	man_or_youth-99
+COREF	T157	the_little_bunty_street-cars-109
+COREF	T158	the_long___single_track_that_went_its_troubled_way_among_the_cobblestones-110
+COREF	T159	the_little_bunty_street-cars-109
+COREF	T83	passengers-111
+COREF	T160	the_little_bunty_street-cars-109
+COREF	T221	The_patrons-112
+COREF	T85	no_conductor-100006
+COREF	T84	the_driver-113
+COREF	T222	the_driver-113
+COREF	T223	the_driver-113
+COREF	T86	passengers-111
+COREF	T162	the_little_bunty_street-cars-109
+COREF	T87	passengers-111
+COREF	T224	passengers-111
+COREF	T161	passengers-111
+COREF	T163	the_little_bunty_street-cars-109
+COREF	T90	a_lady-114
+COREF	T88	upstairs-115
+COREF	T164	the_little_bunty_street-cars-109
+COREF	T225	a_lady-114
+COREF	T226	a_lady-114
+COREF	T227	a_lady-114
+COREF	T165	downstairs-116
+COREF	T166	the_girl-88
+COREF	T89	the_house-117
+COREF	T91	The_previous_passengers-118
+COREF	T167	the_little_bunty_street-cars-109
+COREF	T228	The_previous_passengers-118
+COREF	T229	The_previous_passengers-118
+COREF	T168	the_little_bunty_street-cars-109
+COREF	T169	the_trolley-car-119
+COREF	T175	nobody-100007
+COREF	T92	they-120
+COREF	T230	they-120
+COREF	T231	they-120
+COREF	T232	they-120
+COREF	T233	they-120
+COREF	T234	they-120
+COREF	T235	they-120
+COREF	T93	a_lady-114
+APPOS	T121	T45
+COP	T143	T206
+COP	T74	T207
+MENTION	T97	56	2	56	2	its	VEH	PRON
+COREF	T97	the_trolley-car-119
+MENTION	T484	12	4	12	4	its	FAC	PRON
+COREF	T484	Every_house-36
+MENTION	T492	25	1	25	1	it	FAC	PRON
+COREF	T492	The_house_of_a___prominent_resident_____facing_Military_Square___or_National_Avenue___or_Tennessee_Street-50
+MENTION	T494	27	34	27	34	its	FAC	PRON
+COREF	T494	the___library__-64
+MENTION	T504	49	14	49	14	its	FAC	PRON
+COREF	T504	the_long___single_track_that_went_its_troubled_way_among_the_cobblestones-110
+MENTION	T506	52	10	52	10	it	VEH	PRON
+COREF	T506	the_little_bunty_street-cars-109
+MENTION	T508	52	23	52	23	it	VEH	PRON
+COREF	T508	the_little_bunty_street-cars-109
+MENTION	T510	53	3	53	3	it	VEH	PRON
+COREF	T510	the_little_bunty_street-cars-109
+MENTION	T512	53	20	53	20	it	VEH	PRON
+COREF	T512	the_little_bunty_street-cars-109
+MENTION	T514	55	32	55	32	its	VEH	PRON
+COREF	T514	the_trolley-car-119
+MENTION	T516	55	40	55	40	it	VEH	PRON
+COREF	T516	the_trolley-car-119

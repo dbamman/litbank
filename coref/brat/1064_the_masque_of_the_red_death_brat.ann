@@ -1,0 +1,262 @@
+T1	NOM_PER 355 365	the victim
+T3	NOM_PER 751 762	the knights
+T5	NOM_PER 767 785	dames of his court
+T7	NOM_PER 1051 1064	The courtiers
+T9	NOM_PER 1318 1331	the courtiers
+T10	NOM_LOC 1366 1384	The external world
+T11	NOM_PER 1468 1478	The prince
+T12	NOM_PER 1613 1622	musicians
+T13	NOM_PER 1536 1544	buffoons
+T14	NOM_PER 1894 1914	his thousand friends
+T16	NOM_FAC 2038 2068	the rooms in which it was held
+T17	NOM_FAC 2895 2927	the chamber into which it opened
+T18	NOM_FAC 3030 3048	The second chamber
+T19	NOM_FAC 3288 3309	The seventh apartment
+T20	NOM_FAC 3485 3497	this chamber
+T22	NOM_FAC 4099 4107	the room
+T23	NOM_FAC 4189 4217	the western or black chamber
+T24	NOM_FAC 4518 4532	this apartment
+T29	NOM_PER 4962 4992	the musicians of the orchestra
+T33	NOM_PER 5487 5500	the musicians
+T35	NOM_PER 6039 6047	the duke
+T36	NOM_PER 6286 6299	His followers
+T38	NOM_PER 6589 6605	the masqueraders
+T43	NOM_FAC 7195 7204	the rooms
+T44	NOM_FAC 7347 7369	the hall of the velvet
+T45	NOM_PER 7926 7949	the maskers who venture
+T46	NOM_FAC 7850 7901	the chamber which lies most westwardly of the seven
+T47	NOM_PER 8608 8620	the waltzers
+T50	NOM_PER 10491 10515	the mad revellers around
+T51	NOM_PER 10522 10532	the mummer
+T52	NOM_LOC 38 49	the country
+T53	NOM_PER 443 457	his fellow-men
+T54	NOM_LOC 632 645	his dominions
+T4	NOM_LOC 776 785	his court
+T55	NOM_PER 698 785	a thousand hale and light-hearted friends from among the knights and dames of his court
+T56	NOM_FAC 843 865	his castellated abbeys
+T6	NOM_PER 934 944	the prince
+T57	NOM_FAC 877 915	an extensive and magnificent structure
+T8	NOM_FAC 1262 1271	The abbey
+T58	NOM_PER 1558 1571	improvisatori
+T59	NOM_PER 1585 1599	ballet-dancers
+T60	NOM_FAC 2091 2108	an imperial suite
+T61	NOM_FAC 2114 2126	many palaces
+T62	NOM_FAC 2139 2150	such suites
+T63	NOM_PER 2383 2391	the duke
+T64	NOM_FAC 2421 2435	The apartments
+T65	NOM_FAC 2767 2776	the suite
+T66	NOM_FAC 2719 2776	a closed corridor which pursued the windings of the suite
+T67	NOM_FAC 3127 3136	The third
+T68	NOM_FAC 3188 3198	The fourth
+T69	NOM_FAC 3645 3665	the seven apartments
+T70	NOM_FAC 3635 3665	no one of the seven apartments
+T21	NOM_FAC 3867 3888	the suite of chambers
+T71	NOM_FAC 3926 3935	the suite
+T72	NOM_FAC 3898 3935	the corridors that followed the suite
+T73	NOM_PER 4442 4453	the company
+T74	NOM_PER 4435 4453	few of the company
+T25	NOM_PER 5092 5104	the waltzers
+T26	NOM_PER 5176 5197	the whole gay company
+T27	NOM_PER 5268 5280	the giddiest
+T28	NOM_PER 5297 5321	the more aged and sedate
+T75	NOM_PER 5472 5484	the assembly
+T30	NOM_PER 6248 6283	some who would have thought him mad
+T31	NOM_FAC 6467 6485	the seven chambers
+T32	NOM_PER 6856 6866	the madman
+T34	NOM_FAC 7062 7080	the seven chambers
+T37	NOM_PER 7237 7250	the orchestra
+T39	NOM_FAC 7892 7901	the seven
+T40	NOM_FAC 8338 8360	these other apartments
+T41	NOM_PER 8877 8916	the thoughtful among those who revelled
+T42	NOM_PER 8898 8916	those who revelled
+T76	NOM_PER 9186 9206	no single individual
+T77	NOM_PER 9134 9213	a masked figure which had arrested the attention of no single individual before
+T78	NOM_PER 9047 9213	many individuals in the crowd who had found leisure to become aware of the presence of a masked figure which had arrested the attention of no single individual before
+T79	NOM_PER 9234 9251	this new presence
+T80	NOM_PER 9322 9339	the whole company
+T81	NOM_PER 9677 9699	the figure in question
+T48	PROP_PER 9716 9721	Herod
+T82	NOM_PER 9759 9769	the prince
+T83	NOM_PER 9828 9845	the most reckless
+T84	NOM_PER 10010 10027	The whole company
+T49	NOM_PER 10100 10112	the stranger
+T85	NOM_PER 10149 10159	The figure
+T86	NOM_PER 578 586	Prospero
+T87	NOM_PER 1873 1881	Prospero
+T89	NOM_FAC 3098 3102	here
+T90	NOM_FAC 3585 3589	here
+T91	PRON_PER 397 400	him
+T92	PRON_PER 443 446	his
+T93	PRON_PER 632 635	his
+T94	PRON_PER 670 672	he
+T95	PRON_PER 685 688	his
+T96	PRON_PER 776 779	his
+T97	PRON_PER 843 846	his
+T98	PRON_PER 1142 1146	They
+T99	PRON_PER 1786 1789	his
+T100	PRON_PER 1894 1897	his
+T101	PRON_PER 2027 2029	me
+T102	PRON_PER 5038 5043	their
+T103	PRON_PER 5121 5126	their
+T104	PRON_PER 5329 5334	their
+T105	PRON_PER 5346 5351	their
+T106	PRON_PER 5542 5547	their
+T107	PRON_PER 5676 5680	them
+T108	PRON_PER 6064 6066	He
+T109	PRON_PER 6108 6110	He
+T110	PRON_PER 6156 6159	His
+T111	PRON_PER 6192 6195	his
+T112	PRON_PER 6276 6279	him
+T113	PRON_PER 6286 6289	His
+T114	PRON_PER 6310 6312	he
+T115	PRON_PER 6366 6369	him
+T116	PRON_PER 6390 6392	he
+T117	PRON_PER 6403 6405	He
+T118	PRON_PER 6538 6541	his
+T119	PRON_PER 6616 6620	they
+T120	PRON_PER 7274 7279	their
+T126	PRON_PER 8254 8259	their
+T127	PRON_FAC 8391 8395	them
+T128	PRON_PER 8572 8573	I
+T129	PRON_PER 9500 9501	I
+T130	PRON_PER 10590 10593	His
+T131	PRON_PER 10634 10637	his
+T132	NOM_FAC 3240 3249	the fifth
+T133	NOM_FAC 3264 3273	the sixth
+T134	NOM_PER 8105 8147	him whose foot falls upon the sable carpet
+T187	the_country-0 38 49	the country
+T136	the_victim-1 355 365	the victim
+T226	the_victim-1 397 400	him
+T188	his_fellow-men-2 443 457	his fellow-men
+T227	the_victim-1 443 446	his
+T221	PRINCE_PROSPERO-3 578 586	Prospero
+T189	his_dominions-4 632 645	his dominions
+T228	PRINCE_PROSPERO-3 632 635	his
+T229	PRINCE_PROSPERO-3 670 672	he
+T230	PRINCE_PROSPERO-3 685 688	his
+T190	COURTIERS-5 698 785	a thousand hale and light-hearted friends from among the knights and dames of his court
+T138	the_knights-6 751 762	the knights
+T140	dames_of_his_court-7 767 785	dames of his court
+T139	his_court-8 776 785	his court
+T231	PRINCE_PROSPERO-3 776 779	his
+T191	The_Abbey-9 843 865	his castellated abbeys
+T232	PRINCE_PROSPERO-3 843 846	his
+T141	PRINCE_PROSPERO-3 934 944	the prince
+T142	COURTIERS-5 1051 1064	The courtiers
+T233	COURTIERS-5 1142 1146	They
+T143	The_Abbey-9 1262 1271	The abbey
+T144	COURTIERS-5 1318 1331	the courtiers
+T145	The_external_world-10 1366 1384	The external world
+T146	PRINCE_PROSPERO-3 1468 1478	The prince
+T148	buffoons-11 1536 1544	buffoons
+T193	improvisatori-12 1558 1571	improvisatori
+T194	ballet-dancers-13 1585 1599	ballet-dancers
+T147	MUSICIANS_ORCHESTRA-14 1613 1622	musicians
+T234	PRINCE_PROSPERO-3 1786 1789	his
+T222	PRINCE_PROSPERO-3 1873 1881	Prospero
+T149	COURTIERS-5 1894 1914	his thousand friends
+T235	PRINCE_PROSPERO-3 1894 1897	his
+T236	NARRATOR-15 2027 2029	me
+T151	The_Seven_Apartments-16 2038 2068	the rooms in which it was held
+T195	an_imperial_suite-17 2091 2108	an imperial suite
+T196	many_palaces-18 2114 2126	many palaces
+T198	PRINCE_PROSPERO-3 2383 2391	the duke
+T199	The_Seven_Apartments-16 2421 2435	The apartments
+T201	a_closed_corridor_which_pursued_the_windings_of_the_suite-19 2719 2776	a closed corridor which pursued the windings of the suite
+T200	an_imperial_suite-17 2767 2776	the suite
+T152	the_chamber_into_which_it_opened-20 2895 2927	the chamber into which it opened
+T153	The_second_chamber-21 3030 3048	The second chamber
+T224	The_second_chamber-21 3098 3102	here
+T202	The_third-22 3127 3136	The third
+T203	The_fourth-23 3188 3198	The fourth
+T267	the_fifth-24 3240 3249	the fifth
+T268	the_sixth-25 3264 3273	the sixth
+T154	The_seventh_apartment-26 3288 3309	The seventh apartment
+T155	The_seventh_apartment-26 3485 3497	this chamber
+T225	The_seventh_apartment-26 3585 3589	here
+T205	no_one_of_the_seven_apartments-100000 3635 3665	no one of the seven apartments
+T204	The_Seven_Apartments-16 3645 3665	the seven apartments
+T156	The_Seven_Apartments-16 3867 3888	the suite of chambers
+T207	the_corridors_that_followed_the_suite-27 3898 3935	the corridors that followed the suite
+T206	an_imperial_suite-17 3926 3935	the suite
+T157	The_Seven_Apartments-16 4099 4107	the room
+T158	The_seventh_apartment-26 4189 4217	the western or black chamber
+T209	few_of_the_company-28 4435 4453	few of the company
+T208	COURTIERS-5 4442 4453	the company
+T159	The_seventh_apartment-26 4518 4532	this apartment
+T164	MUSICIANS_ORCHESTRA-14 4962 4992	the musicians of the orchestra
+T237	MUSICIANS_ORCHESTRA-14 5038 5043	their
+T160	COURTIERS-5 5092 5104	the waltzers
+T238	COURTIERS-5 5121 5126	their
+T161	COURTIERS-5 5176 5197	the whole gay company
+T162	the_giddiest-29 5268 5280	the giddiest
+T163	the_more_aged_and_sedate-30 5297 5321	the more aged and sedate
+T239	the_more_aged_and_sedate-30 5329 5334	their
+T240	the_more_aged_and_sedate-30 5346 5351	their
+T210	COURTIERS-5 5472 5484	the assembly
+T168	MUSICIANS_ORCHESTRA-14 5487 5500	the musicians
+T241	MUSICIANS_ORCHESTRA-14 5542 5547	their
+T242	MUSICIANS_ORCHESTRA-14 5676 5680	them
+T170	PRINCE_PROSPERO-3 6039 6047	the duke
+T243	PRINCE_PROSPERO-3 6064 6066	He
+T244	PRINCE_PROSPERO-3 6108 6110	He
+T245	PRINCE_PROSPERO-3 6156 6159	His
+T246	PRINCE_PROSPERO-3 6192 6195	his
+T165	some_who_would_have_thought_him_mad-31 6248 6283	some who would have thought him mad
+T247	PRINCE_PROSPERO-3 6276 6279	him
+T171	COURTIERS-5 6286 6299	His followers
+T248	PRINCE_PROSPERO-3 6286 6289	His
+T249	PRINCE_PROSPERO-3 6310 6312	he
+T250	PRINCE_PROSPERO-3 6366 6369	him
+T251	PRINCE_PROSPERO-3 6390 6392	he
+T252	PRINCE_PROSPERO-3 6403 6405	He
+T166	The_Seven_Apartments-16 6467 6485	the seven chambers
+T253	PRINCE_PROSPERO-3 6538 6541	his
+T173	COURTIERS-5 6589 6605	the masqueraders
+T254	COURTIERS-5 6616 6620	they
+T167	the_madman-32 6856 6866	the madman
+T169	The_Seven_Apartments-16 7062 7080	the seven chambers
+T178	The_Seven_Apartments-16 7195 7204	the rooms
+T172	MUSICIANS_ORCHESTRA-14 7237 7250	the orchestra
+T255	MUSICIANS_ORCHESTRA-14 7274 7279	their
+T179	The_seventh_apartment-26 7347 7369	the hall of the velvet
+T174	The_Seven_Apartments-16 7892 7901	the seven
+T180	few_of_the_company-28 7926 7949	the maskers who venture
+T181	The_seventh_apartment-26 7850 7901	the chamber which lies most westwardly of the seven
+T269	him_whose_foot_falls_upon_the_sable_carpet-34 8105 8147	him whose foot falls upon the sable carpet
+T261	him_whose_foot_falls_upon_the_sable_carpet-34 8254 8259	their
+T175	Chambers_1-6-35 8338 8360	these other apartments
+T262	Chambers_1-6-35 8391 8395	them
+T263	NARRATOR-15 8572 8573	I
+T182	COURTIERS-5 8608 8620	the waltzers
+T176	the_thoughtful_among_those_who_revelled-36 8877 8916	the thoughtful among those who revelled
+T177	COURTIERS-5 8898 8916	those who revelled
+T213	many_individuals_in_the_crowd_who_had_found_leisure_to_become_aware_of_the_presence_of_a_masked_figure_which_had_arrested_the_attention_of_no_single_individual_before-37 9047 9213	many individuals in the crowd who had found leisure to become aware of the presence of a masked figure which had arrested the attention of no single individual before
+T212	MASKED_FIGURE-38 9134 9213	a masked figure which had arrested the attention of no single individual before
+T211	no_single_individual-100001 9186 9206	no single individual
+T214	MASKED_FIGURE-38 9234 9251	this new presence
+T215	COURTIERS-5 9322 9339	the whole company
+T264	NARRATOR-15 9500 9501	I
+T216	MASKED_FIGURE-38 9677 9699	the figure in question
+T183	Herod-39 9716 9721	Herod
+T217	PRINCE_PROSPERO-3 9759 9769	the prince
+T218	the_most_reckless-40 9828 9845	the most reckless
+T219	COURTIERS-5 10010 10027	The whole company
+T184	MASKED_FIGURE-38 10100 10112	the stranger
+T220	MASKED_FIGURE-38 10149 10159	The figure
+T185	COURTIERS-5 10491 10515	the mad revellers around
+T186	MASKED_FIGURE-38 10522 10532	the mummer
+T265	MASKED_FIGURE-38 10590 10593	His
+T266	MASKED_FIGURE-38 10634 10637	his
+R1	cop Arg1:T57 Arg2:T88
+T2	such-suites-803 2139 2150	such suites
+T274	PRON_FAC 1013 1015	it
+T275	The_Abbey-9 1013 1015	it
+T288	PRON_FAC 3063 3066	its
+T289	The_second_chamber-21 3063 3066	its
+T292	PRON_FAC 4485 4488	its
+T293	The_seventh_apartment-26 4485 4488	its
+T15	NOM_FAC 868 872	This
+T88	The_Abbey-9 868 872	This
+T121	NOM_PER 7918 7949	none of the maskers who venture
+T122	none_of_the_maskers_-700 7918 7949	none of the maskers who venture

@@ -1,0 +1,762 @@
+T0	PROP_GPE 63 70	England
+T3	PROP_GPE 390 396	London
+T4	NOM_LOC 620 660	the regions towards which I am advancing
+T9	NOM_PER 1145 1165	preceding navigators
+T10	NOM_LOC 1300 1355	every region hitherto discovered on the habitable globe
+T12	NOM_PER 1108 1117	my sister
+T13	NOM_PER 1922 1925	man
+T14	NOM_PER 2082 2089	a child
+T15	NOM_PER 2136 2153	his holiday mates
+T18	NOM_LOC 3077 3100	the North Pacific Ocean
+T22	NOM_PER 3248 3269	our good Uncle Thomas
+T23	NOM_PER 3496 3505	my father
+T24	NOM_PER 3469 3476	a child
+T25	NOM_PER 3540 3548	my uncle
+T26	NOM_PER 3651 3696	those poets whose effusions entranced my soul
+T30	PROP_PER 3879 3884	Homer
+T31	PROP_PER 3889 3900	Shakespeare
+T32	NOM_PER 4052 4061	my cousin
+T33	NOM_LOC 4397 4410	the North Sea
+T35	NOM_PER 4668 4686	a naval adventurer
+T36	NOM_PER 4507 4525	the common sailors
+T38	NOM_PER 4881 4891	my captain
+T41	PROP_GPE 5689 5695	Russia
+T42	PROP_GPE 6204 6213	Archangel
+T43	NOM_PER 6379 6388	the owner
+T44	NOM_GPE 6235 6250	the latter town
+T49	PROP_GPE 7037 7044	England
+T50	NOM_PER 7222 7232	my sailors
+T53	NOM_PER 7992 8000	a friend
+T54	NOM_PER 7943 7957	my dear sister
+T55	NOM_PER 8217 8234	your poor brother
+T59	NOM_PER 8524 8563	the celebrated poets of our own country
+T60	NOM_GPE 8548 8563	our own country
+T61	NOM_PER 8848 8874	many schoolboys of fifteen
+T62	NOM_PER 8990 9002	the painters
+T64	PROP_GPE 9282 9291	Archangel
+T65	NOM_PER 9300 9309	merchants
+T66	NOM_PER 9418 9431	My lieutenant
+T68	NOM_GPE 9876 9885	this city
+T70	NOM_PER 9938 9948	The master
+T72	NOM_PER 10485 10494	a mariner
+T73	NOM_PER 10942 10950	the girl
+T74	NOM_PER 10928 10950	the father of the girl
+T75	NOM_PER 10830 10870	a young Russian lady of moderate fortune
+T76	NOM_PER 11211 11221	her father
+T77	NOM_PER 10983 10995	his mistress
+T78	NOM_PER 11339 11348	her lover
+T79	NOM_PER 11257 11275	My generous friend
+T80	NOM_PER 11683 11692	her lover
+T81	NOM_PER 11521 11530	his rival
+T82	NOM_PER 11625 11650	the young woman 's father
+T83	NOM_PER 11625 11640	the young woman
+T84	NOM_PER 11699 11710	the old man
+T85	NOM_GPE 11831 11842	his country
+T86	NOM_PER 11799 11809	the father
+T87	NOM_PER 11878 11897	his former mistress
+T89	NOM_PER 12052 12058	a Turk
+T90	PROP_GPE 9 24	St. Petersburgh
+T1	PROP_PER 48 60	Mrs. Saville
+T2	NOM_PER 274 288	my dear sister
+T91	NOM_LOC 377 396	far north of London
+T92	NOM_FAC 416 442	the streets of Petersburgh
+T93	PROP_GPE 431 442	Petersburgh
+T5	NOM_LOC 823 831	the pole
+T6	NOM_LOC 835 867	the seat of frost and desolation
+T7	NOM_LOC 915 947	the region of beauty and delight
+T94	PROP_PER 958 966	Margaret
+T8	NOM_LOC 687 703	those icy climes
+T11	NOM_LOC 1224 1234	a calm sea
+T95	NOM_LOC 1257 1355	a land surpassing in wonders and in beauty every region hitherto discovered on the habitable globe
+T96	NOM_LOC 1336 1355	the habitable globe
+T97	NOM_LOC 1471 1499	those undiscovered solitudes
+T98	NOM_LOC 1530 1556	a country of eternal light
+T99	NOM_LOC 1820 1860	a part of the world never before visited
+T100	NOM_LOC 1877 1925	a land never before imprinted by the foot of man
+T101	NOM_VEH 2115 2128	a little boat
+T102	NOM_LOC 2189 2205	his native river
+T103	NOM_PER 2330 2337	mankind
+T105	NOM_LOC 2380 2422	a passage near the pole to those countries
+T106	NOM_LOC 2395 2403	the pole
+T107	NOM_LOC 2407 2422	those countries
+T19	NOM_LOC 3109 3141	the seas which surround the pole
+T20	NOM_LOC 3133 3141	the pole
+T21	NOM_FAC 3248 3279	our good Uncle Thomas ' library
+T28	NOM_PER 3737 3743	a poet
+T108	NOM_PER 4317 4324	my body
+T109	NOM_PER 4353 4370	the whale-fishers
+T34	NOM_PER 4768 4803	an under-mate in a Greenland whaler
+T37	NOM_VEH 4785 4803	a Greenland whaler
+T110	NOM_VEH 4925 4935	the vessel
+T111	PROP_PER 5052 5060	Margaret
+T16	NOM_VEH 5827 5848	an English stagecoach
+T17	NOM_FAC 6162 6213	the post-road between St. Petersburgh and Archangel
+T39	PROP_GPE 6184 6199	St. Petersburgh
+T40	NOM_VEH 6311 6317	a ship
+T112	NOM_PER 6413 6420	sailors
+T113	NOM_PER 6448 6493	those who are accustomed to the whale-fishing
+T45	NOM_PER 6582 6588	sister
+T46	PROP_GPE 6988 6997	Archangel
+T47	PROP_PER 7022 7034	Mrs. Saville
+T115	NOM_VEH 7183 7191	a vessel
+T51	NOM_PER 7282 7306	men on whom I can depend
+T52	PROP_PER 7517 7525	Margaret
+T117	NOM_PER 7846 7880	a man who could sympathize with me
+T56	NOM_PER 8187 8195	a friend
+T57	NOM_GPE 8767 8784	my native country
+T118	NOM_PER 9042 9171	a friend who would have sense enough not to despise me as romantic , and affection enough for me to endeavour to regulate my mind
+T63	NOM_PER 9235 9244	no friend
+T119	NOM_LOC 9248 9262	the wide ocean
+T120	NOM_PER 9314 9320	seamen
+T121	NOM_LOC 9396 9415	these rugged bosoms
+T122	NOM_PER 9452 9493	a man of wonderful courage and enterprise
+T67	NOM_PER 9625 9638	an Englishman
+T71	NOM_PER 9952 9988	a person of an excellent disposition
+T123	NOM_VEH 10010 10018	the ship
+T124	NOM_VEH 10415 10419	ship
+T125	NOM_PER 10582 10590	his crew
+T126	NOM_PER 10723 10771	a lady who owes to him the happiness of her life
+T127	NOM_FAC 11407 11413	a farm
+T88	NOM_PER 11949 11963	a noble fellow
+T104	NOM_PER 2343 2362	the last generation
+T69	NOM_VEH 9825 9839	a whale vessel
+T48	NOM_PER 6969 6978	R. Walton
+T129	NOM_PER 6941 6966	Your affectionate brother
+T114	NOM_PER 6777 6784	my dear
+T130	NOM_PER 6787 6805	excellent Margaret
+T58	NOM_PER 8449 8458	our Uncle
+T131	PROP_PER 8459 8465	Thomas
+T29	NOM_LOC 1830 1839	the world
+T134	NOM_PER 7659 7665	no one
+T135	NOM_PER 8010 8016	no one
+T136	NOM_GPE 226 230	here
+T137	NOM_LOC 950 955	There
+T138	NOM_LOC 1077 1082	There
+T139	NOM_LOC 1169 1174	there
+T140	NOM_LOC 1565 1570	there
+T141	NOM_GPE 6318 6323	there
+T142	NOM_GPE 7072 7076	here
+T143	NOM_GPE 9274 9278	here
+T128	NOM_PER 11767 11939	my friend , who , when he found the father inexorable , quitted his country , nor returned until he heard that his former mistress was married according to her inclinations
+T144	PRON_PER 71 74	You
+T145	PRON_PER 169 172	you
+T146	PRON_PER 216 217	I
+T147	PRON_PER 247 249	my
+T148	PRON_PER 274 276	my
+T149	PRON_PER 292 294	my
+T150	PRON_PER 347 349	my
+T151	PRON_PER 364 365	I
+T152	PRON_PER 406 407	I
+T153	PRON_PER 445 446	I
+T154	PRON_PER 485 487	my
+T155	PRON_PER 510 512	my
+T156	PRON_PER 530 532	me
+T157	PRON_PER 551 554	you
+T158	PRON_PER 646 647	I
+T159	PRON_PER 669 671	me
+T160	PRON_PER 743 745	my
+T161	PRON_PER 788 789	I
+T162	PRON_PER 897 899	my
+T163	PRON_PER 1095 1099	your
+T164	PRON_PER 1108 1110	my
+T165	PRON_PER 1120 1121	I
+T166	PRON_PER 1237 1239	we
+T167	PRON_PER 1559 1560	I
+T169	PRON_PER 1766 1767	I
+T170	PRON_PER 1782 1784	my
+T171	PRON_PER 1938 1940	my
+T173	PRON_PER 2032 2034	me
+T174	PRON_PER 2101 2103	he
+T175	PRON_PER 2136 2139	his
+T176	PRON_PER 2189 2192	his
+T177	PRON_PER 2258 2261	you
+T178	PRON_PER 2308 2309	I
+T179	PRON_PER 2669 2670	I
+T180	PRON_PER 2677 2679	my
+T181	PRON_PER 2693 2694	I
+T182	PRON_PER 2700 2702	my
+T183	PRON_PER 2748 2750	me
+T184	PRON_PER 2948 2950	my
+T185	PRON_PER 2965 2966	I
+T186	PRON_PER 3144 3147	You
+T187	PRON_PER 3248 3251	our
+T188	PRON_PER 3282 3284	My
+T189	PRON_PER 3315 3316	I
+T190	PRON_PER 3371 3373	my
+T191	PRON_PER 3400 3402	my
+T193	PRON_PER 3453 3454	I
+T194	PRON_PER 3496 3498	my
+T195	PRON_PER 3540 3542	my
+T196	PRON_PER 3558 3560	me
+T197	PRON_PER 3618 3619	I
+T198	PRON_PER 3689 3691	my
+T199	PRON_PER 3723 3724	I
+T200	PRON_PER 3784 3786	my
+T201	PRON_PER 3802 3803	I
+T202	PRON_PER 3818 3819	I
+T203	PRON_PER 3919 3922	You
+T204	PRON_PER 3948 3950	my
+T205	PRON_PER 3975 3976	I
+T206	PRON_PER 4025 4026	I
+T207	PRON_PER 4052 4054	my
+T208	PRON_PER 4068 4070	my
+T210	PRON_PER 4161 4162	I
+T211	PRON_PER 4175 4177	my
+T212	PRON_PER 4200 4201	I
+T213	PRON_PER 4248 4249	I
+T214	PRON_PER 4260 4266	myself
+T215	PRON_PER 4294 4295	I
+T216	PRON_PER 4317 4319	my
+T217	PRON_PER 4339 4340	I
+T218	PRON_PER 4413 4414	I
+T219	PRON_PER 4480 4481	I
+T220	PRON_PER 4553 4555	my
+T221	PRON_PER 4741 4742	I
+T222	PRON_PER 4758 4764	myself
+T223	PRON_PER 4820 4826	myself
+T224	PRON_PER 4843 4844	I
+T225	PRON_PER 4854 4855	I
+T226	PRON_PER 4881 4883	my
+T227	PRON_PER 4900 4902	me
+T228	PRON_PER 4950 4952	me
+T229	PRON_PER 5011 5013	he
+T230	PRON_PER 5023 5025	my
+T231	PRON_PER 5066 5067	I
+T232	PRON_PER 5115 5117	My
+T233	PRON_PER 5171 5172	I
+T234	PRON_PER 5231 5233	my
+T235	PRON_PER 5308 5310	My
+T236	PRON_PER 5323 5325	my
+T237	PRON_PER 5351 5353	my
+T238	PRON_PER 5376 5378	my
+T239	PRON_PER 5409 5410	I
+T240	PRON_PER 5505 5507	my
+T241	PRON_PER 5520 5521	I
+T242	PRON_PER 5601 5603	my
+T243	PRON_PER 5698 5702	They
+T244	PRON_PER 5732 5737	their
+T245	PRON_PER 5782 5784	my
+T246	PRON_PER 5882 5885	you
+T247	PRON_PER 5923 5924	I
+T248	PRON_PER 6111 6115	your
+T249	PRON_PER 6124 6125	I
+T250	PRON_PER 6151 6153	my
+T251	PRON_PER 6216 6217	I
+T252	PRON_PER 6287 6289	my
+T253	PRON_PER 6424 6425	I
+T254	PRON_PER 6496 6497	I
+T255	PRON_PER 6561 6562	I
+T256	PRON_PER 6599 6600	I
+T257	PRON_PER 6627 6628	I
+T258	PRON_PER 6693 6696	you
+T259	PRON_PER 6701 6702	I
+T260	PRON_PER 6717 6718	I
+T261	PRON_PER 6726 6729	you
+T262	PRON_PER 6739 6741	me
+T263	PRON_PER 6777 6779	my
+T264	PRON_PER 6840 6843	you
+T265	PRON_PER 6855 6857	me
+T266	PRON_PER 6865 6866	I
+T267	PRON_PER 6895 6897	my
+T268	PRON_PER 6916 6920	your
+T269	PRON_PER 6941 6945	Your
+T270	PRON_PER 7094 7095	I
+T271	PRON_PER 7154 7156	my
+T272	PRON_PER 7170 7171	I
+T273	PRON_PER 7222 7224	my
+T274	PRON_PER 7246 7247	I
+T275	PRON_PER 7294 7295	I
+T276	PRON_PER 7362 7363	I
+T277	PRON_PER 7384 7385	I
+T278	PRON_PER 7463 7464	I
+T279	PRON_PER 7498 7499	I
+T280	PRON_PER 7533 7534	I
+T281	PRON_PER 7613 7615	my
+T282	PRON_PER 7625 7626	I
+T283	PRON_PER 7692 7694	me
+T284	PRON_PER 7710 7711	I
+T285	PRON_PER 7725 7727	my
+T286	PRON_PER 7822 7823	I
+T287	PRON_PER 7878 7880	me
+T288	PRON_PER 7916 7919	You
+T289	PRON_PER 7929 7931	me
+T290	PRON_PER 7943 7945	my
+T291	PRON_PER 7964 7965	I
+T292	PRON_PER 8003 8004	I
+T293	PRON_PER 8022 8024	me
+T294	PRON_PER 8132 8134	my
+T295	PRON_PER 8161 8163	my
+T296	PRON_PER 8217 8221	your
+T297	PRON_PER 8237 8238	I
+T298	PRON_PER 8336 8338	me
+T299	PRON_PER 8344 8345	I
+T300	PRON_PER 8397 8399	my
+T301	PRON_PER 8405 8406	I
+T302	PRON_PER 8449 8452	our
+T303	PRON_PER 8499 8500	I
+T304	PRON_PER 8548 8551	our
+T305	PRON_PER 8610 8612	my
+T306	PRON_PER 8685 8686	I
+T307	PRON_PER 8767 8769	my
+T308	PRON_PER 8791 8792	I
+T309	PRON_PER 8893 8894	I
+T310	PRON_PER 8922 8924	my
+T312	PRON_PER 9027 9028	I
+T313	PRON_PER 9094 9096	me
+T314	PRON_PER 9136 9138	me
+T315	PRON_PER 9164 9166	my
+T316	PRON_PER 9212 9213	I
+T317	PRON_PER 9418 9420	My
+T318	PRON_PER 9496 9498	he
+T319	PRON_PER 9548 9550	my
+T320	PRON_PER 9602 9605	his
+T321	PRON_PER 9619 9621	He
+T322	PRON_PER 9781 9782	I
+T323	PRON_PER 9812 9815	him
+T324	PRON_PER 9855 9857	he
+T325	PRON_PER 9888 9889	I
+T326	PRON_PER 9905 9908	him
+T327	PRON_PER 9922 9924	my
+T328	PRON_PER 10023 10026	his
+T329	PRON_PER 10058 10061	his
+T330	PRON_PER 10104 10107	his
+T331	PRON_PER 10158 10160	me
+T332	PRON_PER 10185 10188	him
+T333	PRON_PER 10220 10222	my
+T334	PRON_PER 10246 10250	your
+T335	PRON_PER 10316 10318	my
+T336	PRON_PER 10334 10335	I
+T337	PRON_PER 10422 10423	I
+T338	PRON_PER 10474 10475	I
+T339	PRON_PER 10513 10516	his
+T340	PRON_PER 10575 10578	him
+T341	PRON_PER 10582 10585	his
+T342	PRON_PER 10593 10594	I
+T343	PRON_PER 10600 10606	myself
+T344	PRON_PER 10652 10655	his
+T345	PRON_PER 10667 10668	I
+T346	PRON_PER 10678 10681	him
+T347	PRON_PER 10742 10745	him
+T348	PRON_PER 10763 10766	her
+T349	PRON_PER 10794 10797	his
+T350	PRON_PER 10821 10823	he
+T351	PRON_PER 10976 10978	He
+T352	PRON_PER 10983 10986	his
+T353	PRON_PER 11036 11039	she
+T354	PRON_PER 11075 11082	herself
+T355	PRON_PER 11086 11089	his
+T356	PRON_PER 11107 11110	him
+T357	PRON_PER 11120 11123	her
+T358	PRON_PER 11159 11162	she
+T359	PRON_PER 11188 11190	he
+T360	PRON_PER 11211 11214	her
+T361	PRON_PER 11257 11259	My
+T362	PRON_PER 11339 11342	her
+T363	PRON_PER 11371 11374	his
+T364	PRON_PER 11385 11387	He
+T365	PRON_PER 11419 11422	his
+T366	PRON_PER 11440 11442	he
+T367	PRON_PER 11481 11484	his
+T368	PRON_PER 11496 11498	he
+T369	PRON_PER 11521 11524	his
+T370	PRON_PER 11562 11565	his
+T371	PRON_PER 11607 11614	himself
+T372	PRON_PER 11665 11668	her
+T373	PRON_PER 11683 11686	her
+T374	PRON_PER 11740 11747	himself
+T375	PRON_PER 11767 11769	my
+T376	PRON_PER 11790 11792	he
+T377	PRON_PER 11831 11834	his
+T378	PRON_PER 11864 11866	he
+T379	PRON_PER 11878 11881	his
+T380	PRON_PER 11923 11926	her
+T381	PRON_PER 11968 11971	you
+T382	PRON_PER 11987 11989	He
+T383	PRON_PER 12007 12009	he
+T384	PRON_PER 12033 12035	he
+T385	PRON_PER 12105 12108	him
+T386	PRON_PER 12136 12139	his
+T387	PRON_PER 12227 12229	he
+T478	St__Petersburgh-0 9 24	St. Petersburgh
+T389	Mrs__Saville-1 48 60	Mrs. Saville
+T388	England-2 63 70	England
+T532	Mrs__Saville-1 71 74	You
+T533	Mrs__Saville-1 169 172	you
+T534	I-3 216 217	I
+T535	I-3 247 249	my
+T390	Mrs__Saville-1 274 288	my dear sister
+T536	I-3 274 276	my
+T537	I-3 292 294	my
+T538	I-3 347 349	my
+T539	I-3 364 365	I
+T479	far_north_of_London-4 377 396	far north of London
+T391	London-5 390 396	London
+T540	I-3 406 407	I
+T524	St__Petersburgh-0 226 230	here
+T480	the_streets_of_Petersburgh-6 416 442	the streets of Petersburgh
+T481	St__Petersburgh-0 431 442	Petersburgh
+T541	I-3 445 446	I
+T542	I-3 485 487	my
+T543	I-3 510 512	my
+T544	I-3 530 532	me
+T545	Mrs__Saville-1 551 554	you
+T392	the_regions_towards_which_I_am_advancing-7 620 660	the regions towards which I am advancing
+T546	I-3 646 647	I
+T547	I-3 669 671	me
+T396	the_regions_towards_which_I_am_advancing-7 687 703	those icy climes
+T548	I-3 743 745	my
+T549	I-3 788 789	I
+T393	the_pole-8 823 831	the pole
+T550	I-3 897 899	my
+T395	the_pole-8 915 947	the region of beauty and delight
+T525	the_pole-8 950 955	There
+T482	Mrs__Saville-1 958 966	Margaret
+T526	the_pole-8 1077 1082	There
+T551	Mrs__Saville-1 1095 1099	your
+T400	Mrs__Saville-1 1108 1117	my sister
+T552	I-3 1108 1110	my
+T553	I-3 1120 1121	I
+T397	preceding_navigators-9 1145 1165	preceding navigators
+T527	the_pole-8 1169 1174	there
+T399	a_calm_sea-10 1224 1234	a calm sea
+T554	we-11 1237 1239	we
+T483	the_regions_towards_which_I_am_advancing-7 1257 1355	a land surpassing in wonders and in beauty every region hitherto discovered on the habitable globe
+T398	every_region_hitherto_discovered_on_the_habitable_globe-12 1300 1355	every region hitherto discovered on the habitable globe
+T484	the_habitable_globe-13 1336 1355	the habitable globe
+T485	the_regions_towards_which_I_am_advancing-7 1471 1499	those undiscovered solitudes
+T486	the_regions_towards_which_I_am_advancing-7 1530 1556	a country of eternal light
+T555	I-3 1559 1560	I
+T528	the_regions_towards_which_I_am_advancing-7 1565 1570	there
+T557	I-3 1766 1767	I
+T558	I-3 1782 1784	my
+T417	the_world-15 1830 1839	the world
+T487	the_regions_towards_which_I_am_advancing-7 1820 1860	a part of the world never before visited
+T488	the_regions_towards_which_I_am_advancing-7 1877 1925	a land never before imprinted by the foot of man
+T401	man-16 1922 1925	man
+T559	I-3 1938 1940	my
+T561	I-3 2032 2034	me
+T402	a_child-17 2082 2089	a child
+T562	a_child-17 2101 2103	he
+T489	a_little_boat-18 2115 2128	a little boat
+T403	his_holiday_mates-19 2136 2153	his holiday mates
+T563	a_child-17 2136 2139	his
+T490	his_native_river-20 2189 2205	his native river
+T564	a_child-17 2189 2192	his
+T565	Mrs__Saville-1 2258 2261	you
+T566	I-3 2308 2309	I
+T491	man-16 2330 2337	mankind
+T492	the_last_generation-21 2343 2362	the last generation
+T493	a_passage_near_the_pole_to_those_countries-22 2380 2422	a passage near the pole to those countries
+T494	the_pole-8 2395 2403	the pole
+T495	the_regions_towards_which_I_am_advancing-7 2407 2422	those countries
+T567	I-3 2669 2670	I
+T568	I-3 2677 2679	my
+T569	I-3 2693 2694	I
+T570	I-3 2700 2702	my
+T571	I-3 2748 2750	me
+T572	I-3 2948 2950	my
+T573	I-3 2965 2966	I
+T406	the_North_Pacific_Ocean-23 3077 3100	the North Pacific Ocean
+T407	the_seas_which_surround_the_pole-24 3109 3141	the seas which surround the pole
+T408	the_pole-8 3133 3141	the pole
+T574	Mrs__Saville-1 3144 3147	You
+T410	thomas-25 3248 3269	our good Uncle Thomas
+T409	our_good_Uncle_Thomas___library-26 3248 3279	our good Uncle Thomas ' library
+T575	narrator___sister-27 3248 3251	our
+T576	I-3 3282 3284	My
+T577	I-3 3315 3316	I
+T578	I-3 3371 3373	my
+T579	I-3 3400 3402	my
+T581	I-3 3453 3454	I
+T412	I-3 3469 3476	a child
+T411	my_father-28 3496 3505	my father
+T582	I-3 3496 3498	my
+T413	thomas-25 3540 3548	my uncle
+T583	I-3 3540 3542	my
+T584	I-3 3558 3560	me
+T585	I-3 3618 3619	I
+T414	those_poets_whose_effusions_entranced_my_soul-29 3651 3696	those poets whose effusions entranced my soul
+T586	I-3 3689 3691	my
+T587	I-3 3723 3724	I
+T588	I-3 3784 3786	my
+T589	I-3 3802 3803	I
+T590	I-3 3818 3819	I
+T418	Homer-30 3879 3884	Homer
+T419	Shakespeare-31 3889 3900	Shakespeare
+T591	Mrs__Saville-1 3919 3922	You
+T592	I-3 3948 3950	my
+T593	I-3 3975 3976	I
+T594	I-3 4025 4026	I
+T420	my_cousin-32 4052 4061	my cousin
+T595	I-3 4052 4054	my
+T596	I-3 4068 4070	my
+T598	I-3 4161 4162	I
+T599	I-3 4175 4177	my
+T600	I-3 4200 4201	I
+T601	I-3 4248 4249	I
+T602	I-3 4260 4266	myself
+T603	I-3 4294 4295	I
+T496	I-3 4317 4324	my body
+T604	I-3 4317 4319	my
+T605	I-3 4339 4340	I
+T497	the_whale-fishers-33 4353 4370	the whale-fishers
+T421	the_North_Pacific_Ocean-23 4397 4410	the North Sea
+T606	I-3 4413 4414	I
+T607	I-3 4480 4481	I
+T424	the_common_sailors-34 4507 4525	the common sailors
+T608	I-3 4553 4555	my
+T423	a_naval_adventurer-35 4668 4686	a naval adventurer
+T609	I-3 4741 4742	I
+T610	I-3 4758 4764	myself
+T425	a_Greenland_whaler-36 4785 4803	a Greenland whaler
+T611	I-3 4820 4826	myself
+T612	I-3 4843 4844	I
+T613	I-3 4854 4855	I
+T426	my_captain-37 4881 4891	my captain
+T614	I-3 4881 4883	my
+T615	I-3 4900 4902	me
+T498	a_Greenland_whaler-36 4925 4935	the vessel
+T616	I-3 4950 4952	me
+T617	my_captain-37 5011 5013	he
+T618	I-3 5023 5025	my
+T499	Mrs__Saville-1 5052 5060	Margaret
+T619	I-3 5066 5067	I
+T620	I-3 5115 5117	My
+T621	I-3 5171 5172	I
+T622	I-3 5231 5233	my
+T623	I-3 5308 5310	My
+T624	I-3 5323 5325	my
+T625	I-3 5351 5353	my
+T626	I-3 5376 5378	my
+T627	I-3 5409 5410	I
+T628	I-3 5505 5507	my
+T629	I-3 5520 5521	I
+T630	I-3 5601 5603	my
+T429	Russia-38 5689 5695	Russia
+T631	They-39 5698 5702	They
+T632	They-39 5732 5737	their
+T633	I-3 5782 5784	my
+T404	an_English_stagecoach-40 5827 5848	an English stagecoach
+T634	you-41 5882 5885	you
+T635	I-3 5923 5924	I
+T636	your-42 6111 6115	your
+T637	I-3 6124 6125	I
+T638	I-3 6151 6153	my
+T405	the_post-road_between_St__Petersburgh_and_Archangel-43 6162 6213	the post-road between St. Petersburgh and Archangel
+T427	St__Petersburgh-0 6184 6199	St. Petersburgh
+T430	Archangel-44 6204 6213	Archangel
+T639	I-3 6216 6217	I
+T432	Archangel-44 6235 6250	the latter town
+T640	I-3 6287 6289	my
+T428	a_ship-45 6311 6317	a ship
+T529	Archangel-44 6318 6323	there
+T431	the_owner-46 6379 6388	the owner
+T500	sailors-47 6413 6420	sailors
+T641	I-3 6424 6425	I
+T501	those_who_are_accustomed_to_the_whale-fishing-48 6448 6493	those who are accustomed to the whale-fishing
+T642	I-3 6496 6497	I
+T643	I-3 6561 6562	I
+T433	Mrs__Saville-1 6582 6588	sister
+T644	I-3 6599 6600	I
+T645	I-3 6627 6628	I
+T646	Mrs__Saville-1 6693 6696	you
+T647	I-3 6701 6702	I
+T648	I-3 6717 6718	I
+T649	Mrs__Saville-1 6726 6729	you
+T650	I-3 6739 6741	me
+T502	Mrs__Saville-1 6777 6784	my dear
+T651	I-3 6777 6779	my
+T518	Mrs__Saville-1 6787 6805	excellent Margaret
+T652	Mrs__Saville-1 6840 6843	you
+T653	I-3 6855 6857	me
+T654	I-3 6865 6866	I
+T655	I-3 6895 6897	my
+T656	Mrs__Saville-1 6916 6920	your
+T517	I-3 6941 6966	Your affectionate brother
+T657	Mrs__Saville-1 6941 6945	Your
+T436	I-3 6969 6978	R. Walton
+T434	Archangel-44 6988 6997	Archangel
+T435	Mrs__Saville-1 7022 7034	Mrs. Saville
+T437	England-2 7037 7044	England
+T530	Archangel-44 7072 7076	here
+T658	I-3 7094 7095	I
+T659	I-3 7154 7156	my
+T660	I-3 7170 7171	I
+T503	a_vessel-49 7183 7191	a vessel
+T438	my_sailors-50 7222 7232	my sailors
+T661	I-3 7222 7224	my
+T662	I-3 7246 7247	I
+T439	men_on_whom_I_can_depend-51 7282 7306	men on whom I can depend
+T663	I-3 7294 7295	I
+T664	I-3 7362 7363	I
+T665	I-3 7384 7385	I
+T666	I-3 7463 7464	I
+T667	I-3 7498 7499	I
+T440	Mrs__Saville-1 7517 7525	Margaret
+T668	I-3 7533 7534	I
+T669	I-3 7613 7615	my
+T670	I-3 7625 7626	I
+T522	no_one-100001 7659 7665	no one
+T671	I-3 7692 7694	me
+T672	I-3 7710 7711	I
+T673	I-3 7725 7727	my
+T674	I-3 7822 7823	I
+T505	a_man_who_could_sympathize_with_me-52 7846 7880	a man who could sympathize with me
+T675	I-3 7878 7880	me
+T676	Mrs__Saville-1 7916 7919	You
+T677	I-3 7929 7931	me
+T442	Mrs__Saville-1 7943 7957	my dear sister
+T678	I-3 7943 7945	my
+T679	I-3 7964 7965	I
+T441	a_friend-53 7992 8000	a friend
+T680	I-3 8003 8004	I
+T523	no_one-100002 8010 8016	no one
+T681	I-3 8022 8024	me
+T682	I-3 8132 8134	my
+T683	I-3 8161 8163	my
+T444	a_friend-54 8187 8195	a friend
+T443	I-3 8217 8234	your poor brother
+T684	Mrs__Saville-1 8217 8221	your
+T685	I-3 8237 8238	I
+T686	I-3 8336 8338	me
+T687	I-3 8344 8345	I
+T688	I-3 8397 8399	my
+T689	I-3 8405 8406	I
+T446	thomas-25 8449 8458	our Uncle
+T690	narrator___sister-27 8449 8452	our
+T519	thomas-25 8459 8465	Thomas
+T691	I-3 8499 8500	I
+T447	the_celebrated_poets_of_our_own_country-55 8524 8563	the celebrated poets of our own country
+T448	England-2 8548 8563	our own country
+T692	narrator___sister-27 8548 8551	our
+T693	I-3 8610 8612	my
+T694	I-3 8685 8686	I
+T445	England-2 8767 8784	my native country
+T695	I-3 8767 8769	my
+T696	I-3 8791 8792	I
+T449	many_schoolboys_of_fifteen-56 8848 8874	many schoolboys of fifteen
+T697	I-3 8893 8894	I
+T698	I-3 8922 8924	my
+T450	the_painters-57 8990 9002	the painters
+T700	I-3 9027 9028	I
+T506	a_friend_who_would_have_sense_enough_not_to_despise_me_as_romantic___and_affection_enough_for_me_to_endeavour_to_regulate_my_mind-58 9042 9171	a friend who would have sense enough not to despise me as romantic , and affection enough for me to endeavour to regulate my mind
+T701	I-3 9094 9096	me
+T702	I-3 9136 9138	me
+T703	I-3 9164 9166	my
+T704	I-3 9212 9213	I
+T451	no_friend-100003 9235 9244	no friend
+T507	the_wide_ocean-59 9248 9262	the wide ocean
+T531	Archangel-44 9274 9278	here
+T452	Archangel-44 9282 9291	Archangel
+T453	merchants-60 9300 9309	merchants
+T508	seamen-61 9314 9320	seamen
+T509	these_rugged_bosoms-62 9396 9415	these rugged bosoms
+T454	My_lieutenant-63 9418 9431	My lieutenant
+T705	I-3 9418 9420	My
+T706	My_lieutenant-63 9496 9498	he
+T707	I-3 9548 9550	my
+T708	My_lieutenant-63 9602 9605	his
+T709	My_lieutenant-63 9619 9621	He
+T710	I-3 9781 9782	I
+T711	My_lieutenant-63 9812 9815	him
+T457	hired_whale_ship-64 9825 9839	a whale vessel
+T712	My_lieutenant-63 9855 9857	he
+T456	Archangel-44 9876 9885	this city
+T713	I-3 9888 9889	I
+T714	My_lieutenant-63 9905 9908	him
+T715	I-3 9922 9924	my
+T458	The_master-65 9938 9948	The master
+T511	hired_whale_ship-64 10010 10018	the ship
+T716	The_master-65 10023 10026	his
+T717	The_master-65 10058 10061	his
+T718	The_master-65 10104 10107	his
+T719	I-3 10158 10160	me
+T720	The_master-65 10185 10188	him
+T721	I-3 10220 10222	my
+T722	Mrs__Saville-1 10246 10250	your
+T723	I-3 10316 10318	my
+T724	I-3 10334 10335	I
+T512	ship-66 10415 10419	ship
+T725	I-3 10422 10423	I
+T726	I-3 10474 10475	I
+T513	his_crew-68 10582 10590	his crew
+T460	The_master-65 10485 10494	a mariner
+T727	The_master-65 10513 10516	his
+T728	The_master-65 10575 10578	him
+T729	The_master-65 10582 10585	his
+T730	I-3 10593 10594	I
+T731	I-3 10600 10606	myself
+T732	The_master-65 10652 10655	his
+T733	I-3 10667 10668	I
+T734	The_master-65 10678 10681	him
+T514	a_lady_who_owes_to_him_the_happiness_of_her_life-69 10723 10771	a lady who owes to him the happiness of her life
+T735	The_master-65 10742 10745	him
+T736	a_lady_who_owes_to_him_the_happiness_of_her_life-69 10763 10766	her
+T737	The_master-65 10794 10797	his
+T738	The_master-65 10821 10823	he
+T463	a_young_Russian_lady_of_moderate_fortune-70 10830 10870	a young Russian lady of moderate fortune
+T462	the_father_of_the_girl-71 10928 10950	the father of the girl
+T461	a_young_Russian_lady_of_moderate_fortune-70 10942 10950	the girl
+T739	The_master-65 10976 10978	He
+T465	a_young_Russian_lady_of_moderate_fortune-70 10983 10995	his mistress
+T740	The_master-65 10983 10986	his
+T741	a_young_Russian_lady_of_moderate_fortune-70 11036 11039	she
+T742	a_young_Russian_lady_of_moderate_fortune-70 11075 11082	herself
+T743	The_master-65 11086 11089	his
+T744	The_master-65 11107 11110	him
+T745	a_young_Russian_lady_of_moderate_fortune-70 11120 11123	her
+T746	a_young_Russian_lady_of_moderate_fortune-70 11159 11162	she
+T747	he-72 11188 11190	he
+T464	the_father_of_the_girl-71 11211 11221	her father
+T748	a_young_Russian_lady_of_moderate_fortune-70 11211 11214	her
+T467	The_master-65 11257 11275	My generous friend
+T749	I-3 11257 11259	My
+T466	he-72 11339 11348	her lover
+T750	a_young_Russian_lady_of_moderate_fortune-70 11339 11342	her
+T751	The_master-65 11371 11374	his
+T752	The_master-65 11385 11387	He
+T515	a_farm-73 11407 11413	a farm
+T753	The_master-65 11419 11422	his
+T754	The_master-65 11440 11442	he
+T755	The_master-65 11481 11484	his
+T756	The_master-65 11496 11498	he
+T469	he-72 11521 11530	his rival
+T757	The_master-65 11521 11524	his
+T758	The_master-65 11562 11565	his
+T759	The_master-65 11607 11614	himself
+T470	the_father_of_the_girl-71 11625 11650	the young woman 's father
+T471	a_young_Russian_lady_of_moderate_fortune-70 11625 11640	the young woman
+T760	a_young_Russian_lady_of_moderate_fortune-70 11665 11668	her
+T468	he-72 11683 11692	her lover
+T761	a_young_Russian_lady_of_moderate_fortune-70 11683 11686	her
+T472	the_father_of_the_girl-71 11699 11710	the old man
+T762	the_father_of_the_girl-71 11740 11747	himself
+T516	The_master-65 11767 11939	my friend , who , when he found the father inexorable , quitted his country , nor returned until he heard that his former mistress was married according to her inclinations
+T763	I-3 11767 11769	my
+T764	The_master-65 11790 11792	he
+T474	the_father_of_the_girl-71 11799 11809	the father
+T473	his_country-74 11831 11842	his country
+T765	The_master-65 11831 11834	his
+T766	The_master-65 11864 11866	he
+T475	a_young_Russian_lady_of_moderate_fortune-70 11878 11897	his former mistress
+T767	The_master-65 11878 11881	his
+T768	a_young_Russian_lady_of_moderate_fortune-70 11923 11926	her
+T476	The_master-65 11949 11963	a noble fellow
+T769	Mrs__Saville-1 11968 11971	you
+T770	The_master-65 11987 11989	He
+T771	The_master-65 12007 12009	he
+T772	The_master-65 12033 12035	he
+T477	a_Turk-75 12052 12058	a Turk
+T773	The_master-65 12105 12108	him
+T774	The_master-65 12136 12139	his
+T775	The_master-65 12227 12229	he
+R2	cop Arg1:T28 Arg2:T199
+R3	cop Arg1:T34 Arg2:T222
+R4	cop Arg1:T122 Arg2:T66
+R5	cop Arg1:T67 Arg2:T321
+R6	cop Arg1:T71 Arg2:T70
+T780	PRON_LOC 1358 1361	Its
+T781	the_regions_towards_which_I_am_advancing-7 1358 1361	Its
+T27	the_seat_of_frost_an-700 835 867	the seat of frost and desolation
+T132	NOM_PER 7505 7514	no friend
+T133	no_friend-700 7505 7514	no friend

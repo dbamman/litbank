@@ -1,0 +1,502 @@
+T1	NOM_PER 462 485	these alien-looking men
+T2	NOM_PER 610 624	these pale men
+T3	NOM_PER 1157 1167	the pedlar
+T4	NOM_PER 1334 1344	his father
+T5	NOM_PER 1209 1222	wandering men
+T6	NOM_PER 1269 1274	a man
+T7	NOM_PER 1349 1355	mother
+T8	NOM_PER 1621 1635	even a settler
+T9	NOM_PER 1361 1386	the peasants of old times
+T10	NOM_LOC 1389 1434	the world outside their own direct experience
+T11	NOM_PER 2071 2080	villagers
+T12	NOM_GPE 2497 2505	the town
+T13	NOM_PER 2555 2561	aliens
+T14	NOM_PER 2565 2588	their rustic neighbours
+T15	NOM_PER 2482 2522	emigrants from the town into the country
+T16	PROP_PER 2740 2752	Silas Marner
+T17	NOM_GPE 2839 2861	the village of Raveloe
+T18	NOM_PER 3437 3447	the weaver
+T19	NOM_FAC 3205 3222	the stone cottage
+T22	NOM_PER 3556 3576	the small scoundrels
+T23	NOM_PER 4058 4096	any boy who happened to be in the rear
+T24	NOM_PER 4144 4151	mothers
+T26	NOM_PER 4337 4347	the doctor
+T27	PROP_PER 4162 4174	Silas Marner
+T28	NOM_PER 4126 4139	their fathers
+T29	NOM_PER 4441 4462	the diligent listener
+T32	NOM_PER 5331 5339	his wife
+T35	PROP_GPE 5549 5556	Raveloe
+T36	NOM_PER 5754 5780	thinly-scattered shepherds
+T37	PROP_GPE 5865 5878	Merry England
+T38	PROP_GPE 6734 6741	Raveloe
+T39	NOM_FAC 6404 6412	the road
+T41	PROP_PER 6970 6982	Silas Marner
+T42	NOM_PER 7443 7451	no comer
+T43	NOM_PER 7612 7617	woman
+T44	NOM_PER 7889 7899	a dead man
+T45	NOM_PER 7602 7608	no man
+T46	NOM_GPE 7510 7521	the village
+T47	PROP_PER 8127 8139	Silas Marner
+T48	NOM_PER 8238 8257	a man in his senses
+T49	NOM_PER 8537 8547	the weaver
+T50	PROP_PER 8840 8846	Marner
+T52	NOM_PER 8972 8991	clerk of the parish
+T53	NOM_PER 9246 9257	no children
+T54	NOM_PER 9313 9318	a man
+T55	NOM_PER 9747 9757	the parson
+T57	NOM_PER 9691 9707	their neighbours
+T58	PROP_PER 9774 9787	Master Marner
+T59	NOM_PER 10022 10028	a baby
+T60	PROP_PER 9967 9973	Marner
+T61	NOM_FAC 64 78	the farmhouses
+T62	NOM_PER 91 137	great ladies , clothed in silk and thread-lace
+T63	NOM_LOC 273 282	the hills
+T64	NOM_FAC 237 246	the lanes
+T65	NOM_LOC 212 246	districts far away among the lanes
+T66	NOM_PER 338 361	the brawny country-folk
+T67	NOM_PER 392 411	a disinherited race
+T68	NOM_PER 285 411	certain pallid undersized men , who , by the side of the brawny country-folk , looked like the remnants of a disinherited race
+T69	NOM_PER 414 426	The shepherd
+T70	NOM_PER 455 485	one of these alien-looking men
+T71	NOM_LOC 498 508	the upland
+T72	NOM_PER 569 600	a figure bent under a heavy bag
+T73	NOM_PER 680 692	The shepherd
+T74	NOM_PER 976 988	the Evil One
+T75	NOM_PER 1044 1056	every person
+T76	NOM_PER 1171 1188	the knife-grinder
+T77	NOM_FAC 1227 1238	their homes
+T78	NOM_PER 1316 1355	somebody who knew his father and mother
+T79	NOM_LOC 1439 1472	a region of vagueness and mystery
+T80	NOM_LOC 1654 1667	distant parts
+T81	NOM_PER 2110 2157	honest folk , born and bred in a visible manner
+T82	NOM_PER 2449 2478	those scattered linen-weavers
+T83	NOM_LOC 2511 2522	the country
+T84	NOM_PER 2534 2542	the last
+T85	NOM_PER 2712 2731	such a linen-weaver
+T86	NOM_LOC 2814 2833	the nutty hedgerows
+T87	NOM_LOC 2893 2913	a deserted stone-pit
+T88	NOM_FAC 2781 2913	a stone cottage that stood among the nutty hedgerows near the village of Raveloe , and not far from the edge of a deserted stone-pit
+T89	PROP_PER 2942 2947	Silas
+T20	NOM_PER 3097 3447	the Raveloe boys , who would often leave off their nutting or birds ' - nesting to peep in at the window of the stone cottage , counterbalancing a certain awe at the mysterious action of the loom , by a pleasant sense of scornful superiority , drawn from the mockery of its alternating noises , along with the bent , tread-mill attitude of the weaver
+T21	PROP_PER 3481 3487	Marner
+T90	PROP_PER 3877 3889	Silas Marner
+T91	NOM_PER 4186 4191	folks
+T25	NOM_PER 4283 4292	the devil
+T30	NOM_PER 4469 4494	the grey-haired peasantry
+T31	NOM_PER 4757 4911	men who have always been pressed close by primitive wants , and to whom a life of hard toil has never been illuminated by any enthusiastic religious faith
+T92	NOM_PER 5245 5355	an old labouring man , who was in his last illness , and who had refused all the food his wife had offered him
+T33	NOM_GPE 5561 5634	a village where many of the old echoes lingered , undrowned by new voices
+T34	NOM_GPE 5660 5780	those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds
+T93	NOM_GPE 5653 5780	one of those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds
+T94	NOM_LOC 5811 5878	the rich central plain of what we are pleased to call Merry England
+T95	NOM_FAC 5890 5974	farms which , speaking from a spiritual point of view , paid highly-desirable tithes
+T96	NOM_FAC 6070 6082	any turnpike
+T97	NOM_LOC 5999 6170	a snug well-wooded hollow , quite an hour 's journey on horseback from any turnpike , where it was never reached by the vibrations of the coach-horn , or of public opinion
+T98	NOM_FAC 6333 6353	well-walled orchards
+T99	NOM_FAC 6522 6536	the churchyard
+T100	NOM_FAC 6453 6536	the rectory , which peeped from among the trees on the other side of the churchyard
+T101	NOM_FAC 6216 6273	a fine old church and large churchyard in the heart of it
+T102	NOM_GPE 6180 6536	an important-looking village , with a fine old church and large churchyard in the heart of it , and two or three large brick-and-stone homesteads , with well-walled orchards and ornamental weathercocks , standing close upon the road , and lifting more imposing fronts than the rectory , which peeped from among the trees on the other side of the churchyard
+T103	NOM_FAC 6651 6661	great park
+T104	NOM_FAC 6666 6677	manor-house
+T105	NOM_LOC 6681 6693	the vicinity
+T106	NOM_PER 6716 6940	several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly Christmas , Whitsun , and Easter tide
+T107	NOM_GPE 6542 6940	a village which showed at once the summits of its social life , and told the practised eye that there was no great park and manor-house in the vicinity , but that there were several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly Christmas , Whitsun , and Easter tide
+T108	PROP_GPE 7001 7008	Raveloe
+T109	NOM_PER 7145 7185	people of average culture and experience
+T40	NOM_PER 7196 7241	the villagers near whom he had come to settle
+T110	PROP_LOC 7388 7399	North ' ard
+T111	NOM_LOC 7361 7401	an unknown region called " North ' ard "
+T112	NOM_PER 7030 7401	a pallid young man , with prominent short-sighted brown eyes , whose appearance would have had nothing strange for people of average culture and experience , but for the villagers near whom he had come to settle it had mysterious peculiarities which corresponded with the exceptional nature of his occupation , and his advent from an unknown region called " North ' ard "
+T113	NOM_FAC 7541 7552	the Rainbow
+T114	NOM_PER 7571 7586	the wheelwright
+T115	NOM_PER 7733 7751	the Raveloe lasses
+T116	PROP_GPE 7737 7744	Raveloe
+T117	PROP_PER 7934 7940	Marner
+T118	PROP_PER 8032 8042	Jem Rodney
+T119	NOM_PER 8045 8061	the mole-catcher
+T120	PROP_PER 8321 8327	Marner
+T121	NOM_PER 8350 8360	a dead man
+T122	PROP_PER 8690 8693	Jem
+T123	PROP_PER 8782 8793	Squire Cass
+T124	NOM_LOC 8782 8801	Squire Cass 's land
+T125	NOM_FAC 8812 8827	the old saw-pit
+T51	PROP_PER 8942 8969	the argumentative Mr. Macey
+T126	NOM_PER 9188 9193	a man
+T127	NOM_FAC 9220 9230	the parish
+T56	NOM_PER 9459 9464	a man
+T128	NOM_PER 9580 9585	folks
+T129	NOM_FAC 9619 9625	school
+T130	PROP_PER 9872 9882	Jem Rodney
+T131	PROP_PER 9984 9995	Sally Oates
+T132	NOM_PER 10141 10151	the doctor
+T133	NOM_PER 10181 10186	folks
+T134	NOM_PER 9942 10159	anybody who had seen how Marner had cured Sally Oates , and made her sleep like a baby , when her heart had been beating enough to burst her body , for two months and more , while she had been under the doctor 's care
+T136	NOM_PER 9024 9031	anybody
+T137	NOM_PER 1191 1197	No one
+T139	NOM_FAC 8981 8991	the parish
+T140	NOM_FAC 5660 5720	those barren parishes lying on the outskirts of civilization
+T142	PRON_PER 144 149	their
+T143	PRON_PER 693 700	himself
+T144	PRON_PER 710 712	he
+T145	PRON_PER 1227 1232	their
+T146	PRON_PER 1242 1247	their
+T147	PRON_PER 1298 1301	you
+T148	PRON_PER 1334 1337	his
+T149	PRON_PER 1407 1412	their
+T150	PRON_PER 1478 1483	their
+T151	PRON_PER 1641 1643	he
+T152	PRON_PER 1814 1817	his
+T153	PRON_PER 1878 1880	he
+T154	PRON_PER 2374 2378	they
+T155	PRON_PER 2565 2570	their
+T156	PRON_PER 2765 2768	his
+T157	PRON_PER 3142 3147	their
+T158	PRON_PER 3527 3530	his
+T159	PRON_PER 3601 3604	his
+T160	PRON_PER 3612 3614	he
+T161	PRON_PER 3621 3626	their
+T162	PRON_PER 3649 3651	he
+T163	PRON_PER 3671 3674	his
+T164	PRON_PER 3720 3724	them
+T165	PRON_PER 3763 3767	them
+T166	PRON_PER 3776 3781	their
+T167	PRON_PER 3960 3964	them
+T168	PRON_PER 3987 3992	their
+T169	PRON_PER 4099 4103	They
+T170	PRON_PER 4126 4131	their
+T171	PRON_PER 4208 4210	he
+T172	PRON_PER 4262 4265	you
+T173	PRON_PER 4307 4309	he
+T174	PRON_PER 4321 4324	you
+T175	PRON_PER 4917 4921	them
+T176	PRON_PER 5011 5016	their
+T177	PRON_PER 5185 5188	you
+T178	PRON_PER 5204 5207	you
+T179	PRON_PER 5230 5231	I
+T180	PRON_PER 5279 5282	his
+T181	PRON_PER 5331 5334	his
+T182	PRON_PER 5352 5355	him
+T183	PRON_PER 5367 5369	he
+T184	PRON_PER 5383 5384	I
+T185	PRON_PER 5441 5442	I
+T186	PRON_PER 5497 5500	him
+T187	PRON_PER 5842 5844	we
+T188	PRON_PER 6772 6777	their
+T189	PRON_PER 6811 6816	their
+T190	PRON_PER 7011 7013	he
+T191	PRON_PER 7220 7222	he
+T192	PRON_PER 7324 7327	his
+T193	PRON_PER 7345 7348	his
+T194	PRON_PER 7411 7414	his
+T195	PRON_PER 7432 7434	he
+T196	PRON_PER 7467 7470	his
+T197	PRON_PER 7487 7489	he
+T198	PRON_PER 7592 7594	he
+T199	PRON_PER 7645 7648	his
+T200	PRON_PER 7681 7688	himself
+T201	PRON_PER 7757 7759	he
+T202	PRON_PER 7784 7788	them
+T203	PRON_PER 7799 7802	him
+T204	PRON_PER 7811 7814	her
+T205	PRON_PER 7835 7837	he
+T206	PRON_PER 7848 7852	them
+T207	PRON_PER 7866 7870	they
+T208	PRON_PER 7992 7995	his
+T209	PRON_PER 8092 8094	he
+T210	PRON_PER 8120 8122	he
+T211	PRON_PER 8184 8187	his
+T212	PRON_PER 8247 8250	his
+T213	PRON_PER 8303 8306	him
+T214	PRON_PER 8309 8311	he
+T215	PRON_PER 8370 8372	he
+T216	PRON_PER 8382 8385	him
+T217	PRON_PER 8398 8401	him
+T218	PRON_PER 8408 8411	his
+T219	PRON_PER 8435 8438	his
+T221	PRON_PER 8508 8510	he
+T222	PRON_PER 8523 8526	his
+T223	PRON_PER 8559 8561	he
+T224	PRON_PER 8595 8598	you
+T225	PRON_PER 8700 8702	he
+T226	PRON_PER 8753 8755	he
+T227	PRON_PER 9000 9003	his
+T228	PRON_PER 9213 9216	him
+T229	PRON_PER 9236 9238	he
+T230	PRON_PER 9328 9331	his
+T231	PRON_PER 9402 9405	you
+T232	PRON_PER 9490 9493	his
+T233	PRON_PER 9606 9610	they
+T234	PRON_PER 9676 9680	them
+T235	PRON_PER 9691 9696	their
+T236	PRON_PER 9725 9730	their
+T237	PRON_PER 9792 9795	his
+T238	PRON_PER 9843 9845	he
+T240	PRON_PER 10007 10010	her
+T241	PRON_PER 10036 10039	her
+T242	PRON_PER 10079 10082	her
+T243	PRON_PER 10122 10125	she
+T244	PRON_PER 10162 10164	He
+T245	PRON_PER 10190 10192	he
+T246	PRON_PER 10205 10207	he
+T247	PRON_PER 10257 10260	him
+T248	PRON_PER 10272 10275	you
+T249	PRON_GPE 5646 5648	it
+T250	PRON_GPE 5801 5803	it
+T252	PRON_GPE 6091 6093	it
+T253	PRON_GPE 6271 6273	it
+T254	PRON_GPE 6173 6175	It
+T316	the_farmhouses-0 64 78	the farmhouses
+T317	great_ladies___clothed_in_silk_and_thread-lace-1 91 137	great ladies , clothed in silk and thread-lace
+T397	great_ladies___clothed_in_silk_and_thread-lace-1 144 149	their
+T320	districts_far_away_among_the_lanes-2 212 246	districts far away among the lanes
+T319	the_lanes-3 237 246	the lanes
+T318	the_hills-4 273 282	the hills
+T323	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5 285 411	certain pallid undersized men , who , by the side of the brawny country-folk , looked like the remnants of a disinherited race
+T321	the_brawny_country-folk-6 338 361	the brawny country-folk
+T322	a_disinherited_race-7 392 411	a disinherited race
+T324	The_shepherd-8 414 426	The shepherd
+T325	one_of_these_alien-looking_men-9 455 485	one of these alien-looking men
+T256	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5 462 485	these alien-looking men
+T326	the_upland-10 498 508	the upland
+T327	a_figure_bent_under_a_heavy_bag-11 569 600	a figure bent under a heavy bag
+T257	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5 610 624	these pale men
+T328	The_shepherd-8 680 692	The shepherd
+T398	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5 693 700	himself
+T399	The_shepherd-8 710 712	he
+T329	the_Evil_One-12 976 988	the Evil One
+T330	every_person-13 1044 1056	every person
+T258	the_pedlar-14 1157 1167	the pedlar
+T331	the_knife-grinder-15 1171 1188	the knife-grinder
+T392	No_one-16 1191 1197	No one
+T260	wandering_men-17 1209 1222	wandering men
+T332	their_homes-18 1227 1238	their homes
+T400	wandering_men-17 1227 1232	their
+T401	wandering_men-17 1242 1247	their
+T261	a_man-19 1269 1274	a man
+T402	you-20 1298 1301	you
+T333	somebody_who_knew_his_father_and_mother-21 1316 1355	somebody who knew his father and mother
+T259	his_father-22 1334 1344	his father
+T403	a_man-19 1334 1337	his
+T262	mother-23 1349 1355	mother
+T264	the_peasants_of_old_times-24 1361 1386	the peasants of old times
+T265	the_world_outside_their_own_direct_experience-25 1389 1434	the world outside their own direct experience
+T404	the_peasants_of_old_times-24 1407 1412	their
+T334	a_region_of_vagueness_and_mystery-26 1439 1472	a region of vagueness and mystery
+T405	the_peasants_of_old_times-24 1478 1483	their
+T263	even_a_settler-27 1621 1635	even a settler
+T406	even_a_settler-27 1641 1643	he
+T335	distant_parts-28 1654 1667	distant parts
+T407	even_a_settler-27 1814 1817	his
+T408	even_a_settler-27 1878 1880	he
+T266	villagers-29 2071 2080	villagers
+T336	honest_folk___born_and_bred_in_a_visible_manner-30 2110 2157	honest folk , born and bred in a visible manner
+T409	honest_folk___born_and_bred_in_a_visible_manner-30 2374 2378	they
+T337	those_scattered_linen-weavers-31 2449 2478	those scattered linen-weavers
+T267	the_town-32 2497 2505	the town
+T338	the_country-33 2511 2522	the country
+T339	the_last-34 2534 2542	the last
+T268	aliens-35 2555 2561	aliens
+T269	their_rustic_neighbours-36 2565 2588	their rustic neighbours
+T410	those_scattered_linen-weavers-31 2565 2570	their
+T340	Silas_Marner-37 2712 2731	such a linen-weaver
+T411	Silas_Marner-37 2765 2768	his
+T343	a_stone_cottage_that_stood_among_the_nutty_hedgerows_near_the_village_of_Raveloe___and_not_far_from_the_edge_of_a_deserted_stone-pit-38 2781 2913	a stone cottage that stood among the nutty hedgerows near the village of Raveloe , and not far from the edge of a deserted stone-pit
+T341	the_nutty_hedgerows-39 2814 2833	the nutty hedgerows
+T272	the_village_of_Raveloe-40 2839 2861	the village of Raveloe
+T342	a_deserted_stone-pit-41 2893 2913	a deserted stone-pit
+T344	Silas_Marner-37 2942 2947	Silas
+T275	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3097 3447	the Raveloe boys , who would often leave off their nutting or birds ' - nesting to peep in at the window of the stone cottage , counterbalancing a certain awe at the mysterious action of the loom , by a pleasant sense of scornful superiority , drawn from the mockery of its alternating noises , along with the bent , tread-mill attitude of the weaver
+T412	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3142 3147	their
+T274	a_stone_cottage_that_stood_among_the_nutty_hedgerows_near_the_village_of_Raveloe___and_not_far_from_the_edge_of_a_deserted_stone-pit-38 3205 3222	the stone cottage
+T273	Silas_Marner-37 3437 3447	the weaver
+T276	Silas_Marner-37 3481 3487	Marner
+T413	Silas_Marner-37 3527 3530	his
+T277	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3556 3576	the small scoundrels
+T414	Silas_Marner-37 3601 3604	his
+T415	Silas_Marner-37 3612 3614	he
+T416	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3621 3626	their
+T417	Silas_Marner-37 3649 3651	he
+T418	Silas_Marner-37 3671 3674	his
+T419	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3720 3724	them
+T420	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3763 3767	them
+T421	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3776 3781	their
+T345	Silas_Marner-37 3877 3889	Silas Marner
+T422	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3960 3964	them
+T423	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 3987 3992	their
+T278	any_boy_who_happened_to_be_in_the_rear-43 4058 4096	any boy who happened to be in the rear
+T424	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 4099 4103	They
+T283	their_fathers-44 4126 4139	their fathers
+T425	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42 4126 4131	their
+T279	mothers-45 4144 4151	mothers
+T282	Silas_Marner-37 4162 4174	Silas Marner
+T346	folks-46 4186 4191	folks
+T426	Silas_Marner-37 4208 4210	he
+T427	you-47 4262 4265	you
+T280	Silas_Marner-37 4283 4292	the devil
+T428	Silas_Marner-37 4307 4309	he
+T429	you-48 4321 4324	you
+T281	the_doctor-49 4337 4347	the doctor
+T284	the_diligent_listener-50 4441 4462	the diligent listener
+T285	the_grey-haired_peasantry-51 4469 4494	the grey-haired peasantry
+T286	men_who_have_always_been_pressed_close_by_primitive_wants___and_to_whom_a_life_of_hard_toil_has_never_been_illuminated_by_any_enthusiastic_religious_faith-52 4757 4911	men who have always been pressed close by primitive wants , and to whom a life of hard toil has never been illuminated by any enthusiastic religious faith
+T430	men_who_have_always_been_pressed_close_by_primitive_wants___and_to_whom_a_life_of_hard_toil_has_never_been_illuminated_by_any_enthusiastic_religious_faith-52 4917 4921	them
+T431	men_who_have_always_been_pressed_close_by_primitive_wants___and_to_whom_a_life_of_hard_toil_has_never_been_illuminated_by_any_enthusiastic_religious_faith-52 5011 5016	their
+T434	NARRATOR-53 5230 5231	I
+T432	the_old_man-54 5185 5188	you
+T433	the_old_man-54 5204 5207	you
+T347	the_old_man-54 5245 5355	an old labouring man , who was in his last illness , and who had refused all the food his wife had offered him
+T435	the_old_man-54 5279 5282	his
+T287	his_wife-55 5331 5339	his wife
+T436	the_old_man-54 5331 5334	his
+T437	the_old_man-54 5352 5355	him
+T438	the_old_man-54 5367 5369	he
+T439	the_old_man-54 5383 5384	I
+T440	the_old_man-54 5441 5442	I
+T441	the_old_man-54 5497 5500	him
+T290	the_village_of_Raveloe-40 5549 5556	Raveloe
+T504	the_village_of_Raveloe-40 5646 5648	it
+T289	those_barren_parishes_lying_on_the_outskirts_of_civilization_--_inhabited_by_meagre_sheep_and_thinly-scattered_shepherds-56 5660 5780	those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds
+T395	those_barren_parishes_lying_on_the_outskirts_of_civilization-57 5660 5720	those barren parishes lying on the outskirts of civilization
+T291	thinly-scattered_shepherds-58 5754 5780	thinly-scattered shepherds
+T505	the_village_of_Raveloe-40 5801 5803	it
+T349	the_rich_central_plain_of_what_we_are_pleased_to_call_Merry_England-59 5811 5878	the rich central plain of what we are pleased to call Merry England
+T442	we-60 5842 5844	we
+T292	Merry_England-61 5865 5878	Merry England
+T350	farms_which___speaking_from_a_spiritual_point_of_view___paid_highly-desirable_tithes-62 5890 5974	farms which , speaking from a spiritual point of view , paid highly-desirable tithes
+T352	a_snug_well-wooded_hollow___quite_an_hour__s_journey_on_horseback_from_any_turnpike___where_it_was_never_reached_by_the_vibrations_of_the_coach-horn___or_of_public_opinion-63 5999 6170	a snug well-wooded hollow , quite an hour 's journey on horseback from any turnpike , where it was never reached by the vibrations of the coach-horn , or of public opinion
+T351	any_turnpike-64 6070 6082	any turnpike
+T506	the_village_of_Raveloe-40 6091 6093	it
+T509	the_village_of_Raveloe-40 6173 6175	It
+T356	a_fine_old_church_and_large_churchyard_in_the_heart_of_it-65 6216 6273	a fine old church and large churchyard in the heart of it
+T508	the_village_of_Raveloe-40 6271 6273	it
+T353	well-walled_orchards-66 6333 6353	well-walled orchards
+T294	the_road-67 6404 6412	the road
+T355	the_rectory___which_peeped_from_among_the_trees_on_the_other_side_of_the_churchyard-68 6453 6536	the rectory , which peeped from among the trees on the other side of the churchyard
+T354	a_fine_old_church_and_large_churchyard_in_the_heart_of_it-65 6522 6536	the churchyard
+T362	the_village_of_Raveloe-40 6542 6940	a village which showed at once the summits of its social life , and told the practised eye that there was no great park and manor-house in the vicinity , but that there were several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly Christmas , Whitsun , and Easter tide
+T358	great_park-69 6651 6661	great park
+T359	manor-house-70 6666 6677	manor-house
+T360	the_vicinity-71 6681 6693	the vicinity
+T361	several_chiefs_in_Raveloe_who_could_farm_badly_quite_at_their_ease___drawing_enough_money_from_their_bad_farming___in_those_war_times___to_live_in_a_rollicking_fashion___and_keep_a_jolly_Christmas___Whitsun___and_Easter_tide-72 6716 6940	several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly Christmas , Whitsun , and Easter tide
+T293	the_village_of_Raveloe-40 6734 6741	Raveloe
+T443	several_chiefs_in_Raveloe_who_could_farm_badly_quite_at_their_ease___drawing_enough_money_from_their_bad_farming___in_those_war_times___to_live_in_a_rollicking_fashion___and_keep_a_jolly_Christmas___Whitsun___and_Easter_tide-72 6772 6777	their
+T444	several_chiefs_in_Raveloe_who_could_farm_badly_quite_at_their_ease___drawing_enough_money_from_their_bad_farming___in_those_war_times___to_live_in_a_rollicking_fashion___and_keep_a_jolly_Christmas___Whitsun___and_Easter_tide-72 6811 6816	their
+T296	Silas_Marner-37 6970 6982	Silas Marner
+T363	the_village_of_Raveloe-40 7001 7008	Raveloe
+T445	Silas_Marner-37 7011 7013	he
+T364	people_of_average_culture_and_experience-73 7145 7185	people of average culture and experience
+T295	the_villagers_near_whom_he_had_come_to_settle-74 7196 7241	the villagers near whom he had come to settle
+T446	Silas_Marner-37 7220 7222	he
+T447	Silas_Marner-37 7324 7327	his
+T448	Silas_Marner-37 7345 7348	his
+T366	an_unknown_region_called___North___ard__-75 7361 7401	an unknown region called " North ' ard "
+T365	an_unknown_region_called___North___ard__-75 7388 7399	North ' ard
+T449	Silas_Marner-37 7411 7414	his
+T450	Silas_Marner-37 7432 7434	he
+T297	no_comer-76 7443 7451	no comer
+T451	Silas_Marner-37 7467 7470	his
+T452	Silas_Marner-37 7487 7489	he
+T301	the_village_of_Raveloe-40 7510 7521	the village
+T368	the_Rainbow-77 7541 7552	the Rainbow
+T369	the_wheelwright-78 7571 7586	the wheelwright
+T453	Silas_Marner-37 7592 7594	he
+T300	no_man-79 7602 7608	no man
+T298	woman-80 7612 7617	woman
+T454	Silas_Marner-37 7645 7648	his
+T455	Silas_Marner-37 7681 7688	himself
+T370	the_Raveloe_lasses-81 7733 7751	the Raveloe lasses
+T371	the_village_of_Raveloe-40 7737 7744	Raveloe
+T456	Silas_Marner-37 7757 7759	he
+T457	the_Raveloe_lasses-81 7784 7788	them
+T458	Silas_Marner-37 7799 7802	him
+T459	her-82 7811 7814	her
+T460	Silas_Marner-37 7835 7837	he
+T461	the_Raveloe_lasses-81 7848 7852	them
+T462	the_Raveloe_lasses-81 7866 7870	they
+T299	a_dead_man-83 7889 7899	a dead man
+T372	Silas_Marner-37 7934 7940	Marner
+T463	Silas_Marner-37 7992 7995	his
+T373	Jem_Rodney-84 8032 8042	Jem Rodney
+T464	Jem_Rodney-84 8092 8094	he
+T465	Jem_Rodney-84 8120 8122	he
+T302	Silas_Marner-37 8127 8139	Silas Marner
+T466	Silas_Marner-37 8184 8187	his
+T303	a_man_in_his_senses-85 8238 8257	a man in his senses
+T467	a_man_in_his_senses-85 8247 8250	his
+T468	Silas_Marner-37 8303 8306	him
+T469	Jem_Rodney-84 8309 8311	he
+T375	Silas_Marner-37 8321 8327	Marner
+T376	a_dead_man-86 8350 8360	a dead man
+T470	Jem_Rodney-84 8370 8372	he
+T471	Silas_Marner-37 8382 8385	him
+T472	Silas_Marner-37 8398 8401	him
+T473	Silas_Marner-37 8408 8411	his
+T474	Silas_Marner-37 8435 8438	his
+T476	Jem_Rodney-84 8508 8510	he
+T477	Jem_Rodney-84 8523 8526	his
+T304	Silas_Marner-37 8537 8547	the weaver
+T478	Silas_Marner-37 8559 8561	he
+T479	you-87 8595 8598	you
+T377	Jem_Rodney-84 8690 8693	Jem
+T480	Jem_Rodney-84 8700 8702	he
+T481	Jem_Rodney-84 8753 8755	he
+T378	Squire_Cass-88 8782 8793	Squire Cass
+T379	Squire_Cass__s_land-89 8782 8801	Squire Cass 's land
+T380	the_old_saw-pit-90 8812 8827	the old saw-pit
+T305	Silas_Marner-37 8840 8846	Marner
+T306	the_argumentative_Mr__Macey-91 8942 8969	the argumentative Mr. Macey
+T394	the_parish-92 8981 8991	the parish
+T482	the_argumentative_Mr__Macey-91 9000 9003	his
+T391	anybody-93 9024 9031	anybody
+T381	a_man-94 9188 9193	a man
+T483	a_man-94 9213 9216	him
+T382	the_parish-92 9220 9230	the parish
+T484	a_man-94 9236 9238	he
+T308	no_children-95 9246 9257	no children
+T309	a_man-96 9313 9318	a man
+T485	a_man-96 9328 9331	his
+T486	you-97 9402 9405	you
+T311	a_man-98 9459 9464	a man
+T487	a_man-98 9490 9493	his
+T383	folks-99 9580 9585	folks
+T488	folks-99 9606 9610	they
+T384	school-100 9619 9625	school
+T489	folks-99 9676 9680	them
+T312	their_neighbours-101 9691 9707	their neighbours
+T490	folks-99 9691 9696	their
+T491	folks-99 9725 9730	their
+T310	the_parson-102 9747 9757	the parson
+T313	Silas_Marner-37 9774 9787	Master Marner
+T492	Silas_Marner-37 9792 9795	his
+T493	Silas_Marner-37 9843 9845	he
+T385	Jem_Rodney-84 9872 9882	Jem Rodney
+T389	anybody_who_had_seen_how_Marner_had_cured_Sally_Oates___and_made_her_sleep_like_a_baby___when_her_heart_had_been_beating_enough_to_burst_her_body___for_two_months_and_more___while_she_had_been_under_the_doctor__s_care-103 9942 10159	anybody who had seen how Marner had cured Sally Oates , and made her sleep like a baby , when her heart had been beating enough to burst her body , for two months and more , while she had been under the doctor 's care
+T315	Silas_Marner-37 9967 9973	Marner
+T386	Sally_Oates-104 9984 9995	Sally Oates
+T495	Sally_Oates-104 10007 10010	her
+T314	a_baby-105 10022 10028	a baby
+T496	Sally_Oates-104 10036 10039	her
+T497	Sally_Oates-104 10079 10082	her
+T498	Sally_Oates-104 10122 10125	she
+T387	the_doctor-106 10141 10151	the doctor
+T499	Silas_Marner-37 10162 10164	He
+T500	Silas_Marner-37 10190 10192	he
+T501	Silas_Marner-37 10205 10207	he
+T502	Silas_Marner-37 10257 10260	him
+T503	you-107 10272 10275	you
+R1	appos Arg1:T15 Arg2:T82
+R2	cop Arg1:T16 Arg2:T85
+R4	cop Arg1:T33 Arg2:T35
+R6	cop Arg1:T102 Arg2:T254
+R7	cop Arg1:T112 Arg2:T190
+R8	appos Arg1:T119 Arg2:T118
+R9	appos Arg1:T52 Arg2:T51
+T520	PRON_GPE 5981 5983	it
+T521	the_village_of_Raveloe-40 5981 5983	it
+T522	PRON_GPE 6588 6591	its
+T523	the_village_of_Raveloe-40 6588 6591	its
+T135	folks-700 10181 10186	folks
+T138	one_of_those_barren_-701 5653 5780	one of those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds
+T141	NOM_PER 8830 8834	Some
+T220	Some-700 8830 8834	Some

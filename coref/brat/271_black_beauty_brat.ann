@@ -1,0 +1,700 @@
+T1	NOM_LOC 436 476	a running brook overhung by a steep bank
+T2	NOM_PER 1293 1302	my mother
+T3	NOM_PER 1698 1714	your grandmother
+T4	NOM_PER 1584 1595	your father
+T5	NOM_PER 1634 1650	your grandfather
+T6	NOM_PER 2079 2089	our master
+T7	PROP_PER 2133 2140	Duchess
+T8	NOM_PER 2188 2205	a good , kind man
+T9	NOM_PER 2173 2183	Our master
+T10	NOM_PER 2301 2320	his little children
+T11	NOM_PER 2353 2362	my mother
+T13	NOM_PER 2530 2548	your little Darkie
+T14	NOM_PER 2590 2596	Darkie
+T15	NOM_PER 2700 2709	my mother
+T16	NOM_PER 2783 2792	My mother
+T17	NOM_GPE 2812 2820	the town
+T18	NOM_PER 3246 3256	the master
+T19	PROP_PER 3379 3383	Dick
+T20	NOM_PER 3551 3558	Bad boy
+T22	NOM_FAC 3711 3715	home
+T23	NOM_FAC 3742 3749	my farm
+T24	PROP_PER 3776 3780	Dick
+T25	NOM_PER 3865 3875	our master
+T26	NOM_PER 3805 3840	the man who looked after the horses
+T28	NOM_LOC 4101 4110	the woods
+T29	NOM_PER 4524 4533	My mother
+T30	NOM_PER 4669 4678	my mother
+T35	NOM_LOC 5590 5599	the woods
+T36	NOM_PER 5650 5653	men
+T38	NOM_LOC 5988 5997	the woods
+T39	NOM_PER 6127 6143	Six or eight men
+T40	NOM_FAC 6299 6307	the road
+T41	NOM_PER 6438 6450	the huntsmen
+T42	NOM_PER 6577 6594	all the gentlemen
+T43	NOM_PER 6866 6876	the riders
+T44	NOM_PER 6982 6991	my mother
+T45	NOM_PER 7075 7084	my mother
+T46	NOM_PER 7262 7265	men
+T47	NOM_PER 7516 7525	my mother
+T48	NOM_PER 7598 7611	the young man
+T49	NOM_PER 7575 7585	the riders
+T50	NOM_FAC 7899 7918	our master ’s house
+T51	NOM_PER 7973 7995	the squire ’s only son
+T53	NOM_PER 8193 8200	his son
+T54	NOM_PER 8219 8230	the farrier
+T56	NOM_FAC 8392 8411	our master ’s house
+T57	NOM_PER 8552 8561	My mother
+T59	NOM_LOC 24 64	The first place that I can well remember
+T60	NOM_LOC 98 125	a pond of clear water in it
+T61	NOM_LOC 69 125	a large pleasant meadow with a pond of clear water in it
+T62	NOM_FAC 255 269	a plowed field
+T63	NOM_FAC 314 363	our master ’s house , which stood by the roadside
+T64	NOM_LOC 380 390	the meadow
+T65	NOM_LOC 395 415	a grove of fir trees
+T66	NOM_PER 510 519	my mother
+T67	NOM_LOC 667 675	the pond
+T68	NOM_LOC 754 763	the grove
+T69	NOM_FAC 732 763	a nice warm shed near the grove
+T70	NOM_PER 807 816	my mother
+T71	NOM_LOC 918 928	the meadow
+T72	NOM_FAC 1111 1120	the field
+T73	NOM_PER 1420 1443	The colts who live here
+T74	NOM_PER 1448 1463	very good colts
+T75	NOM_PER 1479 1495	cart-horse colts
+T76	NOM_PER 899 914	six young colts
+T77	PROP_GPE 1680 1689	Newmarket
+T78	NOM_PER 1742 1763	any horse I ever knew
+T79	NOM_PER 2019 2028	my mother
+T80	NOM_PER 2056 2072	a wise old horse
+T81	NOM_PER 2167 2170	Pet
+T12	NOM_PER 2509 2516	old Pet
+T82	NOM_PER 2712 2726	All the horses
+T83	NOM_PER 2767 2780	his favorites
+T84	NOM_PER 2864 2873	a plowboy
+T85	PROP_PER 2876 2880	Dick
+T86	NOM_PER 3026 3035	the colts
+T87	NOM_LOC 3264 3278	the next field
+T88	NOM_PER 3495 3505	the master
+T21	NOM_PER 3575 3582	bad boy
+T89	NOM_PER 3594 3603	the colts
+T90	PROP_PER 3792 3802	Old Daniel
+T91	NOM_PER 3830 3840	the horses
+T27	NOM_LOC 4115 4122	meadows
+T92	NOM_PER 4131 4146	the other colts
+T93	NOM_FAC 4181 4190	the field
+T94	NOM_PER 4281 4290	the colts
+T95	NOM_PER 4267 4290	The oldest of the colts
+T96	NOM_LOC 4500 4521	several fields beyond
+T97	NOM_PER 4561 4571	our master
+T98	NOM_PER 4538 4574	an old riding horse of our master ’s
+T31	NOM_PER 4999 5027	a number of men on horseback
+T32	NOM_PER 5030 5042	some of them
+T33	NOM_PER 5098 5111	The old horse
+T34	NOM_PER 5156 5170	we young colts
+T99	NOM_LOC 5235 5256	the fields lower down
+T100	NOM_PER 5428 5441	the old horse
+T37	NOM_LOC 5804 5814	our meadow
+T101	NOM_LOC 5866 5875	the brook
+T102	NOM_PER 5915 5924	my mother
+T103	NOM_LOC 6053 6063	the stream
+T104	NOM_FAC 6090 6099	the field
+T105	NOM_PER 6112 6124	the huntsmen
+T106	NOM_PER 6431 6450	One of the huntsmen
+T107	NOM_LOC 6698 6707	the brook
+T108	NOM_PER 6754 6769	two fine horses
+T109	NOM_LOC 6804 6814	the stream
+T110	NOM_LOC 6847 6856	the grass
+T111	NOM_PER 6859 6876	One of the riders
+T112	NOM_LOC 6896 6905	the water
+T113	NOM_PER 7038 7047	the colts
+T114	NOM_PER 7031 7047	one of the colts
+T115	NOM_PER 7177 7189	an old horse
+T116	NOM_PER 7335 7346	good horses
+T117	NOM_LOC 7361 7371	the fields
+T118	NOM_PER 7481 7487	horses
+T119	NOM_PER 7618 7669	my master , who had been watching what was going on
+T120	NOM_PER 7899 7909	our master
+T121	PROP_PER 7951 7970	young George Gordon
+T122	NOM_PER 7973 7983	the squire
+T52	NOM_PER 7998 8021	a fine , tall young man
+T123	NOM_PER 8028 8051	the pride of his family
+T124	NOM_PER 8041 8051	his family
+T125	NOM_PER 8100 8110	the doctor
+T126	NOM_PER 8119 8130	the farrier
+T127	PROP_PER 8152 8165	Squire Gordon
+T128	NOM_FAC 8152 8168	Squire Gordon ’s
+T129	NOM_FAC 8119 8133	the farrier ’s
+T130	NOM_FAC 8100 8113	the doctor ’s
+T55	PROP_PER 8208 8216	Mr. Bond
+T131	NOM_PER 8249 8295	the black horse that lay groaning on the grass
+T132	NOM_PER 8392 8402	our master
+T133	NOM_PER 8520 8535	the black horse
+T134	NOM_PER 8608 8618	that horse
+T58	PROP_PER 8653 8664	“ Rob Roy ”
+T135	NOM_PER 8674 8686	a good horse
+T136	NOM_FAC 8755 8764	the field
+T138	NOM_PER 7749 7758	every one
+T139	NOM_LOC 3292 3297	there
+T140	NOM_LOC 5259 5263	here
+T142	PRON_PER 10 12	My
+T143	PRON_PER 45 46	I
+T144	PRON_PER 240 242	we
+T145	PRON_PER 289 291	we
+T146	PRON_PER 314 317	our
+T147	PRON_PER 485 486	I
+T148	PRON_PER 497 498	I
+T149	PRON_PER 510 512	my
+T150	PRON_PER 533 534	I
+T151	PRON_PER 572 573	I
+T152	PRON_PER 581 584	her
+T153	PRON_PER 605 606	I
+T154	PRON_PER 625 628	her
+T155	PRON_PER 647 649	we
+T156	PRON_PER 725 727	we
+T157	PRON_PER 777 778	I
+T158	PRON_PER 807 809	my
+T159	PRON_PER 937 939	me
+T160	PRON_PER 942 946	they
+T161	PRON_PER 963 964	I
+T162	PRON_PER 1018 1019	I
+T163	PRON_PER 1037 1041	them
+T164	PRON_PER 1064 1066	we
+T165	PRON_PER 1132 1134	we
+T166	PRON_PER 1156 1158	we
+T167	PRON_PER 1187 1191	they
+T168	PRON_PER 1293 1295	my
+T169	PRON_PER 1315 1317	me
+T170	PRON_PER 1329 1332	her
+T171	PRON_PER 1344 1347	she
+T172	PRON_PER 1357 1358	I
+T173	PRON_PER 1364 1367	you
+T174	PRON_PER 1393 1394	I
+T175	PRON_PER 1414 1417	you
+T176	PRON_PER 1470 1474	they
+T177	PRON_PER 1512 1516	they
+T178	PRON_PER 1544 1547	You
+T179	PRON_PER 1584 1588	your
+T180	PRON_PER 1634 1638	your
+T181	PRON_PER 1698 1702	your
+T182	PRON_PER 1752 1753	I
+T183	PRON_PER 1770 1771	I
+T184	PRON_PER 1778 1781	you
+T185	PRON_PER 1798 1800	me
+T186	PRON_PER 1816 1817	I
+T187	PRON_PER 1823 1826	you
+T188	PRON_PER 1888 1892	your
+T189	PRON_PER 1922 1926	your
+T190	PRON_PER 1945 1948	you
+T191	PRON_PER 1996 1997	I
+T192	PRON_PER 2019 2021	my
+T193	PRON_PER 2041 2042	I
+T194	PRON_PER 2048 2051	she
+T195	PRON_PER 2079 2082	our
+T196	PRON_PER 2114 2117	her
+T197	PRON_PER 2120 2123	Her
+T198	PRON_PER 2147 2149	he
+T199	PRON_PER 2163 2166	her
+T200	PRON_PER 2173 2176	Our
+T201	PRON_PER 2208 2210	He
+T202	PRON_PER 2216 2218	us
+T203	PRON_PER 2263 2265	he
+T204	PRON_PER 2285 2287	us
+T205	PRON_PER 2291 2293	he
+T206	PRON_PER 2301 2304	his
+T207	PRON_PER 2323 2325	We
+T208	PRON_PER 2343 2346	him
+T209	PRON_PER 2353 2355	my
+T210	PRON_PER 2369 2372	him
+T211	PRON_PER 2390 2393	she
+T212	PRON_PER 2398 2401	him
+T213	PRON_PER 2414 2417	she
+T214	PRON_PER 2456 2459	him
+T215	PRON_PER 2462 2464	He
+T216	PRON_PER 2486 2489	her
+T217	PRON_PER 2530 2534	your
+T218	PRON_PER 2553 2554	I
+T219	PRON_PER 2577 2579	he
+T220	PRON_PER 2587 2589	me
+T221	PRON_PER 2604 2606	he
+T222	PRON_PER 2618 2620	me
+T223	PRON_PER 2676 2678	he
+T224	PRON_PER 2700 2702	my
+T225	PRON_PER 2741 2744	him
+T226	PRON_PER 2751 2752	I
+T227	PRON_PER 2759 2761	we
+T228	PRON_PER 2767 2770	his
+T229	PRON_PER 2783 2785	My
+T230	PRON_PER 2805 2808	him
+T231	PRON_PER 2907 2910	our
+T232	PRON_PER 2961 2963	he
+T233	PRON_PER 2978 2980	he
+T234	PRON_PER 2988 2990	he
+T235	PRON_PER 3007 3009	he
+T236	PRON_PER 3068 3072	them
+T237	PRON_PER 3081 3085	them
+T238	PRON_PER 3095 3097	We
+T239	PRON_PER 3116 3119	him
+T240	PRON_PER 3126 3128	we
+T241	PRON_PER 3189 3191	us
+T242	PRON_PER 3202 3204	he
+T243	PRON_PER 3285 3287	he
+T244	PRON_PER 3344 3346	he
+T245	PRON_PER 3397 3399	he
+T246	PRON_PER 3405 3408	him
+T247	PRON_PER 3439 3442	him
+T248	PRON_PER 3488 3490	we
+T249	PRON_PER 3506 3508	we
+T250	PRON_PER 3563 3565	he
+T251	PRON_PER 3693 3697	your
+T252	PRON_PER 3718 3719	I
+T253	PRON_PER 3735 3738	you
+T254	PRON_PER 3742 3744	my
+T255	PRON_PER 3763 3765	we
+T256	PRON_PER 3865 3868	our
+T257	PRON_PER 3881 3883	we
+T258	PRON_PER 3919 3920	I
+T259	PRON_PER 3969 3970	I
+T260	PRON_PER 4125 4126	I
+T261	PRON_PER 4196 4198	we
+T262	PRON_PER 4298 4301	his
+T263	PRON_PER 4317 4320	his
+T264	PRON_PER 4421 4423	us
+T265	PRON_PER 4463 4465	we
+T266	PRON_PER 4524 4526	My
+T267	PRON_PER 4561 4564	our
+T268	PRON_PER 4637 4641	They
+T269	PRON_PER 4669 4671	my
+T270	PRON_PER 4690 4694	they
+T271	PRON_PER 4709 4711	we
+T272	PRON_PER 4815 4816	I
+T273	PRON_PER 4845 4849	they
+T274	PRON_PER 4857 4861	They
+T275	PRON_PER 4968 4973	their
+T276	PRON_PER 4989 4993	them
+T277	PRON_PER 5038 5042	them
+T278	PRON_PER 5085 5089	they
+T279	PRON_PER 5145 5149	them
+T280	PRON_PER 5156 5158	we
+T281	PRON_PER 5199 5203	them
+T282	PRON_PER 5210 5214	they
+T283	PRON_PER 5280 5284	they
+T284	PRON_PER 5364 5369	their
+T285	PRON_PER 5394 5398	They
+T286	PRON_PER 5496 5497	I
+T287	PRON_PER 5512 5513	I
+T288	PRON_PER 5569 5572	our
+T289	PRON_PER 5611 5615	they
+T290	PRON_PER 5702 5707	their
+T291	PRON_PER 5747 5751	they
+T292	PRON_PER 5804 5807	our
+T293	PRON_PER 5884 5886	we
+T294	PRON_PER 5915 5917	my
+T295	PRON_PER 6019 6023	they
+T296	PRON_PER 6151 6156	their
+T297	PRON_PER 6264 6267	she
+T298	PRON_PER 6351 6354	her
+T299	PRON_PER 6360 6365	their
+T300	PRON_PER 6379 6381	we
+T301	PRON_PER 6425 6428	her
+T302	PRON_PER 6511 6514	her
+T303	PRON_PER 6527 6529	He
+T304	PRON_PER 6535 6538	her
+T305	PRON_PER 6624 6626	me
+T306	PRON_PER 6629 6630	I
+T307	PRON_PER 6654 6655	I
+T308	PRON_PER 6719 6720	I
+T309	PRON_PER 6955 6958	His
+T310	PRON_PER 6982 6984	my
+T311	PRON_PER 7006 7009	him
+T312	PRON_PER 7050 7051	I
+T313	PRON_PER 7075 7077	my
+T314	PRON_PER 7103 7105	us
+T315	PRON_PER 7124 7127	she
+T316	PRON_PER 7137 7140	you
+T317	PRON_PER 7172 7173	I
+T318	PRON_PER 7231 7232	I
+T319	PRON_PER 7294 7298	they
+T320	PRON_PER 7310 7320	themselves
+T321	PRON_PER 7421 7425	they
+T322	PRON_PER 7469 7471	we
+T323	PRON_PER 7516 7518	my
+T324	PRON_PER 7542 7544	we
+T325	PRON_PER 7618 7620	my
+T326	PRON_PER 7695 7698	him
+T327	PRON_PER 7701 7704	His
+T328	PRON_PER 7724 7727	his
+T329	PRON_PER 7879 7883	They
+T330	PRON_PER 7892 7895	him
+T331	PRON_PER 7899 7902	our
+T332	PRON_PER 7921 7922	I
+T333	PRON_PER 8041 8044	his
+T334	PRON_PER 8178 8181	him
+T335	PRON_PER 8193 8196	his
+T336	PRON_PER 8298 8300	he
+T337	PRON_PER 8306 8309	him
+T338	PRON_PER 8331 8334	his
+T339	PRON_PER 8349 8352	his
+T340	PRON_PER 8392 8395	our
+T341	PRON_PER 8552 8554	My
+T342	PRON_PER 8585 8588	she
+T343	PRON_PER 8594 8597	she
+T344	PRON_PER 8640 8643	his
+T345	PRON_PER 8667 8669	he
+T346	PRON_PER 8714 8717	him
+T347	PRON_PER 8720 8723	She
+T348	NOM_PER 314 324	our master
+T350	NOM_LOC 4779 4799	field of young wheat
+T494	Black_Beauty-0 10 12	My
+T411	the_meadow-1 24 64	The first place that I can well remember
+T495	Black_Beauty-0 45 46	I
+T412	a_pond_of_clear_water_in_it-2 98 125	a pond of clear water in it
+T496	we__horses_-3 240 242	we
+T414	a_plowed_field-4 255 269	a plowed field
+T497	we__horses_-3 289 291	we
+T415	our_master_s_house-5 314 363	our master ’s house , which stood by the roadside
+T498	we__horses_-3 314 317	our
+T416	the_meadow-1 380 390	the meadow
+T417	a_grove_of_fir_trees-6 395 415	a grove of fir trees
+T353	the_brook-7 436 476	a running brook overhung by a steep bank
+T499	Black_Beauty-0 485 486	I
+T500	Black_Beauty-0 497 498	I
+T418	Duchess-8 510 519	my mother
+T501	Black_Beauty-0 510 512	my
+T502	Black_Beauty-0 533 534	I
+T503	Black_Beauty-0 572 573	I
+T504	Duchess-8 581 584	her
+T505	Black_Beauty-0 605 606	I
+T506	Duchess-8 625 628	her
+T507	Black_Beauty_Mother-9 647 649	we
+T419	a_pond_of_clear_water_in_it-2 667 675	the pond
+T508	Black_Beauty_Mother-9 725 727	we
+T421	a_nice_warm_shed_near_the_grove-10 732 763	a nice warm shed near the grove
+T420	a_grove_of_fir_trees-6 754 763	the grove
+T509	Black_Beauty-0 777 778	I
+T422	Duchess-8 807 816	my mother
+T510	Black_Beauty-0 807 809	my
+T428	the_colts-11 899 914	six young colts
+T423	the_meadow-1 918 928	the meadow
+T511	Black_Beauty-0 937 939	me
+T512	the_colts-11 942 946	they
+T513	Black_Beauty-0 963 964	I
+T514	Black_Beauty-0 1018 1019	I
+T515	the_colts-11 1037 1041	them
+T516	Black_Beauty_Colts-12 1064 1066	we
+T424	a_plowed_field-4 1111 1120	the field
+T517	Black_Beauty_Colts-12 1132 1134	we
+T518	Black_Beauty_Colts-12 1156 1158	we
+T519	the_colts-11 1187 1191	they
+T354	Duchess-8 1293 1302	my mother
+T520	Black_Beauty-0 1293 1295	my
+T521	Black_Beauty-0 1315 1317	me
+T522	Duchess-8 1329 1332	her
+T523	Duchess-8 1344 1347	she
+T524	Duchess-8 1357 1358	I
+T525	Black_Beauty-0 1364 1367	you
+T526	Duchess-8 1393 1394	I
+T527	Black_Beauty-0 1414 1417	you
+T425	the_colts-11 1420 1443	The colts who live here
+T528	the_colts-11 1470 1474	they
+T529	the_colts-11 1512 1516	they
+T530	Black_Beauty-0 1544 1547	You
+T356	your_father-13 1584 1595	your father
+T531	Black_Beauty-0 1584 1588	your
+T357	your_grandfather-14 1634 1650	your grandfather
+T532	Black_Beauty-0 1634 1638	your
+T429	Newmarket-15 1680 1689	Newmarket
+T355	your_grandmother-16 1698 1714	your grandmother
+T533	Black_Beauty-0 1698 1702	your
+T430	any_horse_I_ever_knew-17 1742 1763	any horse I ever knew
+T534	Duchess-8 1752 1753	I
+T535	Duchess-8 1770 1771	I
+T536	Black_Beauty-0 1778 1781	you
+T537	Duchess-8 1798 1800	me
+T538	Duchess-8 1816 1817	I
+T539	Black_Beauty-0 1823 1826	you
+T540	Black_Beauty-0 1888 1892	your
+T541	Black_Beauty-0 1922 1926	your
+T542	Black_Beauty-0 1945 1948	you
+T543	Black_Beauty-0 1996 1997	I
+T431	Duchess-8 2019 2028	my mother
+T544	Black_Beauty-0 2019 2021	my
+T545	Black_Beauty-0 2041 2042	I
+T546	Duchess-8 2048 2051	she
+T700	our_master-18 314 324	our master
+T358	our_master-18 2079 2089	our master
+T547	we__horses_-3 2079 2082	our
+T548	Duchess-8 2114 2117	her
+T549	Duchess-8 2120 2123	Her
+T359	Duchess-8 2133 2140	Duchess
+T550	our_master-18 2147 2149	he
+T551	Duchess-8 2163 2166	her
+T433	Duchess-8 2167 2170	Pet
+T361	our_master-18 2173 2183	Our master
+T552	we__horses_-3 2173 2176	Our
+T553	our_master-18 2208 2210	He
+T554	we__horses_-3 2216 2218	us
+T555	our_master-18 2263 2265	he
+T556	we__horses_-3 2285 2287	us
+T557	our_master-18 2291 2293	he
+T362	his_little_children-19 2301 2320	his little children
+T558	our_master-18 2301 2304	his
+T559	we__horses_-3 2323 2325	We
+T560	our_master-18 2343 2346	him
+T363	Duchess-8 2353 2362	my mother
+T561	Black_Beauty-0 2353 2355	my
+T562	our_master-18 2369 2372	him
+T563	Duchess-8 2390 2393	she
+T564	our_master-18 2398 2401	him
+T565	Duchess-8 2414 2417	she
+T566	our_master-18 2456 2459	him
+T567	our_master-18 2462 2464	He
+T568	Duchess-8 2486 2489	her
+T364	our_master-18 2509 2516	old Pet
+T365	Black_Beauty-0 2530 2548	your little Darkie
+T569	Duchess-8 2530 2534	your
+T570	Black_Beauty-0 2553 2554	I
+T571	our_master-18 2577 2579	he
+T572	Black_Beauty-0 2587 2589	me
+T366	Black_Beauty-0 2590 2596	Darkie
+T573	our_master-18 2604 2606	he
+T574	Black_Beauty-0 2618 2620	me
+T575	our_master-18 2676 2678	he
+T367	Duchess-8 2700 2709	my mother
+T576	Black_Beauty-0 2700 2702	my
+T434	we__horses_-3 2712 2726	All the horses
+T577	our_master-18 2741 2744	him
+T578	Black_Beauty-0 2751 2752	I
+T579	Black_Beauty_Mother-9 2759 2761	we
+T580	our_master-18 2767 2770	his
+T368	Duchess-8 2783 2792	My mother
+T581	Black_Beauty-0 2783 2785	My
+T582	our_master-18 2805 2808	him
+T369	the_town-20 2812 2820	the town
+T436	Dick-21 2864 2873	a plowboy
+T583	we__horses_-3 2907 2910	our
+T584	Dick-21 2961 2963	he
+T585	Dick-21 2978 2980	he
+T586	Dick-21 2988 2990	he
+T587	Dick-21 3007 3009	he
+T438	the_colts-11 3026 3035	the colts
+T588	the_colts-11 3068 3072	them
+T589	the_colts-11 3081 3085	them
+T590	we__horses_-3 3095 3097	We
+T591	Dick-21 3116 3119	him
+T592	we__horses_-3 3126 3128	we
+T593	we__horses_-3 3189 3191	us
+T594	Dick-21 3202 3204	he
+T370	our_master-18 3246 3256	the master
+T439	the_next_field-22 3264 3278	the next field
+T595	our_master-18 3285 3287	he
+T491	the_next_field-22 3292 3297	there
+T596	our_master-18 3344 3346	he
+T371	Dick-21 3379 3383	Dick
+T597	our_master-18 3397 3399	he
+T598	Dick-21 3405 3408	him
+T599	Dick-21 3439 3442	him
+T600	we__horses_-3 3488 3490	we
+T440	our_master-18 3495 3505	the master
+T601	we__horses_-3 3506 3508	we
+T372	Dick-21 3551 3558	Bad boy
+T602	our_master-18 3563 3565	he
+T373	Dick-21 3575 3582	bad boy
+T441	the_colts-11 3594 3603	the colts
+T603	Dick-21 3693 3697	your
+T374	home-23 3711 3715	home
+T604	our_master-18 3718 3719	I
+T605	Dick-21 3735 3738	you
+T375	my_farm-24 3742 3749	my farm
+T606	our_master-18 3742 3744	my
+T607	we__horses_-3 3763 3765	we
+T376	Dick-21 3776 3780	Dick
+T442	Old_Daniel-25 3792 3802	Old Daniel
+T443	we__horses_-3 3830 3840	the horses
+T377	our_master-18 3865 3875	our master
+T608	we__horses_-3 3865 3868	our
+T609	we__horses_-3 3881 3883	we
+T610	Black_Beauty-0 3919 3920	I
+T611	Black_Beauty-0 3969 3970	I
+T380	the_woods-26 4101 4110	the woods
+T379	meadows-27 4115 4122	meadows
+T612	Black_Beauty-0 4125 4126	I
+T444	the_colts-11 4131 4146	the other colts
+T445	a_plowed_field-4 4181 4190	the field
+T613	Black_Beauty_Colts-12 4196 4198	we
+T447	The_oldest_of_the_colts-28 4267 4290	The oldest of the colts
+T446	the_colts-11 4281 4290	the colts
+T614	The_oldest_of_the_colts-28 4298 4301	his
+T615	The_oldest_of_the_colts-28 4317 4320	his
+T616	us-29 4421 4423	us
+T617	Black_Beauty_Colts-12 4463 4465	we
+T448	several_fields_beyond-30 4500 4521	several fields beyond
+T381	Duchess-8 4524 4533	My mother
+T618	Black_Beauty-0 4524 4526	My
+T450	the_old_horse-31 4538 4574	an old riding horse of our master ’s
+T449	our_master-18 4561 4571	our master
+T619	we__horses_-3 4561 4564	our
+T620	hounds-32 4637 4641	They
+T382	Duchess-8 4669 4678	my mother
+T621	Black_Beauty-0 4669 4671	my
+T622	hounds-32 4690 4694	they
+T623	we__horses_-3 4709 4711	we
+T624	Black_Beauty-0 4815 4816	I
+T625	hounds-32 4845 4849	they
+T626	hounds-32 4857 4861	They
+T627	hounds-32 4968 4973	their
+T628	hounds-32 4989 4993	them
+T383	huntsmen-33 4999 5027	a number of men on horseback
+T384	some_of_them-34 5030 5042	some of them
+T629	huntsmen-33 5038 5042	them
+T630	huntsmen-33 5085 5089	they
+T385	the_old_horse-31 5098 5111	The old horse
+T631	huntsmen-33 5145 5149	them
+T386	Black_Beauty_Colts-12 5156 5170	we young colts
+T632	Black_Beauty_Colts-12 5156 5158	we
+T633	huntsmen-33 5199 5203	them
+T634	huntsmen-33 5210 5214	they
+T451	the_fields_lower_down-35 5235 5256	the fields lower down
+T492	the_fields_lower_down-35 5259 5263	here
+T635	huntsmen-33 5280 5284	they
+T636	hounds-32 5364 5369	their
+T637	hounds-32 5394 5398	They
+T452	the_old_horse-31 5428 5441	the old horse
+T638	Black_Beauty-0 5496 5497	I
+T639	the_old_horse-31 5512 5513	I
+T640	our-36 5569 5572	our
+T387	the_woods-26 5590 5599	the woods
+T641	huntsmen-33 5611 5615	they
+T388	men-37 5650 5653	men
+T642	hounds-32 5702 5707	their
+T643	hounds-32 5747 5751	they
+T389	the_meadow-1 5804 5814	our meadow
+T644	we__horses_-3 5804 5807	our
+T453	the_brook-7 5866 5875	the brook
+T645	we__horses_-3 5884 5886	we
+T454	Duchess-8 5915 5924	my mother
+T646	Black_Beauty-0 5915 5917	my
+T390	the_woods-26 5988 5997	the woods
+T647	hounds-32 6019 6023	they
+T455	the_stream-38 6053 6063	the stream
+T456	a_plowed_field-4 6090 6099	the field
+T457	huntsmen-33 6112 6124	the huntsmen
+T391	Six_or_eight_men-39 6127 6143	Six or eight men
+T648	Six_or_eight_men-39 6151 6156	their
+T649	the_hare-40 6264 6267	she
+T702	field_of_young_wheat-41 4779 4799	field of young wheat
+T392	the_road-42 6299 6307	the road
+T650	the_hare-40 6351 6354	her
+T651	hounds-32 6360 6365	their
+T652	we__horses_-3 6379 6381	we
+T653	the_hare-40 6425 6428	her
+T458	One_of_the_huntsmen-43 6431 6450	One of the huntsmen
+T393	huntsmen-33 6438 6450	the huntsmen
+T654	the_hare-40 6511 6514	her
+T655	One_of_the_huntsmen-43 6527 6529	He
+T656	the_hare-40 6535 6538	her
+T394	huntsmen-33 6577 6594	all the gentlemen
+T657	Black_Beauty-0 6624 6626	me
+T658	Black_Beauty-0 6629 6630	I
+T659	Black_Beauty-0 6654 6655	I
+T459	the_brook-7 6698 6707	the brook
+T660	Black_Beauty-0 6719 6720	I
+T460	two_fine_horses-44 6754 6769	two fine horses
+T461	the_stream-38 6804 6814	the stream
+T462	the_grass-45 6847 6856	the grass
+T463	One_of_the_riders-46 6859 6876	One of the riders
+T395	the_riders-47 6866 6876	the riders
+T464	the_water-48 6896 6905	the water
+T661	George_Gordon-49 6955 6958	His
+T396	Duchess-8 6982 6991	my mother
+T662	Black_Beauty-0 6982 6984	my
+T663	George_Gordon-49 7006 7009	him
+T466	one_of_the_colts-50 7031 7047	one of the colts
+T465	the_colts-11 7038 7047	the colts
+T664	Black_Beauty-0 7050 7051	I
+T397	Duchess-8 7075 7084	my mother
+T665	Black_Beauty-0 7075 7077	my
+T666	us-51 7103 7105	us
+T667	Duchess-8 7124 7127	she
+T668	one_of_the_colts-50 7137 7140	you
+T669	Duchess-8 7172 7173	I
+T670	Duchess-8 7231 7232	I
+T398	men-52 7262 7265	men
+T671	men-52 7294 7298	they
+T672	men-52 7310 7320	themselves
+T468	good_horses-53 7335 7346	good horses
+T469	the_fields-54 7361 7371	the fields
+T673	men-52 7421 7425	they
+T674	we__horses_-3 7469 7471	we
+T470	horses-55 7481 7487	horses
+T399	Duchess-8 7516 7525	my mother
+T675	Black_Beauty-0 7516 7518	my
+T676	we__horses_-3 7542 7544	we
+T401	the_riders-47 7575 7585	the riders
+T400	George_Gordon-49 7598 7611	the young man
+T471	our_master-18 7618 7669	my master , who had been watching what was going on
+T677	Black_Beauty-0 7618 7620	my
+T678	George_Gordon-49 7695 7698	him
+T679	George_Gordon-49 7701 7704	His
+T680	George_Gordon-49 7724 7727	his
+T490	every_one-56 7749 7758	every one
+T681	huntsmen-33 7879 7883	They
+T682	George_Gordon-49 7892 7895	him
+T402	our_master_s_house-5 7899 7918	our master ’s house
+T472	his_little_children-19 7899 7909	our master
+T683	we__horses_-3 7899 7902	our
+T684	Black_Beauty-0 7921 7922	I
+T474	Squire_Gordon-57 7973 7983	the squire
+T476	his_family-58 8041 8051	his family
+T685	George_Gordon-49 8041 8044	his
+T477	the_doctor-59 8100 8110	the doctor
+T482	the_doctor__s-60 8100 8113	the doctor ’s
+T478	Mr__Bond-61 8119 8130	the farrier
+T481	the_farrier__s-62 8119 8133	the farrier ’s
+T479	Squire_Gordon-57 8152 8165	Squire Gordon
+T480	Squire_Gordon__s-63 8152 8168	Squire Gordon ’s
+T686	Squire_Gordon-57 8178 8181	him
+T405	George_Gordon-49 8193 8200	his son
+T687	Squire_Gordon-57 8193 8196	his
+T407	Mr__Bond-61 8208 8216	Mr. Bond
+T483	Rob_Roy-64 8249 8295	the black horse that lay groaning on the grass
+T688	Mr__Bond-61 8298 8300	he
+T689	Rob_Roy-64 8306 8309	him
+T690	Mr__Bond-61 8331 8334	his
+T691	Rob_Roy-64 8349 8352	his
+T408	our_master_s_house-5 8392 8411	our master ’s house
+T484	our_master-18 8392 8402	our master
+T692	we__horses_-3 8392 8395	our
+T485	Rob_Roy-64 8520 8535	the black horse
+T409	Duchess-8 8552 8561	My mother
+T693	Black_Beauty-0 8552 8554	My
+T694	Duchess-8 8585 8588	she
+T695	Duchess-8 8594 8597	she
+T486	Rob_Roy-64 8608 8618	that horse
+T696	Rob_Roy-64 8640 8643	his
+T697	Rob_Roy-64 8667 8669	he
+T698	Rob_Roy-64 8714 8717	him
+T699	Duchess-8 8720 8723	She
+T488	a_plowed_field-4 8755 8764	the field
+R1	cop Arg1:T61 Arg2:T59
+R2	cop Arg1:T74 Arg2:T73
+R3	cop Arg1:T75 Arg2:T176
+R4	cop Arg1:T80 Arg2:T194
+R5	cop Arg1:T8 Arg2:T9
+R6	cop Arg1:T83 Arg2:T227
+R7	appos Arg1:T85 Arg2:T84
+R8	appos Arg1:T26 Arg2:T90
+R10	cop Arg1:T115 Arg2:T317
+R12	appos Arg1:T51 Arg2:T121
+R13	appos Arg1:T52 Arg2:T121
+R14	appos Arg1:T123 Arg2:T121
+R15	appos Arg1:T54 Arg2:T55
+R17	cop Arg1:T135 Arg2:T345
+T349	George_Gordon-49 7951 7970	young George Gordon
+T703	PRON_LOC 123 125	it
+T704	the_meadow-1 123 125	it
+T705	PRON_LOC 157 159	it
+T706	the_meadow-1 157 159	it
+T141	Rob_Roy-64 8653 8664	“ Rob Roy ”
+T137	NOM_PER 8376 8384	some one
+T351	some_one-700 8376 8384	some one

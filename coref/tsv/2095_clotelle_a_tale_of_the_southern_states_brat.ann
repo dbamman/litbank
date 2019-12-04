@@ -1,0 +1,632 @@
+MENTION	T0	1	12	1	12	mulattoes	PER	NOM
+MENTION	T1	1	5	1	7	the Southern States	GPE	NOM
+MENTION	T2	2	17	2	18	the mother	PER	NOM
+MENTION	T3	2	10	2	12	his half-white child	PER	NOM
+MENTION	T4	2	21	2	22	a slave	PER	NOM
+MENTION	T5	3	8	3	10	the Slave States	GPE	NOM
+MENTION	T6	3	12	3	14	the real negro	PER	NOM
+MENTION	T8	4	18	4	18	master	PER	NOM
+MENTION	T9	4	20	4	20	slave	PER	NOM
+MENTION	T10	5	26	5	27	their owners	PER	NOM
+MENTION	T12	5	1	5	3	the Southern States	GPE	NOM
+MENTION	T14	8	22	8	23	their owners	PER	NOM
+MENTION	T15	8	2	8	3	these women	PER	NOM
+MENTION	T16	9	45	9	46	the South	LOC	NOM
+MENTION	T17	10	18	10	20	some white man	PER	NOM
+MENTION	T18	10	14	10	20	the finely-dressed mistress of some white man	PER	NOM
+MENTION	T21	12	19	12	20	their masters	PER	NOM
+MENTION	T23	12	46	12	48	an American Senator	PER	NOM
+MENTION	T25	12	29	12	32	John Graves , Esq.	PER	NOM
+MENTION	T26	13	14	13	14	Agnes	PER	PROP
+MENTION	T27	15	25	15	26	two daughters	PER	NOM
+MENTION	T28	15	11	15	13	a young slaveholder	PER	NOM
+MENTION	T29	15	5	15	5	Agnes	PER	PROP
+MENTION	T31	16	17	16	18	a laundress	PER	NOM
+MENTION	T32	16	5	16	7	this young man	PER	NOM
+MENTION	T33	16	30	16	30	Richmond	GPE	PROP
+MENTION	T34	17	4	17	8	the two daughters of Agnes	PER	NOM
+MENTION	T35	17	12	17	13	their mother	PER	NOM
+MENTION	T36	18	9	18	10	her daughters	PER	NOM
+MENTION	T37	18	0	18	1	The mother	PER	NOM
+MENTION	T38	19	9	19	9	ladies	PER	NOM
+MENTION	T39	19	6	19	7	her daughters	PER	NOM
+MENTION	T40	20	1	20	2	the girls	PER	NOM
+MENTION	T41	20	6	20	7	the mother	PER	NOM
+MENTION	T42	21	3	21	8	a laundress of the first class	PER	NOM
+MENTION	T43	21	34	21	35	her daughters	PER	NOM
+MENTION	T46	22	24	22	24	whites	PER	NOM
+MENTION	T48	23	33	23	34	white gentlemen	PER	NOM
+MENTION	T50	23	21	23	22	quadroon women	PER	NOM
+MENTION	T51	23	24	23	27	a few negro men	PER	NOM
+MENTION	T52	23	5	23	7	the Southern States	GPE	NOM
+MENTION	T54	25	9	25	10	their clerks	PER	NOM
+MENTION	T55	25	12	25	12	students	PER	NOM
+MENTION	T56	26	3	26	3	son	PER	NOM
+MENTION	T57	26	0	26	1	The father	PER	NOM
+MENTION	T59	27	20	27	20	Richmond	GPE	PROP
+MENTION	T61	27	28	27	32	the oldest daughter of Agnes	PER	NOM
+MENTION	T62	27	14	27	20	a wealthy and retired gentleman of Richmond	PER	NOM
+MENTION	T63	28	0	28	2	The young man	PER	NOM
+MENTION	T65	32	7	32	8	her sister	PER	NOM
+MENTION	T66	33	0	33	1	Henry Linwood	PER	PROP
+MENTION	T67	33	14	33	15	her mother	PER	NOM
+MENTION	T69	34	20	34	23	the house of Agnes	FAC	NOM
+MENTION	T70	34	16	34	23	the favorite visitor at the house of Agnes	PER	NOM
+MENTION	T72	34	3	34	5	the young man	PER	NOM
+MENTION	T74	35	30	35	31	Henry Linwood	PER	PROP
+MENTION	T76	35	43	35	45	the young quadroon	PER	NOM
+MENTION	T77	35	38	35	40	Agnes ' cottage	FAC	NOM
+MENTION	T78	35	34	35	40	the garden which surrounded Agnes ' cottage	FAC	NOM
+MENTION	T79	37	23	37	26	the late John Graves	PER	PROP
+MENTION	T80	37	1	37	2	Seventy-nine negroes	PER	NOM
+MENTION	T81	38	39	38	39	servants	PER	NOM
+MENTION	T82	38	14	38	14	children	PER	NOM
+MENTION	T83	38	12	38	14	women with children	PER	NOM
+MENTION	T84	40	1	40	6	the above slaves advertised for sale	PER	NOM
+MENTION	T85	40	8	40	8	Agnes	PER	PROP
+MENTION	T86	40	10	40	12	her two daughters	PER	NOM
+MENTION	T87	41	24	41	26	her own mistress	PER	NOM
+MENTION	T91	42	0	42	1	Mr. Graves	PER	PROP
+MENTION	T92	42	22	42	24	even the slaves	PER	NOM
+MENTION	T93	42	33	42	33	masters	PER	NOM
+MENTION	T94	42	18	42	19	the whites	PER	NOM
+MENTION	T95	43	2	43	3	his slaves	PER	NOM
+MENTION	T96	44	6	44	6	slaves	PER	NOM
+MENTION	T97	44	23	44	26	oppressive and tyrannical masters	PER	NOM
+MENTION	T98	45	13	45	15	the Old Dominion	LOC	NOM
+MENTION	T99	45	10	45	15	this planter of the Old Dominion	PER	NOM
+MENTION	T101	45	0	45	2	No slave speculator	PER	NOM
+MENTION	T102	46	2	46	7	a constant attendant upon religious worship	PER	NOM
+MENTION	T103	47	20	47	22	a liberal friend	PER	NOM
+MENTION	T104	47	5	47	8	the American Tract Society	ORG	PROP
+MENTION	T105	48	5	48	6	his slaves	PER	NOM
+MENTION	T106	51	8	51	8	slaves	PER	NOM
+MENTION	T107	52	2	52	2	women	PER	NOM
+MENTION	T109	53	23	53	24	the bystanders	PER	NOM
+MENTION	T110	54	2	54	3	young Linwood	PER	PROP
+MENTION	T111	55	24	55	29	a bidder for the beautiful slave	PER	NOM
+MENTION	T112	55	27	55	29	the beautiful slave	PER	NOM
+MENTION	T114	56	26	56	27	Mr. Graves	PER	PROP
+MENTION	T115	56	38	56	39	that gentleman	PER	NOM
+MENTION	T116	57	12	57	12	companions	PER	NOM
+MENTION	T117	58	6	58	7	the slave	PER	NOM
+MENTION	T118	59	3	59	5	a good master	PER	NOM
+MENTION	T119	60	0	60	3	The less valuable slaves	PER	NOM
+MENTION	T120	60	18	60	20	the highest bidder	PER	NOM
+MENTION	T121	61	2	61	2	wives	PER	NOM
+MENTION	T122	62	19	62	19	earth	LOC	NOM
+MENTION	T123	62	2	62	2	sisters	PER	NOM
+MENTION	T124	62	10	62	10	mothers	PER	NOM
+MENTION	T126	62	12	62	13	their children	PER	NOM
+MENTION	T127	63	13	63	13	persons	PER	NOM
+MENTION	T128	63	23	63	24	her daughters	PER	NOM
+MENTION	T129	63	21	63	21	Agnes	PER	PROP
+MENTION	T130	64	0	64	1	The mother	PER	NOM
+MENTION	T131	64	17	64	17	Jennings	PER	PROP
+MENTION	T132	64	12	64	17	a noted negro trader named Jennings	PER	NOM
+MENTION	T133	64	14	64	14	negro	PER	NOM
+MENTION	T134	66	6	66	6	Isabella	PER	PROP
+MENTION	T135	66	14	66	15	the auctioneer	PER	NOM
+MENTION	T136	67	3	67	5	the handsome quadroon	PER	NOM
+MENTION	T137	69	19	69	19	Virginia	GPE	PROP
+MENTION	T139	69	6	69	7	Miss Isabella	PER	PROP
+MENTION	T140	70	7	70	9	this real Albino	PER	NOM
+MENTION	T141	75	5	75	9	such a girl as this	PER	NOM
+MENTION	T143	0	2	0	3	THE SLAVE	PER	NOM
+MENTION	T144	2	5	2	26	the man who sits with his half-white child upon his knee whilst the mother stands , a slave , behind his chair	PER	NOM
+MENTION	T145	3	1	3	10	nearly all the cities and towns of the Slave States	GPE	NOM
+MENTION	T146	3	17	3	18	clear black	PER	NOM
+MENTION	T7	3	30	3	32	the slave population	PER	NOM
+MENTION	T147	5	16	5	17	the towns	GPE	NOM
+MENTION	T148	5	14	5	17	most of the towns	GPE	NOM
+MENTION	T13	6	3	6	5	the mulatto women	PER	NOM
+MENTION	T149	8	0	8	3	Many of these women	PER	NOM
+MENTION	T150	8	8	8	23	men of property and standing , who furnish them with the means of compensating their owners	PER	NOM
+MENTION	T151	9	21	9	21	slave-women	PER	NOM
+MENTION	T152	9	52	9	54	the Northern States	GPE	NOM
+MENTION	T153	9	40	9	46	the cities and towns of the South	GPE	NOM
+MENTION	T154	10	4	10	5	the slave-women	PER	NOM
+MENTION	T155	10	2	10	5	many of the slave-women	PER	NOM
+MENTION	T20	11	30	11	31	the drawing-room	FAC	NOM
+MENTION	T22	12	10	12	10	Richmond	GPE	PROP
+MENTION	T156	12	12	12	12	Virginia	GPE	PROP
+MENTION	T157	12	6	12	20	the many slave-women in Richmond , Virginia , who hired their time of their masters	PER	NOM
+MENTION	T158	12	23	12	23	Agnes	PER	PROP
+MENTION	T159	12	25	12	32	a mulatto owned by John Graves , Esq.	PER	NOM
+MENTION	T24	12	43	12	48	the daughter of an American Senator	PER	NOM
+MENTION	T160	14	30	14	31	the Anglo-Saxon	PER	PROP
+MENTION	T161	15	8	15	13	a housekeeper for a young slaveholder	PER	NOM
+MENTION	T162	15	22	15	26	the mother of two daughters	PER	NOM
+MENTION	T163	16	9	16	10	the slave-woman	PER	NOM
+MENTION	T164	17	0	17	0	Isabella	PER	PROP
+MENTION	T165	17	2	17	2	Marion	PER	PROP
+MENTION	T166	19	0	19	0	Agnes	PER	PROP
+MENTION	T44	21	47	21	48	her daughters	PER	NOM
+MENTION	T45	22	18	22	22	the men who attend them	PER	NOM
+MENTION	T47	23	11	23	14	the cities and towns	GPE	NOM
+MENTION	T49	25	0	25	0	Bankers	PER	NOM
+MENTION	T53	25	2	25	2	merchants	PER	NOM
+MENTION	T167	25	4	25	4	lawyers	PER	NOM
+MENTION	T168	25	6	25	6	doctors	PER	NOM
+MENTION	T58	27	8	27	9	Henry Linwood	PER	PROP
+MENTION	T169	27	11	27	20	the son of a wealthy and retired gentleman of Richmond	PER	NOM
+MENTION	T60	27	32	27	32	Agnes	PER	PROP
+MENTION	T170	27	26	27	26	Isabella	PER	PROP
+MENTION	T171	28	7	28	8	Harvard College	ORG	PROP
+MENTION	T172	29	0	29	0	Isabella	PER	PROP
+MENTION	T173	29	26	29	27	the city	GPE	NOM
+MENTION	T174	29	17	29	27	the handsomest girl , colored or white , in the city	PER	NOM
+MENTION	T64	32	0	32	0	Marion	PER	PROP
+MENTION	T175	33	6	33	6	Isabella	PER	PROP
+MENTION	T68	34	7	34	9	the beautiful quadroon	PER	NOM
+MENTION	T71	34	10	34	10	home	FAC	NOM
+MENTION	T176	34	23	34	23	Agnes	PER	PROP
+MENTION	T75	35	13	35	18	all who reside in tropical climates	PER	NOM
+MENTION	T177	38	3	38	4	several mechanics	PER	NOM
+MENTION	T178	38	6	38	7	able-bodied field-hands	PER	NOM
+MENTION	T179	38	9	38	9	plough-boys	PER	NOM
+MENTION	T180	39	1	39	7	several mulatto girls of rare personal qualities	PER	NOM
+MENTION	T88	41	1	41	2	young Linwood	PER	PROP
+MENTION	T90	41	4	41	5	the quadroon	PER	NOM
+MENTION	T89	41	16	41	17	her purchaser	PER	NOM
+MENTION	T181	42	8	42	19	an excellent and upright citizen of the first standing among the whites	PER	NOM
+MENTION	T182	42	28	42	33	one of the kindest of masters	PER	NOM
+MENTION	T100	47	0	47	3	The American Bible Society	ORG	PROP
+MENTION	T183	47	14	47	15	Foreign Missions	ORG	NOM
+MENTION	T184	48	23	48	23	God	PER	PROP
+MENTION	T185	51	0	51	11	Farmers , who make a business of raising slaves for the market	PER	NOM
+MENTION	T186	51	28	51	30	the slave-raising States	GPE	NOM
+MENTION	T187	51	35	51	37	the far South	LOC	NOM
+MENTION	T188	51	17	51	37	slave-traders , who make a business of buying human beings in the slave-raising States and taking them to the far South	PER	NOM
+MENTION	T189	52	0	52	0	Men	PER	NOM
+MENTION	T108	53	20	53	24	any other of the bystanders	PER	NOM
+MENTION	T190	53	7	53	24	one who felt a deeper interest in the result of the sale than any other of the bystanders	PER	NOM
+MENTION	T113	56	11	56	43	these slaves , all of whom had grown up together on the old homestead of Mr. Graves , and who had been treated with great kindness by that gentleman , during his life	PER	NOM
+MENTION	T191	61	0	61	0	Husbands	PER	NOM
+MENTION	T192	62	0	62	0	Brothers	PER	PROP
+MENTION	T125	65	0	65	0	Marion	PER	PROP
+MENTION	T193	69	0	69	1	The auctioneer	PER	NOM
+MENTION	T138	69	15	69	19	the finest mansion in Virginia	FAC	NOM
+MENTION	T194	69	12	69	19	the drawing-room of the finest mansion in Virginia	FAC	NOM
+MENTION	T195	70	4	70	4	gentlemen	PER	NOM
+MENTION	T196	71	1	71	2	fit fancy-girl	PER	NOM
+MENTION	T197	76	0	76	0	Gentlemen	PER	NOM
+MENTION	T198	78	2	78	2	gentlemen	PER	NOM
+MENTION	T199	80	3	80	3	gentlemen	PER	NOM
+MENTION	T142	83	15	83	17	a devoted Christian	PER	NOM
+MENTION	T30	16	25	16	30	the most tasteful woman in Richmond	PER	NOM
+MENTION	T73	35	38	35	38	Agnes	PER	PROP
+MENTION	T203	71	4	71	5	any one	PER	NOM
+MENTION	T204	38	27	38	28	any one	PER	NOM
+MENTION	T205	14	14	14	15	no one	PER	NOM
+MENTION	T207	2	10	2	10	his	PER	PRON
+MENTION	T208	2	14	2	14	his	PER	PRON
+MENTION	T209	2	25	2	25	his	PER	PRON
+MENTION	T210	5	23	5	23	their	PER	PRON
+MENTION	T211	5	26	5	26	their	PER	PRON
+MENTION	T212	6	9	6	9	their	PER	PRON
+MENTION	T213	7	10	7	10	their	PER	PRON
+MENTION	T214	8	16	8	16	them	PER	PRON
+MENTION	T215	8	22	8	22	their	PER	PRON
+MENTION	T216	9	1	9	1	we	PER	PRON
+MENTION	T217	9	28	9	28	we	PER	PRON
+MENTION	T218	12	16	12	16	their	PER	PRON
+MENTION	T219	12	19	12	19	their	PER	PRON
+MENTION	T220	12	41	12	41	she	PER	PRON
+MENTION	T221	13	11	13	11	we	PER	PRON
+MENTION	T222	14	20	14	20	her	PER	PRON
+MENTION	T223	14	22	14	22	she	PER	PRON
+MENTION	T224	14	24	14	24	her	PER	PRON
+MENTION	T225	14	27	14	27	her	PER	PRON
+MENTION	T226	15	1	15	1	her	PER	PRON
+MENTION	T227	16	12	16	12	herself	PER	PRON
+MENTION	T228	16	32	16	32	her	PER	PRON
+MENTION	T229	17	12	17	12	their	PER	PRON
+MENTION	T230	17	17	17	17	her	PER	PRON
+MENTION	T231	17	20	17	20	they	PER	PRON
+MENTION	T232	17	23	17	23	her	PER	PRON
+MENTION	T233	18	9	18	9	her	PER	PRON
+MENTION	T234	18	15	18	15	them	PER	PRON
+MENTION	T235	18	24	18	24	their	PER	PRON
+MENTION	T236	19	6	19	6	her	PER	PRON
+MENTION	T237	19	12	19	12	she	PER	PRON
+MENTION	T238	20	15	20	15	them	PER	PRON
+MENTION	T239	21	0	21	0	Her	PER	PRON
+MENTION	T240	21	10	21	10	her	PER	PRON
+MENTION	T241	21	22	21	22	her	PER	PRON
+MENTION	T242	21	27	21	27	she	PER	PRON
+MENTION	T243	21	34	21	34	her	PER	PRON
+MENTION	T244	21	37	21	37	she	PER	PRON
+MENTION	T245	21	47	21	47	her	PER	PRON
+MENTION	T247	25	9	25	9	their	PER	PRON
+MENTION	T248	28	11	28	11	he	PER	PRON
+MENTION	T249	29	3	29	3	her	PER	PRON
+MENTION	T250	29	14	29	14	her	PER	PRON
+MENTION	T251	30	4	30	4	she	PER	PRON
+MENTION	T252	31	1	31	1	her	PER	PRON
+MENTION	T253	31	4	31	4	she	PER	PRON
+MENTION	T254	31	11	31	11	her	PER	PRON
+MENTION	T255	31	44	31	44	her	PER	PRON
+MENTION	T256	32	7	32	7	her	PER	PRON
+MENTION	T257	33	14	33	14	her	PER	PRON
+MENTION	T258	35	47	35	47	his	PER	PRON
+MENTION	T259	36	0	36	0	He	PER	PRON
+MENTION	T260	36	3	36	3	his	PER	PRON
+MENTION	T261	38	1	38	1	them	PER	PRON
+MENTION	T262	38	18	38	18	them	PER	PRON
+MENTION	T263	38	41	38	41	their	PER	PRON
+MENTION	T264	40	10	40	10	her	PER	PRON
+MENTION	T265	41	9	41	9	he	PER	PRON
+MENTION	T266	41	11	41	11	her	PER	PRON
+MENTION	T267	41	13	41	13	he	PER	PRON
+MENTION	T268	41	16	41	16	her	PER	PRON
+MENTION	T269	41	21	41	21	her	PER	PRON
+MENTION	T270	41	24	41	24	her	PER	PRON
+MENTION	T271	42	26	42	26	him	PER	PRON
+MENTION	T272	43	2	43	2	his	PER	PRON
+MENTION	T273	43	8	43	8	his	PER	PRON
+MENTION	T274	43	11	43	11	he	PER	PRON
+MENTION	T275	43	15	43	15	them	PER	PRON
+MENTION	T276	43	22	43	22	his	PER	PRON
+MENTION	T277	44	0	44	0	He	PER	PRON
+MENTION	T278	44	15	44	15	them	PER	PRON
+MENTION	T279	44	19	44	19	they	PER	PRON
+MENTION	T280	46	0	46	0	He	PER	PRON
+MENTION	T281	46	13	46	13	his	PER	PRON
+MENTION	T282	47	19	47	19	him	PER	PRON
+MENTION	T283	48	0	48	0	He	PER	PRON
+MENTION	T284	48	5	48	5	his	PER	PRON
+MENTION	T285	51	33	51	33	them	PER	PRON
+MENTION	T286	52	11	52	11	their	PER	PRON
+MENTION	T287	52	17	52	17	their	PER	PRON
+MENTION	T288	55	2	55	2	his	PER	PRON
+MENTION	T289	55	5	55	5	he	PER	PRON
+MENTION	T290	55	13	55	13	his	PER	PRON
+MENTION	T291	56	42	56	42	his	PER	PRON
+MENTION	T292	57	1	57	1	they	PER	PRON
+MENTION	T293	59	12	59	12	his	PER	PRON
+MENTION	T294	62	12	62	12	their	PER	PRON
+MENTION	T295	63	23	63	23	her	PER	PRON
+MENTION	T296	65	10	65	10	she	PER	PRON
+MENTION	T297	66	9	66	9	she	PER	PRON
+MENTION	T298	68	1	68	1	she	PER	PRON
+MENTION	T299	68	14	68	14	her	PER	PRON
+MENTION	T300	68	22	68	22	her	PER	PRON
+MENTION	T301	68	29	68	29	her	PER	PRON
+MENTION	T302	68	40	68	40	her	PER	PRON
+MENTION	T303	68	47	68	47	her	PER	PRON
+MENTION	T304	68	54	68	54	her	PER	PRON
+MENTION	T305	72	0	72	0	She	PER	PRON
+MENTION	T306	73	3	73	3	you	PER	PRON
+MENTION	T307	76	2	76	2	she	PER	PRON
+MENTION	T308	77	0	77	0	You	PER	PRON
+MENTION	T309	77	10	77	10	you	PER	PRON
+MENTION	T310	78	4	78	4	I	PER	PRON
+MENTION	T311	78	7	78	7	my	PER	PRON
+MENTION	T312	78	13	78	13	she	PER	PRON
+MENTION	T313	81	5	81	5	she	PER	PRON
+MENTION	T314	83	1	83	1	She	PER	PRON
+MENTION	T315	5	8	5	10	class of slaves	PER	NOM
+MENTION	T316	6	0	6	1	This class	PER	NOM
+MENTION	T317	8	5	8	23	the favorites of men of property and standing , who furnish them with the means of compensating their owners	PER	NOM
+MENTION	T318	11	6	11	9	this class of women	PER	NOM
+MENTION	T319	17	0	17	2	Isabella and Marion	PER	NOM
+MENTION	T320	51	25	51	26	human beings	PER	NOM
+MENTION	T321	52	0	52	2	Men and women	PER	NOM
+COREF	T143	THE_SLAVE-0
+COREF	T1	the_Southern_States-1
+COREF	T0	mulattoes-2
+COREF	T144	the_man_who____-3
+COREF	T3	his_half-white_child-4
+COREF	T207	the_man_who____-3
+COREF	T208	the_man_who____-3
+COREF	T2	the_mother-5
+COREF	T209	the_man_who____-3
+COREF	T145	nearly_all_cities____-6
+COREF	T5	the_Slave_States-7
+COREF	T6	the_real_negro-8
+COREF	T7	the_slave_population-9
+COREF	T8	master-10
+COREF	T9	slave-11
+COREF	T12	the_Southern_States-1
+COREF	T148	most_of_the_towns-13
+COREF	T147	the_towns-14
+COREF	T315	class_of_slaves-15
+COREF	T210	class_of_slaves-15
+COREF	T10	their_owners-16
+COREF	T211	class_of_slaves-15
+COREF	T316	This_class-17
+COREF	T212	This_class-17
+COREF	T213	This_class-17
+COREF	T149	Many_of_these_women-18
+COREF	T15	This_class-17
+COREF	T150	men_of_property_and_standing___who_furnish_them_with_the_means_of_compensating_their_owners-19
+COREF	T214	Many_of_these_women-18
+COREF	T14	their_owners-20
+COREF	T215	Many_of_these_women-18
+COREF	T216	we-21
+COREF	T151	slave-women-22
+COREF	T217	we-21
+COREF	T153	the_cities_and_towns_of_the_South-23
+COREF	T16	the_South-24
+COREF	T152	the_Northern_States-25
+COREF	T155	many_of_the_slave-women-26
+COREF	T154	the_slave-women-27
+COREF	T18	the_finely-dressed_mistress_of_some_white_man-28
+COREF	T17	some_white_man-29
+COREF	T318	this_class_of_women-30
+COREF	T20	the_drawing-room-31
+COREF	T157	the_many_slave-women_in_Richmond___Virginia___who_hired_their_time_of_their_masters-32
+COREF	T22	Richmond-33
+COREF	T156	Virginia-34
+COREF	T218	the_many_slave-women_in_Richmond___Virginia___who_hired_their_time_of_their_masters-32
+COREF	T21	their_masters-35
+COREF	T219	the_many_slave-women_in_Richmond___Virginia___who_hired_their_time_of_their_masters-32
+COREF	T158	Agnes-36
+COREF	T25	John_Graves___Esq_-37
+COREF	T220	Agnes-36
+COREF	T23	an_American_Senator-38
+COREF	T221	we-21
+COREF	T26	Agnes-36
+COREF	T205	no_one-39
+COREF	T222	Agnes-36
+COREF	T223	Agnes-36
+COREF	T224	Agnes-36
+COREF	T225	Agnes-36
+COREF	T160	the_Anglo-Saxon-40
+COREF	T226	Agnes-36
+COREF	T29	Agnes-36
+COREF	T28	a_young_slaveholder-41
+COREF	T27	two_daughters-42
+COREF	T32	a_young_slaveholder-41
+COREF	T163	Agnes-36
+COREF	T227	Agnes-36
+COREF	T31	a_laundress-43
+COREF	T33	Richmond-33
+COREF	T228	Agnes-36
+COREF	T164	Isabella-44
+COREF	T165	Marion-45
+COREF	T319	two_daughters-42
+COREF	T35	Agnes-36
+COREF	T229	two_daughters-42
+COREF	T230	Agnes-36
+COREF	T231	two_daughters-42
+COREF	T232	Agnes-36
+COREF	T37	Agnes-36
+COREF	T36	two_daughters-42
+COREF	T233	Agnes-36
+COREF	T234	two_daughters-42
+COREF	T235	two_daughters-42
+COREF	T166	Agnes-36
+COREF	T39	two_daughters-42
+COREF	T236	Agnes-36
+COREF	T237	Agnes-36
+COREF	T40	two_daughters-42
+COREF	T41	Agnes-36
+COREF	T238	two_daughters-42
+COREF	T239	Agnes-36
+COREF	T42	a_laundress_of_the_first_class-47
+COREF	T240	Agnes-36
+COREF	T241	Agnes-36
+COREF	T242	Agnes-36
+COREF	T43	two_daughters-42
+COREF	T243	Agnes-36
+COREF	T244	Agnes-36
+COREF	T44	two_daughters-42
+COREF	T245	Agnes-36
+COREF	T45	the_men_who_attend_them-48
+COREF	T46	whites-49
+COREF	T52	the_Southern_States-1
+COREF	T47	the_cities_and_towns-50
+COREF	T50	quadroon_women-51
+COREF	T51	a_few_negro_men-52
+COREF	T48	white_gentlemen-53
+COREF	T49	Bankers-54
+COREF	T53	merchants-55
+COREF	T167	lawyers-56
+COREF	T168	doctors-57
+COREF	T54	their_clerks-58
+COREF	T247	their-59
+COREF	T55	students-60
+COREF	T57	The_father-61
+COREF	T56	son-62
+COREF	T58	Henry_Linwood-63
+COREF	T62	a_wealthy_and_retired_gentleman_of_Richmond-64
+COREF	T59	Richmond-33
+COREF	T170	Isabella-44
+COREF	T60	Agnes-36
+COREF	T63	Henry_Linwood-63
+COREF	T171	Harvard_College-65
+COREF	T248	Henry_Linwood-63
+COREF	T172	Isabella-44
+COREF	T249	Isabella-44
+COREF	T250	Isabella-44
+COREF	T173	Richmond-33
+COREF	T251	Isabella-44
+COREF	T252	Isabella-44
+COREF	T253	Isabella-44
+COREF	T254	Isabella-44
+COREF	T255	Isabella-44
+COREF	T64	Marion-45
+COREF	T65	Isabella-44
+COREF	T256	Marion-45
+COREF	T66	Henry_Linwood-63
+COREF	T175	Isabella-44
+COREF	T67	Agnes-36
+COREF	T257	Isabella-44
+COREF	T72	Henry_Linwood-63
+COREF	T68	Isabella-44
+COREF	T71	Agnes_home-66
+COREF	T70	Henry_Linwood-63
+COREF	T69	Agnes_home-66
+COREF	T176	Agnes-36
+COREF	T75	all_who_reside_in_tropical_climates-67
+COREF	T74	Henry_Linwood-63
+COREF	T78	the_garden_which_surrounded_Agnes___cottage-68
+COREF	T77	Agnes_home-66
+COREF	T73	Agnes-36
+COREF	T76	Isabella-44
+COREF	T258	Henry_Linwood-63
+COREF	T259	Henry_Linwood-63
+COREF	T260	Henry_Linwood-63
+COREF	T80	Seventy-nine_negroes-69
+COREF	T79	John_Graves___Esq_-37
+COREF	T261	Seventy-nine_negroes-69
+COREF	T177	several_mechanics-70
+COREF	T178	able-bodied_field-hands-71
+COREF	T179	plough-boys-72
+COREF	T83	women_with_children-73
+COREF	T82	children-74
+COREF	T262	them-75
+COREF	T204	any_one-76
+COREF	T81	servants-77
+COREF	T263	any_one-76
+COREF	T180	several_mulatto_girls_of_rare_personal_qualities-78
+COREF	T84	the_above_slaves_advertised_for_sale-79
+COREF	T85	Agnes-36
+COREF	T86	Isabella_and_Marion-46
+COREF	T264	Agnes-36
+COREF	T88	Henry_Linwood-63
+COREF	T90	Isabella-44
+COREF	T265	Henry_Linwood-63
+COREF	T266	Isabella-44
+COREF	T267	Henry_Linwood-63
+COREF	T268	Isabella-44
+COREF	T269	Isabella-44
+COREF	T87	her_own_mistress-80
+COREF	T270	Isabella-44
+COREF	T91	John_Graves___Esq_-37
+COREF	T94	the_whites-81
+COREF	T92	graves_slaves-82
+COREF	T271	John_Graves___Esq_-37
+COREF	T93	masters-83
+COREF	T95	graves_slaves-82
+COREF	T272	John_Graves___Esq_-37
+COREF	T273	John_Graves___Esq_-37
+COREF	T274	John_Graves___Esq_-37
+COREF	T275	graves_slaves-82
+COREF	T276	John_Graves___Esq_-37
+COREF	T277	John_Graves___Esq_-37
+COREF	T96	slaves-84
+COREF	T278	slaves-84
+COREF	T279	slaves-84
+COREF	T97	oppressive_and_tyrannical_masters-85
+COREF	T101	No_slave_speculator-86
+COREF	T99	John_Graves___Esq_-37
+COREF	T98	the_Old_Dominion-87
+COREF	T280	John_Graves___Esq_-37
+COREF	T281	John_Graves___Esq_-37
+COREF	T100	The_American_Bible_Society-88
+COREF	T104	the_American_Tract_Society-89
+COREF	T183	Foreign_Missions-90
+COREF	T282	John_Graves___Esq_-37
+COREF	T283	John_Graves___Esq_-37
+COREF	T105	graves_slaves-82
+COREF	T284	John_Graves___Esq_-37
+COREF	T184	God-91
+COREF	T185	Farmers___who_make_a_business_of_raising_slaves_for_the_market-92
+COREF	T106	slaves-93
+COREF	T188	slave-traders___who_make_a_business_of_buying_human_beings_in_the_slave-raising_States_and_taking_them_to_the_far_South-94
+COREF	T186	the_slave-raising_States-95
+COREF	T320	human_beings-96
+COREF	T285	human_beings-96
+COREF	T187	the_far_South-97
+COREF	T189	Men-98
+COREF	T107	women-99
+COREF	T321	Men_and_women-100
+COREF	T286	Men_and_women-100
+COREF	T287	Men_and_women-100
+COREF	T190	Henry_Linwood-63
+COREF	T108	any_other_of_the_bystanders-101
+COREF	T109	the_bystanders-102
+COREF	T110	Henry_Linwood-63
+COREF	T288	Henry_Linwood-63
+COREF	T289	Henry_Linwood-63
+COREF	T290	Henry_Linwood-63
+COREF	T111	a_bidder_for_the_beautiful_slave-103
+COREF	T112	Isabella-44
+COREF	T113	graves_slaves-82
+COREF	T114	John_Graves___Esq_-37
+COREF	T115	John_Graves___Esq_-37
+COREF	T291	John_Graves___Esq_-37
+COREF	T292	graves_slaves-82
+COREF	T116	companions-105
+COREF	T117	the_slave-106
+COREF	T118	a_good_master-107
+COREF	T293	the_slave-106
+COREF	T119	The_less_valuable_slaves-108
+COREF	T120	the_highest_bidder-109
+COREF	T191	Husbands-110
+COREF	T121	wives-111
+COREF	T192	Brothers-112
+COREF	T123	sisters-113
+COREF	T124	mothers-114
+COREF	T126	their_children-115
+COREF	T294	mothers-114
+COREF	T122	earth-116
+COREF	T127	persons-117
+COREF	T129	Agnes-36
+COREF	T128	two_daughters-42
+COREF	T295	Agnes-36
+COREF	T130	Agnes-36
+COREF	T132	a_noted_negro_trader_named_Jennings-118
+COREF	T133	negro-119
+COREF	T131	a_noted_negro_trader_named_Jennings-118
+COREF	T125	Marion-45
+COREF	T296	Marion-45
+COREF	T134	Isabella-44
+COREF	T297	Isabella-44
+COREF	T135	auctioneer_addresees__you_-120
+COREF	T136	Isabella-44
+COREF	T298	Isabella-44
+COREF	T299	Isabella-44
+COREF	T300	Isabella-44
+COREF	T301	Isabella-44
+COREF	T302	Isabella-44
+COREF	T303	Isabella-44
+COREF	T304	Isabella-44
+COREF	T193	auctioneer_addresees__you_-120
+COREF	T139	Isabella-44
+COREF	T194	the_drawing-room_of_the_finest_mansion_in_Virginia-121
+COREF	T138	the_finest_mansion_in_Virginia-122
+COREF	T137	Virginia-34
+COREF	T195	gentlemen-123
+COREF	T140	Isabella-44
+COREF	T196	Isabella-44
+COREF	T203	any_one-124
+COREF	T305	Isabella-44
+COREF	T306	you-125
+COREF	T141	such_a_girl_as_this-126
+COREF	T197	you-125
+COREF	T307	Isabella-44
+COREF	T308	you-125
+COREF	T309	you-125
+COREF	T198	you-125
+COREF	T310	auctioneer_addresees__you_-120
+COREF	T311	auctioneer_addresees__you_-120
+COREF	T312	Isabella-44
+COREF	T199	you-125
+COREF	T313	Isabella-44
+COREF	T314	Isabella-44
+COP	T4	T2
+COP	T146	T6
+COP	T13	T316
+COP	T317	T149
+APPOS	T159	T158
+COP	T24	T220
+COP	T161	T29
+COP	T162	T29
+COP	T30	T163
+APPOS	T34	T319
+COP	T38	T39
+APPOS	T169	T58
+APPOS	T61	T170
+COP	T174	T172
+COP	T181	T91
+COP	T182	T271
+COP	T102	T280
+COP	T103	T282
+COP	T142	T314
+COREF	T89	her_purchaser-700
+MENTION	T19	38	16	38	18	some of them	PER	NOM
+COREF	T19	some_of_them-700

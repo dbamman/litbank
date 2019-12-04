@@ -1,0 +1,709 @@
+T1	NOM_PER 10 19	My father
+T3	NOM_PER 318 363	Mrs. Joe Gargery , who married the blacksmith
+T6	NOM_PER 238 247	my father
+T7	NOM_PER 349 363	the blacksmith
+T10	NOM_PER 397 403	mother
+T11	NOM_PER 381 390	my father
+T12	NOM_PER 638 647	my father
+T13	NOM_PER 861 870	my mother
+T14	PROP_PER 795 804	Georgiana
+T17	NOM_PER 1904 1936	infant children of the aforesaid
+T18	NOM_FAC 1668 1707	this bleak place overgrown with nettles
+T19	PROP_PER 1785 1794	Georgiana
+T20	NOM_FAC 2008 2022	the churchyard
+T24	NOM_FAC 2445 2473	the side of the church porch
+T25	NOM_PER 2403 2408	a man
+T26	NOM_PER 2491 2507	you little devil
+T28	NOM_PER 3081 3088	the man
+T29	NOM_PER 3140 3147	the man
+T30	NOM_PER 3242 3249	the man
+T31	NOM_FAC 3263 3272	the place
+T32	NOM_PER 3405 3412	The man
+T33	NOM_PER 3851 3858	the man
+T34	NOM_PER 4349 4356	the man
+T35	NOM_PER 4370 4381	your mother
+T49	NOM_PER 6455 6474	such a person as me
+T51	NOM_PER 6741 6764	a young man hid with me
+T54	NOM_PER 6817 6831	That young man
+T55	NOM_PER 6927 6932	a boy
+T56	NOM_PER 6858 6872	That young man
+T58	NOM_PER 6991 6996	a boy
+T59	NOM_PER 7029 7043	that young man
+T60	NOM_PER 7046 7051	A boy
+T63	NOM_PER 7401 7415	that young man
+T64	PROP_PER 7627 7631	Lord
+T65	NOM_PER 7671 7678	the man
+T66	NOM_PER 7795 7809	that young man
+T68	NOM_FAC 8619 8623	home
+T2	NOM_PER 303 312	my sister
+T4	NOM_LOC 1382 1399	the marsh country
+T5	NOM_LOC 1410 1419	the river
+T8	NOM_LOC 1434 1443	the river
+T9	NOM_LOC 1468 1475	the sea
+T16	NOM_FAC 1712 1726	the churchyard
+T22	PROP_PER 1738 1751	Philip Pirrip
+T21	NOM_LOC 1976 2022	the dark flat wilderness beyond the churchyard
+T23	NOM_LOC 2113 2124	the marshes
+T69	NOM_LOC 2167 2176	the river
+T70	NOM_LOC 2188 2243	the distant savage lair from which the wind was rushing
+T71	NOM_LOC 2248 2255	the sea
+T72	NOM_PER 2267 2340	the small bundle of shivers growing afraid of it all and beginning to cry
+T73	PROP_PER 2347 2350	Pip
+T74	NOM_FAC 2457 2473	the church porch
+T27	NOM_PER 2607 2690	A man with no hat , and with broken shoes , and with an old rag tied round his head
+T75	NOM_PER 2693 2836	A man who had been soaked in water , and smothered in mud , and lamed by stones , and cut by flints , and stung by nettles , and torn by briars
+T76	NOM_GPE 3296 3307	our village
+T77	NOM_LOC 3317 3334	the flat in-shore
+T78	NOM_FAC 3392 3402	the church
+T79	NOM_FAC 3553 3563	the church
+T80	NOM_FAC 3709 3719	the church
+T81	NOM_PER 4051 4058	the man
+T82	PROP_PER 4535 4544	Georgiana
+T36	NOM_PER 4555 4564	my mother
+T37	NOM_PER 4636 4647	your mother
+T38	NOM_PER 4616 4627	your father
+T15	NOM_PER 685 736	a square , stout , dark man , with curly black hair
+T39	NOM_PER 813 822	the Above
+T41	NOM_PER 805 822	Wife of the Above
+T83	NOM_PER 1053 1081	five little brothers of mine
+T84	NOM_PER 1803 1812	the above
+T85	NOM_PER 1795 1812	wife of the above
+T86	PROP_PER 1847 1856	Alexander
+T87	PROP_PER 1859 1870	Bartholomew
+T88	PROP_PER 1873 1880	Abraham
+T89	PROP_PER 1883 1889	Tobias
+T90	PROP_PER 1896 1901	Roger
+T91	NOM_PER 1923 1936	the aforesaid
+T92	NOM_LOC 2136 2162	the low leaden line beyond
+T93	NOM_PER 2539 2604	A fearful man , all in coarse gray , with a great iron on his leg
+T94	NOM_PER 3832 3841	young dog
+T40	NOM_PER 4864 4873	My sister
+T42	PROP_PER 4885 4901	Mrs. Joe Gargery
+T43	NOM_PER 4907 4943	wife of Joe Gargery , the blacksmith
+T44	PROP_PER 4915 4926	Joe Gargery
+T45	NOM_PER 4929 4943	the blacksmith
+T95	NOM_PER 4946 4949	sir
+T96	NOM_PER 4956 4966	Blacksmith
+T46	NOM_FAC 6061 6071	the church
+T47	NOM_FAC 6328 6356	that old Battery over yonder
+T48	NOM_PER 6480 6498	any person sumever
+T50	NOM_PER 6786 6801	which young man
+T52	NOM_PER 6807 6814	a Angel
+T53	NOM_PER 7197 7211	that young man
+T57	NOM_PER 7290 7304	that young man
+T61	PROP_FAC 7584 7595	the Battery
+T62	NOM_FAC 7824 7828	home
+T97	NOM_FAC 8136 8142	church
+T98	NOM_FAC 8456 8462	church
+T67	NOM_PER 8492 8530	a man whose legs were numbed and stiff
+T99	NOM_LOC 8738 8747	the river
+T100	NOM_LOC 8862 8873	the marshes
+T101	NOM_LOC 7926 7943	the cold wet flat
+T102	PROP_PER 41 47	Pirrip
+T103	PROP_PER 72 78	Philip
+T104	PROP_PER 160 163	Pip
+T105	PROP_PER 187 190	Pip
+T106	PROP_PER 215 218	Pip
+T107	PROP_PER 228 234	Pirrip
+T110	PROP_PER 3105 3108	Pip
+T111	NOM_PER 3111 3114	sir
+T112	NOM_PER 3200 3203	sir
+T113	PROP_PER 3188 3191	Pip
+T114	PROP_PER 3194 3197	Pip
+T116	NOM_PER 2992 2995	sir
+T117	NOM_PER 4396 4399	sir
+T118	NOM_PER 4498 4501	sir
+T119	NOM_PER 4660 4663	sir
+T120	NOM_PER 5402 5405	sir
+T121	NOM_PER 5453 5456	sir
+T122	NOM_PER 4876 4879	sir
+T123	NOM_PER 5936 5939	sir
+T124	NOM_PER 7852 7855	sir
+T115	NOM_PER 3044 3047	sir
+T125	NOM_FAC 1762 1773	this parish
+T126	NOM_FAC 4697 4708	this parish
+T128	PRON_PER 10 12	My
+T129	PRON_PER 54 56	my
+T130	PRON_PER 81 83	my
+T131	PRON_PER 171 172	I
+T132	PRON_PER 180 186	myself
+T133	PRON_PER 221 222	I
+T134	PRON_PER 238 240	my
+T135	PRON_PER 285 288	his
+T136	PRON_PER 303 305	my
+T137	PRON_PER 369 370	I
+T138	PRON_PER 381 383	my
+T139	PRON_PER 394 396	my
+T140	PRON_PER 446 450	them
+T141	PRON_PER 457 462	their
+T142	PRON_PER 513 515	my
+T143	PRON_PER 545 549	they
+T144	PRON_PER 591 596	their
+T145	PRON_PER 638 640	my
+T146	PRON_PER 658 660	me
+T147	PRON_PER 678 680	he
+T148	PRON_PER 827 828	I
+T149	PRON_PER 861 863	my
+T150	PRON_PER 1006 1011	their
+T151	PRON_PER 1174 1175	I
+T152	PRON_PER 1201 1202	I
+T153	PRON_PER 1232 1236	they
+T154	PRON_PER 1258 1263	their
+T155	PRON_PER 1275 1280	their
+T156	PRON_PER 1290 1295	their
+T157	PRON_PER 1335 1339	them
+T158	PRON_PER 1478 1480	My
+T159	PRON_PER 1554 1556	me
+T160	PRON_PER 1639 1640	I
+T161	PRON_PER 2360 2364	your
+T162	PRON_PER 2491 2494	you
+T163	PRON_PER 2513 2514	I
+T164	PRON_PER 2523 2527	your
+T165	PRON_PER 2597 2600	his
+T166	PRON_PER 2682 2685	his
+T167	PRON_PER 2923 2926	his
+T168	PRON_PER 2935 2937	he
+T169	PRON_PER 2945 2947	me
+T170	PRON_PER 2980 2982	my
+T171	PRON_PER 3000 3001	I
+T172	PRON_PER 3059 3061	us
+T173	PRON_PER 3062 3066	your
+T174	PRON_PER 3161 3163	me
+T175	PRON_PER 3215 3217	us
+T176	PRON_PER 3224 3227	you
+T177	PRON_PER 3277 3278	I
+T178	PRON_PER 3296 3299	our
+T179	PRON_PER 3432 3434	me
+T180	PRON_PER 3457 3459	me
+T181	PRON_PER 3486 3488	my
+T183	PRON_PER 3588 3590	he
+T184	PRON_PER 3621 3623	he
+T185	PRON_PER 3658 3660	me
+T186	PRON_PER 3667 3668	I
+T187	PRON_PER 3691 3693	my
+T188	PRON_PER 3737 3738	I
+T189	PRON_PER 3745 3746	I
+T190	PRON_PER 3796 3798	he
+T191	PRON_PER 3828 3831	You
+T192	PRON_PER 3869 3872	his
+T193	PRON_PER 3898 3901	you
+T194	PRON_PER 3915 3916	I
+T196	PRON_PER 3948 3949	I
+T197	PRON_PER 3982 3984	my
+T198	PRON_PER 4017 4019	me
+T199	PRON_PER 4023 4024	I
+T200	PRON_PER 4089 4092	his
+T201	PRON_PER 4109 4110	I
+T202	PRON_PER 4141 4142	I
+T203	PRON_PER 4163 4165	my
+T204	PRON_PER 4176 4178	he
+T205	PRON_PER 4234 4236	he
+T206	PRON_PER 4245 4247	me
+T207	PRON_PER 4267 4273	myself
+T208	PRON_PER 4301 4307	myself
+T209	PRON_PER 4370 4374	your
+T210	PRON_PER 4409 4410	I
+T211	PRON_PER 4413 4415	He
+T212	PRON_PER 4473 4476	his
+T213	PRON_PER 4506 4507	I
+T214	PRON_PER 4555 4557	my
+T215	PRON_PER 4583 4585	he
+T216	PRON_PER 4616 4620	your
+T217	PRON_PER 4636 4640	your
+T218	PRON_PER 4673 4674	I
+T219	PRON_PER 4679 4682	him
+T220	PRON_PER 4722 4724	he
+T221	PRON_PER 4792 4795	you
+T222	PRON_PER 4827 4828	I
+T223	PRON_PER 4844 4846	my
+T224	PRON_PER 4864 4866	My
+T225	PRON_PER 4981 4983	he
+T226	PRON_PER 5005 5008	his
+T227	PRON_PER 5039 5042	his
+T228	PRON_PER 5051 5053	me
+T229	PRON_PER 5070 5072	he
+T230	PRON_PER 5088 5090	my
+T231	PRON_PER 5108 5110	me
+T232	PRON_PER 5137 5139	me
+T233	PRON_PER 5155 5157	he
+T234	PRON_PER 5169 5171	me
+T235	PRON_PER 5182 5185	his
+T236	PRON_PER 5271 5274	his
+T237	PRON_PER 5299 5301	he
+T238	PRON_PER 5338 5341	you
+T239	PRON_PER 5366 5369	You
+T240	PRON_PER 5416 5419	you
+T241	PRON_PER 5481 5483	he
+T242	PRON_PER 5491 5493	me
+T243	PRON_PER 5529 5531	me
+T244	PRON_PER 5579 5582	You
+T245	PRON_PER 5587 5589	me
+T246	PRON_PER 5601 5603	He
+T247	PRON_PER 5611 5613	me
+T248	PRON_PER 5628 5631	you
+T249	PRON_PER 5636 5638	me
+T250	PRON_PER 5651 5653	He
+T251	PRON_PER 5661 5663	me
+T252	PRON_PER 5674 5677	You
+T253	PRON_PER 5696 5698	me
+T254	PRON_PER 5703 5705	He
+T255	PRON_PER 5713 5715	me
+T256	PRON_PER 5729 5730	I
+T257	PRON_PER 5740 5744	your
+T258	PRON_PER 5769 5771	He
+T259	PRON_PER 5779 5781	me
+T260	PRON_PER 5790 5791	I
+T261	PRON_PER 5838 5839	I
+T262	PRON_PER 5849 5852	him
+T263	PRON_PER 5887 5890	you
+T264	PRON_PER 5918 5920	me
+T265	PRON_PER 5950 5951	I
+T266	PRON_PER 5985 5986	I
+T267	PRON_PER 6009 6011	He
+T268	PRON_PER 6017 6019	me
+T269	PRON_PER 6113 6115	he
+T270	PRON_PER 6121 6123	me
+T271	PRON_PER 6229 6232	You
+T272	PRON_PER 6239 6241	me
+T274	PRON_PER 6299 6302	You
+T275	PRON_PER 6320 6322	me
+T276	PRON_PER 6359 6362	You
+T277	PRON_PER 6375 6378	you
+T278	PRON_PER 6438 6442	your
+T279	PRON_PER 6472 6474	me
+T280	PRON_PER 6505 6508	you
+T281	PRON_PER 6532 6535	You
+T282	PRON_PER 6546 6549	you
+T283	PRON_PER 6558 6560	my
+T284	PRON_PER 6619 6623	your
+T285	PRON_PER 6634 6638	your
+T286	PRON_PER 6691 6692	I
+T287	PRON_PER 6711 6714	you
+T288	PRON_PER 6725 6726	I
+T289	PRON_PER 6762 6764	me
+T290	PRON_PER 6802 6803	I
+T291	PRON_PER 6848 6849	I
+T292	PRON_PER 6903 6910	himself
+T293	PRON_PER 6942 6945	his
+T294	PRON_PER 6961 6964	his
+T295	PRON_PER 7016 7023	himself
+T296	PRON_PER 7061 7064	his
+T297	PRON_PER 7102 7109	himself
+T298	PRON_PER 7141 7144	his
+T299	PRON_PER 7162 7169	himself
+T300	PRON_PER 7240 7243	his
+T301	PRON_PER 7251 7254	him
+T302	PRON_PER 7264 7267	him
+T303	PRON_PER 7275 7276	I
+T304	PRON_PER 7321 7324	you
+T305	PRON_PER 7373 7374	I
+T306	PRON_PER 7423 7427	your
+T307	PRON_PER 7451 7454	you
+T308	PRON_PER 7463 7464	I
+T309	PRON_PER 7475 7476	I
+T310	PRON_PER 7487 7490	him
+T311	PRON_PER 7506 7507	I
+T312	PRON_PER 7518 7521	him
+T313	PRON_PER 7547 7548	I
+T314	PRON_PER 7561 7562	I
+T315	PRON_PER 7577 7580	him
+T316	PRON_PER 7639 7642	you
+T317	PRON_PER 7651 7654	you
+T318	PRON_PER 7681 7682	I
+T319	PRON_PER 7697 7699	he
+T320	PRON_PER 7705 7707	me
+T321	PRON_PER 7725 7727	he
+T322	PRON_PER 7740 7743	you
+T323	PRON_PER 7758 7761	you
+T324	PRON_PER 7782 7785	you
+T325	PRON_PER 7816 7819	you
+T326	PRON_PER 7860 7861	I
+T327	PRON_PER 7897 7899	he
+T328	PRON_PER 7917 7920	him
+T329	PRON_PER 7948 7949	I
+T330	PRON_PER 7955 7956	I
+T331	PRON_PER 8002 8004	he
+T332	PRON_PER 8012 8015	his
+T333	PRON_PER 8040 8043	his
+T334	PRON_PER 8063 8070	himself
+T335	PRON_PER 8087 8094	himself
+T336	PRON_PER 8153 8154	I
+T337	PRON_PER 8159 8162	him
+T338	PRON_PER 8176 8179	his
+T339	PRON_PER 8257 8259	he
+T340	PRON_PER 8270 8272	my
+T341	PRON_PER 8290 8292	he
+T342	PRON_PER 8369 8374	their
+T343	PRON_PER 8404 8407	his
+T344	PRON_PER 8423 8426	him
+T345	PRON_PER 8437 8439	he
+T346	PRON_PER 8470 8472	he
+T347	PRON_PER 8567 8569	me
+T348	PRON_PER 8577 8578	I
+T349	PRON_PER 8583 8586	him
+T350	PRON_PER 8597 8598	I
+T351	PRON_PER 8603 8605	my
+T352	PRON_PER 8651 8653	my
+T353	PRON_PER 8675 8676	I
+T354	PRON_PER 8689 8691	my
+T355	PRON_PER 8711 8714	him
+T356	PRON_PER 8764 8771	himself
+T357	PRON_PER 8799 8802	his
+T358	PRON_PER 8812 8815	his
+T363	My_father-0 10 19	My father
+T490	Pip-1 10 12	My
+T464	Pirrip_Family-2 41 47	Pirrip
+T491	Pip-1 54 56	my
+T465	Pip-1 72 78	Philip
+T492	Pip-1 81 83	my
+T466	Pip-1 160 163	Pip
+T493	Pip-1 171 172	I
+T494	Pip-1 180 186	myself
+T467	Pip-1 187 190	Pip
+T468	Pip-1 215 218	Pip
+T495	Pip-1 221 222	I
+T469	Pirrip_Family-2 228 234	Pirrip
+T368	My_father-0 238 247	my father
+T496	Pip-1 238 240	my
+T497	My_father-0 285 288	his
+T364	my_sister-3 303 312	my sister
+T498	Pip-1 303 305	my
+T369	the_blacksmith-4 349 363	the blacksmith
+T499	Pip-1 369 370	I
+T373	My_father-0 381 390	my father
+T500	Pip-1 381 383	my
+T501	Pip-1 394 396	my
+T372	Pip_s_mother-5 397 403	mother
+T502	Pip_s_parents-6 446 450	them
+T503	Pip_s_parents-6 457 462	their
+T504	Pip-1 513 515	my
+T505	Pip_s_parents-6 545 549	they
+T506	Pip_s_parents-6 591 596	their
+T374	My_father-0 638 647	my father
+T507	Pip-1 638 640	my
+T508	Pip-1 658 660	me
+T509	My_father-0 678 680	he
+T376	Pip_s_mother-5 795 804	Georgiana
+T403	Pip_s_mother-5 805 822	Wife of the Above
+T401	My_father-0 813 822	the Above
+T510	Pip-1 827 828	I
+T375	Pip_s_mother-5 861 870	my mother
+T511	Pip-1 861 863	my
+T512	Pip_s_parents-6 1006 1011	their
+T445	five_little_brothers_of_mine-7 1053 1081	five little brothers of mine
+T513	Pip-1 1174 1175	I
+T514	Pip-1 1201 1202	I
+T515	five_little_brothers_of_mine-7 1232 1236	they
+T516	five_little_brothers_of_mine-7 1258 1263	their
+T517	five_little_brothers_of_mine-7 1275 1280	their
+T518	five_little_brothers_of_mine-7 1290 1295	their
+T519	five_little_brothers_of_mine-7 1335 1339	them
+T366	the_marsh_country-8 1382 1399	the marsh country
+T367	the_river-9 1410 1419	the river
+T370	the_river-9 1434 1443	the river
+T371	the_sea-10 1468 1475	the sea
+T520	Pip-1 1478 1480	My
+T521	Pip-1 1554 1556	me
+T522	Pip-1 1639 1640	I
+T380	churchyard-11 1668 1707	this bleak place overgrown with nettles
+T378	churchyard-11 1712 1726	the churchyard
+T384	My_father-0 1738 1751	Philip Pirrip
+T487	this_parish-12 1762 1773	this parish
+T381	Pip_s_mother-5 1785 1794	Georgiana
+T447	Pip_s_mother-5 1795 1812	wife of the above
+T446	My_father-0 1803 1812	the above
+T448	Alexander-13 1847 1856	Alexander
+T449	Bartholomew-14 1859 1870	Bartholomew
+T450	Abraham-15 1873 1880	Abraham
+T451	Tobias-16 1883 1889	Tobias
+T452	Roger-17 1896 1901	Roger
+T379	five_little_brothers_of_mine-7 1904 1936	infant children of the aforesaid
+T453	Pip_s_parents-6 1923 1936	the aforesaid
+T382	churchyard-11 2008 2022	the churchyard
+T383	the_marsh-21 1976 2022	the dark flat wilderness beyond the churchyard
+T454	the_river-9 2136 2162	the low leaden line beyond
+T431	the_river-9 2167 2176	the river
+T432	the_sea-10 2188 2243	the distant savage lair from which the wind was rushing
+T433	the_sea-10 2248 2255	the sea
+T434	Pip-1 2267 2340	the small bundle of shivers growing afraid of it all and beginning to cry
+T435	Pip-1 2347 2350	Pip
+T523	Pip-1 2360 2364	your
+T387	convict-23 2403 2408	a man
+T386	the_side_of_the_church_porch-24 2445 2473	the side of the church porch
+T436	the_church_porch-25 2457 2473	the church porch
+T388	Pip-1 2491 2507	you little devil
+T524	Pip-1 2491 2494	you
+T525	convict-23 2513 2514	I
+T526	Pip-1 2523 2527	your
+T455	convict-23 2539 2604	A fearful man , all in coarse gray , with a great iron on his leg
+T527	convict-23 2597 2600	his
+T389	convict-23 2607 2690	A man with no hat , and with broken shoes , and with an old rag tied round his head
+T528	convict-23 2682 2685	his
+T437	convict-23 2693 2836	A man who had been soaked in water , and smothered in mud , and lamed by stones , and cut by flints , and stung by nettles , and torn by briars
+T529	convict-23 2923 2926	his
+T530	convict-23 2935 2937	he
+T531	Pip-1 2945 2947	me
+T532	Pip-1 2980 2982	my
+T478	convict-23 2992 2995	sir
+T533	Pip-1 3000 3001	I
+T477	convict-23 3044 3047	sir
+T534	convict-23 3059 3061	us
+T535	Pip-1 3062 3066	your
+T390	convict-23 3081 3088	the man
+T472	Pip-1 3105 3108	Pip
+T473	convict-23 3111 3114	sir
+T391	convict-23 3140 3147	the man
+T536	Pip-1 3161 3163	me
+T475	Pip-1 3188 3191	Pip
+T476	Pip-1 3194 3197	Pip
+T474	convict-23 3200 3203	sir
+T537	convict-23 3215 3217	us
+T538	Pip-1 3224 3227	you
+T392	convict-23 3242 3249	the man
+T393	Pip_s_Home-26 3263 3272	the place
+T539	Pip-1 3277 3278	I
+T438	our_village-27 3296 3307	our village
+T540	Pip_s_family-28 3296 3299	our
+T439	the_flat_in-shore-29 3317 3334	the flat in-shore
+T440	the_church-30 3392 3402	the church
+T394	convict-23 3405 3412	The man
+T541	Pip-1 3432 3434	me
+T542	Pip-1 3457 3459	me
+T543	Pip-1 3486 3488	my
+T441	the_church-30 3553 3563	the church
+T545	convict-23 3588 3590	he
+T546	convict-23 3621 3623	he
+T547	Pip-1 3658 3660	me
+T548	Pip-1 3667 3668	I
+T549	Pip-1 3691 3693	my
+T442	the_church-30 3709 3719	the church
+T550	Pip-1 3737 3738	I
+T551	Pip-1 3745 3746	I
+T552	convict-23 3796 3798	he
+T553	Pip-1 3828 3831	You
+T456	Pip-1 3832 3841	young dog
+T395	convict-23 3851 3858	the man
+T554	convict-23 3869 3872	his
+T555	Pip-1 3898 3901	you
+T556	Pip-1 3915 3916	I
+T558	Pip-1 3948 3949	I
+T559	Pip-1 3982 3984	my
+T560	convict-23 4017 4019	me
+T561	convict-23 4023 4024	I
+T443	convict-23 4051 4058	the man
+T562	convict-23 4089 4092	his
+T563	convict-23 4109 4110	I
+T564	Pip-1 4141 4142	I
+T565	Pip-1 4163 4165	my
+T566	Pip-1 4176 4178	he
+T567	convict-23 4234 4236	he
+T568	Pip-1 4245 4247	me
+T569	Pip-1 4267 4273	myself
+T570	Pip-1 4301 4307	myself
+T396	convict-23 4349 4356	the man
+T397	Pip_s_mother-5 4370 4381	your mother
+T571	Pip-1 4370 4374	your
+T479	convict-23 4396 4399	sir
+T572	Pip-1 4409 4410	I
+T573	convict-23 4413 4415	He
+T574	convict-23 4473 4476	his
+T480	convict-23 4498 4501	sir
+T575	Pip-1 4506 4507	I
+T444	Pip_s_mother-5 4535 4544	Georgiana
+T398	Pip_s_mother-5 4555 4564	my mother
+T576	Pip-1 4555 4557	my
+T577	convict-23 4583 4585	he
+T400	My_father-0 4616 4627	your father
+T578	Pip-1 4616 4620	your
+T399	Pip_s_mother-5 4636 4647	your mother
+T579	Pip-1 4636 4640	your
+T481	convict-23 4660 4663	sir
+T580	Pip-1 4673 4674	I
+T581	convict-23 4679 4682	him
+T488	this_parish-12 4697 4708	this parish
+T582	convict-23 4722 4724	he
+T583	Pip-1 4792 4795	you
+T584	Pip-1 4827 4828	I
+T585	convict-23 4844 4846	my
+T402	my_sister-3 4864 4873	My sister
+T586	Pip-1 4864 4866	My
+T484	convict-23 4876 4879	sir
+T406	the_blacksmith-4 4915 4926	Joe Gargery
+T407	the_blacksmith-4 4929 4943	the blacksmith
+T457	convict-23 4946 4949	sir
+T458	the_blacksmith-4 4956 4966	Blacksmith
+T587	convict-23 4981 4983	he
+T588	convict-23 5005 5008	his
+T589	convict-23 5039 5042	his
+T590	Pip-1 5051 5053	me
+T591	convict-23 5070 5072	he
+T592	Pip-1 5088 5090	my
+T593	Pip-1 5108 5110	me
+T594	Pip-1 5137 5139	me
+T595	convict-23 5155 5157	he
+T596	Pip-1 5169 5171	me
+T597	convict-23 5182 5185	his
+T598	convict-23 5271 5274	his
+T599	convict-23 5299 5301	he
+T600	Pip-1 5338 5341	you
+T601	Pip-1 5366 5369	You
+T482	convict-23 5402 5405	sir
+T602	Pip-1 5416 5419	you
+T483	convict-23 5453 5456	sir
+T603	convict-23 5481 5483	he
+T604	Pip-1 5491 5493	me
+T605	convict-23 5529 5531	me
+T606	Pip-1 5579 5582	You
+T607	convict-23 5587 5589	me
+T608	convict-23 5601 5603	He
+T609	Pip-1 5611 5613	me
+T610	Pip-1 5628 5631	you
+T611	convict-23 5636 5638	me
+T612	convict-23 5651 5653	He
+T613	Pip-1 5661 5663	me
+T614	Pip-1 5674 5677	You
+T615	convict-23 5696 5698	me
+T616	convict-23 5703 5705	He
+T617	Pip-1 5713 5715	me
+T618	convict-23 5729 5730	I
+T619	Pip-1 5740 5744	your
+T620	convict-23 5769 5771	He
+T621	Pip-1 5779 5781	me
+T622	Pip-1 5790 5791	I
+T623	Pip-1 5838 5839	I
+T624	convict-23 5849 5852	him
+T625	convict-23 5887 5890	you
+T626	Pip-1 5918 5920	me
+T485	convict-23 5936 5939	sir
+T627	Pip-1 5950 5951	I
+T628	Pip-1 5985 5986	I
+T629	convict-23 6009 6011	He
+T630	convict-23 6017 6019	me
+T408	the_church-30 6061 6071	the church
+T631	convict-23 6113 6115	he
+T632	Pip-1 6121 6123	me
+T633	Pip-1 6229 6232	You
+T634	convict-23 6239 6241	me
+T636	Pip-1 6299 6302	You
+T637	convict-23 6320 6322	me
+T409	that_old_Battery_over_yonder-31 6328 6356	that old Battery over yonder
+T638	Pip-1 6359 6362	You
+T639	Pip-1 6375 6378	you
+T640	Pip-1 6438 6442	your
+T641	convict-23 6472 6474	me
+T410	any_person_sumever-32 6480 6498	any person sumever
+T411	such_a_person_as_me-33 6455 6474	such a person as me
+T642	Pip-1 6505 6508	you
+T643	Pip-1 6532 6535	You
+T644	Pip-1 6546 6549	you
+T645	convict-23 6558 6560	my
+T646	Pip-1 6619 6623	your
+T647	Pip-1 6634 6638	your
+T648	convict-23 6691 6692	I
+T649	Pip-1 6711 6714	you
+T650	Pip-1 6725 6726	I
+T413	a_young_man_hid_with_me-34 6741 6764	a young man hid with me
+T651	convict-23 6762 6764	me
+T412	a_young_man_hid_with_me-34 6786 6801	which young man
+T652	convict-23 6802 6803	I
+T416	a_young_man_hid_with_me-34 6817 6831	That young man
+T653	convict-23 6848 6849	I
+T418	a_young_man_hid_with_me-34 6858 6872	That young man
+T654	a_young_man_hid_with_me-34 6903 6910	himself
+T417	a_boy-35 6927 6932	a boy
+T655	a_boy-35 6942 6945	his
+T656	a_boy-35 6961 6964	his
+T420	a_boy-36 6991 6996	a boy
+T657	a_boy-36 7016 7023	himself
+T421	a_young_man_hid_with_me-34 7029 7043	that young man
+T422	A_boy-37 7046 7051	A boy
+T658	A_boy-37 7061 7064	his
+T659	A_boy-37 7102 7109	himself
+T660	A_boy-37 7141 7144	his
+T661	A_boy-37 7162 7169	himself
+T415	a_young_man_hid_with_me-34 7197 7211	that young man
+T662	a_young_man_hid_with_me-34 7240 7243	his
+T663	A_boy-37 7251 7254	him
+T664	A_boy-37 7264 7267	him
+T665	convict-23 7275 7276	I
+T419	a_young_man_hid_with_me-34 7290 7304	that young man
+T666	Pip-1 7321 7324	you
+T667	convict-23 7373 7374	I
+T425	a_young_man_hid_with_me-34 7401 7415	that young man
+T668	Pip-1 7423 7427	your
+T669	Pip-1 7451 7454	you
+T670	Pip-1 7463 7464	I
+T671	Pip-1 7475 7476	I
+T672	convict-23 7487 7490	him
+T673	Pip-1 7506 7507	I
+T674	convict-23 7518 7521	him
+T675	Pip-1 7547 7548	I
+T676	Pip-1 7561 7562	I
+T677	convict-23 7577 7580	him
+T423	that_old_Battery_over_yonder-31 7584 7595	the Battery
+T426	Lord-38 7627 7631	Lord
+T678	Pip-1 7639 7642	you
+T679	Pip-1 7651 7654	you
+T427	convict-23 7671 7678	the man
+T680	Pip-1 7681 7682	I
+T681	convict-23 7697 7699	he
+T682	Pip-1 7705 7707	me
+T683	convict-23 7725 7727	he
+T684	Pip-1 7740 7743	you
+T685	Pip-1 7758 7761	you
+T686	Pip-1 7782 7785	you
+T428	a_young_man_hid_with_me-34 7795 7809	that young man
+T687	Pip-1 7816 7819	you
+T424	Pip_s_Home-26 7824 7828	home
+T486	convict-23 7852 7855	sir
+T688	Pip-1 7860 7861	I
+T689	convict-23 7897 7899	he
+T690	convict-23 7917 7920	him
+T463	cold-wet-803 7926 7943	the cold wet flat
+T691	convict-23 7948 7949	I
+T692	convict-23 7955 7956	I
+T693	convict-23 8002 8004	he
+T694	convict-23 8012 8015	his
+T695	convict-23 8040 8043	his
+T696	convict-23 8063 8070	himself
+T697	convict-23 8087 8094	himself
+T459	the_church-30 8136 8142	church
+T698	Pip-1 8153 8154	I
+T699	convict-23 8159 8162	him
+T700	convict-23 8176 8179	his
+T701	convict-23 8257 8259	he
+T702	Pip-1 8270 8272	my
+T703	convict-23 8290 8292	he
+T704	their-40 8369 8374	their
+T705	convict-23 8404 8407	his
+T706	convict-23 8423 8426	him
+T707	convict-23 8437 8439	he
+T460	the_church-30 8456 8462	church
+T708	convict-23 8470 8472	he
+T429	a_man_whose_legs_were_numbed_and_stiff-41 8492 8530	a man whose legs were numbed and stiff
+T709	Pip-1 8567 8569	me
+T710	Pip-1 8577 8578	I
+T711	convict-23 8583 8586	him
+T712	Pip-1 8597 8598	I
+T713	Pip-1 8603 8605	my
+T430	Pip_s_Home-26 8619 8623	home
+T714	Pip-1 8651 8653	my
+T715	Pip-1 8675 8676	I
+T716	Pip-1 8689 8691	my
+T717	convict-23 8711 8714	him
+T461	the_river-9 8738 8747	the river
+T718	convict-23 8764 8771	himself
+T719	convict-23 8799 8802	his
+T720	convict-23 8812 8815	his
+T723	the_marsh-21 2113 2124	the marshes
+T462	the_marsh-21 8862 8873	the marshes
+R1	appos Arg1:T3 Arg2:T2
+R2	cop Arg1:T15 Arg2:T147
+R3	cop Arg1:T23 Arg2:T21
+R4	appos Arg1:T42 Arg2:T40
+R5	appos Arg1:T43 Arg2:T40
+R6	cop Arg1:T52 Arg2:T290
+T724	PRON_LOC 2104 2106	it
+T725	the_marsh-21 2104 2106	it
+T736	PRON_FAC 6084 6087	its
+T737	the_church-30 6084 6087	its

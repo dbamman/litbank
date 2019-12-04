@@ -1,0 +1,452 @@
+T1	NOM_FAC 109 131	other public buildings
+T2	NOM_PER 790 799	the child
+T3	NOM_PER 718 736	the parish surgeon
+T5	PROP_PER 1535 1541	Oliver
+T6	NOM_PER 1952 1965	anxious aunts
+T8	NOM_PER 1929 1949	careful grandmothers
+T10	PROP_PER 1899 1905	Oliver
+T11	PROP_PER 2273 2279	Oliver
+T16	NOM_PER 2433 2461	the inmates of the workhouse
+T17	PROP_PER 2375 2381	Oliver
+T18	NOM_PER 3043 3052	the child
+T19	NOM_PER 2926 2939	a young woman
+T20	PROP_PER 2750 2756	Oliver
+T21	NOM_PER 3067 3078	The surgeon
+T23	NOM_PER 3200 3215	the young woman
+T25	NOM_PER 3426 3435	the nurse
+T27	NOM_PER 3659 3687	thirteen children of her own
+T31	new-801 3940 3948	a mother
+T32	NOM_PER 3999 4010	The patient
+T33	NOM_PER 4063 4072	the child
+T34	NOM_PER 4075 4086	The surgeon
+T38	NOM_PER 4640 4649	the child
+T39	NOM_PER 4710 4719	the child
+T40	NOM_PER 4743 4754	the surgeon
+T41	NOM_PER 5106 5118	the overseer
+T42	NOM_FAC 5153 5163	the street
+T43	NOM_PER 5304 5315	The surgeon
+T44	NOM_PER 5645 5655	the infant
+T45	NOM_PER 5463 5484	The medical gentleman
+T46	PROP_PER 5708 5726	young Oliver Twist
+T48	NOM_PER 5834 5844	a nobleman
+T49	NOM_PER 5850 5856	beggar
+T50	NOM_PER 5887 5910	the haughtiest stranger
+T52	NOM_PER 6127 6141	a parish child
+T53	NOM_PER 6174 6206	the humble , half-starved drudge
+T54	PROP_PER 6296 6302	Oliver
+T56	NOM_PER 6415 6424	overseers
+T57	PROP_PER 6571 6577	Oliver
+T58	NOM_PER 6711 6728	the infant orphan
+T60	NOM_FAC 6928 6937	the house
+T61	PROP_PER 6976 6988	Oliver Twist
+T63	PROP_PER 7200 7206	Oliver
+T64	NOM_PER 7568 7580	the culprits
+T65	NOM_PER 7332 7395	twenty or thirty other juvenile offenders against the poor-laws
+T66	NOM_PER 7724 7731	a child
+T67	NOM_PER 7937 7945	children
+T69	NOM_PER 8283 8320	a very great experimental philosopher
+T71	NOM_PER 8969 8978	the child
+T72	NOM_PER 9369 9407	the fathers it had never known in this
+T73	NOM_FAC 9734 9742	the farm
+T74	NOM_PER 9820 9836	the parishioners
+T75	NOM_PER 9999 10009	the beadle
+T76	NOM_PER 9964 9975	the surgeon
+T77	NOM_FAC 10273 10281	the farm
+T78	NOM_PER 10300 10310	the beadle
+T79	NOM_PER 10353 10365	The children
+T80	NOM_FAC 20 57	THE PLACE WHERE OLIVER TWIST WAS BORN
+T81	PROP_PER 36 48	OLIVER TWIST
+T82	NOM_GPE 135 149	a certain town
+T83	NOM_GPE 304 314	most towns
+T84	NOM_FAC 343 354	a workhouse
+T85	NOM_FAC 364 378	this workhouse
+T86	NOM_LOC 680 712	this world of sorrow and trouble
+T87	NOM_GPE 1152 1159	country
+T88	NOM_FAC 1224 1235	a workhouse
+T89	NOM_PER 1321 1334	a human being
+T4	PROP_PER 1415 1427	Oliver Twist
+T9	NOM_PER 1968 1986	experienced nurses
+T7	NOM_PER 1993 2019	doctors of profound wisdom
+T13	NOM_PER 2133 2214	pauper old woman , who was rendered rather misty by an unwonted allowance of beer
+T14	NOM_FAC 2448 2461	the workhouse
+T22	new-802 3852 3860	a mother
+T24	NOM_PER 4400 4409	strangers
+T26	PROP_PER 4440 4454	Mrs. Thingummy
+T28	NOM_PER 4464 4475	the surgeon
+T29	NOM_PER 4728 4733	nurse
+T30	NOM_PER 4983 5002	a good-looking girl
+T35	NOM_PER 5328 5336	the body
+T36	NOM_PER 5513 5522	the nurse
+T47	NOM_PER 6145 6170	the orphan of a workhouse
+T51	NOM_FAC 6159 6170	a workhouse
+T90	NOM_LOC 6244 6253	the world
+T91	NOM_PER 6269 6272	all
+T92	NOM_PER 6289 6293	none
+T55	NOM_PER 6354 6424	an orphan , left to the tender mercies of church-wardens and overseers
+T93	NOM_PER 6396 6410	church-wardens
+T94	PROP_PER 6489 6501	OLIVER TWIST
+T59	NOM_FAC 6750 6763	the workhouse
+T95	NOM_PER 6750 6775	the workhouse authorities
+T98	NOM_PER 6804 6826	The parish authorities
+T99	NOM_FAC 6804 6814	The parish
+T97	NOM_PER 6779 6801	the parish authorities
+T100	NOM_PER 6852 6877	the workhouse authorities
+T101	NOM_FAC 6852 6865	the workhouse
+T103	NOM_PER 7051 7076	The workhouse authorities
+T104	NOM_FAC 7051 7064	The workhouse
+T105	NOM_PER 7134 7156	the parish authorities
+T106	NOM_FAC 7134 7144	the parish
+T107	NOM_FAC 7284 7323	a branch-workhouse some three miles off
+T62	NOM_PER 7535 7552	an elderly female
+T68	NOM_PER 7852 7870	The elderly female
+T108	NOM_PER 7875 7907	a woman of wisdom and experience
+T109	NOM_PER 8110 8141	the rising parochial generation
+T110	NOM_PER 8352 8384	another experimental philosopher
+T111	NOM_PER 8803 8870	the female to whose protecting care Oliver Twist was delivered over
+T70	PROP_PER 8839 8851	Oliver Twist
+T112	NOM_PER 9278 9304	the miserable little being
+T113	NOM_FAC 9488 9496	a parish
+T114	NOM_PER 9488 9623	a parish child who had been overlooked in turning up a bedstead , or inadvertently scalded to death when there happened to be a washing
+T115	NOM_PER 9746 9754	the jury
+T116	NOM_PER 10049 10057	the body
+T117	NOM_FAC 10169 10179	the parish
+T118	NOM_PER 10232 10241	the board
+T119	NOM_PER 10439 10449	the people
+T121	NOM_FAC 6779 6789	the parish
+T122	NOM_FAC 718 728	the parish
+T123	NOM_FAC 2221 2229	a parish
+T124	NOM_FAC 2512 2522	the parish
+T125	NOM_FAC 6127 6135	a parish
+T96	NOM_PER 3645 3648	sir
+T127	NOM_LOC 1781 1791	this world
+T128	NOM_LOC 9331 9344	another world
+T129	NOM_PER 2105 2111	nobody
+T130	NOM_PER 5287 5293	nobody
+T131	NOM_PER 8323 8332	Everybody
+T133	PRON_PER 93 96	HIS
+T134	PRON_PER 236 237	I
+T135	PRON_PER 414 415	I
+T136	PRON_PER 433 439	myself
+T139	PRON_PER 1171 1172	I
+T140	PRON_PER 1337 1338	I
+T141	PRON_PER 1555 1562	himself
+T142	PRON_PER 1666 1669	our
+T143	PRON_PER 1705 1707	he
+T144	PRON_PER 2022 2024	he
+T146	PRON_PER 2812 2815	his
+T147	PRON_PER 3036 3038	me
+T148	PRON_PER 3101 3104	his
+T149	PRON_PER 3156 3159	his
+T150	PRON_PER 3224 3226	he
+T151	PRON_PER 3328 3331	him
+T152	PRON_PER 3341 3344	you
+T153	PRON_PER 3391 3394	her
+T154	PRON_PER 3460 3463	her
+T155	PRON_PER 3516 3519	she
+T156	PRON_PER 3589 3592	her
+T157	PRON_PER 3611 3614	she
+T158	PRON_PER 3636 3637	I
+T159	PRON_PER 3680 3683	her
+T160	PRON_PER 3727 3731	them
+T161	PRON_PER 3751 3753	me
+T162	PRON_PER 3756 3759	she
+T163	PRON_PER 3812 3815	her
+T164	PRON_PER 4017 4020	her
+T165	PRON_PER 4046 4049	her
+T166	PRON_PER 4103 4106	her
+T167	PRON_PER 4114 4117	She
+T168	PRON_PER 4128 4131	her
+T169	PRON_PER 4186 4189	her
+T170	PRON_PER 4201 4204	her
+T171	PRON_PER 4269 4273	They
+T172	PRON_PER 4281 4284	her
+T173	PRON_PER 4352 4356	They
+T174	PRON_PER 4386 4390	They
+T175	PRON_PER 4617 4620	she
+T176	PRON_PER 4670 4673	You
+T177	PRON_PER 4702 4704	me
+T178	PRON_PER 4768 4771	his
+T179	PRON_PER 4890 4892	He
+T180	PRON_PER 4900 4903	his
+T181	PRON_PER 4943 4946	his
+T182	PRON_PER 4975 4978	She
+T183	PRON_PER 5021 5024	she
+T184	PRON_PER 5041 5044	She
+T185	PRON_PER 5130 5133	She
+T186	PRON_PER 5166 5169	She
+T187	PRON_PER 5201 5204	her
+T188	PRON_PER 5243 5246	she
+T189	PRON_PER 5268 5271	she
+T190	PRON_PER 5386 5388	he
+T191	PRON_PER 5404 5407	his
+T192	PRON_PER 5435 5436	I
+T193	PRON_PER 5550 5557	herself
+T194	PRON_PER 5782 5785	his
+T195	PRON_PER 5802 5804	he
+T196	PRON_PER 5928 5931	him
+T197	PRON_PER 5932 5935	his
+T198	PRON_PER 5977 5979	he
+T199	PRON_PER 6063 6065	he
+T200	PRON_PER 6106 6109	his
+T201	PRON_PER 6322 6324	he
+T202	PRON_PER 6347 6349	he
+T203	PRON_PER 6435 6437	he
+T204	PRON_PER 6645 6647	He
+T205	PRON_PER 7032 7034	he
+T206	PRON_PER 7257 7259	he
+T207	PRON_PER 7910 7913	she
+T208	PRON_PER 7952 7955	she
+T209	PRON_PER 8008 8015	herself
+T210	PRON_PER 8023 8026	she
+T211	PRON_PER 8082 8085	her
+T212	PRON_PER 8203 8207	them
+T213	PRON_PER 8275 8282	herself
+T214	PRON_PER 8497 8499	he
+T215	PRON_PER 8508 8511	his
+T220	PRON_PER 8926 8929	her
+T221	PRON_PER 9774 9779	their
+T222	PRON_PER 9862 9867	their
+T223	PRON_PER 10335 10339	they
+T224	PRON_PER 10405 10409	they
+T227	NOM_PER 4523 4532	the nurse
+T310	workhouse-0 20 57	THE PLACE WHERE OLIVER TWIST WAS BORN
+T311	Oliver_Twist-1 36 48	OLIVER TWIST
+T363	Oliver_Twist-1 93 96	HIS
+T231	other_public_buildings-2 109 131	other public buildings
+T312	a_certain_town-3 135 149	a certain town
+T364	Narrator-4 236 237	I
+T313	most_towns-5 304 314	most towns
+T314	workhouse-0 343 354	a workhouse
+T315	workhouse-0 364 378	this workhouse
+T365	Narrator-4 414 415	I
+T366	Narrator-4 433 439	myself
+T316	this_world_of_sorrow_and_trouble-6 680 712	this world of sorrow and trouble
+T233	the_parish_surgeon-7 718 736	the parish surgeon
+T352	the_parish-8 718 728	the parish
+T232	Oliver_Twist-1 790 799	the child
+T317	country-10 1152 1159	country
+T369	Narrator-4 1171 1172	I
+T318	workhouse-0 1224 1235	a workhouse
+T319	a_human_being-11 1321 1334	a human being
+T370	Narrator-4 1337 1338	I
+T234	Oliver_Twist-1 1415 1427	Oliver Twist
+T235	Oliver_Twist-1 1535 1541	Oliver
+T371	Oliver_Twist-1 1555 1562	himself
+T372	inclusive_we-12 1666 1669	our
+T373	Oliver_Twist-1 1705 1707	he
+T357	this_world_of_sorrow_and_trouble-6 1781 1791	this world
+T240	Oliver_Twist-1 1899 1905	Oliver
+T238	careful_grandmothers-13 1929 1949	careful grandmothers
+T236	anxious_aunts-14 1952 1965	anxious aunts
+T239	experienced_nurses-15 1968 1986	experienced nurses
+T237	doctors_of_profound_wisdom-16 1993 2019	doctors of profound wisdom
+T374	Oliver_Twist-1 2022 2024	he
+T359	nobody-100000 2105 2111	nobody
+T243	Nurse-17 2133 2214	pauper old woman , who was rendered rather misty by an unwonted allowance of beer
+T353	the_parish-8 2221 2229	a parish
+T241	Oliver_Twist-1 2273 2279	Oliver
+T247	Oliver_Twist-1 2375 2381	Oliver
+T246	the_inmates_of_the_workhouse-21 2433 2461	the inmates of the workhouse
+T244	workhouse-0 2448 2461	the workhouse
+T354	the_parish-8 2512 2522	the parish
+T250	Oliver_Twist-1 2750 2756	Oliver
+T376	Oliver_Twist-1 2812 2815	his
+T249	Oliver_s_Mother-22 2926 2939	a young woman
+T377	Oliver_s_Mother-22 3036 3038	me
+T248	Oliver_Twist-1 3043 3052	the child
+T251	the_parish_surgeon-7 3067 3078	The surgeon
+T378	the_parish_surgeon-7 3101 3104	his
+T379	the_parish_surgeon-7 3156 3159	his
+T253	Oliver_s_Mother-22 3200 3215	the young woman
+T380	the_parish_surgeon-7 3224 3226	he
+T381	the_parish_surgeon-7 3328 3331	him
+T382	Oliver_s_Mother-22 3341 3344	you
+T383	Oliver_s_Mother-22 3391 3394	her
+T255	Nurse-17 3426 3435	the nurse
+T384	Nurse-17 3460 3463	her
+T385	Nurse-17 3516 3519	she
+T386	Oliver_s_Mother-22 3589 3592	her
+T387	Oliver_s_Mother-22 3611 3614	she
+T388	Nurse-17 3636 3637	I
+T326	the_parish_surgeon-7 3645 3648	sir
+T257	thirteen_children_of_her_own-23 3659 3687	thirteen children of her own
+T389	Oliver_s_Mother-22 3680 3683	her
+T390	thirteen_children_of_her_own-23 3727 3731	them
+T391	Nurse-17 3751 3753	me
+T392	Oliver_s_Mother-22 3756 3759	she
+T393	Oliver_s_Mother-22 3812 3815	her
+T262	Oliver_s_Mother-22 3999 4010	The patient
+T394	Oliver_s_Mother-22 4017 4020	her
+T395	Oliver_s_Mother-22 4046 4049	her
+T263	Oliver_Twist-1 4063 4072	the child
+T264	the_parish_surgeon-7 4075 4086	The surgeon
+T396	Oliver_s_Mother-22 4103 4106	her
+T397	Oliver_s_Mother-22 4114 4117	She
+T398	Oliver_s_Mother-22 4128 4131	her
+T399	Oliver_s_Mother-22 4186 4189	her
+T400	Oliver_s_Mother-22 4201 4204	her
+T401	surgeon_and_nurse-24 4269 4273	They
+T402	Oliver_s_Mother-22 4281 4284	her
+T403	surgeon_and_nurse-24 4352 4356	They
+T404	surgeon_and_nurse-24 4386 4390	They
+T256	Nurse-17 4440 4454	Mrs. Thingummy
+T258	the_parish_surgeon-7 4464 4475	the surgeon
+T457	Nurse-17 4523 4532	the nurse
+T405	Nurse-17 4617 4620	she
+T268	Oliver_Twist-1 4640 4649	the child
+T269	Oliver_Twist-1 4710 4719	the child
+T406	Nurse-17 4670 4673	You
+T407	the_parish_surgeon-7 4702 4704	me
+T259	Nurse-17 4728 4733	nurse
+T270	the_parish_surgeon-7 4743 4754	the surgeon
+T408	the_parish_surgeon-7 4768 4771	his
+T409	the_parish_surgeon-7 4890 4892	He
+T410	the_parish_surgeon-7 4900 4903	his
+T411	the_parish_surgeon-7 4943 4946	his
+T412	Oliver_s_Mother-22 4975 4978	She
+T413	Oliver_s_Mother-22 5021 5024	she
+T414	Oliver_s_Mother-22 5041 5044	She
+T271	the_overseer-25 5106 5118	the overseer
+T415	Oliver_s_Mother-22 5130 5133	She
+T272	the_street-26 5153 5163	the street
+T416	Oliver_s_Mother-22 5166 5169	She
+T417	Oliver_s_Mother-22 5201 5204	her
+T418	Oliver_s_Mother-22 5243 5246	she
+T419	Oliver_s_Mother-22 5268 5271	she
+T360	nobody-100001 5287 5293	nobody
+T273	the_parish_surgeon-7 5304 5315	The surgeon
+T265	Oliver_s_Mother-22 5328 5336	the body
+T420	the_parish_surgeon-7 5386 5388	he
+T421	the_parish_surgeon-7 5404 5407	his
+T422	the_parish_surgeon-7 5435 5436	I
+T275	the_parish_surgeon-7 5463 5484	The medical gentleman
+T266	Nurse-17 5513 5522	the nurse
+T423	Nurse-17 5550 5557	herself
+T274	Oliver_Twist-1 5645 5655	the infant
+T276	Oliver_Twist-1 5708 5726	young Oliver Twist
+T424	Oliver_Twist-1 5782 5785	his
+T425	Oliver_Twist-1 5802 5804	he
+T278	a_nobleman-27 5834 5844	a nobleman
+T279	beggar-28 5850 5856	beggar
+T280	the_haughtiest_stranger-29 5887 5910	the haughtiest stranger
+T426	Oliver_Twist-1 5928 5931	him
+T427	Oliver_Twist-1 5932 5935	his
+T428	Oliver_Twist-1 5977 5979	he
+T429	Oliver_Twist-1 6063 6065	he
+T430	Oliver_Twist-1 6106 6109	his
+T355	the_parish-8 6127 6135	a parish
+T281	workhouse-0 6159 6170	a workhouse
+T320	this_world_of_sorrow_and_trouble-6 6244 6253	the world
+T321	all_people-30 6269 6272	all
+T322	none-100002 6289 6293	none
+T284	Oliver_Twist-1 6296 6302	Oliver
+T431	Oliver_Twist-1 6322 6324	he
+T432	Oliver_Twist-1 6347 6349	he
+T323	church-wardens-31 6396 6410	church-wardens
+T286	the_overseer-25 6415 6424	overseers
+T433	Oliver_Twist-1 6435 6437	he
+T324	Oliver_Twist-1 6489 6501	OLIVER TWIST
+T287	Oliver_Twist-1 6571 6577	Oliver
+T434	Oliver_Twist-1 6645 6647	He
+T288	Oliver_Twist-1 6711 6728	the infant orphan
+T289	workhouse-0 6750 6763	the workhouse
+T325	the_workhouse_authorities-32 6750 6775	the workhouse authorities
+T327	the_parish_authorities-33 6779 6801	the parish authorities
+T351	the_parish-8 6779 6789	the parish
+T328	the_parish_authorities-33 6804 6826	The parish authorities
+T329	the_parish-8 6804 6814	The parish
+T330	the_workhouse_authorities-32 6852 6877	the workhouse authorities
+T331	workhouse-0 6852 6865	the workhouse
+T290	workhouse-0 6928 6937	the house
+T291	Oliver_Twist-1 6976 6988	Oliver Twist
+T435	Oliver_Twist-1 7032 7034	he
+T333	the_workhouse_authorities-32 7051 7076	The workhouse authorities
+T334	workhouse-0 7051 7064	The workhouse
+T335	the_parish_authorities-33 7134 7156	the parish authorities
+T336	the_parish-8 7134 7144	the parish
+T293	Oliver_Twist-1 7200 7206	Oliver
+T436	Oliver_Twist-1 7257 7259	he
+T337	branch_workhouse-34 7284 7323	a branch-workhouse some three miles off
+T295	juveniles-35 7332 7395	twenty or thirty other juvenile offenders against the poor-laws
+T292	an_elderly_female-36 7535 7552	an elderly female
+T294	juveniles-35 7568 7580	the culprits
+T296	a_child-100003 7724 7731	a child
+T298	an_elderly_female-36 7852 7870	The elderly female
+T437	an_elderly_female-36 7910 7913	she
+T297	children-37 7937 7945	children
+T438	an_elderly_female-36 7952 7955	she
+T439	an_elderly_female-36 8008 8015	herself
+T440	an_elderly_female-36 8023 8026	she
+T441	an_elderly_female-36 8082 8085	her
+T339	juveniles-35 8110 8141	the rising parochial generation
+T442	juveniles-35 8203 8207	them
+T443	an_elderly_female-36 8275 8282	herself
+T361	Everybody-38 8323 8332	Everybody
+T340	another_experimental_philosopher-39 8352 8384	another experimental philosopher
+T444	another_experimental_philosopher-39 8497 8499	he
+T445	another_experimental_philosopher-39 8508 8511	his
+T341	an_elderly_female-36 8803 8870	the female to whose protecting care Oliver Twist was delivered over
+T300	Oliver_Twist-1 8839 8851	Oliver Twist
+T450	an_elderly_female-36 8926 8929	her
+T358	another_world-42 9331 9344	another world
+T301	the_child-43 8969 8978	the child
+T342	the_child-43 9278 9304	the miserable little being
+T302	the_fathers_it_had_never_known_in_this-44 9369 9407	the fathers it had never known in this
+T343	the_parish-8 9488 9496	a parish
+T344	the_child-43 9488 9623	a parish child who had been overlooked in turning up a bedstead , or inadvertently scalded to death when there happened to be a washing
+T303	the_farm-45 9734 9742	the farm
+T345	the_jury-46 9746 9754	the jury
+T451	the_jury-46 9774 9779	their
+T304	the_parish_authorities-33 9820 9836	the parishioners
+T452	the_parish_authorities-33 9862 9867	their
+T306	the_parish_surgeon-7 9964 9975	the surgeon
+T305	the_beadle-47 9999 10009	the beadle
+T346	the_child-43 10049 10057	the body
+T347	the_parish-8 10169 10179	the parish
+T348	the_board-48 10232 10241	the board
+T307	the_farm-45 10273 10281	the farm
+T308	the_beadle-47 10300 10310	the beadle
+T453	the_board-48 10335 10339	they
+T309	juveniles-35 10353 10365	The children
+T454	juveniles-35 10405 10409	they
+T349	the_people-49 10439 10449	the people
+R4	cop Arg1:T24 Arg2:T174
+R5	cop Arg1:T30 Arg2:T182
+R7	appos Arg1:T47 Arg2:T102
+R8	appos Arg1:T53 Arg2:T102
+R9	cop Arg1:T55 Arg2:T202
+R10	cop Arg1:T108 Arg2:T68
+R11	cop Arg1:T69 Arg2:T213
+T37	new-804 5821 5856	the child of a nobleman or a beggar
+T15	Oliver_Twist-1 2597 2667	a male infant who had not been possessed of that very useful appendage
+T137	NOM_PER 2597 2667	a male infant who had not been possessed of that very useful appendage
+T138	NOM_PER 3852 3860	a mother
+T145	NOM_PER 3940 3948	a mother
+T216	NOM_PER 5821 5856	the child of a nobleman or a beggar
+T12	NOM_PER 2221 2270	a parish surgeon who did such matters by contract
+T217	the_parish_surgeon-7 2221 2270	a parish surgeon who did such matters by contract
+T218	NOM_PER 6898 7048	no female then domiciled in ' the house ' who was in a situation to impart to Oliver Twist , the consolation and nourishment of which he stood in need
+T219	no-female-9000 6898 7048	no female then domiciled in ' the house ' who was in a situation to impart to Oliver Twist , the consolation and nourishment of which he stood in need
+T463	PRON_PER 660 662	it
+T464	Oliver_Twist-1 660 662	it
+T475	PRON_PER 4097 4099	it
+T476	Oliver_Twist-1 4097 4099	it
+T477	PRON_PER 4164 4167	its
+T478	Oliver_Twist-1 4164 4167	its
+T485	PRON_PER 4825 4827	it
+T486	Oliver_Twist-1 4825 4827	it
+T487	PRON_PER 4859 4861	it
+T488	Oliver_Twist-1 4859 4861	it
+T489	PRON_PER 4880 4882	it
+T490	Oliver_Twist-1 4880 4882	it
+T493	PRON_PER 7810 7813	its
+T494	a_child-100003 7810 7813	its
+T495	PRON_PER 7833 7835	it
+T496	a_child-100003 7833 7835	it
+T501	PRON_PER 9144 9146	it
+T502	the_child-43 9144 9146	it
+T503	PRON_PER 9381 9383	it
+T504	the_child-43 9381 9383	it
+T102	Oliver_Twist-1 6127 6141	a parish child
+T120	NOM_PER 5085 5098	the old woman
+T126	Nurse-17 5085 5098	the old woman

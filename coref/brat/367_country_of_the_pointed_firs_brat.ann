@@ -1,0 +1,412 @@
+T1	PROP_LOC 133 146	eastern Maine
+T2	NOM_LOC 400 411	the Landing
+T3	NOM_LOC 294 304	dark woods
+T4	NOM_FAC 414 426	These houses
+T8	NOM_GPE 799 818	a village like this
+T9	NOM_PER 878 893	a single person
+T10	NOM_GPE 1252 1300	the village with its elaborate conventionalities
+T11	PROP_GPE 1154 1168	Dunnet Landing
+T12	NOM_PER 1143 1168	a lover of Dunnet Landing
+T13	NOM_PER 1461 1479	a single passenger
+T14	NOM_GPE 1673 1719	the salt-aired , white-clapboarded little town
+T16	NOM_LOC 2005 2019	the busy world
+T17	NOM_FAC 1943 1953	the street
+T18	NOM_FAC 2046 2060	a green garden
+T19	NOM_PER 2245 2255	a stranger
+T22	PROP_PER 2361 2370	Mrs. Todd
+T25	PROP_PER 2605 2614	Mrs. Todd
+T26	NOM_FAC 3071 3081	the garden
+T29	NOM_FAC 3629 3636	kitchen
+T30	NOM_PER 3915 3924	customers
+T31	NOM_PER 4049 4070	a wise saver of steps
+T32	NOM_FAC 4019 4030	the kitchen
+T33	NOM_PER 3965 3978	the purchaser
+T34	PROP_PER 4033 4042	Mrs. Todd
+T35	NOM_LOC 4506 4509	sea
+T36	NOM_FAC 4589 4608	Mrs. Todd ’s garden
+T37	NOM_GPE 4615 4622	village
+T39	NOM_PER 4611 4629	The village doctor
+T40	PROP_PER 4887 4896	Mrs. Todd
+T41	NOM_PER 4687 4699	The good man
+T42	NOM_PER 5272 5288	worthy neighbors
+T43	NOM_PER 5181 5192	my landlady
+T44	NOM_LOC 5910 5919	the world
+T45	NOM_FAC 6152 6160	the road
+T46	NOM_PER 6103 6113	the lodger
+T47	NOM_LOC 6325 6330	woods
+T49	NOM_PER 6346 6371	The spruce-beer customers
+T50	NOM_PER 6655 6672	one hungry lodger
+T51	NOM_PER 6840 6850	the lodger
+T52	NOM_PER 6994 7010	business partner
+T53	NOM_LOC 7809 7816	the sea
+T54	PROP_PER 7887 7896	Mrs. Todd
+T56	PROP_PER 8673 8682	Mrs. Todd
+T57	NOM_LOC 9015 9022	the sea
+T58	PROP_PER 9030 9039	Mrs. Todd
+T59	NOM_PER 9551 9561	his mother
+T60	NOM_PER 10417 10429	a huge sibyl
+T61	NOM_FAC 10496 10513	the little garden
+T62	NOM_FAC 10383 10395	the low room
+T63	NOM_GPE 41 65	the coast town of Dunnet
+T64	NOM_GPE 106 146	other maritime villages of eastern Maine
+T65	NOM_FAC 201 218	that neighborhood
+T66	NOM_LOC 274 289	the rocky shore
+T67	NOM_FAC 311 411	the few houses which seemed to be securely wedged and tree-nailed in among the ledges by the Landing
+T5	NOM_FAC 532 545	garden ground
+T6	NOM_FAC 648 658	the harbor
+T7	NOM_LOC 663 679	the far sea-line
+T68	NOM_LOC 719 728	the shore
+T69	NOM_LOC 733 774	its background of spruces and balsam firs
+T70	NOM_LOC 823 839	its surroundings
+T71	NOM_LOC 1186 1226	the unchanged shores of the pointed firs
+T72	NOM_FAC 1492 1511	the steamboat wharf
+T15	NOM_PER 1544 1570	a fine crowd of spectators
+T73	NOM_PER 1577 1611	the younger portion of the company
+T74	NOM_FAC 1652 1719	the narrow street of the salt-aired , white-clapboarded little town
+T75	PROP_PER 1727 1736	Mrs. Todd
+T76	NOM_LOC 1798 1820	a summer lodging-place
+T77	PROP_PER 1896 1912	Mrs. Almira Todd
+T78	NOM_FAC 1878 1953	the tiny house of Mrs. Almira Todd , which stood with its end to the street
+T21	NOM_FAC 2207 2228	a queer little garden
+T20	NOM_FAC 2475 2484	the house
+T23	NOM_FAC 2659 2672	her herb plot
+T24	NOM_PER 2768 2787	a very large person
+T79	NOM_FAC 3112 3126	this herb plot
+T27	PROP_PER 3616 3625	Mrs. Todd
+T28	NOM_PER 3668 3788	suffering neighbors , who usually came at night as if by stealth , bringing their own ancient-looking vials to be filled
+T80	PROP_PER 4589 4598	Mrs. Todd
+T38	NOM_PER 4634 4656	this learned herbalist
+T81	NOM_GPE 5304 5337	this quietest of seaside villages
+T82	PROP_PER 5451 5460	Mrs. Todd
+T83	NOM_PER 5922 5932	My hostess
+T48	PROP_PER 6273 6282	Mrs. Todd
+T84	NOM_LOC 6335 6343	pastures
+T85	PROP_PER 6565 6574	Mrs. Todd
+T86	NOM_PER 6581 6588	a widow
+T87	PROP_PER 6954 6963	Mrs. Todd
+T88	NOM_PER 7406 7412	darlin
+T89	NOM_LOC 7820 7844	the nearest pebble beach
+T90	NOM_PER 8109 8114	folks
+T91	NOM_PER 8146 8166	a whole neighborhood
+T92	NOM_PER 8331 8335	dear
+T55	NOM_PER 8661 8668	anybody
+T93	NOM_FAC 9214 9229	my sitting-room
+T94	NOM_PER 9426 9451	one who was far above her
+T96	NOM_PER 9636 9641	folks
+T97	NOM_PER 9889 9902	a high family
+T98	NOM_PER 10036 10043	a woman
+T95	NOM_PER 9073 9081	somebody
+T114	NOM_PER 9827 9843	a seafarin ’ man
+T115	NOM_PER 8475 8481	nobody
+T117	PRON_FAC 444 449	their
+T118	PRON_FAC 518 523	their
+T119	PRON_FAC 593 598	their
+T120	PRON_PER 1404 1407	her
+T121	PRON_PER 1621 1624	her
+T122	PRON_PER 2659 2662	her
+T123	PRON_PER 2675 2678	she
+T124	PRON_PER 2790 2793	her
+T125	PRON_PER 2855 2858	her
+T126	PRON_PER 2873 2876	You
+T127	PRON_PER 2900 2903	she
+T128	PRON_PER 2941 2944	you
+T129	PRON_PER 3082 3085	she
+T133	PRON_PER 3744 3749	their
+T134	PRON_PER 4096 4099	she
+T136	PRON_PER 4245 4248	she
+T137	PRON_PER 4412 4415	she
+T139	PRON_PER 4770 4772	he
+T140	PRON_PER 4785 4788	his
+T141	PRON_PER 4834 4836	he
+T142	PRON_PER 5005 5007	he
+T143	PRON_PER 5054 5057	his
+T144	PRON_PER 5110 5113	her
+T145	PRON_PER 5181 5183	my
+T146	PRON_PER 5922 5924	My
+T147	PRON_PER 5937 5938	I
+T148	PRON_PER 5948 5951	our
+T149	PRON_PER 6513 6515	my
+T150	PRON_PER 6541 6543	me
+T151	PRON_PER 6685 6688	her
+T152	PRON_PER 6789 6792	she
+T153	PRON_PER 7018 7021	her
+T154	PRON_PER 7042 7043	I
+T155	PRON_PER 7096 7097	I
+T156	PRON_PER 7103 7109	myself
+T157	PRON_PER 7228 7229	I
+T158	PRON_PER 7265 7266	I
+T159	PRON_PER 7330 7331	I
+T160	PRON_PER 7796 7798	my
+T161	PRON_PER 7850 7851	I
+T162	PRON_PER 7899 7902	She
+T163	PRON_PER 7956 7959	her
+T164	PRON_PER 8004 8005	I
+T165	PRON_PER 8020 8021	I
+T166	PRON_PER 8035 8038	her
+T167	PRON_PER 8044 8045	I
+T168	PRON_PER 8089 8091	we
+T169	PRON_PER 8119 8120	I
+T170	PRON_PER 8131 8132	I
+T171	PRON_PER 8181 8184	her
+T173	PRON_PER 8340 8343	she
+T174	PRON_PER 8365 8366	I
+T176	PRON_PER 8415 8416	I
+T177	PRON_PER 8458 8459	I
+T178	PRON_PER 8482 8483	I
+T179	PRON_PER 8505 8508	you
+T180	PRON_PER 8549 8552	you
+T181	PRON_PER 8624 8625	I
+T182	PRON_PER 8687 8688	I
+T183	PRON_PER 8738 8741	our
+T184	PRON_PER 8817 8818	I
+T185	PRON_PER 9056 9059	she
+T186	PRON_PER 9088 9089	I
+T187	PRON_PER 9120 9122	We
+T188	PRON_PER 9155 9158	she
+T189	PRON_PER 9214 9216	my
+T190	PRON_PER 9356 9359	her
+T191	PRON_PER 9392 9393	I
+T192	PRON_PER 9412 9415	she
+T193	PRON_PER 9448 9451	her
+T195	PRON_PER 9472 9473	I
+T196	PRON_PER 9504 9506	me
+T197	PRON_PER 9511 9514	she
+T198	PRON_PER 9529 9531	we
+T199	PRON_PER 9551 9554	his
+T200	PRON_PER 9609 9612	she
+T201	PRON_PER 9627 9629	us
+T202	PRON_PER 9650 9652	we
+T203	PRON_PER 9709 9711	us
+T204	PRON_PER 9735 9737	we
+T205	PRON_PER 9807 9809	He
+T206	PRON_PER 9878 9880	he
+T207	PRON_PER 9910 9912	my
+T208	PRON_PER 9948 9949	I
+T209	PRON_PER 9962 9965	him
+T210	PRON_PER 9983 9985	he
+T211	PRON_PER 9996 9999	our
+T212	PRON_PER 10021 10022	I
+T214	PRON_PER 10099 10102	you
+T215	PRON_PER 10109 10112	you
+T216	PRON_PER 10179 10180	I
+T217	PRON_PER 10219 10222	him
+T218	PRON_PER 10227 10230	She
+T219	PRON_PER 10325 10328	her
+T220	PRON_PER 10353 10356	Her
+T221	PRON_PER 10401 10404	her
+T222	PRON_LOC 733 736	its
+T223	PRON_GPE 823 826	its
+T224	PRON_GPE 1269 1272	its
+T225	PRON_FAC 1932 1935	its
+T226	NOM_PER 9461 9465	dear
+T227	NOM_PER 9468 9482	him I speak of
+T291	Dunnet-0 41 65	the coast town of Dunnet
+T292	other_maritime_villages_of_eastern_Maine-1 106 146	other maritime villages of eastern Maine
+T229	eastern_Maine-2 133 146	eastern Maine
+T293	that_neighborhood-3 201 218	that neighborhood
+T294	the_rocky_shore-4 274 289	the rocky shore
+T231	dark_woods-5 294 304	dark woods
+T295	few_houses-6 311 411	the few houses which seemed to be securely wedged and tree-nailed in among the ledges by the Landing
+T230	the_Landing-7 400 411	the Landing
+T232	few_houses-6 414 426	These houses
+T345	few_houses-6 444 449	their
+T346	few_houses-6 518 523	their
+T233	garden_ground-8 532 545	garden ground
+T347	few_houses-6 593 598	their
+T234	the_harbor-9 648 658	the harbor
+T235	the_far_sea-line-10 663 679	the far sea-line
+T296	the_shore-11 719 728	the shore
+T297	its_background_of_spruces_and_balsam_firs-12 733 774	its background of spruces and balsam firs
+T450	the_shore-11 733 736	its
+T236	a_village_like_this-13 799 818	a village like this
+T451	a_village_like_this-13 823 826	its
+T298	its_surroundings-14 823 839	its surroundings
+T237	a_single_person-15 878 893	a single person
+T240	narrator-16 1143 1168	a lover of Dunnet Landing
+T239	Dunnet-0 1154 1168	Dunnet Landing
+T299	the_unchanged_shores_of_the_pointed_firs-17 1186 1226	the unchanged shores of the pointed firs
+T238	Dunnet-0 1252 1300	the village with its elaborate conventionalities
+T452	Dunnet-0 1269 1272	its
+T348	narrator-16 1404 1407	her
+T241	narrator-16 1461 1479	a single passenger
+T300	the_steamboat_wharf-18 1492 1511	the steamboat wharf
+T243	a_fine_crowd_of_spectators-19 1544 1570	a fine crowd of spectators
+T301	the_younger_portion_of_the_company-20 1577 1611	the younger portion of the company
+T349	narrator-16 1621 1624	her
+T302	the_narrow_street_of_the_salt-aired___white-clapboarded_little_town-21 1652 1719	the narrow street of the salt-aired , white-clapboarded little town
+T242	Dunnet-0 1673 1719	the salt-aired , white-clapboarded little town
+T303	Mrs__Todd-22 1727 1736	Mrs. Todd
+T304	a_summer_lodging-place-23 1798 1820	a summer lodging-place
+T306	Todd_house-24 1878 1953	the tiny house of Mrs. Almira Todd , which stood with its end to the street
+T305	Mrs__Todd-22 1896 1912	Mrs. Almira Todd
+T453	Todd_house-24 1932 1935	its
+T245	the_street-25 1943 1953	the street
+T244	the_busy_world-26 2005 2019	the busy world
+T246	a_green_garden-27 2046 2060	a green garden
+T249	a_green_garden-27 2207 2228	a queer little garden
+T247	narrator-16 2245 2255	a stranger
+T250	Mrs__Todd-22 2361 2370	Mrs. Todd
+T248	Todd_house-24 2475 2484	the house
+T253	Mrs__Todd-22 2605 2614	Mrs. Todd
+T251	her_herb_plot-28 2659 2672	her herb plot
+T350	Mrs__Todd-22 2659 2662	her
+T351	Mrs__Todd-22 2675 2678	she
+T352	Mrs__Todd-22 2790 2793	her
+T353	Mrs__Todd-22 2855 2858	her
+T354	You-29 2873 2876	You
+T355	Mrs__Todd-22 2900 2903	she
+T356	you-30 2941 2944	you
+T254	a_green_garden-27 3071 3081	the garden
+T357	Mrs__Todd-22 3082 3085	she
+T307	her_herb_plot-28 3112 3126	this herb plot
+T255	Mrs__Todd-22 3616 3625	Mrs. Todd
+T257	kitchen-31 3629 3636	kitchen
+T256	suffering_neighbors___who_usually_came_at_night_as_if_by_stealth___bringing_their_own_ancient-looking_vials_to_be_filled-32 3668 3788	suffering neighbors , who usually came at night as if by stealth , bringing their own ancient-looking vials to be filled
+T361	suffering_neighbors___who_usually_came_at_night_as_if_by_stealth___bringing_their_own_ancient-looking_vials_to_be_filled-32 3744 3749	their
+T258	customers-33 3915 3924	customers
+T261	the_purchaser-34 3965 3978	the purchaser
+T260	kitchen-31 4019 4030	the kitchen
+T262	Mrs__Todd-22 4033 4042	Mrs. Todd
+T362	Mrs__Todd-22 4096 4099	she
+T364	Mrs__Todd-22 4245 4248	she
+T365	Mrs__Todd-22 4412 4415	she
+T263	sea-35 4506 4509	sea
+T264	a_green_garden-27 4589 4608	Mrs. Todd ’s garden
+T308	Mrs__Todd-22 4589 4598	Mrs. Todd
+T267	The_village_doctor-36 4611 4629	The village doctor
+T265	village-37 4615 4622	village
+T266	Mrs__Todd-22 4634 4656	this learned herbalist
+T269	The_village_doctor-36 4687 4699	The good man
+T367	The_village_doctor-36 4770 4772	he
+T368	The_village_doctor-36 4785 4788	his
+T369	The_village_doctor-36 4834 4836	he
+T268	Mrs__Todd-22 4887 4896	Mrs. Todd
+T370	The_village_doctor-36 5005 5007	he
+T371	The_village_doctor-36 5054 5057	his
+T372	Mrs__Todd-22 5110 5113	her
+T271	Mrs__Todd-22 5181 5192	my landlady
+T373	narrator-16 5181 5183	my
+T270	worthy_neighbors-38 5272 5288	worthy neighbors
+T309	Dunnet-0 5304 5337	this quietest of seaside villages
+T310	Mrs__Todd-22 5451 5460	Mrs. Todd
+T272	the_world-39 5910 5919	the world
+T311	Mrs__Todd-22 5922 5932	My hostess
+T374	narrator-16 5922 5924	My
+T375	narrator-16 5937 5938	I
+T376	our-40 5948 5951	our
+T274	narrator-16 6103 6113	the lodger
+T273	the_road-41 6152 6160	the road
+T276	Mrs__Todd-22 6273 6282	Mrs. Todd
+T275	woods-42 6325 6330	woods
+T312	pastures-43 6335 6343	pastures
+T277	The_spruce-beer_customers-44 6346 6371	The spruce-beer customers
+T377	narrator-16 6513 6515	my
+T378	narrator-16 6541 6543	me
+T313	Mrs__Todd-22 6565 6574	Mrs. Todd
+T278	narrator-16 6655 6672	one hungry lodger
+T379	Mrs__Todd-22 6685 6688	her
+T380	Mrs__Todd-22 6789 6792	she
+T279	narrator-16 6840 6850	the lodger
+T315	Mrs__Todd-22 6954 6963	Mrs. Todd
+T280	business_partner-45 6994 7010	business partner
+T381	Mrs__Todd-22 7018 7021	her
+T382	narrator-16 7042 7043	I
+T383	narrator-16 7096 7097	I
+T384	narrator-16 7103 7109	myself
+T385	narrator-16 7228 7229	I
+T386	narrator-16 7265 7266	I
+T387	narrator-16 7330 7331	I
+T316	narrator-16 7406 7412	darlin
+T388	narrator-16 7796 7798	my
+T281	the_sea-46 7809 7816	the sea
+T317	the_nearest_pebble_beach-47 7820 7844	the nearest pebble beach
+T389	narrator-16 7850 7851	I
+T282	Mrs__Todd-22 7887 7896	Mrs. Todd
+T390	Mrs__Todd-22 7899 7902	She
+T391	Mrs__Todd-22 7956 7959	her
+T392	narrator-16 8004 8005	I
+T393	narrator-16 8020 8021	I
+T394	Mrs__Todd-22 8035 8038	her
+T395	narrator-16 8044 8045	I
+T396	narrator_Mrs__Todd-48 8089 8091	we
+T318	folks-49 8109 8114	folks
+T397	narrator-16 8119 8120	I
+T398	narrator-16 8131 8132	I
+T319	a_whole_neighborhood-50 8146 8166	a whole neighborhood
+T399	Mrs__Todd-22 8181 8184	her
+T320	narrator-16 8331 8335	dear
+T401	Mrs__Todd-22 8340 8343	she
+T402	Mrs__Todd-22 8365 8366	I
+T404	Mrs__Todd-22 8415 8416	I
+T405	Mrs__Todd-22 8458 8459	I
+T343	nobody-51 8475 8481	nobody
+T406	Mrs__Todd-22 8482 8483	I
+T407	narrator-16 8505 8508	you
+T408	narrator-16 8549 8552	you
+T409	Mrs__Todd-22 8624 8625	I
+T283	anybody-52 8661 8668	anybody
+T284	Mrs__Todd-22 8673 8682	Mrs. Todd
+T410	narrator-16 8687 8688	I
+T411	narrator_Mrs__Todd-48 8738 8741	our
+T412	narrator-16 8817 8818	I
+T285	the_sea-53 9015 9022	the sea
+T286	Mrs__Todd-22 9030 9039	Mrs. Todd
+T413	Mrs__Todd-22 9056 9059	she
+T323	somebody-54 9073 9081	somebody
+T414	narrator-16 9088 9089	I
+T415	narrator_Mrs__Todd-48 9120 9122	We
+T416	Mrs__Todd-22 9155 9158	she
+T321	my_sitting-room-55 9214 9229	my sitting-room
+T417	narrator-16 9214 9216	my
+T418	Mrs__Todd-22 9356 9359	her
+T419	narrator-16 9392 9393	I
+T420	Mrs__Todd-22 9412 9415	she
+T322	Todd_lover-56 9426 9451	one who was far above her
+T421	Mrs__Todd-22 9448 9451	her
+T454	narrator-16 9461 9465	dear
+T455	Todd_lover-56 9468 9482	him I speak of
+T423	Mrs__Todd-22 9472 9473	I
+T424	Mrs__Todd-22 9504 9506	me
+T425	Mrs__Todd-22 9511 9514	she
+T426	Mrs__Todd_lover-57 9529 9531	we
+T287	his_mother-58 9551 9561	his mother
+T427	Todd_lover-56 9551 9554	his
+T428	his_mother-58 9609 9612	she
+T429	Mrs__Todd_lover-57 9627 9629	us
+T324	folks-59 9636 9641	folks
+T430	Mrs__Todd_lover-57 9650 9652	we
+T431	Mrs__Todd_lover-57 9709 9711	us
+T432	Mrs__Todd_lover-57 9735 9737	we
+T433	Todd_lover-56 9807 9809	He
+T342	a_seafarin___man-60 9827 9843	a seafarin ’ man
+T434	Todd_lover-56 9878 9880	he
+T325	a_high_family-61 9889 9902	a high family
+T435	Mrs__Todd-22 9910 9912	my
+T436	Mrs__Todd-22 9948 9949	I
+T437	Todd_lover-56 9962 9965	him
+T438	Todd_lover-56 9983 9985	he
+T439	Mrs__Todd_lover-57 9996 9999	our
+T440	Mrs__Todd-22 10021 10022	I
+T326	a_woman-62 10036 10043	a woman
+T442	you-63 10099 10102	you
+T443	you-64 10109 10112	you
+T444	Mrs__Todd-22 10179 10180	I
+T445	Todd_lover-56 10219 10222	him
+T446	Mrs__Todd-22 10227 10230	She
+T447	Mrs__Todd-22 10325 10328	her
+T448	Mrs__Todd-22 10353 10356	Her
+T290	my_sitting-room-55 10383 10395	the low room
+T449	Mrs__Todd-22 10401 10404	her
+T288	a_huge_sibyl-65 10417 10429	a huge sibyl
+T289	a_green_garden-27 10496 10513	the little garden
+R1	cop Arg1:T24 Arg2:T124
+R2	cop Arg1:T31 Arg2:T34
+R3	cop Arg1:T86 Arg2:T85
+T456	PRON_GPE 77 79	it
+T457	Dunnet-0 77 79	it
+T466	PRON_LOC 1836 1839	its
+T467	a_summer_lodging-place-23 1836 1839	its
+T468	PRON_FAC 2029 2032	its
+T469	Todd_house-24 2029 2032	its
+T470	PRON_FAC 2200 2202	It
+T471	a_green_garden-27 2200 2202	It

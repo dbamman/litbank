@@ -1,0 +1,640 @@
+T0	NOM_PER 37 48	The Signora
+T2	NOM_FAC 232 243	a courtyard
+T4	NOM_PER 289 298	a Cockney
+T5	NOM_PER 358 369	the Signora
+T8	NOM_ORG 728 746	the English church
+T11	PROP_PER 1068 1081	Miss Bartlett
+T12	NOM_FAC 1137 1184	The rooms the Signora promised us in her letter
+T13	NOM_PER 1147 1158	the Signora
+T14	NOM_PER 1219 1230	The Signora
+T16	PROP_PER 1315 1328	Miss Bartlett
+T17	NOM_FAC 1565 1574	the front
+T18	NOM_FAC 1540 1574	The first vacant room in the front
+T20	PROP_PER 1671 1675	Lucy
+T21	NOM_PER 1807 1818	Your mother
+T22	NOM_PER 1886 1896	The ladies
+T23	NOM_PER 2056 2072	their neighbours
+T25	PROP_PER 2290 2303	Miss Bartlett
+T26	NOM_PER 2486 2498	the intruder
+T28	NOM_PER 3091 3102	the old man
+T31	PROP_PER 3164 3177	Miss Bartlett
+T32	NOM_FAC 3279 3288	our rooms
+T33	NOM_PER 3353 3360	tourist
+T34	PROP_PER 3421 3434	Miss Bartlett
+T36	NOM_PER 3576 3587	the old man
+T37	NOM_PER 3732 3742	Her cousin
+T38	NOM_PER 3827 3830	men
+T39	NOM_PER 3909 3916	his son
+T40	NOM_PER 3877 3892	a naughty child
+T41	NOM_FAC 3993 4002	the rooms
+T42	NOM_PER 4012 4019	the son
+T43	NOM_PER 4076 4086	the ladies
+T44	NOM_PER 4286 4309	these ill-bred tourists
+T46	PROP_PER 4515 4528	Miss Bartlett
+T47	NOM_PER 4494 4505	the old man
+T48	PROP_PER 4649 4662	Miss Bartlett
+T52	NOM_FAC 5452 5460	the room
+T55	NOM_FAC 5809 5818	the rooms
+T56	PROP_PER 5832 5845	Miss Bartlett
+T57	PROP_PER 5893 5902	Mr. Beebe
+T59	NOM_PER 6147 6157	the ladies
+T61	NOM_PER 6435 6445	her cousin
+T62	NOM_PER 6421 6431	the waiter
+T63	PROP_PER 6559 6575	Miss Honeychurch
+T64	NOM_PER 6784 6790	mother
+T66	PROP_PER 6622 6635	Miss Bartlett
+T67	PROP_FAC 6599 6612	Summer Street
+T68	PROP_GPE 6842 6857	Tunbridge Wells
+T69	PROP_PER 6902 6911	Mr. Beebe
+T70	NOM_PER 6944 6957	the clergyman
+T71	NOM_FAC 6974 6985	the Rectory
+T72	PROP_FAC 6989 7002	Summer Street
+T73	NOM_FAC 7045 7074	such a charming neighbourhood
+T74	NOM_FAC 7114 7123	our house
+T76	PROP_PER 7144 7153	Mr. Beebe
+T77	NOM_FAC 7261 7271	The church
+T79	PROP_PER 7326 7335	Mr. Beebe
+T81	NOM_PER 7545 7553	the girl
+T82	PROP_GPE 7571 7579	Florence
+T83	NOM_PER 7685 7695	a newcomer
+T87	NOM_PER 8003 8014	your ladies
+T88	NOM_PER 8038 8047	That lady
+T89	PROP_PER 8078 8091	Miss Bartlett
+T90	NOM_PER 8095 8105	her cousin
+T91	NOM_PER 8292 8303	the beggars
+T92	NOM_GPE 8355 8364	the place
+T93	PROP_FAC 8388 8409	The Pension Bertolini
+T94	NOM_PER 8499 8510	kind ladies
+T95	NOM_PER 8572 8587	the clever lady
+T96	NOM_GPE 8633 8643	That place
+T97	NOM_PER 8763 8789	The young man named George
+T98	PROP_PER 8783 8789	George
+T99	NOM_PER 8801 8816	the clever lady
+T102	NOM_PER 9091 9108	the two outsiders
+T1	PROP_PER 83 96	Miss Bartlett
+T103	NOM_FAC 138 176	south rooms with a view close together
+T3	NOM_FAC 205 266	north rooms , looking into a courtyard , and a long way apart
+T104	PROP_PER 318 322	Lucy
+T6	PROP_GPE 407 413	London
+T105	NOM_PER 448 462	English people
+T7	NOM_PER 573 591	the English people
+T106	NOM_PER 614 628	the late Queen
+T9	NOM_PER 633 655	the late Poet Laureate
+T107	NOM_PER 673 691	the English people
+T108	PROP_PER 749 768	Rev. Cuthbert Eager
+T109	PROP_PER 839 848	Charlotte
+T10	PROP_GPE 895 901	London
+T110	PROP_LOC 1126 1134	the Arno
+T111	PROP_LOC 1208 1216	the Arno
+T15	PROP_PER 1401 1405	Lucy
+T112	PROP_PER 1441 1450	Charlotte
+T113	PROP_LOC 1508 1516	the Arno
+T19	PROP_PER 1608 1621	Miss Bartlett
+T114	NOM_PER 1671 1685	Lucy ’s mother
+T115	PROP_PER 1844 1848	Lucy
+T116	NOM_PER 2048 2072	Some of their neighbours
+T117	NOM_PER 2115 2167	one of the ill-bred people whom one does meet abroad
+T118	NOM_PER 2100 2111	one of them
+T24	NOM_PER 2554 2624	an old man , of heavy build , with a fair , shaven face and large eyes
+T27	PROP_PER 2741 2754	Miss Bartlett
+T29	NOM_PER 3075 3081	my son
+T30	PROP_PER 3119 3125	George
+T120	PROP_PER 3191 3195	Lucy
+T121	NOM_PER 3404 3418	the new-comers
+T122	NOM_PER 3333 3360	The better class of tourist
+T35	PROP_PER 3725 3729	Lucy
+T123	NOM_PER 3796 3801	Women
+T124	PROP_PER 3930 3936	George
+T125	PROP_PER 4145 4149	Lucy
+T45	NOM_FAC 4374 4379	rooms
+T126	NOM_PER 4787 4803	any one so gross
+T49	NOM_PER 4913 4974	two little old ladies , who were sitting further up the table
+T127	PROP_PER 5136 5140	Lucy
+T128	PROP_PER 5209 5213	Lucy
+T129	NOM_PER 5240 5264	very odd people opposite
+T130	NOM_PER 5287 5291	dear
+T131	NOM_FAC 5294 5306	This pension
+T132	NOM_FAC 2332 2341	a pension
+T50	NOM_PER 5483 5612	a clergyman , stout but attractive , who hurried forward to take his place at the table , cheerfully apologizing for his lateness
+T51	PROP_PER 5615 5619	Lucy
+T53	PROP_PER 5721 5730	Mr. Beebe
+T54	PROP_PER 5766 5775	Charlotte
+T133	PROP_PER 5943 5956	Miss Bartlett
+T58	PROP_PER 5961 5977	Miss Honeychurch
+T134	PROP_GPE 5992 6007	Tunbridge Wells
+T135	NOM_ORG 6037 6049	St. Peter ’s
+T136	NOM_PER 6024 6049	the Vicar of St. Peter ’s
+T60	NOM_PER 6076 6127	The clergyman , who had the air of one on a holiday
+T137	PROP_PER 6291 6295	Lucy
+T138	NOM_PER 6333 6386	the girl , who was in a state of spiritual starvation
+T139	PROP_FAC 6503 6516	Summer Street
+T140	NOM_FAC 6585 6612	the parish of Summer Street
+T65	PROP_FAC 7127 7139	Windy Corner
+T75	NOM_PER 7173 7179	mother
+T78	NOM_PER 7203 7213	my brother
+T141	PROP_PER 7305 7309	Lucy
+T142	PROP_PER 7430 7434	Lucy
+T80	PROP_PER 7482 7495	Miss Bartlett
+T143	NOM_GPE 7643 7648	there
+T144	PROP_GPE 7831 7838	Fiesole
+T145	PROP_GPE 7854 7864	Settignano
+T85	PROP_PER 7950 7959	Mr. Beebe
+T86	PROP_GPE 8026 8031	Prato
+T146	NOM_PER 8193 8199	People
+T147	NOM_VEH 8253 8271	the electric trams
+T148	PROP_GPE 8601 8606	Prato
+T149	PROP_GPE 8625 8630	Prato
+T100	NOM_PER 8877 8887	his father
+T101	PROP_PER 8901 8905	Lucy
+T150	NOM_FAC 21 34	The Bertolini
+T151	PROP_ORG 777 781	Oxon
+T119	NOM_PER 2342 2348	people
+T175	NOM_LOC 6488 6497	the world
+T176	NOM_PER 9003 9010	any one
+T177	NOM_FAC 196 200	here
+T179	PRON_PER 122 125	She
+T180	PRON_PER 135 137	us
+T181	PRON_PER 418 421	She
+T182	PRON_PER 858 861	you
+T183	PRON_PER 880 882	we
+T184	PRON_PER 904 905	I
+T185	PRON_PER 975 976	I
+T186	PRON_PER 1096 1099	her
+T187	PRON_PER 1109 1110	I
+T188	PRON_PER 1168 1170	us
+T189	PRON_PER 1174 1177	her
+T190	PRON_PER 1308 1310	me
+T191	PRON_PER 1370 1373	you
+T192	PRON_PER 1416 1419	she
+T193	PRON_PER 1453 1456	you
+T194	PRON_PER 1472 1474	me
+T195	PRON_PER 1489 1492	you
+T196	PRON_PER 1525 1526	I
+T197	PRON_PER 1582 1585	You
+T198	PRON_PER 1720 1723	she
+T199	PRON_PER 1767 1770	You
+T200	PRON_PER 1790 1791	I
+T201	PRON_PER 1807 1811	Your
+T202	PRON_PER 1839 1841	me
+T203	PRON_PER 1855 1858	She
+T204	PRON_PER 1879 1881	me
+T205	PRON_PER 1977 1981	They
+T206	PRON_PER 2032 2036	they
+T207	PRON_PER 2056 2061	their
+T208	PRON_PER 2107 2111	them
+T209	PRON_PER 2227 2232	their
+T210	PRON_PER 2244 2246	He
+T211	PRON_PER 2256 2257	I
+T212	PRON_PER 2272 2273	I
+T213	PRON_PER 2356 2360	them
+T214	PRON_PER 2433 2437	they
+T215	PRON_PER 2456 2460	they
+T216	PRON_PER 2472 2475	She
+T217	PRON_PER 2526 2529	she
+T218	PRON_PER 2541 2544	him
+T219	PRON_PER 2547 2549	He
+T220	PRON_PER 2786 2789	her
+T221	PRON_PER 2810 2813	his
+T222	PRON_PER 2846 2849	her
+T223	PRON_PER 2852 2854	He
+T224	PRON_PER 2901 2905	them
+T225	PRON_PER 2913 2917	they
+T226	PRON_PER 2941 2944	she
+T227	PRON_PER 2977 2979	he
+T228	PRON_PER 2989 2992	her
+T229	PRON_PER 3075 3077	my
+T230	PRON_PER 3107 3110	his
+T231	PRON_PER 3128 3130	He
+T232	PRON_PER 3230 3231	I
+T233	PRON_PER 3241 3243	he
+T234	PRON_PER 3266 3269	you
+T235	PRON_PER 3279 3282	our
+T236	PRON_PER 3295 3297	we
+T237	PRON_PER 3315 3317	We
+T238	PRON_PER 3455 3458	her
+T239	PRON_PER 3506 3509	you
+T240	PRON_PER 3671 3674	you
+T241	PRON_PER 3681 3684	You
+T242	PRON_PER 3691 3693	we
+T243	PRON_PER 3732 3735	Her
+T244	PRON_PER 3759 3762	her
+T245	PRON_PER 3779 3781	he
+T246	PRON_PER 3846 3848	he
+T247	PRON_PER 3862 3865	his
+T248	PRON_PER 3909 3912	his
+T249	PRON_PER 3948 3952	them
+T250	PRON_PER 3976 3980	they
+T251	PRON_PER 4057 4059	He
+T252	PRON_PER 4090 4092	he
+T253	PRON_PER 4105 4108	his
+T254	PRON_PER 4178 4181	she
+T255	PRON_PER 4191 4195	they
+T256	PRON_PER 4249 4252	she
+T257	PRON_PER 4460 4463	she
+T258	PRON_PER 4559 4562	she
+T259	PRON_PER 4604 4607	she
+T260	PRON_PER 4610 4614	They
+T261	PRON_PER 4806 4809	Her
+T262	PRON_PER 4843 4846	She
+T263	PRON_PER 4887 4890	you
+T264	PRON_PER 5063 5065	We
+T265	PRON_PER 5076 5078	we
+T266	PRON_PER 5101 5105	your
+T267	PRON_PER 5124 5127	she
+T268	PRON_PER 5185 5188	she
+T269	PRON_PER 5273 5277	your
+T270	PRON_PER 5332 5334	we
+T271	PRON_PER 5369 5372	she
+T272	PRON_PER 5407 5410	she
+T273	PRON_PER 5548 5551	his
+T274	PRON_PER 5600 5603	his
+T275	PRON_PER 5673 5676	her
+T276	PRON_PER 5778 5780	we
+T277	PRON_PER 5884 5887	you
+T278	PRON_PER 5905 5906	I
+T279	PRON_PER 5919 5922	you
+T280	PRON_PER 5938 5940	us
+T281	PRON_PER 6013 6016	you
+T282	PRON_PER 6178 6182	they
+T283	PRON_PER 6194 6197	him
+T284	PRON_PER 6204 6206	he
+T285	PRON_PER 6272 6274	he
+T286	PRON_PER 6300 6301	I
+T287	PRON_PER 6320 6323	you
+T288	PRON_PER 6435 6438	her
+T289	PRON_PER 6665 6668	she
+T290	PRON_PER 6686 6688	me
+T291	PRON_PER 6724 6727	you
+T292	PRON_PER 6771 6772	I
+T293	PRON_PER 6806 6809	She
+T294	PRON_PER 6828 6829	I
+T295	PRON_PER 6835 6838	you
+T296	PRON_PER 6864 6865	I
+T297	PRON_PER 6891 6892	I
+T298	PRON_PER 6962 6963	I
+T299	PRON_PER 7015 7016	I
+T300	PRON_PER 7095 7096	I
+T301	PRON_PER 7114 7117	our
+T302	PRON_PER 7184 7186	me
+T303	PRON_PER 7203 7205	my
+T304	PRON_PER 7239 7241	we
+T305	PRON_PER 7246 7249	him
+T306	PRON_PER 7292 7293	I
+T307	PRON_PER 7340 7343	his
+T308	PRON_PER 7357 7358	I
+T309	PRON_PER 7380 7383	you
+T310	PRON_PER 7406 7408	He
+T311	PRON_PER 7451 7453	he
+T312	PRON_PER 7522 7525	his
+T313	PRON_PER 7536 7538	He
+T314	PRON_PER 7562 7565	she
+T315	PRON_PER 7624 7627	she
+T316	PRON_PER 7702 7704	he
+T317	PRON_PER 7769 7772	his
+T318	PRON_PER 7962 7965	you
+T319	PRON_PER 8003 8007	your
+T320	PRON_PER 8095 8098	her
+T321	PRON_PER 8110 8112	We
+T322	PRON_PER 8186 8190	them
+T323	PRON_PER 8205 8209	them
+T324	PRON_PER 8381 8385	them
+T325	PRON_PER 8455 8459	they
+T326	PRON_PER 8485 8489	they
+T327	PRON_PER 8533 8537	them
+T328	PRON_PER 8609 8613	They
+T329	PRON_PER 8679 8680	I
+T330	PRON_PER 8691 8692	I
+T331	PRON_PER 8750 8753	you
+T332	PRON_PER 8848 8851	his
+T333	PRON_PER 8870 8872	he
+T334	PRON_PER 8877 8880	his
+T335	PRON_PER 8924 8927	her
+T336	PRON_PER 8957 8961	they
+T337	PRON_PER 8976 8979	her
+T338	PRON_PER 9049 9052	she
+T339	PRON_PER 9066 9069	she
+T340	PROP_PER 274 278	Lucy
+T341	NOM_PER 5115 5119	dear
+T492	The_Bertolini-0 21 34	The Bertolini
+T342	The_Signora-1 37 48	The Signora
+T343	Charlotte_Bartlett-2 83 96	Miss Bartlett
+T521	The_Signora-1 122 125	She
+T522	Charlotte_and_Lucy-3 135 137	us
+T445	south_rooms_with_a_view_close_together-4 138 176	south rooms with a view close together
+T519	north_rooms-5 196 200	here
+T345	north_rooms-5 205 266	north rooms , looking into a courtyard , and a long way apart
+T344	a_courtyard-6 232 243	a courtyard
+T682	Lucy-7 274 278	Lucy
+T346	a_Cockney-8 289 298	a Cockney
+T446	Lucy-7 318 322	Lucy
+T347	The_Signora-1 358 369	the Signora
+T348	London-9 407 413	London
+T523	Lucy-7 418 421	She
+T447	English_people-10 448 462	English people
+T349	English_people-10 573 591	the English people
+T448	the_late_Queen-11 614 628	the late Queen
+T351	the_late_Poet_Laureate-12 633 655	the late Poet Laureate
+T449	English_people-10 673 691	the English people
+T350	the_English_church-13 728 746	the English church
+T450	Rev__Cuthbert_Eager-14 749 768	Rev. Cuthbert Eager
+T493	Oxon-15 777 781	Oxon
+T451	Charlotte_Bartlett-2 839 848	Charlotte
+T524	Charlotte_Bartlett-2 858 861	you
+T525	Charlotte_and_Lucy-3 880 882	we
+T352	London-9 895 901	London
+T526	Lucy-7 904 905	I
+T527	Lucy-7 975 976	I
+T353	Charlotte_Bartlett-2 1068 1081	Miss Bartlett
+T528	Charlotte_Bartlett-2 1096 1099	her
+T529	Charlotte_Bartlett-2 1109 1110	I
+T452	the_Arno-16 1126 1134	the Arno
+T354	south_rooms_with_a_view_close_together-4 1137 1184	The rooms the Signora promised us in her letter
+T355	The_Signora-1 1147 1158	the Signora
+T530	Charlotte_and_Lucy-3 1168 1170	us
+T531	The_Signora-1 1174 1177	her
+T453	the_Arno-16 1208 1216	the Arno
+T356	The_Signora-1 1219 1230	The Signora
+T532	Charlotte_Bartlett-2 1308 1310	me
+T358	Charlotte_Bartlett-2 1315 1328	Miss Bartlett
+T533	Lucy-7 1370 1373	you
+T357	Lucy-7 1401 1405	Lucy
+T534	Lucy-7 1416 1419	she
+T454	Charlotte_Bartlett-2 1441 1450	Charlotte
+T535	Charlotte_Bartlett-2 1453 1456	you
+T536	Lucy-7 1472 1474	me
+T537	Charlotte_Bartlett-2 1489 1492	you
+T455	the_Arno-16 1508 1516	the Arno
+T538	Lucy-7 1525 1526	I
+T360	The_first_vacant_room_in_the_front-17 1540 1574	The first vacant room in the front
+T359	the_front-18 1565 1574	the front
+T539	Lucy-7 1582 1585	You
+T361	Charlotte_Bartlett-2 1608 1621	Miss Bartlett
+T362	Lucy-7 1671 1675	Lucy
+T456	Lucy__s_mother-19 1671 1685	Lucy ’s mother
+T540	Charlotte_Bartlett-2 1720 1723	she
+T541	Charlotte_Bartlett-2 1767 1770	You
+T542	Charlotte_Bartlett-2 1790 1791	I
+T363	Lucy__s_mother-19 1807 1818	Your mother
+T543	Lucy-7 1807 1811	Your
+T544	Charlotte_Bartlett-2 1839 1841	me
+T457	Lucy-7 1844 1848	Lucy
+T545	Lucy__s_mother-19 1855 1858	She
+T546	Charlotte_Bartlett-2 1879 1881	me
+T364	Charlotte_and_Lucy-3 1886 1896	The ladies
+T547	Charlotte_and_Lucy-3 1977 1981	They
+T548	Charlotte_and_Lucy-3 2032 2036	they
+T458	Some_of_their_neighbours-20 2048 2072	Some of their neighbours
+T365	their_neighbours-21 2056 2072	their neighbours
+T549	Charlotte_and_Lucy-3 2056 2061	their
+T460	one_of_them-22 2100 2111	one of them
+T550	Some_of_their_neighbours-20 2107 2111	them
+T551	Charlotte_and_Lucy-3 2227 2232	their
+T459	one_of_them-22 2115 2167	one of the ill-bred people whom one does meet abroad
+T552	one_of_them-22 2244 2246	He
+T553	one_of_them-22 2256 2257	I
+T554	one_of_them-22 2272 2273	I
+T367	Charlotte_Bartlett-2 2290 2303	Miss Bartlett
+T474	a_pension-24 2332 2341	a pension
+T461	people-25 2342 2348	people
+T555	Charlotte_and_Lucy-3 2356 2360	them
+T556	Charlotte_and_Lucy-3 2433 2437	they
+T557	Charlotte_and_Lucy-3 2456 2460	they
+T558	Charlotte_Bartlett-2 2472 2475	She
+T368	one_of_them-22 2486 2498	the intruder
+T559	Charlotte_Bartlett-2 2526 2529	she
+T560	one_of_them-22 2541 2544	him
+T561	one_of_them-22 2547 2549	He
+T369	Charlotte_Bartlett-2 2741 2754	Miss Bartlett
+T562	Charlotte_Bartlett-2 2786 2789	her
+T563	one_of_them-22 2810 2813	his
+T564	Charlotte_Bartlett-2 2846 2849	her
+T565	one_of_them-22 2852 2854	He
+T566	Charlotte_and_Lucy-3 2901 2905	them
+T567	Charlotte_and_Lucy-3 2913 2917	they
+T568	Charlotte_Bartlett-2 2941 2944	she
+T569	one_of_them-22 2977 2979	he
+T570	Charlotte_Bartlett-2 2989 2992	her
+T371	George-26 3075 3081	my son
+T571	one_of_them-22 3075 3077	my
+T370	one_of_them-22 3091 3102	the old man
+T572	George-26 3107 3110	his
+T372	George-26 3119 3125	George
+T573	George-26 3128 3130	He
+T373	Charlotte_Bartlett-2 3164 3177	Miss Bartlett
+T462	Lucy-7 3191 3195	Lucy
+T574	one_of_them-22 3230 3231	I
+T575	one_of_them-22 3241 3243	he
+T576	Charlotte_and_Lucy-3 3266 3269	you
+T374	our_rooms-27 3279 3288	our rooms
+T577	father_and_george-28 3279 3282	our
+T578	father_and_george-28 3295 3297	we
+T579	father_and_george-28 3315 3317	We
+T464	The_better_class_of_tourist-29 3333 3360	The better class of tourist
+T375	tourist-30 3353 3360	tourist
+T463	Charlotte_and_Lucy-3 3404 3418	the new-comers
+T376	Charlotte_Bartlett-2 3421 3434	Miss Bartlett
+T580	Charlotte_Bartlett-2 3455 3458	her
+T581	one_of_them-22 3506 3509	you
+T378	one_of_them-22 3576 3587	the old man
+T582	one_of_them-22 3671 3674	you
+T583	Lucy-7 3681 3684	You
+T584	Charlotte_and_Lucy-3 3691 3693	we
+T377	Lucy-7 3725 3729	Lucy
+T379	Charlotte_Bartlett-2 3732 3742	Her cousin
+T585	Lucy-7 3732 3735	Her
+T586	Lucy-7 3759 3762	her
+T587	one_of_them-22 3779 3781	he
+T465	Women-31 3796 3801	Women
+T380	men-32 3827 3830	men
+T588	one_of_them-22 3846 3848	he
+T589	one_of_them-22 3862 3865	his
+T382	one_of_them-22 3877 3892	a naughty child
+T381	George-26 3909 3916	his son
+T590	one_of_them-22 3909 3912	his
+T466	George-26 3930 3936	George
+T591	Charlotte_and_Lucy-3 3948 3952	them
+T592	Charlotte_and_Lucy-3 3976 3980	they
+T383	our_rooms-27 3993 4002	the rooms
+T384	George-26 4012 4019	the son
+T593	George-26 4057 4059	He
+T385	Charlotte_and_Lucy-3 4076 4086	the ladies
+T594	George-26 4090 4092	he
+T595	George-26 4105 4108	his
+T467	Lucy-7 4145 4149	Lucy
+T596	Lucy-7 4178 4181	she
+T597	Charlotte_and_Lucy-3 4191 4195	they
+T598	Lucy-7 4249 4252	she
+T386	father_and_george-28 4286 4309	these ill-bred tourists
+T387	rooms-33 4374 4379	rooms
+T599	Lucy-7 4460 4463	she
+T389	one_of_them-22 4494 4505	the old man
+T388	Charlotte_Bartlett-2 4515 4528	Miss Bartlett
+T600	Charlotte_Bartlett-2 4559 4562	she
+T601	Charlotte_Bartlett-2 4604 4607	she
+T602	father_and_george-28 4610 4614	They
+T390	Charlotte_Bartlett-2 4649 4662	Miss Bartlett
+T468	one_of_them-22 4787 4803	any one so gross
+T603	Charlotte_Bartlett-2 4806 4809	Her
+T604	Charlotte_Bartlett-2 4843 4846	She
+T605	their_neighbours-21 4887 4890	you
+T391	two_little_old_ladies___who_were_sitting_further_up_the_table-34 4913 4974	two little old ladies , who were sitting further up the table
+T606	two_little_old_ladies___who_were_sitting_further_up_the_table-34 5063 5065	We
+T607	two_little_old_ladies___who_were_sitting_further_up_the_table-34 5076 5078	we
+T608	Charlotte_Bartlett-2 5101 5105	your
+T609	Charlotte_Bartlett-2 5124 5127	she
+T469	Lucy-7 5136 5140	Lucy
+T610	Charlotte_Bartlett-2 5185 5188	she
+T470	Lucy-7 5209 5213	Lucy
+T471	father_and_george-28 5240 5264	very odd people opposite
+T611	Lucy-7 5273 5277	your
+T472	Lucy-7 5287 5291	dear
+T683	Lucy-7 5115 5119	dear
+T473	Pension_Bertolini-35 5294 5306	This pension
+T612	Charlotte_and_Lucy-3 5332 5334	we
+T613	Charlotte_Bartlett-2 5369 5372	she
+T614	Charlotte_Bartlett-2 5407 5410	she
+T394	room_of_argument-36 5452 5460	the room
+T392	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 5483 5612	a clergyman , stout but attractive , who hurried forward to take his place at the table , cheerfully apologizing for his lateness
+T615	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 5548 5551	his
+T616	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 5600 5603	his
+T393	Lucy-7 5615 5619	Lucy
+T617	Lucy-7 5673 5676	her
+T395	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 5721 5730	Mr. Beebe
+T396	Charlotte_Bartlett-2 5766 5775	Charlotte
+T618	Charlotte_and_Lucy-3 5778 5780	we
+T397	north_rooms-5 5809 5818	the rooms
+T398	Charlotte_Bartlett-2 5832 5845	Miss Bartlett
+T619	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 5884 5887	you
+T399	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 5893 5902	Mr. Beebe
+T620	Charlotte_Bartlett-2 5905 5906	I
+T621	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 5919 5922	you
+T622	Charlotte_and_Lucy-3 5938 5940	us
+T475	Charlotte_Bartlett-2 5943 5956	Miss Bartlett
+T400	Lucy-7 5961 5977	Miss Honeychurch
+T476	Tunbridge_Wells-38 5992 6007	Tunbridge Wells
+T623	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6013 6016	you
+T478	the_Vicar_of_St__Peter__s-39 6024 6049	the Vicar of St. Peter ’s
+T477	St__Peter__s-40 6037 6049	St. Peter ’s
+T402	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6076 6127	The clergyman , who had the air of one on a holiday
+T401	Charlotte_and_Lucy-3 6147 6157	the ladies
+T624	Charlotte_and_Lucy-3 6178 6182	they
+T625	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6194 6197	him
+T626	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6204 6206	he
+T627	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6272 6274	he
+T479	Lucy-7 6291 6295	Lucy
+T628	Lucy-7 6300 6301	I
+T629	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6320 6323	you
+T480	Lucy-7 6333 6386	the girl , who was in a state of spiritual starvation
+T404	the_waiter-41 6421 6431	the waiter
+T403	Charlotte_Bartlett-2 6435 6445	her cousin
+T630	Lucy-7 6435 6438	her
+T517	the_world-42 6488 6497	the world
+T481	Summer_Street-43 6503 6516	Summer Street
+T405	Lucy-7 6559 6575	Miss Honeychurch
+T482	the_parish_of_Summer_Street-44 6585 6612	the parish of Summer Street
+T409	Summer_Street-43 6599 6612	Summer Street
+T408	Charlotte_Bartlett-2 6622 6635	Miss Bartlett
+T631	Lucy-7 6665 6668	she
+T632	Charlotte_Bartlett-2 6686 6688	me
+T633	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6724 6727	you
+T634	Lucy-7 6771 6772	I
+T406	Lucy__s_mother-19 6784 6790	mother
+T635	Lucy__s_mother-19 6806 6809	She
+T636	Lucy-7 6828 6829	I
+T637	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6835 6838	you
+T410	Tunbridge_Wells-38 6842 6857	Tunbridge Wells
+T638	Lucy-7 6864 6865	I
+T639	Lucy-7 6891 6892	I
+T411	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6902 6911	Mr. Beebe
+T412	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6944 6957	the clergyman
+T640	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 6962 6963	I
+T413	the_Rectory-45 6974 6985	the Rectory
+T414	Summer_Street-43 6989 7002	Summer Street
+T641	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7015 7016	I
+T415	Summer_Street-43 7045 7074	such a charming neighbourhood
+T642	Lucy-7 7095 7096	I
+T416	Windy_Corner-46 7114 7123	our house
+T643	Honeybush_Family-47 7114 7117	our
+T407	Windy_Corner-46 7127 7139	Windy Corner
+T418	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7144 7153	Mr. Beebe
+T417	Lucy__s_mother-19 7173 7179	mother
+T644	Lucy-7 7184 7186	me
+T420	Lucy_s_Brother-48 7203 7213	my brother
+T645	Lucy-7 7203 7205	my
+T646	Lucy_and_mother-49 7239 7241	we
+T647	Lucy_s_Brother-48 7246 7249	him
+T419	The_church-50 7261 7271	The church
+T648	Lucy-7 7292 7293	I
+T483	Lucy-7 7305 7309	Lucy
+T421	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7326 7335	Mr. Beebe
+T649	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7340 7343	his
+T650	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7357 7358	I
+T651	Charlotte_Bartlett-2 7380 7383	you
+T652	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7406 7408	He
+T484	Lucy-7 7430 7434	Lucy
+T653	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7451 7453	he
+T422	Charlotte_Bartlett-2 7482 7495	Miss Bartlett
+T654	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7522 7525	his
+T655	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7536 7538	He
+T423	Lucy-7 7545 7553	the girl
+T656	Lucy-7 7562 7565	she
+T424	Florence-51 7571 7579	Florence
+T657	Lucy-7 7624 7627	she
+T485	Florence-51 7643 7648	there
+T425	a_newcomer-52 7685 7695	a newcomer
+T658	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7702 7704	he
+T659	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7769 7772	his
+T486	Fiesole-53 7831 7838	Fiesole
+T487	Settignano-54 7854 7864	Settignano
+T427	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7950 7959	Mr. Beebe
+T660	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 7962 7965	you
+T429	Charlotte_and_Lucy-3 8003 8014	your ladies
+T661	a_clergyman___stout_but_attractive___who_hurried_forward_to_take_his_place_at_the_table___cheerfully_apologizing_for_his_lateness-37 8003 8007	your
+T428	Prato-55 8026 8031	Prato
+T430	That_lady-56 8038 8047	That lady
+T431	Charlotte_Bartlett-2 8078 8091	Miss Bartlett
+T432	Lucy-7 8095 8105	her cousin
+T662	Charlotte_Bartlett-2 8095 8098	her
+T663	Charlotte_and_Lucy-3 8110 8112	We
+T664	Charlotte_and_Lucy-3 8186 8190	them
+T488	People-57 8193 8199	People
+T665	Charlotte_and_Lucy-3 8205 8209	them
+T489	the_electric_trams-58 8253 8271	the electric trams
+T433	the_beggars-59 8292 8303	the beggars
+T434	the_place-60 8355 8364	the place
+T666	Charlotte_and_Lucy-3 8381 8385	them
+T435	Pension_Bertolini-35 8388 8409	The Pension Bertolini
+T667	Charlotte_and_Lucy-3 8455 8459	they
+T668	Charlotte_and_Lucy-3 8485 8489	they
+T436	kind_ladies-61 8499 8510	kind ladies
+T669	Charlotte_and_Lucy-3 8533 8537	them
+T437	That_lady-56 8572 8587	the clever lady
+T490	Prato-55 8601 8606	Prato
+T670	Charlotte_and_Lucy-3 8609 8613	They
+T491	Prato-55 8625 8630	Prato
+T438	Prato-55 8633 8643	That place
+T671	That_lady-56 8679 8680	I
+T672	That_lady-56 8691 8692	I
+T673	Charlotte_and_Lucy-3 8750 8753	you
+T439	George-26 8763 8789	The young man named George
+T440	George-26 8783 8789	George
+T441	That_lady-56 8801 8816	the clever lady
+T674	George-26 8848 8851	his
+T675	George-26 8870 8872	he
+T442	one_of_them-22 8877 8887	his father
+T676	George-26 8877 8880	his
+T443	Lucy-7 8901 8905	Lucy
+T677	Lucy-7 8924 8927	her
+T678	father_and_george-28 8957 8961	they
+T679	Lucy-7 8976 8979	her
+T518	any_one-62 9003 9010	any one
+T680	Lucy-7 9049 9052	she
+T681	Lucy-7 9066 9069	she
+T444	father_and_george-28 9091 9108	the two outsiders
+R1	cop Arg1:T24 Arg2:T219
+T696	PRON_FAC 1596 1598	it
+T697	The_first_vacant_room_in_the_front-17 1596 1598	it
+T698	PRON_FAC 1781 1783	it
+T699	The_first_vacant_room_in_the_front-17 1781 1783	it
+T732	PRON_GPE 8686 8688	it
+T733	Prato-55 8686 8688	it

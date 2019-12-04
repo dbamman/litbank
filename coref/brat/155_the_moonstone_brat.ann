@@ -1,0 +1,546 @@
+T1	PROP_GPE 141 148	England
+T2	PROP_GPE 113 118	India
+T3	NOM_PER 249 258	my cousin
+T4	PROP_PER 261 276	John Herncastle
+T5	PROP_PER 787 800	General Baird
+T6	NOM_PER 660 669	my cousin
+T7	NOM_FAC 1039 1065	the Palace of Seringapatam
+T8	PROP_GPE 1175 1180	India
+T9	NOM_PER 1270 1318	the four-handed Indian god who typifies the Moon
+T10	NOM_PER 1431 1456	the deity whom it adorned
+T11	PROP_GPE 1598 1603	India
+T12	PROP_GPE 1769 1774	India
+T13	PROP_GPE 1731 1735	Rome
+T14	NOM_GPE 1712 1726	ancient Greece
+T15	NOM_PER 2032 2042	collectors
+T16	PROP_GPE 2223 2228	India
+T18	NOM_FAC 2299 2348	the famous temple , which had stood for centuries
+T19	NOM_LOC 2404 2421	the Eastern world
+T21	NOM_PER 2427 2467	all the deities worshipped in the temple
+T22	NOM_PER 2513 2539	the conquering Mohammedans
+T23	NOM_FAC 2457 2467	the temple
+T25	PROP_GPE 2720 2725	India
+T26	NOM_PER 2555 2569	three Brahmins
+T27	NOM_FAC 2780 2814	a hall inlaid with precious stones
+T32	NOM_PER 3020 3029	The deity
+T34	NOM_PER 3114 3126	the Brahmins
+T35	NOM_PER 3170 3179	The deity
+T36	NOM_PER 3328 3331	men
+T38	NOM_PER 3338 3350	the Brahmins
+T39	NOM_PER 3387 3396	The deity
+T40	NOM_PER 3500 3509	his house
+T41	NOM_PER 3551 3563	the Brahmins
+T42	NOM_PER 3736 3754	the three Brahmins
+T43	NOM_PER 3718 3754	the successors of the three Brahmins
+T45	NOM_PER 4213 4257	an officer of rank in the army of Aurungzebe
+T46	NOM_PER 4145 4156	the deities
+T47	NOM_PER 4061 4080	the four-handed god
+T49	NOM_PER 4317 4343	the three guardian priests
+T52	NOM_PER 4630 4674	the successors of the three guardian priests
+T56	NOM_PER 4648 4674	the three guardian priests
+T57	PROP_PER 4925 4947	Sultan of Seringapatam
+T58	NOM_FAC 5114 5146	the palace of the Sultan himself
+T59	NOM_PER 5128 5138	the Sultan
+T61	NOM_PER 5150 5176	the three guardian priests
+T62	NOM_PER 5434 5463	the three priests in disguise
+T63	NOM_PER 5400 5415	those three men
+T64	NOM_PER 5223 5260	three officers of Tippoo ’s household
+T65	PROP_GPE 5995 6007	Seringapatam
+T68	NOM_PER 6168 6177	My cousin
+T69	NOM_LOC 6246 6255	the river
+T70	NOM_GPE 6395 6403	the town
+T71	PROP_PER 6553 6563	Herncastle
+T72	PROP_PER 6513 6519	Tippoo
+T73	PROP_PER 6464 6477	General Baird
+T74	NOM_FAC 6853 6863	the Palace
+T75	NOM_PER 6781 6793	the soldiers
+T76	NOM_PER 6957 6966	my cousin
+T77	NOM_PER 7016 7032	our own soldiers
+T78	NOM_FAC 7872 7885	the courtyard
+T82	NOM_PER 8290 8321	a man whose back was towards me
+T83	NOM_PER 8324 8331	The man
+T84	PROP_PER 8381 8396	John Herncastle
+T86	NOM_PER 8948 8957	My cousin
+T87	NOM_PER 8985 8993	a madman
+T89	NOM_PER 9046 9053	a guard
+T90	NOM_PER 9070 9077	The men
+T91	NOM_PER 9154 9185	two sentinels of my own company
+T92	NOM_PER 9284 9293	my cousin
+T93	NOM_PER 9404 9434	any thief detected in the fact
+T94	PROP_PER 9348 9361	General Baird
+T95	NOM_PER 9530 9541	the General
+T96	PROP_PER 9979 9989	Herncastle
+T97	PROP_GPE 25 37	SERINGAPATAM
+T98	NOM_PER 125 148	my relatives in England
+T99	NOM_PER 377 386	my family
+T100	NOM_PER 366 434	members of my family whose good opinion I can not consent to forfeit
+T101	PROP_GPE 766 778	Seringapatam
+T102	NOM_FAC 982 990	our camp
+T103	NOM_PER 1818 1823	a god
+T20	NOM_PER 2168 2192	the Mohammedan conqueror
+T104	PROP_PER 2195 2212	Mahmoud of Ghizni
+T105	NOM_GPE 2241 2266	the holy city of Somnauth
+T17	NOM_PER 2470 2482	the moon-god
+T24	NOM_PER 2572 2636	the inviolate deity , bearing the Yellow Diamond in its forehead
+T106	NOM_GPE 2699 2725	the sacred cities of India
+T107	NOM_GPE 2685 2725	the second of the sacred cities of India
+T108	PROP_GPE 2729 2748	the city of Benares
+T109	NOM_PER 2862 2874	the moon-god
+T29	NOM_PER 2988 3006	the three Brahmins
+T30	NOM_PER 3100 3107	the god
+T31	NOM_PER 3255 3268	three priests
+T33	NOM_PER 3427 3483	the presumptuous mortal who laid hands on the sacred gem
+T37	PROP_PER 3907 3917	Aurungzebe
+T44	PROP_PER 3931 3941	the Moguls
+T110	NOM_PER 3920 3941	Emperor of the Moguls
+T48	PROP_PER 4247 4257	Aurungzebe
+T111	NOM_PER 4235 4257	the army of Aurungzebe
+T50	NOM_PER 4421 4464	the warrior who had committed the sacrilege
+T53	PROP_PER 4916 4922	Tippoo
+T54	PROP_GPE 4935 4947	Seringapatam
+T55	PROP_PER 5241 5247	Tippoo
+T60	NOM_PER 5276 5284	the rest
+T112	NOM_PER 5263 5284	strangers to the rest
+T113	NOM_FAC 5486 5494	our camp
+T114	NOM_PER 5589 5598	my cousin
+T115	PROP_GPE 5694 5706	Seringapatam
+T116	PROP_PER 5834 5844	Herncastle
+T66	NOM_PER 5973 5989	the English army
+T67	NOM_GPE 6433 6442	the place
+T117	NOM_PER 6536 6545	the slain
+T118	NOM_PER 6601 6707	a party sent out by the general ’s orders to prevent the plunder and confusion which followed our conquest
+T119	NOM_PER 6621 6632	the general
+T120	NOM_PER 6710 6728	The camp-followers
+T121	NOM_FAC 6921 6951	the court outside the treasury
+T122	NOM_FAC 6939 6951	the treasury
+T123	PROP_PER 7035 7045	Herncastle
+T124	NOM_FAC 7314 7326	the treasury
+T125	NOM_PER 7358 7365	The men
+T80	NOM_PER 8043 8054	two Indians
+T79	NOM_PER 8089 8111	officers of the palace
+T81	NOM_FAC 8214 8224	an armoury
+T126	NOM_FAC 8178 8224	a room , which appeared to serve as an armoury
+T127	NOM_PER 8227 8260	A third Indian , mortally wounded
+T128	NOM_PER 8613 8629	The dying Indian
+T129	PROP_PER 8675 8685	Herncastle
+T85	NOM_FAC 8921 8934	the courtyard
+T88	NOM_FAC 9004 9012	the room
+T130	NOM_PER 9171 9185	my own company
+T131	NOM_PER 9476 9495	The provost-marshal
+T132	PROP_PER 9610 9620	Herncastle
+T133	NOM_PER 9785 9810	the Indian in the armoury
+T134	NOM_FAC 9799 9810	the armoury
+T135	NOM_PER 9910 9920	The Indian
+T28	NOM_PER 2962 2975	the Preserver
+T136	NOM_PER 2955 2961	Vishnu
+T51	NOM_PER 4734 4747	the Preserver
+T137	NOM_PER 4727 4733	Vishnu
+T141	NOM_FAC 2903 2907	Here
+T142	PRON_PER 77 78	I
+T143	PRON_PER 125 127	my
+T144	PRON_PER 151 153	My
+T145	PRON_PER 204 206	me
+T146	PRON_PER 249 251	my
+T147	PRON_PER 297 298	I
+T148	PRON_PER 377 379	my
+T149	PRON_PER 406 407	I
+T150	PRON_PER 437 438	I
+T151	PRON_PER 447 451	them
+T152	PRON_PER 463 468	their
+T153	PRON_PER 484 488	they
+T154	PRON_PER 499 501	my
+T155	PRON_PER 518 519	I
+T156	PRON_PER 533 535	my
+T157	PRON_PER 563 564	I
+T158	PRON_PER 660 662	my
+T159	PRON_PER 674 676	me
+T160	PRON_PER 724 726	we
+T161	PRON_PER 890 891	I
+T162	PRON_PER 982 985	our
+T163	PRON_PER 1694 1695	I
+T164	PRON_PER 2046 2049	our
+T165	PRON_PER 3053 3056	his
+T166	PRON_PER 3141 3146	their
+T167	PRON_PER 3156 3161	their
+T168	PRON_PER 3376 3379	his
+T169	PRON_PER 3500 3503	his
+T170	PRON_PER 3541 3544	him
+T171	PRON_PER 3763 3768	their
+T172	PRON_PER 3947 3950	his
+T173	PRON_PER 4281 4286	their
+T174	PRON_PER 4680 4685	their
+T175	PRON_PER 4766 4770	them
+T176	PRON_PER 4771 4776	their
+T177	PRON_PER 5084 5087	his
+T178	PRON_PER 5139 5146	himself
+T179	PRON_PER 5188 5193	their
+T180	PRON_PER 5299 5304	their
+T181	PRON_PER 5486 5489	our
+T182	PRON_PER 5579 5581	us
+T183	PRON_PER 5589 5591	my
+T184	PRON_PER 5639 5642	him
+T185	PRON_PER 5709 5711	he
+T186	PRON_PER 5736 5738	me
+T187	PRON_PER 5881 5884	him
+T188	PRON_PER 5887 5889	He
+T189	PRON_PER 5904 5907	his
+T190	PRON_PER 5928 5930	we
+T191	PRON_PER 5957 5960	his
+T192	PRON_PER 6071 6073	we
+T193	PRON_PER 6121 6123	me
+T194	PRON_PER 6133 6136	you
+T195	PRON_PER 6168 6170	My
+T196	PRON_PER 6182 6183	I
+T197	PRON_PER 6215 6216	I
+T198	PRON_PER 6227 6230	him
+T199	PRON_PER 6236 6238	we
+T200	PRON_PER 6263 6265	we
+T201	PRON_PER 6318 6320	we
+T202	PRON_PER 6377 6380	our
+T203	PRON_PER 6478 6485	himself
+T204	PRON_PER 6568 6569	I
+T205	PRON_PER 6576 6578	We
+T206	PRON_PER 6695 6698	our
+T207	PRON_PER 6800 6805	their
+T208	PRON_PER 6877 6887	themselves
+T209	PRON_PER 6957 6959	my
+T210	PRON_PER 6971 6972	I
+T211	PRON_PER 7016 7019	our
+T212	PRON_PER 7076 7077	I
+T213	PRON_PER 7170 7172	we
+T214	PRON_PER 7186 7188	He
+T215	PRON_PER 7209 7211	my
+T216	PRON_PER 7269 7272	him
+T217	PRON_PER 7350 7351	I
+T218	PRON_PER 7371 7372	I
+T219	PRON_PER 7412 7422	themselves
+T220	PRON_PER 7506 7510	them
+T221	PRON_PER 7776 7777	I
+T222	PRON_PER 7823 7824	I
+T223	PRON_PER 7997 7998	I
+T224	PRON_PER 8060 8065	their
+T225	PRON_PER 8077 8078	I
+T226	PRON_PER 8170 8172	me
+T227	PRON_PER 8319 8321	me
+T228	PRON_PER 8359 8360	I
+T229	PRON_PER 8375 8376	I
+T230	PRON_PER 8572 8574	he
+T231	PRON_PER 8585 8587	me
+T232	PRON_PER 8638 8641	his
+T233	PRON_PER 8710 8713	his
+T234	PRON_PER 8780 8783	you
+T235	PRON_PER 8798 8800	He
+T236	PRON_PER 8857 8858	I
+T237	PRON_PER 8911 8913	me
+T238	PRON_PER 8948 8950	My
+T239	PRON_PER 8973 8977	them
+T240	PRON_PER 9017 9019	he
+T241	PRON_PER 9031 9033	me
+T242	PRON_PER 9091 9093	he
+T243	PRON_PER 9100 9107	himself
+T244	PRON_PER 9111 9115	them
+T245	PRON_PER 9121 9124	his
+T246	PRON_PER 9135 9138	his
+T247	PRON_PER 9148 9149	I
+T248	PRON_PER 9171 9173	my
+T249	PRON_PER 9196 9197	I
+T250	PRON_PER 9267 9268	I
+T251	PRON_PER 9284 9286	my
+T252	PRON_PER 9440 9442	he
+T253	PRON_PER 9448 9450	he
+T254	PRON_PER 9625 9626	I
+T255	PRON_PER 9639 9641	He
+T256	PRON_PER 9651 9654	his
+T257	PRON_PER 9703 9704	I
+T258	PRON_PER 9719 9720	I
+T259	PRON_PER 9726 9729	him
+T260	PRON_PER 9730 9732	my
+T261	PRON_PER 9757 9759	me
+T262	PRON_PER 9770 9771	I
+T263	PRON_PER 9815 9818	his
+T264	PRON_PER 9866 9868	he
+T265	PRON_PER 9894 9898	your
+T266	PRON_PER 9925 9928	his
+T267	PRON_PER 9940 9941	I
+T268	PRON_PER 9999 10002	his
+T269	PRON_PER 10020 10021	I
+T270	PRON_PER 10040 10043	you
+T271	NOM_PER 5299 5311	their master
+T272	NOM_PER 5750 5756	others
+T273	NOM_PER 8788 8793	yours
+T274	NOM_PER 8886 8934	the men who had followed me across the courtyard
+T372	SERINGAPATAM-0 25 37	SERINGAPATAM
+T417	narrator-1 77 78	I
+T277	India-2 113 118	India
+T373	my_relatives_in_England-3 125 148	my relatives in England
+T418	narrator-1 125 127	my
+T276	England-4 141 148	England
+T419	narrator-1 151 153	My
+T420	narrator-1 204 206	me
+T421	narrator-1 249 251	my
+T422	narrator-1 297 298	I
+T375	members_of_my_family_whose_good_opinion_I_can_not_consent_to_forfeit-6 366 434	members of my family whose good opinion I can not consent to forfeit
+T374	my_family-7 377 386	my family
+T423	narrator-1 377 379	my
+T424	narrator-1 406 407	I
+T425	narrator-1 437 438	I
+T426	members_of_my_family_whose_good_opinion_I_can_not_consent_to_forfeit-6 447 451	them
+T427	members_of_my_family_whose_good_opinion_I_can_not_consent_to_forfeit-6 463 468	their
+T428	members_of_my_family_whose_good_opinion_I_can_not_consent_to_forfeit-6 484 488	they
+T429	narrator-1 499 501	my
+T430	narrator-1 518 519	I
+T431	narrator-1 533 535	my
+T432	narrator-1 563 564	I
+T281	John_Herncastle-5 660 669	my cousin
+T433	narrator-1 660 662	my
+T434	narrator-1 674 676	me
+T435	narrator_John_Herncastle-8 724 726	we
+T376	SERINGAPATAM-0 766 778	Seringapatam
+T280	General_Baird-9 787 800	General Baird
+T436	narrator-1 890 891	I
+T377	our_camp-10 982 990	our camp
+T437	we_in_our_camp-11 982 985	our
+T282	the_Palace_of_Seringapatam-12 1039 1065	the Palace of Seringapatam
+T283	India-2 1175 1180	India
+T284	moon_god-13 1270 1318	the four-handed Indian god who typifies the Moon
+T285	moon_god-13 1431 1456	the deity whom it adorned
+T286	India-2 1598 1603	India
+T438	narrator-1 1694 1695	I
+T289	ancient_Greece-14 1712 1726	ancient Greece
+T288	Rome-15 1731 1735	Rome
+T287	India-2 1769 1774	India
+T378	a_god-16 1818 1823	a god
+T290	collectors-17 2032 2042	collectors
+T439	narrator_readers-18 2046 2049	our
+T291	India-2 2223 2228	India
+T380	the_holy_city_of_Somnauth-20 2241 2266	the holy city of Somnauth
+T293	temple-21 2299 2348	the famous temple , which had stood for centuries
+T294	the_Eastern_world-22 2404 2421	the Eastern world
+T296	all_the_deities_worshipped_in_the_temple-23 2427 2467	all the deities worshipped in the temple
+T298	temple-21 2457 2467	the temple
+T292	moon_god-13 2470 2482	the moon-god
+T297	the_conquering_Mohammedans-24 2513 2539	the conquering Mohammedans
+T301	three_Brahmins-25 2555 2569	three Brahmins
+T299	moon_god-13 2572 2636	the inviolate deity , bearing the Yellow Diamond in its forehead
+T382	the_second_of_the_sacred_cities_of_India-26 2685 2725	the second of the sacred cities of India
+T381	the_sacred_cities_of_India-27 2699 2725	the sacred cities of India
+T300	India-2 2720 2725	India
+T302	a_hall_inlaid_with_precious_stones-28 2780 2814	a hall inlaid with precious stones
+T384	moon_god-13 2862 2874	the moon-god
+T416	a_hall_inlaid_with_precious_stones-28 2903 2907	Here
+T411	Vishnu-29 2955 2961	Vishnu
+T303	Vishnu-29 2962 2975	the Preserver
+T304	three_Brahmins-25 2988 3006	the three Brahmins
+T307	Vishnu-29 3020 3029	The deity
+T440	Vishnu-29 3053 3056	his
+T305	moon_god-13 3100 3107	the god
+T309	three_Brahmins-25 3114 3126	the Brahmins
+T441	three_Brahmins-25 3141 3146	their
+T442	three_Brahmins-25 3156 3161	their
+T310	Vishnu-29 3170 3179	The deity
+T306	three_priests-30 3255 3268	three priests
+T311	men-31 3328 3331	men
+T313	three_Brahmins-25 3338 3350	the Brahmins
+T443	Vishnu-29 3376 3379	his
+T314	Vishnu-29 3387 3396	The deity
+T308	the_presumptuous_mortal_who_laid_hands_on_the_sacred_gem-32 3427 3483	the presumptuous mortal who laid hands on the sacred gem
+T315	his_house-33 3500 3509	his house
+T444	the_presumptuous_mortal_who_laid_hands_on_the_sacred_gem-32 3500 3503	his
+T445	the_presumptuous_mortal_who_laid_hands_on_the_sacred_gem-32 3541 3544	him
+T316	three_Brahmins-25 3551 3563	the Brahmins
+T318	the_successors_of_the_three_Brahmins-34 3718 3754	the successors of the three Brahmins
+T317	three_Brahmins-25 3736 3754	the three Brahmins
+T446	the_successors_of_the_three_Brahmins-34 3763 3768	their
+T312	Aurungzebe-35 3907 3917	Aurungzebe
+T319	the_Moguls-36 3931 3941	the Moguls
+T447	Aurungzebe-35 3947 3950	his
+T322	moon_god-13 4061 4080	the four-handed god
+T321	the_deities-37 4145 4156	the deities
+T320	an_officer_of_rank_in_the_army_of_Aurungzebe-38 4213 4257	an officer of rank in the army of Aurungzebe
+T386	the_army_of_Aurungzebe-39 4235 4257	the army of Aurungzebe
+T323	Aurungzebe-35 4247 4257	Aurungzebe
+T448	three_new_priests-41 4281 4286	their
+T324	three_new_priests-41 4317 4343	the three guardian priests
+T325	an_officer_of_rank_in_the_army_of_Aurungzebe-38 4421 4464	the warrior who had committed the sacrilege
+T327	the_successors_of_the_three_guardian_priests-42 4630 4674	the successors of the three guardian priests
+T331	three_Brahmins-25 4648 4674	the three guardian priests
+T449	the_successors_of_the_three_guardian_priests-42 4680 4685	their
+T412	Vishnu-29 4727 4733	Vishnu
+T326	Vishnu-29 4734 4747	the Preserver
+T450	the_successors_of_the_three_guardian_priests-42 4766 4770	them
+T451	the_successors_of_the_three_guardian_priests-42 4771 4776	their
+T328	Tippoo-43 4916 4922	Tippoo
+T329	SERINGAPATAM-0 4935 4947	Seringapatam
+T452	Tippoo-43 5084 5087	his
+T333	the_palace_of_the_Sultan_himself-44 5114 5146	the palace of the Sultan himself
+T334	Tippoo-43 5128 5138	the Sultan
+T453	Tippoo-43 5139 5146	himself
+T336	third_set_of_priests-45 5150 5176	the three guardian priests
+T454	third_set_of_priests-45 5188 5193	their
+T339	third_set_of_priests-45 5223 5260	three officers of Tippoo ’s household
+T330	Tippoo-43 5241 5247	Tippoo
+T335	the_rest-46 5276 5284	the rest
+T455	third_set_of_priests-45 5299 5304	their
+T338	third_set_of_priests-45 5400 5415	those three men
+T337	third_set_of_priests-45 5434 5463	the three priests in disguise
+T546	Tippoo-43 5299 5311	their master
+T388	our_camp-10 5486 5494	our camp
+T456	we_in_our_camp-11 5486 5489	our
+T457	we_in_our_camp-11 5579 5581	us
+T389	John_Herncastle-5 5589 5598	my cousin
+T458	narrator-1 5589 5591	my
+T459	John_Herncastle-5 5639 5642	him
+T390	SERINGAPATAM-0 5694 5706	Seringapatam
+T460	John_Herncastle-5 5709 5711	he
+T461	narrator-1 5736 5738	me
+T547	others-47 5750 5756	others
+T391	John_Herncastle-5 5834 5844	Herncastle
+T462	John_Herncastle-5 5881 5884	him
+T463	John_Herncastle-5 5887 5889	He
+T464	John_Herncastle-5 5904 5907	his
+T465	we_in_our_camp-11 5928 5930	we
+T466	John_Herncastle-5 5957 5960	his
+T341	the_English_army-48 5973 5989	the English army
+T340	SERINGAPATAM-0 5995 6007	Seringapatam
+T467	we_in_our_camp-11 6071 6073	we
+T468	narrator-1 6121 6123	me
+T469	dear_reader-49 6133 6136	you
+T343	John_Herncastle-5 6168 6177	My cousin
+T470	narrator-1 6168 6170	My
+T471	narrator-1 6182 6183	I
+T472	narrator-1 6215 6216	I
+T473	John_Herncastle-5 6227 6230	him
+T474	we_in_our_camp-11 6236 6238	we
+T344	the_river-50 6246 6255	the river
+T475	we_in_our_camp-11 6263 6265	we
+T476	we_in_our_camp-11 6318 6320	we
+T477	we_in_our_camp-11 6377 6380	our
+T345	SERINGAPATAM-0 6395 6403	the town
+T342	SERINGAPATAM-0 6433 6442	the place
+T348	General_Baird-9 6464 6477	General Baird
+T478	General_Baird-9 6478 6485	himself
+T347	Tippoo-43 6513 6519	Tippoo
+T392	the_slain-51 6536 6545	the slain
+T346	John_Herncastle-5 6553 6563	Herncastle
+T479	narrator-1 6568 6569	I
+T480	narrator_John_Herncastle-8 6576 6578	We
+T393	a_party_sent_out_by_the_general__s_orders_to_prevent_the_plunder_and_confusion_which_followed_our_conquest-52 6601 6707	a party sent out by the general ’s orders to prevent the plunder and confusion which followed our conquest
+T394	General_Baird-9 6621 6632	the general
+T481	we_in_our_camp-11 6695 6698	our
+T395	The_camp-followers-53 6710 6728	The camp-followers
+T350	the_soldiers-54 6781 6793	the soldiers
+T482	the_soldiers-54 6800 6805	their
+T349	the_Palace_of_Seringapatam-12 6853 6863	the Palace
+T483	the_soldiers-54 6877 6887	themselves
+T396	the_court_outside_the_treasury-55 6921 6951	the court outside the treasury
+T397	the_treasury-56 6939 6951	the treasury
+T351	John_Herncastle-5 6957 6966	my cousin
+T484	narrator-1 6957 6959	my
+T485	narrator-1 6971 6972	I
+T352	our_own_soldiers-57 7016 7032	our own soldiers
+T486	narrator_John_Herncastle-8 7016 7019	our
+T398	John_Herncastle-5 7035 7045	Herncastle
+T487	narrator-1 7076 7077	I
+T488	narrator_John_Herncastle-8 7170 7172	we
+T489	John_Herncastle-5 7186 7188	He
+T490	narrator-1 7209 7211	my
+T491	John_Herncastle-5 7269 7272	him
+T399	the_treasury-56 7314 7326	the treasury
+T492	narrator-1 7350 7351	I
+T400	the_soldiers-54 7358 7365	The men
+T493	narrator-1 7371 7372	I
+T494	the_soldiers-54 7412 7422	themselves
+T495	the_soldiers-54 7506 7510	them
+T496	narrator-1 7776 7777	I
+T497	narrator-1 7823 7824	I
+T353	the_court_outside_the_treasury-55 7872 7885	the courtyard
+T498	narrator-1 7997 7998	I
+T355	two_Indians-58 8043 8054	two Indians
+T499	two_Indians-58 8060 8065	their
+T500	narrator-1 8077 8078	I
+T501	narrator-1 8170 8172	me
+T401	a_room___which_appeared_to_serve_as_an_armoury-59 8178 8224	a room , which appeared to serve as an armoury
+T356	a_room___which_appeared_to_serve_as_an_armoury-59 8214 8224	an armoury
+T402	A_third_Indian___mortally_wounded-60 8227 8260	A third Indian , mortally wounded
+T357	John_Herncastle-5 8290 8321	a man whose back was towards me
+T502	narrator-1 8319 8321	me
+T358	John_Herncastle-5 8324 8331	The man
+T503	narrator-1 8359 8360	I
+T504	narrator-1 8375 8376	I
+T359	John_Herncastle-5 8381 8396	John Herncastle
+T505	John_Herncastle-5 8572 8574	he
+T506	narrator-1 8585 8587	me
+T403	A_third_Indian___mortally_wounded-60 8613 8629	The dying Indian
+T507	A_third_Indian___mortally_wounded-60 8638 8641	his
+T404	John_Herncastle-5 8675 8685	Herncastle
+T508	A_third_Indian___mortally_wounded-60 8710 8713	his
+T509	John_Herncastle-5 8780 8783	you
+T510	A_third_Indian___mortally_wounded-60 8798 8800	He
+T548	yours-61 8788 8793	yours
+T511	narrator-1 8857 8858	I
+T512	narrator-1 8911 8913	me
+T360	the_court_outside_the_treasury-55 8921 8934	the courtyard
+T549	the_men_who_had_followed_me_across_the_courtyard-62 8886 8934	the men who had followed me across the courtyard
+T361	John_Herncastle-5 8948 8957	My cousin
+T513	narrator-1 8948 8950	My
+T514	the_men_who_had_followed_me_across_the_courtyard-62 8973 8977	them
+T362	John_Herncastle-5 8985 8993	a madman
+T363	a_room___which_appeared_to_serve_as_an_armoury-59 9004 9012	the room
+T515	John_Herncastle-5 9017 9019	he
+T516	narrator-1 9031 9033	me
+T364	a_guard-63 9046 9053	a guard
+T365	the_men_who_had_followed_me_across_the_courtyard-62 9070 9077	The men
+T517	John_Herncastle-5 9091 9093	he
+T518	John_Herncastle-5 9100 9107	himself
+T519	the_men_who_had_followed_me_across_the_courtyard-62 9111 9115	them
+T520	John_Herncastle-5 9121 9124	his
+T521	John_Herncastle-5 9135 9138	his
+T522	narrator-1 9148 9149	I
+T366	two_sentinels_of_my_own_company-64 9154 9185	two sentinels of my own company
+T405	my_own_company-65 9171 9185	my own company
+T523	narrator-1 9171 9173	my
+T524	narrator-1 9196 9197	I
+T525	narrator-1 9267 9268	I
+T367	John_Herncastle-5 9284 9293	my cousin
+T526	narrator-1 9284 9286	my
+T369	General_Baird-9 9348 9361	General Baird
+T368	any_thief_detected_in_the_fact-66 9404 9434	any thief detected in the fact
+T527	any_thief_detected_in_the_fact-66 9440 9442	he
+T528	any_thief_detected_in_the_fact-66 9448 9450	he
+T406	The_provost-marshal-67 9476 9495	The provost-marshal
+T370	General_Baird-9 9530 9541	the General
+T407	John_Herncastle-5 9610 9620	Herncastle
+T529	narrator-1 9625 9626	I
+T530	John_Herncastle-5 9639 9641	He
+T531	John_Herncastle-5 9651 9654	his
+T532	narrator-1 9703 9704	I
+T533	narrator-1 9719 9720	I
+T534	John_Herncastle-5 9726 9729	him
+T535	narrator-1 9730 9732	my
+T536	narrator-1 9757 9759	me
+T537	narrator-1 9770 9771	I
+T408	A_third_Indian___mortally_wounded-60 9785 9810	the Indian in the armoury
+T409	a_room___which_appeared_to_serve_as_an_armoury-59 9799 9810	the armoury
+T538	A_third_Indian___mortally_wounded-60 9815 9818	his
+T539	A_third_Indian___mortally_wounded-60 9866 9868	he
+T540	John_Herncastle-5 9894 9898	your
+T410	A_third_Indian___mortally_wounded-60 9910 9920	The Indian
+T541	A_third_Indian___mortally_wounded-60 9925 9928	his
+T542	John_Herncastle-5 9940 9941	I
+T371	John_Herncastle-5 9979 9989	Herncastle
+T543	A_third_Indian___mortally_wounded-60 9999 10002	his
+T544	John_Herncastle-5 10020 10021	I
+T545	narrator-1 10040 10043	you
+R1	appos Arg1:T3 Arg2:T4
+R3	appos Arg1:T108 Arg2:T107
+R4	appos Arg1:T110 Arg2:T37
+R5	appos Arg1:T57 Arg2:T53
+R6	appos Arg1:T112 Arg2:T64
+R2	appos Arg1:T20 Arg2:T104
+T138	the_Mohammedan_conqueror-19 2195 2212	Mahmoud of Ghizni
+T562	PRON_GPE 2285 2288	its
+T563	the_holy_city_of_Somnauth-20 2285 2288	its
+T564	PRON_PER 2624 2627	its
+T565	moon_god-13 2624 2627	its
+T139	John_Herncastle-5 261 276	John Herncastle
+T140	two_Indians-58 8089 8111	officers of the palace

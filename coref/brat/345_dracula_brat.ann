@@ -1,0 +1,680 @@
+T0	PROP_GPE 144 150	Vienna
+T1	NOM_VEH 206 211	train
+T2	PROP_GPE 96 102	Munich
+T3	NOM_FAC 354 365	the streets
+T4	NOM_VEH 308 317	the train
+T5	NOM_FAC 397 408	the station
+T6	NOM_LOC 535 543	the West
+T7	NOM_LOC 557 565	the East
+T8	NOM_PER 998 1008	the waiter
+T10	PROP_GPE 1428 1440	Transylvania
+T12	NOM_PER 1557 1583	a nobleman of that country
+T13	NOM_LOC 1740 1777	the midst of the Carpathian mountains
+T14	NOM_GPE 1598 1619	the district he named
+T16	PROP_GPE 1713 1721	Moldavia
+T17	NOM_LOC 1886 1926	the exact locality of the Castle Dracula
+T20	NOM_GPE 2048 2084	the post town named by Count Dracula
+T21	NOM_LOC 2409 2417	the West
+T23	PROP_PER 2424 2432	Szekelys
+T24	NOM_PER 2300 2319	Saxons in the South
+T25	NOM_LOC 2449 2454	North
+T26	NOM_LOC 2310 2319	the South
+T27	PROP_GPE 2247 2259	Transylvania
+T28	NOM_LOC 2436 2444	the East
+T29	PROP_PER 2398 2405	Magyars
+T30	NOM_PER 2533 2537	Huns
+T31	PROP_PER 2518 2524	Attila
+T32	PROP_PER 2635 2643	the Huns
+T33	PROP_PER 2566 2577	the Magyars
+T36	NOM_FAC 3736 3747	the station
+T37	NOM_VEH 3636 3645	the train
+T42	NOM_FAC 4365 4378	every station
+T43	PROP_GPE 4536 4542	France
+T44	NOM_GPE 4501 4505	home
+T45	PROP_GPE 4547 4554	Germany
+T46	NOM_PER 4651 4660	The women
+T47	NOM_PER 5489 5497	brigands
+T49	NOM_LOC 5717 5729	the frontier
+T53	NOM_PER 6413 6443	a cheery-looking elderly woman
+T56	NOM_PER 6635 6654	The Herr Englishman
+T59	PROP_GPE 7160 7166	London
+T61	NOM_PER 7305 7316	my landlord
+T63	NOM_VEH 7393 7402	the coach
+T65	NOM_PER 7689 7721	the old lady who had received me
+T66	NOM_FAC 7934 7944	his castle
+T67	PROP_PER 7888 7901	Count Dracula
+T69	NOM_FAC 8262 8269	my room
+T70	NOM_PER 8238 8250	the old lady
+T71	PROP_PER 8327 8337	young Herr
+T73	PROP_PER 8956 8966	St. George
+T76	NOM_PER 9776 9796	an English Churchman
+T77	NOM_FAC 10113 10121	the room
+T78	NOM_PER 10073 10084	your mother
+T79	NOM_GPE 10342 10352	this place
+T80	NOM_PER 10285 10297	the old lady
+T81	NOM_VEH 10542 10551	the coach
+T82	PROP_PER 10 25	JONATHAN HARKER
+T83	PROP_GPE 75 83	Bistritz
+T84	PROP_GPE 231 241	Buda-Pesth
+T85	NOM_GPE 248 265	a wonderful place
+T86	NOM_FAC 568 620	the most western of splendid bridges over the Danube
+T87	PROP_LOC 610 620	the Danube
+T88	PROP_GPE 769 781	Klausenburgh
+T89	PROP_FAC 816 832	the Hotel Royale
+T90	PROP_PER 981 985	Mina
+T91	PROP_LOC 1138 1153	the Carpathians
+T9	PROP_GPE 1318 1324	London
+T92	PROP_FAC 1341 1359	the British Museum
+T11	NOM_FAC 1406 1417	the library
+T93	NOM_GPE 1571 1583	that country
+T94	NOM_LOC 1626 1657	the extreme east of the country
+T95	NOM_GPE 1646 1657	the country
+T15	NOM_GPE 1683 1695	three states
+T96	PROP_GPE 1698 1710	Transylvania
+T97	PROP_GPE 1726 1734	Bukovina
+T98	NOM_LOC 1780 1833	one of the wildest and least known portions of Europe
+T99	PROP_GPE 1827 1833	Europe
+T100	NOM_FAC 1908 1926	the Castle Dracula
+T101	NOM_GPE 1953 1965	this country
+T102	PROP_GPE 2037 2045	Bistritz
+T18	PROP_PER 2071 2084	Count Dracula
+T19	NOM_GPE 2090 2115	a fairly well-known place
+T103	PROP_PER 2219 2223	Mina
+T104	NOM_GPE 2229 2259	the population of Transylvania
+T105	NOM_PER 2342 2354	the Wallachs
+T22	NOM_PER 2365 2395	the descendants of the Dacians
+T106	PROP_PER 2384 2395	the Dacians
+T107	NOM_PER 2474 2484	the latter
+T108	NOM_GPE 2588 2599	the country
+T109	PROP_LOC 2744 2759	the Carpathians
+T110	NOM_LOC 2776 2824	the centre of some sort of imaginative whirlpool
+T111	NOM_PER 2892 2901	the Count
+T34	NOM_VEH 3772 3784	the carriage
+T35	NOM_VEH 3901 3911	the trains
+T38	PROP_GPE 3939 3944	China
+T112	NOM_GPE 3988 4036	a country which was full of beauty of every kind
+T113	NOM_GPE 4056 4068	little towns
+T114	NOM_FAC 4072 4135	castles on the top of steep hills such as we see in old missals
+T115	NOM_LOC 4083 4105	the top of steep hills
+T116	NOM_LOC 4158 4176	rivers and streams
+T39	NOM_PER 4390 4406	groups of people
+T40	NOM_PER 4419 4425	crowds
+T41	NOM_PER 4485 4505	the peasants at home
+T117	NOM_PER 4509 4554	those I saw coming through France and Germany
+T118	NOM_PER 5009 5020	the Slovaks
+T120	PROP_GPE 5645 5653	Bistritz
+T48	NOM_GPE 5665 5693	a very interesting old place
+T121	PROP_LOC 5737 5751	the Borgo Pass
+T122	PROP_GPE 5771 5779	Bukovina
+T123	NOM_PER 6059 6072	13,000 people
+T50	PROP_PER 6143 6156	Count Dracula
+T51	NOM_FAC 6182 6204	the Golden Krone Hotel
+T52	NOM_GPE 6335 6346	the country
+T54	PROP_PER 6680 6695	Jonathan Harker
+T55	NOM_PER 6738 6810	an elderly man in white shirt-sleeves , who had followed her to the door
+T124	NOM_PER 6869 6878	My Friend
+T125	PROP_LOC 6895 6910	the Carpathians
+T126	PROP_GPE 7014 7022	Bukovina
+T58	PROP_LOC 7060 7074	the Borgo Pass
+T127	NOM_VEH 7075 7086	my carriage
+T128	NOM_GPE 7227 7244	my beautiful land
+T129	NOM_PER 7339 7348	the Count
+T64	NOM_PER 7678 7686	his wife
+T68	NOM_PER 7959 7967	his wife
+T72	NOM_PER 9914 9969	an old lady meaning so well and in such a state of mind
+T74	NOM_VEH 10187 10196	the coach
+T75	PROP_PER 10485 10489	Mina
+T60	NOM_PER 7249 7260	Your friend
+T130	NOM_PER 7265 7272	DRACULA
+T135	NOM_GPE 1487 1498	the country
+T137	NOM_LOC 9065 9074	the world
+T136	NOM_LOC 2700 2709	the world
+T138	NOM_PER 8130 8142	any one else
+T139	NOM_GPE 784 788	Here
+T141	PRON_PER 291 292	I
+T142	PRON_PER 333 334	I
+T143	PRON_PER 368 369	I
+T144	PRON_PER 414 416	we
+T145	PRON_PER 504 505	I
+T146	PRON_PER 519 521	we
+T147	PRON_PER 669 671	us
+T148	PRON_PER 711 713	We
+T149	PRON_PER 789 790	I
+T150	PRON_PER 835 836	I
+T151	PRON_PER 990 991	I
+T152	PRON_PER 1015 1017	he
+T153	PRON_PER 1096 1097	I
+T154	PRON_PER 1156 1157	I
+T155	PRON_PER 1164 1166	my
+T156	PRON_PER 1216 1217	I
+T157	PRON_PER 1234 1235	I
+T158	PRON_PER 1298 1300	my
+T159	PRON_PER 1327 1328	I
+T160	PRON_PER 1457 1459	me
+T161	PRON_PER 1586 1587	I
+T162	PRON_PER 1611 1613	he
+T163	PRON_PER 1836 1837	I
+T164	PRON_PER 1989 1992	our
+T165	PRON_PER 2024 2025	I
+T166	PRON_PER 2118 2119	I
+T167	PRON_PER 2145 2147	my
+T169	PRON_PER 2176 2178	my
+T170	PRON_PER 2191 2192	I
+T171	PRON_PER 2203 2205	my
+T172	PRON_PER 2337 2341	them
+T173	PRON_PER 2457 2458	I
+T174	PRON_PER 2624 2628	they
+T175	PRON_PER 2660 2661	I
+T176	PRON_PER 2833 2835	my
+T177	PRON_PER 2881 2882	I
+T179	PRON_PER 2921 2922	I
+T180	PRON_PER 2951 2953	my
+T181	PRON_PER 2987 2988	I
+T182	PRON_PER 3061 3063	my
+T183	PRON_PER 3156 3157	I
+T184	PRON_PER 3191 3193	my
+T185	PRON_PER 3243 3244	I
+T186	PRON_PER 3297 3299	my
+T187	PRON_PER 3310 3311	I
+T188	PRON_PER 3318 3319	I
+T189	PRON_PER 3359 3360	I
+T190	PRON_PER 3438 3442	they
+T191	PRON_PER 3536 3540	they
+T192	PRON_PER 3605 3606	I
+T193	PRON_PER 3756 3757	I
+T194	PRON_PER 3814 3816	we
+T195	PRON_PER 3845 3847	me
+T196	PRON_PER 3870 3873	you
+T197	PRON_PER 3925 3929	they
+T198	PRON_PER 3960 3962	we
+T199	PRON_PER 4049 4051	we
+T200	PRON_PER 4114 4116	we
+T201	PRON_PER 4148 4150	we
+T202	PRON_LOC 4233 4237	them
+T203	PRON_PER 4465 4469	them
+T204	PRON_PER 4515 4516	I
+T205	PRON_PER 4689 4692	you
+T206	PRON_PER 4702 4706	them
+T207	PRON_PER 4713 4717	they
+T208	PRON_PER 4753 4757	They
+T209	PRON_PER 4821 4825	them
+T212	PRON_PER 4997 4999	we
+T213	PRON_PER 5068 5073	their
+T214	PRON_PER 5241 5245	They
+T215	PRON_PER 5269 5274	their
+T217	PRON_PER 5356 5360	They
+T218	PRON_PER 5429 5433	they
+T219	PRON_PER 5500 5504	They
+T220	PRON_PER 5521 5522	I
+T221	PRON_PER 5635 5637	we
+T222	PRON_PER 6170 6172	me
+T223	PRON_PER 6213 6214	I
+T224	PRON_PER 6226 6228	my
+T225	PRON_PER 6292 6293	I
+T226	PRON_PER 6312 6313	I
+T227	PRON_PER 6349 6350	I
+T228	PRON_PER 6385 6386	I
+T229	PRON_PER 6405 6406	I
+T230	PRON_PER 6599 6600	I
+T231	PRON_PER 6612 6615	she
+T232	PRON_PER 6669 6670	I
+T233	PRON_PER 6700 6703	She
+T234	PRON_PER 6795 6798	her
+T235	PRON_PER 6813 6815	He
+T236	PRON_PER 6869 6871	My
+T237	PRON_PER 6913 6914	I
+T238	PRON_PER 6938 6941	you
+T239	PRON_PER 7051 7054	you
+T240	PRON_PER 7075 7077	my
+T241	PRON_PER 7098 7101	you
+T242	PRON_PER 7117 7120	you
+T243	PRON_PER 7124 7126	me
+T244	PRON_PER 7129 7130	I
+T245	PRON_PER 7142 7146	your
+T246	PRON_PER 7199 7202	you
+T247	PRON_PER 7214 7218	your
+T248	PRON_PER 7227 7229	my
+T249	PRON_PER 7249 7253	Your
+T250	PRON_PER 7292 7293	I
+T251	PRON_PER 7305 7307	my
+T252	PRON_PER 7361 7364	him
+T253	PRON_PER 7407 7409	me
+T254	PRON_PER 7450 7452	he
+T255	PRON_PER 7499 7501	he
+T256	PRON_PER 7523 7525	my
+T257	PRON_PER 7579 7581	he
+T259	PRON_PER 7635 7637	my
+T260	PRON_PER 7662 7664	he
+T261	PRON_PER 7671 7673	He
+T262	PRON_PER 7678 7681	his
+T263	PRON_PER 7719 7721	me
+T264	PRON_PER 7775 7777	He
+T265	PRON_PER 7850 7852	he
+T266	PRON_PER 7865 7866	I
+T267	PRON_PER 7873 7876	him
+T268	PRON_PER 7880 7882	he
+T269	PRON_PER 7919 7921	me
+T270	PRON_PER 7934 7937	his
+T271	PRON_PER 7952 7954	he
+T272	PRON_PER 7959 7962	his
+T273	PRON_PER 7976 7986	themselves
+T274	PRON_PER 8007 8011	they
+T275	PRON_PER 8109 8110	I
+T276	PRON_PER 8222 8223	I
+T277	PRON_PER 8262 8264	my
+T278	PRON_PER 8313 8316	you
+T279	PRON_PER 8345 8348	you
+T280	PRON_PER 8356 8359	She
+T281	PRON_PER 8394 8397	she
+T282	PRON_PER 8418 8421	her
+T283	PRON_PER 8442 8445	she
+T284	PRON_PER 8504 8505	I
+T285	PRON_PER 8528 8529	I
+T286	PRON_PER 8554 8557	her
+T287	PRON_PER 8590 8591	I
+T288	PRON_PER 8597 8600	her
+T289	PRON_PER 8606 8607	I
+T290	PRON_PER 8635 8636	I
+T291	PRON_PER 8673 8676	she
+T292	PRON_PER 8696 8699	you
+T293	PRON_PER 8724 8725	I
+T294	PRON_PER 8767 8770	She
+T295	PRON_PER 8777 8780	her
+T296	PRON_PER 8789 8792	she
+T297	PRON_PER 8819 8820	I
+T298	PRON_PER 8833 8834	I
+T299	PRON_PER 8854 8857	you
+T300	PRON_PER 8885 8887	my
+T301	PRON_PER 8900 8901	I
+T302	PRON_PER 8923 8926	she
+T303	PRON_PER 8979 8982	you
+T304	PRON_PER 9100 9103	you
+T305	PRON_PER 9115 9118	you
+T306	PRON_PER 9140 9143	you
+T307	PRON_PER 9161 9164	She
+T308	PRON_PER 9199 9200	I
+T309	PRON_PER 9218 9221	her
+T310	PRON_PER 9253 9256	she
+T311	PRON_PER 9270 9273	her
+T312	PRON_PER 9293 9295	me
+T313	PRON_PER 9387 9388	I
+T314	PRON_PER 9462 9463	I
+T315	PRON_PER 9507 9508	I
+T316	PRON_PER 9534 9537	her
+T317	PRON_PER 9568 9569	I
+T318	PRON_PER 9583 9584	I
+T319	PRON_PER 9593 9596	her
+T320	PRON_PER 9603 9605	my
+T321	PRON_PER 9637 9638	I
+T322	PRON_PER 9649 9652	She
+T323	PRON_PER 9673 9676	her
+T324	PRON_PER 9711 9714	her
+T325	PRON_PER 9734 9736	me
+T326	PRON_PER 9739 9740	I
+T327	PRON_PER 9799 9800	I
+T328	PRON_PER 9972 9975	She
+T329	PRON_PER 9982 9983	I
+T330	PRON_PER 10007 10009	my
+T331	PRON_PER 10021 10024	she
+T332	PRON_PER 10046 10048	my
+T333	PRON_PER 10073 10077	your
+T334	PRON_PER 10124 10125	I
+T335	PRON_PER 10170 10171	I
+T336	PRON_PER 10261 10263	my
+T337	PRON_PER 10380 10381	I
+T338	PRON_PER 10400 10401	I
+T339	PRON_PER 10435 10437	my
+T340	PRON_PER 10497 10498	I
+T341	PRON_PER 10517 10519	my
+T342	PROP_LOC 1753 1777	the Carpathian mountains
+T343	NOM_PER 4400 4406	people
+T426	JONATHAN_HARKER-0 10 25	JONATHAN HARKER
+T427	Bistritz-1 75 83	Bistritz
+T346	Munich-2 96 102	Munich
+T344	Vienna-3 144 150	Vienna
+T345	train-4 206 211	train
+T428	Buda-Pesth-5 231 241	Buda-Pesth
+T485	JONATHAN_HARKER-0 291 292	I
+T348	train-4 308 317	the train
+T486	JONATHAN_HARKER-0 333 334	I
+T347	the_streets-6 354 365	the streets
+T487	JONATHAN_HARKER-0 368 369	I
+T349	the_station-7 397 408	the station
+T488	first_train_companions-8 414 416	we
+T489	JONATHAN_HARKER-0 504 505	I
+T490	first_train_companions-8 519 521	we
+T350	the_West-9 535 543	the West
+T351	the_East-10 557 565	the East
+T430	the_most_western_of_splendid_bridges_over_the_Danube-11 568 620	the most western of splendid bridges over the Danube
+T431	the_Danube-12 610 620	the Danube
+T491	first_train_companions-8 669 671	us
+T492	first_train_companions-8 711 713	We
+T432	Klausenburgh-13 769 781	Klausenburgh
+T483	Klausenburgh-13 784 788	Here
+T493	JONATHAN_HARKER-0 789 790	I
+T433	the_Hotel_Royale-14 816 832	the Hotel Royale
+T494	JONATHAN_HARKER-0 835 836	I
+T434	Mina-15 981 985	Mina
+T495	JONATHAN_HARKER-0 990 991	I
+T352	the_waiter-16 998 1008	the waiter
+T496	the_waiter-16 1015 1017	he
+T497	JONATHAN_HARKER-0 1096 1097	I
+T435	the_Carpathians-17 1138 1153	the Carpathians
+T498	JONATHAN_HARKER-0 1156 1157	I
+T499	JONATHAN_HARKER-0 1164 1166	my
+T500	JONATHAN_HARKER-0 1216 1217	I
+T501	JONATHAN_HARKER-0 1234 1235	I
+T502	JONATHAN_HARKER-0 1298 1300	my
+T353	London-18 1318 1324	London
+T503	JONATHAN_HARKER-0 1327 1328	I
+T436	the_British_Museum-19 1341 1359	the British Museum
+T355	the_library-20 1406 1417	the library
+T354	Transylvania-21 1428 1440	Transylvania
+T504	JONATHAN_HARKER-0 1457 1459	me
+T479	Transylvania-21 1487 1498	the country
+T356	Count_Dracula-22 1557 1583	a nobleman of that country
+T437	Transylvania-21 1571 1583	that country
+T505	JONATHAN_HARKER-0 1586 1587	I
+T358	the_district_he_named-23 1598 1619	the district he named
+T506	Count_Dracula-22 1611 1613	he
+T438	the_extreme_east_of_the_country-24 1626 1657	the extreme east of the country
+T439	Transylvania-21 1646 1657	the country
+T359	three_states-25 1683 1695	three states
+T440	Transylvania-21 1698 1710	Transylvania
+T360	Moldavia-26 1713 1721	Moldavia
+T441	Bukovina-27 1726 1734	Bukovina
+T357	the_midst_of_the_Carpathian_mountains-28 1740 1777	the midst of the Carpathian mountains
+T686	the_Carpathians-17 1753 1777	the Carpathian mountains
+T443	Europe-29 1827 1833	Europe
+T507	JONATHAN_HARKER-0 1836 1837	I
+T361	the_exact_locality_of_the_Castle_Dracula-30 1886 1926	the exact locality of the Castle Dracula
+T444	the_Castle_Dracula-31 1908 1926	the Castle Dracula
+T445	Transylvania-21 1953 1965	this country
+T508	our-32 1989 1992	our
+T509	JONATHAN_HARKER-0 2024 2025	I
+T446	Bistritz-1 2037 2045	Bistritz
+T362	Count_Dracula-22 2071 2084	Count Dracula
+T510	JONATHAN_HARKER-0 2118 2119	I
+T511	JONATHAN_HARKER-0 2145 2147	my
+T513	JONATHAN_HARKER-0 2176 2178	my
+T514	JONATHAN_HARKER-0 2191 2192	I
+T515	JONATHAN_HARKER-0 2203 2205	my
+T447	Mina-15 2219 2223	Mina
+T448	the_population_of_Transylvania-33 2229 2259	the population of Transylvania
+T371	Transylvania-21 2247 2259	Transylvania
+T368	Saxons_in_the_South-34 2300 2319	Saxons in the South
+T370	the_South-35 2310 2319	the South
+T516	Saxons_in_the_South-34 2337 2341	them
+T449	the_Wallachs-36 2342 2354	the Wallachs
+T366	the_Wallachs-36 2365 2395	the descendants of the Dacians
+T450	the_Dacians-37 2384 2395	the Dacians
+T373	Magyars-38 2398 2405	Magyars
+T365	the_West-39 2409 2417	the West
+T367	Szekelys-40 2424 2432	Szekelys
+T372	the_East-41 2436 2444	the East
+T369	North-42 2449 2454	North
+T517	JONATHAN_HARKER-0 2457 2458	I
+T451	Szekelys-40 2474 2484	the latter
+T375	Attila-43 2518 2524	Attila
+T374	Huns-44 2533 2537	Huns
+T377	Magyars-38 2566 2577	the Magyars
+T452	Transylvania-21 2588 2599	the country
+T518	Magyars-38 2624 2628	they
+T376	Huns-44 2635 2643	the Huns
+T519	JONATHAN_HARKER-0 2660 2661	I
+T480	the_world-45 2700 2709	the world
+T453	the_Carpathians-17 2744 2759	the Carpathians
+T454	the_centre_of_some_sort_of_imaginative_whirlpool-46 2776 2824	the centre of some sort of imaginative whirlpool
+T520	JONATHAN_HARKER-0 2833 2835	my
+T521	JONATHAN_HARKER-0 2881 2882	I
+T455	Count_Dracula-22 2892 2901	the Count
+T523	JONATHAN_HARKER-0 2921 2922	I
+T524	JONATHAN_HARKER-0 2951 2953	my
+T525	JONATHAN_HARKER-0 2987 2988	I
+T526	JONATHAN_HARKER-0 3061 3063	my
+T527	JONATHAN_HARKER-0 3156 3157	I
+T528	JONATHAN_HARKER-0 3191 3193	my
+T529	JONATHAN_HARKER-0 3243 3244	I
+T530	JONATHAN_HARKER-0 3297 3299	my
+T531	JONATHAN_HARKER-0 3310 3311	I
+T532	JONATHAN_HARKER-0 3318 3319	I
+T533	JONATHAN_HARKER-0 3359 3360	I
+T534	they-47 3438 3442	they
+T535	they-48 3536 3540	they
+T536	JONATHAN_HARKER-0 3605 3606	I
+T381	the_train-49 3636 3645	the train
+T380	the_station-7 3736 3747	the station
+T537	JONATHAN_HARKER-0 3756 3757	I
+T378	the_carriage-50 3772 3784	the carriage
+T538	second_train_companions-51 3814 3816	we
+T539	JONATHAN_HARKER-0 3845 3847	me
+T540	you-52 3870 3873	you
+T379	the_trains-53 3901 3911	the trains
+T541	they-54 3925 3929	they
+T382	China-55 3939 3944	China
+T542	second_train_companions-51 3960 3962	we
+T456	a_country_which_was_full_of_beauty_of_every_kind-56 3988 4036	a country which was full of beauty of every kind
+T543	second_train_companions-51 4049 4051	we
+T457	little_towns-57 4056 4068	little towns
+T458	castles_on_the_top_of_steep_hills_such_as_we_see_in_old_missals-58 4072 4135	castles on the top of steep hills such as we see in old missals
+T459	the_top_of_steep_hills-59 4083 4105	the top of steep hills
+T544	we-60 4114 4116	we
+T545	second_train_companions-51 4148 4150	we
+T460	rivers_and_streams-61 4158 4176	rivers and streams
+T546	rivers_and_streams-61 4233 4237	them
+T386	every_station-62 4365 4378	every station
+T383	groups_of_people-63 4390 4406	groups of people
+T384	crowds-64 4419 4425	crowds
+T687	people-65 4400 4406	people
+T547	people-65 4465 4469	them
+T385	the_peasants_at_home-66 4485 4505	the peasants at home
+T388	home-67 4501 4505	home
+T461	those_I_saw_coming_through_France_and_Germany-68 4509 4554	those I saw coming through France and Germany
+T548	JONATHAN_HARKER-0 4515 4516	I
+T387	France-69 4536 4542	France
+T389	Germany-70 4547 4554	Germany
+T390	The_women-71 4651 4660	The women
+T549	you-72 4689 4692	you
+T550	The_women-71 4702 4706	them
+T551	The_women-71 4713 4717	they
+T552	The_women-71 4753 4757	They
+T553	The_women-71 4821 4825	them
+T556	second_train_companions-51 4997 4999	we
+T462	the_Slovaks-73 5009 5020	the Slovaks
+T557	the_Slovaks-73 5068 5073	their
+T558	the_Slovaks-73 5241 5245	They
+T559	the_Slovaks-73 5269 5274	their
+T561	the_Slovaks-73 5356 5360	They
+T562	the_Slovaks-73 5429 5433	they
+T391	brigands-75 5489 5497	brigands
+T563	the_Slovaks-73 5500 5504	They
+T564	JONATHAN_HARKER-0 5521 5522	I
+T565	second_train_companions-51 5635 5637	we
+T464	Bistritz-1 5645 5653	Bistritz
+T393	the_frontier-76 5717 5729	the frontier
+T465	the_Borgo_Pass-77 5737 5751	the Borgo Pass
+T466	Bukovina-78 5771 5779	Bukovina
+T467	13_000_people-79 6059 6072	13,000 people
+T394	Count_Dracula-22 6143 6156	Count Dracula
+T566	JONATHAN_HARKER-0 6170 6172	me
+T395	the_Golden_Krone_Hotel-80 6182 6204	the Golden Krone Hotel
+T567	JONATHAN_HARKER-0 6213 6214	I
+T568	JONATHAN_HARKER-0 6226 6228	my
+T569	JONATHAN_HARKER-0 6292 6293	I
+T570	JONATHAN_HARKER-0 6312 6313	I
+T396	Transylvania-21 6335 6346	the country
+T571	JONATHAN_HARKER-0 6349 6350	I
+T572	JONATHAN_HARKER-0 6385 6386	I
+T573	JONATHAN_HARKER-0 6405 6406	I
+T397	a_cheery-looking_elderly_woman-81 6413 6443	a cheery-looking elderly woman
+T574	JONATHAN_HARKER-0 6599 6600	I
+T575	a_cheery-looking_elderly_woman-81 6612 6615	she
+T400	JONATHAN_HARKER-0 6635 6654	The Herr Englishman
+T576	JONATHAN_HARKER-0 6669 6670	I
+T398	JONATHAN_HARKER-0 6680 6695	Jonathan Harker
+T577	a_cheery-looking_elderly_woman-81 6700 6703	She
+T399	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 6738 6810	an elderly man in white shirt-sleeves , who had followed her to the door
+T578	a_cheery-looking_elderly_woman-81 6795 6798	her
+T579	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 6813 6815	He
+T468	JONATHAN_HARKER-0 6869 6878	My Friend
+T580	Count_Dracula-22 6869 6871	My
+T469	the_Carpathians-17 6895 6910	the Carpathians
+T581	Count_Dracula-22 6913 6914	I
+T582	JONATHAN_HARKER-0 6938 6941	you
+T470	Bukovina-27 7014 7022	Bukovina
+T583	JONATHAN_HARKER-0 7051 7054	you
+T402	the_Borgo_Pass-77 7060 7074	the Borgo Pass
+T471	my_carriage-83 7075 7086	my carriage
+T584	Count_Dracula-22 7075 7077	my
+T585	JONATHAN_HARKER-0 7098 7101	you
+T586	JONATHAN_HARKER-0 7117 7120	you
+T587	Count_Dracula-22 7124 7126	me
+T588	Count_Dracula-22 7129 7130	I
+T589	JONATHAN_HARKER-0 7142 7146	your
+T403	London-18 7160 7166	London
+T590	JONATHAN_HARKER-0 7199 7202	you
+T591	JONATHAN_HARKER-0 7214 7218	your
+T472	Transylvania-21 7227 7244	my beautiful land
+T592	Count_Dracula-22 7227 7229	my
+T404	Count_Dracula-22 7249 7260	Your friend
+T593	JONATHAN_HARKER-0 7249 7253	Your
+T474	Count_Dracula-22 7265 7272	DRACULA
+T594	JONATHAN_HARKER-0 7292 7293	I
+T405	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7305 7316	my landlord
+T595	JONATHAN_HARKER-0 7305 7307	my
+T473	Count_Dracula-22 7339 7348	the Count
+T596	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7361 7364	him
+T407	my_carriage-83 7393 7402	the coach
+T597	JONATHAN_HARKER-0 7407 7409	me
+T598	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7450 7452	he
+T599	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7499 7501	he
+T600	JONATHAN_HARKER-0 7523 7525	my
+T601	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7579 7581	he
+T602	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7623 7625	he
+T603	JONATHAN_HARKER-0 7635 7637	my
+T604	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7662 7664	he
+T605	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7671 7673	He
+T408	a_cheery-looking_elderly_woman-81 7678 7686	his wife
+T606	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7678 7681	his
+T607	JONATHAN_HARKER-0 7719 7721	me
+T608	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7775 7777	He
+T609	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7850 7852	he
+T610	JONATHAN_HARKER-0 7865 7866	I
+T611	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7873 7876	him
+T612	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7880 7882	he
+T411	Count_Dracula-22 7888 7901	Count Dracula
+T613	JONATHAN_HARKER-0 7919 7921	me
+T410	the_Castle_Dracula-31 7934 7944	his castle
+T614	Count_Dracula-22 7934 7937	his
+T615	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7952 7954	he
+T412	a_cheery-looking_elderly_woman-81 7959 7967	his wife
+T616	an_elderly_man_in_white_shirt-sleeves___who_had_followed_her_to_the_door-82 7959 7962	his
+T617	themselves-85 7976 7986	themselves
+T618	themselves-85 8007 8011	they
+T619	JONATHAN_HARKER-0 8109 8110	I
+T482	any_one_else-86 8130 8142	any one else
+T620	JONATHAN_HARKER-0 8222 8223	I
+T414	a_cheery-looking_elderly_woman-81 8238 8250	the old lady
+T413	my_room-87 8262 8269	my room
+T621	JONATHAN_HARKER-0 8262 8264	my
+T622	JONATHAN_HARKER-0 8313 8316	you
+T415	JONATHAN_HARKER-0 8327 8337	young Herr
+T623	JONATHAN_HARKER-0 8345 8348	you
+T624	a_cheery-looking_elderly_woman-81 8356 8359	She
+T625	a_cheery-looking_elderly_woman-81 8394 8397	she
+T626	a_cheery-looking_elderly_woman-81 8418 8421	her
+T627	a_cheery-looking_elderly_woman-81 8442 8445	she
+T628	JONATHAN_HARKER-0 8504 8505	I
+T629	JONATHAN_HARKER-0 8528 8529	I
+T630	a_cheery-looking_elderly_woman-81 8554 8557	her
+T631	JONATHAN_HARKER-0 8590 8591	I
+T632	a_cheery-looking_elderly_woman-81 8597 8600	her
+T633	JONATHAN_HARKER-0 8606 8607	I
+T634	JONATHAN_HARKER-0 8635 8636	I
+T635	a_cheery-looking_elderly_woman-81 8673 8676	she
+T636	JONATHAN_HARKER-0 8696 8699	you
+T637	JONATHAN_HARKER-0 8724 8725	I
+T638	a_cheery-looking_elderly_woman-81 8767 8770	She
+T639	a_cheery-looking_elderly_woman-81 8777 8780	her
+T640	a_cheery-looking_elderly_woman-81 8789 8792	she
+T641	a_cheery-looking_elderly_woman-81 8819 8820	I
+T642	a_cheery-looking_elderly_woman-81 8833 8834	I
+T643	JONATHAN_HARKER-0 8854 8857	you
+T644	JONATHAN_HARKER-0 8885 8887	my
+T645	JONATHAN_HARKER-0 8900 8901	I
+T646	a_cheery-looking_elderly_woman-81 8923 8926	she
+T417	St__George-88 8956 8966	St. George
+T647	JONATHAN_HARKER-0 8979 8982	you
+T481	the_world-45 9065 9074	the world
+T648	JONATHAN_HARKER-0 9100 9103	you
+T649	JONATHAN_HARKER-0 9115 9118	you
+T650	JONATHAN_HARKER-0 9140 9143	you
+T651	a_cheery-looking_elderly_woman-81 9161 9164	She
+T652	JONATHAN_HARKER-0 9199 9200	I
+T653	a_cheery-looking_elderly_woman-81 9218 9221	her
+T654	a_cheery-looking_elderly_woman-81 9253 9256	she
+T655	a_cheery-looking_elderly_woman-81 9270 9273	her
+T656	JONATHAN_HARKER-0 9293 9295	me
+T657	JONATHAN_HARKER-0 9387 9388	I
+T658	JONATHAN_HARKER-0 9462 9463	I
+T659	JONATHAN_HARKER-0 9507 9508	I
+T660	a_cheery-looking_elderly_woman-81 9534 9537	her
+T661	JONATHAN_HARKER-0 9568 9569	I
+T662	JONATHAN_HARKER-0 9583 9584	I
+T663	a_cheery-looking_elderly_woman-81 9593 9596	her
+T664	JONATHAN_HARKER-0 9603 9605	my
+T665	JONATHAN_HARKER-0 9637 9638	I
+T666	a_cheery-looking_elderly_woman-81 9649 9652	She
+T667	a_cheery-looking_elderly_woman-81 9673 9676	her
+T668	a_cheery-looking_elderly_woman-81 9711 9714	her
+T669	JONATHAN_HARKER-0 9734 9736	me
+T670	JONATHAN_HARKER-0 9739 9740	I
+T420	JONATHAN_HARKER-0 9776 9796	an English Churchman
+T671	JONATHAN_HARKER-0 9799 9800	I
+T416	a_cheery-looking_elderly_woman-81 9914 9969	an old lady meaning so well and in such a state of mind
+T672	a_cheery-looking_elderly_woman-81 9972 9975	She
+T673	JONATHAN_HARKER-0 9982 9983	I
+T674	JONATHAN_HARKER-0 10007 10009	my
+T675	a_cheery-looking_elderly_woman-81 10021 10024	she
+T676	JONATHAN_HARKER-0 10046 10048	my
+T422	your_mother-89 10073 10084	your mother
+T677	JONATHAN_HARKER-0 10073 10077	your
+T421	my_room-87 10113 10121	the room
+T678	JONATHAN_HARKER-0 10124 10125	I
+T679	JONATHAN_HARKER-0 10170 10171	I
+T418	my_carriage-83 10187 10196	the coach
+T680	JONATHAN_HARKER-0 10261 10263	my
+T424	a_cheery-looking_elderly_woman-81 10285 10297	the old lady
+T423	Transylvania-21 10342 10352	this place
+T681	JONATHAN_HARKER-0 10380 10381	I
+T682	JONATHAN_HARKER-0 10400 10401	I
+T683	JONATHAN_HARKER-0 10435 10437	my
+T419	Mina-15 10485 10489	Mina
+T684	JONATHAN_HARKER-0 10497 10498	I
+T685	JONATHAN_HARKER-0 10517 10519	my
+T425	my_carriage-83 10542 10551	the coach
+R1	cop Arg1:T85 Arg2:T84
+R2	appos Arg1:T98 Arg2:T342
+R3	appos Arg1:T20 Arg2:T102
+R4	cop Arg1:T19 Arg2:T102
+R5	cop Arg1:T48 Arg2:T120
+R6	appos Arg1:T65 Arg2:T64
+T57	PRON_PER 7623 7625	he
+T688	PRON_GPE 300 302	it
+T689	Buda-Pesth-5 300 302	it
+T700	PRON_GPE 2655 2657	it
+T701	Transylvania-21 2655 2657	it
+T702	PRON_LOC 2768 2770	it
+T703	the_Carpathians-17 2768 2770	it
+T716	PRON_GPE 5763 5765	it
+T717	Bistritz-1 5763 5765	it
+T718	PRON_GPE 5783 5785	it
+T719	Bistritz-1 5783 5785	it
+T720	PRON_GPE 5824 5826	it
+T721	Bistritz-1 5824 5826	it
+T724	PRON_GPE 6014 6016	it
+T725	Bistritz-1 6014 6016	it
+T62	NOM_PER 4457 4469	Some of them
+T131	Some_of_them-700 4457 4469	Some of them
+T132	NOM_PER 5463 5497	some old Oriental band of brigands
+T133	old_Oriental_band_of_brigands-74 5463 5497	some old Oriental band of brigands

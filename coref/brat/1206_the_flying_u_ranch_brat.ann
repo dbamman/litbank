@@ -1,0 +1,474 @@
+T0	NOM_PER 287 297	a stranger
+T1	PROP_GPE 245 251	Helena
+T3	NOM_PER 194 205	the Old Man
+T4	NOM_PER 342 354	the stranger
+T5	NOM_PER 531 569	a peeler straight from the Golden Gate
+T6	NOM_FAC 554 569	the Golden Gate
+T7	NOM_PER 300 311	The Old Man
+T8	NOM_PER 435 446	the Old Man
+T9	NOM_FAC 616 620	home
+T10	NOM_PER 643 651	the boys
+T11	PROP_PER 748 758	Happy Jack
+T12	NOM_PER 687 698	The Old Man
+T14	PROP_PER 1470 1480	Cal Emmett
+T15	NOM_PER 1640 1647	a rival
+T19	NOM_PER 2578 2608	The girls in that neighborhood
+T20	NOM_PER 2701 2713	pretty girls
+T21	NOM_PER 2863 2875	Big Medicine
+T23	PROP_PER 3819 3825	Miguel
+T27	NOM_PER 5671 5686	that Native Son
+T28	NOM_PER 5638 5643	a man
+T29	NOM_PER 5728 5742	the interloper
+T30	PROP_PER 5709 5712	Cal
+T33	NOM_PER 6764 6770	a hoss
+T35	NOM_PER 7554 7568	any Natiff Son
+T36	NOM_PER 7577 7583	a dago
+T37	NOM_FAC 8090 8096	a lane
+T38	NOM_FAC 8237 8245	the road
+T39	NOM_PER 8258 8265	grandma
+T41	NOM_LOC 8400 8417	the Promised Land
+T44	PROP_PER 8623 8628	Irish
+T48	NOM_PER 9499 9530	this here silver-mounted fellow
+T50	PROP_PER 9638 9644	Miguel
+T2	NOM_PER 26 38	a Native Son
+T51	NOM_PER 39 55	The Happy Family
+T52	NOM_FAC 132 146	the bunk-house
+T53	NOM_ORG 220 241	the Stock Association
+T54	NOM_VEH 272 277	buggy
+T55	NOM_FAC 325 339	the bunk-house
+T56	PROP_PER 499 520	Mr. Mig-u-ell Rapponi
+T57	NOM_PER 523 527	boys
+T58	PROP_PER 623 632	Mig-u-ell
+T59	NOM_PER 635 651	some of the boys
+T13	NOM_FAC 711 720	the house
+T60	NOM_PER 818 834	the Happy Family
+T61	NOM_PER 869 888	the foreign element
+T62	NOM_PER 1279 1295	The Happy Family
+T63	NOM_PER 1375 1379	Pink
+T64	PROP_PER 1435 1440	Irish
+T65	PROP_PER 1535 1538	Cal
+T16	NOM_PER 1583 1590	a woman
+T66	PROP_PER 1650 1656	Miguel
+T67	NOM_PER 1784 1873	a stage favorite waiting for the applause to cease so that he might speak his first lines
+T68	NOM_PER 2108 2124	the Happy Family
+T69	NOM_FAC 2331 2345	the bunk-house
+T70	NOM_PER 2361 2370	the group
+T17	NOM_PER 2403 2419	Any pretty girls
+T18	NOM_PER 2542 2558	The Happy Family
+T71	NOM_PER 2723 2735	Big Medicine
+T72	NOM_PER 2809 2813	` em
+T73	PROP_PER 2830 2836	Miguel
+T74	NOM_PER 3133 3149	the Happy Family
+T22	PROP_PER 3884 3889	Weary
+T75	PROP_PER 3973 3979	Miguel
+T24	NOM_LOC 4276 4291	Flying U coulee
+T25	PROP_PER 5300 5310	Happy Jack
+T26	NOM_PER 5491 5507	the Happy Family
+T76	NOM_FAC 5852 5858	a bank
+T77	PROP_PER 6029 6033	Slim
+T78	NOM_PER 6131 6135	Pink
+T79	PROP_PER 6250 6265	That Lizzie-boy
+T80	NOM_PER 6419 6424	mamma
+T81	PROP_PER 6454 6459	Weary
+T31	NOM_PER 6526 6571	an Irish cook rigged out in silk and diamonds
+T32	PROP_PER 6708 6713	Irish
+T82	NOM_PER 7062 7066	Pink
+T83	PROP_PER 7396 7401	Irish
+T34	NOM_PER 7414 7435	That there Native Son
+T84	PROP_PER 7529 7539	Happy Jack
+T85	NOM_PER 7625 7637	Big Medicine
+T86	PROP_PER 7743 7762	the dazzling Miguel
+T87	NOM_PER 7782 7803	the kinda cow-puncher
+T88	NOM_PER 7822 7825	'em
+T89	NOM_PER 7966 7986	six or eight fellers
+T40	NOM_PER 8311 8323	a Native Son
+T42	NOM_PER 8458 8469	Natiff Sons
+T90	NOM_PER 8473 8486	the real ones
+T43	PROP_GPE 8523 8532	Calyforny
+T91	NOM_LOC 8562 8573	this coulee
+T92	NOM_PER 8698 8710	Big Medicine
+T45	NOM_PER 8877 8886	everybody
+T93	NOM_PER 8935 8955	two or three fellers
+T94	PROP_PER 8990 8999	Mig-u-ell
+T46	NOM_PER 9093 9105	every feller
+T47	NOM_PER 9220 9243	Little , weenty fellers
+T95	NOM_PER 9292 9295	'em
+T49	NOM_PER 9544 9561	a real cowpuncher
+T96	NOM_PER 9578 9594	The Happy Family
+T97	NOM_FAC 2591 2608	that neighborhood
+T98	NOM_LOC 8554 8558	here
+T103	PRON_PER 261 264	him
+T104	PRON_PER 458 461	him
+T105	PRON_PER 582 586	your
+T106	PRON_PER 604 612	yourself
+T107	PRON_PER 661 664	you
+T108	PRON_PER 726 729	his
+T109	PRON_PER 896 899	his
+T110	PRON_PER 980 983	his
+T111	PRON_PER 1066 1069	his
+T112	PRON_PER 1157 1160	his
+T113	PRON_PER 1178 1183	their
+T114	PRON_PER 1300 1310	themselves
+T115	PRON_PER 1403 1405	He
+T116	PRON_PER 1456 1459	his
+T117	PRON_PER 1489 1491	he
+T118	PRON_PER 1697 1699	He
+T119	PRON_PER 1751 1753	he
+T120	PRON_PER 1843 1845	he
+T121	PRON_PER 1858 1861	his
+T122	PRON_PER 1888 1890	he
+T123	PRON_PER 1900 1902	he
+T124	PRON_PER 1957 1960	his
+T125	PRON_PER 2178 2180	He
+T126	PRON_PER 2274 2277	his
+T127	PRON_PER 2389 2391	he
+T128	PRON_PER 2436 2438	he
+T129	PRON_PER 2516 2519	his
+T130	PRON_PER 2531 2533	he
+T131	PRON_PER 2653 2656	his
+T132	PRON_PER 2773 2776	him
+T133	PRON_PER 2781 2783	We
+T134	PRON_PER 2795 2797	us
+T135	PRON_PER 2898 2901	his
+T136	PRON_PER 3019 3021	He
+T137	PRON_PER 3199 3203	they
+T138	PRON_PER 3210 3213	him
+T139	PRON_PER 3235 3240	their
+T140	PRON_PER 3295 3299	they
+T141	PRON_PER 3312 3315	him
+T142	PRON_PER 3361 3363	he
+T143	PRON_PER 3374 3377	his
+T144	PRON_PER 3410 3413	his
+T146	PRON_PER 3530 3533	his
+T147	PRON_PER 3601 3603	He
+T148	PRON_PER 3608 3613	their
+T149	PRON_PER 3681 3686	their
+T150	PRON_PER 3698 3701	him
+T151	PRON_PER 3708 3713	their
+T152	PRON_PER 3857 3860	his
+T153	PRON_PER 3940 3943	his
+T154	PRON_PER 4060 4063	his
+T155	PRON_PER 4198 4201	him
+T158	PRON_PER 4525 4528	his
+T159	PRON_PER 4765 4767	He
+T160	PRON_PER 4778 4781	his
+T161	PRON_PER 4921 4923	He
+T162	PRON_PER 4991 4994	his
+T163	PRON_PER 5027 5034	himself
+T164	PRON_PER 5040 5042	he
+T165	PRON_PER 5165 5167	He
+T166	PRON_PER 5177 5180	his
+T167	PRON_PER 5340 5343	His
+T168	PRON_PER 5379 5382	his
+T169	PRON_PER 5420 5423	his
+T170	PRON_PER 5438 5440	he
+T171	PRON_PER 5513 5517	they
+T172	PRON_PER 5523 5526	him
+T173	PRON_PER 5550 5557	himself
+T174	PRON_PER 5566 5570	they
+T175	PRON_PER 5606 5609	him
+T176	PRON_PER 5831 5833	He
+T177	PRON_PER 5919 5921	he
+T178	PRON_PER 5931 5933	me
+T179	PRON_PER 5960 5962	he
+T181	PRON_PER 6016 6019	his
+T182	PRON_PER 6058 6059	I
+T183	PRON_PER 6098 6100	he
+T184	PRON_PER 6190 6193	him
+T185	PRON_PER 6198 6201	You
+T186	PRON_PER 6207 6210	him
+T187	PRON_PER 6290 6294	they
+T188	PRON_PER 6317 6319	he
+T189	PRON_PER 6337 6341	they
+T190	PRON_PER 6367 6371	they
+T191	PRON_PER 6491 6492	I
+T192	PRON_PER 6520 6522	me
+T193	PRON_PER 6606 6608	He
+T194	PRON_PER 6637 6638	I
+T195	PRON_PER 6678 6680	my
+T196	PRON_PER 6745 6746	I
+T197	PRON_PER 6830 6832	he
+T198	PRON_PER 6906 6909	you
+T199	PRON_PER 6932 6936	your
+T200	PRON_PER 7048 7051	him
+T201	PRON_PER 7171 7174	our
+T202	PRON_PER 7209 7210	I
+T203	PRON_PER 7245 7247	he
+T204	PRON_PER 7313 7316	you
+T205	PRON_PER 7343 7345	he
+T206	PRON_PER 7544 7546	he
+T207	PRON_PER 7571 7573	He
+T208	PRON_PER 7590 7592	He
+T209	PRON_PER 7665 7666	I
+T210	PRON_PER 7694 7695	I
+T211	PRON_PER 7701 7706	their
+T212	PRON_PER 7716 7718	He
+T213	PRON_PER 7726 7729	his
+T214	PRON_PER 7767 7768	I
+T215	PRON_PER 7804 7806	he
+T216	PRON_PER 7812 7813	I
+T217	PRON_PER 7857 7861	They
+T219	PRON_PER 8153 8158	their
+T220	PRON_PER 8268 8272	they
+T221	PRON_PER 8305 8307	he
+T222	PRON_PER 8338 8339	I
+T223	PRON_PER 8367 8368	I
+T224	PRON_PER 8453 8455	me
+T225	PRON_PER 8494 8497	him
+T226	PRON_PER 8596 8600	they
+T227	PRON_PER 8649 8653	they
+T228	PRON_PER 8798 8799	I
+T229	PRON_PER 8816 8820	They
+T230	PRON_PER 8826 8830	them
+T231	PRON_PER 8865 8869	they
+T232	PRON_PER 9121 9124	his
+T233	PRON_PER 9161 9165	They
+T234	PRON_PER 9244 9247	you
+T235	PRON_PER 9303 9307	They
+T236	PRON_PER 9373 9377	they
+T237	PRON_PER 9422 9426	they
+T238	PRON_PER 9449 9453	they
+T239	PRON_PER 9538 9540	he
+T240	PRON_PER 9650 9653	his
+T241	PRON_PER 9688 9692	them
+T242	PRON_PER 9749 9751	he
+T243	PRON_PER 9773 9776	his
+T244	PRON_PER 9797 9800	his
+T245	PRON_PER 9843 9846	his
+T250	a_Native_Son-100000 26 38	a Native Son
+T299	The_Happy_Family-0 39 55	The Happy Family
+T300	the_bunk-house-1 132 146	the bunk-house
+T251	the_Old_Man-2 194 205	the Old Man
+T301	the_Stock_Association-3 220 241	the Stock Association
+T249	Helena-4 245 251	Helena
+T351	the_Old_Man-2 261 264	him
+T302	buggy-5 272 277	buggy
+T248	Mr__Rapponi-6 287 297	a stranger
+T255	the_Old_Man-2 300 311	The Old Man
+T303	the_bunk-house-1 325 339	the bunk-house
+T252	Mr__Rapponi-6 342 354	the stranger
+T256	the_Old_Man-2 435 446	the Old Man
+T352	Mr__Rapponi-6 458 461	him
+T304	Mr__Rapponi-6 499 520	Mr. Mig-u-ell Rapponi
+T305	boys-7 523 527	boys
+T254	the_Golden_Gate-8 554 569	the Golden Gate
+T353	Mr__Rapponi-6 582 586	your
+T354	Mr__Rapponi-6 604 612	yourself
+T257	the_bunk-house-1 616 620	home
+T306	Mr__Rapponi-6 623 632	Mig-u-ell
+T307	some_of_the_boys-9 635 651	some of the boys
+T258	boys-7 643 651	the boys
+T355	Mr__Rapponi-6 661 664	you
+T260	the_Old_Man-2 687 698	The Old Man
+T261	the_bunk-house-1 711 720	the house
+T356	the_Old_Man-2 726 729	his
+T259	Happy_Jack-10 748 758	Happy Jack
+T308	The_Happy_Family-0 818 834	the Happy Family
+T309	Mr__Rapponi-6 869 888	the foreign element
+T357	Mr__Rapponi-6 896 899	his
+T358	Mr__Rapponi-6 980 983	his
+T359	Mr__Rapponi-6 1066 1069	his
+T360	Mr__Rapponi-6 1157 1160	his
+T361	The_Happy_Family-0 1178 1183	their
+T310	The_Happy_Family-0 1279 1295	The Happy Family
+T362	The_Happy_Family-0 1300 1310	themselves
+T311	Pink-11 1375 1379	Pink
+T363	Mr__Rapponi-6 1403 1405	He
+T312	Irish-12 1435 1440	Irish
+T364	Irish-12 1456 1459	his
+T262	Cal_Emmett-13 1470 1480	Cal Emmett
+T365	Mr__Rapponi-6 1489 1491	he
+T313	Cal_Emmett-13 1535 1538	Cal
+T264	a_woman-14 1583 1590	a woman
+T263	a_rival-15 1640 1647	a rival
+T314	Mr__Rapponi-6 1650 1656	Miguel
+T366	Mr__Rapponi-6 1697 1699	He
+T367	Mr__Rapponi-6 1751 1753	he
+T315	a_stage_favorite_waiting_for_the_applause_to_cease_so_that_he_might_speak_his_first_lines-16 1784 1873	a stage favorite waiting for the applause to cease so that he might speak his first lines
+T368	a_stage_favorite_waiting_for_the_applause_to_cease_so_that_he_might_speak_his_first_lines-16 1843 1845	he
+T369	a_stage_favorite_waiting_for_the_applause_to_cease_so_that_he_might_speak_his_first_lines-16 1858 1861	his
+T370	Mr__Rapponi-6 1888 1890	he
+T371	Mr__Rapponi-6 1900 1902	he
+T372	Mr__Rapponi-6 1957 1960	his
+T316	The_Happy_Family-0 2108 2124	the Happy Family
+T373	Mr__Rapponi-6 2178 2180	He
+T374	Mr__Rapponi-6 2274 2277	his
+T317	the_bunk-house-1 2331 2345	the bunk-house
+T318	The_Happy_Family-0 2361 2370	the group
+T375	Mr__Rapponi-6 2389 2391	he
+T265	Any_pretty_girls-17 2403 2419	Any pretty girls
+T376	Mr__Rapponi-6 2436 2438	he
+T377	Mr__Rapponi-6 2516 2519	his
+T378	Mr__Rapponi-6 2531 2533	he
+T266	The_Happy_Family-0 2542 2558	The Happy Family
+T267	The_girls_in_that_neighborhood-18 2578 2608	The girls in that neighborhood
+T345	that_neighborhood-19 2591 2608	that neighborhood
+T379	Mr__Rapponi-6 2653 2656	his
+T268	pretty_girls-20 2701 2713	pretty girls
+T319	Big_Medicine-21 2723 2735	Big Medicine
+T380	Mr__Rapponi-6 2773 2776	him
+T381	We-22 2781 2783	We
+T382	We-22 2795 2797	us
+T320	pretty_girls-20 2809 2813	` em
+T321	Mr__Rapponi-6 2830 2836	Miguel
+T269	Big_Medicine-21 2863 2875	Big Medicine
+T383	Mr__Rapponi-6 2898 2901	his
+T384	Mr__Rapponi-6 3019 3021	He
+T322	The_Happy_Family-0 3133 3149	the Happy Family
+T385	The_Happy_Family-0 3199 3203	they
+T386	Mr__Rapponi-6 3210 3213	him
+T387	The_Happy_Family-0 3235 3240	their
+T388	The_Happy_Family-0 3295 3299	they
+T389	Mr__Rapponi-6 3312 3315	him
+T390	Mr__Rapponi-6 3361 3363	he
+T391	Mr__Rapponi-6 3374 3377	his
+T392	Mr__Rapponi-6 3410 3413	his
+T394	Mr__Rapponi-6 3530 3533	his
+T395	Mr__Rapponi-6 3601 3603	He
+T396	The_Happy_Family-0 3608 3613	their
+T397	The_Happy_Family-0 3681 3686	their
+T398	Mr__Rapponi-6 3698 3701	him
+T399	The_Happy_Family-0 3708 3713	their
+T271	Mr__Rapponi-6 3819 3825	Miguel
+T400	Mr__Rapponi-6 3857 3860	his
+T270	Weary-23 3884 3889	Weary
+T401	Weary-23 3940 3943	his
+T323	Mr__Rapponi-6 3973 3979	Miguel
+T402	Mr__Rapponi-6 4060 4063	his
+T403	Mr__Rapponi-6 4198 4201	him
+T272	Flying_U_coulee-24 4276 4291	Flying U coulee
+T406	Mr__Rapponi-6 4525 4528	his
+T407	Mr__Rapponi-6 4765 4767	He
+T408	Mr__Rapponi-6 4778 4781	his
+T409	Mr__Rapponi-6 4921 4923	He
+T410	Mr__Rapponi-6 4991 4994	his
+T411	Mr__Rapponi-6 5027 5034	himself
+T412	Mr__Rapponi-6 5040 5042	he
+T413	Mr__Rapponi-6 5165 5167	He
+T414	Mr__Rapponi-6 5177 5180	his
+T273	Happy_Jack-10 5300 5310	Happy Jack
+T415	Mr__Rapponi-6 5340 5343	His
+T416	Mr__Rapponi-6 5379 5382	his
+T417	Mr__Rapponi-6 5420 5423	his
+T418	Mr__Rapponi-6 5438 5440	he
+T274	The_Happy_Family-0 5491 5507	the Happy Family
+T419	The_Happy_Family-0 5513 5517	they
+T420	Mr__Rapponi-6 5523 5526	him
+T421	Mr__Rapponi-6 5550 5557	himself
+T422	The_Happy_Family-0 5566 5570	they
+T423	Mr__Rapponi-6 5606 5609	him
+T276	a_man-25 5638 5643	a man
+T275	Mr__Rapponi-6 5671 5686	that Native Son
+T278	Cal_Emmett-13 5709 5712	Cal
+T277	Mr__Rapponi-6 5728 5742	the interloper
+T424	Mr__Rapponi-6 5831 5833	He
+T324	a_bank-26 5852 5858	a bank
+T425	Mr__Rapponi-6 5919 5921	he
+T426	Slim-27 5931 5933	me
+T427	Mr__Rapponi-6 5960 5962	he
+T429	Mr__Rapponi-6 6016 6019	his
+T325	Slim-27 6029 6033	Slim
+T430	Pink-11 6058 6059	I
+T431	Mr__Rapponi-6 6098 6100	he
+T326	Pink-11 6131 6135	Pink
+T432	Pink-11 6190 6193	him
+T433	Pink-11 6198 6201	You
+T434	Mr__Rapponi-6 6207 6210	him
+T327	Mr__Rapponi-6 6250 6265	That Lizzie-boy
+T435	they-29 6290 6294	they
+T436	Mr__Rapponi-6 6317 6319	he
+T437	they-29 6337 6341	they
+T438	they-29 6367 6371	they
+T328	mamma-30 6419 6424	mamma
+T329	Weary-23 6454 6459	Weary
+T439	Weary-23 6491 6492	I
+T440	Weary-23 6520 6522	me
+T279	an_Irish_cook_rigged_out_in_silk_and_diamonds-31 6526 6571	an Irish cook rigged out in silk and diamonds
+T441	Weary-23 6606 6608	He
+T442	Irish-12 6637 6638	I
+T443	Irish-12 6678 6680	my
+T280	Irish-12 6708 6713	Irish
+T444	Irish-12 6745 6746	I
+T281	a_hoss-32 6764 6770	a hoss
+T445	a_hoss-32 6830 6832	he
+T446	you-33 6906 6909	you
+T447	your-34 6932 6936	your
+T448	Mr__Rapponi-6 7048 7051	him
+T330	Pink-11 7062 7066	Pink
+T449	our-35 7171 7174	our
+T450	Pink-11 7209 7210	I
+T451	Mr__Rapponi-6 7245 7247	he
+T452	Pink-11 7313 7316	you
+T453	Mr__Rapponi-6 7343 7345	he
+T331	Irish-12 7396 7401	Irish
+T282	Mr__Rapponi-6 7414 7435	That there Native Son
+T332	Happy_Jack-10 7529 7539	Happy Jack
+T454	Mr__Rapponi-6 7544 7546	he
+T283	any_Natiff_Son-36 7554 7568	any Natiff Son
+T455	Mr__Rapponi-6 7571 7573	He
+T284	a_dago-37 7577 7583	a dago
+T456	Mr__Rapponi-6 7590 7592	He
+T333	Big_Medicine-21 7625 7637	Big Medicine
+T457	Big_Medicine-21 7665 7666	I
+T458	Big_Medicine-21 7694 7695	I
+T459	a_dago-37 7701 7706	their
+T460	Big_Medicine-21 7716 7718	He
+T461	Big_Medicine-21 7726 7729	his
+T334	Mr__Rapponi-6 7743 7762	the dazzling Miguel
+T462	Big_Medicine-21 7767 7768	I
+T463	Mr__Rapponi-6 7804 7806	he
+T464	Big_Medicine-21 7812 7813	I
+T336	a_dago-37 7822 7825	'em
+T465	a_dago-37 7857 7861	They
+T337	six_or_eight_fellers-39 7966 7986	six or eight fellers
+T285	a_lane-40 8090 8096	a lane
+T467	six_or_eight_fellers-39 8153 8158	their
+T286	the_road-41 8237 8245	the road
+T287	grandma-42 8258 8265	grandma
+T468	six_or_eight_fellers-39 8268 8272	they
+T469	Mr__Rapponi-6 8305 8307	he
+T470	Big_Medicine-21 8338 8339	I
+T471	Big_Medicine-21 8367 8368	I
+T289	the_Promised_Land-43 8400 8417	the Promised Land
+T472	Big_Medicine-21 8453 8455	me
+T290	Native_Sons-44 8458 8469	Natiff Sons
+T473	Mr__Rapponi-6 8494 8497	him
+T291	Calyforny-45 8523 8532	Calyforny
+T346	Flying_U_coulee-24 8554 8558	here
+T339	Flying_U_coulee-24 8562 8573	this coulee
+T474	Native_Sons-44 8596 8600	they
+T292	Irish-12 8623 8628	Irish
+T475	Native_Sons-44 8649 8653	they
+T340	Big_Medicine-21 8698 8710	Big Medicine
+T476	Big_Medicine-21 8798 8799	I
+T477	Native_Sons-44 8816 8820	They
+T478	Native_Sons-44 8826 8830	them
+T479	Native_Sons-44 8865 8869	they
+T293	everybody-46 8877 8886	everybody
+T341	two_or_three_fellers-47 8935 8955	two or three fellers
+T342	Mr__Rapponi-6 8990 8999	Mig-u-ell
+T294	every_feller-48 9093 9105	every feller
+T480	every_feller-48 9121 9124	his
+T481	They-49 9161 9165	They
+T295	Little___weenty_fellers-50 9220 9243	Little , weenty fellers
+T482	you-51 9244 9247	you
+T343	Native_Sons-44 9292 9295	'em
+T483	Native_Sons-44 9303 9307	They
+T484	Native_Sons-44 9373 9377	they
+T485	Native_Sons-44 9422 9426	they
+T486	Native_Sons-44 9449 9453	they
+T296	Mr__Rapponi-6 9499 9530	this here silver-mounted fellow
+T487	Mr__Rapponi-6 9538 9540	he
+T297	a_real_cowpuncher-52 9544 9561	a real cowpuncher
+T344	The_Happy_Family-0 9578 9594	The Happy Family
+T298	Mr__Rapponi-6 9638 9644	Miguel
+T488	Mr__Rapponi-6 9650 9653	his
+T489	The_Happy_Family-0 9688 9692	them
+T490	Mr__Rapponi-6 9749 9751	he
+T491	Mr__Rapponi-6 9773 9776	his
+T492	Mr__Rapponi-6 9797 9800	his
+T493	Mr__Rapponi-6 9843 9846	his
+R3	cop Arg1:T87 Arg2:T215
+R4	cop Arg1:T40 Arg2:T221
+R5	appos Arg1:T90 Arg2:T42
+T99	Mr__Rapponi-6 531 569	a peeler straight from the Golden Gate

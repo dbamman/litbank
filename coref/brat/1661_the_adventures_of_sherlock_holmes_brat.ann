@@ -1,0 +1,574 @@
+T0	PROP_PER 41 56	Sherlock Holmes
+T1	PROP_PER 260 271	Irene Adler
+T2	NOM_LOC 459 468	the world
+T3	NOM_PER 737 757	the trained reasoner
+T5	NOM_PER 1140 1145	woman
+T6	PROP_PER 1231 1237	Holmes
+T7	PROP_FAC 1596 1608	Baker Street
+T9	NOM_PER 1409 1440	master of his own establishment
+T10	PROP_GPE 2365 2372	Holland
+T11	PROP_GPE 2126 2132	Odessa
+T14	NOM_PER 2449 2483	all the readers of the daily press
+T15	NOM_PER 2524 2533	companion
+T16	NOM_PER 2503 2519	my former friend
+T17	NOM_PER 2626 2635	a patient
+T18	PROP_FAC 2710 2722	Baker Street
+T19	PROP_PER 2917 2923	Holmes
+T20	NOM_FAC 2992 3001	His rooms
+T25	NOM_PER 4369 4408	a most clumsy and careless servant girl
+T29	NOM_PER 4737 4744	my wife
+T30	PROP_PER 4699 4708	Mary Jane
+T31	PROP_GPE 5377 5383	London
+T34	NOM_PER 5418 5429	a gentleman
+T36	NOM_FAC 6373 6382	this room
+T37	NOM_PER 7292 7318	the royal houses of Europe
+T38	NOM_PER 7571 7583	your visitor
+T39	NOM_FAC 7510 7522	your chamber
+T40	PROP_PER 8251 8257	Holmes
+T41	PROP_PER 8502 8508	Holmes
+T42	NOM_PER 8525 8534	the maker
+T43	PROP_GPE 8988 8995	Bohemia
+T44	PROP_GPE 9011 9019	Carlsbad
+T45	PROP_PER 9070 9081	Wallenstein
+T46	NOM_PER 9151 9157	my boy
+T47	PROP_GPE 9299 9306	Bohemia
+T48	NOM_PER 9338 9364	the man who wrote the note
+T49	PROP_PER 9497 9508	A Frenchman
+T50	NOM_PER 9556 9601	the German who is so uncourteous to his verbs
+T51	PROP_GPE 27 34	BOHEMIA
+T52	NOM_PER 71 80	THE woman
+T53	NOM_PER 405 477	the most perfect reasoning and observing machine that the world has seen
+T54	NOM_PER 487 494	a lover
+T55	NOM_PER 648 660	the observer
+T56	NOM_PER 700 703	men
+T4	NOM_PER 1112 1121	one woman
+T57	PROP_PER 1150 1170	the late Irene Adler
+T58	NOM_FAC 1419 1440	his own establishment
+T60	NOM_PER 1377 1440	the man who first finds himself master of his own establishment
+T61	PROP_PER 1494 1500	Holmes
+T8	NOM_FAC 1580 1608	our lodgings in Baker Street
+T62	NOM_ORG 2025 2044	the official police
+T63	PROP_PER 2152 2159	Trepoff
+T12	NOM_PER 2215 2236	the Atkinson brothers
+T13	PROP_GPE 2240 2251	Trincomalee
+T64	NOM_PER 2342 2372	the reigning family of Holland
+T65	NOM_PER 3059 3082	his tall , spare figure
+T21	NOM_FAC 3490 3540	the chamber which had formerly been in part my own
+T22	PROP_PER 3942 3948	Watson
+T23	PROP_PER 4121 4127	Watson
+T24	NOM_FAC 4597 4601	home
+T27	NOM_PER 5373 5390	the London slavey
+T28	NOM_PER 5322 5390	a particularly malignant boot-slitting specimen of the London slavey
+T32	NOM_FAC 5441 5449	my rooms
+T35	NOM_FAC 6361 6369	the hall
+T66	NOM_FAC 6630 6645	seventeen steps
+T67	NOM_FAC 6332 6382	the steps which lead up from the hall to this room
+T68	NOM_PER 7179 7258	a gentleman who desires to consult you upon a matter of the very deepest moment
+T69	PROP_GPE 7312 7318	Europe
+T70	NOM_PER 7285 7318	one of the royal houses of Europe
+T71	NOM_PER 7989 8009	The man who wrote it
+T72	NOM_PER 8077 8089	my companion
+T73	NOM_GPE 8956 8981	a German-speaking country
+T74	NOM_FAC 9096 9120	numerous glass-factories
+T75	NOM_FAC 9125 9136	paper-mills
+T76	NOM_PER 9368 9376	a German
+T77	NOM_PER 9512 9519	Russian
+T78	NOM_PER 9664 9753	this German who writes upon Bohemian paper and prefers wearing a mask to showing his face
+T79	PROP_GPE 8939 8944	Egria
+T80	PROP_GPE 8913 8921	Eglonitz
+T81	PROP_GPE 8905 8910	Eglow
+T33	NOM_PER 5691 5733	an active member of the medical profession
+T26	PROP_PER 4423 4429	Holmes
+T82	NOM_PER 4415 4422	My dear
+T83	NOM_FAC 3149 3157	the room
+T85	PRON_PER 57 60	she
+T86	PRON_PER 83 84	I
+T87	PRON_PER 103 106	him
+T88	PRON_PER 115 118	her
+T89	PRON_PER 145 148	his
+T90	PRON_PER 154 157	she
+T91	PRON_PER 197 200	her
+T92	PRON_PER 223 225	he
+T93	PRON_PER 335 338	his
+T94	PRON_PER 384 386	He
+T95	PRON_PER 393 394	I
+T96	PRON_PER 495 497	he
+T97	PRON_PER 516 523	himself
+T98	PRON_PER 546 548	He
+T100	PRON_PER 788 791	his
+T101	PRON_PER 910 913	his
+T102	PRON_PER 985 988	his
+T103	PRON_PER 1084 1087	his
+T104	PRON_PER 1125 1128	him
+T105	PRON_PER 1210 1211	I
+T106	PRON_PER 1247 1249	My
+T107	PRON_PER 1271 1273	us
+T108	PRON_PER 1297 1299	My
+T109	PRON_PER 1401 1408	himself
+T110	PRON_PER 1419 1422	his
+T111	PRON_PER 1473 1475	my
+T112	PRON_PER 1542 1545	his
+T113	PRON_PER 1580 1583	our
+T114	PRON_PER 1624 1627	his
+T115	PRON_PER 1759 1762	his
+T116	PRON_PER 1781 1783	He
+T117	PRON_PER 1860 1863	his
+T118	PRON_PER 2065 2066	I
+T119	PRON_PER 2095 2098	his
+T120	PRON_PER 2111 2114	his
+T121	PRON_PER 2172 2175	his
+T122	PRON_PER 2287 2289	he
+T123	PRON_PER 2397 2400	his
+T124	PRON_PER 2428 2429	I
+T125	PRON_PER 2486 2487	I
+T126	PRON_PER 2503 2505	my
+T127	PRON_PER 2592 2593	I
+T128	PRON_PER 2642 2643	I
+T129	PRON_PER 2688 2690	my
+T130	PRON_PER 2699 2701	me
+T131	PRON_PER 2728 2729	I
+T132	PRON_PER 2799 2801	my
+T133	PRON_PER 2812 2814	my
+T134	PRON_PER 2878 2879	I
+T135	PRON_PER 2948 2950	he
+T136	PRON_PER 2965 2968	his
+T137	PRON_PER 2992 2995	His
+T138	PRON_PER 3039 3040	I
+T139	PRON_PER 3053 3054	I
+T140	PRON_PER 3059 3062	his
+T141	PRON_PER 3135 3137	He
+T142	PRON_PER 3183 3186	his
+T143	PRON_PER 3202 3205	his
+T144	PRON_PER 3216 3219	his
+T145	PRON_PER 3241 3244	him
+T146	PRON_PER 3250 3252	me
+T147	PRON_PER 3264 3267	his
+T148	PRON_PER 3291 3294	his
+T150	PRON_PER 3338 3340	He
+T151	PRON_PER 3361 3363	He
+T152	PRON_PER 3381 3384	his
+T153	PRON_PER 3454 3455	I
+T154	PRON_PER 3534 3536	my
+T155	PRON_PER 3543 3546	His
+T156	PRON_PER 3593 3595	he
+T157	PRON_PER 3607 3608	I
+T158	PRON_PER 3624 3626	me
+T159	PRON_PER 3681 3683	he
+T160	PRON_PER 3690 3692	me
+T161	PRON_PER 3723 3726	his
+T162	PRON_PER 3808 3810	he
+T163	PRON_PER 3844 3846	me
+T164	PRON_PER 3855 3858	his
+T165	PRON_PER 3908 3911	you
+T166	PRON_PER 3916 3918	he
+T167	PRON_PER 3932 3933	I
+T168	PRON_PER 3956 3959	you
+T169	PRON_PER 4002 4003	I
+T170	PRON_PER 4008 4011	you
+T171	PRON_PER 4028 4029	I
+T172	PRON_PER 4052 4053	I
+T173	PRON_PER 4111 4112	I
+T174	PRON_PER 4154 4155	I
+T175	PRON_PER 4166 4169	You
+T176	PRON_PER 4183 4185	me
+T177	PRON_PER 4191 4194	you
+T178	PRON_PER 4243 4246	you
+T179	PRON_PER 4258 4259	I
+T180	PRON_PER 4269 4270	I
+T181	PRON_PER 4290 4291	I
+T182	PRON_PER 4302 4305	you
+T183	PRON_PER 4324 4332	yourself
+T184	PRON_PER 4360 4363	you
+T185	PRON_PER 4415 4417	My
+T186	PRON_PER 4439 4440	I
+T187	PRON_PER 4464 4467	You
+T188	PRON_PER 4507 4510	you
+T189	PRON_PER 4555 4556	I
+T190	PRON_PER 4630 4631	I
+T191	PRON_PER 4645 4647	my
+T192	PRON_PER 4656 4657	I
+T193	PRON_PER 4677 4680	you
+T194	PRON_PER 4711 4714	she
+T195	PRON_PER 4737 4739	my
+T196	PRON_PER 4755 4758	her
+T197	PRON_PER 4788 4789	I
+T198	PRON_PER 4806 4809	you
+T199	PRON_PER 4826 4828	He
+T200	PRON_PER 4841 4848	himself
+T201	PRON_PER 4860 4863	his
+T202	PRON_PER 4931 4933	he
+T203	PRON_PER 4938 4940	my
+T204	PRON_PER 4951 4953	me
+T205	PRON_PER 4976 4980	your
+T207	PRON_PER 5235 5238	you
+T208	PRON_PER 5245 5247	my
+T209	PRON_PER 5270 5273	you
+T210	PRON_PER 5314 5317	you
+T211	PRON_PER 5399 5403	your
+T212	PRON_PER 5441 5443	my
+T213	PRON_PER 5517 5520	his
+T214	PRON_PER 5573 5576	his
+T215	PRON_PER 5599 5601	he
+T216	PRON_PER 5615 5618	his
+T217	PRON_PER 5633 5634	I
+T218	PRON_PER 5662 5663	I
+T219	PRON_PER 5681 5684	him
+T220	PRON_PER 5738 5739	I
+T221	PRON_PER 5787 5789	he
+T222	PRON_PER 5800 5803	his
+T223	PRON_PER 5834 5835	I
+T224	PRON_PER 5841 5844	you
+T225	PRON_PER 5850 5854	your
+T226	PRON_PER 5867 5868	I
+T227	PRON_PER 5910 5912	me
+T228	PRON_PER 5947 5948	I
+T229	PRON_PER 5968 5974	myself
+T230	PRON_PER 6015 6019	your
+T231	PRON_PER 6030 6031	I
+T232	PRON_PER 6049 6052	you
+T233	PRON_PER 6061 6065	your
+T234	PRON_PER 6084 6085	I
+T235	PRON_PER 6099 6101	my
+T236	PRON_PER 6147 6149	he
+T237	PRON_PER 6197 6204	himself
+T238	PRON_PER 6231 6234	You
+T239	PRON_PER 6245 6248	you
+T240	PRON_PER 6307 6310	you
+T241	PRON_PER 6499 6500	I
+T242	PRON_PER 6530 6533	You
+T243	PRON_PER 6562 6565	you
+T244	PRON_PER 6591 6593	my
+T245	PRON_PER 6608 6609	I
+T246	PRON_PER 6656 6657	I
+T247	PRON_PER 6707 6710	you
+T248	PRON_PER 6763 6766	you
+T249	PRON_PER 6810 6812	my
+T250	PRON_PER 6836 6839	you
+T251	PRON_PER 6870 6872	He
+T252	PRON_PER 7005 7007	he
+T253	PRON_PER 7118 7121	you
+T254	PRON_PER 7214 7217	you
+T255	PRON_PER 7261 7265	Your
+T256	PRON_PER 7335 7338	you
+T257	PRON_PER 7463 7466	you
+T258	PRON_PER 7467 7469	we
+T259	PRON_PER 7510 7514	your
+T260	PRON_PER 7571 7575	your
+T261	PRON_PER 7631 7632	I
+T262	PRON_PER 7654 7657	you
+T263	PRON_PER 7686 7687	I
+T264	PRON_PER 7887 7890	you
+T265	PRON_PER 7910 7911	I
+T266	PRON_PER 8040 8041	I
+T267	PRON_PER 8077 8079	my
+T268	PRON_PER 8326 8327	I
+T269	PRON_PER 8475 8478	you
+T270	PRON_PER 8551 8554	his
+T271	PRON_PER 8726 8729	our
+T272	PRON_PER 8807 8809	us
+T273	PRON_PER 8820 8823	our
+T274	PRON_PER 8850 8852	He
+T275	PRON_PER 8889 8892	his
+T276	PRON_PER 8930 8932	we
+T277	PRON_PER 9151 9153	my
+T278	PRON_PER 9168 9171	you
+T279	PRON_PER 9189 9192	His
+T280	PRON_PER 9213 9215	he
+T281	PRON_PER 9259 9262	his
+T282	PRON_PER 9311 9312	I
+T283	PRON_PER 9382 9385	you
+T284	PRON_PER 9454 9457	you
+T285	PRON_PER 9458 9460	we
+T286	PRON_PER 9592 9595	his
+T287	PRON_PER 9745 9748	his
+T288	PRON_PER 9765 9767	he
+T289	PRON_PER 9779 9780	I
+T290	PRON_PER 9814 9817	our
+T342	BOHEMIA-0 27 34	BOHEMIA
+T291	Sherlock_Holmes-1 41 56	Sherlock Holmes
+T376	Irene-2 57 60	she
+T377	Watson-3 83 84	I
+T378	Sherlock_Holmes-1 103 106	him
+T379	Irene-2 115 118	her
+T380	Sherlock_Holmes-1 145 148	his
+T381	Irene-2 154 157	she
+T382	Irene-2 197 200	her
+T383	Sherlock_Holmes-1 223 225	he
+T292	Irene-2 260 271	Irene Adler
+T384	Sherlock_Holmes-1 335 338	his
+T385	Sherlock_Holmes-1 384 386	He
+T386	Watson-3 393 394	I
+T293	the_world-4 459 468	the world
+T345	Sherlock_Holmes-1 487 494	a lover
+T387	Sherlock_Holmes-1 495 497	he
+T388	Sherlock_Holmes-1 516 523	himself
+T389	Sherlock_Holmes-1 546 548	He
+T346	the_observer-5 648 660	the observer
+T347	men-6 700 703	men
+T294	Sherlock_Holmes-1 737 757	the trained reasoner
+T391	Sherlock_Holmes-1 788 791	his
+T392	Sherlock_Holmes-1 910 913	his
+T393	Sherlock_Holmes-1 985 988	his
+T394	Sherlock_Holmes-1 1084 1087	his
+T295	Irene-2 1112 1121	one woman
+T395	Sherlock_Holmes-1 1125 1128	him
+T296	Irene-2 1140 1145	woman
+T348	Irene-2 1150 1170	the late Irene Adler
+T396	Watson-3 1210 1211	I
+T297	Sherlock_Holmes-1 1231 1237	Holmes
+T397	Watson-3 1247 1249	My
+T398	Holmes_and_Watson-7 1271 1273	us
+T399	Watson-3 1297 1299	My
+T351	the_man_who_first_finds_himself_master_of_his_own_establishment-8 1377 1440	the man who first finds himself master of his own establishment
+T400	the_man_who_first_finds_himself_master_of_his_own_establishment-8 1401 1408	himself
+T300	the_man_who_first_finds_himself_master_of_his_own_establishment-8 1409 1440	master of his own establishment
+T349	his_own_establishment-9 1419 1440	his own establishment
+T401	the_man_who_first_finds_himself_master_of_his_own_establishment-8 1419 1422	his
+T402	Watson-3 1473 1475	my
+T352	Sherlock_Holmes-1 1494 1500	Holmes
+T403	Sherlock_Holmes-1 1542 1545	his
+T299	221_Baker_Street-10 1580 1608	our lodgings in Baker Street
+T404	Holmes_and_Watson-7 1580 1583	our
+T298	Baker_Street-11 1596 1608	Baker Street
+T405	Sherlock_Holmes-1 1624 1627	his
+T406	Sherlock_Holmes-1 1759 1762	his
+T407	Sherlock_Holmes-1 1781 1783	He
+T408	Sherlock_Holmes-1 1860 1863	his
+T353	the_official_police-12 2025 2044	the official police
+T409	Watson-3 2065 2066	I
+T410	Sherlock_Holmes-1 2095 2098	his
+T411	Sherlock_Holmes-1 2111 2114	his
+T302	Odessa-13 2126 2132	Odessa
+T354	Trepoff-14 2152 2159	Trepoff
+T412	Sherlock_Holmes-1 2172 2175	his
+T303	the_Atkinson_brothers-15 2215 2236	the Atkinson brothers
+T304	Trincomalee-16 2240 2251	Trincomalee
+T413	Sherlock_Holmes-1 2287 2289	he
+T355	the_reigning_family_of_Holland-17 2342 2372	the reigning family of Holland
+T301	Holland-18 2365 2372	Holland
+T414	Sherlock_Holmes-1 2397 2400	his
+T415	Watson-3 2428 2429	I
+T305	all_the_readers_of_the_daily_press-19 2449 2483	all the readers of the daily press
+T416	Watson-3 2486 2487	I
+T307	Sherlock_Holmes-1 2503 2519	my former friend
+T417	Watson-3 2503 2505	my
+T306	Sherlock_Holmes-1 2524 2533	companion
+T418	Watson-3 2592 2593	I
+T308	a_patient-20 2626 2635	a patient
+T419	Watson-3 2642 2643	I
+T420	Watson-3 2688 2690	my
+T421	Watson-3 2699 2701	me
+T309	Baker_Street-11 2710 2722	Baker Street
+T422	Watson-3 2728 2729	I
+T423	Watson-3 2799 2801	my
+T424	Watson-3 2812 2814	my
+T425	Watson-3 2878 2879	I
+T310	Sherlock_Holmes-1 2917 2923	Holmes
+T426	Sherlock_Holmes-1 2948 2950	he
+T427	Sherlock_Holmes-1 2965 2968	his
+T311	Holmes__rooms-21 2992 3001	His rooms
+T428	Sherlock_Holmes-1 2992 2995	His
+T429	Watson-3 3039 3040	I
+T430	Watson-3 3053 3054	I
+T356	Sherlock_Holmes-1 3059 3082	his tall , spare figure
+T431	Sherlock_Holmes-1 3059 3062	his
+T432	Sherlock_Holmes-1 3135 3137	He
+T374	Holmes__rooms-21 3149 3157	the room
+T433	Sherlock_Holmes-1 3183 3186	his
+T434	Sherlock_Holmes-1 3202 3205	his
+T435	Sherlock_Holmes-1 3216 3219	his
+T436	Sherlock_Holmes-1 3241 3244	him
+T437	Watson-3 3250 3252	me
+T438	Sherlock_Holmes-1 3264 3267	his
+T439	Sherlock_Holmes-1 3291 3294	his
+T441	Sherlock_Holmes-1 3338 3340	He
+T442	Sherlock_Holmes-1 3361 3363	He
+T443	Sherlock_Holmes-1 3381 3384	his
+T444	Watson-3 3454 3455	I
+T312	Watson_s_room-22 3490 3540	the chamber which had formerly been in part my own
+T445	Watson-3 3534 3536	my
+T446	Sherlock_Holmes-1 3543 3546	His
+T447	Sherlock_Holmes-1 3593 3595	he
+T448	Watson-3 3607 3608	I
+T449	Watson-3 3624 3626	me
+T450	Sherlock_Holmes-1 3681 3683	he
+T451	Watson-3 3690 3692	me
+T452	Sherlock_Holmes-1 3723 3726	his
+T453	Sherlock_Holmes-1 3808 3810	he
+T454	Watson-3 3844 3846	me
+T455	Sherlock_Holmes-1 3855 3858	his
+T456	Watson-3 3908 3911	you
+T457	Sherlock_Holmes-1 3916 3918	he
+T458	Sherlock_Holmes-1 3932 3933	I
+T313	Watson-3 3942 3948	Watson
+T459	Watson-3 3956 3959	you
+T460	Sherlock_Holmes-1 4002 4003	I
+T461	Watson-3 4008 4011	you
+T462	Watson-3 4028 4029	I
+T463	Sherlock_Holmes-1 4052 4053	I
+T464	Sherlock_Holmes-1 4111 4112	I
+T314	Watson-3 4121 4127	Watson
+T465	Sherlock_Holmes-1 4154 4155	I
+T466	Watson-3 4166 4169	You
+T467	Sherlock_Holmes-1 4183 4185	me
+T468	Watson-3 4191 4194	you
+T469	Sherlock_Holmes-1 4243 4246	you
+T470	Sherlock_Holmes-1 4258 4259	I
+T471	Sherlock_Holmes-1 4269 4270	I
+T472	Sherlock_Holmes-1 4290 4291	I
+T473	Watson-3 4302 4305	you
+T474	Watson-3 4324 4332	yourself
+T475	Watson-3 4360 4363	you
+T316	a_most_clumsy_and_careless_servant_girl-23 4369 4408	a most clumsy and careless servant girl
+T373	Sherlock_Holmes-1 4415 4422	My dear
+T476	Watson-3 4415 4417	My
+T317	Sherlock_Holmes-1 4423 4429	Holmes
+T477	Watson-3 4439 4440	I
+T478	Sherlock_Holmes-1 4464 4467	You
+T479	Sherlock_Holmes-1 4507 4510	you
+T480	Watson-3 4555 4556	I
+T315	Watson_s_home-24 4597 4601	home
+T481	Watson-3 4630 4631	I
+T482	Watson-3 4645 4647	my
+T483	Watson-3 4656 4657	I
+T484	Sherlock_Holmes-1 4677 4680	you
+T321	a_most_clumsy_and_careless_servant_girl-23 4699 4708	Mary Jane
+T485	a_most_clumsy_and_careless_servant_girl-23 4711 4714	she
+T320	my_wife-25 4737 4744	my wife
+T486	Watson-3 4737 4739	my
+T487	a_most_clumsy_and_careless_servant_girl-23 4755 4758	her
+T488	Watson-3 4788 4789	I
+T489	Sherlock_Holmes-1 4806 4809	you
+T490	Sherlock_Holmes-1 4826 4828	He
+T491	Sherlock_Holmes-1 4841 4848	himself
+T492	Sherlock_Holmes-1 4860 4863	his
+T493	Sherlock_Holmes-1 4931 4933	he
+T494	Sherlock_Holmes-1 4938 4940	my
+T495	Sherlock_Holmes-1 4951 4953	me
+T496	Watson-3 4976 4980	your
+T498	Watson-3 5235 5238	you
+T499	Sherlock_Holmes-1 5245 5247	my
+T500	Watson-3 5270 5273	you
+T501	Watson-3 5314 5317	you
+T319	a_most_clumsy_and_careless_servant_girl-23 5322 5390	a particularly malignant boot-slitting specimen of the London slavey
+T318	the_London_slavey-26 5373 5390	the London slavey
+T322	London-27 5377 5383	London
+T502	Watson-3 5399 5403	your
+T325	a_gentleman-28 5418 5429	a gentleman
+T323	Holmes__rooms-21 5441 5449	my rooms
+T503	Sherlock_Holmes-1 5441 5443	my
+T504	a_gentleman-28 5517 5520	his
+T505	a_gentleman-28 5573 5576	his
+T506	a_gentleman-28 5599 5601	he
+T507	a_gentleman-28 5615 5618	his
+T508	Sherlock_Holmes-1 5633 5634	I
+T509	Sherlock_Holmes-1 5662 5663	I
+T510	a_gentleman-28 5681 5684	him
+T511	Watson-3 5738 5739	I
+T512	Sherlock_Holmes-1 5787 5789	he
+T513	Sherlock_Holmes-1 5800 5803	his
+T514	Watson-3 5834 5835	I
+T515	Sherlock_Holmes-1 5841 5844	you
+T516	Sherlock_Holmes-1 5850 5854	your
+T517	Watson-3 5867 5868	I
+T518	Watson-3 5910 5912	me
+T519	Watson-3 5947 5948	I
+T520	Watson-3 5968 5974	myself
+T521	Sherlock_Holmes-1 6015 6019	your
+T522	Watson-3 6030 6031	I
+T523	Sherlock_Holmes-1 6049 6052	you
+T524	Sherlock_Holmes-1 6061 6065	your
+T525	Watson-3 6084 6085	I
+T526	Watson-3 6099 6101	my
+T527	Sherlock_Holmes-1 6147 6149	he
+T528	Sherlock_Holmes-1 6197 6204	himself
+T529	Watson-3 6231 6234	You
+T530	Watson-3 6245 6248	you
+T531	Watson-3 6307 6310	you
+T358	the_steps_which_lead_up_from_the_hall_to_this_room-29 6332 6382	the steps which lead up from the hall to this room
+T326	the_hall-30 6361 6369	the hall
+T327	Holmes__rooms-21 6373 6382	this room
+T532	Watson-3 6499 6500	I
+T533	Watson-3 6530 6533	You
+T534	Watson-3 6562 6565	you
+T535	Sherlock_Holmes-1 6591 6593	my
+T536	Sherlock_Holmes-1 6608 6609	I
+T357	the_steps_which_lead_up_from_the_hall_to_this_room-29 6630 6645	seventeen steps
+T537	Sherlock_Holmes-1 6656 6657	I
+T538	Watson-3 6707 6710	you
+T539	Watson-3 6763 6766	you
+T540	Sherlock_Holmes-1 6810 6812	my
+T541	Watson-3 6836 6839	you
+T542	Sherlock_Holmes-1 6870 6872	He
+T543	Sherlock_Holmes-1 7005 7007	he
+T544	Sherlock_Holmes-1 7118 7121	you
+T359	The_man_who_wrote_it-47 7179 7258	a gentleman who desires to consult you upon a matter of the very deepest moment
+T545	Sherlock_Holmes-1 7214 7217	you
+T546	Sherlock_Holmes-1 7261 7265	Your
+T361	the_reigning_family_of_Holland-17 7285 7318	one of the royal houses of Europe
+T328	the_royal_houses_of_Europe-32 7292 7318	the royal houses of Europe
+T360	Europe-33 7312 7318	Europe
+T547	Sherlock_Holmes-1 7335 7338	you
+T548	Sherlock_Holmes-1 7463 7466	you
+T549	we-34 7467 7469	we
+T330	Holmes__rooms-21 7510 7522	your chamber
+T550	Sherlock_Holmes-1 7510 7514	your
+T329	The_man_who_wrote_it-47 7571 7583	your visitor
+T551	Sherlock_Holmes-1 7571 7575	your
+T552	Watson-3 7631 7632	I
+T553	Sherlock_Holmes-1 7654 7657	you
+T554	Sherlock_Holmes-1 7686 7687	I
+T557	Watson-3 8040 8041	I
+T363	Sherlock_Holmes-1 8077 8089	my companion
+T558	Watson-3 8077 8079	my
+T331	Sherlock_Holmes-1 8251 8257	Holmes
+T559	Watson-3 8326 8327	I
+T560	Watson-3 8475 8478	you
+T332	Sherlock_Holmes-1 8502 8508	Holmes
+T333	the_maker-36 8525 8534	the maker
+T561	the_maker-36 8551 8554	his
+T562	English_speakers-37 8726 8729	our
+T563	Holmes_and_Watson-7 8807 8809	us
+T564	Holmes_and_Watson-7 8820 8823	our
+T565	Sherlock_Holmes-1 8850 8852	He
+T566	Sherlock_Holmes-1 8889 8892	his
+T372	Eglow-38 8905 8910	Eglow
+T371	Eglonitz-39 8913 8921	Eglonitz
+T567	Holmes_and_Watson-7 8930 8932	we
+T370	Egria-40 8939 8944	Egria
+T364	a_German-speaking_country-41 8956 8981	a German-speaking country
+T334	Bohemia-42 8988 8995	Bohemia
+T335	Carlsbad-43 9011 9019	Carlsbad
+T336	Wallenstein-44 9070 9081	Wallenstein
+T365	numerous_glass-factories-45 9096 9120	numerous glass-factories
+T366	paper-mills-46 9125 9136	paper-mills
+T337	Watson-3 9151 9157	my boy
+T568	Sherlock_Holmes-1 9151 9153	my
+T569	Watson-3 9168 9171	you
+T570	Sherlock_Holmes-1 9189 9192	His
+T571	Sherlock_Holmes-1 9213 9215	he
+T572	Sherlock_Holmes-1 9259 9262	his
+T338	BOHEMIA-0 9299 9306	Bohemia
+T573	Watson-3 9311 9312	I
+T362	The_man_who_wrote_it-47 7989 8009	The man who wrote it
+T555	Watson-3 7887 7890	you
+T556	Watson-3 7910 7911	I
+T339	The_man_who_wrote_it-47 9338 9364	the man who wrote the note
+T574	Watson-3 9382 9385	you
+T575	Sherlock_Holmes-1 9454 9457	you
+T576	we-34 9458 9460	we
+T340	A_Frenchman-48 9497 9508	A Frenchman
+T368	Russian-49 9512 9519	Russian
+T341	general_German-50 9556 9601	the German who is so uncourteous to his verbs
+T577	general_German-50 9592 9595	his
+T369	The_man_who_wrote_it-47 9664 9753	this German who writes upon Bohemian paper and prefers wearing a mask to showing his face
+T578	The_man_who_wrote_it-47 9745 9748	his
+T579	The_man_who_wrote_it-47 9765 9767	he
+T580	Sherlock_Holmes-1 9779 9780	I
+T581	Holmes_and_Watson-7 9814 9817	our
+R1	cop Arg1:T52 Arg2:T85
+R2	cop Arg1:T53 Arg2:T94
+R3	cop Arg1:T33 Arg2:T219
+R4	cop Arg1:T76 Arg2:T48
+T636	PRON_GPE 9092 9095	its
+T637	Bohemia-42 9092 9095	its

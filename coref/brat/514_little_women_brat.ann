@@ -1,0 +1,576 @@
+T1	NOM_PER 231 241	some girls
+T2	NOM_PER 280 291	other girls
+T5	NOM_PER 367 373	Father
+T6	NOM_PER 378 384	Mother
+T7	PROP_PER 553 555	Jo
+T9	NOM_PER 587 593	Father
+T10	NOM_PER 716 722	Father
+T11	NOM_PER 844 850	Mother
+T12	PROP_PER 792 795	Meg
+T14	PROP_PER 1181 1184	Meg
+T18	NOM_PER 1457 1463	Mother
+T20	NOM_PER 1563 1586	Jo , who was a bookworm
+T24	NOM_PER 1826 1832	Mother
+T25	NOM_PER 2115 2138	those tiresome children
+T26	NOM_FAC 2193 2197	home
+T27	PROP_PER 2303 2305	Jo
+T28	NOM_PER 2990 3001	your father
+T29	PROP_PER 2834 2837	Amy
+T30	NOM_PER 3138 3142	Papa
+T34	NOM_PER 3638 3655	the King children
+T36	PROP_PER 3872 3874	Jo
+T37	PROP_PER 4003 4005	Jo
+T38	NOM_PER 4154 4177	rude , unladylike girls
+T39	NOM_PER 4191 4221	affected , niminy-piminy chits
+T40	NOM_PER 4278 4292	the peacemaker
+T41	NOM_PER 4416 4421	girls
+T48	NOM_PER 5101 5104	boy
+T50	NOM_PER 5262 5266	Papa
+T51	NOM_PER 5310 5326	a poky old woman
+T52	NOM_FAC 5289 5293	home
+T53	PROP_PER 5335 5337	Jo
+T54	NOM_PER 5584 5592	us girls
+T55	NOM_PER 5573 5580	brother
+T56	PROP_PER 6048 6050	Jo
+T58	PROP_PER 6088 6091	Amy
+T59	PROP_PER 6069 6071	Jo
+T62	NOM_FAC 6812 6816	home
+T63	PROP_PER 7039 7058	Fifteen-year-old Jo
+T64	NOM_PER 7632 7639	a woman
+T65	PROP_PER 7662 7671	Elizabeth
+T66	NOM_PER 7860 7870	Her father
+T69	NOM_PER 8291 8326	a young lady mindful of her manners
+T71	NOM_PER 8352 8368	the four sisters
+T72	NOM_PER 8579 8585	Mother
+T73	NOM_PER 8563 8572	the girls
+T74	PROP_PER 8743 8745	Jo
+T75	PROP_PER 8687 8690	Amy
+T76	PROP_PER 8856 8862	Marmee
+T77	NOM_PER 20 28	PILGRIMS
+T78	PROP_PER 95 97	Jo
+T79	PROP_PER 161 164	Meg
+T80	PROP_PER 317 327	little Amy
+T81	NOM_PER 391 401	each other
+T4	PROP_PER 411 415	Beth
+T82	NOM_PER 446 495	The four young faces on which the firelight shone
+T84	NOM_PER 1021 1028	our men
+T15	PROP_PER 1637 1641	Beth
+T16	PROP_PER 1808 1811	Amy
+T17	PROP_PER 2025 2027	Jo
+T19	PROP_PER 2208 2211	Meg
+T21	NOM_PER 2358 2496	a nervous , fussy old lady , who keeps you trotting , is never satisfied , and worries you till you 're ready to fly out the window or cry
+T22	NOM_LOC 2602 2611	the world
+T23	PROP_PER 2700 2704	Beth
+T85	NOM_FAC 2871 2877	school
+T86	NOM_PER 2883 3063	impertinent girls , who plague you if you do n't know your lessons , and laugh at your dresses , and label your father if he is n't rich , and insult you when your nose is n't nice
+T87	PROP_PER 3175 3177	Jo
+T88	PROP_PER 3330 3333	Amy
+T31	NOM_PER 3382 3390	children
+T89	NOM_PER 3368 3379	one another
+T32	NOM_PER 3426 3430	Papa
+T90	PROP_PER 3458 3460	Jo
+T91	PROP_PER 3533 3536	Meg
+T35	PROP_PER 3750 3754	Beth
+T92	NOM_PER 3848 3866	a pretty jolly set
+T93	PROP_PER 3891 3893	Jo
+T94	PROP_PER 3933 3936	Amy
+T95	NOM_PER 3964 4000	the long figure stretched on the rug
+T96	PROP_PER 4092 4094	Jo
+T97	PROP_PER 4271 4275	Beth
+T98	PROP_PER 4459 4462	Meg
+T99	PROP_PER 4591 4600	Josephine
+T42	NOM_PER 4643 4656	a little girl
+T43	NOM_PER 4742 4754	a young lady
+T100	PROP_PER 4867 4869	Jo
+T45	PROP_PER 4977 4987	Miss March
+T44	NOM_PER 5071 5077	a girl
+T46	NOM_PER 5186 5191	a boy
+T47	PROP_PER 5446 5453	Poor Jo
+T49	PROP_PER 5602 5606	Beth
+T101	PROP_PER 5750 5753	Amy
+T102	PROP_PER 5768 5771	Meg
+T103	NOM_PER 5867 5891	an affected little goose
+T57	NOM_PER 6075 6083	a tomboy
+T104	NOM_PER 6092 6099	a goose
+T105	PROP_PER 6131 6135	Beth
+T106	NOM_PER 6177 6183	a dear
+T60	PROP_PER 6216 6219	Meg
+T107	NOM_PER 6263 6276	the ' Mouse '
+T108	NOM_PER 6281 6302	the pet of the family
+T61	NOM_PER 6308 6321	young readers
+T109	NOM_PER 6414 6430	the four sisters
+T110	NOM_FAC 6569 6587	a comfortable room
+T111	PROP_PER 6837 6845	Margaret
+T112	NOM_PER 6848 6870	the eldest of the four
+T113	NOM_PER 6862 6870	the four
+T114	PROP_PER 7498 7500	Jo
+T115	NOM_PER 7592 7659	a girl who was rapidly shooting up into a woman and did n't like it
+T116	PROP_PER 7677 7681	Beth
+T117	NOM_PER 7713 7857	a rosy , smooth-haired , bright-eyed girl of thirteen , with a shy manner , a timid voice , and a peaceful expression which was seldom disturbed
+T67	PROP_PER 7884 7907	Little Miss Tranquility
+T68	NOM_PER 8030 8064	the few whom she trusted and loved
+T118	PROP_PER 8067 8070	Amy
+T119	NOM_PER 8080 8092	the youngest
+T120	NOM_PER 8099 8122	a most important person
+T121	NOM_PER 8155 8236	A regular snow maiden , with blue eyes , and yellow hair curling on her shoulders
+T70	PROP_PER 8462 8466	Beth
+T122	PROP_PER 8640 8643	Meg
+T123	PROP_PER 8942 8946	Beth
+T8	NOM_PER 947 955	everyone
+T83	NOM_PER 7687 7695	everyone
+T125	NOM_PER 8603 8611	everyone
+T3	NOM_PER 6341 6347	people
+T126	NOM_LOC 5686 5695	the world
+T127	NOM_PER 2748 2755	any one
+T128	NOM_PER 759 765	Nobody
+T129	NOM_PER 1671 1677	no one
+T130	NOM_PER 6233 6239	no one
+T131	NOM_FAC 5433 5441	the room
+T132	PRON_PER 183 186	her
+T133	PRON_PER 201 202	I
+T134	PRON_PER 356 358	We
+T135	PRON_PER 433 436	her
+T136	PRON_PER 571 573	We
+T137	PRON_PER 615 618	him
+T138	PRON_PER 639 642	She
+T139	PRON_PER 824 827	You
+T140	PRON_PER 962 965	she
+T141	PRON_PER 973 975	we
+T142	PRON_PER 1021 1024	our
+T143	PRON_PER 1060 1062	We
+T144	PRON_PER 1084 1086	we
+T145	PRON_PER 1096 1099	our
+T146	PRON_PER 1152 1153	I
+T147	PRON_PER 1164 1165	I
+T148	PRON_PER 1191 1194	her
+T149	PRON_PER 1205 1208	she
+T150	PRON_PER 1254 1257	she
+T151	PRON_PER 1273 1274	I
+T152	PRON_PER 1299 1301	we
+T153	PRON_PER 1335 1337	We
+T154	PRON_PER 1403 1406	our
+T155	PRON_PER 1421 1422	I
+T156	PRON_PER 1467 1470	you
+T157	PRON_PER 1477 1478	I
+T158	PRON_PER 1521 1527	myself
+T159	PRON_PER 1530 1531	I
+T160	PRON_PER 1591 1592	I
+T161	PRON_PER 1727 1728	I
+T162	PRON_PER 1780 1781	I
+T164	PRON_PER 1860 1863	our
+T165	PRON_PER 1876 1879	she
+T166	PRON_PER 1892 1894	us
+T167	PRON_PER 1940 1942	we
+T168	PRON_PER 1974 1975	I
+T169	PRON_PER 1984 1986	we
+T170	PRON_PER 2053 2056	her
+T171	PRON_PER 2091 2092	I
+T172	PRON_PER 2098 2099	I
+T173	PRON_PER 2161 2162	I
+T174	PRON_PER 2183 2189	myself
+T175	PRON_PER 2248 2251	You
+T176	PRON_PER 2289 2290	I
+T177	PRON_PER 2320 2323	you
+T178	PRON_PER 2397 2400	you
+T179	PRON_PER 2445 2448	you
+T180	PRON_PER 2454 2457	you
+T181	PRON_PER 2531 2532	I
+T182	PRON_PER 2623 2625	me
+T183	PRON_PER 2638 2640	my
+T184	PRON_PER 2662 2663	I
+T185	PRON_PER 2715 2718	her
+T186	PRON_PER 2781 2782	I
+T187	PRON_PER 2805 2808	you
+T188	PRON_PER 2819 2820	I
+T189	PRON_PER 2846 2849	you
+T190	PRON_PER 2914 2917	you
+T191	PRON_PER 2921 2924	you
+T192	PRON_PER 2937 2941	your
+T193	PRON_PER 2965 2969	your
+T194	PRON_PER 2990 2994	your
+T195	PRON_PER 3005 3007	he
+T196	PRON_PER 3033 3036	you
+T197	PRON_PER 3042 3046	your
+T198	PRON_PER 3073 3076	you
+T199	PRON_PER 3090 3091	I
+T200	PRON_PER 3193 3194	I
+T201	PRON_PER 3205 3206	I
+T202	PRON_PER 3218 3221	you
+T203	PRON_PER 3301 3305	your
+T204	PRON_PER 3400 3403	you
+T205	PRON_PER 3409 3411	we
+T206	PRON_PER 3441 3443	we
+T207	PRON_PER 3468 3470	me
+T208	PRON_PER 3492 3494	we
+T209	PRON_PER 3506 3508	we
+T210	PRON_PER 3575 3578	You
+T211	PRON_PER 3598 3601	you
+T212	PRON_PER 3610 3612	we
+T213	PRON_PER 3662 3666	they
+T214	PRON_PER 3721 3726	their
+T215	PRON_PER 3742 3743	I
+T216	PRON_PER 3764 3765	I
+T217	PRON_PER 3772 3774	we
+T218	PRON_PER 3792 3794	we
+T219	PRON_PER 3813 3815	we
+T220	PRON_PER 3828 3837	ourselves
+T221	PRON_PER 4031 4034	her
+T222	PRON_PER 4044 4047	her
+T223	PRON_PER 4131 4132	I
+T224	PRON_PER 4145 4146	I
+T225	PRON_PER 4184 4185	I
+T227	PRON_PER 4424 4427	you
+T228	PRON_PER 4489 4492	her
+T229	PRON_PER 4520 4523	You
+T230	PRON_PER 4634 4637	you
+T231	PRON_PER 4667 4670	you
+T232	PRON_PER 4697 4701	your
+T233	PRON_PER 4709 4712	you
+T234	PRON_PER 4734 4737	you
+T235	PRON_PER 4761 4762	I
+T236	PRON_PER 4790 4792	my
+T237	PRON_PER 4804 4806	me
+T238	PRON_PER 4813 4814	I
+T239	PRON_PER 4845 4846	I
+T240	PRON_PER 4884 4887	her
+T241	PRON_PER 4931 4932	I
+T242	PRON_PER 4947 4948	I
+T243	PRON_PER 5094 5095	I
+T244	PRON_PER 5137 5138	I
+T245	PRON_PER 5155 5157	my
+T246	PRON_PER 5230 5231	I
+T247	PRON_PER 5273 5274	I
+T248	PRON_PER 5409 5412	her
+T249	PRON_PER 5501 5504	you
+T250	PRON_PER 5542 5546	your
+T251	PRON_PER 5584 5586	us
+T252	PRON_PER 5744 5747	you
+T253	PRON_PER 5776 5779	you
+T254	PRON_PER 5821 5825	Your
+T255	PRON_PER 5851 5854	you
+T256	PRON_PER 5897 5900	you
+T257	PRON_PER 5920 5921	I
+T258	PRON_PER 5927 5931	your
+T259	PRON_PER 5981 5984	you
+T260	PRON_PER 6016 6020	your
+T261	PRON_PER 6110 6111	I
+T262	PRON_PER 6169 6172	You
+T263	PRON_PER 6253 6256	her
+T264	PRON_PER 6357 6359	we
+T265	PRON_PER 6390 6394	them
+T266	PRON_PER 7017 7020	she
+T267	PRON_PER 7127 7130	she
+T268	PRON_PER 7168 7171	her
+T269	PRON_PER 7209 7212	her
+T270	PRON_PER 7219 7222	She
+T271	PRON_PER 7372 7375	Her
+T272	PRON_PER 7398 7401	her
+T273	PRON_PER 7468 7471	her
+T274	PRON_PER 7542 7545	her
+T275	PRON_PER 7703 7706	her
+T276	PRON_PER 7860 7863	Her
+T277	PRON_PER 7878 7881	her
+T278	PRON_PER 7932 7935	her
+T279	PRON_PER 7954 7957	she
+T280	PRON_PER 7993 7996	her
+T281	PRON_PER 8043 8046	she
+T282	PRON_PER 8128 8131	her
+T283	PRON_PER 8223 8226	her
+T284	PRON_PER 8278 8285	herself
+T285	PRON_PER 8315 8318	her
+T286	PRON_PER 8374 8376	we
+T287	PRON_PER 8634 8637	her
+T288	PRON_PER 8763 8766	she
+T289	PRON_PER 8774 8777	she
+T291	PRON_PER 8890 8891	I
+T292	PRON_PER 8900 8901	I
+T293	PRON_PER 8909 8912	her
+T294	PRON_PER 8923 8925	my
+T372	PILGRIMS-0 20 28	PILGRIMS
+T373	Jo-1 95 97	Jo
+T374	Meg-2 161 164	Meg
+T427	Meg-2 183 186	her
+T428	Amy-3 201 202	I
+T296	some_girls-4 231 241	some girls
+T297	other_girls-5 280 291	other girls
+T375	Amy-3 317 327	little Amy
+T429	all_sisters-6 356 358	We
+T300	Father-7 367 373	Father
+T301	Mother-8 378 384	Mother
+T376	all_sisters-6 391 401	each other
+T299	Beth-9 411 415	Beth
+T430	Beth-9 433 436	her
+T377	all_sisters-6 446 495	The four young faces on which the firelight shone
+T302	Jo-1 553 555	Jo
+T431	all_sisters-6 571 573	We
+T304	Father-7 587 593	Father
+T432	Father-7 615 618	him
+T433	Jo-1 639 642	She
+T305	Father-7 716 722	Father
+T423	Nobody-10 759 765	Nobody
+T307	Meg-2 792 795	Meg
+T434	all_sisters_but_Meg-11 824 827	You
+T306	Mother-8 844 850	Mother
+T303	everyone-12 947 955	everyone
+T435	Mother-8 962 965	she
+T436	mother_and_daughters-13 973 975	we
+T379	our_men-14 1021 1028	our men
+T441	Meg-2 1152 1153	I
+T442	Meg-2 1164 1165	I
+T309	Meg-2 1181 1184	Meg
+T443	Meg-2 1191 1194	her
+T444	Meg-2 1205 1208	she
+T445	Meg-2 1254 1257	she
+T313	Mother-8 1457 1463	Mother
+T446	Jo-1 1273 1274	I
+T447	all_sisters-6 1299 1301	we
+T448	all_sisters-6 1335 1337	We
+T449	all_sisters-6 1403 1406	our
+T450	Jo-1 1421 1422	I
+T451	all_sisters_but_jo-16 1467 1470	you
+T452	Jo-1 1477 1478	I
+T453	Jo-1 1521 1527	myself
+T454	Jo-1 1530 1531	I
+T315	Jo-1 1563 1586	Jo , who was a bookworm
+T455	Beth-9 1591 1592	I
+T310	Beth-9 1637 1641	Beth
+T424	no_one-17 1671 1677	no one
+T456	Amy-3 1727 1728	I
+T457	Amy-3 1780 1781	I
+T311	Amy-3 1808 1811	Amy
+T319	Mother-8 1826 1832	Mother
+T459	all_sisters-6 1860 1863	our
+T460	Mother-8 1876 1879	she
+T461	all_sisters-6 1892 1894	us
+T462	all_sisters-6 1940 1942	we
+T463	Jo-1 1974 1975	I
+T464	all_sisters-6 1984 1986	we
+T312	Jo-1 2025 2027	Jo
+T465	Jo-1 2053 2056	her
+T320	those_tiresome_children-18 2115 2138	those tiresome children
+T466	Meg-2 2091 2092	I
+T467	Meg-2 2098 2099	I
+T468	Meg-2 2161 2162	I
+T469	Meg-2 2183 2189	myself
+T321	home-19 2193 2197	home
+T314	Meg-2 2208 2211	Meg
+T470	Meg-2 2248 2251	You
+T471	Jo-1 2289 2290	I
+T322	Jo-1 2303 2305	Jo
+T316	a_nervous___fussy_old_lady___who_keeps_you_trotting___is_never_satisfied___and_worries_you_till_you__re_ready_to_fly_out_the_window_or_cry-20 2358 2496	a nervous , fussy old lady , who keeps you trotting , is never satisfied , and worries you till you 're ready to fly out the window or cry
+T476	Beth-9 2531 2532	I
+T317	the_world-21 2602 2611	the world
+T477	Beth-9 2623 2625	me
+T478	Beth-9 2638 2640	my
+T479	Beth-9 2662 2663	I
+T318	Beth-9 2700 2704	Beth
+T480	Beth-9 2715 2718	her
+T422	any_one-22 2748 2755	any one
+T481	Amy-3 2781 2782	I
+T482	all_sisters_but_amy-23 2805 2808	you
+T483	Amy-3 2819 2820	I
+T324	Amy-3 2834 2837	Amy
+T484	all_sisters_but_amy-23 2846 2849	you
+T380	school-24 2871 2877	school
+T381	impertinent_girls___who_plague_you_if_you_do_n_t_know_your_lessons___and_laugh_at_your_dresses___and_label_your_father_if_he_is_n_t_rich___and_insult_you_when_your_nose_is_n_t_nice-25 2883 3063	impertinent girls , who plague you if you do n't know your lessons , and laugh at your dresses , and label your father if he is n't rich , and insult you when your nose is n't nice
+T472	all_sisters_but_jo-16 2320 2323	you
+T473	all_sisters_but_jo-16 2397 2400	you
+T474	all_sisters_but_jo-16 2445 2448	you
+T475	all_sisters_but_jo-16 2454 2457	you
+T437	mother_and_daughters-13 1021 1024	our
+T438	mother_and_daughters-13 1060 1062	We
+T439	mother_and_daughters-13 1084 1086	we
+T440	mother_and_daughters-13 1096 1099	our
+T485	all_sisters_but_amy-23 2914 2917	you
+T486	all_sisters_but_amy-23 2921 2924	you
+T487	all_sisters_but_amy-23 2937 2941	your
+T488	all_sisters_but_amy-23 2965 2969	your
+T323	Father-7 2990 3001	your father
+T489	all_sisters_but_amy-23 2990 2994	your
+T490	Father-7 3005 3007	he
+T491	all_sisters_but_amy-23 3033 3036	you
+T492	all_sisters_but_amy-23 3042 3046	your
+T493	Amy-3 3073 3076	you
+T494	Jo-1 3090 3091	I
+T325	Father-7 3138 3142	Papa
+T382	Jo-1 3175 3177	Jo
+T495	Amy-3 3193 3194	I
+T496	Amy-3 3205 3206	I
+T497	Jo-1 3218 3221	you
+T498	general_your-26 3301 3305	your
+T383	Amy-3 3330 3333	Amy
+T384	one_another-27 3368 3379	one another
+T326	all_sisters_but_Meg-11 3382 3390	children
+T499	all_sisters_but_Meg-11 3400 3403	you
+T500	all_sisters-6 3409 3411	we
+T327	Father-7 3426 3430	Papa
+T501	all_sisters-6 3441 3443	we
+T385	Jo-1 3458 3460	Jo
+T502	Meg-2 3468 3470	me
+T503	all_sisters-6 3492 3494	we
+T504	all_sisters-6 3506 3508	we
+T386	Meg-2 3533 3536	Meg
+T505	Meg-2 3575 3578	You
+T506	Meg-2 3598 3601	you
+T507	all_sisters-6 3610 3612	we
+T329	the_King_children-28 3638 3655	the King children
+T508	the_King_children-28 3662 3666	they
+T509	the_King_children-28 3721 3726	their
+T510	Meg-2 3742 3743	I
+T330	Beth-9 3750 3754	Beth
+T511	Meg-2 3764 3765	I
+T512	all_sisters-6 3772 3774	we
+T513	all_sisters-6 3792 3794	we
+T514	all_sisters-6 3813 3815	we
+T515	all_sisters-6 3828 3837	ourselves
+T331	Jo-1 3872 3874	Jo
+T388	Jo-1 3891 3893	Jo
+T389	Amy-3 3933 3936	Amy
+T390	Jo-1 3964 4000	the long figure stretched on the rug
+T332	Jo-1 4003 4005	Jo
+T516	Jo-1 4031 4034	her
+T517	Jo-1 4044 4047	her
+T391	Jo-1 4092 4094	Jo
+T518	Jo-1 4131 4132	I
+T519	Beth-9 4145 4146	I
+T333	rude___unladylike_girls-29 4154 4177	rude , unladylike girls
+T520	Jo-1 4184 4185	I
+T334	affected___niminy-piminy_chits-30 4191 4221	affected , niminy-piminy chits
+T392	Beth-9 4271 4275	Beth
+T336	all_sisters_but_Meg-11 4416 4421	girls
+T522	all_sisters_but_Meg-11 4424 4427	you
+T393	Meg-2 4459 4462	Meg
+T523	Meg-2 4489 4492	her
+T524	Jo-1 4520 4523	You
+T394	Jo-1 4591 4600	Josephine
+T525	Jo-1 4634 4637	you
+T526	Jo-1 4667 4670	you
+T527	Jo-1 4697 4701	your
+T528	Jo-1 4709 4712	you
+T529	Jo-1 4734 4737	you
+T530	Jo-1 4761 4762	I
+T531	Jo-1 4790 4792	my
+T532	Jo-1 4804 4806	me
+T533	Jo-1 4813 4814	I
+T534	Jo-1 4845 4846	I
+T395	Jo-1 4867 4869	Jo
+T535	Jo-1 4884 4887	her
+T536	Jo-1 4931 4932	I
+T537	Jo-1 4947 4948	I
+T339	a_girl-31 5071 5077	a girl
+T538	Jo-1 5094 5095	I
+T343	boy-32 5101 5104	boy
+T539	Jo-1 5137 5138	I
+T540	Jo-1 5155 5157	my
+T341	a_boy-33 5186 5191	a boy
+T541	Jo-1 5230 5231	I
+T345	Father-7 5262 5266	Papa
+T542	Jo-1 5273 5274	I
+T347	home-19 5289 5293	home
+T346	Jo-1 5310 5326	a poky old woman
+T348	Jo-1 5335 5337	Jo
+T543	Jo-1 5409 5412	her
+T426	the_room-34 5433 5441	the room
+T342	Jo-1 5446 5453	Poor Jo
+T544	Jo-1 5501 5504	you
+T545	Jo-1 5542 5546	your
+T350	Jo-1 5573 5580	brother
+T349	all_sisters_but_jo-16 5584 5592	us girls
+T546	all_sisters_but_jo-16 5584 5586	us
+T344	Beth-9 5602 5606	Beth
+T421	the_world-21 5686 5695	the world
+T547	Amy-3 5744 5747	you
+T396	Amy-3 5750 5753	Amy
+T397	Meg-2 5768 5771	Meg
+T548	Amy-3 5776 5779	you
+T549	Amy-3 5821 5825	Your
+T550	Amy-3 5851 5854	you
+T551	Amy-3 5897 5900	you
+T552	Meg-2 5920 5921	I
+T553	Amy-3 5927 5931	your
+T554	Amy-3 5981 5984	you
+T555	Amy-3 6016 6020	your
+T351	Jo-1 6048 6050	Jo
+T354	Jo-1 6069 6071	Jo
+T353	Amy-3 6088 6091	Amy
+T399	Amy-3 6092 6099	a goose
+T556	Beth-9 6110 6111	I
+T400	Beth-9 6131 6135	Beth
+T557	Beth-9 6169 6172	You
+T401	Beth-9 6177 6183	a dear
+T355	Meg-2 6216 6219	Meg
+T425	no_one-35 6233 6239	no one
+T558	Meg-2 6253 6256	her
+T402	Beth-9 6263 6276	the ' Mouse '
+T356	young_readers-36 6308 6321	young readers
+T298	people-37 6341 6347	people
+T559	author-38 6357 6359	we
+T560	young_readers-36 6390 6394	them
+T404	all_sisters-6 6414 6430	the four sisters
+T405	the_room-34 6569 6587	a comfortable room
+T357	home-39 6812 6816	home
+T406	Meg-2 6837 6845	Margaret
+T408	all_sisters-6 6862 6870	the four
+T561	Meg-2 7017 7020	she
+T358	Jo-1 7039 7058	Fifteen-year-old Jo
+T562	Jo-1 7127 7130	she
+T563	Jo-1 7168 7171	her
+T564	Jo-1 7209 7212	her
+T565	Jo-1 7219 7222	She
+T566	Jo-1 7372 7375	Her
+T567	Jo-1 7398 7401	her
+T568	Jo-1 7468 7471	her
+T409	Jo-1 7498 7500	Jo
+T569	Jo-1 7542 7545	her
+T410	a_girl_who_was_rapidly_shooting_up_into_a_woman_and_did_n_t_like_it-40 7592 7659	a girl who was rapidly shooting up into a woman and did n't like it
+T359	a_woman-41 7632 7639	a woman
+T360	Beth-9 7662 7671	Elizabeth
+T411	Beth-9 7677 7681	Beth
+T378	everyone-42 7687 7695	everyone
+T570	Beth-9 7703 7706	her
+T361	Father-7 7860 7870	Her father
+T571	Beth-9 7860 7863	Her
+T572	Beth-9 7878 7881	her
+T362	Beth-9 7884 7907	Little Miss Tranquility
+T573	Beth-9 7932 7935	her
+T574	Beth-9 7954 7957	she
+T575	Beth-9 7993 7996	her
+T363	the_few_whom_she_trusted_and_loved-43 8030 8064	the few whom she trusted and loved
+T576	Beth-9 8043 8046	she
+T413	Amy-3 8067 8070	Amy
+T577	Amy-3 8128 8131	her
+T416	Amy-3 8155 8236	A regular snow maiden , with blue eyes , and yellow hair curling on her shoulders
+T578	Amy-3 8223 8226	her
+T579	Amy-3 8278 8285	herself
+T364	a_young_lady_mindful_of_her_manners-44 8291 8326	a young lady mindful of her manners
+T580	a_young_lady_mindful_of_her_manners-44 8315 8318	her
+T366	all_sisters-6 8352 8368	the four sisters
+T581	author-38 8374 8376	we
+T365	Beth-9 8462 8466	Beth
+T368	all_sisters-6 8563 8572	the girls
+T367	Mother-8 8579 8585	Mother
+T420	all_sisters-6 8603 8611	everyone
+T582	Mother-8 8634 8637	her
+T417	Meg-2 8640 8643	Meg
+T370	Amy-3 8687 8690	Amy
+T369	Jo-1 8743 8745	Jo
+T583	Jo-1 8763 8766	she
+T584	Jo-1 8774 8777	she
+T371	Mother-8 8856 8862	Marmee
+T586	Beth-9 8890 8891	I
+T587	Beth-9 8900 8901	I
+T588	Mother-8 8909 8912	her
+T589	Beth-9 8923 8925	my
+T418	Beth-9 8942 8946	Beth
+R1	cop Arg1:T92 Arg2:T219
+R2	appos Arg1:T40 Arg2:T97
+R3	cop Arg1:T42 Arg2:T230
+R4	cop Arg1:T43 Arg2:T234
+R7	cop Arg1:T57 Arg2:T59
+R8	cop Arg1:T108 Arg2:T107
+R9	appos Arg1:T112 Arg2:T111
+R10	cop Arg1:T117 Arg2:T116
+R12	cop Arg1:T120 Arg2:T118
+T13	Amy-3 8080 8092	the youngest
+T33	Miss_March-700 4977 4987	Miss March
+T124	an_affected_little_g-701 5867 5891	an affected little goose

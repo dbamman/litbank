@@ -1,0 +1,628 @@
+T1	NOM_PER 99 115	gentleman farmer
+T3	NOM_PER 405 414	My mother
+T9	NOM_PER 1164 1198	the most useful members of society
+T10	NOM_FAC 1250 1257	my farm
+T11	NOM_PER 1121 1153	an honest and industrious farmer
+T12	NOM_FAC 1557 1561	home
+T18	NOM_FAC 2370 2380	the stairs
+T22	NOM_PER 2929 2961	that unmannerly lad of seventeen
+T23	PROP_PER 3683 3687	Rose
+T24	NOM_FAC 3829 3836	parlour
+T25	NOM_PER 3632 3643	the servant
+T27	NOM_PER 3886 3895	my mother
+T28	NOM_PER 4175 4186	my children
+T29	PROP_PER 4047 4051	Rose
+T30	NOM_PER 4328 4341	the ploughboy
+T32	NOM_PER 4702 4711	my mother
+T34	NOM_PER 5060 5069	my mother
+T35	NOM_LOC 5090 5093	sea
+T36	NOM_PER 5263 5273	Our parent
+T37	PROP_PER 5641 5655	Eliza Millward
+T38	NOM_PER 5560 5571	the Wilsons
+T39	NOM_PER 5900 5912	your brother
+T40	NOM_PER 5944 5953	my mother
+T41	PROP_FAC 6198 6211	Wildfell Hall
+T42	NOM_PER 6333 6342	my mother
+T43	NOM_PER 6411 6424	a single lady
+T44	NOM_PER 6591 6600	a servant
+T45	NOM_PER 6574 6600	an old woman for a servant
+T46	NOM_FAC 6497 6515	two or three rooms
+T47	NOM_PER 6655 6662	a witch
+T48	PROP_PER 6869 6880	Jane Wilson
+T49	NOM_PER 6959 6996	a stranger being in the neighbourhood
+T50	PROP_PER 7099 7110	Mrs. Graham
+T52	PROP_PER 7850 7864	Eliza Millward
+T53	NOM_FAC 8084 8090	church
+T54	NOM_PER 7870 7880	her father
+T56	NOM_FAC 9052 9060	the room
+T57	NOM_FAC 9124 9134	the garden
+T58	NOM_PER 9259 9265	sister
+T59	NOM_PER 9392 9411	the mysterious lady
+T60	NOM_PER 9245 9254	my mother
+T61	NOM_PER 89 126	a sort of gentleman farmer in — shire
+T2	NOM_PER 59 68	My father
+T62	NOM_PER 497 506	my father
+T4	NOM_PER 683 700	my fellow mortals
+T5	NOM_LOC 929 938	the world
+T63	NOM_LOC 1009 1027	the paternal acres
+T7	NOM_PER 1031 1042	my children
+T64	NOM_PER 1343 1386	my own immediate connections and dependants
+T8	NOM_PER 1412 1428	mankind at large
+T65	NOM_LOC 1567 1577	the fields
+T13	NOM_PER 2232 2246	decent society
+T15	NOM_FAC 2347 2354	my room
+T17	NOM_PER 2384 2546	a smart , pretty girl of nineteen , with a tidy , dumpy figure , a round face , bright , blooming cheeks , glossy , clustering curls , and little merry brown eyes
+T20	NOM_PER 2613 2634	a comely matron still
+T68	NOM_PER 3337 3346	my mother
+T21	NOM_FAC 3375 3386	the parlour
+T69	NOM_PER 3396 3551	that honoured lady seated in her arm-chair at the fireside , working away at her knitting , according to her usual custom , when she had nothing else to do
+T26	NOM_LOC 4448 4467	the low meadowlands
+T31	NOM_PER 4482 4494	my brave boy
+T70	PROP_PER 4503 4509	Fergus
+T33	PROP_PER 4929 4935	Fergus
+T71	NOM_ORG 5103 5111	the army
+T72	PROP_PER 5451 5455	Rose
+T73	PROP_PER 5627 5634	Gilbert
+T75	PROP_PER 6009 6013	Rose
+T76	PROP_PER 6375 6381	Fergus
+T77	NOM_FAC 6457 6466	The place
+T78	PROP_PER 6676 6682	Fergus
+T79	PROP_PER 6755 6761	Fergus
+T80	NOM_PER 6788 6793	mamma
+T81	NOM_PER 6910 7082	her mother , who , of course , when she heard of a stranger being in the neighbourhood , would be on pins and needles till she had seen her and got all she could out of her
+T82	NOM_FAC 6979 6996	the neighbourhood
+T84	NOM_FAC 8013 8030	the neighbourhood
+T85	PROP_PER 8113 8118	Eliza
+T86	PROP_PER 8234 8241	Gilbert
+T87	NOM_PER 8297 8302	mamma
+T55	PROP_PER 8619 8625	Fergus
+T88	NOM_PER 9446 9456	my brother
+T6	NOM_PER 849 859	his father
+T89	NOM_PER 5890 5897	my dear
+T74	NOM_PER 5772 5801	a nice , amusing little thing
+T51	NOM_PER 7458 7469	Miss Wilson
+T83	NOM_PER 7387 7398	Mrs. Wilson
+T19	NOM_PER 2578 2587	my sister
+T90	PROP_PER 2588 2592	Rose
+T92	NOM_PER 6171 6179	somebody
+T93	NOM_PER 8739 8745	nobody
+T94	NOM_FAC 5660 5665	there
+T95	NOM_FAC 6077 6082	there
+T96	NOM_FAC 6537 6542	there
+T98	PRON_PER 10 13	You
+T99	PRON_PER 32 34	me
+T100	PRON_PER 59 61	My
+T101	PRON_PER 74 77	you
+T102	PRON_PER 133 134	I
+T103	PRON_PER 140 143	his
+T104	PRON_PER 171 174	him
+T105	PRON_PER 246 248	me
+T106	PRON_PER 291 293	me
+T107	PRON_PER 329 330	I
+T108	PRON_PER 343 345	my
+T109	PRON_PER 379 381	my
+T110	PRON_PER 405 407	My
+T111	PRON_PER 424 427	her
+T112	PRON_PER 447 449	me
+T113	PRON_PER 455 456	I
+T114	PRON_PER 497 499	my
+T115	PRON_PER 653 655	my
+T116	PRON_PER 683 685	my
+T117	PRON_PER 703 705	He
+T118	PRON_PER 714 716	me
+T119	PRON_PER 751 753	me
+T120	PRON_PER 761 764	his
+T121	PRON_PER 824 827	his
+T122	PRON_PER 849 852	his
+T123	PRON_PER 867 870	him
+T124	PRON_PER 881 883	my
+T125	PRON_PER 1031 1033	my
+T126	PRON_PER 1089 1091	he
+T127	PRON_LOC 1097 1101	them
+T128	PRON_PER 1105 1107	me
+T129	PRON_PER 1208 1209	I
+T130	PRON_PER 1217 1219	my
+T131	PRON_PER 1250 1252	my
+T132	PRON_PER 1308 1309	I
+T133	PRON_PER 1343 1345	my
+T134	PRON_PER 1439 1440	I
+T135	PRON_PER 1505 1506	I
+T136	PRON_PER 1535 1541	myself
+T137	PRON_PER 1547 1548	I
+T138	PRON_PER 1734 1736	my
+T139	PRON_PER 1760 1762	my
+T140	PRON_PER 1836 1837	I
+T141	PRON_PER 1849 1851	my
+T142	PRON_PER 1874 1875	I
+T143	PRON_PER 1967 1969	my
+T144	PRON_PER 1986 1987	I
+T145	PRON_PER 2083 2084	I
+T146	PRON_PER 2099 2101	my
+T147	PRON_PER 2145 2147	my
+T148	PRON_PER 2196 2202	myself
+T149	PRON_PER 2253 2255	my
+T150	PRON_PER 2274 2277	her
+T151	PRON_PER 2347 2349	my
+T152	PRON_PER 2355 2356	I
+T153	PRON_PER 2549 2550	I
+T154	PRON_PER 2565 2568	you
+T155	PRON_PER 2578 2580	my
+T156	PRON_PER 2595 2598	She
+T157	PRON_PER 2604 2605	I
+T158	PRON_PER 2675 2679	your
+T159	PRON_PER 2709 2712	you
+T160	PRON_PER 2726 2729	her
+T161	PRON_PER 2745 2747	me
+T162	PRON_PER 2758 2761	she
+T163	PRON_PER 2829 2831	me
+T164	PRON_PER 2900 2907	herself
+T165	PRON_PER 2972 2973	I
+T166	PRON_PER 3046 3048	my
+T167	PRON_PER 3091 3094	his
+T168	PRON_PER 3337 3339	my
+T169	PRON_PER 3387 3389	we
+T170	PRON_PER 3425 3428	her
+T171	PRON_PER 3473 3476	her
+T172	PRON_PER 3501 3504	her
+T173	PRON_PER 3525 3528	she
+T174	PRON_PER 3554 3557	She
+T175	PRON_PER 3616 3619	our
+T176	PRON_PER 3862 3866	they
+T177	PRON_PER 3886 3888	my
+T178	PRON_PER 3917 3919	us
+T179	PRON_PER 3952 3955	her
+T180	PRON_PER 4073 4074	I
+T181	PRON_PER 4083 4086	you
+T182	PRON_PER 4116 4118	me
+T183	PRON_PER 4124 4127	you
+T184	PRON_PER 4155 4156	I
+T185	PRON_PER 4175 4177	my
+T186	PRON_PER 4209 4210	I
+T187	PRON_PER 4370 4377	himself
+T188	PRON_PER 4482 4484	my
+T189	PRON_PER 4522 4525	you
+T190	PRON_PER 4571 4573	he
+T191	PRON_PER 4616 4619	his
+T192	PRON_PER 4702 4704	my
+T193	PRON_PER 4768 4771	his
+T194	PRON_PER 4830 4831	I
+T195	PRON_PER 4892 4895	you
+T196	PRON_PER 4945 4946	I
+T197	PRON_PER 4981 4984	his
+T198	PRON_PER 5003 5005	me
+T199	PRON_PER 5036 5037	I
+T200	PRON_PER 5053 5055	he
+T201	PRON_PER 5060 5062	my
+T202	PRON_PER 5081 5083	me
+T203	PRON_PER 5118 5119	I
+T204	PRON_PER 5167 5173	myself
+T205	PRON_PER 5193 5196	you
+T206	PRON_PER 5208 5211	you
+T207	PRON_PER 5243 5245	me
+T208	PRON_PER 5263 5266	Our
+T209	PRON_PER 5293 5296	his
+T210	PRON_PER 5319 5321	He
+T211	PRON_PER 5367 5369	we
+T212	PRON_PER 5379 5382	our
+T213	PRON_PER 5469 5473	your
+T214	PRON_PER 5487 5490	she
+T215	PRON_PER 5499 5500	I
+T216	PRON_PER 5510 5513	you
+T217	PRON_PER 5519 5520	I
+T218	PRON_PER 5538 5539	I
+T219	PRON_PER 5602 5605	you
+T220	PRON_PER 5622 5624	me
+T221	PRON_PER 5687 5690	her
+T222	PRON_PER 5714 5715	I
+T223	PRON_PER 5737 5740	you
+T224	PRON_PER 5747 5750	her
+T225	PRON_PER 5765 5768	she
+T226	PRON_PER 5809 5812	she
+T227	PRON_PER 5840 5841	I
+T228	PRON_PER 5866 5869	her
+T229	PRON_PER 5890 5892	my
+T230	PRON_PER 5900 5904	your
+T231	PRON_PER 5944 5946	my
+T232	PRON_PER 5977 5980	her
+T233	PRON_PER 6018 6019	I
+T234	PRON_PER 6038 6041	you
+T235	PRON_PER 6069 6070	I
+T236	PRON_PER 6085 6086	I
+T237	PRON_PER 6127 6130	You
+T238	PRON_PER 6228 6231	you
+T239	PRON_PER 6292 6294	we
+T240	PRON_PER 6333 6335	my
+T241	PRON_PER 6447 6449	my
+T242	PRON_PER 6485 6488	She
+T243	PRON_PER 6543 6546	she
+T244	PRON_PER 6636 6637	I
+T245	PRON_PER 6647 6650	she
+T246	PRON_PER 6699 6702	his
+T247	PRON_PER 6810 6811	I
+T248	PRON_PER 6844 6847	you
+T249	PRON_PER 6890 6893	her
+T250	PRON_PER 6896 6899	She
+T251	PRON_PER 6910 6913	her
+T252	PRON_PER 6946 6949	she
+T253	PRON_PER 7033 7036	she
+T254	PRON_PER 7046 7049	her
+T255	PRON_PER 7062 7065	she
+T256	PRON_PER 7079 7082	her
+T257	PRON_PER 7085 7088	She
+T258	PRON_PER 7117 7120	she
+T259	PRON_PER 7188 7191	she
+T260	PRON_PER 7209 7213	they
+T261	PRON_PER 7277 7281	They
+T262	PRON_PER 7292 7296	they
+T263	PRON_PER 7319 7322	she
+T264	PRON_PER 7337 7340	she
+T265	PRON_PER 7369 7372	her
+T266	PRON_PER 7406 7409	her
+T267	PRON_PER 7477 7480	her
+T268	PRON_PER 7624 7629	their
+T269	PRON_PER 7682 7685	her
+T270	PRON_PER 7740 7743	she
+T271	PRON_PER 7764 7768	them
+T272	PRON_PER 7835 7838	you
+T273	PRON_PER 7870 7873	her
+T274	PRON_PER 7902 7905	her
+T275	PRON_PER 7951 7953	he
+T276	PRON_PER 7960 7963	she
+T277	PRON_PER 7984 7987	she
+T278	PRON_PER 8049 8052	she
+T279	PRON_PER 8066 8069	her
+T280	PRON_PER 8107 8110	she
+T281	PRON_PER 8153 8156	him
+T282	PRON_PER 8171 8174	she
+T283	PRON_PER 8217 8220	her
+T284	PRON_PER 8223 8226	you
+T285	PRON_PER 8244 8247	she
+T286	PRON_PER 8270 8272	we
+T287	PRON_PER 8325 8328	you
+T288	PRON_PER 8352 8354	my
+T289	PRON_PER 8386 8389	she
+T290	PRON_PER 8446 8449	you
+T291	PRON_PER 8456 8458	me
+T292	PRON_PER 8479 8482	she
+T293	PRON_PER 8491 8494	her
+T294	PRON_PER 8534 8537	she
+T295	PRON_PER 8569 8570	I
+T296	PRON_PER 8587 8588	I
+T297	PRON_PER 8603 8604	I
+T298	PRON_PER 8650 8652	he
+T299	PRON_PER 8714 8716	he
+T300	PRON_PER 8766 8768	he
+T301	PRON_PER 8814 8816	he
+T302	PRON_PER 8934 8937	him
+T303	PRON_PER 8974 8976	he
+T304	PRON_PER 9144 9146	me
+T305	PRON_PER 9149 9150	I
+T306	PRON_PER 9178 9184	myself
+T307	PRON_PER 9245 9247	my
+T308	PRON_PER 9418 9419	I
+T309	PRON_PER 9446 9448	my
+T310	PRON_PER 9475 9476	I
+T311	PRON_PER 9509 9511	my
+T312	PRON_PER 9585 9586	I
+T313	PRON_PER 9601 9603	my
+T314	NOM_FAC 1687 1698	the parlour
+T315	NOM_PER 2253 2262	my mother
+T320	NOM_PER 8352 8359	my dear
+T419	Jack_Halford-0 10 13	You
+T420	Gilbert_Markham-1 32 34	me
+T323	My_father-2 59 68	My father
+T421	Gilbert_Markham-1 59 61	My
+T422	Jack_Halford-0 74 77	you
+T322	gentleman_farmer-3 99 115	gentleman farmer
+T423	Gilbert_Markham-1 133 134	I
+T424	My_father-2 140 143	his
+T425	My_father-2 171 174	him
+T426	Gilbert_Markham-1 246 248	me
+T427	Gilbert_Markham-1 291 293	me
+T428	Gilbert_Markham-1 329 330	I
+T429	Gilbert_Markham-1 343 345	my
+T430	Gilbert_Markham-1 379 381	my
+T324	Mrs__Markham-4 405 414	My mother
+T431	Gilbert_Markham-1 405 407	My
+T432	Mrs__Markham-4 424 427	her
+T433	Gilbert_Markham-1 447 449	me
+T434	Gilbert_Markham-1 455 456	I
+T383	My_father-2 497 506	my father
+T435	Gilbert_Markham-1 497 499	my
+T436	Gilbert_Markham-1 653 655	my
+T325	my_fellow_mortals-5 683 700	my fellow mortals
+T437	Gilbert_Markham-1 683 685	my
+T438	My_father-2 703 705	He
+T439	Gilbert_Markham-1 714 716	me
+T440	Gilbert_Markham-1 751 753	me
+T441	My_father-2 761 764	his
+T442	My_father-2 824 827	his
+T327	his_father-6 849 859	his father
+T443	My_father-2 849 852	his
+T444	My_father-2 867 870	him
+T445	Gilbert_Markham-1 881 883	my
+T326	the_world-7 929 938	the world
+T384	the_paternal_acres-8 1009 1027	the paternal acres
+T328	my_children-9 1031 1042	my children
+T446	Gilbert_Markham-1 1031 1033	my
+T447	My_father-2 1089 1091	he
+T448	the_paternal_acres-8 1097 1101	them
+T449	Gilbert_Markham-1 1105 1107	me
+T332	an_honest_and_industrious_farmer-10 1121 1153	an honest and industrious farmer
+T330	the_most_useful_members_of_society-11 1164 1198	the most useful members of society
+T450	Gilbert_Markham-1 1208 1209	I
+T451	Gilbert_Markham-1 1217 1219	my
+T331	my_farm-12 1250 1257	my farm
+T452	Gilbert_Markham-1 1250 1252	my
+T453	Gilbert_Markham-1 1308 1309	I
+T385	my_own_immediate_connections_and_dependants-13 1343 1386	my own immediate connections and dependants
+T454	Gilbert_Markham-1 1343 1345	my
+T329	my_fellow_mortals-5 1412 1428	mankind at large
+T455	Gilbert_Markham-1 1439 1440	I
+T456	Gilbert_Markham-1 1505 1506	I
+T457	Gilbert_Markham-1 1535 1541	myself
+T458	Gilbert_Markham-1 1547 1548	I
+T333	home-14 1557 1561	home
+T386	the_paternal_acres-8 1567 1577	the fields
+T635	the_parlour-15 1687 1698	the parlour
+T459	Gilbert_Markham-1 1734 1736	my
+T460	Gilbert_Markham-1 1760 1762	my
+T461	Gilbert_Markham-1 1836 1837	I
+T462	Gilbert_Markham-1 1849 1851	my
+T463	Gilbert_Markham-1 1874 1875	I
+T464	Gilbert_Markham-1 1967 1969	my
+T465	Gilbert_Markham-1 1986 1987	I
+T466	Gilbert_Markham-1 2083 2084	I
+T467	Gilbert_Markham-1 2099 2101	my
+T468	Gilbert_Markham-1 2145 2147	my
+T469	Gilbert_Markham-1 2196 2202	myself
+T334	decent_society-16 2232 2246	decent society
+T636	Mrs__Markham-4 2253 2262	my mother
+T470	Gilbert_Markham-1 2253 2255	my
+T471	Mrs__Markham-4 2274 2277	her
+T336	my_room-17 2347 2354	my room
+T472	Gilbert_Markham-1 2347 2349	my
+T473	Gilbert_Markham-1 2355 2356	I
+T339	the_stairs-18 2370 2380	the stairs
+T474	Gilbert_Markham-1 2549 2550	I
+T475	Jack_Halford-0 2565 2568	you
+T340	Rose_Markham-19 2578 2587	my sister
+T476	Gilbert_Markham-1 2578 2580	my
+T411	Rose_Markham-19 2588 2592	Rose
+T477	Rose_Markham-19 2595 2598	She
+T478	Gilbert_Markham-1 2604 2605	I
+T479	Jack_Halford-0 2675 2679	your
+T480	Jack_Halford-0 2709 2712	you
+T481	Rose_Markham-19 2726 2729	her
+T482	Gilbert_Markham-1 2745 2747	me
+T483	Rose_Markham-19 2758 2761	she
+T484	Gilbert_Markham-1 2829 2831	me
+T485	Rose_Markham-19 2900 2907	herself
+T343	Fergus_Markham-20 2929 2961	that unmannerly lad of seventeen
+T486	Gilbert_Markham-1 2972 2973	I
+T487	Gilbert_Markham-1 3046 3048	my
+T488	Fergus_Markham-20 3091 3094	his
+T389	Mrs__Markham-4 3337 3346	my mother
+T489	Gilbert_Markham-1 3337 3339	my
+T342	the_parlour-15 3375 3386	the parlour
+T490	Gilbert_and_Fergus-21 3387 3389	we
+T390	Mrs__Markham-4 3396 3551	that honoured lady seated in her arm-chair at the fireside , working away at her knitting , according to her usual custom , when she had nothing else to do
+T491	Mrs__Markham-4 3425 3428	her
+T492	Mrs__Markham-4 3473 3476	her
+T493	Mrs__Markham-4 3501 3504	her
+T494	Mrs__Markham-4 3525 3528	she
+T495	Mrs__Markham-4 3554 3557	She
+T496	Gilbert_and_Fergus-21 3616 3619	our
+T346	the_servant-22 3632 3643	the servant
+T344	Rose_Markham-19 3683 3687	Rose
+T345	the_parlour-15 3829 3836	parlour
+T497	Gilbert_and_Fergus-21 3862 3866	they
+T348	Mrs__Markham-4 3886 3895	my mother
+T498	Gilbert_Markham-1 3886 3888	my
+T499	Gilbert_and_Fergus-21 3917 3919	us
+T500	Mrs__Markham-4 3952 3955	her
+T350	Rose_Markham-19 4047 4051	Rose
+T501	Mrs__Markham-4 4073 4074	I
+T502	Gilbert_Markham-1 4083 4086	you
+T503	Mrs__Markham-4 4116 4118	me
+T504	Gilbert_Markham-1 4124 4127	you
+T505	Mrs__Markham-4 4155 4156	I
+T349	my_children-23 4175 4186	my children
+T506	Mrs__Markham-4 4175 4177	my
+T507	Gilbert_Markham-1 4209 4210	I
+T351	the_ploughboy-24 4328 4341	the ploughboy
+T508	the_ploughboy-24 4370 4377	himself
+T347	the_low_meadowlands-25 4448 4467	the low meadowlands
+T352	Gilbert_Markham-1 4482 4494	my brave boy
+T509	Mrs__Markham-4 4482 4484	my
+T391	Fergus_Markham-20 4503 4509	Fergus
+T510	Fergus_Markham-20 4522 4525	you
+T511	Fergus_Markham-20 4571 4573	he
+T512	Fergus_Markham-20 4616 4619	his
+T353	Mrs__Markham-4 4702 4711	my mother
+T513	Gilbert_Markham-1 4702 4704	my
+T514	Fergus_Markham-20 4768 4771	his
+T515	Gilbert_Markham-1 4830 4831	I
+T516	Fergus_Markham-20 4892 4895	you
+T354	Fergus_Markham-20 4929 4935	Fergus
+T517	Gilbert_Markham-1 4945 4946	I
+T518	Fergus_Markham-20 4981 4984	his
+T519	Gilbert_Markham-1 5003 5005	me
+T520	Fergus_Markham-20 5036 5037	I
+T521	Fergus_Markham-20 5053 5055	he
+T355	Mrs__Markham-4 5060 5069	my mother
+T522	Fergus_Markham-20 5060 5062	my
+T523	Fergus_Markham-20 5081 5083	me
+T356	sea-26 5090 5093	sea
+T392	the_army-27 5103 5111	the army
+T524	Fergus_Markham-20 5118 5119	I
+T525	Fergus_Markham-20 5167 5173	myself
+T526	you-28 5193 5196	you
+T527	you-28 5208 5211	you
+T528	Fergus_Markham-20 5243 5245	me
+T357	Mrs__Markham-4 5263 5273	Our parent
+T529	my_children-23 5263 5266	Our
+T530	Fergus_Markham-20 5293 5296	his
+T531	Fergus_Markham-20 5319 5321	He
+T532	we-29 5367 5369	we
+T533	we-29 5379 5382	our
+T393	Rose_Markham-19 5451 5455	Rose
+T534	we-29 5469 5473	your
+T535	Rose_Markham-19 5487 5490	she
+T536	Rose_Markham-19 5499 5500	I
+T537	we-29 5510 5513	you
+T538	Rose_Markham-19 5519 5520	I
+T539	Rose_Markham-19 5538 5539	I
+T359	the_Wilsons-30 5560 5571	the Wilsons
+T540	Gilbert_Markham-1 5602 5605	you
+T541	Rose_Markham-19 5622 5624	me
+T394	Gilbert_Markham-1 5627 5634	Gilbert
+T358	Eliza_Millward-31 5641 5655	Eliza Millward
+T415	there-32 5660 5665	there
+T542	Eliza_Millward-31 5687 5690	her
+T543	Rose_Markham-19 5714 5715	I
+T544	Gilbert_Markham-1 5737 5740	you
+T545	Eliza_Millward-31 5747 5750	her
+T546	Eliza_Millward-31 5765 5768	she
+T547	Eliza_Millward-31 5809 5812	she
+T548	Rose_Markham-19 5840 5841	I
+T549	Eliza_Millward-31 5866 5869	her
+T410	Rose_Markham-19 5890 5897	my dear
+T550	Mrs__Markham-4 5890 5892	my
+T360	Gilbert_Markham-1 5900 5912	your brother
+T551	Rose_Markham-19 5900 5904	your
+T361	Mrs__Markham-4 5944 5953	my mother
+T552	Gilbert_Markham-1 5944 5946	my
+T553	Mrs__Markham-4 5977 5980	her
+T396	Rose_Markham-19 6009 6013	Rose
+T554	Rose_Markham-19 6018 6019	I
+T555	Gilbert_Markham-1 6038 6041	you
+T556	Gilbert_Markham-1 6069 6070	I
+T416	there-32 6077 6082	there
+T557	Rose_Markham-19 6085 6086	I
+T558	Gilbert_Markham-1 6127 6130	You
+T413	somebody-33 6171 6179	somebody
+T362	Wildfell_Hall-34 6198 6211	Wildfell Hall
+T559	Gilbert_Markham-1 6228 6231	you
+T560	we-35 6292 6294	we
+T363	Mrs__Markham-4 6333 6342	my mother
+T561	Gilbert_Markham-1 6333 6335	my
+T397	Fergus_Markham-20 6375 6381	Fergus
+T364	Helen_Graham-36 6411 6424	a single lady
+T562	Mrs__Markham-4 6447 6449	my
+T398	Wildfell_Hall-34 6457 6466	The place
+T563	Helen_Graham-36 6485 6488	She
+T367	two_or_three_rooms-37 6497 6515	two or three rooms
+T417	Wildfell_Hall-34 6537 6542	there
+T564	Helen_Graham-36 6543 6546	she
+T366	an_old_woman_for_a_servant-38 6574 6600	an old woman for a servant
+T365	a_servant-39 6591 6600	a servant
+T565	Fergus_Markham-20 6636 6637	I
+T566	Helen_Graham-36 6647 6650	she
+T368	a_witch-40 6655 6662	a witch
+T399	Fergus_Markham-20 6676 6682	Fergus
+T567	Fergus_Markham-20 6699 6702	his
+T400	Fergus_Markham-20 6755 6761	Fergus
+T401	Mrs__Markham-4 6788 6793	mamma
+T568	Mrs__Markham-4 6810 6811	I
+T569	Mrs__Markham-4 6844 6847	you
+T369	Jane_Wilson-41 6869 6880	Jane Wilson
+T570	Helen_Graham-36 6890 6893	her
+T571	Jane_Wilson-41 6896 6899	She
+T402	Mrs__Wilson-42 6910 7082	her mother , who , of course , when she heard of a stranger being in the neighbourhood , would be on pins and needles till she had seen her and got all she could out of her
+T572	Jane_Wilson-41 6910 6913	her
+T573	Mrs__Wilson-42 6946 6949	she
+T370	a_stranger_being_in_the_neighbourhood-43 6959 6996	a stranger being in the neighbourhood
+T403	the_neighbourhood-44 6979 6996	the neighbourhood
+T574	Mrs__Wilson-42 7033 7036	she
+T575	Helen_Graham-36 7046 7049	her
+T576	Mrs__Wilson-42 7062 7065	she
+T577	Helen_Graham-36 7079 7082	her
+T578	Helen_Graham-36 7085 7088	She
+T371	Helen_Graham-36 7099 7110	Mrs. Graham
+T579	Helen_Graham-36 7117 7120	she
+T580	Helen_Graham-36 7188 7191	she
+T581	Mrs__Wilson_and_Jane_Wilson-45 7209 7213	they
+T582	Mrs__Wilson_and_Jane_Wilson-45 7277 7281	They
+T583	Mrs__Wilson_and_Jane_Wilson-45 7292 7296	they
+T584	Helen_Graham-36 7319 7322	she
+T585	Helen_Graham-36 7337 7340	she
+T586	Helen_Graham-36 7369 7372	her
+T404	Mrs__Wilson-42 7387 7398	Mrs. Wilson
+T587	Mrs__Wilson-42 7406 7409	her
+T372	Jane_Wilson-41 7458 7469	Miss Wilson
+T588	Jane_Wilson-41 7477 7480	her
+T589	Mrs__Wilson_and_Jane_Wilson-45 7624 7629	their
+T590	Helen_Graham-36 7682 7685	her
+T591	Helen_Graham-36 7740 7743	she
+T592	Mrs__Wilson_and_Jane_Wilson-45 7764 7768	them
+T593	you-46 7835 7838	you
+T373	Eliza_Millward-31 7850 7864	Eliza Millward
+T375	Mr__Millward-47 7870 7880	her father
+T594	Eliza_Millward-31 7870 7873	her
+T595	Helen_Graham-36 7902 7905	her
+T596	Mr__Millward-47 7951 7953	he
+T597	Helen_Graham-36 7960 7963	she
+T598	Helen_Graham-36 7984 7987	she
+T405	the_neighbourhood-44 8013 8030	the neighbourhood
+T599	Helen_Graham-36 8049 8052	she
+T600	Helen_Graham-36 8066 8069	her
+T374	church-48 8084 8090	church
+T601	Eliza_Millward-31 8107 8110	she
+T406	Eliza_Millward-31 8113 8118	Eliza
+T602	Mr__Millward-47 8153 8156	him
+T603	Eliza_Millward-31 8171 8174	she
+T604	Helen_Graham-36 8217 8220	her
+T605	Gilbert_Markham-1 8223 8226	you
+T407	Gilbert_Markham-1 8234 8241	Gilbert
+T606	Eliza_Millward-31 8244 8247	she
+T607	we-49 8270 8272	we
+T408	Mrs__Markham-4 8297 8302	mamma
+T608	Mrs__Markham-4 8325 8328	you
+T609	Mrs__Markham-4 8352 8354	my
+T641	Rose_Markham-19 8352 8359	my dear
+T610	Helen_Graham-36 8386 8389	she
+T611	Fergus_Markham-20 8446 8449	you
+T612	Fergus_Markham-20 8456 8458	me
+T613	Helen_Graham-36 8479 8482	she
+T614	Helen_Graham-36 8491 8494	her
+T615	Helen_Graham-36 8534 8537	she
+T616	Fergus_Markham-20 8569 8570	I
+T617	Fergus_Markham-20 8587 8588	I
+T618	Fergus_Markham-20 8603 8604	I
+T376	Fergus_Markham-20 8619 8625	Fergus
+T619	Fergus_Markham-20 8650 8652	he
+T620	Fergus_Markham-20 8714 8716	he
+T414	nobody-50 8739 8745	nobody
+T621	Fergus_Markham-20 8766 8768	he
+T622	Fergus_Markham-20 8814 8816	he
+T623	Fergus_Markham-20 8934 8937	him
+T624	Fergus_Markham-20 8974 8976	he
+T378	the_garden-52 9124 9134	the garden
+T625	Gilbert_Markham-1 9144 9146	me
+T626	Gilbert_Markham-1 9149 9150	I
+T627	Gilbert_Markham-1 9178 9184	myself
+T628	Gilbert_Markham-1 9245 9247	my
+T381	Mrs__Markham-4 9245 9254	my mother
+T379	Rose_Markham-19 9259 9265	sister
+T380	Helen_Graham-36 9392 9411	the mysterious lady
+T629	Gilbert_Markham-1 9418 9419	I
+T409	Fergus_Markham-20 9446 9456	my brother
+T630	Gilbert_Markham-1 9446 9448	my
+T631	Gilbert_Markham-1 9475 9476	I
+T632	Gilbert_Markham-1 9509 9511	my
+T633	Gilbert_Markham-1 9585 9586	I
+T634	Gilbert_Markham-1 9601 9603	my
+T377	the_parlour-15 9052 9060	the room
+R1	cop Arg1:T61 Arg2:T2
+R3	cop Arg1:T20 Arg2:T156
+R5	cop Arg1:T74 Arg2:T225
+T14	Rose_Markham-19 2384 2546	a smart , pretty girl of nineteen , with a tidy , dumpy figure , a round face , bright , blooming cheeks , glossy , clustering curls , and little merry brown eyes
+T16	NOM_PER 2793 3218	the wife of one entirely unknown to me as yet , but destined hereafter to become a closer friend than even herself , more intimate than that unmannerly lad of seventeen , by whom I was collared in the passage , on coming down , and well-nigh jerked off my equilibrium , and who , in correction for his impudence , received a resounding whack over the sconce , which , however , sustained no serious injury from the infliction
+R2	cop Arg1:T16 Arg2:T483
+T66	NOM_PER 2805 3218	one entirely unknown to me as yet , but destined hereafter to become a closer friend than even herself , more intimate than that unmannerly lad of seventeen , by whom I was collared in the passage , on coming down , and well-nigh jerked off my equilibrium , and who , in correction for his impudence , received a resounding whack over the sconce , which , however , sustained no serious injury from the infliction
+T91	Jack_Halford-0 2805 3218	one entirely unknown to me as yet , but destined hereafter to become a closer friend than even herself , more intimate than that unmannerly lad of seventeen , by whom I was collared in the passage , on coming down , and well-nigh jerked off my equilibrium , and who , in correction for his impudence , received a resounding whack over the sconce , which , however , sustained no serious injury from the infliction
+T67	PRON_FAC 6240 6242	It
+T97	Wildfell_Hall-34 6240 6242	It
+T316	PRON_FAC 6386 6388	It
+T317	Wildfell_Hall-34 6386 6388	It

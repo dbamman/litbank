@@ -1,0 +1,630 @@
+MENTION	T1	0	10	0	11	Anthony Patch	PER	PROP
+MENTION	T3	4	17	4	18	intelligent men	PER	NOM
+MENTION	T7	6	17	6	18	a man	PER	NOM
+MENTION	T8	7	36	7	37	the crusaders	PER	NOM
+MENTION	T9	7	7	7	7	Anthony	PER	PROP
+MENTION	T10	7	20	7	22	Adam J. Patch	PER	PROP
+MENTION	T12	8	6	8	6	Bostonians	PER	PROP
+MENTION	T13	9	15	9	16	his father	PER	NOM
+MENTION	T14	9	15	9	18	his father 's farm	FAC	NOM
+MENTION	T16	10	11	10	12	Wall Street	FAC	PROP
+MENTION	T17	10	2	10	2	home	FAC	NOM
+MENTION	T18	13	2	13	5	a reformer among reformers	PER	NOM
+MENTION	T19	13	5	13	5	reformers	PER	NOM
+MENTION	T20	14	10	14	11	his grandson	PER	NOM
+MENTION	T21	14	5	14	13	Anthony Comstock , after whom his grandson was named	PER	NOM
+MENTION	T23	16	8	16	8	Tarrytown	GPE	PROP
+MENTION	T24	16	34	16	36	a rabid monomaniac	PER	NOM
+MENTION	T28	17	42	17	42	son	PER	NOM
+MENTION	T29	18	33	18	34	New York	GPE	PROP
+MENTION	T31	18	8	18	12	an anemic lady of thirty	PER	NOM
+MENTION	T32	19	8	19	9	a son	PER	NOM
+MENTION	T33	20	14	20	17	connoisseur of good form	PER	NOM
+MENTION	T36	20	3	20	5	Adam Ulysses Patch	PER	PROP
+MENTION	T37	20	8	20	12	an inveterate joiner of clubs	PER	NOM
+MENTION	T38	23	0	23	1	His wife	PER	NOM
+MENTION	T39	23	26	23	27	his grandfather	PER	NOM
+MENTION	T40	23	30	23	32	Anthony Comstock Patch	PER	PROP
+MENTION	T41	23	14	23	19	the single child of the union	PER	NOM
+MENTION	T42	23	7	23	7	Boston	GPE	PROP
+MENTION	T43	24	4	24	4	Harvard	ORG	PROP
+MENTION	T45	25	36	25	37	his bedroom	FAC	NOM
+MENTION	T46	25	6	25	7	his father	PER	NOM
+MENTION	T47	25	9	25	9	mother	PER	NOM
+MENTION	T51	28	9	28	10	his mother	PER	NOM
+MENTION	T53	30	12	30	20	the music room of their house on Washington Square	FAC	NOM
+MENTION	T55	30	101	30	103	the Southern negro	PER	NOM
+MENTION	T59	30	16	30	20	their house on Washington Square	FAC	NOM
+MENTION	T60	30	45	30	52	the women with their hands in their laps	PER	NOM
+MENTION	T61	30	59	30	60	the men	PER	NOM
+MENTION	T62	30	19	30	20	Washington Square	FAC	PROP
+MENTION	T63	30	24	30	28	guests scattered all about her	PER	NOM
+MENTION	T64	31	11	31	11	America	GPE	PROP
+MENTION	T65	32	21	32	21	father	PER	NOM
+MENTION	T66	32	1	32	3	Henrietta Lebrune Patch	PER	PROP
+MENTION	T67	32	37	32	37	Anthony	PER	PROP
+MENTION	T68	32	27	32	30	grampa 's in Tarrytown	FAC	NOM
+MENTION	T69	32	12	32	13	her widower	PER	NOM
+MENTION	T70	32	33	32	33	Ulysses	PER	PROP
+MENTION	T71	32	23	32	23	son	PER	NOM
+MENTION	T72	33	13	33	14	Atlantic City	GPE	PROP
+MENTION	T73	33	4	33	4	Anthony	PER	PROP
+MENTION	T75	34	7	34	7	Anthony	PER	PROP
+MENTION	T76	34	22	34	26	the best hotel in Lucerne	FAC	NOM
+MENTION	T77	34	27	34	28	his father	PER	NOM
+MENTION	T78	34	15	34	15	England	GPE	PROP
+MENTION	T79	34	17	34	17	Switzerland	GPE	PROP
+MENTION	T80	35	12	35	12	America	GPE	PROP
+MENTION	T81	35	7	35	7	Anthony	PER	PROP
+MENTION	T82	37	9	37	10	his grandmother	PER	NOM
+MENTION	T83	37	4	37	5	his parents	PER	NOM
+MENTION	T84	37	27	37	28	her person	PER	NOM
+MENTION	T85	37	37	37	40	her own drawing room	FAC	NOM
+MENTION	T86	38	13	38	14	every corner	FAC	NOM
+MENTION	T87	38	2	38	2	Anthony	PER	PROP
+MENTION	T89	41	24	41	25	his grandfather	PER	NOM
+MENTION	T90	41	18	41	19	a boy	PER	NOM
+MENTION	T91	42	1	42	1	Anthony	PER	PROP
+MENTION	T92	44	21	44	22	his contemporaries	PER	NOM
+MENTION	T93	44	10	44	12	an inarticulate boy	PER	NOM
+MENTION	T94	45	41	45	45	innumerable self-sacrificing and devoted friends	PER	NOM
+MENTION	T95	45	18	45	18	Harvard	ORG	PROP
+MENTION	T96	47	15	47	20	a high room in Beck Hall	FAC	NOM
+MENTION	T97	47	19	47	20	Beck Hall	FAC	PROP
+MENTION	T98	49	16	49	16	Swinburne	PER	PROP
+MENTION	T99	49	21	49	21	Hardy	PER	PROP
+MENTION	T100	49	30	49	30	Keats	PER	PROP
+MENTION	T101	49	5	49	6	a library	FAC	NOM
+MENTION	T102	49	12	49	12	bibliophile	PER	NOM
+MENTION	T103	50	49	50	50	the yard	FAC	NOM
+MENTION	T104	50	36	50	37	his room	FAC	NOM
+MENTION	T105	52	13	52	14	a scholar	PER	NOM
+MENTION	T106	52	16	52	17	a recluse	PER	NOM
+MENTION	T107	52	19	52	22	a tower of erudition	PER	NOM
+MENTION	T108	59	4	59	6	his Harvard intimates	PER	NOM
+MENTION	T109	60	21	60	22	Latin women	PER	NOM
+MENTION	T110	60	4	60	4	Philadelphia	GPE	PROP
+MENTION	T112	61	5	61	6	his grandfather	PER	NOM
+MENTION	T113	0	4	0	5	ANTHONY PATCH	PER	PROP
+MENTION	T2	3	33	3	35	a clean pond	LOC	NOM
+MENTION	T4	4	21	4	22	all women	PER	NOM
+MENTION	T5	5	16	5	17	the elect	PER	NOM
+MENTION	T6	6	10	6	11	Anthony Patch	PER	PROP
+MENTION	T114	6	20	6	24	a distinct and dynamic personality	PER	NOM
+MENTION	T115	6	35	6	60	a man who was aware that there could be no honor and yet had honor , who knew the sophistry of courage and yet was brave	PER	NOM
+MENTION	T116	7	0	7	2	A WORTHY MAN	PER	NOM
+MENTION	T117	7	4	7	6	HIS GIFTED SON	PER	NOM
+MENTION	T118	7	17	7	22	the grandson of Adam J. Patch	PER	NOM
+MENTION	T119	7	33	7	34	the sea	LOC	NOM
+MENTION	T11	8	4	8	4	Virginians	PER	PROP
+MENTION	T120	9	1	9	3	Adam J. Patch	PER	PROP
+MENTION	T121	9	10	9	11	Cross Patch	PER	PROP
+MENTION	T122	9	20	9	20	Tarrytown	GPE	PROP
+MENTION	T123	9	27	9	30	New York cavalry regiment	ORG	NOM
+MENTION	T22	16	4	16	9	the office of his Tarrytown estate	FAC	NOM
+MENTION	T125	16	7	16	9	his Tarrytown estate	FAC	NOM
+MENTION	T126	16	38	16	40	an unqualified nuisance	PER	NOM
+MENTION	T127	16	43	16	45	an intolerable bore	PER	NOM
+MENTION	T27	17	39	17	40	dead wife	PER	NOM
+MENTION	T25	18	4	18	5	Adam Patch	PER	PROP
+MENTION	T30	18	14	18	15	Alicia Withers	PER	PROP
+MENTION	T128	18	29	18	34	the banking circles of New York	PER	NOM
+MENTION	T35	20	0	20	1	The boy	PER	NOM
+MENTION	T130	20	12	20	12	clubs	ORG	NOM
+MENTION	T34	20	20	20	22	driver of tandems	PER	NOM
+MENTION	T131	20	22	20	22	tandems	VEH	NOM
+MENTION	T132	20	38	20	39	New York	GPE	PROP
+MENTION	T133	20	38	20	40	New York Society	PER	NOM
+MENTION	T134	21	13	21	13	publishers	PER	NOM
+MENTION	T135	22	0	22	3	This Fifth Avenue Chesterfield	PER	PROP
+MENTION	T136	23	3	23	4	Henrietta Lebrune	PER	PROP
+MENTION	T137	23	7	23	10	Boston " Society Contralto	PER	NOM
+MENTION	T138	25	0	25	1	Young Anthony	PER	PROP
+MENTION	T48	26	2	26	10	a dandy of the nineties , spare and handsome	PER	NOM
+MENTION	T49	26	14	26	26	a tall dark lady with a muff and the suggestion of a bustle	PER	NOM
+MENTION	T139	27	3	27	17	a little boy with long brown curls , dressed in a velvet Lord Fauntleroy suit	PER	NOM
+MENTION	T50	27	15	27	16	Lord Fauntleroy	PER	PROP
+MENTION	T52	29	4	29	4	Boston	GPE	PROP
+MENTION	T143	29	4	29	6	Boston Society Contralto	PER	NOM
+MENTION	T144	30	2	30	20	a lady who sang , sang , sang , in the music room of their house on Washington Square	PER	NOM
+MENTION	T57	30	31	30	43	men with their arms folded , balanced breathlessly on the edges of sofas	PER	NOM
+MENTION	T56	30	79	30	79	Anthony	PER	PROP
+MENTION	T54	31	3	31	5	the gallant Ulysses	PER	PROP
+MENTION	T58	31	7	31	18	the first man in America to roll the lapels of his coat	PER	NOM
+MENTION	T145	32	7	32	8	another choir	ORG	NOM
+MENTION	T146	32	30	32	30	Tarrytown	GPE	PROP
+MENTION	T147	32	37	32	39	Anthony 's nursery	FAC	NOM
+MENTION	T148	34	26	34	26	Lucerne	GPE	PROP
+MENTION	T74	36	4	36	5	THE HERO	PER	NOM
+MENTION	T88	42	7	42	15	a half dozen " Stamp and Coin " companies	ORG	NOM
+MENTION	T149	45	8	45	8	Europe	GPE	PROP
+MENTION	T150	45	10	45	21	a private tutor , who persuaded him that Harvard was the thing	PER	NOM
+MENTION	T151	46	4	46	4	Harvard	ORG	PROP
+MENTION	T152	47	22	47	33	a slim dark boy of medium height with a shy sensitive mouth	PER	NOM
+MENTION	T153	49	18	49	18	Meredith	PER	PROP
+MENTION	T154	50	2	50	4	an exquisite dandy	PER	NOM
+MENTION	T155	51	14	51	15	his class	PER	NOM
+MENTION	T156	52	8	52	11	a rather romantic figure	PER	NOM
+MENTION	T157	56	11	56	11	college	ORG	NOM
+MENTION	T158	58	5	58	5	Rome	GPE	PROP
+MENTION	T159	58	35	58	37	a thirteenth-century monk	PER	NOM
+MENTION	T160	59	11	59	11	Rome	GPE	PROP
+MENTION	T161	59	14	59	21	those of them who were abroad that year	PER	NOM
+MENTION	T163	59	37	59	38	the city	GPE	NOM
+MENTION	T111	60	0	60	4	Maury Noble , from Philadelphia	PER	NOM
+MENTION	T164	60	35	60	42	a civilization that was very old and free	PER	NOM
+MENTION	T165	61	1	61	7	a few acquaintances of his grandfather 's	PER	NOM
+MENTION	T166	22	1	22	2	Fifth Avenue	FAC	PROP
+MENTION	T129	19	33	19	34	the nursery	FAC	NOM
+MENTION	T140	28	2	28	2	Anthony	PER	PROP
+MENTION	T26	17	47	17	48	his grandson	PER	NOM
+MENTION	T141	17	49	17	49	Anthony	PER	PROP
+MENTION	T15	3	72	3	76	any one else he knows	PER	NOM
+MENTION	T142	3	53	3	56	an exceptional young man	PER	NOM
+MENTION	T162	3	28	3	29	the world	LOC	NOM
+MENTION	T168	12	26	12	27	the world	PER	NOM
+MENTION	T169	43	12	43	18	any one who interrupted him at play	PER	NOM
+MENTION	T170	25	31	25	37	every one who came into his bedroom	PER	NOM
+MENTION	T171	34	20	34	20	there	GPE	NOM
+MENTION	T173	0	39	0	39	him	PER	PRON
+MENTION	T174	2	8	2	8	he	PER	PRON
+MENTION	T175	3	1	3	1	you	PER	PRON
+MENTION	T176	3	4	3	4	him	PER	PRON
+MENTION	T177	3	5	3	5	he	PER	PRON
+MENTION	T178	3	9	3	9	he	PER	PRON
+MENTION	T179	3	49	3	49	he	PER	PRON
+MENTION	T180	3	51	3	51	himself	PER	PRON
+MENTION	T181	3	64	3	64	his	PER	PRON
+MENTION	T182	3	75	3	75	he	PER	PRON
+MENTION	T183	4	2	4	2	his	PER	PRON
+MENTION	T184	4	8	4	8	him	PER	PRON
+MENTION	T185	5	3	5	3	he	PER	PRON
+MENTION	T186	5	6	5	6	he	PER	PRON
+MENTION	T187	6	7	6	7	he	PER	PRON
+MENTION	T188	7	4	7	4	HIS	PER	PRON
+MENTION	T189	7	24	7	24	he	PER	PRON
+MENTION	T190	7	30	7	30	his	PER	PRON
+MENTION	T191	9	15	9	15	his	PER	PRON
+MENTION	T192	10	0	10	0	He	PER	PRON
+MENTION	T193	10	26	10	26	he	PER	PRON
+MENTION	T194	10	29	10	29	himself	PER	PRON
+MENTION	T195	11	2	11	2	his	PER	PRON
+MENTION	T196	11	5	11	5	he	PER	PRON
+MENTION	T197	12	4	12	4	he	PER	PRON
+MENTION	T198	12	19	12	19	his	PER	PRON
+MENTION	T199	13	0	13	0	He	PER	PRON
+MENTION	T200	14	10	14	10	his	PER	PRON
+MENTION	T201	14	15	14	15	he	PER	PRON
+MENTION	T202	15	0	15	0	His	PER	PRON
+MENTION	T203	16	7	16	7	his	PER	PRON
+MENTION	T204	16	10	16	10	he	PER	PRON
+MENTION	T205	16	31	16	31	he	PER	PRON
+MENTION	T206	16	33	16	33	himself	PER	PRON
+MENTION	T207	17	8	17	8	him	PER	PRON
+MENTION	T208	17	11	17	11	his	PER	PRON
+MENTION	T209	17	25	17	25	his	PER	PRON
+MENTION	T210	17	38	17	38	his	PER	PRON
+MENTION	T211	17	47	17	47	his	PER	PRON
+MENTION	T212	18	2	18	2	his	PER	PRON
+MENTION	T213	18	19	18	19	him	PER	PRON
+MENTION	T214	19	4	19	4	she	PER	PRON
+MENTION	T215	19	7	19	7	him	PER	PRON
+MENTION	T216	19	23	19	23	she	PER	PRON
+MENTION	T217	19	27	19	27	herself	PER	PRON
+MENTION	T218	20	30	20	30	he	PER	PRON
+MENTION	T219	20	32	20	32	his	PER	PRON
+MENTION	T220	20	42	20	42	I	PER	PRON
+MENTION	T221	21	20	21	20	his	PER	PRON
+MENTION	T222	23	0	23	0	His	PER	PRON
+MENTION	T223	23	26	23	26	his	PER	PRON
+MENTION	T224	24	1	24	1	he	PER	PRON
+MENTION	T225	24	11	24	11	his	PER	PRON
+MENTION	T226	25	6	25	6	his	PER	PRON
+MENTION	T227	25	17	25	17	his	PER	PRON
+MENTION	T228	25	36	25	36	his	PER	PRON
+MENTION	T229	27	1	27	1	them	PER	PRON
+MENTION	T230	28	9	28	9	his	PER	PRON
+MENTION	T231	29	0	29	0	His	PER	PRON
+MENTION	T232	30	0	30	0	She	PER	PRON
+MENTION	T233	30	16	30	16	their	PER	PRON
+MENTION	T234	30	28	30	28	her	PER	PRON
+MENTION	T235	30	33	30	33	their	PER	PRON
+MENTION	T236	30	48	30	48	their	PER	PRON
+MENTION	T237	30	51	30	51	their	PER	PRON
+MENTION	T238	30	76	30	76	she	PER	PRON
+MENTION	T239	30	94	30	94	she	PER	PRON
+MENTION	T240	31	0	31	0	His	PER	PRON
+MENTION	T241	31	17	31	17	his	PER	PRON
+MENTION	T242	32	12	32	12	her	PER	PRON
+MENTION	T243	33	0	33	0	He	PER	PRON
+MENTION	T245	34	2	34	2	they	PER	PRON
+MENTION	T246	34	10	34	10	they	PER	PRON
+MENTION	T247	34	27	34	27	his	PER	PRON
+MENTION	T248	35	24	35	24	him	PER	PRON
+MENTION	T249	35	29	35	29	his	PER	PRON
+MENTION	T250	36	8	36	8	he	PER	PRON
+MENTION	T251	37	4	37	4	his	PER	PRON
+MENTION	T252	37	9	37	9	his	PER	PRON
+MENTION	T253	37	24	37	24	her	PER	PRON
+MENTION	T254	37	27	37	27	her	PER	PRON
+MENTION	T255	37	37	37	37	her	PER	PRON
+MENTION	T256	39	6	39	6	his	PER	PRON
+MENTION	T257	39	10	39	10	he	PER	PRON
+MENTION	T258	39	21	39	21	him	PER	PRON
+MENTION	T259	40	0	40	0	He	PER	PRON
+MENTION	T260	40	3	40	3	he	PER	PRON
+MENTION	T261	41	0	41	0	His	PER	PRON
+MENTION	T262	41	4	41	4	he	PER	PRON
+MENTION	T263	41	8	41	8	his	PER	PRON
+MENTION	T264	41	24	41	24	his	PER	PRON
+MENTION	T265	41	32	41	32	him	PER	PRON
+MENTION	T266	42	26	42	26	him	PER	PRON
+MENTION	T267	42	43	42	43	his	PER	PRON
+MENTION	T268	43	0	43	0	His	PER	PRON
+MENTION	T269	43	3	43	3	his	PER	PRON
+MENTION	T270	43	7	43	7	he	PER	PRON
+MENTION	T271	43	16	43	16	him	PER	PRON
+MENTION	T274	43	24	43	24	his	PER	PRON
+MENTION	T275	43	30	43	30	he	PER	PRON
+MENTION	T277	44	2	44	2	he	PER	PRON
+MENTION	T278	44	8	44	8	himself	PER	PRON
+MENTION	T279	44	21	44	21	his	PER	PRON
+MENTION	T280	45	16	45	16	him	PER	PRON
+MENTION	T281	45	40	45	40	him	PER	PRON
+MENTION	T282	46	1	46	1	he	PER	PRON
+MENTION	T283	46	16	46	16	him	PER	PRON
+MENTION	T284	47	6	47	6	he	PER	PRON
+MENTION	T285	48	0	48	0	His	PER	PRON
+MENTION	T286	49	0	49	0	He	PER	PRON
+MENTION	T287	49	36	49	36	he	PER	PRON
+MENTION	T288	50	0	50	0	He	PER	PRON
+MENTION	T289	50	29	50	29	he	PER	PRON
+MENTION	T290	50	36	50	36	his	PER	PRON
+MENTION	T291	50	44	50	44	his	PER	PRON
+MENTION	T292	50	65	50	65	he	PER	PRON
+MENTION	T293	51	2	51	2	he	PER	PRON
+MENTION	T294	51	8	51	8	he	PER	PRON
+MENTION	T295	51	14	51	14	his	PER	PRON
+MENTION	T296	52	0	52	0	He	PER	PRON
+MENTION	T297	52	3	52	3	he	PER	PRON
+MENTION	T298	53	2	53	2	him	PER	PRON
+MENTION	T299	53	6	53	6	him	PER	PRON
+MENTION	T300	53	8	53	8	he	PER	PRON
+MENTION	T301	54	0	54	0	He	PER	PRON
+MENTION	T302	55	0	55	0	He	PER	PRON
+MENTION	T303	56	4	56	4	him	PER	PRON
+MENTION	T304	56	7	56	7	he	PER	PRON
+MENTION	T305	56	14	56	14	he	PER	PRON
+MENTION	T306	57	4	57	4	he	PER	PRON
+MENTION	T307	57	7	57	7	he	PER	PRON
+MENTION	T308	58	10	58	10	he	PER	PRON
+MENTION	T309	59	4	59	4	his	PER	PRON
+MENTION	T310	59	8	59	8	he	PER	PRON
+MENTION	T311	59	16	59	16	them	PER	PRON
+MENTION	T312	59	23	59	23	him	PER	PRON
+MENTION	T313	59	28	59	28	him	PER	PRON
+MENTION	T314	60	15	60	15	they	PER	PRON
+MENTION	T315	61	5	61	5	his	PER	PRON
+MENTION	T316	61	10	61	10	him	PER	PRON
+MENTION	T317	61	14	61	14	he	PER	PRON
+MENTION	T318	61	17	61	17	he	PER	PRON
+MENTION	T319	61	32	61	32	he	PER	PRON
+MENTION	T320	61	35	61	35	his	PER	PRON
+MENTION	T321	61	55	61	55	his	PER	PRON
+COREF	T113	Anthony_Patch-0
+COREF	T1	Anthony_Patch-0
+COREF	T173	Anthony_Patch-0
+COREF	T174	Anthony_Patch-0
+COREF	T175	address_to_reader-1
+COREF	T176	Anthony_Patch-0
+COREF	T177	Anthony_Patch-0
+COREF	T178	Anthony_Patch-0
+COREF	T162	the_world-2
+COREF	T2	a_clean_pond-3
+COREF	T179	Anthony_Patch-0
+COREF	T180	Anthony_Patch-0
+COREF	T181	Anthony_Patch-0
+COREF	T15	any_one_else_he_knows-4
+COREF	T182	Anthony_Patch-0
+COREF	T183	Anthony_Patch-0
+COREF	T184	Anthony_Patch-0
+COREF	T3	intelligent_men-5
+COREF	T4	all_women-6
+COREF	T185	Anthony_Patch-0
+COREF	T186	Anthony_Patch-0
+COREF	T5	the_elect-7
+COREF	T187	Anthony_Patch-0
+COREF	T6	Anthony_Patch-0
+COREF	T7	a_man-8
+COREF	T116	Anthony__Father-9
+COREF	T117	Anthony_Patch-0
+COREF	T188	Anthony__Father-9
+COREF	T9	Anthony_Patch-0
+COREF	T10	Adam_J__Patch-10
+COREF	T189	Anthony_Patch-0
+COREF	T190	Anthony_Patch-0
+COREF	T119	the_sea-11
+COREF	T8	the_crusaders-12
+COREF	T11	Virginians-13
+COREF	T12	Bostonians-14
+COREF	T120	Adam_J__Patch-10
+COREF	T13	his_father-15
+COREF	T14	his_father__s_farm-16
+COREF	T191	Adam_J__Patch-10
+COREF	T122	Tarrytown-17
+COREF	T123	New_York_cavalry_regiment-18
+COREF	T192	Adam_J__Patch-10
+COREF	T17	his_father__s_farm-16
+COREF	T16	Wall_Street-19
+COREF	T193	Adam_J__Patch-10
+COREF	T194	Adam_J__Patch-10
+COREF	T195	Adam_J__Patch-10
+COREF	T196	Adam_J__Patch-10
+COREF	T197	Adam_J__Patch-10
+COREF	T198	Adam_J__Patch-10
+COREF	T168	the_world-804
+COREF	T199	Adam_J__Patch-10
+COREF	T19	reformers-20
+COREF	T21	Anthony_Comstock___after_whom_his_grandson_was_named-21
+COREF	T20	Anthony_Patch-0
+COREF	T200	Adam_J__Patch-10
+COREF	T201	Adam_J__Patch-10
+COREF	T202	Adam_J__Patch-10
+COREF	T22	the_office_of_his_Tarrytown_estate-22
+COREF	T125	his_Tarrytown_estate-23
+COREF	T203	Adam_J__Patch-10
+COREF	T23	Tarrytown-17
+COREF	T204	Adam_J__Patch-10
+COREF	T205	Adam_J__Patch-10
+COREF	T206	Adam_J__Patch-10
+COREF	T207	Adam_J__Patch-10
+COREF	T208	Adam_J__Patch-10
+COREF	T209	Adam_J__Patch-10
+COREF	T210	Adam_J__Patch-10
+COREF	T27	Alicia-24
+COREF	T28	Anthony__Father-9
+COREF	T26	Anthony_Patch-0
+COREF	T211	Adam_J__Patch-10
+COREF	T141	Anthony_Patch-0
+COREF	T212	Adam_J__Patch-10
+COREF	T25	Adam_J__Patch-10
+COREF	T31	Alicia-24
+COREF	T213	Adam_J__Patch-10
+COREF	T128	the_banking_circles_of_New_York-25
+COREF	T29	New_York-26
+COREF	T214	Alicia-24
+COREF	T215	Adam_J__Patch-10
+COREF	T32	Anthony__Father-9
+COREF	T216	Alicia-24
+COREF	T217	Alicia-24
+COREF	T129	the_nursery-27
+COREF	T35	Anthony__Father-9
+COREF	T130	clubs-28
+COREF	T131	tandems-29
+COREF	T218	Anthony__Father-9
+COREF	T219	Anthony__Father-9
+COREF	T132	New_York-26
+COREF	T133	New_York_Society-30
+COREF	T220	Anthony__Father-9
+COREF	T134	publishers-31
+COREF	T221	Anthony__Father-9
+COREF	T135	Anthony__Father-9
+COREF	T166	Fifth_Avenue-32
+COREF	T38	Henrietta-33
+COREF	T222	Anthony__Father-9
+COREF	T136	Henrietta-33
+COREF	T42	Boston-34
+COREF	T137	Boston___Society_Contralto-35
+COREF	T39	Adam_J__Patch-10
+COREF	T223	Anthony_Patch-0
+COREF	T41	Anthony_Patch-0
+COREF	T40	Anthony_Patch-0
+COREF	T224	Anthony_Patch-0
+COREF	T43	Harvard-36
+COREF	T225	Anthony_Patch-0
+COREF	T138	Anthony_Patch-0
+COREF	T46	Anthony__Father-9
+COREF	T226	Anthony_Patch-0
+COREF	T47	Henrietta-33
+COREF	T227	Anthony_Patch-0
+COREF	T170	every_one_who_came_into_his_bedroom-37
+COREF	T45	his_bedroom-38
+COREF	T228	Anthony_Patch-0
+COREF	T48	Anthony__Father-9
+COREF	T49	Henrietta-33
+COREF	T229	Parents-39
+COREF	T139	Anthony_Patch-0
+COREF	T50	Lord_Fauntleroy-40
+COREF	T140	Anthony_Patch-0
+COREF	T51	Henrietta-33
+COREF	T230	Anthony_Patch-0
+COREF	T231	Anthony_Patch-0
+COREF	T52	Boston-34
+COREF	T143	Boston___Society_Contralto-35
+COREF	T232	Henrietta-33
+COREF	T53	the_music_room_of_their_house_on_Washington_Square-41
+COREF	T59	family_home-42
+COREF	T233	Anthony_and_Parents-43
+COREF	T62	Washington_Square-44
+COREF	T63	guests_scattered_all_about_her-45
+COREF	T234	Henrietta-33
+COREF	T57	men_with_their_arms_folded___balanced_breathlessly_on_the_edges_of_sofas-46
+COREF	T235	men_with_their_arms_folded___balanced_breathlessly_on_the_edges_of_sofas-46
+COREF	T60	the_women_with_their_hands_in_their_laps-47
+COREF	T236	the_women_with_their_hands_in_their_laps-47
+COREF	T237	the_women_with_their_hands_in_their_laps-47
+COREF	T61	men_with_their_arms_folded___balanced_breathlessly_on_the_edges_of_sofas-46
+COREF	T238	Henrietta-33
+COREF	T56	Anthony_Patch-0
+COREF	T239	Henrietta-33
+COREF	T55	the_Southern_negro-48
+COREF	T240	Anthony_Patch-0
+COREF	T54	the_gallant_Ulysses-49
+COREF	T64	America-50
+COREF	T241	the_gallant_Ulysses-49
+COREF	T66	Henrietta-33
+COREF	T145	another_choir-51
+COREF	T69	Anthony__Father-9
+COREF	T242	Henrietta-33
+COREF	T65	Anthony__Father-9
+COREF	T71	Anthony_Patch-0
+COREF	T68	his_Tarrytown_estate-23
+COREF	T146	Tarrytown-17
+COREF	T70	the_gallant_Ulysses-49
+COREF	T67	Anthony_Patch-0
+COREF	T147	the_nursery-27
+COREF	T73	Anthony_Patch-0
+COREF	T72	Atlantic_City-52
+COREF	T75	Anthony_Patch-0
+COREF	T246	Ulysses_and_Anthony-53
+COREF	T78	England-54
+COREF	T79	Switzerland-55
+COREF	T171	Switzerland-55
+COREF	T76	the_best_hotel_in_Lucerne-56
+COREF	T148	Lucerne-57
+COREF	T77	Anthony__Father-9
+COREF	T247	Anthony_Patch-0
+COREF	T243	Anthony__Father-9
+COREF	T245	Father_and_Anthony-58
+COREF	T81	Anthony_Patch-0
+COREF	T80	America-50
+COREF	T248	Anthony_Patch-0
+COREF	T249	Anthony_Patch-0
+COREF	T74	Anthony_Patch-0
+COREF	T250	Anthony_Patch-0
+COREF	T83	his_parents-59
+COREF	T251	Anthony_Patch-0
+COREF	T82	Alicia-24
+COREF	T252	Anthony_Patch-0
+COREF	T253	Alicia-24
+COREF	T84	Alicia-24
+COREF	T254	Alicia-24
+COREF	T85	her_own_drawing_room-60
+COREF	T255	Alicia-24
+COREF	T87	Anthony_Patch-0
+COREF	T86	every_corner-61
+COREF	T256	Anthony_Patch-0
+COREF	T257	Anthony_Patch-0
+COREF	T258	Anthony_Patch-0
+COREF	T259	Anthony_Patch-0
+COREF	T260	Anthony_Patch-0
+COREF	T261	Anthony_Patch-0
+COREF	T262	Anthony_Patch-0
+COREF	T263	Anthony_Patch-0
+COREF	T90	a_boy-62
+COREF	T89	Adam_J__Patch-10
+COREF	T264	Anthony_Patch-0
+COREF	T265	Anthony_Patch-0
+COREF	T91	Anthony_Patch-0
+COREF	T88	a_half_dozen___Stamp_and_Coin___companies-63
+COREF	T266	Anthony_Patch-0
+COREF	T267	Anthony_Patch-0
+COREF	T268	Anthony_Patch-0
+COREF	T269	Anthony_Patch-0
+COREF	T270	Anthony_Patch-0
+COREF	T169	any_one_who_interrupted_him_at_play-64
+COREF	T271	Anthony_Patch-0
+COREF	T274	Anthony_Patch-0
+COREF	T275	Anthony_Patch-0
+COREF	T277	Anthony_Patch-0
+COREF	T278	Anthony_Patch-0
+COREF	T92	his_contemporaries-65
+COREF	T279	Anthony_Patch-0
+COREF	T149	Europe-66
+COREF	T150	a_private_tutor___who_persuaded_him_that_Harvard_was_the_thing-67
+COREF	T280	Anthony_Patch-0
+COREF	T95	Harvard-36
+COREF	T281	Anthony_Patch-0
+COREF	T94	innumerable_self-sacrificing_and_devoted_friends-68
+COREF	T282	Anthony_Patch-0
+COREF	T151	Harvard-36
+COREF	T283	Anthony_Patch-0
+COREF	T284	Anthony_Patch-0
+COREF	T96	a_high_room_in_Beck_Hall-69
+COREF	T97	Beck_Hall-70
+COREF	T285	Anthony_Patch-0
+COREF	T286	Anthony_Patch-0
+COREF	T101	a_library-71
+COREF	T102	bibliophile-72
+COREF	T98	Swinburne-73
+COREF	T153	Meredith-74
+COREF	T99	Hardy-75
+COREF	T100	Keats-76
+COREF	T287	Anthony_Patch-0
+COREF	T288	Anthony_Patch-0
+COREF	T289	Anthony_Patch-0
+COREF	T104	a_high_room_in_Beck_Hall-69
+COREF	T290	Anthony_Patch-0
+COREF	T291	Anthony_Patch-0
+COREF	T103	the_yard-77
+COREF	T292	Anthony_Patch-0
+COREF	T293	Anthony_Patch-0
+COREF	T294	Anthony_Patch-0
+COREF	T155	his_class-78
+COREF	T295	Anthony_Patch-0
+COREF	T296	Anthony_Patch-0
+COREF	T297	Anthony_Patch-0
+COREF	T156	Anthony_Patch-0
+COREF	T105	Anthony_Patch-0
+COREF	T106	Anthony_Patch-0
+COREF	T107	Anthony_Patch-0
+COREF	T298	Anthony_Patch-0
+COREF	T299	Anthony_Patch-0
+COREF	T300	Anthony_Patch-0
+COREF	T301	Anthony_Patch-0
+COREF	T302	Anthony_Patch-0
+COREF	T303	Anthony_Patch-0
+COREF	T304	Anthony_Patch-0
+COREF	T157	Harvard-36
+COREF	T305	Anthony_Patch-0
+COREF	T306	Anthony_Patch-0
+COREF	T307	Anthony_Patch-0
+COREF	T158	Rome-79
+COREF	T308	Anthony_Patch-0
+COREF	T159	a_thirteenth-century_monk-80
+COREF	T108	his_contemporaries-65
+COREF	T309	Anthony_Patch-0
+COREF	T310	Anthony_Patch-0
+COREF	T160	Rome-79
+COREF	T161	those_of_them_who_were_abroad_that_year-81
+COREF	T311	his_contemporaries-65
+COREF	T312	Anthony_Patch-0
+COREF	T313	Anthony_Patch-0
+COREF	T163	Rome-79
+COREF	T111	Maury_Noble___from_Philadelphia-82
+COREF	T110	Philadelphia-83
+COREF	T314	they-84
+COREF	T109	Latin_women-85
+COREF	T164	rome-803
+COREF	T165	a_few_acquaintances_of_his_grandfather__s-86
+COREF	T112	Adam_J__Patch-10
+COREF	T315	Anthony_Patch-0
+COREF	T316	Anthony_Patch-0
+COREF	T317	Anthony_Patch-0
+COREF	T318	Anthony_Patch-0
+COREF	T319	Anthony_Patch-0
+COREF	T320	Anthony_Patch-0
+COREF	T321	Anthony_Patch-0
+COP	T142	T180
+COP	T118	T9
+COP	T18	T199
+COP	T24	T206
+COP	T126	T206
+COP	T127	T206
+APPOS	T30	T31
+APPOS	T36	T35
+COP	T37	T35
+COP	T33	T36
+COP	T34	T36
+COP	T144	T232
+APPOS	T58	T54
+APPOS	T93	T278
+COP	T154	T288
+MENTION	T322	10	6	10	7	a major	PER	NOM
+COP	T322	T192
+MENTION	T649	20	45	20	45	It	PER	PRON
+COREF	T649	New_York_Society-30
+COREF	T114	Anthony_Patch-0
+COREF	T115	Anthony_Patch-0
+COREF	T121	Adam_J__Patch-10
+COREF	T152	Anthony_Patch-0

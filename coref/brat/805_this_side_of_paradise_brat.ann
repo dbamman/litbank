@@ -1,0 +1,630 @@
+T0	NOM_PER 97 107	his mother
+T1	NOM_PER 53 81	Son of Beatrice Amory Blaine
+T2	PROP_PER 60 81	Beatrice Amory Blaine
+T3	PROP_GPE 392 399	Chicago
+T5	PROP_PER 496 511	Beatrice O'Hara
+T8	PROP_PER 531 545	Stephen Blaine
+T10	NOM_PER 893 901	his wife
+T11	PROP_PER 988 1003	Beatrice Blaine
+T12	NOM_PER 1016 1023	a woman
+T14	PROP_GPE 1106 1110	Rome
+T15	NOM_PER 1050 1060	her father
+T16	PROP_FAC 1114 1138	the Sacred Heart Convent
+T18	PROP_PER 1540 1555	Cardinal Vitori
+T23	PROP_GPE 1680 1687	England
+T24	PROP_GPE 1791 1797	Vienna
+T25	NOM_PER 2103 2121	the great gardener
+T27	PROP_GPE 2224 2231	America
+T28	PROP_PER 2238 2252	Stephen Blaine
+T29	NOM_PER 2349 2363	Her only child
+T30	PROP_PER 2466 2471	Amory
+T31	NOM_PER 2800 2810	his mother
+T33	NOM_FAC 2863 2882	a fashionable hotel
+T34	NOM_PER 2750 2760	her father
+T36	PROP_PER 3274 3279	Frank
+T37	PROP_LOC 3283 3298	the Mississippi
+T38	PROP_PER 3303 3308	Amory
+T39	NOM_PER 3474 3484	his mother
+T41	NOM_PER 3169 3180	governesses
+T42	NOM_PER 3116 3155	more or less fortunate little rich boys
+T43	PROP_GPE 3197 3204	Newport
+T45	NOM_PER 3545 3555	his mother
+T47	PROP_PER 3709 3718	Clothilde
+T48	PROP_PER 3926 3935	Bernhardt
+T52	NOM_PER 4129 4139	his mother
+T53	PROP_PER 4058 4063	Amory
+T54	PROP_PER 4495 4501	Mozart
+T55	PROP_PER 4484 4490	Brahms
+T56	PROP_PER 4506 4515	Beethoven
+T57	NOM_PER 4591 4601	his mother
+T58	PROP_GPE 4566 4577	Hot Springs
+T59	NOM_FAC 4553 4562	the hotel
+T60	PROP_PER 4831 4839	Beatrice
+T61	NOM_PER 4956 4972	This son of mine
+T62	NOM_PER 5010 5036	awestruck , admiring women
+T63	PROP_PER 5441 5453	little Bobby
+T65	NOM_PER 5603 5612	physician
+T69	NOM_PER 5801 5807	nurses
+T71	NOM_PER 5786 5796	physicians
+T72	PROP_PER 5620 5625	Amory
+T73	NOM_PER 5897 5908	The Blaines
+T74	NOM_GPE 5926 5933	no city
+T75	NOM_PER 6028 6035	friends
+T76	PROP_GPE 5961 5972	Lake Geneva
+T78	PROP_GPE 6080 6088	Cape Cod
+T80	PROP_GPE 6068 6076	Pasadena
+T81	PROP_PER 6095 6103	Beatrice
+T82	PROP_PER 6462 6470	Beatrice
+T84	NOM_LOC 6681 6693	any locality
+T85	PROP_GPE 6638 6644	Boston
+T86	PROP_GPE 6768 6774	London
+T88	NOM_PER 6858 6875	an English butler
+T89	NOM_PER 7033 7044	her husband
+T92	PROP_ORG 7417 7430	Mother Church
+T94	NOM_PER 7322 7329	priests
+T97	PROP_GPE 7707 7711	Rome
+T98	NOM_PER 7730 7737	doctors
+T99	NOM_PER 7740 7747	priests
+T100	PROP_PER 7781 7794	Bishop Wiston
+T101	NOM_PER 7883 7924	hysterical women fluttering at your doors
+T102	NOM_PER 7997 8010	the clergyman
+T106	NOM_GPE 8154 8165	her country
+T107	PROP_GPE 8216 8225	Asheville
+T109	NOM_PER 8482 8512	the young pagan from Asheville
+T110	PROP_GPE 8503 8512	Asheville
+T111	NOM_PER 8678 8690	the cardinal
+T112	PROP_PER 8624 8635	Mrs. Blaine
+T115	NOM_PER 8766 8784	the beautiful lady
+T116	NOM_PER 8928 8945	his Celtic mother
+T117	NOM_PER 9087 9095	no tutor
+T121	NOM_VEH 9473 9487	the great ship
+T123	PROP_GPE 9526 9534	New York
+T124	PROP_GPE 9428 9435	America
+T125	NOM_LOC 9278 9282	land
+T126	PROP_PER 9546 9551	Amory
+T127	PROP_GPE 9285 9290	Italy
+T128	PROP_PER 9740 9745	Amory
+T129	NOM_PER 9817 9825	his aunt
+T130	PROP_GPE 9758 9769	Minneapolis
+T131	NOM_PER 9830 9835	uncle
+T132	PROP_PER 9646 9654	Beatrice
+T133	NOM_PER 12 32	The Romantic Egotist
+T134	PROP_PER 45 50	Amory
+T135	NOM_PER 187 197	His father
+T136	NOM_PER 200 313	an ineffectual , inarticulate man with a taste for Byron and a habit of drowsing over the Encyclopedia Britannica
+T4	NOM_PER 360 378	two elder brothers
+T6	NOM_PER 381 407	successful Chicago brokers
+T7	PROP_GPE 477 487	Bar Harbor
+T138	NOM_PER 751 761	his family
+T139	NOM_PER 772 981	an unassertive figure with a face half-obliterated by lifeless , silky hair , continually occupied in “ taking care ” of his wife , continually harassed by the idea that he did n't and could n't understand her
+T140	NOM_FAC 1050 1070	her father 's estate
+T13	NOM_PER 1201 1243	the daughters of the exceptionally wealthy
+T141	NOM_PER 1218 1243	the exceptionally wealthy
+T17	PROP_GPE 1074 1085	Lake Geneva
+T142	PROP_GPE 1088 1097	Wisconsin
+T19	NOM_PER 1502 1536	a fabulously wealthy American girl
+T21	PROP_PER 1560 1576	Queen Margherita
+T20	NOM_PER 1581 1662	more subtle celebrities that one must have had some culture even to have heard of
+T22	PROP_PER 1811 1826	Beatrice O'Hara
+T26	NOM_PER 2536 2675	an auburn-haired boy , with great , handsome eyes which he would grow up to in time , a facile imaginative mind and a taste for fancy dress
+T32	NOM_LOC 2719 2730	the country
+T35	NOM_PER 2736 2746	his mother
+T143	PROP_GPE 2783 2791	Coronado
+T144	PROP_GPE 2893 2904	Mexico City
+T145	NOM_VEH 2750 2775	her father 's private car
+T146	NOM_LOC 3184 3193	the beach
+T147	NOM_PER 3320 3341	acquiescent bell-boys
+T148	NOM_FAC 3345 3356	the Waldorf
+T40	PROP_PER 3507 3515	Beatrice
+T44	PROP_PER 3808 3813	Amory
+T49	PROP_PER 4193 4198	Amory
+T50	NOM_PER 5326 5344	a brave raconteuse
+T51	PROP_PER 5457 5464	Barbara
+T64	NOM_PER 5525 5534	two maids
+T149	NOM_VEH 5537 5552	the private car
+T66	PROP_PER 5558 5568	Mr. Blaine
+T70	NOM_PER 5649 5675	four disgusted specialists
+T67	PROP_PER 5946 5957	the Blaines
+T68	NOM_PER 5984 6006	quite enough relatives
+T77	NOM_PER 6142 6159	new acquaintances
+T79	NOM_PER 6490 6504	American women
+T83	NOM_PER 6518 6558	the floating population of ex-Westerners
+T150	PROP_PER 6604 6609	Amory
+T151	PROP_GPE 6907 6914	Chicago
+T87	NOM_ORG 6905 6934	a Chicago grand-opera company
+T90	NOM_PER 6992 7011	every Western woman
+T152	NOM_PER 7124 7131	my dear
+T91	NOM_PER 7288 7298	a Catholic
+T93	NOM_PER 7528 7556	the American Catholic clergy
+T95	NOM_PER 8066 8073	bishops
+T96	NOM_PER 8181 8212	a pagan , Swinburnian young man
+T103	NOM_ORG 8558 8577	the Catholic Church
+T104	PROP_PER 8595 8610	Monsignor Darcy
+T105	NOM_PER 8678 8708	the cardinal 's right-hand man
+T108	PROP_PER 8715 8720	Amory
+T113	PROP_PER 8793 8808	Monsignor Darcy
+T114	PROP_PER 8853 8858	Amory
+T118	PROP_PER 9304 9312	Beatrice
+T119	PROP_GPE 9417 9423	Europe
+T120	NOM_PER 9458 9472	the passengers
+T122	PROP_PER 9962 9967	AMORY
+T9	NOM_PER 688 695	his son
+T153	PROP_PER 696 701	Amory
+T137	NOM_PER 1949 1955	people
+T158	NOM_LOC 449 458	the world
+T159	NOM_LOC 2419 2428	the world
+T160	NOM_FAC 4995 5036	a room full of awestruck , admiring women
+T161	NOM_GPE 9838 9843	There
+T162	PRON_PER 97 100	his
+T163	PRON_PER 169 172	him
+T164	PRON_PER 187 190	His
+T165	PRON_PER 463 466	his
+T166	PRON_PER 571 574	his
+T167	PRON_PER 609 612	his
+T168	PRON_PER 688 691	his
+T169	PRON_PER 719 721	he
+T170	PRON_PER 751 754	his
+T171	PRON_PER 893 896	his
+T172	PRON_PER 942 944	he
+T173	PRON_PER 978 981	her
+T174	PRON_PER 1050 1053	her
+T175	PRON_PER 1178 1181	her
+T176	PRON_PER 1280 1283	her
+T177	PRON_PER 1332 1335	her
+T178	PRON_PER 1368 1371	she
+T179	PRON_PER 1379 1382	her
+T180	PRON_PER 1419 1422	she
+T181	PRON_PER 1665 1668	She
+T182	PRON_PER 1729 1732	her
+T183	PRON_PER 2181 2184	her
+T184	PRON_PER 2208 2211	she
+T185	PRON_PER 2265 2268	him
+T186	PRON_PER 2301 2304	she
+T187	PRON_PER 2349 2352	Her
+T188	PRON_PER 2481 2483	he
+T189	PRON_PER 2523 2526	her
+T190	PRON_PER 2529 2531	He
+T191	PRON_PER 2592 2594	he
+T192	PRON_PER 2683 2686	his
+T193	PRON_PER 2697 2700	his
+T194	PRON_PER 2712 2714	he
+T195	PRON_PER 2736 2739	his
+T196	PRON_PER 2750 2753	her
+T197	PRON_PER 2800 2803	his
+T198	PRON_PER 2832 2835	she
+T199	PRON_PER 2913 2916	she
+T200	PRON_PER 2982 2985	her
+T201	PRON_PER 2998 3001	she
+T202	PRON_PER 3041 3044	her
+T203	PRON_PER 3474 3477	his
+T204	PRON_PER 3545 3548	his
+T205	PRON_PER 3558 3561	she
+T206	PRON_PER 3634 3635	I
+T207	PRON_PER 3729 3733	your
+T208	PRON_PER 3777 3778	I
+T209	PRON_PER 3818 3821	she
+T210	PRON_PER 3835 3838	her
+T211	PRON_PER 3869 3872	her
+T212	PRON_PER 3903 3906	her
+T213	PRON_PER 3943 3945	My
+T214	PRON_PER 3978 3980	We
+T215	PRON_PER 4129 4132	his
+T216	PRON_PER 4159 4161	he
+T217	PRON_PER 4185 4188	her
+T218	PRON_PER 4224 4225	I
+T219	PRON_PER 4231 4234	you
+T220	PRON_PER 4268 4271	you
+T221	PRON_PER 4301 4305	your
+T222	PRON_PER 4315 4318	You
+T223	PRON_PER 4342 4345	you
+T224	PRON_PER 4355 4358	She
+T225	PRON_PER 4363 4366	him
+T226	PRON_PER 4409 4411	he
+T227	PRON_PER 4432 4434	he
+T228	PRON_PER 4580 4582	he
+T229	PRON_PER 4591 4594	his
+T230	PRON_PER 4648 4651	him
+T231	PRON_PER 4654 4656	he
+T232	PRON_PER 4709 4711	he
+T233	PRON_PER 4735 4738	his
+T234	PRON_PER 4866 4869	her
+T235	PRON_PER 4939 4942	her
+T236	PRON_PER 4977 4979	he
+T237	PRON_PER 4986 4989	her
+T238	PRON_PER 5113 5115	we
+T239	PRON_PER 5146 5149	you
+T240	PRON_PER 5159 5162	Her
+T241	PRON_PER 5199 5202	her
+T242	PRON_PER 5234 5237	her
+T243	PRON_PER 5259 5262	she
+T244	PRON_PER 5268 5272	them
+T245	PRON_PER 5298 5302	They
+T246	PRON_PER 5318 5321	she
+T247	PRON_PER 5712 5715	his
+T248	PRON_PER 5727 5729	he
+T249	PRON_PER 5873 5875	he
+T250	PRON_PER 5936 5940	They
+T251	PRON_PER 5975 5979	they
+T252	PRON_PER 6217 6220	her
+T253	PRON_PER 6272 6275	her
+T254	PRON_PER 6317 6320	her
+T257	PRON_PER 6445 6448	her
+T258	PRON_PER 6563 6567	They
+T259	PRON_PER 6583 6585	my
+T260	PRON_PER 6595 6598	she
+T261	PRON_PER 6716 6719	she
+T262	PRON_PER 6738 6742	They
+T264	PRON_PER 6845 6849	They
+T265	PRON_PER 6939 6942	She
+T266	PRON_PER 7023 7026	she
+T267	PRON_PER 7033 7036	her
+T268	PRON_PER 7070 7073	her
+T269	PRON_PER 7095 7099	they
+T270	PRON_PER 7117 7119	me
+T271	PRON_PER 7124 7126	my
+T272	PRON_PER 7144 7147	she
+T273	PRON_PER 7159 7162	her
+T274	PRON_PER 7193 7196	she
+T275	PRON_PER 7208 7211	her
+T276	PRON_PER 7259 7262	her
+T277	PRON_PER 7270 7273	She
+T278	PRON_PER 7366 7369	she
+T279	PRON_PER 7433 7436	she
+T280	PRON_PER 7490 7493	she
+T281	PRON_PER 7587 7590	she
+T282	PRON_PER 7647 7650	her
+T283	PRON_PER 7753 7756	her
+T284	PRON_PER 7799 7802	she
+T285	PRON_PER 7821 7822	I
+T286	PRON_PER 7846 7852	myself
+T287	PRON_PER 7855 7856	I
+T288	PRON_PER 7914 7918	your
+T289	PRON_PER 7938 7941	you
+T290	PRON_PER 8020 8022	my
+T291	PRON_PER 8088 8091	she
+T292	PRON_PER 8100 8103	her
+T293	PRON_PER 8128 8131	she
+T294	PRON_PER 8154 8157	her
+T295	PRON_PER 8288 8291	she
+T296	PRON_PER 8324 8328	they
+T297	PRON_PER 8436 8439	she
+T298	PRON_PER 8638 8640	he
+T299	PRON_PER 8732 8735	him
+T300	PRON_PER 8746 8747	I
+T301	PRON_PER 8825 8828	him
+T302	PRON_PER 8832 8834	he
+T303	PRON_PER 8846 8848	me
+T304	PRON_PER 8928 8931	his
+T305	PRON_PER 8948 8950	He
+T306	PRON_PER 8999 9001	he
+T307	PRON_PER 9064 9066	he
+T308	PRON_PER 9117 9119	he
+T309	PRON_PER 9131 9134	his
+T310	PRON_PER 9225 9228	him
+T311	PRON_PER 9315 9318	his
+T312	PRON_PER 9566 9569	You
+T313	PRON_PER 9817 9820	his
+T314	PRON_PER 9905 9908	him
+T315	PRON_PER 9915 9918	his
+T316	PRON_PER 9968 9971	His
+T317	PRON_PER 9988 9990	he
+T318	PRON_PER 10003 10004	I
+T319	PRON_PER 10117 10118	I
+T320	PRON_PER 10146 10149	you
+T321	PROP_PER 3489 3494	Amory
+T455	The_Romantic_Egotist-0 12 32	The Romantic Egotist
+T456	Amory-1 45 50	Amory
+T324	Beatrice_Amory_Blaine-2 60 81	Beatrice Amory Blaine
+T322	Beatrice_Amory_Blaine-2 97 107	his mother
+T484	Amory-1 97 100	his
+T485	Amory-1 169 172	him
+T457	His_father-3 187 197	His father
+T486	Amory-1 187 190	His
+T326	two_elder_brothers-4 360 378	two elder brothers
+T325	Chicago-5 392 399	Chicago
+T480	the_world-6 449 458	the world
+T487	His_father-3 463 466	his
+T329	Bar_Harbor-7 477 487	Bar Harbor
+T327	Beatrice_Amory_Blaine-2 496 511	Beatrice O'Hara
+T330	His_father-3 531 545	Stephen Blaine
+T488	His_father-3 571 574	his
+T489	His_father-3 609 612	his
+T331	Amory-1 688 695	his son
+T490	His_father-3 688 691	his
+T475	Amory-1 696 701	Amory
+T491	His_father-3 719 721	he
+T460	his_family-8 751 761	his family
+T492	His_father-3 751 754	his
+T461	His_father-3 772 981	an unassertive figure with a face half-obliterated by lifeless , silky hair , continually occupied in “ taking care ” of his wife , continually harassed by the idea that he did n't and could n't understand her
+T332	Beatrice_Amory_Blaine-2 893 901	his wife
+T493	His_father-3 893 896	his
+T494	His_father-3 942 944	he
+T495	Beatrice_Amory_Blaine-2 978 981	her
+T333	Beatrice_Amory_Blaine-2 988 1003	Beatrice Blaine
+T334	Beatrice_Amory_Blaine-2 1016 1023	a woman
+T337	her_father-9 1050 1060	her father
+T462	her_father__s_estate-10 1050 1070	her father 's estate
+T496	Beatrice_Amory_Blaine-2 1050 1053	her
+T339	Lake_Geneva-11 1074 1085	Lake Geneva
+T464	Wisconsin-12 1088 1097	Wisconsin
+T336	Rome-13 1106 1110	Rome
+T338	the_Sacred_Heart_Convent-14 1114 1138	the Sacred Heart Convent
+T497	Beatrice_Amory_Blaine-2 1178 1181	her
+T335	the_daughters_of_the_exceptionally_wealthy-15 1201 1243	the daughters of the exceptionally wealthy
+T463	the_exceptionally_wealthy-16 1218 1243	the exceptionally wealthy
+T498	Beatrice_Amory_Blaine-2 1280 1283	her
+T499	Beatrice_Amory_Blaine-2 1332 1335	her
+T500	Beatrice_Amory_Blaine-2 1368 1371	she
+T501	Beatrice_Amory_Blaine-2 1379 1382	her
+T502	Beatrice_Amory_Blaine-2 1419 1422	she
+T341	Beatrice_Amory_Blaine-2 1502 1536	a fabulously wealthy American girl
+T340	Cardinal_Vitori-17 1540 1555	Cardinal Vitori
+T343	Queen_Margherita-18 1560 1576	Queen Margherita
+T342	more_subtle_celebrities_that_one_must_have_had_some_culture_even_to_have_heard_of-19 1581 1662	more subtle celebrities that one must have had some culture even to have heard of
+T503	Beatrice_Amory_Blaine-2 1665 1668	She
+T345	England-20 1680 1687	England
+T504	Beatrice_Amory_Blaine-2 1729 1732	her
+T346	Vienna-21 1791 1797	Vienna
+T344	Beatrice_Amory_Blaine-2 1811 1826	Beatrice O'Hara
+T459	people-22 1949 1955	people
+T347	the_great_gardener-23 2103 2121	the great gardener
+T505	Beatrice_Amory_Blaine-2 2181 2184	her
+T506	Beatrice_Amory_Blaine-2 2208 2211	she
+T349	America-24 2224 2231	America
+T350	His_father-3 2238 2252	Stephen Blaine
+T507	His_father-3 2265 2268	him
+T508	Beatrice_Amory_Blaine-2 2301 2304	she
+T351	Amory-1 2349 2363	Her only child
+T509	Beatrice_Amory_Blaine-2 2349 2352	Her
+T481	the_world-25 2419 2428	the world
+T352	Amory-1 2466 2471	Amory
+T510	Amory-1 2481 2483	he
+T511	Beatrice_Amory_Blaine-2 2523 2526	her
+T512	Amory-1 2529 2531	He
+T513	Amory-1 2592 2594	he
+T514	Amory-1 2683 2686	his
+T515	Amory-1 2697 2700	his
+T516	Amory-1 2712 2714	he
+T354	the_country-26 2719 2730	the country
+T357	Beatrice_Amory_Blaine-2 2736 2746	his mother
+T517	Amory-1 2736 2739	his
+T356	her_father-9 2750 2760	her father
+T467	her_father__s_private_car-27 2750 2775	her father 's private car
+T518	Beatrice_Amory_Blaine-2 2750 2753	her
+T465	Coronado-28 2783 2791	Coronado
+T353	Beatrice_Amory_Blaine-2 2800 2810	his mother
+T519	Amory-1 2800 2803	his
+T520	Beatrice_Amory_Blaine-2 2832 2835	she
+T355	a_fashionable_hotel-29 2863 2882	a fashionable hotel
+T466	Mexico_City-30 2893 2904	Mexico City
+T521	Beatrice_Amory_Blaine-2 2913 2916	she
+T522	Beatrice_Amory_Blaine-2 2982 2985	her
+T523	Beatrice_Amory_Blaine-2 2998 3001	she
+T524	Beatrice_Amory_Blaine-2 3041 3044	her
+T364	more_or_less_fortunate_little_rich_boys-31 3116 3155	more or less fortunate little rich boys
+T363	governesses-32 3169 3180	governesses
+T468	the_beach-33 3184 3193	the beach
+T365	Newport-34 3197 3204	Newport
+T358	Frank-35 3274 3279	Frank
+T359	the_Mississippi-36 3283 3298	the Mississippi
+T360	Amory-1 3303 3308	Amory
+T469	acquiescent_bell-boys-37 3320 3341	acquiescent bell-boys
+T470	the_Waldorf-38 3345 3356	the Waldorf
+T361	Beatrice_Amory_Blaine-2 3474 3484	his mother
+T525	Amory-1 3474 3477	his
+T643	Amory-1 3489 3494	Amory
+T362	Beatrice_Amory_Blaine-2 3507 3515	Beatrice
+T367	Beatrice_Amory_Blaine-2 3545 3555	his mother
+T526	Amory-1 3545 3548	his
+T527	Beatrice_Amory_Blaine-2 3558 3561	she
+T528	Beatrice_Amory_Blaine-2 3634 3635	I
+T369	Clothilde-39 3709 3718	Clothilde
+T529	Amory-1 3729 3733	your
+T530	Beatrice_Amory_Blaine-2 3777 3778	I
+T366	Amory-1 3808 3813	Amory
+T531	Beatrice_Amory_Blaine-2 3818 3821	she
+T532	Beatrice_Amory_Blaine-2 3835 3838	her
+T533	Beatrice_Amory_Blaine-2 3869 3872	her
+T534	Beatrice_Amory_Blaine-2 3903 3906	her
+T370	Bernhardt-40 3926 3935	Bernhardt
+T535	Beatrice_Amory_Blaine-2 3943 3945	My
+T536	amory_and_mom-41 3978 3980	We
+T375	Amory-1 4058 4063	Amory
+T374	Beatrice_Amory_Blaine-2 4129 4139	his mother
+T537	Amory-1 4129 4132	his
+T538	Amory-1 4159 4161	he
+T539	Beatrice_Amory_Blaine-2 4185 4188	her
+T371	Amory-1 4193 4198	Amory
+T540	Beatrice_Amory_Blaine-2 4224 4225	I
+T541	Amory-1 4231 4234	you
+T542	Amory-1 4268 4271	you
+T543	Amory-1 4301 4305	your
+T544	Amory-1 4315 4318	You
+T545	Amory-1 4342 4345	you
+T546	Beatrice_Amory_Blaine-2 4355 4358	She
+T547	Amory-1 4363 4366	him
+T548	Amory-1 4409 4411	he
+T549	Amory-1 4432 4434	he
+T377	Brahms-42 4484 4490	Brahms
+T376	Mozart-43 4495 4501	Mozart
+T378	Beethoven-44 4506 4515	Beethoven
+T381	the_hotel-45 4553 4562	the hotel
+T380	Hot_Springs-46 4566 4577	Hot Springs
+T550	Amory-1 4580 4582	he
+T379	Beatrice_Amory_Blaine-2 4591 4601	his mother
+T551	Amory-1 4591 4594	his
+T552	Amory-1 4648 4651	him
+T553	Amory-1 4654 4656	he
+T554	Amory-1 4709 4711	he
+T555	Amory-1 4735 4738	his
+T382	Beatrice_Amory_Blaine-2 4831 4839	Beatrice
+T556	Beatrice_Amory_Blaine-2 4866 4869	her
+T557	Beatrice_Amory_Blaine-2 4939 4942	her
+T383	Amory-1 4956 4972	This son of mine
+T558	Amory-1 4977 4979	he
+T559	Beatrice_Amory_Blaine-2 4986 4989	her
+T482	a_room_full_of_awestruck___admiring_women-47 4995 5036	a room full of awestruck , admiring women
+T384	awestruck___admiring_women-48 5010 5036	awestruck , admiring women
+T560	we-49 5113 5115	we
+T561	awestruck___admiring_women-48 5146 5149	you
+T562	Beatrice_Amory_Blaine-2 5159 5162	Her
+T563	Beatrice_Amory_Blaine-2 5199 5202	her
+T564	Beatrice_Amory_Blaine-2 5234 5237	her
+T565	Beatrice_Amory_Blaine-2 5259 5262	she
+T566	awestruck___admiring_women-48 5268 5272	them
+T567	awestruck___admiring_women-48 5298 5302	They
+T568	Beatrice_Amory_Blaine-2 5318 5321	she
+T385	little_Bobby-50 5441 5453	little Bobby
+T373	Barbara-51 5457 5464	Barbara
+T386	two_maids-52 5525 5534	two maids
+T471	the_private_car-53 5537 5552	the private car
+T388	His_father-3 5558 5568	Mr. Blaine
+T387	physician-54 5603 5612	physician
+T394	Amory-1 5620 5625	Amory
+T392	four_disgusted_specialists-55 5649 5675	four disgusted specialists
+T569	Amory-1 5712 5715	his
+T570	Amory-1 5727 5729	he
+T393	physicians-56 5786 5796	physicians
+T391	nurses-57 5801 5807	nurses
+T571	Amory-1 5873 5875	he
+T395	his_family-8 5897 5908	The Blaines
+T396	no_city-58 5926 5933	no city
+T572	his_family-8 5936 5940	They
+T389	his_family-8 5946 5957	the Blaines
+T398	Lake_Geneva-11 5961 5972	Lake Geneva
+T573	his_family-8 5975 5979	they
+T390	quite_enough_relatives-59 5984 6006	quite enough relatives
+T397	friends-60 6028 6035	friends
+T402	Pasadena-61 6068 6076	Pasadena
+T400	Cape_Cod-62 6080 6088	Cape Cod
+T403	Beatrice_Amory_Blaine-2 6095 6103	Beatrice
+T399	new_acquaintances-63 6142 6159	new acquaintances
+T574	Beatrice_Amory_Blaine-2 6217 6220	her
+T575	Beatrice_Amory_Blaine-2 6272 6275	her
+T576	Beatrice_Amory_Blaine-2 6317 6320	her
+T579	Beatrice_Amory_Blaine-2 6445 6448	her
+T404	Beatrice_Amory_Blaine-2 6462 6470	Beatrice
+T401	American_women-64 6490 6504	American women
+T405	the_floating_population_of_ex-Westerners-65 6518 6558	the floating population of ex-Westerners
+T580	the_floating_population_of_ex-Westerners-65 6563 6567	They
+T581	Beatrice_Amory_Blaine-2 6583 6585	my
+T582	Beatrice_Amory_Blaine-2 6595 6598	she
+T472	Amory-1 6604 6609	Amory
+T407	Boston-66 6638 6644	Boston
+T406	any_locality-67 6681 6693	any locality
+T583	Beatrice_Amory_Blaine-2 6716 6719	she
+T584	the_floating_population_of_ex-Westerners-65 6738 6742	They
+T408	London-68 6768 6774	London
+T586	the_floating_population_of_ex-Westerners-65 6845 6849	They
+T410	an_English_butler-69 6858 6875	an English butler
+T409	a_Chicago_grand-opera_company-70 6905 6934	a Chicago grand-opera company
+T473	Chicago-5 6907 6914	Chicago
+T587	Beatrice_Amory_Blaine-2 6939 6942	She
+T412	every_Western_woman-71 6992 7011	every Western woman
+T588	Beatrice_Amory_Blaine-2 7023 7026	she
+T411	her_husband-72 7033 7044	her husband
+T589	every_Western_woman-71 7033 7036	her
+T590	every_Western_woman-71 7070 7073	her
+T591	the_floating_population_of_ex-Westerners-65 7095 7099	they
+T592	Beatrice_Amory_Blaine-2 7117 7119	me
+T474	Amory-1 7124 7131	my dear
+T593	Beatrice_Amory_Blaine-2 7124 7126	my
+T594	Beatrice_Amory_Blaine-2 7144 7147	she
+T595	Beatrice_Amory_Blaine-2 7159 7162	her
+T596	Beatrice_Amory_Blaine-2 7193 7196	she
+T597	Beatrice_Amory_Blaine-2 7208 7211	her
+T598	Beatrice_Amory_Blaine-2 7259 7262	her
+T599	Beatrice_Amory_Blaine-2 7270 7273	She
+T416	priests-73 7322 7329	priests
+T600	Beatrice_Amory_Blaine-2 7366 7369	she
+T414	Mother_Church-74 7417 7430	Mother Church
+T601	Beatrice_Amory_Blaine-2 7433 7436	she
+T602	Beatrice_Amory_Blaine-2 7490 7493	she
+T415	the_American_Catholic_clergy-75 7528 7556	the American Catholic clergy
+T603	Beatrice_Amory_Blaine-2 7587 7590	she
+T604	Beatrice_Amory_Blaine-2 7647 7650	her
+T419	Rome-13 7707 7711	Rome
+T420	doctors-76 7730 7737	doctors
+T421	priests-73 7740 7747	priests
+T605	Beatrice_Amory_Blaine-2 7753 7756	her
+T422	Bishop_Wiston-77 7781 7794	Bishop Wiston
+T606	Beatrice_Amory_Blaine-2 7799 7802	she
+T607	Beatrice_Amory_Blaine-2 7821 7822	I
+T608	Beatrice_Amory_Blaine-2 7846 7852	myself
+T609	Beatrice_Amory_Blaine-2 7855 7856	I
+T423	hysterical_women_fluttering_at_your_doors-78 7883 7924	hysterical women fluttering at your doors
+T610	Bishop_Wiston-77 7914 7918	your
+T611	Bishop_Wiston-77 7938 7941	you
+T424	Bishop_Wiston-77 7997 8010	the clergyman
+T612	Beatrice_Amory_Blaine-2 8020 8022	my
+T417	bishops-79 8066 8073	bishops
+T613	Beatrice_Amory_Blaine-2 8088 8091	she
+T614	Beatrice_Amory_Blaine-2 8100 8103	her
+T615	Beatrice_Amory_Blaine-2 8128 8131	she
+T428	her_country-80 8154 8165	her country
+T616	Beatrice_Amory_Blaine-2 8154 8157	her
+T418	Darcy-81 8181 8212	a pagan , Swinburnian young man
+T429	Asheville-82 8216 8225	Asheville
+T617	Beatrice_Amory_Blaine-2 8288 8291	she
+T618	they-83 8324 8328	they
+T619	Beatrice_Amory_Blaine-2 8436 8439	she
+T431	Darcy-81 8482 8512	the young pagan from Asheville
+T432	Asheville-82 8503 8512	Asheville
+T425	Mother_Church-74 8558 8577	the Catholic Church
+T426	Darcy-81 8595 8610	Monsignor Darcy
+T434	Beatrice_Amory_Blaine-2 8624 8635	Mrs. Blaine
+T620	Darcy-81 8638 8640	he
+T433	the_cardinal-84 8678 8690	the cardinal
+T427	Darcy-81 8678 8708	the cardinal 's right-hand man
+T430	Amory-1 8715 8720	Amory
+T621	Darcy-81 8732 8735	him
+T622	Beatrice_Amory_Blaine-2 8746 8747	I
+T437	Beatrice_Amory_Blaine-2 8766 8784	the beautiful lady
+T435	Darcy-81 8793 8808	Monsignor Darcy
+T623	Amory-1 8825 8828	him
+T624	Darcy-81 8832 8834	he
+T625	Beatrice_Amory_Blaine-2 8846 8848	me
+T436	Amory-1 8853 8858	Amory
+T438	his_Celtic_mother-85 8928 8945	his Celtic mother
+T626	Amory-1 8928 8931	his
+T627	Amory-1 8948 8950	He
+T628	Amory-1 8999 9001	he
+T629	Amory-1 9064 9066	he
+T439	no_tutor-86 9087 9095	no tutor
+T630	Amory-1 9117 9119	he
+T631	Amory-1 9131 9134	his
+T632	Amory-1 9225 9228	him
+T447	land-87 9278 9282	land
+T449	Italy-88 9285 9290	Italy
+T440	Beatrice_Amory_Blaine-2 9304 9312	Beatrice
+T633	Amory-1 9315 9318	his
+T441	Europe-89 9417 9423	Europe
+T446	America-24 9428 9435	America
+T442	the_passengers-91 9458 9472	the passengers
+T443	the_great_ship-92 9473 9487	the great ship
+T445	New_York-93 9526 9534	New York
+T448	Amory-1 9546 9551	Amory
+T634	You-94 9566 9569	You
+T454	Beatrice_Amory_Blaine-2 9646 9654	Beatrice
+T450	Amory-1 9740 9745	Amory
+T452	Minneapolis-95 9758 9769	Minneapolis
+T451	his_aunt-96 9817 9825	his aunt
+T635	Amory-1 9817 9820	his
+T453	uncle-97 9830 9835	uncle
+T483	Minneapolis-95 9838 9843	There
+T636	Amory-1 9905 9908	him
+T637	Amory-1 9915 9918	his
+T444	Amory-1 9962 9967	AMORY
+T638	Amory-1 9968 9971	His
+T639	Amory-1 9988 9990	he
+T640	I-98 10003 10004	I
+T641	I-98 10117 10118	I
+T642	Beatrice_Amory_Blaine-2 10146 10149	you
+R1	appos Arg1:T1 Arg2:T134
+R2	appos Arg1:T136 Arg2:T135
+R3	appos Arg1:T6 Arg2:T4
+R4	cop Arg1:T26 Arg2:T190
+R5	cop Arg1:T50 Arg2:T246
+R6	cop Arg1:T91 Arg2:T277
+T46	NOM_PER 6834 6842	some one
+T154	some_one-700 6834 6842	some one

@@ -1,0 +1,616 @@
+T0	NOM_PER 71 88	a middle-aged man
+T1	PROP_GPE 115 122	Shaston
+T6	NOM_PER 777 800	the man with the basket
+T7	PROP_PER 818 826	Sir John
+T8	NOM_PER 836 846	the parson
+T9	NOM_PER 849 863	The pedestrian
+T10	NOM_FAC 984 993	this road
+T12	NOM_PER 1119 1129	the parson
+T14	NOM_PER 1316 1327	the haggler
+T15	NOM_PER 1332 1342	The parson
+T16	NOM_GPE 1555 1561	county
+T17	PROP_FAC 1614 1627	Stagfoot Lane
+T18	PROP_PER 1796 1818	Sir Pagan d'Urberville
+T20	PROP_GPE 1856 1864	Normandy
+T22	NOM_PER 2135 2148	Your ancestor
+T23	NOM_PER 2192 2216	the Lord of Estremavilla
+T24	PROP_GPE 2204 2216	Estremavilla
+T25	PROP_GPE 2220 2228	Normandy
+T26	PROP_PER 2385 2397	King Stephen
+T27	PROP_GPE 2323 2330	England
+T28	NOM_PER 2473 2497	the Knights Hospitallers
+T31	PROP_GPE 2571 2582	Westminster
+T33	PROP_PER 2507 2524	Edward the Second
+T34	PROP_PER 2644 2659	Oliver Cromwell
+T35	PROP_PER 2746 2770	Knights of the Royal Oak
+T38	NOM_PER 2946 2949	men
+T40	PROP_PER 2827 2836	Sir Johns
+T43	NOM_PER 3063 3073	the parson
+T44	PROP_GPE 3163 3170	England
+T45	PROP_PER 3218 3229	Durbeyfield
+T46	NOM_PER 3337 3371	the commonest feller in the parish
+T47	PROP_PER 3426 3443	Pa ' son Tringham
+T48	NOM_PER 3448 3461	The clergyman
+T49	NOM_PER 3855 3866	grandfather
+T50	NOM_PER 3840 3850	his father
+T52	PROP_PER 3753 3764	Durbeyfield
+T54	NOM_FAC 4425 4429	home
+T55	NOM_PER 4518 4531	d'Urbervilles
+T56	NOM_FAC 4832 4838	county
+T58	NOM_GPE 5348 5359	this county
+T59	NOM_FAC 5370 5385	a seat of yours
+T60	NOM_PER 5831 5842	genealogist
+T61	NOM_PER 5807 5826	the local historian
+T63	NOM_PER 5893 5944	the cottagers of this county of almost equal lustre
+T64	PROP_PER 6043 6060	Pa ' son Tringham
+T66	NOM_PER 6276 6286	the parson
+T68	NOM_PER 6561 6568	a youth
+T69	PROP_PER 6660 6671	Durbeyfield
+T70	NOM_PER 6726 6733	the lad
+T71	NOM_PER 6841 6864	The lath-like stripling
+T72	PROP_PER 6897 6913	John Durbeyfield
+T75	NOM_PER 7452 7459	The lad
+T76	NOM_PER 7593 7610	the prostrate man
+T78	NOM_PER 7626 7633	knights
+T82	NOM_GPE 7849 7858	that city
+T84	NOM_FAC 7835 7858	the church of that city
+T85	NOM_GPE 8027 8036	the place
+T93	NOM_FAC 8696 8704	my house
+T94	NOM_PER 8732 8739	my wife
+T95	NOM_PER 8862 8869	the lad
+T96	NOM_PER 9042 9045	lad
+T97	NOM_PER 9076 9089	the young man
+T99	NOM_PER 18 28	The Maiden
+T2	NOM_GPE 126 148	the village of Marlott
+T100	NOM_LOC 154 185	the adjoining Vale of Blakemore
+T101	PROP_LOC 191 200	Blackmoor
+T3	NOM_PER 660 700	an elderly parson astride on a gray mare
+T4	PROP_PER 1246 1254	Sir John
+T5	PROP_PER 1291 1313	plain Jack Durbeyfield
+T13	PROP_PER 1577 1592	Parson Tringham
+T102	NOM_PER 1595 1627	the antiquary , of Stagfoot Lane
+T103	PROP_PER 1655 1666	Durbeyfield
+T104	NOM_PER 1682 1763	the lineal representative of the ancient and knightly family of the d'Urbervilles
+T105	NOM_PER 1711 1763	the ancient and knightly family of the d'Urbervilles
+T21	NOM_PER 1821 1891	that renowned knight who came from Normandy with William the Conqueror
+T106	NOM_PER 2153 2262	one of the twelve knights who assisted the Lord of Estremavilla in Normandy in his conquest of Glamorganshire
+T107	NOM_PER 2160 2262	the twelve knights who assisted the Lord of Estremavilla in Normandy in his conquest of Glamorganshire
+T108	PROP_GPE 2248 2262	Glamorganshire
+T109	NOM_FAC 2294 2300	manors
+T110	NOM_LOC 2310 2330	this part of England
+T111	NOM_PER 2265 2288	Branches of your family
+T30	PROP_PER 2416 2425	King John
+T32	NOM_PER 2426 2437	one of them
+T112	NOM_FAC 2462 2469	a manor
+T36	PROP_PER 2704 2722	Charles the Second
+T37	PROP_PER 2998 3006	Sir John
+T39	NOM_FAC 3361 3371	the parish
+T41	NOM_PER 3715 3734	d'Urberville family
+T42	NOM_VEH 3776 3786	his waggon
+T51	PROP_LOC 4244 4253	Blackmoor
+T53	NOM_PER 4830 4845	a county family
+T113	NOM_PER 4702 4708	parson
+T114	NOM_PER 4756 4769	d'Urbervilles
+T115	PROP_GPE 5018 5041	Kingsbere-sub-Greenhill
+T57	NOM_FAC 5150 5181	our family mansions and estates
+T116	PROP_PER 5640 5651	Durbeyfield
+T117	PROP_GPE 5441 5449	Millpond
+T118	PROP_GPE 5389 5398	Kingsbere
+T119	PROP_GPE 5416 5423	Sherton
+T120	PROP_GPE 5467 5476	Lullstead
+T121	PROP_GPE 5494 5504	Wellbridge
+T122	NOM_PER 5305 5311	family
+T123	NOM_FAC 6101 6114	The Pure Drop
+T65	NOM_FAC 6158 6169	Rolliver 's
+T124	PROP_PER 6213 6224	Durbeyfield
+T125	PROP_PER 6397 6408	Durbeyfield
+T67	NOM_FAC 6494 6506	the roadside
+T126	NOM_PER 6771 6774	Boy
+T73	NOM_PER 6948 6951	boy
+T127	PROP_PER 7148 7152	Fred
+T128	NOM_PER 7210 7229	one of a noble race
+T129	PROP_PER 7332 7343	Durbeyfield
+T74	PROP_PER 7473 7484	Durbeyfield
+T130	PROP_PER 7537 7558	Sir John d'Urberville
+T77	NOM_PER 7639 7647	baronets
+T79	NOM_PER 7736 7739	lad
+T131	PROP_GPE 7745 7768	Kingsbere-sub-Greenhill
+T80	NOM_GPE 7962 8005	a little one-eyed , blinking sort o ' place
+T81	NOM_FAC 8088 8119	the church of that there parish
+T83	NOM_FAC 8102 8119	that there parish
+T132	NOM_PER 8124 8136	my ancestors
+T133	NOM_PER 8140 8155	hundreds of 'em
+T88	NOM_PER 8246 8286	not a man in the county o ' South-Wessex
+T89	NOM_GPE 8259 8286	the county o ' South-Wessex
+T90	NOM_PER 8333 8343	his family
+T134	PROP_GPE 8405 8412	Marlott
+T135	PROP_FAC 8440 8457	The Pure Drop Inn
+T136	NOM_FAC 8532 8537	hwome
+T91	NOM_VEH 8562 8574	the carriage
+T92	NOM_FAC 8821 8826	hwome
+T137	PROP_PER 8900 8911	Durbeyfield
+T87	NOM_PER 8299 8343	grander and nobler skillentons in his family
+T29	NOM_PER 2533 2548	your forefather
+T98	NOM_PER 2549 2554	Brian
+T146	NOM_PER 930 933	sir
+T11	PROP_PER 1076 1084	Sir John
+T148	NOM_PER 1956 1959	sir
+T149	NOM_PER 5626 5629	sir
+T150	NOM_PER 3140 3170	such another family in England
+T151	NOM_PER 4194 4203	my family
+T152	NOM_GPE 2611 2616	there
+T153	NOM_GPE 7792 7797	there
+T154	NOM_GPE 7946 7951	there
+T155	NOM_GPE 7886 7892	a city
+T156	NOM_GPE 7895 7904	the place
+T158	PRON_PER 233 236	him
+T159	PRON_PER 276 279	his
+T160	PRON_PER 300 303	him
+T161	PRON_PER 346 348	He
+T162	PRON_PER 428 430	he
+T163	PRON_PER 511 514	his
+T164	PRON_PER 532 535	his
+T165	PRON_PER 602 605	his
+T166	PRON_PER 646 648	he
+T167	PRON_PER 712 714	he
+T168	PRON_PER 944 948	your
+T169	PRON_PER 958 960	we
+T170	PRON_PER 1016 1017	I
+T171	PRON_PER 1044 1047	you
+T172	PRON_PER 1104 1105	I
+T173	PRON_PER 1181 1182	I
+T174	PRON_PER 1214 1218	your
+T175	PRON_PER 1241 1243	me
+T176	PRON_PER 1286 1287	I
+T177	PRON_PER 1385 1387	my
+T178	PRON_PER 1397 1399	he
+T179	PRON_PER 1479 1480	I
+T180	PRON_PER 1516 1517	I
+T181	PRON_PER 1572 1573	I
+T182	PRON_PER 1637 1640	you
+T183	PRON_PER 1674 1677	you
+T184	PRON_PER 1777 1782	their
+T185	PRON_PER 1993 1997	your
+T186	PRON_PER 2022 2023	I
+T187	PRON_PER 2049 2053	your
+T188	PRON_PER 2135 2139	Your
+T189	PRON_PER 2232 2235	his
+T190	PRON_PER 2277 2281	your
+T191	PRON_PER 2333 2338	their
+T192	PRON_PER 2433 2437	them
+T193	PRON_PER 2533 2537	your
+T194	PRON_PER 2619 2622	You
+T195	PRON_PER 2732 2735	you
+T196	PRON_PER 2775 2779	your
+T197	PRON_PER 2843 2846	you
+T198	PRON_PER 2985 2988	you
+T199	PRON_PER 3096 3099	his
+T200	PRON_PER 3109 3112	his
+T201	PRON_PER 3182 3184	my
+T202	PRON_PER 3248 3249	I
+T203	PRON_PER 3318 3319	I
+T204	PRON_PER 3409 3411	me
+T205	PRON_PER 3489 3491	he
+T206	PRON_PER 3587 3590	His
+T207	PRON_PER 3737 3739	he
+T208	PRON_PER 3776 3779	his
+T209	PRON_PER 3840 3843	his
+T210	PRON_PER 3872 3874	he
+T211	PRON_PER 3916 3917	I
+T212	PRON_PER 3942 3945	you
+T213	PRON_PER 3996 3998	he
+T214	PRON_PER 4013 4016	our
+T215	PRON_PER 4045 4048	our
+T216	PRON_PER 4071 4072	I
+T217	PRON_PER 4081 4084	you
+T218	PRON_PER 4147 4148	I
+T219	PRON_PER 4194 4196	my
+T220	PRON_PER 4231 4235	they
+T221	PRON_PER 4260 4261	I
+T222	PRON_PER 4310 4312	we
+T223	PRON_PER 4344 4346	we
+T224	PRON_PER 4367 4368	I
+T225	PRON_PER 4500 4501	I
+T226	PRON_PER 4579 4581	my
+T227	PRON_PER 4645 4647	he
+T228	PRON_PER 4675 4677	we
+T229	PRON_PER 4684 4687	our
+T230	PRON_PER 4714 4715	I
+T231	PRON_PER 4735 4736	I
+T232	PRON_PER 4753 4755	we
+T233	PRON_PER 4781 4784	You
+T234	PRON_PER 4808 4811	You
+T235	PRON_PER 5002 5004	we
+T236	PRON_PER 5061 5064	you
+T237	PRON_PER 5068 5072	your
+T238	PRON_PER 5087 5091	your
+T239	PRON_PER 5150 5153	our
+T240	PRON_PER 5188 5191	You
+T241	PRON_PER 5253 5256	you
+T242	PRON_PER 5288 5289	I
+T243	PRON_PER 5301 5304	you
+T244	PRON_PER 5521 5523	we
+T245	PRON_PER 5539 5542	our
+T246	PRON_PER 5570 5571	I
+T247	PRON_PER 5603 5604	I
+T248	PRON_PER 5713 5721	yourself
+T249	PRON_PER 5968 5971	you
+T250	PRON_PER 6016 6018	me
+T251	PRON_PER 6187 6190	you
+T252	PRON_PER 6227 6230	You
+T253	PRON_PER 6295 6298	his
+T254	PRON_PER 6323 6326	his
+T255	PRON_PER 6383 6385	he
+T256	PRON_PER 6520 6523	his
+T257	PRON_PER 6538 6541	him
+T258	PRON_PER 6697 6700	him
+T259	PRON_PER 6711 6714	his
+T260	PRON_PER 6744 6747	his
+T261	PRON_PER 6799 6800	I
+T262	PRON_PER 6834 6836	me
+T263	PRON_PER 6884 6887	you
+T264	PRON_PER 6925 6927	me
+T265	PRON_PER 6943 6945	me
+T266	PRON_PER 6956 6959	You
+T267	PRON_PER 6965 6967	my
+T268	PRON_PER 6984 6985	I
+T269	PRON_PER 7006 7009	you
+T270	PRON_PER 7015 7018	you
+T271	PRON_PER 7073 7075	my
+T272	PRON_PER 7106 7107	I
+T273	PRON_PER 7155 7156	I
+T274	PRON_PER 7177 7180	you
+T275	PRON_PER 7205 7206	I
+T276	PRON_PER 7263 7265	me
+T277	PRON_PER 7305 7307	he
+T278	PRON_PER 7361 7364	his
+T279	PRON_PER 7406 7413	himself
+T280	PRON_PER 7504 7507	his
+T281	PRON_PER 7574 7575	I
+T282	PRON_PER 7657 7661	they
+T283	PRON_PER 7703 7705	me
+T284	PRON_PER 7781 7782	I
+T285	PRON_PER 7905 7906	I
+T286	PRON_PER 7940 7941	I
+T287	PRON_PER 8018 8021	you
+T288	PRON_PER 8077 8079	us
+T289	PRON_PER 8124 8126	my
+T290	PRON_PER 8333 8336	his
+T291	PRON_PER 8424 8427	you
+T292	PRON_PER 8501 8503	me
+T293	PRON_PER 8529 8531	me
+T294	PRON_PER 8575 8579	they
+T295	PRON_PER 8646 8648	my
+T296	PRON_PER 8668 8671	you
+T297	PRON_PER 8696 8698	my
+T298	PRON_PER 8732 8734	my
+T299	PRON_PER 8775 8778	she
+T300	PRON_PER 8814 8815	I
+T301	PRON_PER 8832 8833	I
+T302	PRON_PER 8851 8854	her
+T303	PRON_PER 8916 8919	his
+T304	PRON_PER 8928 8931	his
+T305	PRON_PER 8999 9001	he
+T306	PRON_PER 9028 9032	your
+T307	PROP_PER 1870 1891	William the Conqueror
+T308	NOM_PER 2277 2288	your family
+T309	PRON_PER 3017 3019	Ye
+T310	NOM_PER 4582 4596	gr ' t-granfer
+T311	NOM_PER 5870 5886	several families
+T312	NOM_GPE 5910 5921	this county
+T313	PRON_PER 6806 6810	' ee
+T314	PRON_PER 7127 7131	' ee
+T315	PROP_GPE 7801 7815	Greenhill Fair
+T316	NOM_PER 8039 8042	boy
+T317	PRON_PER 8152 8155	'em
+T318	PRON_PER 8465 8468	'em
+T418	The_Maiden-100000 18 28	The Maiden
+T319	Jack_Durbeyfield-0 71 88	a middle-aged man
+T320	Shaston-1 115 122	Shaston
+T321	Marlott-81 126 148	the village of Marlott
+T419	the_adjoining_Vale_of_Blakemore-3 154 185	the adjoining Vale of Blakemore
+T477	Jack_Durbeyfield-0 233 236	him
+T478	Jack_Durbeyfield-0 276 279	his
+T479	Jack_Durbeyfield-0 300 303	him
+T480	Jack_Durbeyfield-0 346 348	He
+T481	Jack_Durbeyfield-0 428 430	he
+T482	Jack_Durbeyfield-0 511 514	his
+T483	Jack_Durbeyfield-0 532 535	his
+T484	Jack_Durbeyfield-0 602 605	his
+T485	Jack_Durbeyfield-0 646 648	he
+T322	Parson_Tringham-4 660 700	an elderly parson astride on a gray mare
+T486	Parson_Tringham-4 712 714	he
+T325	Jack_Durbeyfield-0 777 800	the man with the basket
+T326	Jack_Durbeyfield-0 818 826	Sir John
+T327	Parson_Tringham-4 836 846	the parson
+T328	Jack_Durbeyfield-0 849 863	The pedestrian
+T465	Parson_Tringham-4 930 933	sir
+T487	Parson_Tringham-4 944 948	your
+T488	we-5 958 960	we
+T329	this_road-6 984 993	this road
+T489	Jack_Durbeyfield-0 1016 1017	I
+T490	Parson_Tringham-4 1044 1047	you
+T330	Jack_Durbeyfield-0 1076 1084	Sir John
+T491	Parson_Tringham-4 1104 1105	I
+T331	Parson_Tringham-4 1119 1129	the parson
+T492	Parson_Tringham-4 1181 1182	I
+T493	Parson_Tringham-4 1214 1218	your
+T494	Jack_Durbeyfield-0 1241 1243	me
+T323	Jack_Durbeyfield-0 1246 1254	Sir John
+T495	Jack_Durbeyfield-0 1286 1287	I
+T324	Jack_Durbeyfield-0 1291 1313	plain Jack Durbeyfield
+T334	Parson_Tringham-4 1332 1342	The parson
+T496	Parson_Tringham-4 1385 1387	my
+T497	Parson_Tringham-4 1397 1399	he
+T498	Parson_Tringham-4 1479 1480	I
+T499	Parson_Tringham-4 1516 1517	I
+T335	county-7 1555 1561	county
+T500	Parson_Tringham-4 1572 1573	I
+T332	Parson_Tringham-4 1577 1592	Parson Tringham
+T336	Stagfoot_Lane-8 1614 1627	Stagfoot Lane
+T501	Jack_Durbeyfield-0 1637 1640	you
+T422	Jack_Durbeyfield-0 1655 1666	Durbeyfield
+T502	Jack_Durbeyfield-0 1674 1677	you
+T424	the_ancient_and_knightly_family_of_the_d_Urbervilles-9 1711 1763	the ancient and knightly family of the d'Urbervilles
+T503	the_ancient_and_knightly_family_of_the_d_Urbervilles-9 1777 1782	their
+T337	Sir_Pagan_d_Urberville-10 1796 1818	Sir Pagan d'Urberville
+T339	Normandy-11 1856 1864	Normandy
+T626	William_the_Conqueror-12 1870 1891	William the Conqueror
+T467	Parson_Tringham-4 1956 1959	sir
+T504	Jack_Durbeyfield-0 1993 1997	your
+T505	Parson_Tringham-4 2022 2023	I
+T506	Jack_Durbeyfield-0 2049 2053	your
+T341	Sir_Pagan_d_Urberville-10 2135 2148	Your ancestor
+T507	Jack_Durbeyfield-0 2135 2139	Your
+T426	the_twelve_knights_who_assisted_the_Lord_of_Estremavilla_in_Normandy_in_his_conquest_of_Glamorganshire-13 2160 2262	the twelve knights who assisted the Lord of Estremavilla in Normandy in his conquest of Glamorganshire
+T342	the_Lord_of_Estremavilla-14 2192 2216	the Lord of Estremavilla
+T343	Estremavilla-15 2204 2216	Estremavilla
+T344	Normandy-11 2220 2228	Normandy
+T508	the_Lord_of_Estremavilla-14 2232 2235	his
+T427	Glamorganshire-16 2248 2262	Glamorganshire
+T430	Branches_of_your_family-17 2265 2288	Branches of your family
+T509	Jack_Durbeyfield-0 2277 2281	your
+T428	manors-18 2294 2300	manors
+T429	this_part_of_England-19 2310 2330	this part of England
+T346	England-20 2323 2330	England
+T345	King_Stephen-22 2385 2397	King Stephen
+T349	King_John-23 2416 2425	King John
+T351	one_of_them-24 2426 2437	one of them
+T431	a_manor-25 2462 2469	a manor
+T347	the_Knights_Hospitallers-26 2473 2497	the Knights Hospitallers
+T352	Edward_the_Second-27 2507 2524	Edward the Second
+T348	your_forefather-28 2533 2548	your forefather
+T512	Jack_Durbeyfield-0 2533 2537	your
+T417	your_forefather-28 2549 2554	Brian
+T350	Westminster-29 2571 2582	Westminster
+T471	Westminster-29 2611 2616	there
+T513	d_Urberville_Family-30 2619 2622	You
+T353	Oliver_Cromwell-31 2644 2659	Oliver Cromwell
+T355	Charles_the_Second-32 2704 2722	Charles the Second
+T514	d_Urberville_Family-30 2732 2735	you
+T354	Knights_of_the_Royal_Oak-33 2746 2770	Knights of the Royal Oak
+T515	d_Urberville_Family-30 2775 2779	your
+T627	d_Urberville_Family-30 2277 2288	your family
+T511	d_Urberville_Family-30 2433 2437	them
+T510	d_Urberville_Family-30 2333 2338	their
+T359	Sir_Johns-34 2827 2836	Sir Johns
+T516	d_Urberville_Family-30 2843 2846	you
+T357	men-35 2946 2949	men
+T517	Jack_Durbeyfield-0 2985 2988	you
+T356	Sir_John-36 2998 3006	Sir John
+T362	Parson_Tringham-4 3063 3073	the parson
+T628	Parson_Tringham-4 3017 3019	Ye
+T518	Parson_Tringham-4 3096 3099	his
+T519	Parson_Tringham-4 3109 3112	his
+T469	such_another_family_in_England-37 3140 3170	such another family in England
+T363	England-20 3163 3170	England
+T520	Jack_Durbeyfield-0 3182 3184	my
+T364	Jack_Durbeyfield-0 3218 3229	Durbeyfield
+T521	Jack_Durbeyfield-0 3248 3249	I
+T522	Jack_Durbeyfield-0 3318 3319	I
+T365	the_commonest_feller_in_the_parish-38 3337 3371	the commonest feller in the parish
+T358	the_parish-39 3361 3371	the parish
+T523	Jack_Durbeyfield-0 3409 3411	me
+T366	Parson_Tringham-4 3426 3443	Pa ' son Tringham
+T367	Parson_Tringham-4 3448 3461	The clergyman
+T524	Parson_Tringham-4 3489 3491	he
+T525	Parson_Tringham-4 3587 3590	His
+T360	d_Urberville_Family-30 3715 3734	d'Urberville family
+T526	Parson_Tringham-4 3737 3739	he
+T371	Jack_Durbeyfield-0 3753 3764	Durbeyfield
+T361	his_waggon-40 3776 3786	his waggon
+T527	Jack_Durbeyfield-0 3776 3779	his
+T369	his_father-41 3840 3850	his father
+T528	Jack_Durbeyfield-0 3840 3843	his
+T368	grandfather-42 3855 3866	grandfather
+T529	Parson_Tringham-4 3872 3874	he
+T530	Parson_Tringham-4 3916 3917	I
+T531	Jack_Durbeyfield-0 3942 3945	you
+T532	Parson_Tringham-4 3996 3998	he
+T533	our-43 4013 4016	our
+T534	our-43 4045 4048	our
+T535	Parson_Tringham-4 4071 4072	I
+T536	Jack_Durbeyfield-0 4081 4084	you
+T537	Jack_Durbeyfield-0 4147 4148	I
+T470	my_family-44 4194 4203	my family
+T538	Jack_Durbeyfield-0 4194 4196	my
+T539	my_family-44 4231 4235	they
+T370	the_adjoining_Vale_of_Blakemore-3 4244 4253	Blackmoor
+T540	Jack_Durbeyfield-0 4260 4261	I
+T541	my_family-44 4310 4312	we
+T542	my_family-44 4344 4346	we
+T543	Jack_Durbeyfield-0 4367 4368	I
+T373	home-45 4425 4429	home
+T544	Jack_Durbeyfield-0 4500 4501	I
+T374	d_Urberville_Family-30 4518 4531	d'Urbervilles
+T545	Jack_Durbeyfield-0 4579 4581	my
+T629	gr___t-granfer-46 4582 4596	gr ' t-granfer
+T546	gr___t-granfer-46 4645 4647	he
+T547	we-47 4675 4677	we
+T548	we-47 4684 4687	our
+T432	Parson_Tringham-4 4702 4708	parson
+T549	Jack_Durbeyfield-0 4714 4715	I
+T550	Jack_Durbeyfield-0 4735 4736	I
+T551	we-47 4753 4755	we
+T433	d_Urberville_Family-30 4756 4769	d'Urbervilles
+T552	d_Urberville_Family-30 4781 4784	You
+T553	d_Urberville_Family-30 4808 4811	You
+T372	a_county_family-48 4830 4845	a county family
+T375	county-49 4832 4838	county
+T554	we-47 5002 5004	we
+T434	Kingsbere-sub-Greenhill-50 5018 5041	Kingsbere-sub-Greenhill
+T555	d_Urberville_Family-30 5061 5064	you
+T556	d_Urberville_Family-30 5068 5072	your
+T557	d_Urberville_Family-30 5087 5091	your
+T376	our_family_mansions_and_estates-51 5150 5181	our family mansions and estates
+T558	we-47 5150 5153	our
+T559	d_Urberville_Family-30 5188 5191	You
+T560	d_Urberville_Family-30 5253 5256	you
+T561	Parson_Tringham-4 5288 5289	I
+T562	Jack_Durbeyfield-0 5301 5304	you
+T441	d_Urberville_Family-30 5305 5311	family
+T377	South-Wessex-52 5348 5359	this county
+T378	a_seat_of_yours-53 5370 5385	a seat of yours
+T438	Sherton-55 5416 5423	Sherton
+T436	Millpond-56 5441 5449	Millpond
+T439	Lullstead-57 5467 5476	Lullstead
+T440	Wellbridge-58 5494 5504	Wellbridge
+T563	we-47 5521 5523	we
+T564	we-47 5539 5542	our
+T565	Parson_Tringham-4 5570 5571	I
+T566	Jack_Durbeyfield-0 5603 5604	I
+T468	Parson_Tringham-4 5626 5629	sir
+T435	Jack_Durbeyfield-0 5640 5651	Durbeyfield
+T567	Jack_Durbeyfield-0 5713 5721	yourself
+T380	the_local_historian-59 5807 5826	the local historian
+T379	genealogist-60 5831 5842	genealogist
+T382	the_cottagers_of_this_county_of_almost_equal_lustre-61 5893 5944	the cottagers of this county of almost equal lustre
+T630	several_families-62 5870 5886	several families
+T631	South-Wessex-52 5910 5921	this county
+T568	Parson_Tringham-4 5968 5971	you
+T569	Jack_Durbeyfield-0 6016 6018	me
+T383	Parson_Tringham-4 6043 6060	Pa ' son Tringham
+T442	The_Pure_Drop_Inn-63 6101 6114	The Pure Drop
+T384	Rolliver__s-64 6158 6169	Rolliver 's
+T570	Jack_Durbeyfield-0 6187 6190	you
+T443	Jack_Durbeyfield-0 6213 6224	Durbeyfield
+T571	Jack_Durbeyfield-0 6227 6230	You
+T385	Parson_Tringham-4 6276 6286	the parson
+T572	Parson_Tringham-4 6295 6298	his
+T573	Parson_Tringham-4 6323 6326	his
+T574	Parson_Tringham-4 6383 6385	he
+T444	Jack_Durbeyfield-0 6397 6408	Durbeyfield
+T386	the_roadside-65 6494 6506	the roadside
+T575	Jack_Durbeyfield-0 6520 6523	his
+T576	Jack_Durbeyfield-0 6538 6541	him
+T387	Fred-66 6561 6568	a youth
+T388	Jack_Durbeyfield-0 6660 6671	Durbeyfield
+T577	Fred-66 6697 6700	him
+T578	Jack_Durbeyfield-0 6711 6714	his
+T389	Fred-66 6726 6733	the lad
+T579	Fred-66 6744 6747	his
+T445	Fred-66 6771 6774	Boy
+T580	Jack_Durbeyfield-0 6799 6800	I
+T581	Jack_Durbeyfield-0 6834 6836	me
+T632	Fred-66 6806 6810	' ee
+T390	Fred-66 6841 6864	The lath-like stripling
+T582	Jack_Durbeyfield-0 6884 6887	you
+T391	Jack_Durbeyfield-0 6897 6913	John Durbeyfield
+T583	Fred-66 6925 6927	me
+T584	Fred-66 6943 6945	me
+T392	boy-67 6948 6951	boy
+T585	Jack_Durbeyfield-0 6956 6959	You
+T586	Fred-66 6965 6967	my
+T587	Fred-66 6984 6985	I
+T588	Fred-66 7006 7009	you
+T589	Fred-66 7015 7018	you
+T590	Jack_Durbeyfield-0 7073 7075	my
+T591	Jack_Durbeyfield-0 7106 7107	I
+T633	Fred-66 7127 7131	' ee
+T446	Fred-66 7148 7152	Fred
+T592	Jack_Durbeyfield-0 7155 7156	I
+T593	Fred-66 7177 7180	you
+T594	Jack_Durbeyfield-0 7205 7206	I
+T595	Jack_Durbeyfield-0 7263 7265	me
+T596	Jack_Durbeyfield-0 7305 7307	he
+T448	Jack_Durbeyfield-0 7332 7343	Durbeyfield
+T597	Jack_Durbeyfield-0 7361 7364	his
+T598	Jack_Durbeyfield-0 7406 7413	himself
+T394	Fred-66 7452 7459	The lad
+T393	Jack_Durbeyfield-0 7473 7484	Durbeyfield
+T599	Jack_Durbeyfield-0 7504 7507	his
+T449	Jack_Durbeyfield-0 7537 7558	Sir John d'Urberville
+T600	Jack_Durbeyfield-0 7574 7575	I
+T395	Jack_Durbeyfield-0 7593 7610	the prostrate man
+T397	knights-68 7626 7633	knights
+T396	baronets-69 7639 7647	baronets
+T601	knights-68 7657 7661	they
+T602	Jack_Durbeyfield-0 7703 7705	me
+T398	Fred-66 7736 7739	lad
+T437	Kingsbere-sub-Greenhill-50 5389 5398	Kingsbere
+T450	Kingsbere-sub-Greenhill-50 7745 7768	Kingsbere-sub-Greenhill
+T603	Fred-66 7781 7782	I
+T472	Kingsbere-sub-Greenhill-50 7792 7797	there
+T634	Greenhill_Fair-70 7801 7815	Greenhill Fair
+T403	the_church_of_that_city-71 7835 7858	the church of that city
+T401	Kingsbere-sub-Greenhill-50 7849 7858	that city
+T474	a_city-72 7886 7892	a city
+T475	Kingsbere-sub-Greenhill-50 7895 7904	the place
+T604	Fred-66 7905 7906	I
+T605	Fred-66 7940 7941	I
+T473	Kingsbere-sub-Greenhill-50 7946 7951	there
+T606	Fred-66 8018 8021	you
+T404	the_place-73 8027 8036	the place
+T635	Fred-66 8039 8042	boy
+T607	us-74 8077 8079	us
+T400	the_church_of_that_there_parish-75 8088 8119	the church of that there parish
+T402	that-parish-803 8102 8119	that there parish
+T608	Jack_Durbeyfield-0 8124 8126	my
+T452	hundreds_of__em-76 8140 8155	hundreds of 'em
+T451	my_ancestors-77 8124 8136	my ancestors
+T636	my_ancestors-77 8152 8155	'em
+T407	not_a_man_in_the_county_o___South-Wessex-78 8246 8286	not a man in the county o ' South-Wessex
+T408	South-Wessex-52 8259 8286	the county o ' South-Wessex
+T406	grander_and_nobler_skillentons_in_his_family-79 8299 8343	grander and nobler skillentons in his family
+T409	his_family-80 8333 8343	his family
+T609	not_a_man_in_the_county_o___South-Wessex-78 8333 8336	his
+T453	Marlott-81 8405 8412	Marlott
+T610	Fred-66 8424 8427	you
+T454	The_Pure_Drop_Inn-63 8440 8457	The Pure Drop Inn
+T611	Jack_Durbeyfield-0 8501 8503	me
+T612	Jack_Durbeyfield-0 8529 8531	me
+T455	home-45 8532 8537	hwome
+T410	the_carriage-82 8562 8574	the carriage
+T637	_em-83 8465 8468	'em
+T613	_em-83 8575 8579	they
+T614	Jack_Durbeyfield-0 8646 8648	my
+T615	Fred-66 8668 8671	you
+T412	home-45 8696 8704	my house
+T616	Jack_Durbeyfield-0 8696 8698	my
+T413	my_wife-84 8732 8739	my wife
+T617	Jack_Durbeyfield-0 8732 8734	my
+T618	my_wife-84 8775 8778	she
+T619	Jack_Durbeyfield-0 8814 8815	I
+T411	home-45 8821 8826	hwome
+T620	Jack_Durbeyfield-0 8832 8833	I
+T621	my_wife-84 8851 8854	her
+T414	Fred-66 8862 8869	the lad
+T456	Jack_Durbeyfield-0 8900 8911	Durbeyfield
+T622	Jack_Durbeyfield-0 8916 8919	his
+T623	Jack_Durbeyfield-0 8928 8931	his
+T624	Jack_Durbeyfield-0 8999 9001	he
+T625	Fred-66 9028 9032	your
+T415	Fred-66 9042 9045	lad
+T416	Fred-66 9076 9089	the young man
+R1	cop Arg1:T101 Arg2:T100
+R2	appos Arg1:T14 Arg2:T5
+R3	appos Arg1:T102 Arg2:T13
+R4	cop Arg1:T104 Arg2:T183
+R6	cop Arg1:T106 Arg2:T22
+R7	cop Arg1:T128 Arg2:T275
+R8	cop Arg1:T80 Arg2:T19
+R5	appos Arg1:T21 Arg2:T337
+T19	PRON_GPE 7955 7957	't
+T62	Kingsbere-sub-Greenhill-50 7955 7957	't
+T86	NOM_LOC 5216 5224	No lands
+T138	No_lands-700 5216 5224	No lands

@@ -1,0 +1,2337 @@
+#begin document (432_the_ambassadors_brat); part 0
+432_the_ambassadors_brat	0	0	Book	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	First	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	I	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	4	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	first	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	question	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	when	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	10	reached	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	the	_	_	_	_	_	_	_	_	(1
+432_the_ambassadors_brat	0	12	hotel	_	_	_	_	_	_	_	_	1)
+432_the_ambassadors_brat	0	13	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	about	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	his	_	_	_	_	_	_	_	_	(0)|(2
+432_the_ambassadors_brat	0	17	friend	_	_	_	_	_	_	_	_	2)
+432_the_ambassadors_brat	0	18	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	yet	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	22	learning	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	Waymarsh	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	25	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	apparently	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	arrive	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	till	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	evening	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	33	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	wholly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	disconcerted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	A	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	telegram	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	him	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	4	bespeaking	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	a	_	_	_	_	_	_	_	_	(3
+432_the_ambassadors_brat	0	6	room	_	_	_	_	_	_	_	_	3)
+432_the_ambassadors_brat	0	7	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	only	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	noisy	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	reply	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	paid	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	produced	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	the	_	_	_	_	_	_	_	_	(2
+432_the_ambassadors_brat	0	21	enquirer	_	_	_	_	_	_	_	_	2)
+432_the_ambassadors_brat	0	22	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	the	_	_	_	_	_	_	_	_	(4
+432_the_ambassadors_brat	0	24	office	_	_	_	_	_	_	_	_	4)
+432_the_ambassadors_brat	0	25	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	understanding	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	they	_	_	_	_	_	_	_	_	(5)
+432_the_ambassadors_brat	0	31	should	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	meet	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	Chester	_	_	_	_	_	_	_	_	(6)
+432_the_ambassadors_brat	0	35	rather	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	Liverpool	_	_	_	_	_	_	_	_	(7)
+432_the_ambassadors_brat	0	39	remained	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	extent	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	sound	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	The	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	same	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	secret	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	principle	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	however	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	prompted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	11	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	absolutely	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	desire	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	Waymarsh	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	16	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	presence	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	the	_	_	_	_	_	_	_	_	(8
+432_the_ambassadors_brat	0	20	dock	_	_	_	_	_	_	_	_	8)
+432_the_ambassadors_brat	0	21	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	led	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	26	thus	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	postpone	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	few	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	hours	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	34	enjoyment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	now	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	operated	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	make	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	43	feel	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	45	could	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	still	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	wait	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	without	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	disappointment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	They	_	_	_	_	_	_	_	_	(5)
+432_the_ambassadors_brat	0	1	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	dine	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	together	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	worst	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	all	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	respect	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	dear	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	old	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	Waymarsh	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	17	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	even	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	matter	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	28	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	there	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	little	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	fear	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	sequel	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	they	_	_	_	_	_	_	_	_	(5)
+432_the_ambassadors_brat	0	38	should	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	n't	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	see	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	enough	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	each	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	other	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	The	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	principle	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	I	_	_	_	_	_	_	_	_	(9)
+432_the_ambassadors_brat	0	3	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	just	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	mentioned	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	operating	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	the	_	_	_	_	_	_	_	_	(0
+432_the_ambassadors_brat	0	13	most	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	newly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	disembarked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	the	_	_	_	_	_	_	_	_	(5
+432_the_ambassadors_brat	0	18	two	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	men	_	_	_	_	_	_	_	_	5)|0)
+432_the_ambassadors_brat	0	20	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	wholly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	instinctive	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	fruit	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	sharp	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	sense	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	delightful	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	find	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	40	looking	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	after	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	much	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	separation	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	into	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	his	_	_	_	_	_	_	_	_	(2|(0)
+432_the_ambassadors_brat	0	49	comrade	_	_	_	_	_	_	_	_	2)
+432_the_ambassadors_brat	0	50	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	face	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	54	business	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	trifle	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	bungled	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	should	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	62	simply	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	arrange	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	66	countenance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	67	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	68	present	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	69	itself	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	70	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	71	the	_	_	_	_	_	_	_	_	(10
+432_the_ambassadors_brat	0	72	nearing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	73	steamer	_	_	_	_	_	_	_	_	10)
+432_the_ambassadors_brat	0	74	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	75	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	76	first	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	77	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	78	note	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	79	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	80	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	81	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	82	Europe	_	_	_	_	_	_	_	_	(11)
+432_the_ambassadors_brat	0	83	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Mixed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	everything	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	apprehension	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	already	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	11	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	part	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	best	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	throughout	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	prove	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	note	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	Europe	_	_	_	_	_	_	_	_	(11)
+432_the_ambassadors_brat	0	28	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	quite	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	sufficient	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	degree	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	That	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	note	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	meanwhile	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	since	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	previous	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	afternoon	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	thanks	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	happier	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	device	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	such	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	consciousness	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	personal	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	freedom	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	25	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	n't	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	known	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	years	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	such	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	deep	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	taste	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	change	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	having	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	above	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	all	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	moment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	nobody	_	_	_	_	_	_	_	_	(12)
+432_the_ambassadors_brat	0	46	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	nothing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	consider	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	promised	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	already	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	headlong	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	hope	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	too	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	foolish	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	colour	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	66	adventure	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	67	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	68	cool	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	69	success	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	70	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	There	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	people	_	_	_	_	_	_	_	_	(13
+432_the_ambassadors_brat	0	3	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	the	_	_	_	_	_	_	_	_	(14
+432_the_ambassadors_brat	0	5	ship	_	_	_	_	_	_	_	_	14)
+432_the_ambassadors_brat	0	6	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	whom	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	9	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	easily	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	consorted	_	_	_	_	_	_	_	_	13)
+432_the_ambassadors_brat	0	12	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	far	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	ease	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	could	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	up	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	now	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	imputed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	25	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	who	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	most	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	part	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	plunged	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	straight	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	into	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	current	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	set	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	the	_	_	_	_	_	_	_	_	(15
+432_the_ambassadors_brat	0	41	landing-stage	_	_	_	_	_	_	_	_	15)
+432_the_ambassadors_brat	0	42	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	London	_	_	_	_	_	_	_	_	(16)
+432_the_ambassadors_brat	0	44	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	there	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	others	_	_	_	_	_	_	_	_	(17
+432_the_ambassadors_brat	0	48	who	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	invited	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	52	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	tryst	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	the	_	_	_	_	_	_	_	_	(1
+432_the_ambassadors_brat	0	57	inn	_	_	_	_	_	_	_	_	1)
+432_the_ambassadors_brat	0	58	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	even	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	invoked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	63	aid	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	66	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	67	look	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	68	round	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	69	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	70	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	71	the	_	_	_	_	_	_	_	_	(18
+432_the_ambassadors_brat	0	72	beauties	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	73	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	74	Liverpool	_	_	_	_	_	_	_	_	(7)|17)|18)
+432_the_ambassadors_brat	0	75	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	76	but	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	77	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	78	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	79	stolen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	80	away	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	81	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	82	every	_	_	_	_	_	_	_	_	(19
+432_the_ambassadors_brat	0	83	one	_	_	_	_	_	_	_	_	19)
+432_the_ambassadors_brat	0	84	alike	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	85	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	86	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	87	kept	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	88	no	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	89	appointment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	90	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	91	renewed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	92	no	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	93	acquaintance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	94	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	95	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	96	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	97	indifferently	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	98	aware	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	99	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	100	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	101	number	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	102	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	103	persons	_	_	_	_	_	_	_	_	(20
+432_the_ambassadors_brat	0	104	who	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	105	esteemed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	106	themselves	_	_	_	_	_	_	_	_	(20)
+432_the_ambassadors_brat	0	107	fortunate	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	108	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	109	being	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	110	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	111	unlike	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	112	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	113	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	114	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	115	met	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	116	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	117	"	_	_	_	_	_	_	_	_	20)
+432_the_ambassadors_brat	0	118	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	119	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	120	even	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	121	independently	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	122	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	123	unsociably	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	124	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	125	alone	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	126	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	127	without	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	128	encounter	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	129	or	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	130	relapse	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	131	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	132	by	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	133	mere	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	134	quiet	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	135	evasion	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	136	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	137	given	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	138	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	139	afternoon	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	140	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	141	evening	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	142	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	143	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	144	immediate	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	145	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	146	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	147	sensible	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	148	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	They	_	_	_	_	_	_	_	_	(20)
+432_the_ambassadors_brat	0	1	formed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	qualified	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	draught	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	Europe	_	_	_	_	_	_	_	_	(11)
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	an	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	afternoon	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	an	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	evening	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	banks	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	Mersey	_	_	_	_	_	_	_	_	(21)
+432_the_ambassadors_brat	0	19	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	but	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	such	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	26	took	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	28	potion	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	least	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	undiluted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	winced	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	little	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	truly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	thought	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	Waymarsh	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	12	might	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	already	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	Chester	_	_	_	_	_	_	_	_	(6)
+432_the_ambassadors_brat	0	17	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	19	reflected	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	should	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	24	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	describe	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	28	there	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	having	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	got	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	early	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	difficult	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	make	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	interval	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	look	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	particularly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	eager	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	but	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	52	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	like	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	a	_	_	_	_	_	_	_	_	(22
+432_the_ambassadors_brat	0	55	man	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	who	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	elatedly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	finding	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	his	_	_	_	_	_	_	_	_	(22)
+432_the_ambassadors_brat	0	62	pocket	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	more	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	money	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	66	usual	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	67	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	68	handles	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	69	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	70	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	71	while	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	72	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	73	idly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	74	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	75	pleasantly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	76	chinks	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	77	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	78	before	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	79	addressing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	80	himself	_	_	_	_	_	_	_	_	(22)
+432_the_ambassadors_brat	0	81	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	82	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	83	business	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	84	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	85	spending	_	_	_	_	_	_	_	_	22)
+432_the_ambassadors_brat	0	86	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	That	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	2	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	prepared	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	vague	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	Waymarsh	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	9	about	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	hour	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	the	_	_	_	_	_	_	_	_	(14
+432_the_ambassadors_brat	0	14	ship	_	_	_	_	_	_	_	_	14)
+432_the_ambassadors_brat	0	15	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	touching	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	21	both	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	wanted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	extremely	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	see	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	him	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	27	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	enjoyed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	extremely	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	duration	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	delay	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	these	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	things	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	is	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	conceived	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	early	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	signs	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	49	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	51	relation	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	54	actual	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	errand	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	might	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	prove	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	none	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	simplest	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	burdened	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	poor	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	6	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	better	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	confessed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	outset	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	oddity	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	double	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	consciousness	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	There	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	detachment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	5	zeal	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	curiosity	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	10	indifference	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	After	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	the	_	_	_	_	_	_	_	_	(23
+432_the_ambassadors_brat	0	2	young	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	woman	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	glass	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	cage	_	_	_	_	_	_	_	_	23)
+432_the_ambassadors_brat	0	8	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	held	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	up	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	13	across	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	her	_	_	_	_	_	_	_	_	(23)
+432_the_ambassadors_brat	0	15	counter	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	pale-pink	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	leaflet	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	bearing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	his	_	_	_	_	_	_	_	_	(2|(0)
+432_the_ambassadors_brat	0	21	friend	_	_	_	_	_	_	_	_	2)
+432_the_ambassadors_brat	0	22	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	name	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	which	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	she	_	_	_	_	_	_	_	_	(23)
+432_the_ambassadors_brat	0	27	neatly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	pronounced	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	31	turned	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	away	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	find	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	36	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	the	_	_	_	_	_	_	_	_	(24
+432_the_ambassadors_brat	0	39	hall	_	_	_	_	_	_	_	_	24)
+432_the_ambassadors_brat	0	40	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	facing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	a	_	_	_	_	_	_	_	_	(25
+432_the_ambassadors_brat	0	43	lady	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	who	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	met	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	47	eyes	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	an	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	intention	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	suddenly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	determined	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	whose	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	features	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	freshly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	young	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	markedly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	fine	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	66	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	67	but	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	68	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	69	happy	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	70	terms	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	71	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	72	each	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	73	other	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	74	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	75	came	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	76	back	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	77	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	78	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	79	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	80	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	81	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	82	recent	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	83	vision	_	_	_	_	_	_	_	_	25)
+432_the_ambassadors_brat	0	84	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	For	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	moment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	they	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	4	stood	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	confronted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	then	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	moment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	placed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	12	:	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	14	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	noticed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	17	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	day	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	before	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	noticed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	23	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	his	_	_	_	_	_	_	_	_	(27|(0)
+432_the_ambassadors_brat	0	25	previous	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	inn	_	_	_	_	_	_	_	_	27)
+432_the_ambassadors_brat	0	27	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	where	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	again	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	the	_	_	_	_	_	_	_	_	(24
+432_the_ambassadors_brat	0	33	hall	_	_	_	_	_	_	_	_	24)
+432_the_ambassadors_brat	0	34	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	36	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	briefly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	engaged	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	some	_	_	_	_	_	_	_	_	(28
+432_the_ambassadors_brat	0	42	people	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	his	_	_	_	_	_	_	_	_	(14|(0)
+432_the_ambassadors_brat	0	45	own	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	ship	_	_	_	_	_	_	_	_	14)
+432_the_ambassadors_brat	0	47	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	company	_	_	_	_	_	_	_	_	28)
+432_the_ambassadors_brat	0	49	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Nothing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	actually	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	passed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	between	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	them	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	9	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	little	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	able	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	say	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	what	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	sign	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	24	face	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	27	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	first	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	occasion	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	name	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	ground	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	38	present	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	recognition	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Recognition	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	any	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	rate	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	appeared	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	prevail	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	9	own	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	side	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	well	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	which	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	only	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	added	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	mystery	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	All	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	2	now	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	began	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	by	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	saying	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	8	nevertheless	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	having	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	chanced	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	catch	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	17	enquiry	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	20	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	moved	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	ask	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	by	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	27	leave	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	possibly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	question	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	Mr.	_	_	_	_	_	_	_	_	(2
+432_the_ambassadors_brat	0	37	Waymarsh	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	Milrose	_	_	_	_	_	_	_	_	(29)
+432_the_ambassadors_brat	0	40	Connecticut	_	_	_	_	_	_	_	_	2)|(30)
+432_the_ambassadors_brat	0	41	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	Mr.	_	_	_	_	_	_	_	_	(2
+432_the_ambassadors_brat	0	43	Waymarsh	_	_	_	_	_	_	_	_	2)
+432_the_ambassadors_brat	0	44	the	_	_	_	_	_	_	_	_	(46
+432_the_ambassadors_brat	0	45	American	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	lawyer	_	_	_	_	_	_	_	_	46)
+432_the_ambassadors_brat	0	47	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	Oh	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	yes	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	6	replied	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	my	_	_	_	_	_	_	_	_	(2|(0)
+432_the_ambassadors_brat	0	10	very	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	well-known	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	friend	_	_	_	_	_	_	_	_	2)
+432_the_ambassadors_brat	0	13	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	1	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	meet	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	me	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	5	here	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	coming	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	up	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	Malvern	_	_	_	_	_	_	_	_	(31)
+432_the_ambassadors_brat	0	11	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	I	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	14	supposed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	he	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	16	'd	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	already	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	arrived	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	But	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	he	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	2	does	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	n't	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	come	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	till	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	later	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	I	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	10	'm	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	relieved	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	kept	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	him	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	17	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Do	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	you	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	2	know	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	him	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	4	?	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	"	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	wound	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	up	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	It	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	n't	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	till	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	after	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	6	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	spoken	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	10	became	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	aware	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	how	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	much	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	there	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	20	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	response	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	when	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	tone	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	28	own	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	rejoinder	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	well	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	play	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	something	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	more	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	41	face	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	something	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	more	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	is	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	its	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	apparently	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	usual	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	restless	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	light	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	seemed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	notify	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	60	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	2	've	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	met	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	him	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	5	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	Milrose	_	_	_	_	_	_	_	_	(29)
+432_the_ambassadors_brat	0	7	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	where	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	10	used	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	sometimes	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	good	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	while	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	ago	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	stay	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	22	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	friends	_	_	_	_	_	_	_	_	(32
+432_the_ambassadors_brat	0	24	there	_	_	_	_	_	_	_	_	(29)
+432_the_ambassadors_brat	0	25	who	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	friends	_	_	_	_	_	_	_	_	(32
+432_the_ambassadors_brat	0	28	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	his	_	_	_	_	_	_	_	_	32)|32)|(2)
+432_the_ambassadors_brat	0	30	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	33	've	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	his	_	_	_	_	_	_	_	_	(33|(2)
+432_the_ambassadors_brat	0	37	house	_	_	_	_	_	_	_	_	33)
+432_the_ambassadors_brat	0	38	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	1	wo	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	n't	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	answer	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	he	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	8	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	know	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	me	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	11	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	Strether	_	_	_	_	_	_	_	_	(0)|(25
+432_the_ambassadors_brat	0	14	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	new	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	acquaintance	_	_	_	_	_	_	_	_	25)
+432_the_ambassadors_brat	0	17	pursued	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	but	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	22	should	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	delighted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	see	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	him	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	28	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Perhaps	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	4	added	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	8	shall	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	I	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	12	'm	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	staying	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	over	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	.	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	"	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	She	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	1	paused	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	while	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	our	_	_	_	_	_	_	_	_	(0|(34)
+432_the_ambassadors_brat	0	4	friend	_	_	_	_	_	_	_	_	0)
+432_the_ambassadors_brat	0	5	took	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	these	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	things	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	good	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	deal	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	talk	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	already	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	passed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	They	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	1	even	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	vaguely	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	smiled	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	9	presently	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	observed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	Mr.	_	_	_	_	_	_	_	_	(2
+432_the_ambassadors_brat	0	13	Waymarsh	_	_	_	_	_	_	_	_	2)
+432_the_ambassadors_brat	0	14	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	no	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	doubt	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	easily	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	seen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	This	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	however	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	appeared	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	affect	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	the	_	_	_	_	_	_	_	_	(25
+432_the_ambassadors_brat	0	8	lady	_	_	_	_	_	_	_	_	25)
+432_the_ambassadors_brat	0	9	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	12	might	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	advanced	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	too	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	far	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	She	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	1	appeared	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	no	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	reserves	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	about	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	anything	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	Oh	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	5	said	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	he	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	9	wo	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	n't	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	care	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	!	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	"	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	3	immediately	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	thereupon	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	remarked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	8	believed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	10	knew	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	the	_	_	_	_	_	_	_	_	(35
+432_the_ambassadors_brat	0	12	Munsters	_	_	_	_	_	_	_	_	35)
+432_the_ambassadors_brat	0	13	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	the	_	_	_	_	_	_	_	_	(35
+432_the_ambassadors_brat	0	15	Munsters	_	_	_	_	_	_	_	_	35)
+432_the_ambassadors_brat	0	16	being	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	the	_	_	_	_	_	_	_	_	(28
+432_the_ambassadors_brat	0	18	people	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	20	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	seen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	23	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	Liverpool	_	_	_	_	_	_	_	_	(7)|28)
+432_the_ambassadors_brat	0	26	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	But	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	2	did	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	n't	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	happened	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	know	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	the	_	_	_	_	_	_	_	_	(35
+432_the_ambassadors_brat	0	10	Munsters	_	_	_	_	_	_	_	_	35)
+432_the_ambassadors_brat	0	11	well	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	enough	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	give	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	case	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	much	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	lift	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	they	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	25	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	left	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	together	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	over	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	mere	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	laid	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	table	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	conversation	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	1	qualification	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	mentioned	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	connexion	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	rather	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	removed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	placed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	dish	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	there	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	seemed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	nothing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	else	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	serve	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Their	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	1	attitude	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	remained	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	none	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	less	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	forsaking	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	board	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	effect	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	turn	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	give	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	them	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	26	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	appearance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	having	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	accepted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	each	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	other	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	an	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	absence	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	preliminaries	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	practically	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	complete	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	They	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	1	moved	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	along	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	the	_	_	_	_	_	_	_	_	(24
+432_the_ambassadors_brat	0	4	hall	_	_	_	_	_	_	_	_	24)
+432_the_ambassadors_brat	0	5	together	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	Strether	_	_	_	_	_	_	_	_	(0)|(25
+432_the_ambassadors_brat	0	9	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	companion	_	_	_	_	_	_	_	_	25)
+432_the_ambassadors_brat	0	11	threw	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	off	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	the	_	_	_	_	_	_	_	_	(1
+432_the_ambassadors_brat	0	15	hotel	_	_	_	_	_	_	_	_	1)
+432_the_ambassadors_brat	0	16	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	advantage	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	a	_	_	_	_	_	_	_	_	(36
+432_the_ambassadors_brat	0	21	garden	_	_	_	_	_	_	_	_	36)
+432_the_ambassadors_brat	0	22	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	aware	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	by	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	time	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	8	strange	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	inconsequence	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	:	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	12	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	shirked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	intimacies	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	the	_	_	_	_	_	_	_	_	(10
+432_the_ambassadors_brat	0	18	steamer	_	_	_	_	_	_	_	_	10)
+432_the_ambassadors_brat	0	19	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	muffled	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	shock	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	Waymarsh	_	_	_	_	_	_	_	_	(2)
+432_the_ambassadors_brat	0	26	only	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	find	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	30	forsaken	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	sudden	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	case	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	both	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	avoidance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	caution	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	passed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	under	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	unsought	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	protection	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	before	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	10	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	much	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	gone	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	up	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	his	_	_	_	_	_	_	_	_	(37|(0)
+432_the_ambassadors_brat	0	18	room	_	_	_	_	_	_	_	_	37)
+432_the_ambassadors_brat	0	19	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	into	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	the	_	_	_	_	_	_	_	_	(36
+432_the_ambassadors_brat	0	22	garden	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	the	_	_	_	_	_	_	_	_	(1
+432_the_ambassadors_brat	0	25	hotel	_	_	_	_	_	_	_	_	36)|1)
+432_the_ambassadors_brat	0	26	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	end	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	ten	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	minutes	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	agreed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	meet	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	there	_	_	_	_	_	_	_	_	(36)
+432_the_ambassadors_brat	0	39	again	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	soon	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	45	should	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	made	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	49	tidy	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	the	_	_	_	_	_	_	_	_	(0
+432_the_ambassadors_brat	0	52	dispenser	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	such	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	good	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	assurances	_	_	_	_	_	_	_	_	0)
+432_the_ambassadors_brat	0	57	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	wanted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	look	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	the	_	_	_	_	_	_	_	_	(38
+432_the_ambassadors_brat	0	6	town	_	_	_	_	_	_	_	_	38)
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	they	_	_	_	_	_	_	_	_	(26)
+432_the_ambassadors_brat	0	10	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	forthwith	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	look	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	together	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	It	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	almost	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	6	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	possession	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	received	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	13	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	a	_	_	_	_	_	_	_	_	(44
+432_the_ambassadors_brat	0	15	guest	_	_	_	_	_	_	_	_	44)
+432_the_ambassadors_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	1	acquaintance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	the	_	_	_	_	_	_	_	_	(38
+432_the_ambassadors_brat	0	4	place	_	_	_	_	_	_	_	_	38)
+432_the_ambassadors_brat	0	5	presented	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	7	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	manner	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	a	_	_	_	_	_	_	_	_	(45
+432_the_ambassadors_brat	0	12	hostess	_	_	_	_	_	_	_	_	45)
+432_the_ambassadors_brat	0	13	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	16	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	rueful	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	glance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	the	_	_	_	_	_	_	_	_	(23
+432_the_ambassadors_brat	0	22	lady	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	glass	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	cage	_	_	_	_	_	_	_	_	23)
+432_the_ambassadors_brat	0	27	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	It	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	if	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	this	_	_	_	_	_	_	_	_	(23
+432_the_ambassadors_brat	0	5	personage	_	_	_	_	_	_	_	_	23)
+432_the_ambassadors_brat	0	6	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	seen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	herself	_	_	_	_	_	_	_	_	(23)
+432_the_ambassadors_brat	0	9	instantly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	superseded	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	When	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	quarter	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	an	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	hour	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	8	came	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	down	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	what	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	his	_	_	_	_	_	_	_	_	(25|(0)
+432_the_ambassadors_brat	0	13	hostess	_	_	_	_	_	_	_	_	25)
+432_the_ambassadors_brat	0	14	saw	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	what	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	18	might	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	taken	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	vision	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	kindly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	adjusted	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	lean	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	slightly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	loose	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	figure	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	a	_	_	_	_	_	_	_	_	(0
+432_the_ambassadors_brat	0	38	man	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	middle	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	height	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	something	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	more	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	perhaps	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	middle	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	age	_	_	_	_	_	_	_	_	0)
+432_the_ambassadors_brat	0	51	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	a	_	_	_	_	_	_	_	_	(0
+432_the_ambassadors_brat	0	53	man	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	five-and-fifty	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	whose	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	most	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	immediate	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	signs	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	marked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	bloodless	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	brownness	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	66	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	67	face	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	68	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	69	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	70	thick	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	71	dark	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	72	moustache	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	73	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	74	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	75	characteristically	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	76	American	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	77	cut	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	78	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	79	growing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	80	strong	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	81	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	82	falling	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	83	low	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	84	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	85	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	86	head	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	87	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	88	hair	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	89	still	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	90	abundant	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	91	but	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	92	irregularly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	93	streaked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	94	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	95	grey	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	96	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	97	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	98	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	99	nose	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	100	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	101	bold	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	102	free	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	103	prominence	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	104	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	105	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	106	even	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	107	line	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	108	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	109	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	110	high	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	111	finish	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	112	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	113	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	114	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	115	might	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	116	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	117	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	118	called	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	119	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	120	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	121	which	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	122	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	123	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	124	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	125	certain	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	126	effect	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	127	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	128	mitigation	_	_	_	_	_	_	_	_	0)
+432_the_ambassadors_brat	0	129	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	A	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	perpetual	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	pair	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	glasses	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	astride	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	fine	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	ridge	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	line	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	unusually	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	deep	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	drawn	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	prolonged	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	pen-stroke	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	time	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	accompanying	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	curve	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	moustache	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	nostril	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	chin	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	did	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	something	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	complete	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	facial	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	furniture	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	an	_	_	_	_	_	_	_	_	(39
+432_the_ambassadors_brat	0	46	attentive	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	observer	_	_	_	_	_	_	_	_	39)
+432_the_ambassadors_brat	0	48	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	seen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	catalogued	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	spot	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	vision	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	other	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	party	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	66	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	67	appointment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	68	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	She	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	1	waited	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	4	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	the	_	_	_	_	_	_	_	_	(36
+432_the_ambassadors_brat	0	6	garden	_	_	_	_	_	_	_	_	36)
+432_the_ambassadors_brat	0	7	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	other	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	party	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	drawing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	pair	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	singularly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	fresh	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	soft	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	elastic	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	light	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	gloves	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	presenting	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	herself	_	_	_	_	_	_	_	_	(40)
+432_the_ambassadors_brat	0	27	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	superficial	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	readiness	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	which	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	35	approached	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	37	over	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	the	_	_	_	_	_	_	_	_	(41
+432_the_ambassadors_brat	0	39	small	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	smooth	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	lawn	_	_	_	_	_	_	_	_	41)
+432_the_ambassadors_brat	0	42	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	watery	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	English	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	sunshine	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	50	might	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	54	rougher	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	preparation	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	56	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	marked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	model	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	such	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	64	an	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	65	occasion	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	66	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	She	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	1	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	this	_	_	_	_	_	_	_	_	(25
+432_the_ambassadors_brat	0	4	lady	_	_	_	_	_	_	_	_	25)
+432_the_ambassadors_brat	0	5	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	perfect	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	plain	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	propriety	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	an	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	expensive	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	subdued	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	suitability	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	her	_	_	_	_	_	_	_	_	(0|(25)
+432_the_ambassadors_brat	0	18	companion	_	_	_	_	_	_	_	_	0)
+432_the_ambassadors_brat	0	19	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	free	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	analyse	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	but	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	struck	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	29	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	33	consciousness	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	it	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	instantly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	acute	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	quality	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	quite	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	new	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	47	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Before	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	reaching	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	3	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	4	stopped	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	grass	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	went	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	through	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	form	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	feeling	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	something	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	possibly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	forgotten	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	light	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	overcoat	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	26	carried	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	29	arm	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	yet	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	essence	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	act	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	no	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	more	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	impulse	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	gain	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	time	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Nothing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	could	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	odder	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	Strether	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	7	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	sense	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	11	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	at	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	moment	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	launched	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	something	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	which	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	sense	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	quite	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	disconnected	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	sense	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	31	past	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	which	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	literally	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	beginning	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	there	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	then	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	It	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	begun	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	fact	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	already	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	upstairs	_	_	_	_	_	_	_	_	(42)
+432_the_ambassadors_brat	0	7	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	before	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	dressing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	glass	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	struck	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	15	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	blocking	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	further	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	strangely	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	dimness	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	window	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	his	_	_	_	_	_	_	_	_	(43|(0)
+432_the_ambassadors_brat	0	29	dull	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	bedroom	_	_	_	_	_	_	_	_	43)
+432_the_ambassadors_brat	0	31	;	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	begun	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	sharper	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	survey	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	elements	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	Appearance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	44	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	long	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	time	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	moved	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	make	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	during	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	those	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	moments	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	felt	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	these	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	elements	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	be	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	much	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	15	hand	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	18	should	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	liked	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	then	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	fallen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	back	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	on	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	29	thought	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	they	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	were	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	33	precisely	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	matter	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	which	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	help	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	supposed	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	come	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	what	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	47	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	about	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	do	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	1	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	about	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	go	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	up	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	London	_	_	_	_	_	_	_	_	(16)
+432_the_ambassadors_brat	0	8	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	so	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	hat	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	necktie	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	might	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	wait	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	What	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	come	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	straight	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	7	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	ball	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	well-played	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	game	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	caught	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	moreover	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	less	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	neatly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	just	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	air	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	in	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	the	_	_	_	_	_	_	_	_	(25
+432_the_ambassadors_brat	0	29	person	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	30	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	32	friend	_	_	_	_	_	_	_	_	25)
+432_the_ambassadors_brat	0	33	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	having	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	seen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	chosen	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	39	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	air	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	achieved	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	possession	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	46	those	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	47	vague	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	48	qualities	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	49	and	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	50	quantities	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	51	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	52	collectively	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	53	figured	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	54	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	55	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	56	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	57	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	58	advantage	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	59	snatched	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	60	from	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	61	lucky	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	62	chances	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	63	.	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	Without	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	pomp	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	or	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	circumstance	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	certainly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	9	original	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	address	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	13	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	equally	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	with	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	17	own	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	response	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	19	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	had	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	he	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	24	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	26	sketched	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	28	himself	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	29	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	30	impression	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	31	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	32	her	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	33	as	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	34	:	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	35	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	36	Well	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	37	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	38	she	_	_	_	_	_	_	_	_	(25)
+432_the_ambassadors_brat	0	39	's	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	40	more	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	41	thoroughly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	42	civilized	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	43	--	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	44	!	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	45	"	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	If	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	"	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	More	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	thoroughly	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	than	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	WHOM	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	6	?	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	"	_	_	_	_	_	_	_	_	
+
+432_the_ambassadors_brat	0	0	would	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	1	not	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	2	have	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	3	been	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	4	for	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	5	him	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	6	a	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	7	sequel	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	8	to	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	9	this	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	10	remark	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	11	,	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	12	that	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	13	was	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	14	just	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	15	by	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	16	reason	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	17	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	18	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	19	deep	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	20	consciousness	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	21	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	22	the	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	23	bearing	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	24	of	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	25	his	_	_	_	_	_	_	_	_	(0)
+432_the_ambassadors_brat	0	26	comparison	_	_	_	_	_	_	_	_	
+432_the_ambassadors_brat	0	27	.	_	_	_	_	_	_	_	_	
+
+#end document

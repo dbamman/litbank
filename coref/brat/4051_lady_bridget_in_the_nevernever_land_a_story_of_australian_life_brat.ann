@@ -1,0 +1,430 @@
+T0	PROP_GPE 117 134	Leichardt 's Town
+T1	NOM_FAC 102 113	her cottage
+T2	PROP_LOC 264 289	the broad Leichardt River
+T3	NOM_FAC 195 203	a garden
+T4	NOM_FAC 379 390	the cottage
+T5	NOM_FAC 476 488	store closet
+T6	NOM_FAC 441 451	a bathroom
+T8	PROP_FAC 827 840	Covent Garden
+T9	PROP_PER 761 772	Joan Gildea
+T10	NOM_FAC 1550 1556	garden
+T12	NOM_FAC 1849 1859	The garden
+T13	NOM_FAC 2294 2304	the garden
+T14	NOM_LOC 2450 2459	the river
+T16	NOM_LOC 2631 2636	river
+T17	NOM_GPE 2728 2742	the whole town
+T18	NOM_LOC 2787 2796	the river
+T19	NOM_FAC 2844 2859	the main street
+T20	PROP_ORG 2937 2983	the Leichardt 's Land Steam Navigation Company
+T21	NOM_FAC 3236 3267	the big Parliamentary Buildings
+T23	NOM_GPE 3289 3297	the town
+T24	NOM_LOC 3332 3341	the river
+T25	NOM_FAC 3396 3417	over-grown old garden
+T27	NOM_PER 3728 3735	a widow
+T29	NOM_PER 3738 3758	a working journalist
+T33	PROP_GPE 4942 4951	Australia
+T34	PROP_PER 4789 4797	Mr Gibbs
+T35	PROP_PER 4809 4820	Joan Gildea
+T37	PROP_GPE 5272 5281	Australia
+T40	PROP_PER 5385 5406	Mr Joseph Chamberlain
+T42	PROP_PER 6093 6098	Gibbs
+T43	NOM_PER 6167 6181	a local artist
+T44	PROP_PER 6200 6213	Colin McKeith
+T47	PROP_FAC 6794 6812	Upper Brook Street
+T53	NOM_FAC 7764 7781	Government Houses
+T54	NOM_PER 7788 7813	the Special Correspondent
+T55	PROP_GPE 7945 7962	Leichardt 's Land
+T56	PROP_PER 8044 8063	Lady Bridget O'Hara
+T57	PROP_PER 8073 8078	Biddy
+T58	PROP_PER 8252 8260	Mr Gibbs
+T59	PROP_GPE 8351 8357	London
+T62	PROP_GPE 8610 8619	Vancouver
+T63	NOM_PER 8866 8910	a freely paragraphed newspaper correspondent
+T64	PROP_PER 9312 9324	Lady Bridget
+T65	PROP_GPE 9637 9645	Gaverick
+T67	PROP_GPE 9860 9875	South Belgravia
+T68	NOM_FAC 9910 9929	the Colonial Office
+T70	PROP_PER 9934 9942	Rosamond
+T71	PROP_GPE 10417 10421	Rome
+T72	PROP_GPE 10507 10514	England
+T74	PROP_PER 10464 10469	Chris
+T75	NOM_PER 10779 10799	their London friends
+T76	PROP_GPE 10785 10791	London
+T77	PROP_PER 10607 10612	Molly
+T78	PROP_PER 10841 10845	Luke
+T79	NOM_FAC 10737 10763	second-rate country houses
+T80	PROP_PER 10 20	Mrs Gildea
+T81	NOM_FAC 81 134	the veranda-study of her cottage in Leichardt 's Town
+T82	NOM_LOC 217 226	the cliff
+T83	PROP_LOC 230 243	the Emu Point
+T84	NOM_FAC 144 289	a primitive cottage of the old style , standing in a garden and built on the cliff -- the Emu Point side -- overlooking the broad Leichardt River
+T85	NOM_FAC 292 303	The veranda
+T7	NOM_FAC 534 545	the veranda
+T86	NOM_FAC 949 960	the veranda
+T87	PROP_PER 969 979	Mrs Gildea
+T88	NOM_FAC 1291 1302	the veranda
+T89	NOM_FAC 1421 1432	the veranda
+T90	NOM_FAC 1534 1545	the veranda
+T91	NOM_FAC 1627 1641	the store-room
+T11	NOM_FAC 1754 1761	veranda
+T92	PROP_PER 2473 2483	Mrs Gildea
+T93	PROP_LOC 2561 2570	Emu Point
+T15	NOM_LOC 2534 2543	the river
+T94	PROP_GPE 2607 2624	Leichardt 's Town
+T95	PROP_PER 2811 2821	Mrs Gildea
+T96	NOM_LOC 2863 2879	the Middle Point
+T97	NOM_FAC 2917 2983	The busy wharves of the Leichardt 's Land Steam Navigation Company
+T98	PROP_ORG 3004 3016	L.L.S.N. Co.
+T99	NOM_LOC 3072 3081	the water
+T100	NOM_FAC 3157 3178	the Botanical Gardens
+T22	NOM_FAC 3374 3391	the shady veranda
+T101	NOM_FAC 3420 3436	A pleasant study
+T28	NOM_PER 3498 3799	Australian-born Joan Gildea , who , on her marriage , had been transplanted into English soil , as care-free as a rose cut from the parent stem , and who now , after nearly twenty years , had returned to the scene of her youth -- a widow , a working journalist and shorn of most of her early illusions
+T26	NOM_LOC 3579 3591	English soil
+T30	NOM_PER 4649 4659	the editor
+T31	PROP_PER 4675 4690	the great Gibbs
+T32	NOM_PER 4693 4718	a potent newspaper-factor
+T102	NOM_PER 4834 4843	his staff
+T36	PROP_PER 5219 5227	Mr Gibbs
+T38	PROP_GPE 5526 5549	Australian Commonwealth
+T39	NOM_PER 5582 5622	THE IMPERIALIST 's Special Correspondent
+T41	PROP_PER 6267 6272	Biddy
+T103	NOM_PER 6391 6396	a Man
+T45	PROP_PER 6491 6501	Mrs Gildea
+T104	PROP_GPE 6815 6821	London
+T49	NOM_FAC 7035 7056	the short garden path
+T50	NOM_FAC 7064 7081	the veranda steps
+T105	NOM_PER 7009 7020	the postman
+T106	PROP_PER 7096 7106	Mrs Gildea
+T51	PROP_GPE 7322 7328	London
+T52	PROP_PER 7308 7318	Mrs Gildea
+T107	NOM_FAC 7308 7333	Mrs Gildea 's London flat
+T108	NOM_PER 7294 7333	the porter of Mrs Gildea 's London flat
+T109	PROP_PER 7457 7467	Mrs Gildea
+T110	NOM_FAC 7681 7700	various postoffices
+T111	PROP_PER 7965 7975	Mrs Gildea
+T112	NOM_FAC 8347 8362	her London flat
+T60	PROP_GPE 8499 8516	Leichardt 's Land
+T113	NOM_ORG 8487 8516	the Bank of Leichardt 's Land
+T114	NOM_ORG 7933 7962	the Bank of Leichardt 's Land
+T115	PROP_GPE 8576 8580	Rome
+T61	PROP_PER 8844 8854	Mrs Gildea
+T116	PROP_PER 8993 8998	BIDDY
+T117	PROP_PER 8999 9009	Mrs Gildea
+T118	NOM_PER 9132 9137	a MAN
+T119	PROP_PER 9173 9178	Biddy
+T121	NOM_PER 9452 9506	that section of society to which by birth she belonged
+T123	PROP_PER 9737 9747	Mrs Gildea
+T69	NOM_PER 9943 9951	his wife
+T124	PROP_PER 9890 9929	Sir Luke Tallant of the Colonial Office
+T125	PROP_PER 9978 9991	the Gavericks
+T126	NOM_PER 9955 9991	distant connections of the Gavericks
+T127	PROP_PER 9994 10006	Lady Bridget
+T129	PROP_PER 10326 10338	Dearest Joan
+T130	PROP_GPE 10368 10377	Vancouver
+T73	PROP_GPE 10450 10458	Montreux
+T131	PROP_PER 10474 10479	Molly
+T132	PROP_PER 10597 10602	Chris
+T133	PROP_PER 10850 10858	Rosamond
+T46	NOM_PER 6771 6791	Countess of Gaverick
+T134	PROP_PER 6765 6770	Eliza
+T135	PROP_PER 9619 9624	Eliza
+T136	NOM_PER 9610 9618	her aunt
+T158	PRON_PER 42 45	her
+T159	PRON_PER 70 73	she
+T160	PRON_PER 102 105	her
+T161	PRON_PER 996 1003	herself
+T162	PRON_PER 1009 1012	her
+T163	PRON_PER 2490 2493	she
+T164	PRON_PER 3036 3039	her
+T165	PRON_PER 3084 3087	she
+T166	PRON_PER 3537 3540	her
+T167	PRON_PER 3715 3718	her
+T168	PRON_PER 3780 3783	her
+T169	PRON_PER 3802 3805	Her
+T170	PRON_PER 3848 3851	her
+T171	PRON_PER 3976 3979	her
+T172	PRON_PER 4030 4033	her
+T173	PRON_PER 4088 4091	her
+T174	PRON_PER 4397 4400	She
+T175	PRON_PER 4452 4455	her
+T176	PRON_PER 4542 4545	she
+T177	PRON_PER 4612 4615	her
+T178	PRON_PER 4834 4837	his
+T179	PRON_PER 5033 5036	her
+T180	PRON_PER 5066 5069	she
+T181	PRON_PER 5291 5294	his
+T182	PRON_PER 5640 5643	She
+T183	PRON_PER 5711 5714	her
+T184	PRON_PER 5752 5755	She
+T185	PRON_PER 5919 5920	I
+T186	PRON_PER 5963 5964	I
+T187	PRON_PER 6027 6028	I
+T188	PRON_PER 6188 6189	I
+T189	PRON_PER 6225 6227	me
+T190	PRON_PER 6278 6280	me
+T191	PRON_PER 6292 6295	she
+T192	PRON_PER 6327 6329	me
+T193	PRON_PER 6347 6350	she
+T194	PRON_PER 6375 6376	I
+T195	PRON_PER 6412 6413	I
+T196	PRON_PER 6433 6436	her
+T197	PRON_PER 6476 6478	me
+T198	PRON_PER 6519 6522	she
+T199	PRON_PER 6676 6679	she
+T200	PRON_PER 6689 6692	her
+T201	PRON_PER 6855 6858	she
+T202	PRON_PER 6867 6870	her
+T203	PRON_PER 7128 7131	you
+T204	PRON_PER 7136 7138	He
+T205	PRON_PER 7415 7417	he
+T206	PRON_PER 7433 7436	his
+T207	PRON_PER 7447 7449	My
+T210	PRON_PER 7855 7858	her
+T211	PRON_PER 8091 8094	she
+T212	PRON_PER 8195 8198	she
+T213	PRON_PER 8290 8293	she
+T214	PRON_PER 8305 8307	he
+T215	PRON_PER 8325 8328	him
+T216	PRON_PER 8347 8350	her
+T217	PRON_PER 8433 8436	she
+T218	PRON_PER 8647 8650	her
+T219	PRON_PER 8774 8777	she
+T220	PRON_PER 8810 8813	her
+T221	PRON_PER 9050 9053	her
+T222	PRON_PER 9140 9143	She
+T223	PRON_PER 9283 9286	she
+T224	PRON_PER 9494 9497	she
+T225	PRON_PER 9541 9544	she
+T226	PRON_PER 9610 9613	her
+T228	PRON_PER 9943 9946	his
+T230	PRON_PER 10341 10344	You
+T231	PRON_PER 10358 10360	my
+T232	PRON_PER 10390 10391	I
+T233	PRON_PER 10402 10403	I
+T234	PRON_PER 10435 10436	I
+T235	PRON_PER 10492 10493	I
+T236	PRON_PER 10520 10524	them
+T237	PRON_PER 10527 10528	I
+T238	PRON_PER 10779 10784	their
+T239	PRON_PER 10808 10810	my
+T240	PROP_GPE 6783 6791	Gaverick
+T321	Mrs_Gildea-0 10 20	Mrs Gildea
+T399	Mrs_Gildea-0 42 45	her
+T400	Mrs_Gildea-0 70 73	she
+T322	veranda-1 81 134	the veranda-study of her cottage in Leichardt 's Town
+T242	her_cottage-2 102 113	her cottage
+T401	Mrs_Gildea-0 102 105	her
+T241	Leichardt__s_Town-3 117 134	Leichardt 's Town
+T244	a_garden-4 195 203	a garden
+T323	the_cliff-5 217 226	the cliff
+T324	the_Emu_Point-6 230 243	the Emu Point
+T243	the_broad_Leichardt_River-7 264 289	the broad Leichardt River
+T326	veranda-1 292 303	The veranda
+T245	her_cottage-2 379 390	the cottage
+T247	a_bathroom-8 441 451	a bathroom
+T246	store_closet-9 476 488	store closet
+T248	veranda-1 534 545	the veranda
+T250	Mrs_Gildea-0 761 772	Joan Gildea
+T249	Covent_Garden-10 827 840	Covent Garden
+T327	veranda-1 949 960	the veranda
+T328	Mrs_Gildea-0 969 979	Mrs Gildea
+T402	Mrs_Gildea-0 996 1003	herself
+T403	Mrs_Gildea-0 1009 1012	her
+T329	veranda-1 1291 1302	the veranda
+T330	veranda-1 1421 1432	the veranda
+T331	veranda-1 1534 1545	the veranda
+T251	a_garden-4 1550 1556	garden
+T332	store_closet-9 1627 1641	the store-room
+T252	veranda-1 1754 1761	veranda
+T253	a_garden-4 1849 1859	The garden
+T254	a_garden-4 2294 2304	the garden
+T255	the_broad_Leichardt_River-7 2450 2459	the river
+T333	Mrs_Gildea-0 2473 2483	Mrs Gildea
+T404	Mrs_Gildea-0 2490 2493	she
+T256	the_broad_Leichardt_River-7 2534 2543	the river
+T334	the_Emu_Point-6 2561 2570	Emu Point
+T335	Leichardt__s_Town-3 2607 2624	Leichardt 's Town
+T257	the_broad_Leichardt_River-7 2631 2636	river
+T258	Leichardt__s_Town-3 2728 2742	the whole town
+T259	the_broad_Leichardt_River-7 2787 2796	the river
+T336	Mrs_Gildea-0 2811 2821	Mrs Gildea
+T260	the_main_street-11 2844 2859	the main street
+T337	the_Middle_Point-12 2863 2879	the Middle Point
+T338	The_busy_wharves_of_the_Leichardt__s_Land_Steam_Navigation_Company-13 2917 2983	The busy wharves of the Leichardt 's Land Steam Navigation Company
+T261	LLSN-14 2937 2983	the Leichardt 's Land Steam Navigation Company
+T339	LLSN-14 3004 3016	L.L.S.N. Co.
+T405	Mrs_Gildea-0 3036 3039	her
+T340	the_broad_Leichardt_River-7 3072 3081	the water
+T406	Mrs_Gildea-0 3084 3087	she
+T341	the_Botanical_Gardens-15 3157 3178	the Botanical Gardens
+T262	the_big_Parliamentary_Buildings-16 3236 3267	the big Parliamentary Buildings
+T264	Leichardt__s_Town-3 3289 3297	the town
+T265	the_broad_Leichardt_River-7 3332 3341	the river
+T263	veranda-1 3374 3391	the shady veranda
+T266	a_garden-4 3396 3417	over-grown old garden
+T342	veranda-1 3420 3436	A pleasant study
+T269	Mrs_Gildea-0 3498 3799	Australian-born Joan Gildea , who , on her marriage , had been transplanted into English soil , as care-free as a rose cut from the parent stem , and who now , after nearly twenty years , had returned to the scene of her youth -- a widow , a working journalist and shorn of most of her early illusions
+T407	Mrs_Gildea-0 3537 3540	her
+T267	English_soil-17 3579 3591	English soil
+T408	Mrs_Gildea-0 3715 3718	her
+T409	Mrs_Gildea-0 3780 3783	her
+T410	Mrs_Gildea-0 3802 3805	Her
+T411	Mrs_Gildea-0 3848 3851	her
+T412	Mrs_Gildea-0 3976 3979	her
+T413	Mrs_Gildea-0 4030 4033	her
+T414	Mrs_Gildea-0 4088 4091	her
+T415	Mrs_Gildea-0 4397 4400	She
+T416	Mrs_Gildea-0 4452 4455	her
+T417	Mrs_Gildea-0 4542 4545	she
+T418	Mrs_Gildea-0 4612 4615	her
+T271	the_editor-18 4649 4659	the editor
+T275	the_editor-18 4789 4797	Mr Gibbs
+T276	Mrs_Gildea-0 4809 4820	Joan Gildea
+T343	his_staff-19 4834 4843	his staff
+T419	the_editor-18 4834 4837	his
+T274	Australia-20 4942 4951	Australia
+T420	Mrs_Gildea-0 5033 5036	her
+T421	Mrs_Gildea-0 5066 5069	she
+T277	the_editor-18 5219 5227	Mr Gibbs
+T278	Australia-20 5272 5281	Australia
+T422	the_editor-18 5291 5294	his
+T281	Mr_Joseph_Chamberlain-21 5385 5406	Mr Joseph Chamberlain
+T279	Australian_Commonwealth-22 5526 5549	Australian Commonwealth
+T280	Mrs_Gildea-0 5582 5622	THE IMPERIALIST 's Special Correspondent
+T423	Mrs_Gildea-0 5640 5643	She
+T424	Mrs_Gildea-0 5711 5714	her
+T425	Mrs_Gildea-0 5752 5755	She
+T426	Mrs_Gildea-0 5919 5920	I
+T427	Mrs_Gildea-0 5963 5964	I
+T428	Mrs_Gildea-0 6027 6028	I
+T283	the_editor-18 6093 6098	Gibbs
+T284	a_local_artist-23 6167 6181	a local artist
+T429	Mrs_Gildea-0 6188 6189	I
+T285	Colin_McKeith-24 6200 6213	Colin McKeith
+T430	Mrs_Gildea-0 6225 6227	me
+T282	Biddy-25 6267 6272	Biddy
+T431	Mrs_Gildea-0 6278 6280	me
+T432	Biddy-25 6292 6295	she
+T433	Mrs_Gildea-0 6327 6329	me
+T434	Biddy-25 6347 6350	she
+T435	Mrs_Gildea-0 6375 6376	I
+T344	a_Man-26 6391 6396	a Man
+T436	Mrs_Gildea-0 6412 6413	I
+T437	Biddy-25 6433 6436	her
+T438	Mrs_Gildea-0 6476 6478	me
+T286	Mrs_Gildea-0 6491 6501	Mrs Gildea
+T439	Mrs_Gildea-0 6519 6522	she
+T440	Mrs_Gildea-0 6676 6679	she
+T441	Mrs_Gildea-0 6689 6692	her
+T375	Eliza-27 6765 6770	Eliza
+T287	Eliza-27 6771 6791	Countess of Gaverick
+T481	Gaverick-28 6783 6791	Gaverick
+T288	Upper_Brook_Street-29 6794 6812	Upper Brook Street
+T345	London-30 6815 6821	London
+T442	Mrs_Gildea-0 6855 6858	she
+T443	Mrs_Gildea-0 6867 6870	her
+T346	the_postman-31 7009 7020	the postman
+T290	the_short_garden_path-32 7035 7056	the short garden path
+T291	the_veranda_steps-33 7064 7081	the veranda steps
+T347	Mrs_Gildea-0 7096 7106	Mrs Gildea
+T444	Mrs_Gildea-0 7128 7131	you
+T445	the_postman-31 7136 7138	He
+T349	the_porter_of_Mrs_Gildea__s_London_flat-34 7294 7333	the porter of Mrs Gildea 's London flat
+T293	Mrs_Gildea-0 7308 7318	Mrs Gildea
+T348	London_flat-35 7308 7333	Mrs Gildea 's London flat
+T292	London-30 7322 7328	London
+T446	the_postman-31 7415 7417	he
+T447	the_postman-31 7433 7436	his
+T448	Mrs_Gildea-0 7447 7449	My
+T350	Mrs_Gildea-0 7457 7467	Mrs Gildea
+T351	various_postoffices-36 7681 7700	various postoffices
+T294	Government_Houses-37 7764 7781	Government Houses
+T295	Biddy-25 7788 7813	the Special Correspondent
+T451	Biddy-25 7855 7858	her
+T355	the_Bank_of_Leichardt__s_Land-38 7933 7962	the Bank of Leichardt 's Land
+T296	Leichardt__s_Land-39 7945 7962	Leichardt 's Land
+T352	Mrs_Gildea-0 7965 7975	Mrs Gildea
+T297	Biddy-25 8044 8063	Lady Bridget O'Hara
+T298	Biddy-25 8073 8078	Biddy
+T452	Mrs_Gildea-0 8091 8094	she
+T453	Mrs_Gildea-0 8195 8198	she
+T299	the_editor-18 8252 8260	Mr Gibbs
+T454	Mrs_Gildea-0 8290 8293	she
+T455	the_editor-18 8305 8307	he
+T456	the_editor-18 8325 8328	him
+T353	London_flat-35 8347 8362	her London flat
+T457	Mrs_Gildea-0 8347 8350	her
+T300	London-30 8351 8357	London
+T458	Mrs_Gildea-0 8433 8436	she
+T354	the_Bank_of_Leichardt__s_Land-38 8487 8516	the Bank of Leichardt 's Land
+T301	Leichardt__s_Land-39 8499 8516	Leichardt 's Land
+T356	Rome-40 8576 8580	Rome
+T303	Vancouver-41 8610 8619	Vancouver
+T459	Mrs_Gildea-0 8647 8650	her
+T460	Mrs_Gildea-0 8774 8777	she
+T461	Mrs_Gildea-0 8810 8813	her
+T302	Mrs_Gildea-0 8844 8854	Mrs Gildea
+T357	Biddy-25 8993 8998	BIDDY
+T358	Mrs_Gildea-0 8999 9009	Mrs Gildea
+T462	Mrs_Gildea-0 9050 9053	her
+T359	a_MAN-42 9132 9137	a MAN
+T463	Mrs_Gildea-0 9140 9143	She
+T360	Biddy-25 9173 9178	Biddy
+T464	Mrs_Gildea-0 9283 9286	she
+T305	Biddy-25 9312 9324	Lady Bridget
+T362	that_section_of_society_to_which_by_birth_she_belonged-43 9452 9506	that section of society to which by birth she belonged
+T465	Biddy-25 9494 9497	she
+T466	Biddy-25 9541 9544	she
+T377	Eliza-27 9610 9618	her aunt
+T467	Biddy-25 9610 9613	her
+T376	Eliza-27 9619 9624	Eliza
+T306	Gaverick-28 9637 9645	Gaverick
+T364	Mrs_Gildea-0 9737 9747	Mrs Gildea
+T308	South_Belgravia-44 9860 9875	South Belgravia
+T365	Sir_Luke_Tallant_of_the_Colonial_Office-45 9890 9929	Sir Luke Tallant of the Colonial Office
+T309	the_Colonial_Office-46 9910 9929	the Colonial Office
+T311	Rosamond-47 9934 9942	Rosamond
+T310	Rosamond-47 9943 9951	his wife
+T469	Sir_Luke_Tallant_of_the_Colonial_Office-45 9943 9946	his
+T366	the_Gavericks-48 9978 9991	the Gavericks
+T368	Biddy-25 9994 10006	Lady Bridget
+T370	Mrs_Gildea-0 10326 10338	Dearest Joan
+T471	Mrs_Gildea-0 10341 10344	You
+T472	Biddy-25 10358 10360	my
+T371	Vancouver-41 10368 10377	Vancouver
+T473	Biddy-25 10390 10391	I
+T474	Biddy-25 10402 10403	I
+T312	Rome-40 10417 10421	Rome
+T475	Biddy-25 10435 10436	I
+T314	Montreux-49 10450 10458	Montreux
+T315	Chris-50 10464 10469	Chris
+T372	Molly-51 10474 10479	Molly
+T476	Biddy-25 10492 10493	I
+T313	England-52 10507 10514	England
+T477	them-53 10520 10524	them
+T478	Biddy-25 10527 10528	I
+T373	Chris-50 10597 10602	Chris
+T318	Molly-51 10607 10612	Molly
+T320	second-rate_country_houses-54 10737 10763	second-rate country houses
+T316	their_London_friends-55 10779 10799	their London friends
+T479	them-53 10779 10784	their
+T317	London-30 10785 10791	London
+T480	Biddy-25 10808 10810	my
+T319	Sir_Luke_Tallant_of_the_Colonial_Office-45 10841 10845	Luke
+T374	Rosamond-47 10850 10858	Rosamond
+R4	appos Arg1:T32 Arg2:T122
+R5	cop Arg1:T63 Arg2:T61
+T120	PROP_PER 6731 6754	the Lady Bridget O'Hara
+T268	Biddy-25 6731 6754	the Lady Bridget O'Hara
+T482	PRON_FAC 137 139	It
+T483	her_cottage-2 137 139	It
+T494	PRON_LOC 2550 2552	it
+T495	the_broad_Leichardt_River-7 2550 2552	it
+T496	PRON_FAC 3465 3468	its
+T497	veranda-1 3465 3468	its
+R7	cop Arg1:T84 Arg2:T483
+T48	Mrs_Gildea-0 3728 3735	a widow
+T66	Mrs_Gildea-0 3738 3758	a working journalist
+T122	the_editor-18 4675 4690	the great Gibbs
+T128	connections-803 9955 9991	distant connections of the Gavericks

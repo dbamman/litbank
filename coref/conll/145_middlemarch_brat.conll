@@ -1,0 +1,2049 @@
+#begin document (145_middlemarch_brat); part 0
+145_middlemarch_brat	0	0	BOOK	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	I.	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	MISS	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	3	BROOKE	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	4	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	CHAPTER	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	I.	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	"	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	Since	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	I	_	_	_	_	_	_	_	_	(1)
+145_middlemarch_brat	0	5	can	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	do	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	no	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	good	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	because	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	a	_	_	_	_	_	_	_	_	(2
+145_middlemarch_brat	0	11	woman	_	_	_	_	_	_	_	_	2)
+145_middlemarch_brat	0	12	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	Reach	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	constantly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	something	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	is	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	near	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	The	_	_	_	_	_	_	_	_	(3
+145_middlemarch_brat	0	2	Maid	_	_	_	_	_	_	_	_	3)
+145_middlemarch_brat	0	3	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	Tragedy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	:	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	BEAUMONT	_	_	_	_	_	_	_	_	(4)
+145_middlemarch_brat	0	7	AND	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	FLETCHER	_	_	_	_	_	_	_	_	(5)
+145_middlemarch_brat	0	9	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Miss	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	1	Brooke	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	2	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	kind	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	beauty	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	seems	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	thrown	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	into	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	relief	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	poor	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	dress	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	hand	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	wrist	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	so	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	finely	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	formed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	10	could	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	wear	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	sleeves	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	less	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	bare	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	style	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	than	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	those	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	the	_	_	_	_	_	_	_	_	(6
+145_middlemarch_brat	0	23	Blessed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	Virgin	_	_	_	_	_	_	_	_	6)
+145_middlemarch_brat	0	25	appeared	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	Italian	_	_	_	_	_	_	_	_	(7
+145_middlemarch_brat	0	28	painters	_	_	_	_	_	_	_	_	7)
+145_middlemarch_brat	0	29	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	32	profile	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	well	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	37	stature	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	bearing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	seemed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	gain	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	more	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	dignity	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	48	plain	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	garments	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	side	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	provincial	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	fashion	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	gave	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	60	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	impressiveness	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	fine	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	65	quotation	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	Bible	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	one	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	75	our	_	_	_	_	_	_	_	_	(8|(9)
+145_middlemarch_brat	0	76	elder	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	77	poets	_	_	_	_	_	_	_	_	8)
+145_middlemarch_brat	0	78	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	79	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	80	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	81	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	82	paragraph	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	83	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	84	to-day	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	85	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	86	newspaper	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	87	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	She	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	usually	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	spoken	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	being	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	remarkably	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	clever	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	addition	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	her	_	_	_	_	_	_	_	_	(10|(0)
+145_middlemarch_brat	0	16	sister	_	_	_	_	_	_	_	_	10)
+145_middlemarch_brat	0	17	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	18	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	more	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	common-sense	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Nevertheless	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	3	wore	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	scarcely	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	more	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	trimmings	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	only	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	close	_	_	_	_	_	_	_	_	(11
+145_middlemarch_brat	0	14	observers	_	_	_	_	_	_	_	_	11)
+145_middlemarch_brat	0	15	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	her	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	17	dress	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	differed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	her	_	_	_	_	_	_	_	_	(0|(10)
+145_middlemarch_brat	0	21	sister	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	22	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	shade	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	coquetry	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	its	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	arrangements	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	Miss	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	36	Brooke	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	37	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	plain	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	dressing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	due	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	mixed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	conditions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	most	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	her	_	_	_	_	_	_	_	_	(10|(0)
+145_middlemarch_brat	0	51	sister	_	_	_	_	_	_	_	_	10)
+145_middlemarch_brat	0	52	shared	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	The	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	pride	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	being	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	ladies	_	_	_	_	_	_	_	_	(12)
+145_middlemarch_brat	0	5	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	something	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	do	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	:	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	Brooke	_	_	_	_	_	_	_	_	(13)
+145_middlemarch_brat	0	14	connections	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	though	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	exactly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	aristocratic	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	unquestionably	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	"	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	good	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	:	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	"	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	if	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	you	_	_	_	_	_	_	_	_	(14)
+145_middlemarch_brat	0	29	inquired	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	backward	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	generation	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	two	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	you	_	_	_	_	_	_	_	_	(15)
+145_middlemarch_brat	0	38	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	find	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	any	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	yard-measuring	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	parcel-tying	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	forefathers	_	_	_	_	_	_	_	_	(16)
+145_middlemarch_brat	0	46	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	anything	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	lower	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	than	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	an	_	_	_	_	_	_	_	_	(17
+145_middlemarch_brat	0	51	admiral	_	_	_	_	_	_	_	_	17)
+145_middlemarch_brat	0	52	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	clergyman	_	_	_	_	_	_	_	_	(18)
+145_middlemarch_brat	0	55	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	there	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	even	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	an	_	_	_	_	_	_	_	_	(19
+145_middlemarch_brat	0	61	ancestor	_	_	_	_	_	_	_	_	19)
+145_middlemarch_brat	0	62	discernible	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	a	_	_	_	_	_	_	_	_	(19
+145_middlemarch_brat	0	65	Puritan	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	gentleman	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	who	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	served	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	under	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	Cromwell	_	_	_	_	_	_	_	_	(20)|19)
+145_middlemarch_brat	0	71	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	afterwards	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	conformed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	75	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	76	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	77	managed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	78	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	79	come	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	80	out	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	81	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	82	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	83	political	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	84	troubles	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	85	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	86	the	_	_	_	_	_	_	_	_	(19
+145_middlemarch_brat	0	87	proprietor	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	88	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	89	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	90	respectable	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	91	family	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	92	estate	_	_	_	_	_	_	_	_	19)
+145_middlemarch_brat	0	93	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Young	_	_	_	_	_	_	_	_	(21
+145_middlemarch_brat	0	1	women	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	such	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	birth	_	_	_	_	_	_	_	_	21)
+145_middlemarch_brat	0	5	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	living	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	a	_	_	_	_	_	_	_	_	(22
+145_middlemarch_brat	0	9	quiet	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	country-house	_	_	_	_	_	_	_	_	22)
+145_middlemarch_brat	0	11	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	attending	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	a	_	_	_	_	_	_	_	_	(23
+145_middlemarch_brat	0	15	village	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	church	_	_	_	_	_	_	_	_	23)
+145_middlemarch_brat	0	17	hardly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	larger	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	than	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	a	_	_	_	_	_	_	_	_	(24
+145_middlemarch_brat	0	21	parlor	_	_	_	_	_	_	_	_	24)
+145_middlemarch_brat	0	22	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	naturally	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	regarded	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	frippery	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	ambition	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	a	_	_	_	_	_	_	_	_	(25|(26
+145_middlemarch_brat	0	31	huckster	_	_	_	_	_	_	_	_	25)
+145_middlemarch_brat	0	32	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	daughter	_	_	_	_	_	_	_	_	26)
+145_middlemarch_brat	0	34	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Then	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	there	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	well-bred	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	economy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	those	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	days	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	made	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	show	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	dress	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	first	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	item	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	deducted	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	when	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	any	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	margin	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	required	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	expenses	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	more	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	distinctive	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	rank	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Such	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	reasons	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	been	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	enough	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	account	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	plain	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	dress	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	quite	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	apart	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	religious	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	feeling	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	Miss	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	21	Brooke	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	22	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	case	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	religion	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	alone	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	determined	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	34	mildly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	acquiesced	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	her	_	_	_	_	_	_	_	_	(0|(10)
+145_middlemarch_brat	0	39	sister	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	40	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	sentiments	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	only	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	infusing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	them	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	common-sense	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	is	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	able	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	accept	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	momentous	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	doctrines	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	without	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	any	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	eccentric	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	agitation	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	knew	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	many	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	passages	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	Pascal	_	_	_	_	_	_	_	_	(27)
+145_middlemarch_brat	0	6	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	Pensees	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	Jeremy	_	_	_	_	_	_	_	_	(28
+145_middlemarch_brat	0	11	Taylor	_	_	_	_	_	_	_	_	28)
+145_middlemarch_brat	0	12	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	heart	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	18	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	destinies	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	mankind	_	_	_	_	_	_	_	_	(29)
+145_middlemarch_brat	0	22	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	seen	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	light	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	Christianity	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	made	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	solicitudes	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	feminine	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	fashion	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	appear	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	an	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	occupation	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	Bedlam	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	She	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	could	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	reconcile	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	anxieties	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	spiritual	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	life	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	involving	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	eternal	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	consequences	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	keen	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	interest	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	gimp	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	artificial	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	protrusions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	drapery	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	mind	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	theoretic	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	yearned	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	its	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	nature	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	after	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	some	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	lofty	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	conception	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	the	_	_	_	_	_	_	_	_	(30
+145_middlemarch_brat	0	16	world	_	_	_	_	_	_	_	_	30)
+145_middlemarch_brat	0	17	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	might	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	frankly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	include	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	the	_	_	_	_	_	_	_	_	(31
+145_middlemarch_brat	0	22	parish	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	Tipton	_	_	_	_	_	_	_	_	31)
+145_middlemarch_brat	0	25	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	27	own	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	rule	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	conduct	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	there	_	_	_	_	_	_	_	_	(31)
+145_middlemarch_brat	0	32	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	34	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	enamoured	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	intensity	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	greatness	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	rash	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	embracing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	whatever	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	seemed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	49	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	those	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	aspects	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	likely	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	seek	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	martyrdom	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	make	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	retractations	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	then	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	65	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	incur	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	martyrdom	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	after	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	quarter	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	where	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	75	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	76	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	77	sought	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	78	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	79	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Certainly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	such	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	elements	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	character	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	a	_	_	_	_	_	_	_	_	(32
+145_middlemarch_brat	0	8	marriageable	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	girl	_	_	_	_	_	_	_	_	32)
+145_middlemarch_brat	0	10	tended	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	interfere	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	15	lot	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	hinder	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	being	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	decided	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	according	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	custom	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	good	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	looks	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	vanity	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	merely	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	canine	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	affection	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	With	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	this	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	5	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	the	_	_	_	_	_	_	_	_	(90
+145_middlemarch_brat	0	7	elder	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	the	_	_	_	_	_	_	_	_	(21
+145_middlemarch_brat	0	10	sisters	_	_	_	_	_	_	_	_	21)|90)
+145_middlemarch_brat	0	11	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	yet	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	twenty	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	they	_	_	_	_	_	_	_	_	(21)
+145_middlemarch_brat	0	19	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	both	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	been	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	educated	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	since	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	they	_	_	_	_	_	_	_	_	(21)
+145_middlemarch_brat	0	26	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	about	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	twelve	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	years	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	old	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	lost	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	their	_	_	_	_	_	_	_	_	(33|(21)
+145_middlemarch_brat	0	35	parents	_	_	_	_	_	_	_	_	33)
+145_middlemarch_brat	0	36	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	plans	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	once	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	narrow	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	promiscuous	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	first	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	an	_	_	_	_	_	_	_	_	(34
+145_middlemarch_brat	0	48	English	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	family	_	_	_	_	_	_	_	_	34)
+145_middlemarch_brat	0	50	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	afterwards	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	a	_	_	_	_	_	_	_	_	(35
+145_middlemarch_brat	0	54	Swiss	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	family	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	Lausanne	_	_	_	_	_	_	_	_	(36)|35)
+145_middlemarch_brat	0	58	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	their	_	_	_	_	_	_	_	_	(37|(21)
+145_middlemarch_brat	0	60	bachelor	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	uncle	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	guardian	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	64	trying	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	65	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	this	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	way	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	remedy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	disadvantages	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	their	_	_	_	_	_	_	_	_	(21)
+145_middlemarch_brat	0	74	orphaned	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	75	condition	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	76	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	It	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	hardly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	year	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	since	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	they	_	_	_	_	_	_	_	_	(21)
+145_middlemarch_brat	0	7	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	come	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	live	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	Tipton	_	_	_	_	_	_	_	_	(38
+145_middlemarch_brat	0	13	Grange	_	_	_	_	_	_	_	_	38)
+145_middlemarch_brat	0	14	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	their	_	_	_	_	_	_	_	_	(37|(21)
+145_middlemarch_brat	0	16	uncle	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	17	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	a	_	_	_	_	_	_	_	_	(84
+145_middlemarch_brat	0	19	man	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	nearly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	sixty	_	_	_	_	_	_	_	_	84)
+145_middlemarch_brat	0	22	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	acquiescent	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	temper	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	miscellaneous	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	opinions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	uncertain	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	vote	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	He	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	1	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	travelled	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	his	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	5	younger	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	years	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	held	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	this	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	part	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	the	_	_	_	_	_	_	_	_	(39
+145_middlemarch_brat	0	16	county	_	_	_	_	_	_	_	_	39)
+145_middlemarch_brat	0	17	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	contracted	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	too	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	rambling	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	habit	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	mind	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Mr.	_	_	_	_	_	_	_	_	(37
+145_middlemarch_brat	0	1	Brooke	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	2	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	conclusions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	difficult	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	predict	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	weather	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	:	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	only	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	safe	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	say	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	he	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	21	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	act	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	benevolent	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	intentions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	he	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	30	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	spend	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	little	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	money	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	possible	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	carrying	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	them	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	out	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	For	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	most	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	glutinously	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	indefinite	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	minds	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	enclose	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	some	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	hard	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	grains	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	habit	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	a	_	_	_	_	_	_	_	_	(40
+145_middlemarch_brat	0	15	man	_	_	_	_	_	_	_	_	40)
+145_middlemarch_brat	0	16	has	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	been	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	seen	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	lax	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	about	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	his	_	_	_	_	_	_	_	_	(40)
+145_middlemarch_brat	0	23	own	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	interests	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	except	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	retention	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	his	_	_	_	_	_	_	_	_	(40)
+145_middlemarch_brat	0	30	snuff-box	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	concerning	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	he	_	_	_	_	_	_	_	_	(40)
+145_middlemarch_brat	0	35	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	watchful	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	suspicious	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	greedy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	clutch	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	In	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	Mr.	_	_	_	_	_	_	_	_	(37
+145_middlemarch_brat	0	2	Brooke	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	3	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	hereditary	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	strain	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	Puritan	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	energy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	clearly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	abeyance	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	his	_	_	_	_	_	_	_	_	(0|(37)
+145_middlemarch_brat	0	17	niece	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	18	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	19	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	glowed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	alike	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	through	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	faults	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	virtues	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	turning	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	sometimes	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	into	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	impatience	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	her	_	_	_	_	_	_	_	_	(37|(0)
+145_middlemarch_brat	0	33	uncle	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	34	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	talk	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	his	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	38	way	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	"	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	letting	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	things	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	"	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	his	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	47	estate	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	making	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	52	long	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	more	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	time	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	when	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	61	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	age	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	65	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	some	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	command	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	money	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	generous	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	schemes	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	She	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	regarded	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	an	_	_	_	_	_	_	_	_	(85
+145_middlemarch_brat	0	5	heiress	_	_	_	_	_	_	_	_	85)
+145_middlemarch_brat	0	6	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	only	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	the	_	_	_	_	_	_	_	_	(21
+145_middlemarch_brat	0	12	sisters	_	_	_	_	_	_	_	_	21)
+145_middlemarch_brat	0	13	seven	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	hundred	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	a-year	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	each	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	their	_	_	_	_	_	_	_	_	(33|(21)
+145_middlemarch_brat	0	19	parents	_	_	_	_	_	_	_	_	33)
+145_middlemarch_brat	0	20	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	if	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	24	married	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	a	_	_	_	_	_	_	_	_	(41
+145_middlemarch_brat	0	28	son	_	_	_	_	_	_	_	_	41)
+145_middlemarch_brat	0	29	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	that	_	_	_	_	_	_	_	_	(41
+145_middlemarch_brat	0	31	son	_	_	_	_	_	_	_	_	41)
+145_middlemarch_brat	0	32	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	inherit	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	Mr.	_	_	_	_	_	_	_	_	(37
+145_middlemarch_brat	0	35	Brooke	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	36	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	estate	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	presumably	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	worth	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	about	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	three	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	thousand	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	a-year	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	rental	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	seemed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	wealth	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	provincial	_	_	_	_	_	_	_	_	(42
+145_middlemarch_brat	0	53	families	_	_	_	_	_	_	_	_	42)
+145_middlemarch_brat	0	54	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	still	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	discussing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	Mr.	_	_	_	_	_	_	_	_	(43
+145_middlemarch_brat	0	58	Peel	_	_	_	_	_	_	_	_	43)
+145_middlemarch_brat	0	59	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	late	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	conduct	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	Catholic	_	_	_	_	_	_	_	_	(44)
+145_middlemarch_brat	0	65	question	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	innocent	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	future	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	gold-fields	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	75	gorgeous	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	76	plutocracy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	77	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	78	has	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	79	so	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	80	nobly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	81	exalted	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	82	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	83	necessities	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	84	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	85	genteel	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	86	life	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	87	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	And	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	how	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	should	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	4	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	marry	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	?	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	a	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	2	girl	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	so	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	handsome	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	such	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	prospects	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	9	?	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Nothing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	could	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	hinder	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	6	love	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	extremes	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	12	insistence	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	regulating	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	life	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	according	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	notions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	might	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	cause	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	a	_	_	_	_	_	_	_	_	(45
+145_middlemarch_brat	0	23	wary	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	man	_	_	_	_	_	_	_	_	45)
+145_middlemarch_brat	0	25	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	hesitate	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	before	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	he	_	_	_	_	_	_	_	_	(45)
+145_middlemarch_brat	0	29	made	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	31	an	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	offer	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	even	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	might	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	lead	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	39	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	last	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	refuse	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	offers	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	A	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	1	young	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	lady	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	some	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	birth	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	fortune	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	8	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	who	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	knelt	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	suddenly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	down	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	brick	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	floor	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	side	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	a	_	_	_	_	_	_	_	_	(46
+145_middlemarch_brat	0	22	sick	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	laborer	_	_	_	_	_	_	_	_	46)
+145_middlemarch_brat	0	24	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	prayed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	fervidly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	if	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	30	thought	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	herself	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	32	living	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	time	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	the	_	_	_	_	_	_	_	_	(47
+145_middlemarch_brat	0	38	Apostles	_	_	_	_	_	_	_	_	47)
+145_middlemarch_brat	0	39	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	who	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	strange	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	whims	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	fasting	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	like	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	a	_	_	_	_	_	_	_	_	(48
+145_middlemarch_brat	0	48	Papist	_	_	_	_	_	_	_	_	48)
+145_middlemarch_brat	0	49	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	sitting	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	up	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	night	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	read	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	old	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	theological	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	books	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	!	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Such	_	_	_	_	_	_	_	_	(49
+145_middlemarch_brat	0	1	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	wife	_	_	_	_	_	_	_	_	49)
+145_middlemarch_brat	0	3	might	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	awaken	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	you	_	_	_	_	_	_	_	_	(50)
+145_middlemarch_brat	0	6	some	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	fine	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	morning	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	new	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	scheme	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	application	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	her	_	_	_	_	_	_	_	_	(49)
+145_middlemarch_brat	0	18	income	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	interfere	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	political	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	economy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	keeping	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	saddle-horses	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	:	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	a	_	_	_	_	_	_	_	_	(51
+145_middlemarch_brat	0	32	man	_	_	_	_	_	_	_	_	51)
+145_middlemarch_brat	0	33	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	naturally	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	think	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	twice	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	before	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	he	_	_	_	_	_	_	_	_	(51)
+145_middlemarch_brat	0	39	risked	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	himself	_	_	_	_	_	_	_	_	(51)
+145_middlemarch_brat	0	41	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	such	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	fellowship	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Women	_	_	_	_	_	_	_	_	(52)
+145_middlemarch_brat	0	1	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	expected	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	weak	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	opinions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	great	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	safeguard	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	society	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	domestic	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	life	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	opinions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	acted	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Sane	_	_	_	_	_	_	_	_	(53
+145_middlemarch_brat	0	1	people	_	_	_	_	_	_	_	_	53)
+145_middlemarch_brat	0	2	did	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	what	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	their	_	_	_	_	_	_	_	_	(54|(53)
+145_middlemarch_brat	0	5	neighbors	_	_	_	_	_	_	_	_	54)
+145_middlemarch_brat	0	6	did	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	so	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	if	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	any	_	_	_	_	_	_	_	_	(55
+145_middlemarch_brat	0	12	lunatics	_	_	_	_	_	_	_	_	55)
+145_middlemarch_brat	0	13	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	large	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	one	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	might	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	know	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	avoid	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	them	_	_	_	_	_	_	_	_	(55)
+145_middlemarch_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	The	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	rural	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	opinion	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	about	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	the	_	_	_	_	_	_	_	_	(21
+145_middlemarch_brat	0	5	new	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	young	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	ladies	_	_	_	_	_	_	_	_	21)
+145_middlemarch_brat	0	8	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	even	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	among	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	the	_	_	_	_	_	_	_	_	(56
+145_middlemarch_brat	0	12	cottagers	_	_	_	_	_	_	_	_	56)
+145_middlemarch_brat	0	13	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	generally	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	favor	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	20	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	being	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	so	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	amiable	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	innocent-looking	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	while	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	Miss	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	30	Brooke	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	31	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	large	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	eyes	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	seemed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	like	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	38	religion	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	too	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	unusual	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	striking	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Poor	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	2	!	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	compared	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	3	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	the	_	_	_	_	_	_	_	_	(10
+145_middlemarch_brat	0	5	innocent-looking	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	Celia	_	_	_	_	_	_	_	_	10)
+145_middlemarch_brat	0	7	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	knowing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	worldly-wise	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	so	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	much	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	subtler	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	is	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	human	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	mind	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	than	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	outside	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	tissues	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	make	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	sort	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	blazonry	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	clock-face	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Yet	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	those	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	who	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	approached	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	5	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	though	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	prejudiced	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	against	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	10	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	this	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	alarming	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	hearsay	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	found	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	18	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	charm	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	unaccountably	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	reconcilable	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Most	_	_	_	_	_	_	_	_	(57
+145_middlemarch_brat	0	1	men	_	_	_	_	_	_	_	_	57)
+145_middlemarch_brat	0	2	thought	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	4	bewitching	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	when	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	7	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	horseback	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	She	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	loved	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	fresh	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	air	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	various	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	aspects	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	the	_	_	_	_	_	_	_	_	(58
+145_middlemarch_brat	0	11	country	_	_	_	_	_	_	_	_	58)
+145_middlemarch_brat	0	12	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	when	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	16	eyes	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	cheeks	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	glowed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	mingled	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	pleasure	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	24	looked	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	very	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	little	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	like	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	a	_	_	_	_	_	_	_	_	(59
+145_middlemarch_brat	0	29	devotee	_	_	_	_	_	_	_	_	59)
+145_middlemarch_brat	0	30	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Riding	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	an	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	indulgence	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	6	allowed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	herself	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	8	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	spite	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	conscientious	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	qualms	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	15	felt	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	18	enjoyed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	pagan	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	sensuous	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	way	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	always	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	looked	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	forward	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	renouncing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	She	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	open	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	ardent	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	least	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	self-admiring	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	indeed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	pretty	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	see	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	how	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	22	imagination	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	adorned	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	her	_	_	_	_	_	_	_	_	(10|(0)
+145_middlemarch_brat	0	25	sister	_	_	_	_	_	_	_	_	10)
+145_middlemarch_brat	0	26	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	27	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	attractions	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	altogether	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	superior	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	33	own	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	if	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	any	_	_	_	_	_	_	_	_	(60
+145_middlemarch_brat	0	38	gentleman	_	_	_	_	_	_	_	_	60)
+145_middlemarch_brat	0	39	appeared	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	come	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	the	_	_	_	_	_	_	_	_	(38
+145_middlemarch_brat	0	44	Grange	_	_	_	_	_	_	_	_	38)
+145_middlemarch_brat	0	45	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	some	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	other	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	motive	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	than	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	seeing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	Mr.	_	_	_	_	_	_	_	_	(37
+145_middlemarch_brat	0	54	Brooke	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	55	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	57	concluded	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	he	_	_	_	_	_	_	_	_	(60)
+145_middlemarch_brat	0	60	must	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	love	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	65	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	66	:	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	Sir	_	_	_	_	_	_	_	_	(61
+145_middlemarch_brat	0	68	James	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	Chettam	_	_	_	_	_	_	_	_	61)
+145_middlemarch_brat	0	70	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	example	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	whom	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	75	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	76	constantly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	77	considered	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	78	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	79	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	80	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	81	point	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	82	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	83	view	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	84	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	85	inwardly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	86	debating	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	87	whether	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	88	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	89	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	90	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	91	good	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	92	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	93	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	94	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	95	accept	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	96	him	_	_	_	_	_	_	_	_	(61)
+145_middlemarch_brat	0	97	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	That	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	he	_	_	_	_	_	_	_	_	(61)
+145_middlemarch_brat	0	2	should	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	regarded	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	a	_	_	_	_	_	_	_	_	(62
+145_middlemarch_brat	0	7	suitor	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	herself	_	_	_	_	_	_	_	_	62)|(0)
+145_middlemarch_brat	0	10	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	seemed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	15	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	ridiculous	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	irrelevance	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	5	eagerness	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	know	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	truths	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	life	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	retained	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	very	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	childlike	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	ideas	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	about	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	marriage	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	She	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	1	felt	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	sure	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	5	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	accepted	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	the	_	_	_	_	_	_	_	_	(63
+145_middlemarch_brat	0	9	judicious	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	Hooker	_	_	_	_	_	_	_	_	63)
+145_middlemarch_brat	0	11	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	if	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	14	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	been	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	born	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	time	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	save	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	him	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	22	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	wretched	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	mistake	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	he	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	27	made	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	matrimony	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	John	_	_	_	_	_	_	_	_	(64
+145_middlemarch_brat	0	33	Milton	_	_	_	_	_	_	_	_	64)
+145_middlemarch_brat	0	34	when	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	his	_	_	_	_	_	_	_	_	(64)
+145_middlemarch_brat	0	36	blindness	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	come	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	or	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	any	_	_	_	_	_	_	_	_	(83
+145_middlemarch_brat	0	43	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	other	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	great	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	men	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	whose	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	odd	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	habits	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	would	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	have	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	been	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	glorious	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	piety	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	endure	_	_	_	_	_	_	_	_	83)
+145_middlemarch_brat	0	59	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	but	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	an	_	_	_	_	_	_	_	_	(65
+145_middlemarch_brat	0	62	amiable	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	handsome	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	baronet	_	_	_	_	_	_	_	_	65)
+145_middlemarch_brat	0	65	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	who	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	said	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	"	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	Exactly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	"	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	73	remarks	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	even	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	75	when	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	76	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	77	expressed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	78	uncertainty	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	79	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	80	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	81	how	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	82	could	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	83	he	_	_	_	_	_	_	_	_	(65)
+145_middlemarch_brat	0	84	affect	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	85	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	86	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	87	a	_	_	_	_	_	_	_	_	(86
+145_middlemarch_brat	0	88	lover	_	_	_	_	_	_	_	_	86)
+145_middlemarch_brat	0	89	?	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	The	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	really	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	delightful	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	marriage	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	must	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	where	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	your	_	_	_	_	_	_	_	_	(66|(67)
+145_middlemarch_brat	0	9	husband	_	_	_	_	_	_	_	_	66)
+145_middlemarch_brat	0	10	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	sort	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	father	_	_	_	_	_	_	_	_	(68)
+145_middlemarch_brat	0	15	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	could	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	teach	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	you	_	_	_	_	_	_	_	_	(69)
+145_middlemarch_brat	0	20	even	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	Hebrew	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	if	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	you	_	_	_	_	_	_	_	_	(70)
+145_middlemarch_brat	0	25	wished	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	These	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	peculiarities	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	Dorothea	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	4	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	character	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	6	caused	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	Mr.	_	_	_	_	_	_	_	_	(37
+145_middlemarch_brat	0	8	Brooke	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	9	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	more	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	blamed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	neighboring	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	families	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	securing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	some	_	_	_	_	_	_	_	_	(71
+145_middlemarch_brat	0	22	middle-aged	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	lady	_	_	_	_	_	_	_	_	71)
+145_middlemarch_brat	0	24	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	guide	_	_	_	_	_	_	_	_	(87
+145_middlemarch_brat	0	26	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	companion	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	his	_	_	_	_	_	_	_	_	(21|(37)
+145_middlemarch_brat	0	30	nieces	_	_	_	_	_	_	_	_	21)|87)
+145_middlemarch_brat	0	31	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	But	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	he	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	2	himself	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	3	dreaded	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	so	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	much	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	sort	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	superior	_	_	_	_	_	_	_	_	(72
+145_middlemarch_brat	0	10	woman	_	_	_	_	_	_	_	_	72)
+145_middlemarch_brat	0	11	likely	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	available	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	such	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	position	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	he	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	22	allowed	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	himself	_	_	_	_	_	_	_	_	(37)
+145_middlemarch_brat	0	24	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	dissuaded	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	by	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	29	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	objections	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	this	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	36	case	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	brave	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	enough	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	defy	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	the	_	_	_	_	_	_	_	_	(30
+145_middlemarch_brat	0	42	world	_	_	_	_	_	_	_	_	30)
+145_middlemarch_brat	0	43	--	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	45	is	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	46	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	say	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	Mrs.	_	_	_	_	_	_	_	_	(73
+145_middlemarch_brat	0	50	Cadwallader	_	_	_	_	_	_	_	_	73)
+145_middlemarch_brat	0	51	the	_	_	_	_	_	_	_	_	(88|(74
+145_middlemarch_brat	0	52	Rector	_	_	_	_	_	_	_	_	74)
+145_middlemarch_brat	0	53	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	wife	_	_	_	_	_	_	_	_	88)
+145_middlemarch_brat	0	55	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	the	_	_	_	_	_	_	_	_	(75
+145_middlemarch_brat	0	58	small	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	group	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	gentry	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	whom	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	he	_	_	_	_	_	_	_	_	(74)
+145_middlemarch_brat	0	65	visited	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	the	_	_	_	_	_	_	_	_	(76
+145_middlemarch_brat	0	68	northeast	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	corner	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	Loamshire	_	_	_	_	_	_	_	_	76)|75)
+145_middlemarch_brat	0	72	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	So	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	Miss	_	_	_	_	_	_	_	_	(0
+145_middlemarch_brat	0	2	Brooke	_	_	_	_	_	_	_	_	0)
+145_middlemarch_brat	0	3	presided	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	her	_	_	_	_	_	_	_	_	(37|(0)
+145_middlemarch_brat	0	6	uncle	_	_	_	_	_	_	_	_	37)
+145_middlemarch_brat	0	7	's	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	household	_	_	_	_	_	_	_	_	(22)
+145_middlemarch_brat	0	9	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	did	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	not	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	all	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	dislike	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	17	new	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	authority	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	homage	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	that	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	belonged	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	it	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Sir	_	_	_	_	_	_	_	_	(61
+145_middlemarch_brat	0	1	James	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	Chettam	_	_	_	_	_	_	_	_	61)
+145_middlemarch_brat	0	3	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	going	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	dine	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	at	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	Grange	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	to-day	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	another	_	_	_	_	_	_	_	_	(77
+145_middlemarch_brat	0	13	gentleman	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	whom	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	the	_	_	_	_	_	_	_	_	(21
+145_middlemarch_brat	0	16	girls	_	_	_	_	_	_	_	_	21)
+145_middlemarch_brat	0	17	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	never	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	seen	_	_	_	_	_	_	_	_	77)
+145_middlemarch_brat	0	20	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	about	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	whom	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	25	felt	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	some	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	venerating	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	expectation	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	This	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	Reverend	_	_	_	_	_	_	_	_	(77
+145_middlemarch_brat	0	4	Edward	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	Casaubon	_	_	_	_	_	_	_	_	77)
+145_middlemarch_brat	0	6	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	noted	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	the	_	_	_	_	_	_	_	_	(39
+145_middlemarch_brat	0	10	county	_	_	_	_	_	_	_	_	39)
+145_middlemarch_brat	0	11	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	a	_	_	_	_	_	_	_	_	(89
+145_middlemarch_brat	0	13	man	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	profound	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	learning	_	_	_	_	_	_	_	_	89)
+145_middlemarch_brat	0	17	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	18	understood	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	19	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	many	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	years	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	24	engaged	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	great	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	28	work	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	concerning	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	religious	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	history	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	;	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	33	also	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	34	as	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	a	_	_	_	_	_	_	_	_	(91
+145_middlemarch_brat	0	36	man	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	37	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	wealth	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	enough	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	give	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	lustre	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	his	_	_	_	_	_	_	_	_	(77)
+145_middlemarch_brat	0	45	piety	_	_	_	_	_	_	_	_	91)
+145_middlemarch_brat	0	46	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	having	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	views	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	his	_	_	_	_	_	_	_	_	(77)
+145_middlemarch_brat	0	52	own	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	53	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	were	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	more	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	clearly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	59	ascertained	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	publication	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	his	_	_	_	_	_	_	_	_	(77)
+145_middlemarch_brat	0	65	book	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	His	_	_	_	_	_	_	_	_	(77)
+145_middlemarch_brat	0	1	very	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	name	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	carried	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	an	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	5	impressiveness	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	hardly	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	be	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	9	measured	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	without	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	11	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	precise	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	13	chronology	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	scholarship	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+145_middlemarch_brat	0	0	Early	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	1	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	2	the	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	3	day	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	4	Dorothea	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	5	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	6	returned	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	7	from	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	8	the	_	_	_	_	_	_	_	_	(78
+145_middlemarch_brat	0	9	infant	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	10	school	_	_	_	_	_	_	_	_	78)
+145_middlemarch_brat	0	11	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	12	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	13	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	14	set	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	15	going	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	16	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	17	the	_	_	_	_	_	_	_	_	(79
+145_middlemarch_brat	0	18	village	_	_	_	_	_	_	_	_	79)
+145_middlemarch_brat	0	19	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	20	and	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	21	was	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	22	taking	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	23	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	24	usual	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	25	place	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	26	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	27	the	_	_	_	_	_	_	_	_	(80
+145_middlemarch_brat	0	28	pretty	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	29	sitting-room	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	30	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	31	divided	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	32	the	_	_	_	_	_	_	_	_	(81
+145_middlemarch_brat	0	33	bedrooms	_	_	_	_	_	_	_	_	81)
+145_middlemarch_brat	0	34	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	35	the	_	_	_	_	_	_	_	_	(21
+145_middlemarch_brat	0	36	sisters	_	_	_	_	_	_	_	_	80)|21)
+145_middlemarch_brat	0	37	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	38	bent	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	39	on	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	40	finishing	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	41	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	42	plan	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	43	for	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	44	some	_	_	_	_	_	_	_	_	(82
+145_middlemarch_brat	0	45	buildings	_	_	_	_	_	_	_	_	82)
+145_middlemarch_brat	0	46	(	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	47	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	48	kind	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	49	of	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	50	work	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	51	which	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	52	she	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	53	delighted	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	54	in	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	55	)	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	56	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	57	when	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	58	Celia	_	_	_	_	_	_	_	_	(10)
+145_middlemarch_brat	0	59	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	60	who	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	61	had	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	62	been	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	63	watching	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	64	her	_	_	_	_	_	_	_	_	(0)
+145_middlemarch_brat	0	65	with	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	66	a	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	67	hesitating	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	68	desire	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	69	to	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	70	propose	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	71	something	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	72	,	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	73	said	_	_	_	_	_	_	_	_	
+145_middlemarch_brat	0	74	--	_	_	_	_	_	_	_	_	
+
+#end document

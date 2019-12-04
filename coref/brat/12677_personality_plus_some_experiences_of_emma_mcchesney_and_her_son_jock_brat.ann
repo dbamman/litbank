@@ -1,0 +1,550 @@
+T0	NOM_PER 31 34	men
+T1	NOM_PER 19 25	MOTHER
+T5	NOM_PER 726 758	The Fourth Avenue antique dealer
+T6	NOM_PER 1066 1081	his predecessor
+T8	NOM_PER 1595 1636	the man who goes over Niagara in a barrel
+T9	NOM_PER 1555 1573	a skilled aëronaut
+T10	NOM_PER 1762 1784	an automobile salesman
+T11	NOM_PER 2230 2261	the unctuous , anxious stranger
+T12	NOM_PER 2358 2369	spellbinder
+T15	NOM_PER 2639 2655	the ballyhoo man
+T18	NOM_PER 2930 2951	an advertising expert
+T19	NOM_FAC 3086 3107	his mother 's bedroom
+T21	NOM_PER 3637 3644	her son
+T24	NOM_PER 4124 4127	Son
+T25	NOM_PER 4143 4155	business men
+T28	NOM_PER 4352 4380	the president of the company
+T30	NOM_PER 4334 4348	the office boy
+T33	NOM_FAC 4529 4541	his own room
+T34	NOM_PER 4642 4651	young men
+T35	NOM_PER 4681 4720	the biggest men in the advertising game
+T36	NOM_FAC 4761 4769	his room
+T37	NOM_PER 4808 4852	advertising manager of the Combs Car Company
+T38	NOM_PER 5399 5402	Son
+T39	NOM_PER 5901 5911	his mother
+T40	NOM_PER 6286 6294	this boy
+T46	NOM_PER 6757 6764	the boy
+T48	PROP_PER 6894 6898	Jock
+T49	NOM_VEH 6973 6984	street cars
+T50	NOM_PER 7204 7214	his mother
+T53	PROP_PER 7471 7485	Mrs. McChesney
+T54	PROP_PER 7831 7835	Jock
+T60	PROP_PER 8812 8826	Mrs. McChesney
+T62	NOM_PER 8933 8950	this boasting boy
+T63	NOM_PER 9140 9149	an Eskimo
+T64	NOM_PER 9152 9162	His mother
+T65	PROP_PER 9167 9181	Emma McChesney
+T66	NOM_PER 9205 9220	a modern mother
+T67	NOM_FAC 9299 9309	her office
+T69	PROP_PER 9607 9611	Jock
+T70	NOM_FAC 9615 9626	the hallway
+T71	NOM_FAC 9796 9800	home
+T72	NOM_GPE 50 56	cities
+T73	NOM_FAC 110 122	our highways
+T2	NOM_PER 201 402	That oily-tongued , persuasive , soft-stepping stranger in the rusty Prince Albert and the black string tie who had been wont to haunt our back steps and front offices with his carefully wrapped bundle
+T74	NOM_PER 123 143	a picturesque figure
+T75	NOM_FAC 355 368	front offices
+T76	NOM_FAC 507 540	the first twenty-story skyscraper
+T77	NOM_PER 580 601	a lightning-rod agent
+T3	NOM_FAC 631 723	a building whose tower was robed in clouds and which used the chain lightning for a necklace
+T4	NOM_FAC 726 743	The Fourth Avenue
+T78	NOM_PER 870 888	this quaint figure
+T79	NOM_FAC 1010 1081	the very building which had brought about the defeat of his predecessor
+T7	PROP_LOC 1617 1624	Niagara
+T80	NOM_LOC 1676 1684	the land
+T83	NOM_PER 2326 2337	a new being
+T13	NOM_PER 2348 2353	urger
+T14	NOM_PER 2584 2607	the silk-lined salesman
+T16	PROP_PER 2956 2970	Jock McChesney
+T17	NOM_PER 3086 3096	his mother
+T20	PROP_PER 3365 3369	Jock
+T84	PROP_PER 3518 3532	Emma McChesney
+T85	PROP_PER 3818 3832	Emma McChesney
+T22	NOM_PER 3983 4008	a man on a magazine cover
+T23	NOM_FAC 4277 4294	a business office
+T26	PROP_PER 4493 4497	Jock
+T27	NOM_PER 4730 4734	kids
+T29	PROP_PER 4798 4805	McQuirk
+T31	PROP_ORG 4831 4852	the Combs Car Company
+T32	PROP_PER 4975 4981	Hopper
+T86	NOM_ORG 4987 5013	the Berg , Shriner Company
+T87	NOM_PER 5133 5143	his mother
+T88	PROP_PER 5476 5481	Annie
+T89	NOM_PER 5539 5557	your lovely mother
+T90	NOM_PER 5595 5657	the slim young figure , in its English-fitting black and white
+T91	PROP_PER 5673 5687	Emma McChesney
+T41	NOM_ORG 6554 6597	the T.A. Buck Featherloom Petticoat Company
+T42	NOM_ORG 6621 6633	that company
+T44	NOM_PER 6608 6633	secretary of that company
+T43	NOM_VEH 6989 6997	L-trains
+T45	PROP_PER 7186 7190	Jock
+T47	NOM_PER 7488 7493	ma'am
+T51	NOM_VEH 7508 7521	a motor truck
+T52	NOM_PER 7562 7628	six strong men carrying my salary to the freight elevator in sacks
+T92	PROP_PER 7633 7647	Emma McChesney
+T93	PROP_PER 7762 7766	Jock
+T55	NOM_PER 8151 8161	a mere boy
+T56	PROP_PER 8192 8196	Jock
+T57	PROP_PER 8206 8220	Emma McChesney
+T58	NOM_PER 8449 8452	Son
+T94	PROP_PER 8519 8523	Jock
+T95	NOM_PER 8584 8600	a jealous blonde
+T59	NOM_PER 8645 8665	a captain of finance
+T96	NOM_PER 8669 8690	an advertising wizard
+T61	NOM_PER 8919 8950	the mother of this boasting boy
+T97	NOM_FAC 9409 9416	kitchen
+T98	NOM_FAC 9421 9432	dining-room
+T99	PROP_PER 9448 9453	Annie
+T100	NOM_PER 9456 9465	the adept
+T101	PROP_PER 9497 9502	Annie
+T102	PROP_PER 9526 9530	Jock
+T68	PROP_PER 9656 9661	Annie
+T105	NOM_PER 4319 4380	everybody from the office boy to the president of the company
+T106	NOM_PER 4654 4663	Everybody
+T107	NOM_PER 4190 4211	the advertising world
+T108	NOM_PER 8460 8479	no one but yourself
+T110	PRON_PER 110 113	our
+T111	PRON_PER 155 158	our
+T112	PRON_PER 336 339	our
+T113	PRON_PER 374 377	his
+T114	PRON_PER 558 560	we
+T115	PRON_PER 618 621	his
+T116	PRON_PER 787 790	his
+T117	PRON_PER 947 950	his
+T118	PRON_PER 959 961	He
+T119	PRON_PER 1066 1069	his
+T120	PRON_PER 1111 1114	his
+T121	PRON_PER 1157 1160	his
+T122	PRON_PER 1176 1178	he
+T123	PRON_PER 1293 1296	him
+T124	PRON_PER 1333 1336	his
+T125	PRON_PER 1379 1382	His
+T126	PRON_PER 1418 1421	his
+T127	PRON_PER 1485 1488	his
+T128	PRON_PER 1518 1521	him
+T129	PRON_PER 1646 1648	he
+T130	PRON_PER 1685 1687	we
+T131	PRON_PER 1733 1735	we
+T132	PRON_PER 1801 1803	we
+T133	PRON_PER 1829 1832	his
+T134	PRON_PER 1867 1869	us
+T135	PRON_PER 1910 1913	his
+T137	PRON_PER 1965 1967	he
+T139	PRON_PER 2030 2032	He
+T141	PRON_PER 2098 2100	We
+T142	PRON_PER 2111 2114	our
+T143	PRON_PER 2194 2196	we
+T144	PRON_PER 2204 2206	we
+T145	PRON_PER 2308 2311	his
+T146	PRON_PER 2370 2372	he
+T147	PRON_PER 2416 2419	his
+T148	PRON_PER 2434 2437	his
+T149	PRON_PER 2515 2517	he
+T150	PRON_PER 2535 2538	you
+T151	PRON_PER 2548 2551	His
+T152	PRON_PER 2684 2686	he
+T153	PRON_PER 2769 2771	we
+T154	PRON_PER 2785 2788	our
+T155	PRON_PER 2898 2900	we
+T156	PRON_PER 3086 3089	his
+T157	PRON_PER 3110 3113	His
+T158	PRON_PER 3203 3206	his
+T159	PRON_PER 3232 3235	his
+T160	PRON_PER 3283 3286	his
+T161	PRON_PER 3399 3402	his
+T162	PRON_PER 3434 3435	I
+T163	PRON_PER 3483 3485	he
+T164	PRON_PER 3559 3562	her
+T165	PRON_PER 3637 3640	her
+T166	PRON_PER 3663 3666	she
+T167	PRON_PER 3691 3692	I
+T168	PRON_PER 3702 3705	you
+T169	PRON_PER 3740 3742	He
+T170	PRON_PER 3870 3873	her
+T171	PRON_PER 3887 3890	her
+T172	PRON_PER 3893 3896	She
+T173	PRON_PER 3957 3958	I
+T174	PRON_PER 3969 3972	you
+T175	PRON_PER 4091 4094	you
+T176	PRON_PER 4158 4161	You
+T177	PRON_PER 4240 4244	your
+T178	PRON_PER 4263 4266	You
+T179	PRON_PER 4390 4393	you
+T180	PRON_PER 4399 4403	your
+T181	PRON_PER 4417 4420	She
+T182	PRON_PER 4441 4444	his
+T183	PRON_PER 4453 4454	I
+T184	PRON_PER 4529 4532	his
+T185	PRON_PER 4547 4550	his
+T186	PRON_PER 4559 4561	he
+T187	PRON_PER 4580 4583	his
+T188	PRON_PER 4621 4625	they
+T189	PRON_PER 4739 4741	He
+T190	PRON_PER 4761 4764	his
+T191	PRON_PER 4855 4857	He
+T192	PRON_PER 4870 4872	he
+T193	PRON_PER 4889 4896	himself
+T194	PRON_PER 5059 5061	he
+T195	PRON_PER 5077 5078	I
+T196	PRON_PER 5097 5100	you
+T197	PRON_PER 5107 5109	my
+T198	PRON_PER 5133 5136	his
+T199	PRON_PER 5241 5242	I
+T200	PRON_PER 5344 5347	you
+T201	PRON_PER 5454 5455	I
+T202	PRON_PER 5523 5526	you
+T203	PRON_PER 5539 5543	your
+T204	PRON_PER 5777 5780	his
+T205	PRON_PER 5809 5811	he
+T206	PRON_PER 5834 5837	his
+T207	PRON_PER 5901 5904	his
+T208	PRON_PER 5914 5917	She
+T211	PRON_PER 6229 6232	her
+T212	PRON_PER 6313 6316	his
+T213	PRON_PER 6337 6340	She
+T214	PRON_PER 6450 6453	her
+T215	PRON_PER 6459 6462	she
+T216	PRON_PER 6471 6474	her
+T217	PRON_PER 6522 6525	her
+T218	PRON_PER 6600 6603	She
+T219	PRON_PER 6735 6738	her
+T220	PRON_PER 6775 6778	him
+T221	PRON_PER 6800 6803	She
+T222	PRON_PER 6825 6827	He
+T223	PRON_PER 6839 6842	his
+T224	PRON_PER 6859 6860	I
+T225	PRON_PER 6929 6932	you
+T226	PRON_PER 7000 7001	I
+T227	PRON_PER 7041 7046	their
+T228	PRON_PER 7168 7171	you
+T229	PRON_PER 7204 7207	his
+T230	PRON_PER 7239 7242	You
+T232	PRON_PER 7312 7314	He
+T233	PRON_PER 7419 7421	he
+T234	PRON_PER 7460 7463	you
+T235	PRON_PER 7496 7498	we
+T236	PRON_PER 7586 7588	my
+T237	PRON_PER 7657 7660	her
+T238	PRON_PER 7721 7724	you
+T239	PRON_PER 7776 7779	you
+T241	PRON_PER 7856 7857	I
+T242	PRON_PER 7954 7955	I
+T243	PRON_PER 8020 8021	I
+T244	PRON_PER 8124 8128	they
+T245	PRON_PER 8145 8147	he
+T246	PRON_PER 8230 8233	you
+T247	PRON_PER 8313 8316	you
+T248	PRON_PER 8335 8338	you
+T251	PRON_PER 8436 8440	your
+T252	PRON_PER 8471 8479	yourself
+T254	PRON_PER 8553 8556	his
+T255	PRON_PER 8576 8579	You
+T256	PRON_PER 8605 8607	he
+T257	PRON_PER 8628 8629	I
+T258	PRON_PER 8693 8696	you
+T259	PRON_PER 8708 8709	I
+T260	PRON_PER 8743 8746	you
+T261	PRON_PER 8772 8775	You
+T262	PRON_PER 8800 8802	he
+T263	PRON_PER 8834 8837	her
+T264	PRON_PER 8856 8859	She
+T265	PRON_PER 8955 8956	I
+T266	PRON_PER 8975 8978	she
+T267	PRON_PER 9014 9017	her
+T268	PRON_PER 9032 9035	You
+T269	PRON_PER 9042 9046	they
+T270	PRON_PER 9063 9067	your
+T271	PRON_PER 9105 9107	He
+T272	PRON_PER 9152 9155	His
+T273	PRON_PER 9223 9226	she
+T274	PRON_PER 9299 9302	her
+T275	PRON_PER 9339 9342	she
+T276	PRON_PER 9362 9365	she
+T277	PRON_PER 9377 9380	she
+T278	PRON_PER 9588 9591	She
+T279	PRON_PER 9642 9645	her
+T280	PRON_PER 9666 9669	she
+T281	PRON_PER 9691 9693	us
+T282	PRON_PER 9701 9705	your
+T283	PRON_PER 9728 9731	you
+T284	PRON_PER 9734 9737	You
+T285	PRON_PER 9742 9744	he
+T286	PRON_PER 9748 9750	he
+T287	PRON_PER 9788 9790	he
+T288	men-1 31 34	men
+T360	cities-2 50 56	cities
+T361	our_highways-3 110 122	our highways
+T398	our-4 110 113	our
+T362	a_picturesque_figure-5 123 143	a picturesque figure
+T399	our-4 155 158	our
+T290	That_oily-tongued___persuasive___soft-stepping_stranger_in_the_rusty_Prince_Albert_and_the_black_string_tie_who_had_been_wont_to_haunt_our_back_steps_and_front_offices_with_his_carefully_wrapped_bundle-6 201 402	That oily-tongued , persuasive , soft-stepping stranger in the rusty Prince Albert and the black string tie who had been wont to haunt our back steps and front offices with his carefully wrapped bundle
+T400	our-4 336 339	our
+T363	front_offices-7 355 368	front offices
+T401	That_oily-tongued___persuasive___soft-stepping_stranger_in_the_rusty_Prince_Albert_and_the_black_string_tie_who_had_been_wont_to_haunt_our_back_steps_and_front_offices_with_his_carefully_wrapped_bundle-6 374 377	his
+T364	the_first_twenty-story_skyscraper-8 507 540	the first twenty-story skyscraper
+T402	our-4 558 560	we
+T365	a_lightning-rod_agent-9 580 601	a lightning-rod agent
+T403	That_oily-tongued___persuasive___soft-stepping_stranger_in_the_rusty_Prince_Albert_and_the_black_string_tie_who_had_been_wont_to_haunt_our_back_steps_and_front_offices_with_his_carefully_wrapped_bundle-6 618 621	his
+T291	the_first_twenty-story_skyscraper-8 631 723	a building whose tower was robed in clouds and which used the chain lightning for a necklace
+T293	The_Fourth_Avenue_antique_dealer-10 726 758	The Fourth Avenue antique dealer
+T292	The_Fourth_Avenue-11 726 743	The Fourth Avenue
+T404	The_Fourth_Avenue_antique_dealer-10 787 790	his
+T366	The_Fourth_Avenue_antique_dealer-10 870 888	this quaint figure
+T405	The_Fourth_Avenue_antique_dealer-10 947 950	his
+T406	replacer-12 959 961	He
+T367	the_first_twenty-story_skyscraper-8 1010 1081	the very building which had brought about the defeat of his predecessor
+T294	The_Fourth_Avenue_antique_dealer-10 1066 1081	his predecessor
+T407	replacer-12 1066 1069	his
+T408	replacer-12 1111 1114	his
+T409	replacer-12 1157 1160	his
+T410	replacer-12 1176 1178	he
+T411	replacer-12 1293 1296	him
+T412	replacer-12 1333 1336	his
+T413	replacer-12 1379 1382	His
+T414	replacer-12 1418 1421	his
+T415	replacer-12 1485 1488	his
+T416	replacer-12 1518 1521	him
+T297	a_skilled_a_ronaut-13 1555 1573	a skilled aëronaut
+T296	the_man_who_goes_over_Niagara_in_a_barrel-14 1595 1636	the man who goes over Niagara in a barrel
+T295	Niagara-15 1617 1624	Niagara
+T417	replacer-12 1646 1648	he
+T368	the_land-16 1676 1684	the land
+T418	our-4 1685 1687	we
+T419	our-4 1733 1735	we
+T298	an_automobile_salesman-17 1762 1784	an automobile salesman
+T420	our-4 1801 1803	we
+T421	replacer-12 1829 1832	his
+T422	our-4 1867 1869	us
+T423	replacer-12 1910 1913	his
+T425	replacer-12 1965 1967	he
+T427	replacer-12 2030 2032	He
+T429	our-4 2098 2100	We
+T430	our-4 2111 2114	our
+T431	our-4 2194 2196	we
+T432	our-4 2204 2206	we
+T299	replacer-12 2230 2261	the unctuous , anxious stranger
+T433	replacer-12 2308 2311	his
+T371	a_new_being-18 2326 2337	a new being
+T301	urger-100000 2348 2353	urger
+T300	spellbinder-100001 2358 2369	spellbinder
+T434	a_new_being-18 2370 2372	he
+T435	a_new_being-18 2416 2419	his
+T436	a_new_being-18 2434 2437	his
+T437	a_new_being-18 2515 2517	he
+T438	you-19 2535 2538	you
+T439	a_new_being-18 2548 2551	His
+T302	replacer-12 2584 2607	the silk-lined salesman
+T303	the_ballyhoo_man-20 2639 2655	the ballyhoo man
+T440	a_new_being-18 2684 2686	he
+T441	our-4 2769 2771	we
+T442	our-4 2785 2788	our
+T443	our-4 2898 2900	we
+T306	an_advertising_expert-21 2930 2951	an advertising expert
+T304	Jock_McChesney-22 2956 2970	Jock McChesney
+T307	his_mother__s_bedroom-23 3086 3107	his mother 's bedroom
+T305	his_mother-24 3086 3096	his mother
+T444	Jock_McChesney-22 3086 3089	his
+T445	Jock_McChesney-22 3110 3113	His
+T446	Jock_McChesney-22 3203 3206	his
+T447	Jock_McChesney-22 3232 3235	his
+T448	Jock_McChesney-22 3283 3286	his
+T308	Jock_McChesney-22 3365 3369	Jock
+T449	Jock_McChesney-22 3399 3402	his
+T450	Jock_McChesney-22 3434 3435	I
+T451	Jock_McChesney-22 3483 3485	he
+T372	his_mother-24 3518 3532	Emma McChesney
+T452	his_mother-24 3559 3562	her
+T309	Jock_McChesney-22 3637 3644	her son
+T453	his_mother-24 3637 3640	her
+T454	his_mother-24 3663 3666	she
+T455	his_mother-24 3691 3692	I
+T456	Jock_McChesney-22 3702 3705	you
+T457	Jock_McChesney-22 3740 3742	He
+T373	his_mother-24 3818 3832	Emma McChesney
+T458	his_mother-24 3870 3873	her
+T459	his_mother-24 3887 3890	her
+T460	his_mother-24 3893 3896	She
+T461	his_mother-24 3957 3958	I
+T462	Jock_McChesney-22 3969 3972	you
+T310	a_man_on_a_magazine_cover-26 3983 4008	a man on a magazine cover
+T463	Jock_McChesney-22 4091 4094	you
+T312	Jock_McChesney-22 4124 4127	Son
+T313	business_men-27 4143 4155	business men
+T464	Jock_McChesney-22 4158 4161	You
+T395	the_advertising_world-28 4190 4211	the advertising world
+T465	Jock_McChesney-22 4240 4244	your
+T466	Jock_McChesney-22 4263 4266	You
+T311	a_business_office-29 4277 4294	a business office
+T393	everybody_from_the_office_boy_to_the_president_of_the_company-30 4319 4380	everybody from the office boy to the president of the company
+T318	the_office_boy-31 4334 4348	the office boy
+T316	the_president_of_the_company-32 4352 4380	the president of the company
+T467	Jock_McChesney-22 4390 4393	you
+T468	Jock_McChesney-22 4399 4403	your
+T469	his_mother-24 4417 4420	She
+T470	Jock_McChesney-22 4441 4444	his
+T471	Jock_McChesney-22 4453 4454	I
+T314	Jock_McChesney-22 4493 4497	Jock
+T321	his_own_room-33 4529 4541	his own room
+T472	Jock_McChesney-22 4529 4532	his
+T473	Jock_McChesney-22 4547 4550	his
+T474	Jock_McChesney-22 4559 4561	he
+T475	Jock_McChesney-22 4580 4583	his
+T476	business_men-27 4621 4625	they
+T322	young_men-34 4642 4651	young men
+T394	Everybody-35 4654 4663	Everybody
+T323	the_biggest_men_in_the_advertising_game-36 4681 4720	the biggest men in the advertising game
+T477	Jock_McChesney-22 4739 4741	He
+T324	his_own_room-33 4761 4769	his room
+T478	Jock_McChesney-22 4761 4764	his
+T317	McQuirk-37 4798 4805	McQuirk
+T319	the_Combs_Car_Company-38 4831 4852	the Combs Car Company
+T479	McQuirk-37 4855 4857	He
+T480	McQuirk-37 4870 4872	he
+T481	McQuirk-37 4889 4896	himself
+T320	Hopper-39 4975 4981	Hopper
+T374	the_Berg___Shriner_Company-40 4987 5013	the Berg , Shriner Company
+T482	Hopper-39 5059 5061	he
+T483	Jock_McChesney-22 5077 5078	I
+T484	Jock_McChesney-22 5097 5100	you
+T485	his_mother-24 5107 5109	my
+T375	his_mother-24 5133 5143	his mother
+T486	Jock_McChesney-22 5133 5136	his
+T487	his_mother-24 5241 5242	I
+T488	Jock_McChesney-22 5344 5347	you
+T326	Jock_McChesney-22 5399 5402	Son
+T489	his_mother-24 5454 5455	I
+T376	Annie-41 5476 5481	Annie
+T490	Jock_McChesney-22 5523 5526	you
+T377	his_mother-24 5539 5557	your lovely mother
+T491	Jock_McChesney-22 5539 5543	your
+T378	Jock_McChesney-22 5595 5657	the slim young figure , in its English-fitting black and white
+T379	his_mother-24 5673 5687	Emma McChesney
+T492	Jock_McChesney-22 5777 5780	his
+T493	Jock_McChesney-22 5809 5811	he
+T494	Jock_McChesney-22 5834 5837	his
+T327	his_mother-24 5901 5911	his mother
+T495	Jock_McChesney-22 5901 5904	his
+T496	his_mother-24 5914 5917	She
+T499	his_mother-24 6229 6232	her
+T328	Jock_McChesney-22 6286 6294	this boy
+T500	Jock_McChesney-22 6313 6316	his
+T501	his_mother-24 6337 6340	She
+T502	his_mother-24 6450 6453	her
+T503	his_mother-24 6459 6462	she
+T504	his_mother-24 6471 6474	her
+T505	his_mother-24 6522 6525	her
+T329	the_T_A__Buck_Featherloom_Petticoat_Company-42 6554 6597	the T.A. Buck Featherloom Petticoat Company
+T506	his_mother-24 6600 6603	She
+T330	the_T_A__Buck_Featherloom_Petticoat_Company-42 6621 6633	that company
+T507	his_mother-24 6735 6738	her
+T334	Jock_McChesney-22 6757 6764	the boy
+T508	Jock_McChesney-22 6775 6778	him
+T509	his_mother-24 6800 6803	She
+T510	Jock_McChesney-22 6825 6827	He
+T511	Jock_McChesney-22 6839 6842	his
+T512	Jock_McChesney-22 6859 6860	I
+T336	Jock_McChesney-22 6894 6898	Jock
+T513	you-43 6929 6932	you
+T337	street_cars-44 6973 6984	street cars
+T331	L-trains-45 6989 6997	L-trains
+T514	Jock_McChesney-22 7000 7001	I
+T515	their-46 7041 7046	their
+T516	Jock_McChesney-22 7168 7171	you
+T333	Jock_McChesney-22 7186 7190	Jock
+T338	his_mother-24 7204 7214	his mother
+T517	Jock_McChesney-22 7204 7207	his
+T518	Jock_McChesney-22 7239 7242	You
+T520	Jock_McChesney-22 7312 7314	He
+T521	Jock_McChesney-22 7419 7421	he
+T522	his_mother-24 7460 7463	you
+T341	his_mother-24 7471 7485	Mrs. McChesney
+T335	his_mother-24 7488 7493	ma'am
+T523	we-48 7496 7498	we
+T339	a_motor_truck-49 7508 7521	a motor truck
+T340	six_strong_men_carrying_my_salary_to_the_freight_elevator_in_sacks-50 7562 7628	six strong men carrying my salary to the freight elevator in sacks
+T524	Jock_McChesney-22 7586 7588	my
+T380	his_mother-24 7633 7647	Emma McChesney
+T525	his_mother-24 7657 7660	her
+T526	Jock_McChesney-22 7721 7724	you
+T381	Jock_McChesney-22 7762 7766	Jock
+T527	Jock_McChesney-22 7776 7779	you
+T342	Jock_McChesney-22 7831 7835	Jock
+T529	Jock_McChesney-22 7856 7857	I
+T530	Jock_McChesney-22 7954 7955	I
+T531	Jock_McChesney-22 8020 8021	I
+T532	they-51 8124 8128	they
+T533	Jock_McChesney-22 8145 8147	he
+T344	Jock_McChesney-22 8192 8196	Jock
+T345	his_mother-24 8206 8220	Emma McChesney
+T534	Jock_McChesney-22 8230 8233	you
+T535	Jock_McChesney-22 8313 8316	you
+T536	Jock_McChesney-22 8335 8338	you
+T539	Jock_McChesney-22 8436 8440	your
+T346	Jock_McChesney-22 8449 8452	Son
+T396	no_one_but_yourself-100002 8460 8479	no one but yourself
+T540	Jock_McChesney-22 8471 8479	yourself
+T382	Jock_McChesney-22 8519 8523	Jock
+T542	Jock_McChesney-22 8553 8556	his
+T543	his_mother-24 8576 8579	You
+T544	Jock_McChesney-22 8605 8607	he
+T545	Jock_McChesney-22 8628 8629	I
+T546	his_mother-24 8693 8696	you
+T547	Jock_McChesney-22 8708 8709	I
+T548	his_mother-24 8743 8746	you
+T549	his_mother-24 8772 8775	You
+T550	Jock_McChesney-22 8800 8802	he
+T348	his_mother-24 8812 8826	Mrs. McChesney
+T551	his_mother-24 8834 8837	her
+T552	his_mother-24 8856 8859	She
+T349	his_mother-24 8919 8950	the mother of this boasting boy
+T350	Jock_McChesney-22 8933 8950	this boasting boy
+T553	his_mother-24 8955 8956	I
+T554	his_mother-24 8975 8978	she
+T555	his_mother-24 9014 9017	her
+T556	Jock_McChesney-22 9032 9035	You
+T557	business_men-27 9042 9046	they
+T558	Jock_McChesney-22 9063 9067	your
+T559	Jock_McChesney-22 9105 9107	He
+T351	an_Eskimo-52 9140 9149	an Eskimo
+T352	his_mother-24 9152 9162	His mother
+T560	Jock_McChesney-22 9152 9155	His
+T353	his_mother-24 9167 9181	Emma McChesney
+T354	his_mother-24 9205 9220	a modern mother
+T561	his_mother-24 9223 9226	she
+T355	her_office-53 9299 9309	her office
+T562	his_mother-24 9299 9302	her
+T563	his_mother-24 9339 9342	she
+T564	his_mother-24 9362 9365	she
+T565	his_mother-24 9377 9380	she
+T385	kitchen-54 9409 9416	kitchen
+T386	dining-room-55 9421 9432	dining-room
+T387	Annie-41 9448 9453	Annie
+T389	Annie-41 9497 9502	Annie
+T390	Jock_McChesney-22 9526 9530	Jock
+T566	his_mother-24 9588 9591	She
+T357	Jock_McChesney-22 9607 9611	Jock
+T358	the_hallway-56 9615 9626	the hallway
+T567	his_mother-24 9642 9645	her
+T356	Annie-41 9656 9661	Annie
+T568	his_mother-24 9666 9669	she
+T569	us-57 9691 9693	us
+T570	Annie-41 9701 9705	your
+T571	Annie-41 9728 9731	you
+T572	Annie-41 9734 9737	You
+T573	Jock_McChesney-22 9742 9744	he
+T574	Jock_McChesney-22 9748 9750	he
+T575	Jock_McChesney-22 9788 9790	he
+T359	home-58 9796 9800	home
+T289	his_mother-24 19 25	MOTHER
+R1	cop Arg1:T27 Arg2:T35
+R2	appos Arg1:T37 Arg2:T29
+R3	cop Arg1:T44 Arg2:T218
+R4	cop Arg1:T55 Arg2:T245
+R5	cop Arg1:T95 Arg2:T255
+R6	cop Arg1:T59 Arg2:T257
+R7	cop Arg1:T96 Arg2:T257
+R8	appos Arg1:T100 Arg2:T99
+T600	PRON_PER 5622 5625	its
+T601	Jock_McChesney-22 5622 5625	its
+T604	PRON_ORG 6661 6664	its
+T605	the_T_A__Buck_Featherloom_Petticoat_Company-42 6661 6664	its

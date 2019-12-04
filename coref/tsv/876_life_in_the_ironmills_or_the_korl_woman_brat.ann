@@ -1,0 +1,522 @@
+MENTION	T0	0	11	0	14	a town of iron-works	GPE	NOM
+MENTION	T2	4	30	4	30	Lynchburg	GPE	PROP
+MENTION	T3	4	26	4	27	drunken Irishmen	PER	NOM
+MENTION	T4	6	3	6	4	this town	GPE	NOM
+MENTION	T5	7	23	7	25	the muddy streets	FAC	NOM
+MENTION	T6	8	7	8	9	the dingy boats	VEH	NOM
+MENTION	T7	8	12	8	14	the yellow river	LOC	NOM
+MENTION	T8	9	11	9	13	the narrow street	FAC	NOM
+MENTION	T9	10	10	10	16	an angel pointing upward from the mantel-shelf	PER	NOM
+MENTION	T11	16	11	16	11	boats	VEH	NOM
+MENTION	T14	20	2	20	2	men	PER	NOM
+MENTION	T16	22	12	22	13	these men	PER	NOM
+MENTION	T17	23	3	23	4	the river	LOC	NOM
+MENTION	T20	26	3	26	8	the Welsh puddler passing just now	PER	NOM
+MENTION	T21	29	21	29	22	the coalboats	VEH	NOM
+MENTION	T22	29	39	29	40	this house	FAC	NOM
+MENTION	T23	40	5	40	5	Pantheist	PER	NOM
+MENTION	T24	40	8	40	8	Arminian	PER	PROP
+MENTION	T25	40	33	40	34	men here	PER	NOM
+MENTION	T26	43	0	43	1	These men	PER	NOM
+MENTION	T27	43	23	43	23	God	PER	PROP
+MENTION	T28	47	41	47	42	the world	LOC	NOM
+MENTION	T30	50	28	50	28	John	PER	PROP
+MENTION	T31	50	17	50	18	these men	PER	NOM
+MENTION	T32	52	8	52	8	Virginia	GPE	PROP
+MENTION	T33	52	18	52	20	a thousand men	PER	NOM
+MENTION	T34	53	11	53	12	this Wolfe	PER	NOM
+MENTION	T35	54	31	54	32	this house	FAC	NOM
+MENTION	T36	54	37	54	38	the Wolfes	PER	NOM
+MENTION	T37	55	34	55	40	a picker in some of the cotton-mills	PER	NOM
+MENTION	T38	55	31	55	32	their cousin	PER	NOM
+MENTION	T39	55	5	55	5	son	PER	NOM
+MENTION	T41	56	0	56	1	The house	FAC	NOM
+MENTION	T42	57	0	57	1	The Wolfes	PER	PROP
+MENTION	T43	58	7	58	13	the puddlers and feeders of the mills	PER	NOM
+MENTION	T44	59	3	59	5	the Welsh emigrants	PER	NOM
+MENTION	T46	63	6	63	7	the Wolfes	PER	NOM
+MENTION	T47	64	38	64	38	jail	FAC	NOM
+MENTION	T48	64	14	64	15	kennel-like rooms	FAC	NOM
+MENTION	T49	64	27	64	28	the distillers	PER	NOM
+MENTION	T51	69	0	69	4	So many a political reformer	PER	NOM
+MENTION	T52	70	11	70	12	half-clothed women	PER	NOM
+MENTION	T53	71	3	71	3	home	FAC	NOM
+MENTION	T54	75	6	75	8	Miss Potts '	FAC	PROP
+MENTION	T56	78	13	78	14	the woman	PER	NOM
+MENTION	T59	89	10	89	11	the Vargent	PER	NOM
+MENTION	T62	91	30	91	31	the room	FAC	NOM
+MENTION	T63	93	0	93	1	Old Wolfe	PER	PROP
+MENTION	T64	98	15	98	17	the room beyond	FAC	NOM
+MENTION	T66	104	5	104	6	this woman	PER	NOM
+MENTION	T67	105	1	105	5	the weak , flaccid wretch	PER	NOM
+MENTION	T68	2	10	2	12	crowded human beings	PER	NOM
+MENTION	T1	4	16	4	19	the grocer 's shop	FAC	NOM
+MENTION	T69	4	16	4	17	the grocer	PER	NOM
+MENTION	T70	4	23	4	27	a crowd of drunken Irishmen	PER	NOM
+MENTION	T71	7	11	7	12	the iron-foundries	FAC	NOM
+MENTION	T72	8	2	8	3	the wharves	FAC	NOM
+MENTION	T73	8	25	8	26	the house-front	FAC	NOM
+MENTION	T74	8	36	8	37	the passers-by	PER	NOM
+MENTION	T75	13	3	13	4	green fields	LOC	NOM
+MENTION	T10	14	6	14	19	a narrow brick-yard sloping down to the river-side , strewed with rain-butts and tubs	FAC	NOM
+MENTION	T76	14	12	14	13	the river-side	LOC	NOM
+MENTION	T77	15	0	15	1	The river	LOC	NOM
+MENTION	T78	15	8	15	10	la belle riviere	LOC	NOM
+MENTION	T79	16	13	16	13	coal-barges	VEH	NOM
+MENTION	T12	18	3	18	4	a child	PER	NOM
+MENTION	T81	18	21	18	30	the negro-like river slavishly bearing its burden day after day	LOC	NOM
+MENTION	T82	19	18	19	34	the slow stream of human life creeping past , night and morning , to the great mills	PER	NOM
+MENTION	T83	19	22	19	23	human life	PER	NOM
+MENTION	T84	19	32	19	34	the great mills	FAC	NOM
+MENTION	T85	20	0	20	21	Masses of men , with dull , besotted faces bent to the ground , sharpened here and there by pain or cunning	PER	NOM
+MENTION	T86	20	47	20	51	dens of drunkenness and infamy	FAC	NOM
+MENTION	T13	22	26	22	26	angels	PER	NOM
+MENTION	T15	25	11	25	28	quaint old gardens , dusky with soft , green foliage of apple-trees , and flushing crimson with roses	FAC	NOM
+MENTION	T18	25	34	25	34	fields	LOC	NOM
+MENTION	T19	25	37	25	37	mountains	LOC	NOM
+MENTION	T87	27	16	27	18	the muddy graveyard	FAC	NOM
+MENTION	T88	27	28	27	29	green fields	LOC	NOM
+MENTION	T89	29	17	29	19	the dirty back-yard	FAC	NOM
+MENTION	T90	31	49	31	51	yonder stagnant water-butt	LOC	NOM
+MENTION	T91	33	10	33	11	my friend	PER	NOM
+MENTION	T92	40	2	40	2	Egoist	PER	NOM
+MENTION	T93	40	19	40	20	the hills	LOC	NOM
+MENTION	T94	43	0	43	13	These men , going by with drunken faces and brains full of unawakened power	PER	NOM
+MENTION	T29	50	15	50	18	one of these men	PER	NOM
+MENTION	T96	50	21	50	30	a furnace-tender in one of Kirby & John 's rolling-mills	PER	NOM
+MENTION	T99	50	33	50	34	Hugh Wolfe	PER	PROP
+MENTION	T101	51	2	51	3	the mills	FAC	NOM
+MENTION	T102	52	6	52	9	the lower Virginia railroads	FAC	NOM
+MENTION	T103	53	17	53	20	myriads of these furnace-hands	PER	NOM
+MENTION	T104	53	19	53	20	these furnace-hands	PER	NOM
+MENTION	T105	55	2	55	3	the father	PER	NOM
+MENTION	T106	55	9	55	25	hands , as I said , in one of Kirby & John 's mills for making railroad-iron	PER	NOM
+MENTION	T40	50	26	50	26	Kirby	PER	PROP
+MENTION	T97	55	18	55	18	Kirby	PER	PROP
+MENTION	T107	55	20	55	20	John	PER	PROP
+MENTION	T108	55	16	55	22	one of Kirby & John 's mills	FAC	NOM
+MENTION	T98	50	24	50	30	one of Kirby & John 's rolling-mills	FAC	NOM
+MENTION	T109	55	29	55	29	Deborah	PER	PROP
+MENTION	T110	55	39	55	40	the cotton-mills	FAC	NOM
+MENTION	T111	56	6	56	9	half a dozen families	PER	NOM
+MENTION	T112	57	3	57	6	two of the cellar-rooms	FAC	NOM
+MENTION	T113	58	0	58	2	The old man	PER	NOM
+MENTION	T114	58	12	58	13	the mills	FAC	NOM
+MENTION	T115	58	16	58	16	Welsh	PER	PROP
+MENTION	T116	58	26	58	28	the Cornish tin-mines	FAC	NOM
+MENTION	T117	59	7	59	8	Cornish miners	PER	PROP
+MENTION	T118	59	12	59	16	the throng passing the windows	PER	NOM
+MENTION	T45	62	12	62	15	the slight angular bodies	PER	NOM
+MENTION	T119	64	6	64	7	their class	PER	NOM
+MENTION	T120	64	25	64	25	God	PER	PROP
+MENTION	T121	66	9	66	14	their duplicates swarming the streets to-day	PER	NOM
+MENTION	T50	66	12	66	13	the streets	FAC	NOM
+MENTION	T122	69	11	69	37	many a private reformer , too , who has gone among them with a heart tender with Christ 's charity , and come out outraged , hardened	PER	NOM
+MENTION	T123	69	28	69	28	Christ	PER	PROP
+MENTION	T124	70	8	70	12	a crowd of half-clothed women	PER	NOM
+MENTION	T125	70	16	70	17	the cellar-door	FAC	NOM
+MENTION	T127	72	3	72	3	Deb	PER	PROP
+MENTION	T128	72	9	72	10	a mulatto	FAC	NOM
+MENTION	T129	77	3	77	3	Deb	PER	PROP
+MENTION	T55	77	22	77	23	the crowd	PER	NOM
+MENTION	T130	81	2	81	3	Kit Small	PER	PROP
+MENTION	T57	87	5	87	7	a quite body	PER	NOM
+MENTION	T58	86	1	86	1	Deb	PER	PROP
+MENTION	T131	90	4	90	5	the mulatto	PER	NOM
+MENTION	T60	90	16	90	18	the woman Wolfe	PER	PROP
+MENTION	T61	91	0	91	0	Deborah	PER	PROP
+MENTION	T132	91	5	91	6	the cellar	FAC	NOM
+MENTION	T133	94	2	94	15	a pale , meek little man , with a white face and red rabbit-eyes	PER	NOM
+MENTION	T134	95	1	95	1	woman	PER	NOM
+MENTION	T135	95	2	95	2	Deborah	PER	PROP
+MENTION	T136	97	13	97	14	a hunchback	PER	NOM
+MENTION	T137	103	18	103	21	most of her companions	PER	NOM
+MENTION	T65	107	0	107	0	Man	PER	NOM
+MENTION	T126	71	5	71	6	the cotton-mill	FAC	NOM
+MENTION	T95	52	10	52	10	there	FAC	NOM
+MENTION	T139	63	9	63	9	here	FAC	NOM
+MENTION	T140	0	5	0	5	you	PER	PRON
+MENTION	T141	3	2	3	2	me	PER	PRON
+MENTION	T142	4	0	4	0	I	PER	PRON
+MENTION	T143	4	33	4	33	their	PER	PRON
+MENTION	T144	5	0	5	0	I	PER	PRON
+MENTION	T146	12	9	12	9	me	PER	PRON
+MENTION	T147	13	18	13	18	I	PER	PRON
+MENTION	T148	14	3	14	3	I	PER	PRON
+MENTION	T149	18	1	18	1	I	PER	PRON
+MENTION	T150	18	6	18	6	I	PER	PRON
+MENTION	T151	19	8	19	8	me	PER	PRON
+MENTION	T152	19	15	19	15	I	PER	PRON
+MENTION	T153	21	2	21	2	you	PER	PRON
+MENTION	T154	22	0	22	0	You	PER	PRON
+MENTION	T155	22	30	22	30	them	PER	PRON
+MENTION	T156	23	0	23	0	My	PER	PRON
+MENTION	T157	27	6	27	6	his	PER	PRON
+MENTION	T158	28	1	28	1	you	PER	PRON
+MENTION	T159	29	1	29	1	I	PER	PRON
+MENTION	T160	29	33	29	33	me	PER	PRON
+MENTION	T161	29	43	29	43	I	PER	PRON
+MENTION	T162	30	0	30	0	You	PER	PRON
+MENTION	T163	31	1	31	1	I	PER	PRON
+MENTION	T165	33	6	33	6	you	PER	PRON
+MENTION	T166	33	10	33	10	my	PER	PRON
+MENTION	T167	35	0	35	0	I	PER	PRON
+MENTION	T168	36	3	36	3	I	PER	PRON
+MENTION	T169	36	5	36	5	you	PER	PRON
+MENTION	T170	37	0	37	0	I	PER	PRON
+MENTION	T171	37	2	37	2	you	PER	PRON
+MENTION	T172	37	5	37	5	your	PER	PRON
+MENTION	T173	37	12	37	12	your	PER	PRON
+MENTION	T174	37	21	37	21	me	PER	PRON
+MENTION	T175	38	0	38	0	I	PER	PRON
+MENTION	T176	38	2	38	2	you	PER	PRON
+MENTION	T177	39	19	39	19	I	PER	PRON
+MENTION	T178	39	28	39	28	you	PER	PRON
+MENTION	T179	40	0	40	0	You	PER	PRON
+MENTION	T180	40	16	40	16	your	PER	PRON
+MENTION	T181	41	0	41	0	I	PER	PRON
+MENTION	T182	42	0	42	0	I	PER	PRON
+MENTION	T183	42	2	42	2	you	PER	PRON
+MENTION	T184	44	0	44	0	Their	PER	PRON
+MENTION	T185	44	5	44	5	their	PER	PRON
+MENTION	T186	46	0	46	0	I	PER	PRON
+MENTION	T187	46	3	46	3	you	PER	PRON
+MENTION	T188	46	6	46	6	I	PER	PRON
+MENTION	T189	46	13	46	13	I	PER	PRON
+MENTION	T190	46	17	46	17	you	PER	PRON
+MENTION	T191	47	22	47	22	we	PER	PRON
+MENTION	T192	48	0	48	0	I	PER	PRON
+MENTION	T193	48	3	48	3	my	PER	PRON
+MENTION	T194	48	12	48	12	my	PER	PRON
+MENTION	T195	49	7	49	7	you	PER	PRON
+MENTION	T196	49	17	49	17	us	PER	PRON
+MENTION	T197	49	27	49	27	your	PER	PRON
+MENTION	T198	50	0	50	0	My	PER	PRON
+MENTION	T199	50	9	50	9	I	PER	PRON
+MENTION	T200	51	0	51	0	You	PER	PRON
+MENTION	T201	52	0	52	0	They	PER	PRON
+MENTION	T202	53	0	53	0	I	PER	PRON
+MENTION	T203	53	5	53	5	I	PER	PRON
+MENTION	T204	55	12	55	12	I	PER	PRON
+MENTION	T205	55	31	55	31	their	PER	PRON
+MENTION	T206	58	23	58	23	his	PER	PRON
+MENTION	T207	59	0	59	0	You	PER	PRON
+MENTION	T208	60	0	60	0	They	PER	PRON
+MENTION	T209	60	7	60	7	their	PER	PRON
+MENTION	T210	60	14	60	14	they	PER	PRON
+MENTION	T211	61	1	61	1	they	PER	PRON
+MENTION	T212	61	5	61	5	they	PER	PRON
+MENTION	T213	62	6	62	6	I	PER	PRON
+MENTION	T214	64	0	64	0	Their	PER	PRON
+MENTION	T215	64	6	64	6	their	PER	PRON
+MENTION	T216	65	4	65	4	their	PER	PRON
+MENTION	T217	66	6	66	6	them	PER	PRON
+MENTION	T218	66	9	66	9	their	PER	PRON
+MENTION	T219	69	7	69	7	you	PER	PRON
+MENTION	T220	69	22	69	22	them	PER	PRON
+MENTION	T221	71	0	71	0	They	PER	PRON
+MENTION	T222	72	13	72	13	herself	PER	PRON
+MENTION	T223	73	0	73	0	She	PER	PRON
+MENTION	T224	73	6	73	6	her	PER	PRON
+MENTION	T225	74	6	74	6	them	PER	PRON
+MENTION	T226	84	4	84	4	we	PER	PRON
+MENTION	T227	84	6	84	6	her	PER	PRON
+MENTION	T228	84	8	84	8	we	PER	PRON
+MENTION	T229	88	5	88	5	we	PER	PRON
+MENTION	T230	90	0	90	0	They	PER	PRON
+MENTION	T231	90	21	90	21	them	PER	PRON
+MENTION	T232	90	28	90	28	she	PER	PRON
+MENTION	T233	91	2	91	2	her	PER	PRON
+MENTION	T234	94	0	94	0	He	PER	PRON
+MENTION	T235	95	5	95	5	him	PER	PRON
+MENTION	T236	95	8	95	8	her	PER	PRON
+MENTION	T237	95	15	95	15	her	PER	PRON
+MENTION	T238	95	19	95	19	her	PER	PRON
+MENTION	T239	96	0	96	0	She	PER	PRON
+MENTION	T240	97	1	97	1	she	PER	PRON
+MENTION	T241	97	8	97	8	she	PER	PRON
+MENTION	T242	98	0	98	0	She	PER	PRON
+MENTION	T243	98	9	98	9	him	PER	PRON
+MENTION	T244	99	1	99	1	she	PER	PRON
+MENTION	T245	99	17	99	17	she	PER	PRON
+MENTION	T246	100	9	100	9	she	PER	PRON
+MENTION	T247	100	11	100	11	her	PER	PRON
+MENTION	T248	100	20	100	20	her	PER	PRON
+MENTION	T249	100	27	100	27	her	PER	PRON
+MENTION	T250	101	8	101	8	her	PER	PRON
+MENTION	T251	103	0	103	0	She	PER	PRON
+MENTION	T252	103	20	103	20	her	PER	PRON
+MENTION	T253	104	0	104	0	She	PER	PRON
+MENTION	T254	104	9	104	9	her	PER	PRON
+MENTION	T255	105	10	105	10	her	PER	PRON
+MENTION	T256	105	15	105	15	her	PER	PRON
+MENTION	T257	106	6	106	6	she	PER	PRON
+MENTION	T258	108	1	108	1	she	PER	PRON
+MENTION	T260	108	14	108	14	her	PER	PRON
+MENTION	T261	108	16	108	16	her	PER	PRON
+MENTION	T262	16	1	16	1	itself	LOC	PRON
+MENTION	T263	21	10	21	11	amateur psychologist	PER	NOM
+MENTION	T264	72	7	72	7	one	PER	NOM
+COREF	T140	you-0
+COREF	T0	a_town_of_iron-works-1
+COREF	T68	crowded_human_beings-2
+COREF	T141	me-3
+COREF	T142	me-3
+COREF	T1	the_grocer__s_shop-4
+COREF	T69	the_grocer-5
+COREF	T70	a_crowd_of_drunken_Irishmen-6
+COREF	T3	drunken_Irishmen-7
+COREF	T2	Lynchburg-8
+COREF	T143	a_crowd_of_drunken_Irishmen-6
+COREF	T144	me-3
+COREF	T4	a_town_of_iron-works-1
+COREF	T71	the_iron-foundries-9
+COREF	T5	the_muddy_streets-10
+COREF	T72	the_wharves-11
+COREF	T6	the_dingy_boats-12
+COREF	T7	the_yellow_river-13
+COREF	T73	the_house-front-14
+COREF	T74	the_passers-by-15
+COREF	T8	the_narrow_street-16
+COREF	T9	an_angel_pointing_upward_from_the_mantel-shelf-17
+COREF	T146	me-3
+COREF	T75	green_fields-18
+COREF	T147	me-3
+COREF	T148	me-3
+COREF	T10	a_narrow_brick-yard_sloping_down_to_the_river-side___strewed_with_rain-butts_and_tubs-19
+COREF	T76	the_river-side-20
+COREF	T77	The_river-21
+COREF	T78	The_river-21
+COREF	T262	The_river-21
+COREF	T11	boats-22
+COREF	T79	coal-barges-23
+COREF	T149	me-3
+COREF	T150	me-3
+COREF	T81	The_river-21
+COREF	T151	me-3
+COREF	T152	me-3
+COREF	T82	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24
+COREF	T83	human_life-25
+COREF	T84	the_great_mills-26
+COREF	T85	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24
+COREF	T14	men-27
+COREF	T86	dens_of_drunkenness_and_infamy-28
+COREF	T153	you-29
+COREF	T263	amateur_psychologist-30
+COREF	T154	You-31
+COREF	T16	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24
+COREF	T13	angels-32
+COREF	T155	the_slow_stream_of_human_life_creeping_past___night_and_morning___to_the_great_mills-24
+COREF	T156	me-3
+COREF	T17	The_river-21
+COREF	T15	quaint_old_gardens___dusky_with_soft___green_foliage_of_apple-trees___and_flushing_crimson_with_roses-33
+COREF	T18	fields-34
+COREF	T19	mountains-35
+COREF	T20	the_Welsh_puddler_passing_just_now-36
+COREF	T157	the_Welsh_puddler_passing_just_now-36
+COREF	T87	the_muddy_graveyard-37
+COREF	T88	green_fields-38
+COREF	T158	you-39
+COREF	T159	me-3
+COREF	T89	the_dirty_back-yard-40
+COREF	T21	the_coalboats-41
+COREF	T160	me-3
+COREF	T22	this_house-42
+COREF	T161	me-3
+COREF	T162	You-43
+COREF	T163	me-3
+COREF	T90	yonder_stagnant_water-butt-44
+COREF	T165	you-45
+COREF	T166	me-3
+COREF	T167	me-3
+COREF	T168	me-3
+COREF	T169	you-46
+COREF	T170	me-3
+COREF	T171	you-47
+COREF	T172	your-48
+COREF	T173	your-49
+COREF	T174	me-3
+COREF	T175	me-3
+COREF	T176	you-50
+COREF	T177	me-3
+COREF	T178	you-51
+COREF	T179	You-52
+COREF	T180	your-53
+COREF	T93	the_hills-54
+COREF	T25	men_here-55
+COREF	T181	me-3
+COREF	T182	me-3
+COREF	T183	you-56
+COREF	T26	These_men-58
+COREF	T94	These_men___going_by_with_drunken_faces_and_brains_full_of_unawakened_power-59
+COREF	T27	God-60
+COREF	T184	These_men___going_by_with_drunken_faces_and_brains_full_of_unawakened_power-59
+COREF	T185	These_men___going_by_with_drunken_faces_and_brains_full_of_unawakened_power-59
+COREF	T186	me-3
+COREF	T187	you-61
+COREF	T188	me-3
+COREF	T189	me-3
+COREF	T190	you-62
+COREF	T191	we-63
+COREF	T28	the_world-64
+COREF	T192	me-3
+COREF	T193	me-3
+COREF	T194	me-3
+COREF	T195	you-65
+COREF	T196	us-66
+COREF	T197	your-67
+COREF	T198	me-3
+COREF	T199	me-3
+COREF	T29	Hugh_Wolfe-68
+COREF	T31	these_men-69
+COREF	T98	one_of_Kirby___John__s_rolling-mills-70
+COREF	T40	Kirby-71
+COREF	T30	John-72
+COREF	T200	You-73
+COREF	T101	the_mills-74
+COREF	T102	the_lower_Virginia_railroads-75
+COREF	T32	Virginia-76
+COREF	T201	They-77
+COREF	T95	the_mills-74
+COREF	T33	a_thousand_men-78
+COREF	T202	me-3
+COREF	T203	me-3
+COREF	T34	Hugh_Wolfe-68
+COREF	T103	myriads_of_these_furnace-hands-79
+COREF	T104	these_furnace-hands-80
+COREF	T35	this_house-42
+COREF	T36	the_Wolfes-81
+COREF	T105	the_father-82
+COREF	T39	Hugh_Wolfe-68
+COREF	T106	Wolfe_father_son-83
+COREF	T204	me-3
+COREF	T108	one_of_Kirby___John__s_rolling-mills-70
+COREF	T97	Kirby-71
+COREF	T107	John-72
+COREF	T205	Wolfe_father_son-83
+COREF	T110	the_cotton-mills-85
+COREF	T41	this_house-42
+COREF	T111	half_a_dozen_families-86
+COREF	T42	Wolfe_father_son-83
+COREF	T112	two_of_the_cellar-rooms-87
+COREF	T113	the_father-82
+COREF	T43	the_puddlers_and_feeders_of_the_mills-88
+COREF	T114	the_mills-89
+COREF	T115	Welsh-90
+COREF	T206	the_father-82
+COREF	T116	the_Cornish_tin-mines-91
+COREF	T207	You-92
+COREF	T44	the_Welsh_emigrants-93
+COREF	T117	Cornish_miners-94
+COREF	T118	the_throng_passing_the_windows-95
+COREF	T208	They-96
+COREF	T209	They-96
+COREF	T210	They-96
+COREF	T211	They-96
+COREF	T212	They-96
+COREF	T213	me-3
+COREF	T45	the_slight_angular_bodies-97
+COREF	T46	Wolfe_father_son-83
+COREF	T139	this_house-42
+COREF	T214	Wolfe_father_son-83
+COREF	T119	their_class-98
+COREF	T215	Wolfe_father_son-83
+COREF	T48	kennel-like_rooms-99
+COREF	T120	God-100
+COREF	T49	the_distillers-101
+COREF	T47	jail-102
+COREF	T216	Wolfe_father_son-83
+COREF	T217	Wolfe_father_son-83
+COREF	T121	their_duplicates_swarming_the_streets_to-day-103
+COREF	T218	Wolfe_father_son-83
+COREF	T50	the_streets-104
+COREF	T51	So_many_a_political_reformer-105
+COREF	T219	you-106
+COREF	T122	many_a_private_reformer___too___who_has_gone_among_them_with_a_heart_tender_with_Christ__s_charity___and_come_out_outraged___hardened-107
+COREF	T220	their_duplicates_swarming_the_streets_to-day-103
+COREF	T123	Christ-108
+COREF	T124	a_crowd_of_half-clothed_women-109
+COREF	T52	half-clothed_women-110
+COREF	T125	the_cellar-door-111
+COREF	T221	a_crowd_of_half-clothed_women-109
+COREF	T53	home-112
+COREF	T126	the_cotton-mill-113
+COREF	T127	Deb-114
+COREF	T264	one-115
+COREF	T222	one-115
+COREF	T223	one-115
+COREF	T224	one-115
+COREF	T225	them-116
+COREF	T54	Miss_Potts__-117
+COREF	T129	Deborah-84
+COREF	T55	the_crowd-118
+COREF	T56	the_woman-119
+COREF	T130	Kit_Small-120
+COREF	T226	we-121
+COREF	T227	Kit_Small-120
+COREF	T228	we-121
+COREF	T58	Deb-114
+COREF	T57	a_quite_body-122
+COREF	T229	we-121
+COREF	T59	the_Vargent-123
+COREF	T230	a_crowd_of_half-clothed_women-109
+COREF	T131	the_mulatto-124
+COREF	T109	Deb-114
+COREF	T60	Deb-114
+COREF	T231	a_crowd_of_half-clothed_women-109
+COREF	T232	Deb-114
+COREF	T61	Deb-114
+COREF	T233	Deb-114
+COREF	T132	the_cellar-125
+COREF	T62	the_cellar-125
+COREF	T63	the_father-82
+COREF	T234	the_father-82
+COREF	T134	Deb-114
+COREF	T135	Deb-114
+COREF	T235	the_father-82
+COREF	T236	Deb-114
+COREF	T237	Deb-114
+COREF	T238	Deb-114
+COREF	T239	Deb-114
+COREF	T240	Deb-114
+COREF	T241	Deb-114
+COREF	T136	a_hunchback-126
+COREF	T242	Deb-114
+COREF	T243	the_father-82
+COREF	T64	the_room_beyond-127
+COREF	T244	Deb-114
+COREF	T245	Deb-114
+COREF	T246	Deb-114
+COREF	T247	Deb-114
+COREF	T248	Deb-114
+COREF	T249	Deb-114
+COREF	T250	Deb-114
+COREF	T251	Deb-114
+COREF	T137	most_of_her_companions-128
+COREF	T252	Deb-114
+COREF	T253	Deb-114
+COREF	T66	Deb-114
+COREF	T254	Deb-114
+COREF	T67	Deb-114
+COREF	T255	Deb-114
+COREF	T256	Deb-114
+COREF	T257	Deb-114
+COREF	T65	Man-129
+COREF	T258	Deb-114
+COREF	T260	Deb-114
+COREF	T261	Deb-114
+COP	T12	T149
+APPOS	T92	T179
+APPOS	T23	T179
+APPOS	T24	T179
+APPOS	T96	T29
+APPOS	T99	T29
+APPOS	T128	T264
+APPOS	T38	T109
+APPOS	T37	T109
+COP	T133	T234
+MENTION	T538	18	26	18	26	its	LOC	PRON
+COREF	T538	The_river-21
+COREF	T91	my_friend-805
+MENTION	T100	55	37	55	40	some of the cotton-mills	FAC	NOM
+COREF	T100	some_of_the_cotton-m-700

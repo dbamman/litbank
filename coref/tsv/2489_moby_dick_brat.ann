@@ -1,0 +1,600 @@
+MENTION	T3	3	19	3	20	my soul	PER	NOM
+MENTION	T4	3	35	3	41	the rear of every funeral I meet	FAC	NOM
+MENTION	T5	5	4	5	4	Cato	PER	PROP
+MENTION	T6	7	6	7	11	almost all men in their degree	PER	NOM
+MENTION	T7	10	0	10	2	Its extreme downtown	FAC	NOM
+MENTION	T8	12	1	12	7	the city of a dreamy Sabbath afternoon	GPE	NOM
+MENTION	T9	13	5	13	6	Coenties Slip	PER	NOM
+MENTION	T15	15	3	15	4	silent sentinels	PER	NOM
+MENTION	T17	17	3	17	3	China	GPE	PROP
+MENTION	T18	20	1	20	3	the green fields	LOC	NOM
+MENTION	T20	25	14	25	19	the shady lee of yonder warehouses	FAC	NOM
+MENTION	T26	37	23	37	25	a metaphysical professor	PER	NOM
+MENTION	T30	42	24	42	25	his meadow	LOC	NOM
+MENTION	T31	44	30	44	31	the shepherd	PER	NOM
+MENTION	T32	44	19	44	20	this shepherd	PER	NOM
+MENTION	T33	45	2	45	3	the Prairies	LOC	NOM
+MENTION	T35	47	1	47	1	Niagara	LOC	PROP
+MENTION	T36	48	2	48	6	the poor poet of Tennessee	PER	NOM
+MENTION	T37	48	6	48	6	Tennessee	GPE	PROP
+MENTION	T38	48	38	48	39	Rockaway Beach	LOC	PROP
+MENTION	T41	50	6	50	7	a passenger	PER	NOM
+MENTION	T42	51	2	51	4	the old Persians	PER	NOM
+MENTION	T44	52	2	52	3	the Greeks	PER	NOM
+MENTION	T45	52	6	52	8	a separate deity	PER	NOM
+MENTION	T46	52	14	52	14	Jove	PER	PROP
+MENTION	T47	57	50	57	51	a passenger	PER	NOM
+MENTION	T49	59	33	59	34	a passenger	PER	NOM
+MENTION	T50	59	53	59	54	a Commodore	PER	NOM
+MENTION	T52	59	2	59	2	passengers	PER	NOM
+MENTION	T54	63	18	63	19	a cook	PER	NOM
+MENTION	T55	63	5	63	5	cook	PER	NOM
+MENTION	T58	64	8	64	10	the old Egyptians	PER	NOM
+MENTION	T60	65	11	65	13	a simple sailor	PER	NOM
+MENTION	T61	69	22	69	24	a country schoolmaster	PER	NOM
+MENTION	T62	69	27	69	29	the tallest boys	PER	NOM
+MENTION	T63	70	24	70	24	Seneca	PER	PROP
+MENTION	T66	70	15	70	16	a sailor	PER	NOM
+MENTION	T71	77	5	77	7	the old sea-captains	PER	NOM
+MENTION	T72	78	8	78	9	a sailor	PER	NOM
+MENTION	T73	78	27	78	27	passengers	PER	NOM
+MENTION	T74	79	4	79	5	passengers themselves	PER	NOM
+MENTION	T75	81	11	81	17	the two orchard thieves entailed upon us	PER	NOM
+MENTION	T76	83	5	83	6	a man	PER	NOM
+MENTION	T77	83	39	83	39	heaven	FAC	NOM
+MENTION	T78	83	35	83	37	a monied man	PER	NOM
+MENTION	T79	86	8	86	9	a sailor	PER	NOM
+MENTION	T80	87	34	87	38	the Commodore on the quarter-deck	PER	NOM
+MENTION	T81	87	46	87	50	the sailors on the forecastle	PER	NOM
+MENTION	T82	89	9	89	10	their leaders	PER	NOM
+MENTION	T86	90	12	90	14	a merchant sailor	PER	NOM
+MENTION	T1	0	5	0	5	Ishmael	PER	PROP
+MENTION	T88	1	26	1	26	shore	LOC	NOM
+MENTION	T89	1	38	1	43	the watery part of the world	LOC	NOM
+MENTION	T2	3	29	3	30	coffin warehouses	FAC	NOM
+MENTION	T90	3	70	3	71	the street	FAC	NOM
+MENTION	T91	3	76	3	76	people	PER	NOM
+MENTION	T92	3	91	3	91	sea	LOC	NOM
+MENTION	T93	5	15	5	16	the ship	VEH	NOM
+MENTION	T94	7	25	7	26	the ocean	LOC	NOM
+MENTION	T96	8	7	8	8	the Manhattoes	PER	PROP
+MENTION	T97	8	15	8	16	Indian isles	LOC	NOM
+MENTION	T98	8	13	8	13	wharves	LOC	NOM
+MENTION	T99	9	4	9	5	the streets	FAC	NOM
+MENTION	T100	10	4	10	5	the battery	FAC	NOM
+MENTION	T101	10	8	10	10	that noble mole	FAC	NOM
+MENTION	T102	11	2	11	5	the crowds of water-gazers	PER	NOM
+MENTION	T103	10	31	10	31	land	LOC	NOM
+MENTION	T11	13	2	13	3	Corlears Hook	LOC	PROP
+MENTION	T10	13	13	13	13	Whitehall	FAC	PROP
+MENTION	T12	15	7	15	8	the town	GPE	NOM
+MENTION	T13	15	11	15	20	thousands upon thousands of mortal men fixed in ocean reveries	PER	NOM
+MENTION	T14	17	1	17	3	ships from China	VEH	NOM
+MENTION	T104	18	4	18	4	landsmen	PER	NOM
+MENTION	T106	23	2	23	16	more crowds , pacing straight for the water , and seemingly bound for a dive	PER	NOM
+MENTION	T107	25	5	25	10	the extremest limit of the land	LOC	NOM
+MENTION	T19	27	6	27	7	the water	LOC	NOM
+MENTION	T21	28	5	28	7	miles of them	PER	NOM
+MENTION	T109	29	0	29	1	Inlanders all	PER	NOM
+MENTION	T110	29	6	29	6	lanes	FAC	NOM
+MENTION	T111	29	8	29	8	alleys	FAC	NOM
+MENTION	T112	29	10	29	10	streets	FAC	NOM
+MENTION	T113	29	12	29	12	avenues	FAC	NOM
+MENTION	T119	31	15	31	16	those ships	VEH	NOM
+MENTION	T22	33	4	33	5	the country	LOC	NOM
+MENTION	T120	33	8	33	12	some high land of lakes	LOC	NOM
+MENTION	T121	34	16	34	17	a dale	LOC	NOM
+MENTION	T122	34	24	34	28	a pool in the stream	LOC	NOM
+MENTION	T123	34	1	34	5	almost any path you please	LOC	NOM
+MENTION	T23	36	1	36	5	the most absent-minded of men	PER	NOM
+MENTION	T24	36	14	36	15	that man	PER	NOM
+MENTION	T124	37	16	37	17	your caravan	VEH	NOM
+MENTION	T125	37	6	37	9	the great American desert	LOC	NOM
+MENTION	T28	40	5	40	24	the dreamiest , shadiest , quietest , most enchanting bit of romantic landscape in all the valley of the Saco	LOC	NOM
+MENTION	T29	42	13	42	14	a hermit	PER	NOM
+MENTION	T126	42	22	42	22	here	LOC	NOM
+MENTION	T128	42	36	42	37	yonder cottage	FAC	NOM
+MENTION	T129	43	0	43	3	Deep into distant woodlands	LOC	NOM
+MENTION	T130	43	11	43	19	overlapping spurs of mountains bathed in their hill-side blue	LOC	NOM
+MENTION	T131	44	37	44	41	the magic stream before him	LOC	NOM
+MENTION	T34	49	2	49	13	almost every robust healthy boy with a robust healthy soul in him	PER	NOM
+MENTION	T39	49	23	49	24	to sea	LOC	NOM
+MENTION	T40	50	24	50	25	your ship	VEH	NOM
+MENTION	T132	50	32	50	32	land	LOC	NOM
+MENTION	T133	51	6	51	7	the sea	LOC	NOM
+MENTION	T134	54	9	54	9	Narcissus	PER	PROP
+MENTION	T135	55	9	55	10	all rivers	LOC	NOM
+MENTION	T136	55	12	55	12	oceans	LOC	NOM
+MENTION	T138	57	48	57	48	sea	LOC	NOM
+MENTION	T137	57	14	57	14	sea	LOC	NOM
+MENTION	T48	58	4	58	5	a passenger	PER	NOM
+MENTION	T53	59	57	59	58	a Captain	PER	NOM
+MENTION	T51	59	61	59	62	a Cook	PER	NOM
+MENTION	T139	60	10	60	13	those who like them	PER	NOM
+MENTION	T140	62	19	62	19	ships	VEH	NOM
+MENTION	T141	62	21	62	21	barques	VEH	NOM
+MENTION	T142	62	23	62	23	brigs	VEH	NOM
+MENTION	T143	62	25	62	25	schooners	VEH	NOM
+MENTION	T144	63	21	63	26	a sort of officer on ship-board	PER	NOM
+MENTION	T56	65	6	65	6	sea	LOC	NOM
+MENTION	T57	66	22	66	24	a May meadow	LOC	NOM
+MENTION	T59	68	13	68	19	an old established family in the land	PER	NOM
+MENTION	T145	68	21	68	23	the Van Rensselaers	PER	PROP
+MENTION	T146	68	26	68	26	Randolphs	PER	PROP
+MENTION	T147	68	29	68	29	Hardicanutes	PER	PROP
+MENTION	T65	70	12	70	13	a schoolmaster	PER	NOM
+MENTION	T148	70	26	70	27	the Stoics	PER	NOM
+MENTION	T64	72	5	72	10	some old hunks of a sea-captain	PER	NOM
+MENTION	T67	74	19	74	21	that old hunks	PER	NOM
+MENTION	T68	75	3	75	4	a slave	PER	NOM
+MENTION	T70	78	6	78	6	sea	LOC	NOM
+MENTION	T149	80	7	80	8	the world	LOC	NOM
+MENTION	T150	86	6	86	6	sea	LOC	NOM
+MENTION	T151	87	3	87	4	this world	LOC	NOM
+MENTION	T152	90	9	90	10	the sea	LOC	NOM
+MENTION	T83	90	32	90	38	the invisible police officer of the Fates	PER	NOM
+MENTION	T25	36	32	36	32	water	LOC	NOM
+MENTION	T84	36	35	36	35	water	LOC	NOM
+MENTION	T85	36	40	36	41	that region	LOC	NOM
+MENTION	T87	64	28	64	32	their huge bakehouses the pyramids	FAC	NOM
+MENTION	T27	39	3	39	4	an artist	PER	NOM
+MENTION	T69	74	5	74	5	Gabriel	PER	PROP
+MENTION	T153	74	3	74	4	the archangel	PER	NOM
+MENTION	T105	77	35	77	36	everybody else	PER	NOM
+MENTION	T114	1	42	1	43	the world	LOC	NOM
+MENTION	T115	90	66	90	68	any one else	PER	NOM
+MENTION	T116	38	3	38	4	every one	PER	NOM
+MENTION	T154	63	54	63	55	no one	PER	NOM
+MENTION	T117	11	6	11	6	there	FAC	NOM
+MENTION	T118	34	22	34	22	there	LOC	NOM
+MENTION	T155	0	4	0	4	me	PER	PRON
+MENTION	T156	1	16	1	16	my	PER	PRON
+MENTION	T157	1	24	1	24	me	PER	PRON
+MENTION	T158	1	28	1	28	I	PER	PRON
+MENTION	T159	1	30	1	30	I	PER	PRON
+MENTION	T160	2	4	2	4	I	PER	PRON
+MENTION	T161	3	1	3	1	I	PER	PRON
+MENTION	T162	3	3	3	3	myself	PER	PRON
+MENTION	T163	3	19	3	19	my	PER	PRON
+MENTION	T164	3	23	3	23	I	PER	PRON
+MENTION	T165	3	25	3	25	myself	PER	PRON
+MENTION	T166	3	40	3	40	I	PER	PRON
+MENTION	T167	3	46	3	46	my	PER	PRON
+MENTION	T168	3	54	3	54	me	PER	PRON
+MENTION	T169	3	65	3	65	me	PER	PRON
+MENTION	T170	3	83	3	83	I	PER	PRON
+MENTION	T171	3	95	3	95	I	PER	PRON
+MENTION	T172	4	2	4	2	my	PER	PRON
+MENTION	T173	5	6	5	6	himself	PER	PRON
+MENTION	T174	5	8	5	8	his	PER	PRON
+MENTION	T175	5	11	5	11	I	PER	PRON
+MENTION	T176	7	1	7	1	they	PER	PRON
+MENTION	T177	7	10	7	10	their	PER	PRON
+MENTION	T178	7	28	7	28	me	PER	PRON
+MENTION	T179	8	3	8	3	your	PER	PRON
+MENTION	T181	9	7	9	7	you	PER	PRON
+MENTION	T182	14	2	14	2	you	PER	PRON
+MENTION	T183	21	2	21	2	they	PER	PRON
+MENTION	T184	25	3	25	3	them	PER	PRON
+MENTION	T185	27	0	27	0	They	PER	PRON
+MENTION	T186	27	9	27	9	they	PER	PRON
+MENTION	T187	28	2	28	2	they	PER	PRON
+MENTION	T188	28	7	28	7	them	PER	PRON
+MENTION	T189	29	3	29	3	they	PER	PRON
+MENTION	T190	30	2	30	2	they	PER	PRON
+MENTION	T191	31	1	31	1	me	PER	PRON
+MENTION	T192	31	18	31	18	them	PER	PRON
+MENTION	T193	33	1	33	1	you	PER	PRON
+MENTION	T194	34	4	34	4	you	PER	PRON
+COREF	T194	you-803
+MENTION	T195	34	13	34	13	you	PER	PRON
+MENTION	T196	34	21	34	21	you	PER	PRON
+MENTION	T197	36	9	36	9	his	PER	PRON
+MENTION	T198	36	17	36	17	his	PER	PRON
+MENTION	T199	36	21	36	21	his	PER	PRON
+MENTION	T200	36	26	36	26	he	PER	PRON
+MENTION	T201	36	30	36	30	you	PER	PRON
+MENTION	T202	37	1	37	1	you	PER	PRON
+MENTION	T203	37	16	37	16	your	PER	PRON
+MENTION	T204	40	0	40	0	He	PER	PRON
+MENTION	T205	40	4	40	4	you	PER	PRON
+MENTION	T206	41	5	41	5	he	PER	PRON
+MENTION	T207	42	2	42	2	his	PER	PRON
+MENTION	T208	42	24	42	24	his	PER	PRON
+MENTION	T209	42	30	42	30	his	PER	PRON
+MENTION	T211	44	41	44	41	him	PER	PRON
+MENTION	T212	45	14	45	14	you	PER	PRON
+MENTION	T213	47	9	47	9	you	PER	PRON
+MENTION	T214	47	11	47	11	your	PER	PRON
+MENTION	T215	48	20	48	20	him	PER	PRON
+MENTION	T216	48	25	48	25	he	PER	PRON
+MENTION	T217	48	31	48	31	his	PER	PRON
+MENTION	T218	49	13	49	13	him	PER	PRON
+MENTION	T219	50	2	50	2	your	PER	PRON
+MENTION	T220	50	10	50	10	you	PER	PRON
+MENTION	T221	50	11	50	11	yourself	PER	PRON
+MENTION	T222	50	22	50	22	you	PER	PRON
+MENTION	T223	50	24	50	24	your	PER	PRON
+MENTION	T224	54	13	54	13	he	PER	PRON
+MENTION	T225	54	22	54	22	he	PER	PRON
+MENTION	T226	55	5	55	5	we	PER	PRON
+MENTION	T227	55	6	55	6	ourselves	PER	PRON
+MENTION	T228	57	3	57	3	I	PER	PRON
+MENTION	T229	57	6	57	6	I	PER	PRON
+MENTION	T230	57	16	57	16	I	PER	PRON
+MENTION	T231	57	32	57	32	my	PER	PRON
+MENTION	T232	57	35	57	35	I	PER	PRON
+MENTION	T233	57	44	57	44	I	PER	PRON
+MENTION	T234	58	6	58	6	you	PER	PRON
+MENTION	T235	58	21	58	21	you	PER	PRON
+MENTION	T236	59	18	59	18	themselves	PER	PRON
+MENTION	T237	59	29	59	29	I	PER	PRON
+MENTION	T238	59	39	59	39	I	PER	PRON
+MENTION	T239	59	47	59	47	I	PER	PRON
+MENTION	T240	60	0	60	0	I	PER	PRON
+MENTION	T242	61	1	61	1	my	PER	PRON
+MENTION	T243	61	4	61	4	I	PER	PRON
+MENTION	T244	62	6	62	6	I	PER	PRON
+MENTION	T245	62	13	62	13	myself	PER	PRON
+MENTION	T246	63	9	63	9	I	PER	PRON
+MENTION	T247	63	32	63	32	I	PER	PRON
+MENTION	T248	63	72	63	72	I	PER	PRON
+MENTION	T249	64	20	64	20	you	PER	PRON
+MENTION	T250	64	28	64	28	their	PER	PRON
+MENTION	T251	65	3	65	3	I	PER	PRON
+MENTION	T252	65	8	65	8	I	PER	PRON
+MENTION	T253	66	2	66	2	they	PER	PRON
+MENTION	T254	66	5	66	5	me	PER	PRON
+MENTION	T255	66	11	66	11	me	PER	PRON
+MENTION	T256	68	10	68	10	you	PER	PRON
+MENTION	T257	69	10	69	10	your	PER	PRON
+MENTION	T258	69	16	69	16	you	PER	PRON
+MENTION	T259	69	34	69	34	you	PER	PRON
+MENTION	T260	70	7	70	7	I	PER	PRON
+MENTION	T261	70	9	70	9	you	PER	PRON
+MENTION	T262	70	30	70	30	you	PER	PRON
+MENTION	T263	72	12	72	12	me	PER	PRON
+MENTION	T264	73	9	73	9	I	PER	PRON
+MENTION	T265	74	1	74	1	you	PER	PRON
+MENTION	T266	74	11	74	11	me	PER	PRON
+MENTION	T267	74	14	74	14	I	PER	PRON
+MENTION	T268	76	1	76	1	me	PER	PRON
+MENTION	T269	77	10	77	10	me	PER	PRON
+MENTION	T270	77	14	77	14	they	PER	PRON
+MENTION	T271	77	19	77	19	me	PER	PRON
+MENTION	T272	77	22	77	22	I	PER	PRON
+MENTION	T273	78	2	78	2	I	PER	PRON
+MENTION	T274	78	12	78	12	they	PER	PRON
+MENTION	T275	78	18	78	18	me	PER	PRON
+MENTION	T276	78	20	78	20	my	PER	PRON
+MENTION	T277	78	24	78	24	they	PER	PRON
+MENTION	T278	78	32	78	32	I	PER	PRON
+MENTION	T279	79	5	79	5	themselves	PER	PRON
+MENTION	T280	81	17	81	17	us	PER	PRON
+MENTION	T281	83	15	83	15	we	PER	PRON
+MENTION	T282	85	2	85	2	we	PER	PRON
+MENTION	T283	85	4	85	4	ourselves	PER	PRON
+MENTION	T284	86	2	86	2	I	PER	PRON
+MENTION	T285	87	21	87	21	you	PER	PRON
+MENTION	T286	87	40	87	40	his	PER	PRON
+MENTION	T287	88	0	88	0	He	PER	PRON
+MENTION	T288	88	2	88	2	he	PER	PRON
+MENTION	T289	89	9	89	9	their	PER	PRON
+MENTION	T290	90	16	90	16	I	PER	PRON
+MENTION	T291	90	22	90	22	my	PER	PRON
+MENTION	T292	90	46	90	46	me	PER	PRON
+MENTION	T293	90	51	90	51	me	PER	PRON
+MENTION	T294	90	55	90	55	me	PER	PRON
+MENTION	T295	90	61	90	61	he	PER	PRON
+MENTION	T296	91	4	91	4	my	PER	PRON
+MENTION	T297	93	0	93	0	I	PER	PRON
+COREF	T155	ISHMAEL-0
+COREF	T1	ISHMAEL-0
+COREF	T156	ISHMAEL-0
+COREF	T157	ISHMAEL-0
+COREF	T88	shore-1
+COREF	T158	ISHMAEL-0
+COREF	T159	ISHMAEL-0
+COREF	T89	sea_water_ocean-201
+COREF	T160	ISHMAEL-0
+COREF	T114	the_world-3
+COREF	T161	ISHMAEL-0
+COREF	T162	ISHMAEL-0
+COREF	T3	ISHMAEL-0
+COREF	T163	ISHMAEL-0
+COREF	T164	ISHMAEL-0
+COREF	T165	ISHMAEL-0
+COREF	T2	coffin_warehouses-4
+COREF	T4	the_rear_of_every_funeral_I_meet-5
+COREF	T166	ISHMAEL-0
+COREF	T167	ISHMAEL-0
+COREF	T168	ISHMAEL-0
+COREF	T169	ISHMAEL-0
+COREF	T90	the_street-6
+COREF	T91	people-7
+COREF	T170	ISHMAEL-0
+COREF	T92	sea_water_ocean-2
+COREF	T171	ISHMAEL-0
+COREF	T172	ISHMAEL-0
+COREF	T5	Cato-8
+COREF	T173	Cato-8
+COREF	T174	Cato-8
+COREF	T175	ISHMAEL-0
+COREF	T93	the_ship-9
+COREF	T176	almost_all_men-10
+COREF	T6	almost_all_men-10
+COREF	T177	almost_all_men-10
+COREF	T94	sea_water_ocean-202
+COREF	T178	ISHMAEL-0
+COREF	T179	your-11
+COREF	T96	the_Manhattoes-13
+COREF	T98	wharves-14
+COREF	T97	Indian_isles-15
+COREF	T99	the_streets-16
+COREF	T181	you-17
+COREF	T7	Its_extreme_downtown-18
+COREF	T101	that_noble_mole-19
+COREF	T103	land-20
+COREF	T102	the_crowds_of_water-gazers-21
+COREF	T117	Its_extreme_downtown-18
+COREF	T8	insular_city_of_the_Manhattoes-12
+COREF	T11	Corlears_Hook-22
+COREF	T9	Coenties_Slip-23
+COREF	T10	Whitehall-24
+COREF	T182	you-25
+COREF	T15	silent_sentinels-26
+COREF	T12	the_town-27
+COREF	T13	thousands_upon_thousands_of_mortal_men_fixed_in_ocean_reveries-28
+COREF	T14	ships_from_China-29
+COREF	T104	thousands_upon_thousands_of_mortal_men_fixed_in_ocean_reveries-28
+COREF	T18	the_green_fields-30
+COREF	T183	thousands_upon_thousands_of_mortal_men_fixed_in_ocean_reveries-28
+COREF	T106	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T184	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T107	the_extremest_limit_of_the_land-32
+COREF	T20	the_shady_lee_of_yonder_warehouses-33
+COREF	T185	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T19	sea_water_ocean-203
+COREF	T186	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T187	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T21	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T188	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T189	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T110	lanes-34
+COREF	T111	alleys-35
+COREF	T112	streets-36
+COREF	T113	avenues-37
+COREF	T190	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T191	ISHMAEL-0
+COREF	T119	those_ships-38
+COREF	T192	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31
+COREF	T193	you-39
+COREF	T22	the_country-40
+COREF	T120	some_high_land_of_lakes-41
+COREF	T123	almost_any_path_you_please-42
+COREF	T195	you-43
+COREF	T121	a_dale-44
+COREF	T196	you-45
+COREF	T118	there-46
+COREF	T122	a_pool_in_the_stream-47
+COREF	T23	the_most_absent-minded_of_men-48
+COREF	T197	the_most_absent-minded_of_men-48
+COREF	T24	the_most_absent-minded_of_men-48
+COREF	T198	the_most_absent-minded_of_men-48
+COREF	T199	the_most_absent-minded_of_men-48
+COREF	T200	the_most_absent-minded_of_men-48
+COREF	T201	you-49
+COREF	T25	sea_water_ocean-204
+COREF	T84	sea_water_ocean-205
+COREF	T85	that_region-50
+COREF	T202	you-51
+COREF	T125	the_great_American_desert-52
+COREF	T124	your_caravan-53
+COREF	T203	your-54
+COREF	T26	a_metaphysical_professor-55
+COREF	T116	every_one-56
+COREF	T27	an_artist-57
+COREF	T204	an_artist-57
+COREF	T205	you-58
+COREF	T28	the_dreamiest___shadiest___quietest___most_enchanting_bit_of_romantic_landscape_in_all_the_valley_of_the_Saco-59
+COREF	T206	an_artist-57
+COREF	T207	an_artist-57
+COREF	T29	a_hermit-60
+COREF	T126	here-61
+COREF	T30	his_meadow-62
+COREF	T208	an_artist-57
+COREF	T209	an_artist-57
+COREF	T128	yonder_cottage-63
+COREF	T129	Deep_into_distant_woodlands-64
+COREF	T130	overlapping_spurs_of_mountains_bathed_in_their_hill-side_blue-65
+COREF	T32	this_shepherd-66
+COREF	T31	this_shepherd-66
+COREF	T131	the_magic_stream_before_him-67
+COREF	T211	this_shepherd-66
+COREF	T33	the_Prairies-68
+COREF	T212	you-69
+COREF	T35	Niagara-70
+COREF	T213	you-71
+COREF	T214	your-72
+COREF	T36	the_poor_poet_of_Tennessee-73
+COREF	T37	Tennessee-74
+COREF	T215	the_poor_poet_of_Tennessee-73
+COREF	T216	the_poor_poet_of_Tennessee-73
+COREF	T217	the_poor_poet_of_Tennessee-73
+COREF	T38	Rockaway_Beach-75
+COREF	T34	almost_every_robust_healthy_boy_with_a_robust_healthy_soul_in_him-76
+COREF	T218	almost_every_robust_healthy_boy_with_a_robust_healthy_soul_in_him-76
+COREF	T39	sea_water_ocean-206
+COREF	T219	your-77
+COREF	T41	a_passenger-78
+COREF	T220	you-79
+COREF	T221	yourself-80
+COREF	T222	you-81
+COREF	T40	your_ship-82
+COREF	T223	your-83
+COREF	T132	land-20
+COREF	T42	the_old_Persians-84
+COREF	T133	sea_water_ocean-207
+COREF	T44	the_Greeks-85
+COREF	T45	a_separate_deity-86
+COREF	T46	Jove-88
+COREF	T134	Narcissus-89
+COREF	T224	Narcissus-89
+COREF	T225	Narcissus-89
+COREF	T226	we-90
+COREF	T135	all_rivers-92
+COREF	T136	sea_water_ocean-208
+COREF	T228	ISHMAEL-0
+COREF	T229	ISHMAEL-0
+COREF	T137	sea_water_ocean-209
+COREF	T230	ISHMAEL-0
+COREF	T231	ISHMAEL-0
+COREF	T232	ISHMAEL-0
+COREF	T233	ISHMAEL-0
+COREF	T138	sea_water_ocean-210
+COREF	T47	a_passenger-93
+COREF	T48	a_passenger-94
+COREF	T234	you-95
+COREF	T235	you-96
+COREF	T52	passengers-97
+COREF	T236	passengers-97
+COREF	T237	ISHMAEL-0
+COREF	T49	a_passenger-98
+COREF	T238	ISHMAEL-0
+COREF	T239	ISHMAEL-0
+COREF	T50	a_Commodore-99
+COREF	T53	a_Captain-100
+COREF	T51	a_Cook-101
+COREF	T240	ISHMAEL-0
+COREF	T139	those_who_like_them-102
+COREF	T242	ISHMAEL-0
+COREF	T243	ISHMAEL-0
+COREF	T244	ISHMAEL-0
+COREF	T245	ISHMAEL-0
+COREF	T140	ships-103
+COREF	T141	barques-104
+COREF	T142	brigs-105
+COREF	T143	schooners-106
+COREF	T55	cook-107
+COREF	T246	ISHMAEL-0
+COREF	T54	a_cook-108
+COREF	T247	ISHMAEL-0
+COREF	T154	no_one-109
+COREF	T248	ISHMAEL-0
+COREF	T58	the_old_Egyptians-110
+COREF	T249	you-111
+COREF	T87	their_huge_bakehouses_the_pyramids-112
+COREF	T250	the_old_Egyptians-110
+COREF	T251	ISHMAEL-0
+COREF	T56	sea_water_ocean-220
+COREF	T252	ISHMAEL-0
+COREF	T60	a_simple_sailor-113
+COREF	T253	they-114
+COREF	T254	ISHMAEL-0
+COREF	T255	ISHMAEL-0
+COREF	T57	a_May_meadow-115
+COREF	T256	you-116
+COREF	T59	an_old_established_family_in_the_land-117
+COREF	T145	the_Van_Rensselaers-118
+COREF	T146	Randolphs-119
+COREF	T147	Hardicanutes-120
+COREF	T257	your-121
+COREF	T258	you-122
+COREF	T61	a_country_schoolmaster-123
+COREF	T62	the_tallest_boys-124
+COREF	T259	you-125
+COREF	T260	ISHMAEL-0
+COREF	T261	you-126
+COREF	T66	a_sailor-127
+COREF	T65	a_schoolmaster-128
+COREF	T63	Seneca-129
+COREF	T148	the_Stoics-130
+COREF	T262	you-131
+COREF	T64	the_old_sea-captains-132
+COREF	T263	ISHMAEL-0
+COREF	T264	ISHMAEL-0
+COREF	T265	you-133
+COREF	T153	Gabriel-134
+COREF	T69	Gabriel-134
+COREF	T266	ISHMAEL-0
+COREF	T267	ISHMAEL-0
+COREF	T67	the_old_sea-captains-132
+COREF	T68	a_slave-135
+COREF	T268	ISHMAEL-0
+COREF	T71	the_old_sea-captains-132
+COREF	T269	ISHMAEL-0
+COREF	T270	the_old_sea-captains-132
+COREF	T271	ISHMAEL-0
+COREF	T272	ISHMAEL-0
+COREF	T105	everybody_else-136
+COREF	T273	ISHMAEL-0
+COREF	T70	sea_water_ocean-221
+COREF	T72	a_sailor-137
+COREF	T274	the_old_sea-captains-132
+COREF	T275	ISHMAEL-0
+COREF	T276	ISHMAEL-0
+COREF	T277	the_old_sea-captains-132
+COREF	T73	passengers-138
+COREF	T278	ISHMAEL-0
+COREF	T74	passengers_themselves-139
+COREF	T279	passengers_themselves-139
+COREF	T227	we-90
+COREF	T149	the_world-3
+COREF	T75	the_two_orchard_thieves_entailed_upon_us-140
+COREF	T280	us-141
+COREF	T76	a_man-142
+COREF	T281	we-143
+COREF	T78	a_monied_man-144
+COREF	T77	heaven-145
+COREF	T282	we-146
+COREF	T283	we-146
+COREF	T284	ISHMAEL-0
+COREF	T150	sea_water_ocean-222
+COREF	T79	a_sailor-147
+COREF	T151	the_world-3
+COREF	T285	you-148
+COREF	T80	the_Commodore_on_the_quarter-deck-149
+COREF	T286	the_Commodore_on_the_quarter-deck-149
+COREF	T81	the_sailors_on_the_forecastle-150
+COREF	T287	the_Commodore_on_the_quarter-deck-149
+COREF	T288	the_Commodore_on_the_quarter-deck-149
+COREF	T82	the_Commodore_on_the_quarter-deck-149
+COREF	T289	the_sailors_on_the_forecastle-150
+COREF	T152	sea_water_ocean-223
+COREF	T86	a_merchant_sailor-151
+COREF	T290	ISHMAEL-0
+COREF	T291	ISHMAEL-0
+COREF	T83	the_invisible_police_officer_of_the_Fates-152
+COREF	T292	ISHMAEL-0
+COREF	T293	ISHMAEL-0
+COREF	T294	ISHMAEL-0
+COREF	T295	the_invisible_police_officer_of_the_Fates-152
+COREF	T115	any_one_else-153
+COREF	T296	ISHMAEL-0
+COREF	T297	ISHMAEL-0
+COP	T100	T7
+APPOS	T109	T189
+COP	T144	T54
+COREF	T17	new-801
+MENTION	T127	34	11	34	11	it	LOC	PRON
+COREF	T127	almost_any_path_you_please-42
+MENTION	T814	8	23	8	23	it	GPE	PRON
+COREF	T814	insular_city_of_the_Manhattoes-12
+MENTION	T816	10	0	10	0	Its	GPE	PRON
+COREF	T816	insular_city_of_the_Manhattoes-12
+MENTION	T822	47	16	47	16	it	LOC	PRON
+COREF	T822	Niagara-70
+MENTION	T824	52	5	52	5	it	LOC	PRON
+COREF	T824	sea_water_ocean-207
+MENTION	T108	8	3	8	8	your insular city of the Manhattoes	GPE	NOM
+COREF	T108	insular_city_of_the_Manhattoes-12
+MENTION	T95	52	11	52	14	own brother of Jove	PER	NOM
+COREF	T95	a_separate_deity-86
+MENTION	T43	16	0	16	0	Some	PER	NOM
+COREF	T43	Some-700
+MENTION	T314	16	6	16	6	some	PER	NOM
+COREF	T314	some-701
+MENTION	T341	16	12	16	12	some	PER	NOM
+COREF	T341	some-702
+COREF	T406	some-703
+MENTION	T406	17	5	17	5	some	PER	NOM

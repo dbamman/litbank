@@ -1,0 +1,622 @@
+MENTION	T1	1	28	1	30	the adverse hosts	PER	NOM
+MENTION	T2	1	12	1	13	North America	GPE	PROP
+MENTION	T3	2	19	2	19	England	GPE	PROP
+MENTION	T4	2	17	2	17	France	GPE	PROP
+MENTION	T5	3	0	3	2	The hardy colonist	PER	NOM
+MENTION	T6	3	5	3	12	the trained European who fought at his side	PER	NOM
+MENTION	T8	4	75	4	79	the distant monarchs of Europe	PER	NOM
+MENTION	T9	4	8	4	11	the practiced native warriors	PER	NOM
+MENTION	T10	5	38	5	39	the Hudson	LOC	PROP
+MENTION	T11	6	3	6	3	nature	PER	NOM
+MENTION	T12	6	11	6	12	the combatants	PER	NOM
+MENTION	T13	7	44	7	45	their enemies	PER	NOM
+MENTION	T14	7	22	7	23	New York	GPE	PROP
+MENTION	T15	7	4	7	5	the Champlain	LOC	NOM
+MENTION	T16	7	11	7	11	Canada	GPE	PROP
+MENTION	T17	8	25	8	27	the Jesuit missionaries	PER	NOM
+MENTION	T18	9	0	9	3	The less zealous English	PER	NOM
+MENTION	T19	9	21	9	23	their reigning prince	PER	NOM
+MENTION	T20	9	28	9	31	the house of Hanover	FAC	NOM
+MENTION	T21	9	31	9	31	Hanover	GPE	PROP
+MENTION	T23	13	23	13	24	Lake Champlain	LOC	PROP
+MENTION	T24	16	63	16	64	the river	LOC	NOM
+MENTION	T25	16	26	16	27	the adventurer	PER	NOM
+MENTION	T26	17	16	17	17	the French	GPE	NOM
+MENTION	T28	20	1	20	2	the husbandman	PER	NOM
+MENTION	T29	21	17	21	17	men	PER	NOM
+MENTION	T31	22	29	22	29	France	GPE	PROP
+MENTION	T33	23	25	23	26	Great Britain	GPE	PROP
+MENTION	T34	23	18	23	18	home	FAC	NOM
+MENTION	T35	23	43	23	45	her former warriors	PER	NOM
+MENTION	T36	23	3	23	6	her military leaders abroad	PER	NOM
+MENTION	T37	24	4	24	5	her enemies	PER	NOM
+MENTION	T38	24	7	24	8	her servants	PER	NOM
+MENTION	T39	25	5	25	6	the colonists	PER	NOM
+MENTION	T40	26	55	26	55	Indians	PER	NOM
+MENTION	T41	26	15	26	16	a mother	PER	NOM
+MENTION	T42	26	38	26	39	trained warriors	PER	NOM
+MENTION	T43	28	0	28	2	The alarmed colonists	PER	NOM
+MENTION	T44	29	4	29	6	their merciless enemies	PER	NOM
+MENTION	T45	30	40	30	44	the natives of the forests	PER	NOM
+MENTION	T47	31	24	31	24	mothers	PER	NOM
+MENTION	T48	32	29	32	34	the slaves of the basest passions	PER	NOM
+MENTION	T49	33	45	33	47	their Christian foes	PER	NOM
+MENTION	T50	33	42	33	42	America	GPE	PROP
+MENTION	T51	35	4	35	4	Washington	PER	PROP
+MENTION	T52	36	10	36	11	all America	GPE	NOM
+MENTION	T53	36	33	36	34	the author	PER	NOM
+MENTION	T54	38	32	38	33	the Champlain	LOC	NOM
+MENTION	T55	38	19	38	20	the Hudson	LOC	PROP
+MENTION	T56	38	66	38	67	a warrior	PER	NOM
+MENTION	T57	38	26	38	26	Montcalm	PER	PROP
+MENTION	T59	41	30	41	34	the son of the forest	PER	NOM
+MENTION	T60	41	33	41	34	the forest	LOC	NOM
+MENTION	T61	42	32	42	38	a favorite prince of the reigning family	PER	NOM
+MENTION	T62	42	17	42	18	William Henry	FAC	PROP
+MENTION	T63	42	0	42	6	The loyal servants of the British crown	PER	NOM
+MENTION	T64	42	26	42	27	Fort Edward	FAC	PROP
+MENTION	T65	43	15	43	17	a few provincials	PER	NOM
+MENTION	T67	43	34	43	34	Montcalm	PER	PROP
+MENTION	T68	43	13	43	13	regulars	PER	NOM
+MENTION	T69	44	26	44	30	more than five thousand men	PER	NOM
+MENTION	T70	44	15	44	16	the king	PER	NOM
+MENTION	T71	45	9	45	10	this officer	PER	NOM
+MENTION	T72	45	19	45	19	combatants	PER	NOM
+MENTION	T74	46	9	46	10	both officers	PER	NOM
+MENTION	T75	46	21	46	23	their formidable antagonists	PER	NOM
+MENTION	T76	46	47	46	49	Fort du Quesne	GPE	PROP
+MENTION	T77	46	12	46	12	men	PER	NOM
+MENTION	T78	47	48	47	50	fifteen hundred men	PER	NOM
+MENTION	T79	49	7	49	7	Webb	PER	PROP
+MENTION	T80	50	28	50	31	the more practiced veteran	PER	NOM
+MENTION	T81	50	0	50	5	The novice in the military art	PER	NOM
+MENTION	T82	51	39	51	44	the log cabin of some officer	FAC	NOM
+MENTION	T83	51	75	51	77	the vast forest	LOC	NOM
+MENTION	T84	51	43	51	44	some officer	PER	NOM
+MENTION	T85	0	26	0	27	my kingdom	FAC	NOM
+MENTION	T86	1	1	1	1	Shakespeare	PER	PROP
+MENTION	T87	2	0	2	8	A wide and apparently an impervious boundary of forests	LOC	NOM
+MENTION	T88	2	13	2	19	the hostile provinces of France and England	GPE	NOM
+MENTION	T89	3	20	3	24	the rapids of the streams	LOC	NOM
+MENTION	T90	3	23	3	24	the streams	LOC	NOM
+MENTION	T91	3	29	3	34	the rugged passes of the mountains	LOC	NOM
+MENTION	T92	3	29	3	31	the rugged passes	LOC	NOM
+MENTION	T7	4	31	4	35	no recess of the woods	LOC	NOM
+MENTION	T93	4	34	4	35	the woods	LOC	NOM
+MENTION	T95	4	55	4	79	those who had pledged their blood to satiate their vengeance , or to uphold the cold and selfish policy of the distant monarchs of Europe	PER	NOM
+MENTION	T96	4	79	4	79	Europe	GPE	PROP
+MENTION	T97	5	8	5	10	the intermediate frontiers	LOC	NOM
+MENTION	T98	5	1	5	10	no district throughout the wide extent of the intermediate frontiers	LOC	NOM
+MENTION	T99	5	4	5	10	the wide extent of the intermediate frontiers	LOC	NOM
+MENTION	T101	5	34	5	39	the head waters of the Hudson	LOC	NOM
+MENTION	T102	5	41	5	43	the adjacent lakes	LOC	NOM
+MENTION	T100	5	29	5	43	the country which lies between the head waters of the Hudson and the adjacent lakes	LOC	NOM
+MENTION	T103	7	15	7	23	the borders of the neighboring province of New York	LOC	NOM
+MENTION	T105	7	26	7	45	a natural passage across half the distance that the French were compelled to master in order to strike their enemies	LOC	NOM
+MENTION	T106	7	34	7	35	the French	GPE	NOM
+MENTION	T110	9	11	9	13	its unsullied fountains	LOC	NOM
+MENTION	T111	9	25	9	31	the second of the house of Hanover	PER	NOM
+MENTION	T112	10	5	10	11	the untutored possessors of its wooded scenery	PER	NOM
+MENTION	T113	10	9	10	11	its wooded scenery	LOC	NOM
+MENTION	T114	10	23	10	23	Horican	LOC	PROP
+MENTION	T115	11	3	11	7	each nation of the Indians	GPE	NOM
+MENTION	T116	12	8	12	12	this beautiful sheet of water	LOC	NOM
+MENTION	T117	12	27	12	31	The Tail of the Lake	LOC	NOM
+MENTION	T118	12	30	12	31	the Lake	LOC	NOM
+MENTION	T119	13	0	13	1	Lake George	LOC	PROP
+MENTION	T120	13	18	13	24	a sort of tail to Lake Champlain	LOC	NOM
+MENTION	T121	15	4	15	5	countless islands	LOC	NOM
+MENTION	T122	15	10	15	10	mountains	LOC	NOM
+MENTION	T123	15	12	15	15	the “ holy lake	LOC	NOM
+MENTION	T124	16	1	16	14	the high plain that there interposed itself to the further passage of the water	LOC	NOM
+MENTION	T125	16	13	16	14	the water	LOC	NOM
+MENTION	T126	16	29	16	33	the banks of the Hudson	LOC	NOM
+MENTION	T127	16	32	16	33	the Hudson	LOC	PROP
+MENTION	T128	16	45	16	46	the rapids	LOC	NOM
+MENTION	T129	16	49	16	61	rifts , as they were then termed in the language of the country	LOC	NOM
+MENTION	T130	16	60	16	61	the country	GPE	NOM
+MENTION	T131	1	21	1	22	the wilderness	LOC	NOM
+MENTION	T132	7	0	7	5	The lengthened sheet of the Champlain	LOC	NOM
+MENTION	T133	7	30	7	45	half the distance that the French were compelled to master in order to strike their enemies	LOC	NOM
+MENTION	T107	8	1	8	3	its southern termination	PER	NOM
+MENTION	T134	10	0	10	1	The two	GPE	NOM
+MENTION	T135	11	21	11	23	the same places	LOC	NOM
+MENTION	T136	12	16	12	22	the tribe that dwelt on its banks	GPE	NOM
+MENTION	T137	12	21	12	22	its banks	LOC	NOM
+MENTION	T139	16	36	16	69	a point where , with the usual obstructions of the rapids , or rifts , as they were then termed in the language of the country , the river became navigable to the tide	LOC	NOM
+MENTION	T140	17	20	17	27	the distant and difficult gorges of the Alleghany	LOC	NOM
+MENTION	T141	17	45	17	50	the district we have just described	LOC	NOM
+MENTION	T142	18	5	18	22	the bloody arena , in which most of the battles for the mastery of the colonies were contested	LOC	NOM
+MENTION	T143	18	19	18	20	the colonies	GPE	NOM
+MENTION	T144	19	0	19	0	Forts	FAC	NOM
+MENTION	T145	19	4	19	13	the different points that commanded the facilities of the route	LOC	NOM
+MENTION	T146	20	6	20	8	the dangerous passes	LOC	NOM
+MENTION	T147	20	11	20	18	the safer boundaries of the more ancient settlements	LOC	NOM
+MENTION	T148	20	15	20	18	the more ancient settlements	FAC	NOM
+MENTION	T149	20	20	20	34	armies larger than those that had often disposed of the scepters of the mother countries	ORG	NOM
+MENTION	T150	20	32	20	34	the mother countries	GPE	NOM
+MENTION	T151	20	42	20	62	these forests , whence they rarely returned but in skeleton bands , that were haggard with care or dejected by defeat	LOC	NOM
+MENTION	T27	20	51	20	62	skeleton bands , that were haggard with care or dejected by defeat	PER	NOM
+MENTION	T152	21	8	21	10	this fatal region	LOC	NOM
+MENTION	T153	21	12	21	13	its forests	LOC	NOM
+MENTION	T154	21	35	21	36	its mountains	LOC	NOM
+MENTION	T155	21	49	21	54	many a gallant and reckless youth	PER	NOM
+MENTION	T30	22	27	22	27	England	GPE	PROP
+MENTION	T32	22	36	22	43	a country that neither was destined to retain	LOC	NOM
+MENTION	T156	23	15	23	18	her councils at home	PER	NOM
+MENTION	T157	23	47	23	47	statesmen	PER	NOM
+MENTION	T158	25	27	25	29	the natural participators	PER	NOM
+MENTION	T159	26	4	26	22	a chosen army from that country , which , reverencing as a mother , they had blindly believed invincible	ORG	NOM
+MENTION	T160	26	8	26	9	that country	GPE	NOM
+MENTION	T161	26	24	26	93	an army led by a chief who had been selected from a crowd of trained warriors , for his rare military endowments , disgracefully routed by a handful of French and Indians , and only saved from annihilation by the coolness and spirit of a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom	ORG	NOM
+MENTION	T162	26	28	26	93	a chief who had been selected from a crowd of trained warriors , for his rare military endowments , disgracefully routed by a handful of French and Indians , and only saved from annihilation by the coolness and spirit of a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom	PER	NOM
+MENTION	T163	26	35	26	39	a crowd of trained warriors	PER	NOM
+MENTION	T164	26	50	26	55	a handful of French and Indians	PER	NOM
+MENTION	T165	26	53	26	53	French	PER	NOM
+MENTION	T166	26	68	26	93	a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom	PER	NOM
+MENTION	T167	27	1	27	3	A wide frontier	LOC	NOM
+MENTION	T168	28	8	28	9	the savages	PER	NOM
+MENTION	T169	28	20	28	25	the interminable forests of the west	LOC	NOM
+MENTION	T170	30	43	30	44	the forests	LOC	NOM
+MENTION	T171	30	46	30	50	the principal and barbarous actors	LOC	NOM
+MENTION	T46	31	1	31	5	the credulous and excited traveler	PER	NOM
+MENTION	T172	31	11	31	12	the wilderness	LOC	NOM
+MENTION	T173	31	17	31	18	the timid	PER	NOM
+MENTION	T174	31	30	31	40	those children which slumbered within the security of the largest towns	PER	NOM
+MENTION	T175	31	38	31	40	the largest towns	GPE	NOM
+MENTION	T176	32	21	32	34	those who should have remembered their manhood , the slaves of the basest passions	PER	NOM
+MENTION	T177	33	21	33	23	that abject class	PER	NOM
+MENTION	T178	33	38	33	40	the English crown	GPE	NOM
+MENTION	T179	33	56	33	58	their relentless allies	PER	NOM
+MENTION	T180	34	1	34	1	Washington	PER	PROP
+MENTION	T181	34	8	34	10	the European general	PER	NOM
+MENTION	T182	34	25	34	27	the British army	ORG	NOM
+MENTION	T183	34	22	34	27	the remnants of the British army	ORG	NOM
+MENTION	T184	35	18	35	20	the American armies	ORG	NOM
+MENTION	T185	36	25	36	25	European	GPE	NOM
+MENTION	T186	37	4	37	6	the mother country	GPE	NOM
+MENTION	T66	38	8	38	23	the fort which covered the southern termination of the portage between the Hudson and the lakes	FAC	NOM
+MENTION	T187	38	12	38	23	the southern termination of the portage between the Hudson and the lakes	LOC	NOM
+MENTION	T188	38	22	38	23	the lakes	LOC	NOM
+MENTION	T58	38	73	38	79	an enemy within reach of his blow	PER	NOM
+MENTION	T190	39	16	39	49	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the “ holy lake , ” for a speedy and powerful reinforcement	PER	NOM
+MENTION	T191	39	27	39	27	Munro	PER	PROP
+MENTION	T195	40	9	40	11	these two posts	FAC	NOM
+MENTION	T196	41	0	41	2	The rude path	FAC	NOM
+MENTION	T197	41	44	41	52	a detachment of troops , with their necessary baggage	PER	NOM
+MENTION	T198	42	4	42	6	the British crown	GPE	NOM
+MENTION	T199	42	12	42	13	these forest-fastnesses	FAC	NOM
+MENTION	T200	42	36	42	38	the reigning family	PER	NOM
+MENTION	T201	43	0	43	4	The veteran Scotchman just named	PER	NOM
+MENTION	T202	43	10	43	13	a regiment of regulars	ORG	NOM
+MENTION	T203	43	19	43	43	a force really by far too small to make head against the formidable power that Montcalm was leading to the foot of his earthen mounds	ORG	NOM
+MENTION	T204	43	30	43	43	the formidable power that Montcalm was leading to the foot of his earthen mounds	ORG	NOM
+MENTION	T205	43	38	43	43	the foot of his earthen mounds	LOC	NOM
+MENTION	T206	43	41	43	43	his earthen mounds	LOC	NOM
+MENTION	T207	44	7	44	20	General Webb , who commanded the armies of the king in the northern provinces	PER	NOM
+MENTION	T208	44	23	44	30	a body of more than five thousand men	PER	NOM
+MENTION	T209	45	2	45	7	the several detachments of his command	ORG	NOM
+MENTION	T73	45	21	45	41	the enterprising Frenchman , who had ventured so far from his reinforcements , with an army but little superior in numbers	PER	NOM
+MENTION	T210	45	35	45	41	an army but little superior in numbers	ORG	NOM
+MENTION	T211	45	31	45	32	his reinforcements	ORG	NOM
+MENTION	T212	46	44	46	45	the French	GPE	NOM
+MENTION	T213	47	17	47	41	the entrenched camp , which stretched along the margin of the Hudson , forming a chain of outworks to the body of the fort itself	FAC	NOM
+MENTION	T214	47	24	47	28	the margin of the Hudson	LOC	NOM
+MENTION	T215	47	27	47	28	the Hudson	LOC	PROP
+MENTION	T216	47	36	47	41	the body of the fort itself	FAC	NOM
+MENTION	T217	47	39	47	40	the fort	FAC	NOM
+MENTION	T218	47	44	47	71	a chosen detachment of fifteen hundred men was to depart , with the dawn , for William Henry , the post at the northern extremity of the portage	ORG	NOM
+MENTION	T219	47	60	47	61	William Henry	FAC	PROP
+MENTION	T220	47	63	47	71	the post at the northern extremity of the portage	FAC	NOM
+MENTION	T221	47	66	47	71	the northern extremity of the portage	LOC	NOM
+MENTION	T222	47	70	47	71	the portage	LOC	NOM
+MENTION	T223	48	16	48	20	the quarters of the commander-in-chief	FAC	NOM
+MENTION	T224	48	19	48	20	the commander-in-chief	PER	NOM
+MENTION	T225	48	22	48	30	the several corps he had selected for this service	ORG	NOM
+MENTION	T226	50	73	50	74	the wilderness	LOC	NOM
+MENTION	T227	51	12	51	15	the distant western hills	LOC	NOM
+MENTION	T228	51	24	51	26	the secluded spot	LOC	NOM
+MENTION	T229	51	65	51	66	the camp	FAC	NOM
+MENTION	T104	7	18	7	23	the neighboring province of New York	GPE	NOM
+MENTION	T189	38	36	38	47	an army “ numerous as the leaves on the trees , ”	ORG	NOM
+MENTION	T109	8	44	8	50	lake “ du Saint Sacrement . ”	LOC	NOM
+MENTION	T108	8	10	8	50	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake “ du Saint Sacrement . ”	LOC	NOM
+MENTION	T194	39	38	39	43	the “ holy lake , ”	LOC	NOM
+MENTION	T193	39	35	39	43	the shore of the “ holy lake , ”	LOC	NOM
+MENTION	T192	39	29	39	43	the commander of a work on the shore of the “ holy lake , ”	PER	NOM
+MENTION	T231	6	5	6	5	there	LOC	NOM
+MENTION	T22	11	6	11	7	the Indians	PER	NOM
+MENTION	T232	0	9	0	9	my	PER	PRON
+MENTION	T233	0	26	0	26	my	PER	PRON
+MENTION	T234	3	11	3	11	his	PER	PRON
+MENTION	T235	3	43	3	43	their	PER	PRON
+MENTION	T236	4	13	4	13	they	PER	PRON
+MENTION	T237	4	59	4	59	their	PER	PRON
+MENTION	T238	4	63	4	63	their	PER	PRON
+MENTION	T239	7	44	7	44	their	GPE	PRON
+MENTION	T240	9	5	9	5	they	PER	PRON
+MENTION	T241	9	16	9	16	they	PER	PRON
+MENTION	T242	9	21	9	21	their	PER	PRON
+MENTION	T243	10	13	10	13	their	PER	PRON
+MENTION	T244	11	15	11	15	they	GPE	PRON
+MENTION	T245	11	29	11	29	their	GPE	PRON
+MENTION	T246	16	52	16	52	they	LOC	PRON
+MENTION	T247	17	6	17	6	their	GPE	PRON
+MENTION	T248	17	35	17	35	their	GPE	PRON
+MENTION	T249	17	47	17	47	we	PER	PRON
+MENTION	T250	20	40	20	40	themselves	ORG	PRON
+MENTION	T251	20	46	20	46	they	ORG	PRON
+MENTION	T252	21	57	21	57	he	PER	PRON
+MENTION	T253	21	60	21	60	them	PER	PRON
+MENTION	T254	21	66	21	66	his	PER	PRON
+MENTION	T255	22	12	22	12	we	PER	PRON
+MENTION	T256	23	3	23	3	her	GPE	PRON
+MENTION	T257	23	15	23	15	her	GPE	PRON
+MENTION	T258	23	43	23	43	her	GPE	PRON
+MENTION	T259	24	4	24	4	her	GPE	PRON
+MENTION	T260	24	7	24	7	her	GPE	PRON
+MENTION	T261	25	11	25	11	her	GPE	PRON
+MENTION	T262	25	22	25	22	her	GPE	PRON
+MENTION	T263	26	0	26	0	They	PER	PRON
+MENTION	T264	26	18	26	18	they	PER	PRON
+MENTION	T265	26	42	26	42	his	PER	PRON
+MENTION	T266	29	4	29	4	their	PER	PRON
+MENTION	T267	30	7	30	7	their	PER	PRON
+MENTION	T268	32	26	32	26	their	PER	PRON
+MENTION	T269	33	32	33	32	they	PER	PRON
+MENTION	T270	33	45	33	45	their	PER	PRON
+MENTION	T271	33	56	33	56	their	PER	PRON
+MENTION	T272	34	16	34	16	he	PER	PRON
+MENTION	T273	34	34	34	34	his	PER	PRON
+MENTION	T274	35	13	35	13	his	PER	PRON
+MENTION	T275	36	14	36	14	his	PER	PRON
+MENTION	T276	36	18	36	18	his	PER	PRON
+MENTION	T277	38	78	38	78	his	PER	PRON
+MENTION	T278	41	7	41	7	their	FAC	PRON
+MENTION	T279	41	50	41	50	their	PER	PRON
+MENTION	T280	43	41	43	41	his	PER	PRON
+MENTION	T281	45	6	45	6	his	PER	PRON
+MENTION	T282	45	31	45	31	his	PER	PRON
+MENTION	T283	46	5	46	5	their	PER	PRON
+MENTION	T284	46	21	46	21	their	PER	PRON
+MENTION	T285	46	26	46	26	their	PER	PRON
+MENTION	T286	46	35	46	35	their	PER	PRON
+MENTION	T287	46	56	46	56	their	PER	PRON
+MENTION	T288	48	25	48	25	he	PER	PRON
+MENTION	T289	48	35	48	35	their	ORG	PRON
+MENTION	T290	50	13	50	13	his	PER	PRON
+MENTION	T291	50	20	50	20	his	PER	PRON
+MENTION	T292	50	33	50	33	his	PER	PRON
+MENTION	T293	50	46	50	46	his	PER	PRON
+MENTION	T294	50	55	50	55	he	PER	PRON
+MENTION	T295	51	49	51	49	their	PER	PRON
+MENTION	T296	0	3	0	3	Mine	PER	PRON
+MENTION	T297	9	11	9	11	its	LOC	PRON
+MENTION	T298	10	9	10	9	its	LOC	PRON
+MENTION	T299	10	18	10	18	its	LOC	PRON
+MENTION	T300	12	21	12	21	its	LOC	PRON
+MENTION	T301	15	1	15	1	its	LOC	PRON
+MENTION	T304	17	26	17	27	the Alleghany	LOC	PROP
+MENTION	T307	21	19	21	19	its	LOC	PRON
+MENTION	T308	21	35	21	35	its	LOC	PRON
+COREF	T296	Mine-0
+COREF	T232	Mine-0
+COREF	T85	my_kingdom-1
+COREF	T233	Mine-0
+COREF	T86	Shakespeare-2
+COREF	T2	North_America-3
+COREF	T131	the_wilderness-4
+COREF	T1	the_adverse_hosts-5
+COREF	T87	boundary-6
+COREF	T88	the_hostile_provinces_of_France_and_England-7
+COREF	T4	France-8
+COREF	T3	England-9
+COREF	T5	The_hardy_colonist-10
+COREF	T6	the_trained_European_who_fought_at_his_side-11
+COREF	T234	The_hardy_colonist-10
+COREF	T89	the_rapids_of_the_streams-12
+COREF	T90	the_streams-13
+COREF	T91	the_rugged_passes_of_the_mountains-14
+COREF	T92	the_rugged_passes-15
+COREF	T235	hardy_colonist_and_trained_European-16
+COREF	T9	the_practiced_native_warriors-17
+COREF	T236	hardy_colonist_and_trained_European-16
+COREF	T7	no_recess_of_the_woods-18
+COREF	T93	the_woods-19
+COREF	T95	those_who_had_pledged_their_blood_to_satiate_their_vengeance___or_to_uphold_the_cold_and_selfish_policy_of_the_distant_monarchs_of_Europe-20
+COREF	T237	those_who_had_pledged_their_blood_to_satiate_their_vengeance___or_to_uphold_the_cold_and_selfish_policy_of_the_distant_monarchs_of_Europe-20
+COREF	T238	those_who_had_pledged_their_blood_to_satiate_their_vengeance___or_to_uphold_the_cold_and_selfish_policy_of_the_distant_monarchs_of_Europe-20
+COREF	T8	the_distant_monarchs_of_Europe-21
+COREF	T96	Europe-22
+COREF	T98	no_district_throughout_the_wide_extent_of_the_intermediate_frontiers-23
+COREF	T99	the_wide_extent_of_the_intermediate_frontiers-24
+COREF	T97	the_intermediate_frontiers-25
+COREF	T100	the_country_which_lies_between_the_head_waters_of_the_Hudson_and_the_adjacent_lakes-26
+COREF	T101	the_head_waters_of_the_Hudson-27
+COREF	T10	the_Hudson-28
+COREF	T102	the_adjacent_lakes-29
+COREF	T11	nature-30
+COREF	T231	the_country_which_lies_between_the_head_waters_of_the_Hudson_and_the_adjacent_lakes-26
+COREF	T12	the_combatants-31
+COREF	T132	The_lengthened_sheet_of_the_Champlain-32
+COREF	T15	Lake_Champlain-33
+COREF	T16	Canada-34
+COREF	T103	the_borders_of_the_neighboring_province_of_New_York-35
+COREF	T104	the_neighboring_province_of_New_York-36
+COREF	T14	New_York-37
+COREF	T105	a_natural_passage_across_half_the_distance_that_the_French_were_compelled_to_master_in_order_to_strike_their_enemies-38
+COREF	T133	half_the_distance_that_the_French_were_compelled_to_master_in_order_to_strike_their_enemies-39
+COREF	T106	the_French-40
+COREF	T13	their_enemies-41
+COREF	T239	the_French-40
+COREF	T107	its_southern_termination-42
+COREF	T108	Lake_George-43
+COREF	T17	the_Jesuit_missionaries-44
+COREF	T109	Lake_George-43
+COREF	T18	The_less_zealous_English-45
+COREF	T240	The_less_zealous_English-45
+COREF	T110	its_unsullied_fountains-46
+COREF	T297	Lake_George-43
+COREF	T241	The_less_zealous_English-45
+COREF	T19	their_reigning_prince-47
+COREF	T242	The_less_zealous_English-45
+COREF	T111	the_second_of_the_house_of_Hanover-48
+COREF	T20	the_house_of_Hanover-49
+COREF	T21	Hanover-50
+COREF	T134	French_English-51
+COREF	T112	the_untutored_possessors_of_its_wooded_scenery-52
+COREF	T113	its_wooded_scenery-53
+COREF	T298	Lake_George-43
+COREF	T243	the_untutored_possessors_of_its_wooded_scenery-52
+COREF	T114	Lake_George-43
+COREF	T299	Lake_George-43
+COREF	T115	each_nation_of_the_Indians-54
+COREF	T22	the_Indians-55
+COREF	T244	each_nation_of_the_Indians-54
+COREF	T135	the_same_places-56
+COREF	T245	each_nation_of_the_Indians-54
+COREF	T116	Lake_George-43
+COREF	T136	the_tribe_that_dwelt_on_its_banks-57
+COREF	T137	its_banks-58
+COREF	T300	Lake_George-43
+COREF	T117	Lake_George-43
+COREF	T118	the_Lake-59
+COREF	T120	a_sort_of_tail_to_Lake_Champlain-60
+COREF	T23	Lake_Champlain-33
+COREF	T301	Lake_George-43
+COREF	T121	countless_islands-62
+COREF	T122	mountains-63
+COREF	T123	Lake_George-43
+COREF	T124	the_high_plain_that_there_interposed_itself_to_the_further_passage_of_the_water-64
+COREF	T125	the_water-65
+COREF	T25	the_adventurer-66
+COREF	T126	the_banks_of_the_Hudson-67
+COREF	T127	the_Hudson-28
+COREF	T139	a_point_where___with_the_usual_obstructions_of_the_rapids___or_rifts___as_they_were_then_termed_in_the_language_of_the_country___the_river_became_navigable_to_the_tide-68
+COREF	T128	the_rapids-69
+COREF	T129	rifts___as_they_were_then_termed_in_the_language_of_the_country-70
+COREF	T246	rifts___as_they_were_then_termed_in_the_language_of_the_country-70
+COREF	T130	the_country-71
+COREF	T24	the_Hudson-28
+COREF	T247	the_French-40
+COREF	T26	the_French-40
+COREF	T140	the_distant_and_difficult_gorges_of_the_Alleghany-72
+COREF	T304	the_Alleghany-73
+COREF	T248	the_French-40
+COREF	T141	the_district_we_have_just_described-74
+COREF	T249	narrator-75
+COREF	T143	the_colonies-77
+COREF	T144	Forts-78
+COREF	T145	the_different_points_that_commanded_the_facilities_of_the_route-79
+COREF	T28	the_husbandman-80
+COREF	T146	the_dangerous_passes-81
+COREF	T147	the_safer_boundaries_of_the_more_ancient_settlements-82
+COREF	T148	the_more_ancient_settlements-83
+COREF	T149	armies_larger_than_those_that_had_often_disposed_of_the_scepters_of_the_mother_countries-84
+COREF	T150	the_mother_countries-85
+COREF	T250	armies_larger_than_those_that_had_often_disposed_of_the_scepters_of_the_mother_countries-84
+COREF	T151	these_forests___whence_they_rarely_returned_but_in_skeleton_bands___that_were_haggard_with_care_or_dejected_by_defeat-86
+COREF	T251	armies_larger_than_those_that_had_often_disposed_of_the_scepters_of_the_mother_countries-84
+COREF	T27	skeleton_bands___that_were_haggard_with_care_or_dejected_by_defeat-87
+COREF	T152	this_fatal_region-88
+COREF	T29	men-89
+COREF	T153	its_forests-90
+COREF	T94	this_fatal_region-88
+COREF	T307	this_fatal_region-88
+COREF	T154	its_mountains-91
+COREF	T308	this_fatal_region-88
+COREF	T155	many_a_gallant_and_reckless_youth-92
+COREF	T252	many_a_gallant_and_reckless_youth-92
+COREF	T253	them-93
+COREF	T254	many_a_gallant_and_reckless_youth-92
+COREF	T255	narrator-75
+COREF	T30	England-9
+COREF	T31	France-8
+COREF	T32	a_country_that_neither_was_destined_to_retain-94
+COREF	T36	her_military_leaders_abroad-95
+COREF	T256	England-9
+COREF	T156	her_councils_at_home-96
+COREF	T257	England-9
+COREF	T34	home-97
+COREF	T33	England-9
+COREF	T35	her_former_warriors-98
+COREF	T258	England-9
+COREF	T157	statesmen-99
+COREF	T37	her_enemies-100
+COREF	T259	England-9
+COREF	T38	her_servants-101
+COREF	T260	England-9
+COREF	T39	the_colonists-102
+COREF	T261	England-9
+COREF	T262	England-9
+COREF	T263	the_colonists-102
+COREF	T159	a_chosen_army_from_that_country___which___reverencing_as_a_mother___they_had_blindly_believed_invincible-103
+COREF	T160	England-9
+COREF	T41	a_mother-104
+COREF	T264	the_colonists-102
+COREF	T161	a_chosen_army_from_that_country___which___reverencing_as_a_mother___they_had_blindly_believed_invincible-103
+COREF	T162	a_chief_who_had_been_selected_from_a_crowd_of_trained_warriors___for_his_rare_military_endowments___disgracefully_routed_by_a_handful_of_French_and_Indians___and_only_saved_from_annihilation_by_the_coolness_and_spirit_of_a_Virginian_boy___whose_riper_fame_has_since_diffused_itself___with_the_steady_influence_of_moral_truth___to_the_uttermost_confines_of_Christendom-105
+COREF	T163	a_crowd_of_trained_warriors-106
+COREF	T42	trained_warriors-107
+COREF	T265	a_chief_who_had_been_selected_from_a_crowd_of_trained_warriors___for_his_rare_military_endowments___disgracefully_routed_by_a_handful_of_French_and_Indians___and_only_saved_from_annihilation_by_the_coolness_and_spirit_of_a_Virginian_boy___whose_riper_fame_has_since_diffused_itself___with_the_steady_influence_of_moral_truth___to_the_uttermost_confines_of_Christendom-105
+COREF	T164	a_handful_of_French_and_Indians-108
+COREF	T165	French-109
+COREF	T40	Indians-110
+COREF	T166	George_Washington-111
+COREF	T167	A_wide_frontier-112
+COREF	T43	the_colonists-102
+COREF	T168	the_savages-113
+COREF	T169	the_interminable_forests_of_the_west-114
+COREF	T44	the_savages-113
+COREF	T266	the_colonists-102
+COREF	T267	the_colonists-102
+COREF	T45	the_savages-113
+COREF	T170	the_forests-115
+COREF	T171	the_principal_and_barbarous_actors-116
+COREF	T46	the_credulous_and_excited_traveler-117
+COREF	T172	the_wilderness-118
+COREF	T173	the_timid-119
+COREF	T47	mothers-120
+COREF	T174	those_children_which_slumbered_within_the_security_of_the_largest_towns-121
+COREF	T175	the_largest_towns-122
+COREF	T176	those_who_should_have_remembered_their_manhood___the_slaves_of_the_basest_passions-123
+COREF	T268	those_who_should_have_remembered_their_manhood___the_slaves_of_the_basest_passions-123
+COREF	T48	the_slaves_of_the_basest_passions-124
+COREF	T177	that_abject_class-125
+COREF	T269	that_abject_class-125
+COREF	T178	the_English_crown-126
+COREF	T50	America-127
+COREF	T49	their_Christian_foes-128
+COREF	T270	that_abject_class-125
+COREF	T179	their_relentless_allies-129
+COREF	T271	that_abject_class-125
+COREF	T180	George_Washington-111
+COREF	T181	a_chief_who_had_been_selected_from_a_crowd_of_trained_warriors___for_his_rare_military_endowments___disgracefully_routed_by_a_handful_of_French_and_Indians___and_only_saved_from_annihilation_by_the_coolness_and_spirit_of_a_Virginian_boy___whose_riper_fame_has_since_diffused_itself___with_the_steady_influence_of_moral_truth___to_the_uttermost_confines_of_Christendom-105
+COREF	T272	a_chief_who_had_been_selected_from_a_crowd_of_trained_warriors___for_his_rare_military_endowments___disgracefully_routed_by_a_handful_of_French_and_Indians___and_only_saved_from_annihilation_by_the_coolness_and_spirit_of_a_Virginian_boy___whose_riper_fame_has_since_diffused_itself___with_the_steady_influence_of_moral_truth___to_the_uttermost_confines_of_Christendom-105
+COREF	T183	the_remnants_of_the_British_army-130
+COREF	T182	the_British_army-131
+COREF	T273	George_Washington-111
+COREF	T51	George_Washington-111
+COREF	T274	George_Washington-111
+COREF	T184	the_American_armies-132
+COREF	T52	all_America-133
+COREF	T275	George_Washington-111
+COREF	T276	George_Washington-111
+COREF	T185	European-134
+COREF	T53	narrator-75
+COREF	T186	the_mother_country-135
+COREF	T66	the_fort_which_covered_the_southern_termination_of_the_portage_between_the_Hudson_and_the_lakes-136
+COREF	T187	the_southern_termination_of_the_portage_between_the_Hudson_and_the_lakes-137
+COREF	T55	the_Hudson-28
+COREF	T188	the_adjacent_lakes-29
+COREF	T57	Montcalm-138
+COREF	T189	an_army___numerous_as_the_leaves_on_the_trees____-139
+COREF	T56	a_warrior-140
+COREF	T58	an_enemy_within_reach_of_his_blow-141
+COREF	T277	a_warrior-140
+COREF	T190	an_Indian_runner___who_also_bore_an_urgent_request_from_Munro___the_commander_of_a_work_on_the_shore_of_the___holy_lake_____for_a_speedy_and_powerful_reinforcement-142
+COREF	T54	Lake_Champlain-33
+COREF	T119	Lake_George-43
+COREF	T191	Munro-143
+COREF	T193	the_shore_of_the___holy_lake____-144
+COREF	T194	Lake_George-43
+COREF	T195	these_two_posts-145
+COREF	T196	The_rude_path-146
+COREF	T278	these_two_posts-145
+COREF	T59	the_son_of_the_forest-147
+COREF	T60	the_forest-148
+COREF	T197	a_detachment_of_troops___with_their_necessary_baggage-149
+COREF	T279	a_detachment_of_troops___with_their_necessary_baggage-149
+COREF	T63	The_loyal_servants_of_the_British_crown-150
+COREF	T198	the_English_crown-126
+COREF	T199	these_forest-fastnesses-151
+COREF	T62	William_Henry-152
+COREF	T64	Fort_Edward-153
+COREF	T61	a_favorite_prince_of_the_reigning_family-154
+COREF	T200	the_reigning_family-155
+COREF	T201	Munro-143
+COREF	T202	a_regiment_of_regulars-156
+COREF	T68	regulars-157
+COREF	T65	a_few_provincials-158
+COREF	T203	a_force_really_by_far_too_small_to_make_head_against_the_formidable_power_that_Montcalm_was_leading_to_the_foot_of_his_earthen_mounds-159
+COREF	T204	the_formidable_power_that_Montcalm_was_leading_to_the_foot_of_his_earthen_mounds-160
+COREF	T67	Montcalm-138
+COREF	T205	the_foot_of_his_earthen_mounds-161
+COREF	T206	his_earthen_mounds-162
+COREF	T280	Montcalm-138
+COREF	T207	General_Webb-163
+COREF	T70	the_king-164
+COREF	T208	a_body_of_more_than_five_thousand_men-165
+COREF	T69	more_than_five_thousand_men-166
+COREF	T209	the_several_detachments_of_his_command-167
+COREF	T281	General_Webb-163
+COREF	T71	General_Webb-163
+COREF	T72	combatants-168
+COREF	T73	the_enterprising_Frenchman___who_had_ventured_so_far_from_his_reinforcements___with_an_army_but_little_superior_in_numbers-169
+COREF	T211	his_reinforcements-170
+COREF	T282	General_Webb-163
+COREF	T210	an_army_but_little_superior_in_numbers-171
+COREF	T283	their-173
+COREF	T74	both_officers-174
+COREF	T77	men-175
+COREF	T75	their_formidable_antagonists-176
+COREF	T284	their-173
+COREF	T285	their-173
+COREF	T286	their_formidable_antagonists-176
+COREF	T212	the_French-177
+COREF	T76	Fort_du_Quesne-178
+COREF	T287	their_formidable_antagonists-176
+COREF	T213	Fort_Edward-153
+COREF	T214	the_margin_of_the_Hudson-179
+COREF	T215	the_Hudson-28
+COREF	T216	the_body_of_the_fort_itself-180
+COREF	T217	Fort_Edward-153
+COREF	T218	a_chosen_detachment_of_fifteen_hundred_men_was_to_depart___with_the_dawn___for_William_Henry___the_post_at_the_northern_extremity_of_the_portage-181
+COREF	T78	fifteen_hundred_men-182
+COREF	T219	William_Henry-152
+COREF	T221	the_northern_extremity_of_the_portage-183
+COREF	T222	the_portage-184
+COREF	T223	the_quarters_of_the_commander-in-chief-185
+COREF	T224	General_Webb-163
+COREF	T225	the_several_corps_he_had_selected_for_this_service-186
+COREF	T288	General_Webb-163
+COREF	T289	the_several_corps_he_had_selected_for_this_service-186
+COREF	T79	General_Webb-163
+COREF	T81	The_novice_in_the_military_art-187
+COREF	T290	The_novice_in_the_military_art-187
+COREF	T291	The_novice_in_the_military_art-187
+COREF	T80	the_more_practiced_veteran-188
+COREF	T292	the_more_practiced_veteran-188
+COREF	T293	the_more_practiced_veteran-188
+COREF	T294	the_more_practiced_veteran-188
+COREF	T226	the_wilderness-189
+COREF	T227	the_distant_western_hills-190
+COREF	T228	the_secluded_spot-191
+COREF	T82	the_log_cabin_of_some_officer-192
+COREF	T84	some_officer-193
+COREF	T295	their-194
+COREF	T229	William_Henry-152
+COREF	T83	the_vast_forest-195
+COP	T158	T39
+APPOS	T192	T191
+APPOS	T220	T219
+MENTION	T94	21	12	21	12	its	LOC	PRON
+MENTION	T138	0	18	0	18	thou	PER	PRON
+COREF	T138	thou-803
+MENTION	T624	8	1	8	1	its	LOC	PRON
+COREF	T624	The_lengthened_sheet_of_the_Champlain-32
+MENTION	T626	8	5	8	5	it	LOC	PRON
+COREF	T626	The_lengthened_sheet_of_the_Champlain-32
+MENTION	T628	8	40	8	40	it	LOC	PRON
+COREF	T628	Lake_George-43
+MENTION	T630	11	9	11	9	its	GPE	PRON
+COREF	T630	each_nation_of_the_Indians-54
+MENTION	T632	11	12	11	12	its	GPE	PRON
+COREF	T632	each_nation_of_the_Indians-54
+MENTION	T634	13	4	13	4	it	LOC	PRON
+COREF	T634	Lake_George-43
+MENTION	T638	18	0	18	0	It	LOC	PRON
+COREF	T638	the_bloody_arena___in_which_most_of_the_battles_for_the_mastery_of_the_colonies_were_contested-76
+MENTION	T654	51	80	51	80	it	FAC	PRON
+COREF	T654	William_Henry-152
+COP	T142	T638

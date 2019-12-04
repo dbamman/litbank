@@ -1,0 +1,592 @@
+MENTION	T2	0	44	0	50	the woods of the old Cuthbert place	LOC	NOM
+MENTION	T3	0	122	0	123	Mrs. Rachel	PER	PROP
+MENTION	T4	0	14	0	17	the Avonlea main road	FAC	NOM
+MENTION	T5	0	67	0	68	those woods	LOC	NOM
+MENTION	T6	0	142	0	142	children	PER	NOM
+MENTION	T8	0	15	0	15	Avonlea	GPE	PROP
+MENTION	T10	1	6	1	6	Avonlea	GPE	PROP
+MENTION	T11	1	29	1	31	Mrs. Rachel Lynde	PER	PROP
+MENTION	T13	3	33	3	34	Avonlea housekeepers	PER	NOM
+MENTION	T15	3	15	3	15	kitchen	FAC	NOM
+MENTION	T17	4	10	4	14	the Gulf of St. Lawrence	LOC	NOM
+MENTION	T18	4	36	4	38	that hill road	FAC	NOM
+MENTION	T20	4	1	4	1	Avonlea	GPE	PROP
+MENTION	T21	6	18	6	19	the house	FAC	NOM
+MENTION	T22	7	29	7	30	the barn	FAC	NOM
+MENTION	T23	7	33	7	34	Matthew Cuthbert	PER	PROP
+MENTION	T24	7	12	7	15	Rachel Lynde ’s husband	PER	NOM
+MENTION	T26	7	50	7	51	Green Gables	FAC	PROP
+MENTION	T27	8	0	8	1	Mrs. Rachel	PER	PROP
+MENTION	T28	8	25	8	25	Carmody	GPE	PROP
+MENTION	T29	8	12	8	13	Peter Morrison	PER	PROP
+MENTION	T30	8	18	8	22	William J. Blair ’s store	FAC	NOM
+MENTION	T31	9	9	9	10	Matthew Cuthbert	PER	PROP
+MENTION	T33	11	4	11	5	Matthew Cuthbert	PER	PROP
+MENTION	T34	12	9	12	10	Mrs. Rachel	PER	PROP
+MENTION	T36	13	1	13	1	Matthew	PER	PROP
+MENTION	T37	13	33	13	33	strangers	PER	NOM
+MENTION	T38	13	6	13	6	home	FAC	NOM
+MENTION	T39	15	0	15	1	Mrs. Rachel	PER	PROP
+MENTION	T41	16	7	16	8	Green Gables	FAC	PROP
+MENTION	T42	16	24	16	26	the worthy woman	PER	NOM
+MENTION	T43	17	7	17	7	town	GPE	NOM
+MENTION	T44	17	51	17	52	a doctor	PER	NOM
+MENTION	T45	19	32	19	32	Avonlea	GPE	PROP
+MENTION	T46	19	28	19	29	Matthew Cuthbert	PER	PROP
+MENTION	T47	20	23	20	24	the Cuthberts	PER	PROP
+MENTION	T50	21	4	21	6	the long lane	FAC	NOM
+MENTION	T51	22	32	22	33	the woods	LOC	NOM
+MENTION	T52	22	25	22	27	his fellow men	PER	NOM
+MENTION	T54	23	31	23	31	Avonlea	GPE	PROP
+MENTION	T55	23	28	23	32	all the other Avonlea houses	FAC	NOM
+MENTION	T56	24	0	24	2	Mrs. Rachel Lynde	PER	PROP
+MENTION	T58	26	7	26	7	Marilla	PER	PROP
+MENTION	T59	26	5	26	5	Matthew	PER	PROP
+MENTION	T60	30	14	30	15	the Irishman	PER	NOM
+MENTION	T61	31	13	31	14	Green Gables	FAC	PROP
+MENTION	T62	31	7	31	8	the lane	FAC	NOM
+MENTION	T63	31	1	31	3	this Mrs. Rachel	PER	PROP
+MENTION	T65	33	12	33	13	Mrs. Rachel	PER	PROP
+MENTION	T67	34	18	34	19	her house	FAC	NOM
+MENTION	T68	34	7	34	8	Marilla Cuthbert	PER	PROP
+MENTION	T69	36	0	36	1	Mrs. Rachel	PER	PROP
+MENTION	T70	36	6	36	6	kitchen	FAC	NOM
+MENTION	T71	37	6	37	8	a cheerful apartment	FAC	NOM
+MENTION	T72	37	0	37	4	The kitchen at Green Gables	FAC	NOM
+MENTION	T73	37	32	37	34	an unused parlor	FAC	NOM
+MENTION	T74	38	15	38	17	the back yard	FAC	NOM
+MENTION	T75	39	2	39	3	Marilla Cuthbert	PER	PROP
+MENTION	T76	39	28	39	36	a world which was meant to be taken seriously	LOC	NOM
+MENTION	T77	41	8	41	8	Marilla	PER	PROP
+MENTION	T78	41	16	41	16	Matthew	PER	PROP
+MENTION	T80	43	11	43	15	quiet , unmysterious Green Gables	FAC	NOM
+MENTION	T81	43	0	43	1	Mrs. Rachel	PER	PROP
+MENTION	T82	44	7	44	7	Marilla	PER	PROP
+MENTION	T83	48	21	48	22	Mrs. Rachel	PER	PROP
+MENTION	T84	48	18	48	19	Marilla Cuthbert	PER	PROP
+MENTION	T85	51	9	51	10	Mrs. Rachel	PER	PROP
+MENTION	T86	52	17	52	17	Matthew	PER	PROP
+MENTION	T87	55	3	55	4	Mrs. Rachel	PER	PROP
+MENTION	T88	55	14	55	14	Matthew	PER	PROP
+MENTION	T89	57	1	57	1	Matthew	PER	PROP
+MENTION	T90	57	4	57	5	Bright River	GPE	PROP
+MENTION	T93	58	11	58	12	Nova Scotia	GPE	PROP
+MENTION	T94	58	3	58	5	a little boy	PER	NOM
+MENTION	T95	59	9	59	10	Bright River	GPE	PROP
+MENTION	T96	59	1	59	1	Marilla	PER	PROP
+MENTION	T97	59	5	59	5	Matthew	PER	PROP
+MENTION	T99	61	12	61	13	Mrs. Rachel	PER	PROP
+MENTION	T100	61	4	61	4	Marilla	PER	PROP
+MENTION	T101	63	8	63	8	Marilla	PER	PROP
+MENTION	T102	63	13	63	13	boys	PER	NOM
+MENTION	T103	63	30	63	30	Avonlea	GPE	PROP
+MENTION	T104	63	18	63	19	Nova Scotia	GPE	PROP
+MENTION	T105	63	28	63	31	any well-regulated Avonlea farm	FAC	NOM
+MENTION	T106	64	0	64	1	Mrs. Rachel	PER	PROP
+MENTION	T107	66	0	66	1	A boy	PER	NOM
+MENTION	T108	67	8	67	9	a boy	PER	NOM
+MENTION	T109	67	2	67	3	Matthew Cuthbert	PER	PROP
+MENTION	T110	68	2	68	2	orphan	PER	NOM
+MENTION	T111	69	2	69	3	the world	LOC	NOM
+MENTION	T1	0	2	0	4	Mrs. Rachel Lynde	PER	PROP
+MENTION	T112	0	8	0	10	MRS. Rachel Lynde	PER	PROP
+MENTION	T7	0	49	0	49	Cuthbert	PER	PROP
+MENTION	T113	0	47	0	50	the old Cuthbert place	FAC	NOM
+MENTION	T114	0	35	0	50	a brook that had its source away back in the woods of the old Cuthbert place	LOC	NOM
+MENTION	T115	0	57	0	61	an intricate , headlong brook	LOC	NOM
+MENTION	T9	0	84	0	86	Lynde ’s Hollow	LOC	PROP
+MENTION	T116	0	89	0	94	a quiet , well-conducted little stream	LOC	NOM
+MENTION	T117	0	99	0	100	a brook	LOC	NOM
+MENTION	T118	0	104	0	106	Mrs. Rachel Lynde	PER	PROP
+MENTION	T119	0	140	0	140	brooks	LOC	NOM
+MENTION	T120	1	4	1	4	people	PER	NOM
+MENTION	T121	1	17	1	18	their neighbor	PER	NOM
+MENTION	T122	1	47	1	48	other folks	PER	NOM
+MENTION	T123	1	35	1	51	those capable creatures who can manage their own concerns and those of other folks into the bargain	PER	NOM
+MENTION	T124	1	33	1	51	one of those capable creatures who can manage their own concerns and those of other folks into the bargain	PER	NOM
+MENTION	T125	2	2	2	4	a notable housewife	PER	NOM
+MENTION	T12	2	39	2	41	Foreign Missions Auxiliary	ORG	NOM
+MENTION	T126	2	35	2	37	Church Aid Society	ORG	PROP
+MENTION	T14	3	4	3	5	Mrs. Rachel	PER	PROP
+MENTION	T127	3	33	3	33	Avonlea	GPE	PROP
+MENTION	T128	3	54	3	55	the hollow	LOC	NOM
+MENTION	T16	3	59	3	63	the steep red hill beyond	LOC	NOM
+MENTION	T129	3	49	3	63	the main road that crossed the hollow and wound up the steep red hill beyond	FAC	NOM
+MENTION	T19	4	3	4	21	a little triangular peninsula jutting out into the Gulf of St. Lawrence with water on two sides of it	LOC	NOM
+MENTION	T130	4	46	4	47	Mrs. Rachel	PER	PROP
+MENTION	T131	6	12	6	13	the orchard	FAC	NOM
+MENTION	T132	7	0	7	1	Thomas Lynde	PER	PROP
+MENTION	T25	7	12	7	13	Rachel Lynde	PER	PROP
+MENTION	T133	7	8	7	9	Avonlea people	PER	NOM
+MENTION	T134	7	8	7	8	Avonlea	GPE	PROP
+MENTION	T135	7	3	7	16	a meek little man whom Avonlea people called “ Rachel Lynde ’s husband ”	PER	NOM
+MENTION	T136	7	25	7	30	the hill field beyond the barn	LOC	NOM
+MENTION	T137	7	42	7	51	the big red brook field away over by Green Gables	LOC	NOM
+MENTION	T138	8	18	8	20	William J. Blair	PER	PROP
+MENTION	T139	9	0	9	0	Peter	PER	PROP
+MENTION	T32	10	4	10	5	Matthew Cuthbert	PER	PROP
+MENTION	T140	10	21	10	22	the hollow	LOC	NOM
+MENTION	T141	10	25	10	26	the hill	LOC	NOM
+MENTION	T142	10	52	10	52	Avonlea	GPE	PROP
+MENTION	T143	10	57	10	58	the buggy	VEH	NOM
+MENTION	T35	12	7	12	7	Avonlea	GPE	PROP
+MENTION	T144	12	3	12	7	any other man in Avonlea	PER	NOM
+MENTION	T145	13	22	13	25	the shyest man alive	PER	NOM
+MENTION	T146	14	0	14	0	Matthew	PER	PROP
+MENTION	T147	14	11	14	12	a buggy	VEH	NOM
+MENTION	T40	16	15	16	15	Marilla	PER	PROP
+MENTION	T148	17	34	17	35	the buggy	VEH	NOM
+MENTION	T48	20	3	20	4	Mrs. Rachel	PER	PROP
+MENTION	T150	20	15	20	25	the big , rambling , orchard-embowered house where the Cuthberts lived	FAC	NOM
+MENTION	T49	20	37	20	39	Lynde ’s Hollow	LOC	PROP
+MENTION	T151	20	34	20	35	the road	FAC	NOM
+MENTION	T152	22	0	22	1	Matthew Cuthbert	PER	PROP
+MENTION	T153	22	0	22	3	Matthew Cuthbert ’s father	PER	NOM
+MENTION	T53	22	10	22	11	his son	PER	NOM
+MENTION	T154	22	37	22	38	his homestead	FAC	NOM
+MENTION	T155	23	0	23	1	Green Gables	FAC	PROP
+MENTION	T156	23	9	23	11	his cleared land	LOC	NOM
+MENTION	T157	23	23	23	36	the main road along which all the other Avonlea houses were so sociably situated	FAC	NOM
+MENTION	T158	24	8	24	10	such a place	FAC	NOM
+MENTION	T57	25	19	25	28	the deep-rutted , grassy lane bordered with wild rose bushes	FAC	NOM
+MENTION	T159	28	5	28	5	people	PER	NOM
+MENTION	T160	31	10	31	14	the backyard of Green Gables	FAC	NOM
+MENTION	T161	32	7	32	8	that yard	FAC	NOM
+MENTION	T64	34	10	34	11	that yard	FAC	NOM
+MENTION	T66	37	3	37	4	Green Gables	FAC	PROP
+MENTION	T162	38	43	38	45	the left orchard	FAC	NOM
+MENTION	T163	38	56	38	57	the brook	LOC	NOM
+MENTION	T165	40	0	40	1	Mrs. Rachel	PER	PROP
+MENTION	T79	41	12	41	13	some one	PER	NOM
+MENTION	T166	42	3	42	3	Matthew	PER	PROP
+MENTION	T167	44	4	44	4	Rachel	PER	PROP
+MENTION	T168	47	3	47	4	your folks	PER	NOM
+MENTION	T169	49	0	49	0	Marilla	PER	PROP
+MENTION	T170	49	2	49	12	a tall , thin woman , with angles and without curves	PER	NOM
+MENTION	T171	50	3	50	14	a woman of narrow experience and rigid conscience , which she was	PER	NOM
+MENTION	T172	53	7	53	8	the doctor	PER	NOM
+MENTION	T173	54	0	54	0	Marilla	PER	PROP
+MENTION	T174	55	24	55	25	her neighbor	PER	NOM
+MENTION	T92	58	8	58	8	orphan	PER	NOM
+MENTION	T91	58	18	58	19	the train	VEH	NOM
+MENTION	T98	59	16	59	16	Australia	GPE	PROP
+MENTION	T176	59	17	59	18	Mrs. Rachel	PER	PROP
+MENTION	T177	62	6	62	6	Marilla	PER	PROP
+MENTION	T178	63	15	63	15	orphan	PER	NOM
+MENTION	T179	63	15	63	19	orphan asylums in Nova Scotia	FAC	NOM
+MENTION	T175	58	7	58	12	an orphan asylum in Nova Scotia	FAC	NOM
+MENTION	T180	67	0	67	0	Marilla	PER	PROP
+MENTION	T181	67	5	67	6	all people	PER	NOM
+MENTION	T182	68	1	68	3	an orphan asylum	FAC	NOM
+MENTION	T205	4	23	4	31	anybody who went out of it or into it	PER	NOM
+MENTION	T164	38	53	38	57	the hollow by the brook	LOC	NOM
+MENTION	T206	39	0	39	0	Here	FAC	NOM
+MENTION	T207	39	39	39	39	here	FAC	NOM
+MENTION	T208	0	127	0	127	her	PER	PRON
+MENTION	T209	0	148	0	148	she	PER	PRON
+MENTION	T210	0	156	0	156	she	PER	PRON
+MENTION	T211	0	161	0	161	she	PER	PRON
+MENTION	T212	1	17	1	17	their	PER	PRON
+MENTION	T213	1	25	1	25	their	PER	PRON
+MENTION	T214	1	41	1	41	their	PER	PRON
+MENTION	T215	2	0	2	0	She	PER	PRON
+MENTION	T216	2	6	2	6	her	PER	PRON
+MENTION	T217	2	15	2	15	she	PER	PRON
+MENTION	T218	3	14	3	14	her	PER	PRON
+MENTION	T219	3	25	3	25	she	PER	PRON
+MENTION	T221	5	0	5	0	She	PER	PRON
+MENTION	T222	7	20	7	20	his	PER	PRON
+MENTION	T223	7	40	7	40	his	PER	PRON
+MENTION	T224	8	4	8	4	he	PER	PRON
+MENTION	T225	8	7	8	7	she	PER	PRON
+MENTION	T226	8	10	8	10	him	PER	PRON
+MENTION	T227	8	27	8	27	he	PER	PRON
+MENTION	T228	8	31	8	31	his	PER	PRON
+MENTION	T229	9	3	9	3	him	PER	PRON
+MENTION	T230	9	21	9	21	his	PER	PRON
+MENTION	T231	10	30	10	30	he	PER	PRON
+MENTION	T232	10	36	10	36	his	PER	PRON
+MENTION	T233	10	47	10	47	he	PER	PRON
+MENTION	T234	10	55	10	55	he	PER	PRON
+MENTION	T235	10	67	10	67	he	PER	PRON
+MENTION	T236	11	10	11	10	he	PER	PRON
+MENTION	T237	13	18	13	18	him	PER	PRON
+MENTION	T238	13	20	13	20	he	PER	PRON
+MENTION	T239	13	39	13	39	he	PER	PRON
+MENTION	T240	15	5	15	5	she	PER	PRON
+MENTION	T241	15	14	15	14	her	PER	PRON
+MENTION	T242	16	1	16	1	I	PER	PRON
+MENTION	T243	16	17	16	17	he	PER	PRON
+MENTION	T244	17	1	17	1	He	PER	PRON
+MENTION	T245	17	13	17	13	he	PER	PRON
+MENTION	T246	17	20	17	20	he	PER	PRON
+MENTION	T247	17	27	17	27	he	PER	PRON
+MENTION	T248	17	41	17	41	he	PER	PRON
+MENTION	T249	18	10	18	10	him	PER	PRON
+MENTION	T250	19	0	19	0	I	PER	PRON
+MENTION	T251	19	10	19	10	I	PER	PRON
+MENTION	T252	19	23	19	23	I	PER	PRON
+MENTION	T253	20	8	20	8	she	PER	PRON
+MENTION	T254	22	10	22	10	his	PER	PRON
+MENTION	T255	22	13	22	13	him	PER	PRON
+MENTION	T256	22	21	22	21	he	PER	PRON
+MENTION	T257	22	25	22	25	his	PER	PRON
+MENTION	T258	22	35	22	35	he	PER	PRON
+MENTION	T259	22	37	22	37	his	PER	PRON
+MENTION	T260	23	9	23	9	his	PER	PRON
+MENTION	T261	25	13	25	13	she	PER	PRON
+MENTION	T262	25	16	25	16	she	PER	PRON
+MENTION	T263	26	19	26	19	themselves	PER	PRON
+MENTION	T266	28	0	28	0	I	PER	PRON
+MENTION	T267	29	4	29	4	they	PER	PRON
+MENTION	T268	29	12	29	12	I	PER	PRON
+MENTION	T269	29	15	29	15	they	PER	PRON
+MENTION	T270	34	1	34	1	she	PER	PRON
+MENTION	T271	34	16	34	16	she	PER	PRON
+MENTION	T272	34	18	34	18	her	PER	PRON
+MENTION	T273	38	33	38	33	you	PER	PRON
+MENTION	T274	39	6	39	6	she	PER	PRON
+MENTION	T275	39	20	39	20	her	PER	PRON
+MENTION	T276	39	40	39	40	she	PER	PRON
+MENTION	T277	39	50	39	50	her	PER	PRON
+MENTION	T278	40	4	40	4	she	PER	PRON
+MENTION	T279	46	2	46	2	you	PER	PRON
+MENTION	T280	47	3	47	3	your	PER	PRON
+MENTION	T281	48	33	48	33	their	PER	PRON
+MENTION	T282	49	14	49	14	her	PER	PRON
+MENTION	T283	50	0	50	0	She	PER	PRON
+MENTION	T284	50	13	50	13	she	PER	PRON
+MENTION	T285	50	23	50	23	her	PER	PRON
+MENTION	T286	51	1	51	1	We	PER	PRON
+MENTION	T287	52	1	52	1	I	PER	PRON
+MENTION	T288	52	7	52	7	you	PER	PRON
+MENTION	T289	52	15	52	15	I	PER	PRON
+MENTION	T290	53	0	53	0	I	PER	PRON
+MENTION	T291	53	3	53	3	he	PER	PRON
+MENTION	T292	55	0	55	0	She	PER	PRON
+MENTION	T293	55	7	55	7	she	PER	PRON
+MENTION	T294	55	24	55	24	her	PER	PRON
+MENTION	T295	56	5	56	5	I	PER	PRON
+MENTION	T296	56	10	56	10	I	PER	PRON
+MENTION	T297	56	18	56	18	she	PER	PRON
+MENTION	T298	58	0	58	0	We	PER	PRON
+MENTION	T299	58	14	58	14	he	PER	PRON
+MENTION	T300	60	0	60	0	She	PER	PRON
+MENTION	T301	61	9	61	9	her	PER	PRON
+MENTION	T302	62	2	62	2	you	PER	PRON
+MENTION	T303	62	9	62	9	she	PER	PRON
+MENTION	T304	62	15	62	15	her	PER	PRON
+MENTION	T305	64	4	64	4	she	PER	PRON
+MENTION	T306	65	0	65	0	She	PER	PRON
+MENTION	T307	70	0	70	0	She	PER	PRON
+MENTION	T308	0	52	0	52	it	LOC	PRON
+MENTION	T309	0	82	0	82	it	LOC	PRON
+MENTION	T310	0	87	0	87	it	LOC	PRON
+MENTION	T311	0	117	0	117	it	LOC	PRON
+MENTION	T312	4	21	4	21	it	GPE	PRON
+MENTION	T313	4	28	4	28	it	GPE	PRON
+MENTION	T314	4	31	4	31	it	GPE	PRON
+MENTION	T315	21	8	21	8	it	FAC	PRON
+COREF	T1	Mrs__Rachel_Lynde-0
+COREF	T112	Mrs__Rachel_Lynde-0
+COREF	T4	the_Avonlea_main_road-1
+COREF	T8	Avonlea-2
+COREF	T114	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+COREF	T2	the_woods_of_the_old_Cuthbert_place-4
+COREF	T113	Cuthbert_house-5
+COREF	T7	the_Cuthberts-6
+COREF	T5	the_woods_of_the_old_Cuthbert_place-4
+COREF	T9	Lynde__s_Hollow-7
+COREF	T116	a_quiet___well-conducted_little_stream-8
+COREF	T117	a_brook-9
+COREF	T118	Mrs__Rachel_Lynde-0
+COREF	T3	Mrs__Rachel_Lynde-0
+COREF	T208	Mrs__Rachel_Lynde-0
+COREF	T119	brooks-10
+COREF	T6	children-11
+COREF	T209	Mrs__Rachel_Lynde-0
+COREF	T210	Mrs__Rachel_Lynde-0
+COREF	T211	Mrs__Rachel_Lynde-0
+COREF	T120	people-12
+COREF	T10	Avonlea-2
+COREF	T121	their_neighbor-13
+COREF	T212	people-12
+COREF	T213	people-12
+COREF	T11	Mrs__Rachel_Lynde-0
+COREF	T123	those_capable_creatures_who_can_manage_their_own_concerns_and_those_of_other_folks_into_the_bargain-14
+COREF	T214	those_capable_creatures_who_can_manage_their_own_concerns_and_those_of_other_folks_into_the_bargain-14
+COREF	T122	other_folks-15
+COREF	T215	Mrs__Rachel_Lynde-0
+COREF	T216	Mrs__Rachel_Lynde-0
+COREF	T217	Mrs__Rachel_Lynde-0
+COREF	T126	Church_Aid_Society-16
+COREF	T12	Foreign_Missions_Auxiliary-17
+COREF	T14	Mrs__Rachel_Lynde-0
+COREF	T218	Mrs__Rachel_Lynde-0
+COREF	T15	kitchen-18
+COREF	T219	Mrs__Rachel_Lynde-0
+COREF	T13	Avonlea_housekeepers-19
+COREF	T127	Avonlea-2
+COREF	T129	the_Avonlea_main_road-1
+COREF	T128	Lynde__s_Hollow-7
+COREF	T16	the_steep_red_hill_beyond-20
+COREF	T20	Avonlea-2
+COREF	T19	a_little_triangular_peninsula_jutting_out_into_the_Gulf_of_St__Lawrence_with_water_on_two_sides_of_it-21
+COREF	T17	the_Gulf_of_St__Lawrence-22
+COREF	T205	anybody_who_went_out_of_it_or_into_it-23
+COREF	T18	the_Avonlea_main_road-1
+COREF	T130	Mrs__Rachel_Lynde-0
+COREF	T221	Mrs__Rachel_Lynde-0
+COREF	T131	the_orchard-24
+COREF	T132	Thomas_Lynde-25
+COREF	T21	Lynde_house-26
+COREF	T133	Avonlea_people-27
+COREF	T134	Avonlea-2
+COREF	T24	Thomas_Lynde-25
+COREF	T25	Mrs__Rachel_Lynde-0
+COREF	T222	Thomas_Lynde-25
+COREF	T136	the_steep_red_hill_beyond-20
+COREF	T22	the_barn-28
+COREF	T23	Matthew_Cuthbert-29
+COREF	T223	Matthew_Cuthbert-29
+COREF	T137	the_big_red_brook_field_away_over_by_Green_Gables-30
+COREF	T26	Green_Gables-31
+COREF	T27	Mrs__Rachel_Lynde-0
+COREF	T224	Matthew_Cuthbert-29
+COREF	T225	Mrs__Rachel_Lynde-0
+COREF	T226	Matthew_Cuthbert-29
+COREF	T29	Peter_Morrison-32
+COREF	T30	William_J__Blair__s_store-33
+COREF	T138	William_J__Blair-34
+COREF	T28	Carmody-35
+COREF	T227	Matthew_Cuthbert-29
+COREF	T228	Matthew_Cuthbert-29
+COREF	T139	Peter_Morrison-32
+COREF	T229	Matthew_Cuthbert-29
+COREF	T31	Matthew_Cuthbert-29
+COREF	T230	Matthew_Cuthbert-29
+COREF	T32	Matthew_Cuthbert-29
+COREF	T140	Lynde__s_Hollow-7
+COREF	T141	the_steep_red_hill_beyond-20
+COREF	T231	Matthew_Cuthbert-29
+COREF	T232	Matthew_Cuthbert-29
+COREF	T233	Matthew_Cuthbert-29
+COREF	T142	Avonlea-2
+COREF	T234	Matthew_Cuthbert-29
+COREF	T143	the_buggy-36
+COREF	T235	Matthew_Cuthbert-29
+COREF	T33	Matthew_Cuthbert-29
+COREF	T236	Matthew_Cuthbert-29
+COREF	T144	any_other_man_in_Avonlea-37
+COREF	T35	Avonlea-2
+COREF	T34	Mrs__Rachel_Lynde-0
+COREF	T36	Matthew_Cuthbert-29
+COREF	T38	Green_Gables-31
+COREF	T237	Matthew_Cuthbert-29
+COREF	T238	Matthew_Cuthbert-29
+COREF	T37	strangers-38
+COREF	T239	Matthew_Cuthbert-29
+COREF	T146	Matthew_Cuthbert-29
+COREF	T147	a_buggy-39
+COREF	T39	Mrs__Rachel_Lynde-0
+COREF	T240	Mrs__Rachel_Lynde-0
+COREF	T241	Mrs__Rachel_Lynde-0
+COREF	T242	Mrs__Rachel_Lynde-0
+COREF	T41	Green_Gables-31
+COREF	T40	Marilla_Cuthbert-40
+COREF	T243	Matthew_Cuthbert-29
+COREF	T42	Mrs__Rachel_Lynde-0
+COREF	T244	Matthew_Cuthbert-29
+COREF	T43	town-41
+COREF	T245	Matthew_Cuthbert-29
+COREF	T246	Matthew_Cuthbert-29
+COREF	T247	Matthew_Cuthbert-29
+COREF	T148	the_buggy-36
+COREF	T248	Matthew_Cuthbert-29
+COREF	T44	a_doctor-42
+COREF	T249	Matthew_Cuthbert-29
+COREF	T250	Mrs__Rachel_Lynde-0
+COREF	T251	Mrs__Rachel_Lynde-0
+COREF	T252	Mrs__Rachel_Lynde-0
+COREF	T46	Matthew_Cuthbert-29
+COREF	T45	Avonlea-2
+COREF	T48	Mrs__Rachel_Lynde-0
+COREF	T253	Mrs__Rachel_Lynde-0
+COREF	T150	Green_Gables-31
+COREF	T47	the_Cuthberts-6
+COREF	T151	the_Avonlea_main_road-1
+COREF	T49	Lynde__s_Hollow-7
+COREF	T308	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+COREF	T309	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+COREF	T310	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+COREF	T311	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+COREF	T312	Avonlea-2
+COREF	T313	Avonlea-2
+COREF	T314	Avonlea-2
+COREF	T50	the_long_lane-43
+COREF	T315	Green_Gables-31
+COREF	T152	Matthew_Cuthbert-29
+COREF	T153	Matthew_Cuthbert__s_father-44
+COREF	T53	Matthew_Cuthbert-29
+COREF	T254	Matthew_Cuthbert__s_father-44
+COREF	T255	Matthew_Cuthbert__s_father-44
+COREF	T256	Matthew_Cuthbert__s_father-44
+COREF	T52	his_fellow_men-45
+COREF	T257	Matthew_Cuthbert__s_father-44
+COREF	T51	the_woods_of_the_old_Cuthbert_place-4
+COREF	T258	Matthew_Cuthbert__s_father-44
+COREF	T154	Green_Gables-31
+COREF	T259	Matthew_Cuthbert__s_father-44
+COREF	T155	Green_Gables-31
+COREF	T156	his_cleared_land-46
+COREF	T260	Matthew_Cuthbert__s_father-44
+COREF	T157	the_Avonlea_main_road-1
+COREF	T55	all_the_other_Avonlea_houses-47
+COREF	T54	Avonlea-2
+COREF	T56	Mrs__Rachel_Lynde-0
+COREF	T158	Green_Gables-31
+COREF	T261	Mrs__Rachel_Lynde-0
+COREF	T262	Mrs__Rachel_Lynde-0
+COREF	T57	the_long_lane-43
+COREF	T59	Matthew_Cuthbert-29
+COREF	T58	Marilla_Cuthbert-40
+COREF	T263	Matthew_and_Marilla-48
+COREF	T266	Mrs__Rachel_Lynde-0
+COREF	T159	people-49
+COREF	T267	Matthew_and_Marilla-48
+COREF	T268	Mrs__Rachel_Lynde-0
+COREF	T269	Matthew_and_Marilla-48
+COREF	T60	the_Irishman-50
+COREF	T63	Mrs__Rachel_Lynde-0
+COREF	T62	the_long_lane-43
+COREF	T160	the_backyard_of_Green_Gables-51
+COREF	T61	Green_Gables-31
+COREF	T161	that_yard-52
+COREF	T65	Mrs__Rachel_Lynde-0
+COREF	T270	Mrs__Rachel_Lynde-0
+COREF	T68	Marilla_Cuthbert-40
+COREF	T64	that_yard-52
+COREF	T271	Marilla_Cuthbert-40
+COREF	T67	Green_Gables-31
+COREF	T272	Marilla_Cuthbert-40
+COREF	T69	Mrs__Rachel_Lynde-0
+COREF	T70	kitchen-53
+COREF	T72	kitchen-53
+COREF	T66	Green_Gables-31
+COREF	T73	an_unused_parlor-55
+COREF	T74	the_back_yard-56
+COREF	T273	you-57
+COREF	T162	the_left_orchard-58
+COREF	T164	the_hollow_by_the_brook-59
+COREF	T163	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+COREF	T206	kitchen-53
+COREF	T75	Marilla_Cuthbert-40
+COREF	T274	Marilla_Cuthbert-40
+COREF	T275	Marilla_Cuthbert-40
+COREF	T76	a_world_which_was_meant_to_be_taken_seriously-60
+COREF	T207	kitchen-53
+COREF	T276	Marilla_Cuthbert-40
+COREF	T277	Marilla_Cuthbert-40
+COREF	T165	Mrs__Rachel_Lynde-0
+COREF	T278	Mrs__Rachel_Lynde-0
+COREF	T77	Marilla_Cuthbert-40
+COREF	T79	some_one-61
+COREF	T78	Matthew_Cuthbert-29
+COREF	T166	Matthew_Cuthbert-29
+COREF	T81	Mrs__Rachel_Lynde-0
+COREF	T80	Green_Gables-31
+COREF	T167	Mrs__Rachel_Lynde-0
+COREF	T82	Marilla_Cuthbert-40
+COREF	T279	Mrs__Rachel_Lynde-0
+COREF	T168	Lynde_family-62
+COREF	T280	Mrs__Rachel_Lynde-0
+COREF	T84	Marilla_Cuthbert-40
+COREF	T83	Mrs__Rachel_Lynde-0
+COREF	T281	their-63
+COREF	T169	Marilla_Cuthbert-40
+COREF	T282	Marilla_Cuthbert-40
+COREF	T283	Marilla_Cuthbert-40
+COREF	T284	Marilla_Cuthbert-40
+COREF	T285	Marilla_Cuthbert-40
+COREF	T286	Lynde_family-62
+COREF	T85	Mrs__Rachel_Lynde-0
+COREF	T287	Mrs__Rachel_Lynde-0
+COREF	T288	Marilla_Cuthbert-40
+COREF	T289	Mrs__Rachel_Lynde-0
+COREF	T86	Matthew_Cuthbert-29
+COREF	T290	Mrs__Rachel_Lynde-0
+COREF	T291	Matthew_Cuthbert-29
+COREF	T172	a_doctor-42
+COREF	T173	Marilla_Cuthbert-40
+COREF	T292	Marilla_Cuthbert-40
+COREF	T87	Mrs__Rachel_Lynde-0
+COREF	T293	Marilla_Cuthbert-40
+COREF	T88	Matthew_Cuthbert-29
+COREF	T174	Mrs__Rachel_Lynde-0
+COREF	T294	Marilla_Cuthbert-40
+COREF	T295	Marilla_Cuthbert-40
+COREF	T296	Marilla_Cuthbert-40
+COREF	T297	Marilla_Cuthbert-40
+COREF	T89	Matthew_Cuthbert-29
+COREF	T90	Bright_River-64
+COREF	T298	Matthew_and_Marilla-48
+COREF	T94	a_little_boy-65
+COREF	T175	an_orphan_asylum_in_Nova_Scotia-66
+COREF	T92	orphan-67
+COREF	T93	Nova_Scotia-68
+COREF	T299	a_little_boy-65
+COREF	T91	the_train-69
+COREF	T96	Marilla_Cuthbert-40
+COREF	T97	Matthew_Cuthbert-29
+COREF	T95	Bright_River-64
+COREF	T98	Australia-70
+COREF	T176	Mrs__Rachel_Lynde-0
+COREF	T300	Mrs__Rachel_Lynde-0
+COREF	T100	Marilla_Cuthbert-40
+COREF	T301	Mrs__Rachel_Lynde-0
+COREF	T99	Mrs__Rachel_Lynde-0
+COREF	T302	Marilla_Cuthbert-40
+COREF	T177	Marilla_Cuthbert-40
+COREF	T303	Mrs__Rachel_Lynde-0
+COREF	T304	Mrs__Rachel_Lynde-0
+COREF	T101	Marilla_Cuthbert-40
+COREF	T102	boys-71
+COREF	T178	orphan-72
+COREF	T179	orphan_asylums_in_Nova_Scotia-73
+COREF	T104	Nova_Scotia-68
+COREF	T105	any_well-regulated_Avonlea_farm-74
+COREF	T103	Avonlea-2
+COREF	T106	Mrs__Rachel_Lynde-0
+COREF	T305	Mrs__Rachel_Lynde-0
+COREF	T306	Mrs__Rachel_Lynde-0
+COREF	T107	A_boy-75
+COREF	T180	Marilla_Cuthbert-40
+COREF	T109	Matthew_Cuthbert-29
+COREF	T181	all_people-76
+COREF	T108	a_boy-77
+COREF	T182	an_orphan_asylum-78
+COREF	T110	orphan-79
+COREF	T111	the_world-80
+COREF	T307	Mrs__Rachel_Lynde-0
+COP	T115	T308
+COP	T124	T11
+COP	T125	T215
+APPOS	T135	T132
+COP	T145	T238
+COP	T71	T72
+COP	T170	T169
+COP	T171	T283
+MENTION	T632	0	39	0	39	its	LOC	PRON
+COREF	T632	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+MENTION	T634	0	63	0	63	its	LOC	PRON
+COREF	T634	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3
+MENTION	T636	1	10	1	10	it	GPE	PRON
+COREF	T636	Avonlea-2
+MENTION	T644	23	14	23	14	it	FAC	PRON
+COREF	T644	Green_Gables-31
+MENTION	T654	37	16	37	16	it	FAC	PRON
+COREF	T654	kitchen-53
+MENTION	T656	37	26	37	26	it	FAC	PRON
+COREF	T656	kitchen-53
+MENTION	T658	38	0	38	0	Its	FAC	PRON
+COREF	T658	kitchen-53

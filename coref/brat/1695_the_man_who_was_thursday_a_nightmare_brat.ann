@@ -1,0 +1,506 @@
+T1	PROP_GPE 95 101	London
+T3	NOM_PER 446 464	the two sovereigns
+T4	NOM_FAC 788 809	the quaint red houses
+T9	NOM_PER 1875 1882	artists
+T10	NOM_PER 1927 1971	A man who stepped into its social atmosphere
+T11	NOM_GPE 2158 2182	the whole insane village
+T12	NOM_PER 2554 2576	the auburn-haired poet
+T15	NOM_PER 2799 2804	women
+T16	NOM_FAC 2692 2714	his little back garden
+T17	NOM_PER 2775 2778	men
+T18	NOM_PER 2823 2828	women
+T19	NOM_PER 2898 2907	the women
+T20	NOM_PER 3085 3102	no ordinary woman
+T21	NOM_PER 3010 3025	these new women
+T24	NOM_PER 3187 3206	the red-haired poet
+T26	NOM_LOC 4199 4208	the world
+T27	NOM_LOC 4722 4731	the earth
+T29	NOM_PER 5119 5150	the second poet of Saffron Park
+T30	PROP_GPE 5138 5150	Saffron Park
+T31	NOM_PER 5218 5225	a rival
+T32	NOM_PER 5169 5197	the red-haired revolutionary
+T34	NOM_PER 5708 5732	a poet of respectability
+T35	NOM_PER 5669 5684	a poet of order
+T36	NOM_PER 5655 5666	poet of law
+T37	NOM_PER 5868 5885	the anarchic poet
+T39	NOM_PER 6099 6117	a respectable poet
+T41	NOM_PER 6136 6149	a poet of law
+T42	NOM_FAC 6274 6285	this garden
+T44	NOM_PER 6705 6714	An artist
+T45	NOM_PER 6733 6745	an anarchist
+T46	NOM_PER 6804 6816	An anarchist
+T47	NOM_PER 6820 6829	an artist
+T48	NOM_PER 6832 6857	The man who throws a bomb
+T49	NOM_PER 7075 7084	An artist
+T50	NOM_PER 7142 7150	The poet
+T51	NOM_LOC 7226 7235	the world
+T52	PROP_PER 7293 7301	Mr. Syme
+T54	NOM_PER 7421 7428	navvies
+T55	NOM_VEH 7546 7555	the train
+T57	NOM_FAC 7741 7757	the next station
+T59	PROP_FAC 7793 7801	Victoria
+T60	PROP_LOC 7882 7886	Eden
+T62	NOM_FAC 7892 7908	the next station
+T64	NOM_PER 8025 8031	clerks
+T65	NOM_PER 8201 8224	man with one wild arrow
+T66	NOM_PER 8277 8301	man with one wild engine
+T67	NOM_FAC 8310 8327	a distant station
+T68	PROP_GPE 8422 8428	Bagdad
+T69	NOM_VEH 8363 8372	the train
+T70	PROP_FAC 8403 8415	Baker Street
+T71	PROP_FAC 8505 8513	Victoria
+T72	NOM_PER 8435 8438	man
+T73	PROP_FAC 8531 8539	Victoria
+T74	NOM_PER 8644 8692	your Byron , who commemorates the defeats of man
+T75	NOM_PER 8689 8692	man
+T77	NOM_PER 8967 8975	that man
+T78	NOM_VEH 8890 8897	a train
+T79	NOM_PER 8951 8960	besiegers
+T80	PROP_PER 8852 8856	Syme
+T82	PROP_FAC 9086 9094	Victoria
+T84	PROP_FAC 9275 9283	Victoria
+T86	PROP_PER 9427 9431	Adam
+T87	PROP_FAC 9581 9589	Victoria
+T88	PROP_FAC 9632 9640	Victoria
+T89	PROP_FAC 9718 9726	Victoria
+T90	NOM_PER 9735 9743	the poet
+T91	NOM_FAC 9773 9794	the streets of heaven
+T92	NOM_PER 9797 9805	The poet
+T94	NOM_PER 12 25	THE TWO POETS
+T95	PROP_GPE 29 41	SAFFRON PARK
+T96	NOM_GPE 42 68	THE suburb of Saffron Park
+T2	NOM_PER 282 479	a speculative builder , faintly tinged with art , who called its architecture sometimes Elizabethan and sometimes Queen Anne , apparently under the impression that the two sovereigns were identical
+T97	NOM_PER 742 809	The stranger who looked for the first time at the quaint red houses
+T98	NOM_PER 849 859	the people
+T99	NOM_PER 911 921	the people
+T100	NOM_GPE 960 969	The place
+T101	NOM_PER 1086 1096	the people
+T102	NOM_PER 1108 1115	artists
+T103	NOM_PER 1158 1222	That young man with the long , auburn hair and the impudent face
+T5	NOM_PER 1256 1262	a poet
+T6	NOM_PER 1226 1240	that young man
+T104	NOM_PER 1292 1363	That old gentleman with the wild , white beard and the wild , white hat
+T7	NOM_PER 1367 1388	that venerable humbug
+T105	NOM_PER 1404 1417	a philosopher
+T8	NOM_PER 1476 1561	That scientific gentleman with the bald , egg-like head and the bare , bird-like neck
+T106	NOM_GPE 1775 1790	the whole place
+T107	NOM_FAC 2303 2321	the little gardens
+T13	NOM_PER 2581 2589	the hero
+T14	NOM_PER 2649 2657	the hero
+T108	NOM_GPE 2878 2887	the place
+T109	NOM_PER 2890 2907	Most of the women
+T110	NOM_PER 3046 3051	a man
+T22	PROP_PER 3166 3184	Mr. Lucian Gregory
+T111	NOM_PER 3652 3659	a woman
+T112	NOM_PER 3699 3707	a virgin
+T25	NOM_PER 4026 4035	the angel
+T28	NOM_PER 4948 5024	some inhabitants who may remember the evening if only by that oppressive sky
+T113	NOM_PER 5037 5150	others who may remember it because it marked the first appearance in the place of the second poet of Saffron Park
+T114	PROP_PER 5352 5364	Gabriel Syme
+T115	NOM_PER 5299 5364	The new poet , who introduced himself by the name of Gabriel Syme
+T33	NOM_PER 5559 5579	the established poet
+T116	PROP_PER 5582 5589	Gregory
+T117	PROP_PER 5644 5648	Syme
+T118	NOM_PER 5738 5761	all the Saffron Parkers
+T38	PROP_PER 5847 5865	Mr. Lucian Gregory
+T40	NOM_LOC 6071 6080	the earth
+T119	NOM_PER 6290 6350	The man with the meek blue eyes and the pale , pointed beard
+T120	PROP_PER 6443 6450	Gregory
+T122	NOM_PER 6431 6440	the group
+T123	NOM_PER 6412 6440	The third party of the group
+T43	NOM_PER 6634 6651	the family oracle
+T124	PROP_PER 6654 6661	Gregory
+T125	NOM_PER 6861 6870	an artist
+T126	NOM_PER 7047 7072	a few shapeless policemen
+T127	PROP_PER 7324 7331	Gregory
+T53	NOM_PER 7402 7416	all the clerks
+T128	NOM_VEH 7432 7450	the railway trains
+T56	PROP_FAC 7712 7725	Sloane Square
+T58	PROP_FAC 7766 7774	Victoria
+T61	PROP_FAC 7928 7940	Baker Street
+T129	NOM_PER 8442 8452	a magician
+T130	NOM_PER 8703 8744	Bradshaw , who commemorates his victories
+T131	PROP_PER 8755 8763	Bradshaw
+T76	PROP_PER 8803 8810	Gregory
+T81	PROP_FAC 9055 9068	Sloane Square
+T83	NOM_PER 9341 9349	a herald
+T85	PROP_FAC 9393 9401	Victoria
+T132	PROP_PER 9436 9443	Gregory
+T133	NOM_PER 9535 9540	poets
+T134	NOM_FAC 9612 9617	there
+T135	NOM_LOC 9649 9666	the New Jerusalem
+T136	NOM_LOC 9682 9699	the New Jerusalem
+T137	NOM_LOC 9788 9794	heaven
+T93	PROP_PER 9853 9857	Syme
+T121	NOM_PER 6443 6460	Gregory ’s sister
+T138	NOM_PER 6461 6551	Rosamond , who had her brother ’s braids of red hair , but a kindlier face underneath them
+T63	PROP_PER 7997 8001	Syme
+T139	NOM_PER 7988 7996	the poet
+T143	NOM_PER 7361 7372	anyone else
+T144	NOM_FAC 9181 9186	there
+T145	NOM_GPE 699 715	a pleasant place
+T146	NOM_GPE 4137 4147	that place
+T147	NOM_GPE 5106 5115	the place
+T149	PRON_FAC 888 892	them
+T150	PRON_PER 904 906	he
+T151	PRON_PER 926 928	he
+T152	PRON_PER 1016 1018	he
+T153	PRON_PER 1276 1278	he
+T154	PRON_PER 1433 1435	he
+T155	PRON_PER 1608 1610	he
+T156	PRON_PER 1621 1623	He
+T157	PRON_PER 1704 1706	he
+T158	PRON_PER 1742 1749	himself
+T159	PRON_PER 1983 1985	he
+T160	PRON_PER 2642 2644	he
+T161	PRON_PER 2692 2695	his
+T162	PRON_PER 2726 2729	his
+T163	PRON_PER 3116 3119	him
+T164	PRON_PER 3146 3148	he
+T165	PRON_PER 3309 3311	He
+T166	PRON_PER 3459 3461	He
+T167	PRON_PER 3515 3518	his
+T168	PRON_PER 3538 3540	he
+T169	PRON_PER 3594 3597	His
+T170	PRON_PER 3787 3790	his
+T171	PRON_PER 3978 3980	He
+T172	PRON_PER 4283 4286	you
+T174	PRON_PER 4927 4928	I
+T175	PRON_PER 5269 5272	his
+T176	PRON_PER 5329 5336	himself
+T177	PRON_PER 5480 5482	he
+T178	PRON_PER 5502 5504	he
+T179	PRON_PER 5514 5516	He
+T180	PRON_PER 5528 5531	his
+T181	PRON_PER 5626 5628	He
+T182	PRON_PER 5639 5641	he
+T183	PRON_PER 5693 5695	he
+T184	PRON_PER 5701 5703	he
+T185	PRON_PER 5772 5775	him
+T186	PRON_PER 5782 5784	he
+T187	PRON_PER 5936 5938	he
+T188	PRON_PER 5949 5952	his
+T189	PRON_PER 6120 6123	You
+T190	PRON_PER 6128 6131	you
+T191	PRON_PER 6152 6153	I
+T192	PRON_PER 6158 6161	you
+T193	PRON_PER 6193 6194	I
+T194	PRON_PER 6258 6261	you
+T195	PRON_PER 6480 6483	her
+T197	PRON_PER 6613 6616	she
+T198	PRON_PER 6750 6752	he
+T199	PRON_PER 6763 6766	You
+T200	PRON_PER 6881 6883	he
+T201	PRON_PER 6923 6925	He
+T202	PRON_PER 7499 7500	I
+T203	PRON_PER 7511 7514	you
+T204	PRON_PER 7531 7535	they
+T205	PRON_PER 7587 7591	they
+T206	PRON_PER 7617 7621	they
+T207	PRON_PER 7657 7661	they
+T208	PRON_PER 7695 7699	they
+T209	PRON_PER 7726 7730	they
+T210	PRON_PER 7809 7814	their
+T211	PRON_PER 7835 7840	their
+T212	PRON_PER 7861 7866	their
+T213	PRON_PER 7953 7956	you
+T214	PRON_PER 8014 8017	you
+T215	PRON_PER 8042 8046	they
+T216	PRON_PER 8073 8077	your
+T217	PRON_PER 8175 8177	We
+T218	PRON_PER 8459 8462	his
+T219	PRON_PER 8493 8495	he
+T220	PRON_PER 8552 8556	your
+T221	PRON_PER 8594 8596	me
+T222	PRON_PER 8644 8648	your
+T223	PRON_PER 8700 8702	me
+T224	PRON_PER 8731 8734	his
+T225	PRON_PER 8752 8754	me
+T226	PRON_PER 8766 8767	I
+T227	PRON_PER 8783 8786	you
+T228	PRON_PER 8829 8830	I
+T229	PRON_PER 8836 8839	you
+T230	PRON_PER 8907 8908	I
+T231	PRON_PER 9009 9012	You
+T232	PRON_PER 9097 9098	I
+T233	PRON_PER 9167 9168	I
+T234	PRON_PER 9187 9188	I
+T235	PRON_PER 9237 9238	I
+T236	PRON_PER 9327 9329	me
+T237	PRON_PER 9381 9383	me
+T238	PRON_PER 9451 9454	his
+T239	PRON_PER 9520 9522	he
+T240	PRON_PER 9532 9534	we
+T241	PRON_PER 9599 9602	you
+T242	PRON_PER 9622 9625	You
+T243	PRON_PER 9669 9671	We
+T244	PRON_PER 9919 9922	You
+T245	PRON_PER 10104 10105	I
+T246	PRON_PER 10119 10120	I
+T248	PRON_GPE 145 147	It
+T249	PRON_GPE 189 192	its
+T250	PRON_GPE 227 230	its
+T251	PRON_GPE 254 256	It
+T252	PRON_GPE 482 484	It
+T253	PRON_GPE 548 550	it
+T254	PRON_GPE 610 613	its
+T255	PRON_GPE 677 680	its
+T256	PRON_GPE 1950 1953	its
+T257	NOM_PER 3238 3262	a man worth listening to
+T258	NOM_PER 7402 7450	all the clerks and navvies in the railway trains
+T353	THE_TWO_POETS-0 12 25	THE TWO POETS
+T354	SAFFRON_PARK-1 29 41	SAFFRON PARK
+T355	SAFFRON_PARK-1 42 68	THE suburb of Saffron Park
+T260	London-2 95 101	London
+T507	SAFFRON_PARK-1 145 147	It
+T508	SAFFRON_PARK-1 189 192	its
+T509	SAFFRON_PARK-1 227 230	its
+T510	SAFFRON_PARK-1 254 256	It
+T262	the_two_sovereigns-3 446 464	the two sovereigns
+T511	SAFFRON_PARK-1 482 484	It
+T512	SAFFRON_PARK-1 548 550	it
+T513	SAFFRON_PARK-1 610 613	its
+T514	SAFFRON_PARK-1 677 680	its
+T404	a_pleasant_place-4 699 715	a pleasant place
+T356	The_stranger_who_looked_for_the_first_time_at_the_quaint_red_houses-5 742 809	The stranger who looked for the first time at the quaint red houses
+T263	the_quaint_red_houses-6 788 809	the quaint red houses
+T357	the_people-7 849 859	the people
+T408	the_quaint_red_houses-6 888 892	them
+T409	The_stranger_who_looked_for_the_first_time_at_the_quaint_red_houses-5 904 906	he
+T358	the_people-7 911 921	the people
+T410	The_stranger_who_looked_for_the_first_time_at_the_quaint_red_houses-5 926 928	he
+T359	SAFFRON_PARK-1 960 969	The place
+T411	The_stranger_who_looked_for_the_first_time_at_the_quaint_red_houses-5 1016 1018	he
+T360	the_people-8 1086 1096	the people
+T362	Mr__Lucian_Gregory-9 1158 1222	That young man with the long , auburn hair and the impudent face
+T265	Mr__Lucian_Gregory-9 1226 1240	that young man
+T264	a_poet-10 1256 1262	a poet
+T412	Mr__Lucian_Gregory-9 1276 1278	he
+T363	That_old_gentleman_with_the_wild___white_beard_and_the_wild___white_hat-11 1292 1363	That old gentleman with the wild , white beard and the wild , white hat
+T266	That_old_gentleman_with_the_wild___white_beard_and_the_wild___white_hat-11 1367 1388	that venerable humbug
+T364	a_philosopher-12 1404 1417	a philosopher
+T413	That_old_gentleman_with_the_wild___white_beard_and_the_wild___white_hat-11 1433 1435	he
+T267	That_scientific_gentleman_with_the_bald___egg-like_head_and_the_bare___bird-like_neck-13 1476 1561	That scientific gentleman with the bald , egg-like head and the bare , bird-like neck
+T414	That_scientific_gentleman_with_the_bald___egg-like_head_and_the_bare___bird-like_neck-13 1608 1610	he
+T415	That_scientific_gentleman_with_the_bald___egg-like_head_and_the_bare___bird-like_neck-13 1621 1623	He
+T416	That_scientific_gentleman_with_the_bald___egg-like_head_and_the_bare___bird-like_neck-13 1704 1706	he
+T417	That_scientific_gentleman_with_the_bald___egg-like_head_and_the_bare___bird-like_neck-13 1742 1749	himself
+T365	SAFFRON_PARK-1 1775 1790	the whole place
+T268	artists-14 1875 1882	artists
+T269	A_man_who_stepped_into_its_social_atmosphere-15 1927 1971	A man who stepped into its social atmosphere
+T418	A_man_who_stepped_into_its_social_atmosphere-15 1983 1985	he
+T515	SAFFRON_PARK-1 1950 1953	its
+T270	SAFFRON_PARK-1 2158 2182	the whole insane village
+T366	the_little_gardens-16 2303 2321	the little gardens
+T271	Mr__Lucian_Gregory-9 2554 2576	the auburn-haired poet
+T419	Mr__Lucian_Gregory-9 2642 2644	he
+T275	his_little_back_garden-17 2692 2714	his little back garden
+T420	Mr__Lucian_Gregory-9 2692 2695	his
+T421	Mr__Lucian_Gregory-9 2726 2729	his
+T276	men-18 2775 2778	men
+T274	women-19 2799 2804	women
+T277	women-20 2823 2828	women
+T367	SAFFRON_PARK-1 2878 2887	the place
+T368	Most_of_the_women-21 2890 2907	Most of the women
+T278	the_women-22 2898 2907	the women
+T280	these_new_women-23 3010 3025	these new women
+T369	a_man-24 3046 3051	a man
+T279	no_ordinary_woman-25 3085 3102	no ordinary woman
+T422	a_man-24 3116 3119	him
+T423	a_man-24 3146 3148	he
+T281	Mr__Lucian_Gregory-9 3166 3184	Mr. Lucian Gregory
+T424	Mr__Lucian_Gregory-9 3309 3311	He
+T425	Mr__Lucian_Gregory-9 3459 3461	He
+T426	Mr__Lucian_Gregory-9 3515 3518	his
+T427	Mr__Lucian_Gregory-9 3538 3540	he
+T428	Mr__Lucian_Gregory-9 3594 3597	His
+T370	a_woman-26 3652 3659	a woman
+T371	a_virgin-27 3699 3707	a virgin
+T429	Mr__Lucian_Gregory-9 3787 3790	his
+T430	Mr__Lucian_Gregory-9 3978 3980	He
+T284	the_angel-28 4026 4035	the angel
+T405	SAFFRON_PARK-1 4137 4147	that place
+T285	the_world-29 4199 4208	the world
+T431	you-30 4283 4286	you
+T286	the_earth-31 4722 4731	the earth
+T433	Narrator-32 4927 4928	I
+T287	some_inhabitants_who_may_remember_the_evening_if_only_by_that_oppressive_sky-33 4948 5024	some inhabitants who may remember the evening if only by that oppressive sky
+T372	others_who_may_remember_it_because_it_marked_the_first_appearance_in_the_place_of_the_second_poet_of_Saffron_Park-34 5037 5150	others who may remember it because it marked the first appearance in the place of the second poet of Saffron Park
+T406	SAFFRON_PARK-1 5106 5115	the place
+T288	Gabriel_Syme-35 5119 5150	the second poet of Saffron Park
+T289	SAFFRON_PARK-1 5138 5150	Saffron Park
+T291	Mr__Lucian_Gregory-9 5169 5197	the red-haired revolutionary
+T290	a_rival-36 5218 5225	a rival
+T434	Mr__Lucian_Gregory-9 5269 5272	his
+T374	Gabriel_Syme-35 5299 5364	The new poet , who introduced himself by the name of Gabriel Syme
+T435	Gabriel_Syme-35 5329 5336	himself
+T373	Gabriel_Syme-35 5352 5364	Gabriel Syme
+T436	Gabriel_Syme-35 5480 5482	he
+T437	Gabriel_Syme-35 5502 5504	he
+T438	Gabriel_Syme-35 5514 5516	He
+T439	Gabriel_Syme-35 5528 5531	his
+T292	Mr__Lucian_Gregory-9 5559 5579	the established poet
+T375	Mr__Lucian_Gregory-9 5582 5589	Gregory
+T440	Gabriel_Syme-35 5626 5628	He
+T441	Gabriel_Syme-35 5639 5641	he
+T442	Gabriel_Syme-35 5693 5695	he
+T443	Gabriel_Syme-35 5701 5703	he
+T377	all_the_Saffron_Parkers-37 5738 5761	all the Saffron Parkers
+T444	Gabriel_Syme-35 5772 5775	him
+T445	Gabriel_Syme-35 5782 5784	he
+T297	Mr__Lucian_Gregory-9 5847 5865	Mr. Lucian Gregory
+T446	Mr__Lucian_Gregory-9 5936 5938	he
+T447	Mr__Lucian_Gregory-9 5949 5952	his
+T299	the_earth-38 6071 6080	the earth
+T298	a_respectable_poet-39 6099 6117	a respectable poet
+T448	Gabriel_Syme-35 6120 6123	You
+T449	Gabriel_Syme-35 6128 6131	you
+T450	Mr__Lucian_Gregory-9 6152 6153	I
+T451	Gabriel_Syme-35 6158 6161	you
+T452	Mr__Lucian_Gregory-9 6193 6194	I
+T453	Gabriel_Syme-35 6258 6261	you
+T301	his_little_back_garden-17 6274 6285	this garden
+T378	Gabriel_Syme-35 6290 6350	The man with the meek blue eyes and the pale , pointed beard
+T382	The_third_party_of_the_group-40 6412 6440	The third party of the group
+T381	the_group-41 6431 6440	the group
+T379	Gabriel_Syme-35 6443 6450	Gregory
+T397	The_third_party_of_the_group-40 6461 6551	Rosamond , who had her brother ’s braids of red hair , but a kindlier face underneath them
+T454	The_third_party_of_the_group-40 6480 6483	her
+T456	The_third_party_of_the_group-40 6613 6616	she
+T302	Gabriel_Syme-35 6634 6651	the family oracle
+T383	Gabriel_Syme-35 6654 6661	Gregory
+T303	An_artist-42 6705 6714	An artist
+T304	an_anarchist-43 6733 6745	an anarchist
+T457	Gabriel_Syme-35 6750 6752	he
+T458	You-44 6763 6766	You
+T305	An_anarchist-45 6804 6816	An anarchist
+T306	an_artist-46 6820 6829	an artist
+T307	The_man_who_throws_a_bomb-47 6832 6857	The man who throws a bomb
+T384	an_artist-48 6861 6870	an artist
+T459	The_man_who_throws_a_bomb-47 6881 6883	he
+T460	The_man_who_throws_a_bomb-47 6923 6925	He
+T385	a_few_shapeless_policemen-49 7047 7072	a few shapeless policemen
+T308	An_artist-50 7075 7084	An artist
+T309	The_poet-51 7142 7150	The poet
+T310	the_world-52 7226 7235	the world
+T311	Gabriel_Syme-35 7293 7301	Mr. Syme
+T402	anyone_else-53 7361 7372	anyone else
+T312	all_the_clerks-54 7402 7416	all the clerks
+T313	navvies-55 7421 7428	navvies
+T387	the_railway_trains-56 7432 7450	the railway trains
+T517	all_the_clerks_and_navvies_in_the_railway_trains-57 7402 7450	all the clerks and navvies in the railway trains
+T463	all_the_clerks_and_navvies_in_the_railway_trains-57 7531 7535	they
+T314	the_train-58 7546 7555	the train
+T464	all_the_clerks_and_navvies_in_the_railway_trains-57 7587 7591	they
+T465	all_the_clerks_and_navvies_in_the_railway_trains-57 7617 7621	they
+T466	all_the_clerks_and_navvies_in_the_railway_trains-57 7657 7661	they
+T467	all_the_clerks_and_navvies_in_the_railway_trains-57 7695 7699	they
+T315	Sloane_Square-59 7712 7725	Sloane Square
+T468	all_the_clerks_and_navvies_in_the_railway_trains-57 7726 7730	they
+T316	Victoria_Station-60 7741 7757	the next station
+T318	Victoria_Station-60 7793 7801	Victoria
+T469	all_the_clerks_and_navvies_in_the_railway_trains-57 7809 7814	their
+T470	all_the_clerks_and_navvies_in_the_railway_trains-57 7835 7840	their
+T471	all_the_clerks_and_navvies_in_the_railway_trains-57 7861 7866	their
+T319	Eden-61 7882 7886	Eden
+T321	the_next_station-62 7892 7908	the next station
+T386	Mr__Lucian_Gregory-9 7324 7331	Gregory
+T461	Mr__Lucian_Gregory-9 7499 7500	I
+T462	Gabriel_Syme-35 7511 7514	you
+T472	Mr__Lucian_Gregory-9 7953 7956	you
+T398	Gabriel_Syme-35 7988 7996	the poet
+T322	Gabriel_Syme-35 7997 8001	Syme
+T473	Mr__Lucian_Gregory-9 8014 8017	you
+T323	clerks-63 8025 8031	clerks
+T474	clerks-63 8042 8046	they
+T475	Mr__Lucian_Gregory-9 8073 8077	your
+T476	We-64 8175 8177	We
+T324	man_with_one_wild_arrow-65 8201 8224	man with one wild arrow
+T325	man_with_one_wild_engine-66 8277 8301	man with one wild engine
+T326	a_distant_station-67 8310 8327	a distant station
+T328	the_train-68 8363 8372	the train
+T320	Baker_Street-69 7928 7940	Baker Street
+T329	Baker_Street-69 8403 8415	Baker Street
+T327	Bagdad-70 8422 8428	Bagdad
+T331	man-71 8435 8438	man
+T477	man-71 8459 8462	his
+T478	man-71 8493 8495	he
+T330	Victoria_Station-60 8505 8513	Victoria
+T332	Victoria_Station-60 8531 8539	Victoria
+T479	Mr__Lucian_Gregory-9 8552 8556	your
+T480	Gabriel_Syme-35 8594 8596	me
+T333	your_Byron___who_commemorates_the_defeats_of_man-72 8644 8692	your Byron , who commemorates the defeats of man
+T481	Mr__Lucian_Gregory-9 8644 8648	your
+T334	man-73 8689 8692	man
+T482	Gabriel_Syme-35 8700 8702	me
+T389	Bradshaw___who_commemorates_his_victories-74 8703 8744	Bradshaw , who commemorates his victories
+T483	man-73 8731 8734	his
+T484	Gabriel_Syme-35 8752 8754	me
+T390	Bradshaw___who_commemorates_his_victories-74 8755 8763	Bradshaw
+T485	Gabriel_Syme-35 8766 8767	I
+T486	Gabriel_Syme-35 8783 8786	you
+T335	Mr__Lucian_Gregory-9 8803 8810	Gregory
+T487	Gabriel_Syme-35 8829 8830	I
+T488	Mr__Lucian_Gregory-9 8836 8839	you
+T339	Gabriel_Syme-35 8852 8856	Syme
+T337	a_train-75 8890 8897	a train
+T489	Gabriel_Syme-35 8907 8908	I
+T338	besiegers-76 8951 8960	besiegers
+T336	that_man-77 8967 8975	that man
+T490	Mr__Lucian_Gregory-9 9009 9012	You
+T340	Sloane_Square-59 9055 9068	Sloane Square
+T341	Victoria_Station-60 9086 9094	Victoria
+T491	Gabriel_Syme-35 9097 9098	I
+T492	Gabriel_Syme-35 9167 9168	I
+T403	Victoria_Station-60 9181 9186	there
+T493	Gabriel_Syme-35 9187 9188	I
+T494	Gabriel_Syme-35 9237 9238	I
+T343	Victoria_Station-60 9275 9283	Victoria
+T495	Gabriel_Syme-35 9327 9329	me
+T342	a_herald-78 9341 9349	a herald
+T496	Gabriel_Syme-35 9381 9383	me
+T344	Victoria_Station-60 9393 9401	Victoria
+T345	Adam-79 9427 9431	Adam
+T391	Mr__Lucian_Gregory-9 9436 9443	Gregory
+T497	Mr__Lucian_Gregory-9 9451 9454	his
+T498	Mr__Lucian_Gregory-9 9520 9522	he
+T499	we_poets-80 9532 9534	we
+T392	we_poets-80 9535 9540	poets
+T346	Victoria_Station-60 9581 9589	Victoria
+T500	Gabriel_Syme-35 9599 9602	you
+T393	Victoria_Station-60 9612 9617	there
+T501	Gabriel_Syme-35 9622 9625	You
+T347	Victoria_Station-60 9632 9640	Victoria
+T394	the_New_Jerusalem-81 9649 9666	the New Jerusalem
+T502	We-82 9669 9671	We
+T395	the_New_Jerusalem-81 9682 9699	the New Jerusalem
+T348	Victoria_Station-60 9718 9726	Victoria
+T349	the_poet-83 9735 9743	the poet
+T350	the_streets_of_heaven-84 9773 9794	the streets of heaven
+T396	heaven-85 9788 9794	heaven
+T351	The_poet-86 9797 9805	The poet
+T352	Gabriel_Syme-35 9853 9857	Syme
+T503	Mr__Lucian_Gregory-9 9919 9922	You
+T504	Gabriel_Syme-35 10104 10105	I
+T505	Gabriel_Syme-35 10119 10120	I
+R1	cop Arg1:T2 Arg2:T251
+R3	cop Arg1:T13 Arg2:T12
+R4	cop Arg1:T14 Arg2:T160
+R5	appos Arg1:T24 Arg2:T22
+R6	cop Arg1:T257 Arg2:T22
+R7	cop Arg1:T36 Arg2:T182
+R8	cop Arg1:T35 Arg2:T441
+R9	cop Arg1:T34 Arg2:T184
+R10	appos Arg1:T37 Arg2:T38
+R11	cop Arg1:T41 Arg2:T190
+R12	appos Arg1:T121 Arg2:T123
+R13	cop Arg1:T58 Arg2:T57
+R14	cop Arg1:T129 Arg2:T72
+T518	PRON_GPE 343 346	its
+T519	SAFFRON_PARK-1 343 346	its
+T522	PRON_GPE 1821 1823	it
+T523	SAFFRON_PARK-1 1821 1823	it
+T524	PRON_GPE 2074 2076	it
+T525	SAFFRON_PARK-1 2074 2076	it
+T23	artists-700 1108 1115	artists
+R2	appos Arg1:T117 Arg2:T441

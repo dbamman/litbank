@@ -1,0 +1,656 @@
+MENTION	T0	3	4	3	4	Jervis	PER	PROP
+MENTION	T1	3	18	3	21	the John Grier Home	ORG	NOM
+MENTION	T4	10	7	10	7	Sallie	PER	PROP
+MENTION	T5	11	19	11	19	Worcester	GPE	PROP
+MENTION	T6	12	26	12	26	politicians	PER	NOM
+MENTION	T7	16	7	16	10	the John Grier Home	ORG	NOM
+MENTION	T8	18	34	18	34	politicians	PER	NOM
+MENTION	T9	18	45	18	46	society women	PER	NOM
+MENTION	T10	19	36	19	39	the Female Inebriate Asylum	FAC	NOM
+MENTION	T11	19	33	19	39	the inmates of the Female Inebriate Asylum	PER	NOM
+MENTION	T12	19	2	19	4	your moral husband	PER	NOM
+MENTION	T13	19	21	19	21	Worcester	GPE	PROP
+MENTION	T15	21	6	21	7	the politician	PER	NOM
+MENTION	T16	23	5	23	10	those poor defenseless little orphan children	PER	NOM
+MENTION	T17	25	15	25	16	New York	GPE	PROP
+MENTION	T18	28	27	28	28	Mrs. Lippett	PER	PROP
+MENTION	T19	28	24	28	28	a successor to Mrs. Lippett	PER	NOM
+MENTION	T20	31	11	31	12	New York	GPE	PROP
+MENTION	T21	31	5	31	6	Gordon Hallock	PER	PROP
+MENTION	T22	34	6	34	6	Judy	PER	PROP
+MENTION	T25	36	15	36	15	Jane	PER	PROP
+MENTION	T27	37	8	37	11	superintendents of orphan asylums	PER	NOM
+MENTION	T28	37	16	37	17	personal maids	PER	NOM
+MENTION	T29	38	4	38	4	housekeeper	PER	NOM
+MENTION	T30	40	9	40	10	the watchman	PER	NOM
+MENTION	T31	45	15	45	17	the hospital room	FAC	NOM
+MENTION	T33	45	7	45	8	the building	FAC	NOM
+MENTION	T34	48	22	48	24	her flighty mistress	PER	NOM
+MENTION	T35	48	46	48	46	Worcester	GPE	PROP
+MENTION	T36	52	53	52	54	Stone Gate	FAC	PROP
+MENTION	T37	54	20	54	22	twenty-five little girls	PER	NOM
+MENTION	T38	55	24	55	25	a pool	FAC	NOM
+MENTION	T40	58	20	58	22	the dining room	FAC	NOM
+MENTION	T41	59	35	59	35	Lord	PER	PROP
+MENTION	T42	60	0	60	6	The trustee who added that last touch	PER	NOM
+MENTION	T44	61	12	61	13	the world	LOC	NOM
+MENTION	T46	63	23	63	26	that scurrilous Gordon Hallock	PER	PROP
+MENTION	T47	65	24	65	24	orphans	PER	NOM
+MENTION	T48	67	19	67	24	their three or four hundred children	PER	NOM
+MENTION	T49	67	26	67	27	thousand grandchildren	PER	NOM
+MENTION	T50	71	6	71	7	another superintendent	PER	NOM
+MENTION	T51	76	1	76	2	the children	PER	NOM
+MENTION	T53	78	45	78	50	every little boy and girl here	PER	NOM
+MENTION	T54	78	25	78	31	the president of our board of trustees	PER	NOM
+MENTION	T55	78	13	78	16	the John Grier Home	ORG	NOM
+MENTION	T56	78	31	78	31	trustees	PER	NOM
+MENTION	T60	82	0	82	1	The children	PER	NOM
+MENTION	T61	83	18	83	19	a superintendent	PER	NOM
+MENTION	T62	84	0	84	1	My colleagues	PER	NOM
+MENTION	T64	86	0	86	1	Miss Snaith	PER	PROP
+MENTION	T65	86	28	86	29	every child	PER	NOM
+MENTION	T67	88	11	88	13	one small urchin	PER	NOM
+MENTION	T68	89	4	89	5	the yard	FAC	NOM
+MENTION	T69	92	0	92	1	These children	PER	NOM
+MENTION	T70	95	12	95	12	village	GPE	NOM
+MENTION	T71	95	11	95	14	the village drug store	FAC	NOM
+MENTION	T73	98	18	98	18	Jane	PER	PROP
+MENTION	T74	101	0	101	1	Miss Snaith	PER	PROP
+MENTION	T76	102	24	102	25	that woman	PER	NOM
+MENTION	T78	102	13	102	17	an old ladies ' home	FAC	NOM
+MENTION	T79	0	3	0	3	WORCESTER	GPE	PROP
+MENTION	T80	0	5	0	5	MASSACHUSETTS	GPE	PROP
+MENTION	T82	3	19	3	20	John Grier	PER	PROP
+MENTION	T83	4	4	4	5	Sallie McBride	PER	PROP
+MENTION	T84	4	10	4	12	an orphan asylum	FAC	NOM
+MENTION	T85	4	7	4	12	the head of an orphan asylum	PER	NOM
+MENTION	T86	5	0	5	2	My poor people	PER	NOM
+MENTION	T87	6	10	6	12	one hundred children	PER	NOM
+MENTION	T3	6	19	6	20	a zoo	FAC	NOM
+MENTION	T88	6	16	6	20	the curator of a zoo	PER	NOM
+MENTION	T89	7	5	7	8	an interesting Scotch doctor	PER	NOM
+MENTION	T81	1	0	1	1	Dear Judy	PER	PROP
+MENTION	T92	9	14	9	14	Pendleton	PER	PROP
+MENTION	T93	12	2	12	2	Jervis	PER	PROP
+MENTION	T94	12	10	12	13	that confounded young Hallock	PER	PROP
+MENTION	T95	16	8	16	9	John Grier	PER	PROP
+MENTION	T96	18	11	18	11	Jervis	PER	PROP
+MENTION	T97	18	8	18	10	your delectable household	FAC	NOM
+MENTION	T98	21	20	21	23	a very desirable politician	PER	NOM
+MENTION	T14	21	41	21	41	Jervis	PER	PROP
+MENTION	T99	22	21	22	22	the asylum	ORG	NOM
+MENTION	T100	26	3	26	6	the New York Orphanage	FAC	NOM
+MENTION	T101	26	8	26	10	the Foundling Hospital	FAC	PROP
+MENTION	T102	29	13	29	14	SALLIE McBRIDE	PER	PROP
+MENTION	T103	34	0	34	0	Sallie	PER	PROP
+MENTION	T23	35	0	35	3	THE JOHN GRIER HOME	FAC	NOM
+MENTION	T104	35	1	35	2	JOHN GRIER	PER	PROP
+MENTION	T105	36	0	36	1	Dear Judy	PER	PROP
+MENTION	T106	37	10	37	11	orphan asylums	FAC	NOM
+MENTION	T107	38	0	38	2	The night watchman	PER	NOM
+MENTION	T24	43	7	43	9	a strange woodshed	FAC	NOM
+MENTION	T108	44	0	44	0	Jane	PER	PROP
+MENTION	T32	49	18	49	19	the staff	PER	NOM
+MENTION	T109	49	15	49	19	the rest of the staff	PER	NOM
+MENTION	T110	50	15	50	16	my family	PER	NOM
+MENTION	T111	54	25	54	26	the lavatory	FAC	NOM
+MENTION	T112	57	10	57	11	the place	FAC	NOM
+MENTION	T39	61	2	61	2	Judy	PER	PROP
+MENTION	T43	61	27	61	32	pale , listless , blue-uniformed children	PER	NOM
+MENTION	T113	62	7	62	8	one person	PER	NOM
+MENTION	T45	62	22	62	23	a mother	PER	NOM
+MENTION	T114	63	39	63	40	an asylum	FAC	NOM
+MENTION	T115	65	15	65	18	all those seventeen institutions	FAC	NOM
+MENTION	T116	67	6	67	9	a hundred human beings	PER	NOM
+MENTION	T117	72	0	72	0	Jane	PER	PROP
+MENTION	T118	75	0	75	1	The staff	PER	NOM
+MENTION	T119	78	14	78	15	John Grier	PER	PROP
+MENTION	T120	78	21	78	23	Mr. Jervis Pendleton	PER	PROP
+MENTION	T121	78	35	78	36	Mrs. Pendleton	PER	PROP
+MENTION	T52	78	38	78	50	the dear " Aunt Judy " of every little boy and girl here	PER	NOM
+MENTION	T57	81	6	81	7	the institution	ORG	NOM
+MENTION	T122	81	1	81	7	the entire working staff of the institution	PER	NOM
+MENTION	T59	85	4	85	4	Jervis	PER	PROP
+MENTION	T63	85	34	85	36	the kindergarten teacher	PER	NOM
+MENTION	T123	85	27	85	31	the rest of these people	PER	NOM
+MENTION	T66	87	19	87	20	the children	PER	NOM
+MENTION	T72	96	7	96	8	the babies	PER	NOM
+MENTION	T124	96	7	96	10	the babies ' dormitory	FAC	NOM
+MENTION	T125	97	0	97	3	Those poor little tots	PER	NOM
+MENTION	T126	99	4	99	5	SALLIE McBRIDE	PER	PROP
+MENTION	T127	100	8	100	9	the corridor	FAC	NOM
+MENTION	T75	101	7	101	8	the babies	PER	NOM
+MENTION	T128	101	7	101	10	the babies ' dormitory	FAC	NOM
+MENTION	T77	102	13	102	15	an old ladies	PER	NOM
+MENTION	T90	8	2	8	2	Judy	PER	PROP
+MENTION	T129	8	0	8	1	My dear	PER	NOM
+MENTION	T91	8	8	8	8	Jervis	PER	PROP
+MENTION	T130	8	6	8	7	my dear	PER	NOM
+MENTION	T131	28	27	28	27	Mrs.	PER	NOM
+MENTION	T136	42	7	42	8	my family	PER	NOM
+MENTION	T58	79	7	79	9	the Pendleton family	PER	NOM
+MENTION	T137	17	12	17	12	there	FAC	NOM
+MENTION	T138	50	2	50	2	here	FAC	NOM
+MENTION	T139	66	8	66	8	here	FAC	NOM
+MENTION	T140	78	50	78	50	here	FAC	NOM
+MENTION	T141	1	3	1	3	Your	PER	PRON
+MENTION	T142	2	0	2	0	I	PER	PRON
+MENTION	T143	3	1	3	1	I	PER	PRON
+MENTION	T144	3	7	3	7	you	PER	PRON
+MENTION	T145	3	29	3	29	you	PER	PRON
+MENTION	T146	3	32	3	32	me	PER	PRON
+MENTION	T147	4	0	4	0	Me	PER	PRON
+MENTION	T148	4	2	4	2	I	PER	PRON
+MENTION	T149	5	0	5	0	My	PER	PRON
+MENTION	T150	5	5	5	5	you	PER	PRON
+MENTION	T151	5	7	5	7	your	PER	PRON
+MENTION	T152	5	12	5	12	you	PER	PRON
+MENTION	T153	6	0	6	0	I	PER	PRON
+MENTION	T154	7	1	7	1	you	PER	PRON
+MENTION	T155	8	0	8	0	My	PER	PRON
+MENTION	T156	8	6	8	6	my	PER	PRON
+MENTION	T157	8	11	8	11	I	PER	PRON
+MENTION	T158	8	14	8	14	you	PER	PRON
+MENTION	T159	9	0	9	0	I	PER	PRON
+MENTION	T160	10	14	10	14	she	PER	PRON
+MENTION	T161	11	0	11	0	She	PER	PRON
+MENTION	T162	11	10	11	10	her	PER	PRON
+MENTION	T163	12	5	12	5	she	PER	PRON
+MENTION	T164	12	22	12	22	I	PER	PRON
+MENTION	T165	13	0	13	0	We	PER	PRON
+MENTION	T166	13	3	13	3	her	PER	PRON
+MENTION	T167	15	0	15	0	I	PER	PRON
+MENTION	T168	16	0	16	0	We	PER	PRON
+MENTION	T169	16	3	16	3	her	PER	PRON
+MENTION	T170	17	2	17	2	I	PER	PRON
+MENTION	T171	17	5	17	5	him	PER	PRON
+MENTION	T172	17	10	17	10	I	PER	PRON
+MENTION	T173	18	4	18	4	my	PER	PRON
+MENTION	T174	18	8	18	8	your	PER	PRON
+MENTION	T175	18	13	18	13	I	PER	PRON
+MENTION	T176	19	2	19	2	your	PER	PRON
+MENTION	T177	19	6	19	6	I	PER	PRON
+MENTION	T178	19	8	19	8	his	PER	PRON
+MENTION	T179	19	18	19	18	my	PER	PRON
+MENTION	T180	19	22	19	22	I	PER	PRON
+MENTION	T181	20	0	20	0	My	PER	PRON
+MENTION	T182	21	2	21	2	me	PER	PRON
+MENTION	T183	21	4	21	4	you	PER	PRON
+MENTION	T184	21	18	21	18	he	PER	PRON
+MENTION	T185	21	27	21	27	his	PER	PRON
+MENTION	T186	22	0	22	0	Your	PER	PRON
+MENTION	T187	22	4	22	4	my	PER	PRON
+MENTION	T188	22	15	22	15	you	PER	PRON
+MENTION	T189	23	1	23	1	you	PER	PRON
+MENTION	T190	24	0	24	0	I	PER	PRON
+MENTION	T191	24	4	24	4	you	PER	PRON
+MENTION	T192	24	9	24	9	I	PER	PRON
+MENTION	T193	24	15	24	15	you	PER	PRON
+MENTION	T194	25	0	25	0	I	PER	PRON
+MENTION	T195	25	9	25	9	your	PER	PRON
+MENTION	T196	25	13	25	13	you	PER	PRON
+MENTION	T197	25	19	25	19	I	PER	PRON
+MENTION	T198	25	23	25	23	I	PER	PRON
+MENTION	T199	25	33	25	33	you	PER	PRON
+MENTION	T200	27	0	27	0	I	PER	PRON
+MENTION	T201	28	0	28	0	I	PER	PRON
+MENTION	T203	28	10	28	10	you	PER	PRON
+MENTION	T204	28	16	28	16	me	PER	PRON
+MENTION	T205	28	18	28	18	myself	PER	PRON
+MENTION	T206	30	1	30	1	Your	PER	PRON
+MENTION	T207	32	0	32	0	I	PER	PRON
+MENTION	T208	32	3	32	3	you	PER	PRON
+MENTION	T209	32	6	32	6	him	PER	PRON
+MENTION	T210	32	8	32	8	you	PER	PRON
+MENTION	T211	32	10	32	10	him	PER	PRON
+MENTION	T212	34	2	34	2	her	PER	PRON
+MENTION	T213	34	11	34	11	her	PER	PRON
+MENTION	T214	34	13	34	13	I	PER	PRON
+MENTION	T215	34	15	34	15	you	PER	PRON
+MENTION	T216	34	19	34	19	you	PER	PRON
+MENTION	T217	36	3	36	3	We	PER	PRON
+MENTION	T218	36	17	36	17	I	PER	PRON
+MENTION	T219	37	15	37	15	them	PER	PRON
+MENTION	T220	38	12	38	12	me	PER	PRON
+MENTION	T221	39	0	39	0	They	PER	PRON
+MENTION	T222	39	12	39	12	I	PER	PRON
+MENTION	T223	40	0	40	0	I	PER	PRON
+MENTION	T224	40	2	40	2	them	PER	PRON
+MENTION	T227	41	0	41	0	He	PER	PRON
+MENTION	T228	41	5	41	5	I	PER	PRON
+MENTION	T230	42	7	42	7	my	PER	PRON
+MENTION	T231	46	0	46	0	She	PER	PRON
+MENTION	T232	46	3	46	3	you	PER	PRON
+MENTION	T233	47	0	47	0	We	PER	PRON
+MENTION	T234	47	2	47	2	her	PER	PRON
+MENTION	T235	47	6	47	6	she	PER	PRON
+MENTION	T236	48	0	48	0	She	PER	PRON
+MENTION	T237	48	22	48	22	her	PER	PRON
+MENTION	T238	48	32	48	32	we	PER	PRON
+MENTION	T239	48	36	48	36	our	PER	PRON
+MENTION	T240	49	0	49	0	I	PER	PRON
+MENTION	T241	49	3	49	3	she	PER	PRON
+MENTION	T242	49	9	49	9	my	PER	PRON
+MENTION	T243	50	1	50	1	her	PER	PRON
+MENTION	T244	50	13	50	13	you	PER	PRON
+MENTION	T245	50	15	50	15	my	PER	PRON
+MENTION	T246	51	0	51	0	I	PER	PRON
+MENTION	T247	51	2	51	2	their	PER	PRON
+MENTION	T248	51	9	51	9	they	PER	PRON
+MENTION	T249	51	11	51	11	their	PER	PRON
+MENTION	T250	52	1	52	1	I	PER	PRON
+MENTION	T251	52	3	52	3	her	PER	PRON
+MENTION	T252	52	8	52	8	I	PER	PRON
+MENTION	T253	52	20	52	20	I	PER	PRON
+MENTION	T254	52	28	52	28	I	PER	PRON
+MENTION	T255	52	32	52	32	her	PER	PRON
+MENTION	T256	52	37	52	37	me	PER	PRON
+MENTION	T257	52	39	52	39	I	PER	PRON
+MENTION	T258	52	44	52	44	I	PER	PRON
+MENTION	T259	53	2	53	2	we	PER	PRON
+MENTION	T260	53	8	53	8	us	PER	PRON
+MENTION	T261	53	12	53	12	I	PER	PRON
+MENTION	T262	54	0	54	0	I	PER	PRON
+MENTION	T263	54	28	54	28	my	PER	PRON
+MENTION	T264	55	3	55	3	they	PER	PRON
+MENTION	T265	55	15	55	15	they	PER	PRON
+MENTION	T266	56	0	56	0	I	PER	PRON
+MENTION	T267	57	0	57	0	You	PER	PRON
+MENTION	T268	57	6	57	6	me	PER	PRON
+MENTION	T269	57	14	57	14	I	PER	PRON
+MENTION	T270	58	1	58	1	my	PER	PRON
+MENTION	T271	58	15	58	15	myself	PER	PRON
+MENTION	T272	58	18	58	18	I	PER	PRON
+MENTION	T273	61	4	61	4	I	PER	PRON
+MENTION	T274	61	20	61	20	I	PER	PRON
+MENTION	T275	61	40	61	40	me	PER	PRON
+MENTION	T276	61	46	61	46	I	PER	PRON
+MENTION	T277	62	19	62	19	they	PER	PRON
+MENTION	T278	63	0	63	0	I	PER	PRON
+MENTION	T279	63	10	63	10	you	PER	PRON
+MENTION	T280	63	18	63	18	I	PER	PRON
+MENTION	T281	63	34	63	34	my	PER	PRON
+MENTION	T282	64	1	64	1	you	PER	PRON
+MENTION	T283	64	3	64	3	you	PER	PRON
+MENTION	T284	64	5	64	5	me	PER	PRON
+MENTION	T285	65	6	65	6	I	PER	PRON
+MENTION	T286	65	20	65	20	I	PER	PRON
+MENTION	T287	65	30	65	30	my	PER	PRON
+MENTION	T288	66	2	66	2	I	PER	PRON
+MENTION	T289	66	7	66	7	myself	PER	PRON
+MENTION	T290	67	12	67	12	my	PER	PRON
+MENTION	T291	67	19	67	19	their	PER	PRON
+MENTION	T292	70	2	70	2	I	PER	PRON
+MENTION	T293	73	4	73	4	your	PER	PRON
+MENTION	T294	73	15	73	15	me	PER	PRON
+MENTION	T295	76	4	76	4	I	PER	PRON
+MENTION	T296	77	0	77	0	I	PER	PRON
+MENTION	T297	77	4	77	4	you	PER	PRON
+MENTION	T298	77	6	77	6	my	PER	PRON
+MENTION	T299	78	28	78	28	our	PER	PRON
+MENTION	T300	79	5	79	5	my	PER	PRON
+MENTION	T301	80	0	80	0	I	PER	PRON
+MENTION	T302	81	11	81	11	I	PER	PRON
+MENTION	T303	81	37	81	37	my	PER	PRON
+MENTION	T304	83	4	83	4	my	PER	PRON
+MENTION	T305	83	11	83	11	my	PER	PRON
+MENTION	T306	84	0	84	0	My	PER	PRON
+MENTION	T307	84	6	84	6	they	PER	PRON
+MENTION	T308	84	8	84	8	me	PER	PRON
+MENTION	T309	85	0	85	0	I	PER	PRON
+MENTION	T310	85	12	85	12	I	PER	PRON
+MENTION	T311	85	14	85	14	you	PER	PRON
+MENTION	T312	85	16	85	16	he	PER	PRON
+MENTION	T313	86	3	86	3	I	PER	PRON
+MENTION	T314	86	14	86	14	I	PER	PRON
+MENTION	T315	86	26	86	26	I	PER	PRON
+MENTION	T316	87	10	87	10	I	PER	PRON
+MENTION	T317	88	1	88	1	She	PER	PRON
+MENTION	T318	88	5	88	5	us	PER	PRON
+MENTION	T319	88	9	88	9	I	PER	PRON
+MENTION	T320	88	16	88	16	he	PER	PRON
+MENTION	T321	89	0	89	0	They	PER	PRON
+MENTION	T322	89	10	89	10	their	PER	PRON
+MENTION	T323	94	0	94	0	I	PER	PRON
+MENTION	T324	94	9	94	9	your	PER	PRON
+MENTION	T325	95	0	95	0	I	PER	PRON
+MENTION	T326	98	5	98	5	I	PER	PRON
+MENTION	T327	98	20	98	20	I	PER	PRON
+MENTION	T328	100	5	100	5	I	PER	PRON
+MENTION	T329	100	21	100	21	you	PER	PRON
+MENTION	T330	100	23	100	23	I	PER	PRON
+MENTION	T331	102	4	102	4	I	PER	PRON
+MENTION	T332	102	11	102	11	her	PER	PRON
+MENTION	T333	102	19	102	19	I	PER	PRON
+MENTION	T334	51	15	51	15	Jane	PER	PROP
+MENTION	T335	58	1	58	3	my little charges	PER	NOM
+MENTION	T336	62	13	62	16	one hundred little faces	PER	NOM
+MENTION	T337	85	4	85	8	Jervis 's wonderful Scotch doctor	PER	NOM
+COREF	T79	WORCESTER-0
+COREF	T80	MASSACHUSETTS-1
+COREF	T81	Dear_Judy-2
+COREF	T141	Dear_Judy-2
+COREF	T142	narrator_Sallie_McBride-3
+COREF	T143	narrator_Sallie_McBride-3
+COREF	T0	Jervis-4
+COREF	T144	Dear_Judy-2
+COREF	T1	Grier-organization-803
+COREF	T82	John_Grier-6
+COREF	T145	Dear_Judy-2
+COREF	T146	narrator_Sallie_McBride-3
+COREF	T147	narrator_Sallie_McBride-3
+COREF	T148	narrator_Sallie_McBride-3
+COREF	T83	narrator_Sallie_McBride-3
+COREF	T84	an_orphan_asylum-7
+COREF	T86	Judy_Jervis-8
+COREF	T149	narrator_Sallie_McBride-3
+COREF	T150	Judy_Jervis-8
+COREF	T151	Judy_Jervis-8
+COREF	T152	Judy_Jervis-8
+COREF	T153	narrator_Sallie_McBride-3
+COREF	T87	one_hundred_children-9
+COREF	T88	the_curator_of_a_zoo-10
+COREF	T3	a_zoo-11
+COREF	T154	Dear_Judy-2
+COREF	T89	an_interesting_Scotch_doctor-12
+COREF	T129	Dear_Judy-2
+COREF	T155	narrator_Sallie_McBride-3
+COREF	T90	Dear_Judy-2
+COREF	T130	Jervis-4
+COREF	T156	narrator_Sallie_McBride-3
+COREF	T91	Jervis-4
+COREF	T157	narrator_Sallie_McBride-3
+COREF	T158	Judy_Jervis-8
+COREF	T159	narrator_Sallie_McBride-3
+COREF	T92	Pendleton-13
+COREF	T4	narrator_Sallie_McBride-3
+COREF	T160	narrator_Sallie_McBride-3
+COREF	T161	narrator_Sallie_McBride-3
+COREF	T162	narrator_Sallie_McBride-3
+COREF	T5	WORCESTER-0
+COREF	T93	Jervis-4
+COREF	T163	narrator_Sallie_McBride-3
+COREF	T94	Hallock-14
+COREF	T164	Jervis-4
+COREF	T6	politicians-15
+COREF	T165	Judy_Jervis-8
+COREF	T166	narrator_Sallie_McBride-3
+COREF	T167	Jervis-4
+COREF	T168	Judy_Jervis-8
+COREF	T169	narrator_Sallie_McBride-3
+COREF	T7	Grier-organization-803
+COREF	T95	John_Grier-6
+COREF	T170	narrator_Sallie_McBride-3
+COREF	T171	Jervis-4
+COREF	T172	narrator_Sallie_McBride-3
+COREF	T137	there-16
+COREF	T173	narrator_Sallie_McBride-3
+COREF	T97	your_delectable_household-17
+COREF	T174	Judy_Jervis-8
+COREF	T96	Jervis-4
+COREF	T175	narrator_Sallie_McBride-3
+COREF	T8	politicians-18
+COREF	T9	society_women-19
+COREF	T12	Jervis-4
+COREF	T176	Dear_Judy-2
+COREF	T177	narrator_Sallie_McBride-3
+COREF	T178	Jervis-4
+COREF	T179	narrator_Sallie_McBride-3
+COREF	T13	WORCESTER-0
+COREF	T180	narrator_Sallie_McBride-3
+COREF	T11	the_inmates_of_the_Female_Inebriate_Asylum-20
+COREF	T10	the_Female_Inebriate_Asylum-21
+COREF	T181	narrator_Sallie_McBride-3
+COREF	T182	narrator_Sallie_McBride-3
+COREF	T183	Judy_Jervis-8
+COREF	T15	Hallock-14
+COREF	T184	Hallock-14
+COREF	T185	Hallock-14
+COREF	T14	Jervis-4
+COREF	T186	Dear_Judy-2
+COREF	T187	narrator_Sallie_McBride-3
+COREF	T188	Dear_Judy-2
+COREF	T99	Grier-organization-803
+COREF	T189	Dear_Judy-2
+COREF	T16	those_poor_defenseless_little_orphan_children-22
+COREF	T190	narrator_Sallie_McBride-3
+COREF	T191	Dear_Judy-2
+COREF	T192	narrator_Sallie_McBride-3
+COREF	T193	Dear_Judy-2
+COREF	T194	narrator_Sallie_McBride-3
+COREF	T195	Dear_Judy-2
+COREF	T196	Dear_Judy-2
+COREF	T17	New_York-23
+COREF	T197	narrator_Sallie_McBride-3
+COREF	T198	narrator_Sallie_McBride-3
+COREF	T199	Dear_Judy-2
+COREF	T100	the_New_York_Orphanage-24
+COREF	T101	the_Foundling_Hospital-25
+COREF	T200	narrator_Sallie_McBride-3
+COREF	T201	narrator_Sallie_McBride-3
+COREF	T203	Dear_Judy-2
+COREF	T204	narrator_Sallie_McBride-3
+COREF	T205	narrator_Sallie_McBride-3
+COREF	T19	a_successor_to_Mrs__Lippett-26
+COREF	T18	Mrs__Lippett-27
+COREF	T131	narrator_Sallie_McBride-3
+COREF	T102	narrator_Sallie_McBride-3
+COREF	T206	Dear_Judy-2
+COREF	T21	Hallock-14
+COREF	T20	New_York-23
+COREF	T207	narrator_Sallie_McBride-3
+COREF	T208	Dear_Judy-2
+COREF	T209	Hallock-14
+COREF	T210	Dear_Judy-2
+COREF	T211	Hallock-14
+COREF	T103	narrator_Sallie_McBride-3
+COREF	T212	narrator_Sallie_McBride-3
+COREF	T22	Dear_Judy-2
+COREF	T213	narrator_Sallie_McBride-3
+COREF	T214	narrator_Sallie_McBride-3
+COREF	T215	Dear_Judy-2
+COREF	T216	Judy_Jervis-8
+COREF	T23	the_John_Grier_Home-5
+COREF	T104	John_Grier-6
+COREF	T105	Dear_Judy-2
+COREF	T217	Singapore_Jane_Sallie-28
+COREF	T25	Jane-29
+COREF	T218	narrator_Sallie_McBride-3
+COREF	T27	superintendents_of_orphan_asylums-30
+COREF	T106	orphan_asylums-31
+COREF	T219	superintendents_of_orphan_asylums-30
+COREF	T28	personal_maids-32
+COREF	T107	The_night_watchman-33
+COREF	T29	housekeeper-34
+COREF	T220	narrator_Sallie_McBride-3
+COREF	T221	night_watchman_housekeeper-35
+COREF	T222	narrator_Sallie_McBride-3
+COREF	T223	narrator_Sallie_McBride-3
+COREF	T224	night_watchman_housekeeper-35
+COREF	T30	The_night_watchman-33
+COREF	T227	The_night_watchman-33
+COREF	T228	narrator_Sallie_McBride-3
+COREF	T136	my_family-36
+COREF	T230	narrator_Sallie_McBride-3
+COREF	T24	a_strange_woodshed-37
+COREF	T108	Jane-29
+COREF	T33	the_John_Grier_Home-5
+COREF	T31	the_hospital_room-38
+COREF	T231	Jane-29
+COREF	T232	Dear_Judy-2
+COREF	T233	narrator_Sallie_McBride-3
+COREF	T234	Jane-29
+COREF	T235	Jane-29
+COREF	T236	Jane-29
+COREF	T34	narrator_Sallie_McBride-3
+COREF	T237	Jane-29
+COREF	T238	narrator_Sallie_McBride-3
+COREF	T239	narrator_Sallie_McBride-3
+COREF	T35	WORCESTER-0
+COREF	T240	narrator_Sallie_McBride-3
+COREF	T241	Jane-29
+COREF	T242	narrator_Sallie_McBride-3
+COREF	T109	the_rest_of_the_staff-39
+COREF	T32	the_staff-40
+COREF	T243	Jane-29
+COREF	T138	the_John_Grier_Home-5
+COREF	T244	Dear_Judy-2
+COREF	T110	my_family-36
+COREF	T245	narrator_Sallie_McBride-3
+COREF	T246	narrator_Sallie_McBride-3
+COREF	T247	my_family-36
+COREF	T248	my_family-36
+COREF	T249	my_family-36
+COREF	T334	Jane-29
+COREF	T250	narrator_Sallie_McBride-3
+COREF	T251	Jane-29
+COREF	T252	narrator_Sallie_McBride-3
+COREF	T253	narrator_Sallie_McBride-3
+COREF	T254	narrator_Sallie_McBride-3
+COREF	T255	Jane-29
+COREF	T256	narrator_Sallie_McBride-3
+COREF	T257	narrator_Sallie_McBride-3
+COREF	T258	narrator_Sallie_McBride-3
+COREF	T36	Stone_Gate-41
+COREF	T259	Jane_Sallie-42
+COREF	T260	Jane_Sallie-42
+COREF	T261	narrator_Sallie_McBride-3
+COREF	T262	narrator_Sallie_McBride-3
+COREF	T37	twenty-five_little_girls-43
+COREF	T111	the_lavatory-44
+COREF	T263	narrator_Sallie_McBride-3
+COREF	T264	twenty-five_little_girls-43
+COREF	T265	twenty-five_little_girls-43
+COREF	T38	a_pool-45
+COREF	T266	narrator_Sallie_McBride-3
+COREF	T267	Dear_Judy-2
+COREF	T268	narrator_Sallie_McBride-3
+COREF	T112	the_John_Grier_Home-5
+COREF	T269	narrator_Sallie_McBride-3
+COREF	T270	narrator_Sallie_McBride-3
+COREF	T335	twenty-five_little_girls-43
+COREF	T271	narrator_Sallie_McBride-3
+COREF	T272	narrator_Sallie_McBride-3
+COREF	T40	the_dining_room-46
+COREF	T41	Lord-47
+COREF	T42	The_trustee_who_added_that_last_touch-48
+COREF	T39	Dear_Judy-2
+COREF	T273	narrator_Sallie_McBride-3
+COREF	T44	the_world-49
+COREF	T274	narrator_Sallie_McBride-3
+COREF	T43	twenty-five_little_girls-43
+COREF	T275	narrator_Sallie_McBride-3
+COREF	T276	narrator_Sallie_McBride-3
+COREF	T113	one_person-50
+COREF	T336	one_hundred_little_faces-51
+COREF	T277	one_hundred_little_faces-51
+COREF	T45	a_mother-52
+COREF	T278	narrator_Sallie_McBride-3
+COREF	T279	Dear_Judy-2
+COREF	T280	narrator_Sallie_McBride-3
+COREF	T46	Hallock-14
+COREF	T281	narrator_Sallie_McBride-3
+COREF	T114	an_asylum-53
+COREF	T282	Judy_Hallock_Jervis_-54
+COREF	T283	Judy_Hallock_Jervis_-54
+COREF	T284	narrator_Sallie_McBride-3
+COREF	T285	narrator_Sallie_McBride-3
+COREF	T115	all_those_seventeen_institutions-55
+COREF	T286	narrator_Sallie_McBride-3
+COREF	T47	orphans-56
+COREF	T287	narrator_Sallie_McBride-3
+COREF	T288	narrator_Sallie_McBride-3
+COREF	T289	narrator_Sallie_McBride-3
+COREF	T139	the_John_Grier_Home-5
+COREF	T116	one_hundred_little_faces-51
+COREF	T290	narrator_Sallie_McBride-3
+COREF	T48	their_three_or_four_hundred_children-57
+COREF	T291	one_hundred_little_faces-51
+COREF	T49	thousand_grandchildren-58
+COREF	T292	narrator_Sallie_McBride-3
+COREF	T50	another_superintendent-59
+COREF	T117	Jane-29
+COREF	T293	Dear_Judy-2
+COREF	T294	narrator_Sallie_McBride-3
+COREF	T118	the_staff-40
+COREF	T51	one_hundred_little_faces-51
+COREF	T295	narrator_Sallie_McBride-3
+COREF	T296	narrator_Sallie_McBride-3
+COREF	T297	Dear_Judy-2
+COREF	T298	narrator_Sallie_McBride-3
+COREF	T55	Grier-organization-803
+COREF	T119	John_Grier-6
+COREF	T120	Mr__Jervis_Pendleton-60
+COREF	T299	our-61
+COREF	T56	trustees-62
+COREF	T121	Mrs__Pendleton-63
+COREF	T53	one_hundred_little_faces-51
+COREF	T140	the_John_Grier_Home-5
+COREF	T300	narrator_Sallie_McBride-3
+COREF	T58	the_Pendleton_family-64
+COREF	T301	narrator_Sallie_McBride-3
+COREF	T122	the_staff-40
+COREF	T57	Grier-organization-803
+COREF	T302	narrator_Sallie_McBride-3
+COREF	T303	narrator_Sallie_McBride-3
+COREF	T60	one_hundred_little_faces-51
+COREF	T304	narrator_Sallie_McBride-3
+COREF	T305	narrator_Sallie_McBride-3
+COREF	T61	a_superintendent-65
+COREF	T62	the_staff-40
+COREF	T306	narrator_Sallie_McBride-3
+COREF	T307	the_staff-40
+COREF	T308	narrator_Sallie_McBride-3
+COREF	T309	narrator_Sallie_McBride-3
+COREF	T59	Jervis-4
+COREF	T337	an_interesting_Scotch_doctor-12
+COREF	T310	narrator_Sallie_McBride-3
+COREF	T311	Dear_Judy-2
+COREF	T312	an_interesting_Scotch_doctor-12
+COREF	T123	the_staff-40
+COREF	T63	the_kindergarten_teacher-66
+COREF	T64	the_kindergarten_teacher-66
+COREF	T313	narrator_Sallie_McBride-3
+COREF	T314	narrator_Sallie_McBride-3
+COREF	T315	narrator_Sallie_McBride-3
+COREF	T65	every_child-67
+COREF	T316	narrator_Sallie_McBride-3
+COREF	T66	one_hundred_little_faces-51
+COREF	T317	narrator_Sallie_McBride-3
+COREF	T318	one_hundred_little_faces-51
+COREF	T319	narrator_Sallie_McBride-3
+COREF	T67	one_small_urchin-68
+COREF	T320	one_small_urchin-68
+COREF	T321	one_hundred_little_faces-51
+COREF	T68	the_yard-69
+COREF	T322	one_hundred_little_faces-51
+COREF	T69	one_hundred_little_faces-51
+COREF	T323	narrator_Sallie_McBride-3
+COREF	T324	Dear_Judy-2
+COREF	T325	narrator_Sallie_McBride-3
+COREF	T71	the_village_drug_store-70
+COREF	T70	village-71
+COREF	T72	the_babies-72
+COREF	T124	the_babies___dormitory-73
+COREF	T125	the_babies-72
+COREF	T326	narrator_Sallie_McBride-3
+COREF	T73	Dear_Judy-2
+COREF	T327	narrator_Sallie_McBride-3
+COREF	T126	narrator_Sallie_McBride-3
+COREF	T328	narrator_Sallie_McBride-3
+COREF	T127	the_corridor-74
+COREF	T329	Dear_Judy-2
+COREF	T330	narrator_Sallie_McBride-3
+COREF	T74	the_kindergarten_teacher-66
+COREF	T75	the_babies-72
+COREF	T128	the_babies___dormitory-73
+COREF	T331	narrator_Sallie_McBride-3
+COREF	T332	the_kindergarten_teacher-66
+COREF	T78	an_old_ladies___home-75
+COREF	T77	an_old_ladies-76
+COREF	T333	narrator_Sallie_McBride-3
+COREF	T76	the_kindergarten_teacher-66
+APPOS	T85	T83
+COP	T98	T184
+APPOS	T54	T120
+APPOS	T52	T121

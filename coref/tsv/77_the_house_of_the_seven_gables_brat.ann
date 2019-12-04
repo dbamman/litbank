@@ -1,0 +1,482 @@
+MENTION	T0	0	12	0	15	our New England towns	GPE	NOM
+MENTION	T3	1	0	1	1	The street	FAC	NOM
+MENTION	T5	1	6	1	7	the house	FAC	NOM
+MENTION	T6	1	30	1	32	every town-born child	PER	NOM
+MENTION	T10	2	15	2	16	Pyncheon Street	FAC	PROP
+MENTION	T11	3	3	3	5	the venerable mansion	FAC	NOM
+MENTION	T12	5	49	5	51	all New England	LOC	NOM
+MENTION	T13	7	56	7	57	its roof	FAC	NOM
+MENTION	T14	7	25	7	27	its quaint exterior	FAC	NOM
+MENTION	T17	7	15	7	16	the house	FAC	NOM
+MENTION	T18	8	18	8	18	personages	PER	NOM
+MENTION	T19	10	23	10	28	precisely the same spot of ground	LOC	NOM
+MENTION	T20	10	20	10	21	civilized man	PER	NOM
+MENTION	T21	11	0	11	1	Pyncheon Street	FAC	PROP
+MENTION	T23	11	16	11	21	the original occupant of the soil	PER	NOM
+MENTION	T24	12	26	12	27	Matthew Maule	PER	PROP
+MENTION	T28	13	4	13	5	the town	GPE	NOM
+MENTION	T29	13	16	13	22	the site covered by this rude hovel	LOC	NOM
+MENTION	T31	14	3	14	4	the claimant	PER	NOM
+MENTION	T32	15	0	15	1	Matthew Maule	PER	PROP
+MENTION	T34	15	9	15	11	an obscure man	PER	NOM
+MENTION	T35	18	56	18	57	Matthew Maule	PER	PROP
+MENTION	T36	18	35	18	36	Colonel Pyncheon	PER	PROP
+MENTION	T37	18	50	18	57	the small metes and bounds of Matthew Maule	FAC	NOM
+MENTION	T38	21	16	21	17	the cottage	FAC	NOM
+MENTION	T40	21	32	21	37	the little area of his habitation	LOC	NOM
+MENTION	T41	21	13	21	17	the dweller in the cottage	PER	NOM
+MENTION	T42	21	36	21	37	his habitation	FAC	NOM
+MENTION	T43	21	47	21	47	men	PER	NOM
+MENTION	T44	22	0	22	2	Old Matthew Maule	PER	PROP
+MENTION	T47	26	25	26	26	the martyr	PER	NOM
+MENTION	T50	26	40	26	42	his fellow sufferers	PER	NOM
+MENTION	T51	27	21	27	22	Colonel Pyncheon	PER	PROP
+MENTION	T52	27	62	27	63	Matthew Maule	PER	PROP
+MENTION	T53	28	5	28	6	the victim	PER	NOM
+MENTION	T54	28	15	28	16	his persecutor	PER	NOM
+MENTION	T57	29	15	29	16	Colonel Pyncheon	PER	PROP
+MENTION	T58	29	26	29	26	Maule	PER	PROP
+MENTION	T59	31	16	31	17	Colonel Pyncheon	PER	PROP
+MENTION	T60	31	1	31	3	the reputed wizard	PER	NOM
+MENTION	T61	32	8	32	9	the Colonel	PER	NOM
+MENTION	T62	32	43	32	44	Matthew Maule	PER	PROP
+MENTION	T63	33	37	33	38	his house	FAC	NOM
+MENTION	T65	33	6	33	8	the stalwart Puritan	PER	NOM
+MENTION	T67	34	0	34	1	His home	FAC	NOM
+MENTION	T68	34	47	34	51	children of the Pyncheon blood	PER	NOM
+MENTION	T69	34	42	34	43	their brides	PER	NOM
+MENTION	T71	34	37	34	38	future bridegrooms	PER	NOM
+MENTION	T72	34	7	34	11	the dead and buried wizard	PER	NOM
+MENTION	T73	34	4	34	11	the home of the dead and buried wizard	FAC	NOM
+MENTION	T74	35	31	35	35	an old and melancholy house	FAC	NOM
+MENTION	T75	35	5	35	5	Maule	PER	PROP
+MENTION	T76	36	24	36	25	Colonel Pyncheon	PER	PROP
+MENTION	T77	36	27	36	33	a site that had already been accurst	LOC	NOM
+MENTION	T78	37	1	37	3	the Puritan soldier	PER	NOM
+MENTION	T79	37	23	37	24	the wizard	PER	NOM
+MENTION	T80	37	5	37	5	magistrate	PER	NOM
+MENTION	T83	40	18	40	19	the Colonel	PER	NOM
+MENTION	T84	41	12	41	13	his mansion	FAC	NOM
+MENTION	T86	43	1	43	2	its sources	LOC	NOM
+MENTION	T88	43	30	43	30	Maule	PER	PROP
+MENTION	T89	44	8	44	13	any old woman of the neighborhood	PER	NOM
+MENTION	T90	45	0	45	1	The reader	PER	NOM
+MENTION	T91	45	7	45	13	the head carpenter of the new edifice	PER	NOM
+MENTION	T92	46	15	46	16	the Colonel	PER	NOM
+MENTION	T93	46	40	46	42	his fallen antagonist	PER	NOM
+MENTION	T94	47	44	47	45	his father	PER	NOM
+MENTION	T95	47	18	47	19	the son	PER	NOM
+MENTION	T96	48	4	48	5	Thomas Maule	PER	PROP
+MENTION	T97	48	7	48	15	the architect of the House of the Seven Gables	PER	NOM
+MENTION	T2	0	1	0	4	The Old Pyncheon Family	PER	NOM
+MENTION	T98	0	7	0	15	a by-street of one of our New England towns	FAC	NOM
+MENTION	T99	0	10	0	15	one of our New England towns	GPE	NOM
+MENTION	T100	0	13	0	14	New England	LOC	PROP
+MENTION	T101	0	17	0	34	a rusty wooden house , with seven acutely peaked gables , facing towards various points of the compass	FAC	NOM
+MENTION	T1	1	3	1	4	Pyncheon Street	FAC	PROP
+MENTION	T7	1	9	1	12	the old Pyncheon House	FAC	NOM
+MENTION	T4	2	5	2	7	the town aforesaid	GPE	NOM
+MENTION	T8	2	36	2	38	the weather-beaten edifice	FAC	NOM
+MENTION	T9	6	16	6	19	the old Pyncheon House	FAC	NOM
+MENTION	T102	6	24	6	29	the House of the Seven Gables	FAC	NOM
+MENTION	T15	9	19	9	21	the passing generation	PER	NOM
+MENTION	T16	9	52	9	52	mortals	PER	NOM
+MENTION	T103	9	71	9	72	their posterity	PER	NOM
+MENTION	T104	10	0	10	5	The House of the Seven Gables	FAC	PROP
+MENTION	T105	10	15	10	28	the first habitation erected by civilized man on precisely the same spot of ground	FAC	NOM
+MENTION	T22	11	8	11	10	Maule 's Lane	FAC	NOM
+MENTION	T106	11	20	11	21	the soil	LOC	NOM
+MENTION	T107	11	28	11	29	a cow-path	FAC	NOM
+MENTION	T108	12	13	12	21	the sea-girt peninsula where the Puritan settlement was made	LOC	NOM
+MENTION	T25	12	17	12	19	the Puritan settlement	PER	NOM
+MENTION	T109	12	0	12	7	A natural spring of soft and pleasant water	LOC	NOM
+MENTION	T110	12	9	12	21	a rare treasure on the sea-girt peninsula where the Puritan settlement was made	LOC	NOM
+MENTION	T111	12	30	12	35	a hut , shaggy with thatch	FAC	NOM
+MENTION	T26	12	46	12	53	what was then the centre of the village	LOC	NOM
+MENTION	T27	12	52	12	53	the village	GPE	NOM
+MENTION	T112	13	20	13	22	this rude hovel	FAC	NOM
+MENTION	T113	13	31	13	35	a prominent and powerful personage	PER	NOM
+MENTION	T114	13	47	13	52	a large adjacent tract of land	LOC	NOM
+MENTION	T30	13	61	13	62	the legislature	ORG	NOM
+MENTION	T115	14	0	14	1	Colonel Pyncheon	PER	PROP
+MENTION	T116	15	35	15	40	the acre or two of earth	LOC	NOM
+MENTION	T117	15	53	15	55	the primeval forest	LOC	NOM
+MENTION	T33	15	59	15	63	his garden ground and homestead	LOC	NOM
+MENTION	T118	19	13	19	15	two ill-matched antagonists	PER	NOM
+MENTION	T119	19	54	19	59	the party occupying the disputed soil	PER	NOM
+MENTION	T120	19	57	19	59	the disputed soil	LOC	NOM
+MENTION	T121	23	4	23	9	the martyrs to that terrible delusion	PER	NOM
+MENTION	T122	23	22	23	24	the influential classes	PER	NOM
+MENTION	T123	23	27	23	37	those who take upon themselves to be leaders of the people	PER	NOM
+MENTION	T45	23	34	23	37	leaders of the people	PER	NOM
+MENTION	T124	23	36	23	37	the people	PER	NOM
+MENTION	T125	23	51	23	53	the maddest mob	PER	NOM
+MENTION	T126	24	0	24	0	Clergymen	PER	NOM
+MENTION	T127	24	2	24	2	judges	PER	NOM
+MENTION	T128	24	4	24	4	statesmen	PER	NOM
+MENTION	T129	24	7	24	16	the wisest , calmest , holiest persons of their day	PER	NOM
+MENTION	T130	24	24	24	25	the gallows	FAC	NOM
+MENTION	T131	25	29	25	32	the poor and aged	PER	NOM
+MENTION	T132	25	41	25	44	people of all ranks	PER	NOM
+MENTION	T133	25	46	25	53	their own equals , brethren , and wives	PER	NOM
+MENTION	T46	26	13	26	17	a man of inconsiderable note	PER	NOM
+MENTION	T48	26	20	26	20	Maule	PER	PROP
+MENTION	T49	26	37	26	42	the throng of his fellow sufferers	PER	NOM
+MENTION	T134	27	32	27	33	the land	LOC	NOM
+MENTION	T55	30	5	30	7	the dying man	PER	NOM
+MENTION	T56	30	23	30	24	his enemy	PER	NOM
+MENTION	T135	31	7	31	9	his humble homestead	FAC	NOM
+MENTION	T136	32	13	32	44	a family mansion-spacious , ponderously framed of oaken timber , and calculated to endure for many generations of his posterity over the spot first covered by the log-built hut of Matthew Maule	FAC	NOM
+MENTION	T137	32	28	32	32	many generations of his posterity	PER	NOM
+MENTION	T138	32	34	32	44	the spot first covered by the log-built hut of Matthew Maule	LOC	NOM
+MENTION	T139	32	39	32	44	the log-built hut of Matthew Maule	FAC	NOM
+MENTION	T140	32	54	32	56	the village gossips	PER	NOM
+MENTION	T64	33	12	33	17	a man of conscience and integrity	PER	NOM
+MENTION	T66	33	40	33	42	an unquiet grave	FAC	NOM
+MENTION	T141	34	28	34	30	its new apartments	FAC	NOM
+MENTION	T70	34	33	34	55	the chambers into which future bridegrooms were to lead their brides , and where children of the Pyncheon blood were to be born	FAC	NOM
+MENTION	T142	36	6	36	12	so much of the soil around him	LOC	NOM
+MENTION	T143	37	8	37	17	a man to be turned aside from his well-considered scheme	PER	NOM
+MENTION	T144	38	26	38	28	his own ground	LOC	NOM
+MENTION	T81	41	3	41	4	his cellar	FAC	NOM
+MENTION	T82	41	16	41	34	the square of earth whence Matthew Maule , forty years before , had first swept away the fallen leaves	LOC	NOM
+MENTION	T85	41	21	41	22	Matthew Maule	PER	PROP
+MENTION	T145	42	8	42	9	some people	PER	NOM
+MENTION	T146	42	21	42	22	the workmen	PER	NOM
+MENTION	T147	42	27	42	33	the spring of water , above mentioned	LOC	NOM
+MENTION	T148	43	9	43	11	the new cellar	FAC	NOM
+MENTION	T87	43	30	43	32	Maule 's Well	FAC	NOM
+MENTION	T149	44	12	44	13	the neighborhood	FAC	NOM
+MENTION	T150	44	24	44	29	those who quench their thirst there	PER	NOM
+MENTION	T151	45	11	45	13	the new edifice	FAC	NOM
+MENTION	T152	45	18	45	35	the son of the very man from whose dead gripe the property of the soil had been wrested	PER	NOM
+MENTION	T153	45	21	45	35	the very man from whose dead gripe the property of the soil had been wrested	PER	NOM
+MENTION	T154	45	28	45	32	the property of the soil	FAC	NOM
+MENTION	T155	45	31	45	32	the soil	LOC	NOM
+MENTION	T156	46	4	46	9	the best workman of his time	PER	NOM
+MENTION	T158	48	10	48	15	the House of the Seven Gables	FAC	NOM
+MENTION	T157	47	44	47	48	his father 's deadly enemy	PER	NOM
+MENTION	T159	44	29	44	29	there	FAC	NOM
+MENTION	T161	0	12	0	12	our	PER	PRON
+MENTION	T162	2	1	2	1	my	PER	PRON
+MENTION	T163	2	9	2	9	I	PER	PRON
+MENTION	T164	3	9	3	9	me	PER	PRON
+MENTION	T166	7	62	7	62	we	PER	PRON
+MENTION	T167	7	69	7	69	our	PER	PRON
+MENTION	T168	9	56	9	56	they	PER	PRON
+MENTION	T169	9	71	9	71	their	PER	PRON
+MENTION	T170	14	7	14	7	we	PER	PRON
+MENTION	T171	14	13	14	13	him	PER	PRON
+MENTION	T172	15	20	15	20	he	PER	PRON
+MENTION	T173	15	22	15	22	his	PER	PRON
+MENTION	T174	15	31	15	31	he	PER	PRON
+MENTION	T175	15	44	15	44	his	PER	PRON
+MENTION	T176	15	48	15	48	he	PER	PRON
+MENTION	T177	15	59	15	59	his	PER	PRON
+MENTION	T178	17	0	17	0	Our	PER	PRON
+MENTION	T179	19	26	19	26	we	PER	PRON
+MENTION	T180	20	3	20	3	his	PER	PRON
+MENTION	T181	20	14	20	14	our	PER	PRON
+MENTION	T182	21	36	21	36	his	PER	PRON
+MENTION	T183	21	41	21	41	his	PER	PRON
+MENTION	T184	23	0	23	0	He	PER	PRON
+MENTION	T185	23	14	23	14	us	PER	PRON
+MENTION	T186	23	31	23	31	themselves	PER	PRON
+MENTION	T187	24	15	24	15	their	PER	PRON
+MENTION	T188	24	38	24	38	themselves	PER	PRON
+MENTION	T189	25	5	25	5	their	PER	PRON
+MENTION	T190	25	24	25	24	they	PER	PRON
+MENTION	T191	25	46	25	46	their	PER	PRON
+MENTION	T192	26	40	26	40	his	PER	PRON
+MENTION	T193	27	56	27	56	he	PER	PRON
+MENTION	T194	28	15	28	15	his	PER	PRON
+MENTION	T195	28	20	28	20	him	PER	PRON
+MENTION	T196	28	24	28	24	he	PER	PRON
+MENTION	T197	28	26	28	26	himself	PER	PRON
+MENTION	T198	28	31	28	31	his	PER	PRON
+MENTION	T199	29	10	29	10	his	PER	PRON
+MENTION	T200	29	29	29	29	him	PER	PRON
+MENTION	T201	30	10	30	10	his	PER	PRON
+MENTION	T202	30	23	30	23	his	PER	PRON
+MENTION	T203	30	31	30	31	him	PER	PRON
+MENTION	T204	31	7	31	7	his	PER	PRON
+MENTION	T205	32	31	32	31	his	PER	PRON
+MENTION	T206	33	26	33	26	they	PER	PRON
+MENTION	T207	33	32	33	32	he	PER	PRON
+MENTION	T208	33	37	33	37	his	PER	PRON
+MENTION	T209	34	0	34	0	His	PER	PRON
+MENTION	T210	34	42	34	42	their	PER	PRON
+MENTION	T211	35	13	35	13	his	PER	PRON
+MENTION	T212	35	25	35	25	them	PER	PRON
+MENTION	T213	36	12	36	12	him	PER	PRON
+MENTION	T214	37	15	37	15	his	PER	PRON
+MENTION	T215	38	1	38	1	he	PER	PRON
+MENTION	T216	38	13	38	13	him	PER	PRON
+MENTION	T217	38	17	38	17	he	PER	PRON
+MENTION	T218	38	26	38	26	his	PER	PRON
+MENTION	T219	39	26	39	26	he	PER	PRON
+MENTION	T220	39	29	39	29	his	PER	PRON
+MENTION	T221	40	16	40	16	him	PER	PRON
+MENTION	T222	40	24	40	24	his	PER	PRON
+MENTION	T223	41	0	41	0	He	PER	PRON
+MENTION	T224	41	3	41	3	his	PER	PRON
+MENTION	T225	41	12	41	12	his	PER	PRON
+MENTION	T226	42	24	42	24	their	PER	PRON
+MENTION	T227	44	2	44	2	we	PER	PRON
+MENTION	T228	44	27	44	27	their	PER	PRON
+MENTION	T229	46	2	46	2	he	PER	PRON
+MENTION	T230	46	8	46	8	his	PER	PRON
+MENTION	T231	46	40	46	40	his	PER	PRON
+MENTION	T232	47	44	47	44	his	PER	PRON
+MENTION	T233	48	19	48	19	his	PER	PRON
+MENTION	T234	48	29	48	29	his	PER	PRON
+MENTION	T235	24	0	24	4	Clergymen , judges , statesmen	PER	NOM
+COREF	T2	The_Old_Pyncheon_Family-0
+COREF	T98	Pyncheon_Street-1
+COREF	T99	one_of_our_New_England_towns-2
+COREF	T0	our_New_England_towns-3
+COREF	T161	our-4
+COREF	T100	New_England-5
+COREF	T101	House_of_the_Seven_Gables-6
+COREF	T3	Pyncheon_Street-1
+COREF	T5	House_of_the_Seven_Gables-6
+COREF	T6	every_town-born_child-7
+COREF	T162	Narrator-8
+COREF	T4	one_of_our_New_England_towns-2
+COREF	T163	Narrator-8
+COREF	T10	Pyncheon_Street-1
+COREF	T8	House_of_the_Seven_Gables-6
+COREF	T11	House_of_the_Seven_Gables-6
+COREF	T164	Narrator-8
+COREF	T12	all_New_England-9
+COREF	T9	House_of_the_Seven_Gables-6
+COREF	T17	House_of_the_Seven_Gables-6
+COREF	T14	its_quaint_exterior-10
+COREF	T13	its_roof-11
+COREF	T166	we-12
+COREF	T167	our-13
+COREF	T18	personages-14
+COREF	T15	the_passing_generation-15
+COREF	T16	mortals-16
+COREF	T168	mortals-16
+COREF	T103	their_posterity-17
+COREF	T169	mortals-16
+COREF	T104	House_of_the_Seven_Gables-6
+COREF	T20	civilized_man-18
+COREF	T19	disputed_land-19
+COREF	T21	Pyncheon_Street-1
+COREF	T22	Maule__s_Lane-20
+COREF	T23	the_original_occupant_of_the_soil-21
+COREF	T106	disputed_land-19
+COREF	T109	A_natural_spring_of_soft_and_pleasant_water-22
+COREF	T108	the_sea-girt_peninsula_where_the_Puritan_settlement_was_made-23
+COREF	T25	the_Puritan_settlement-24
+COREF	T24	Matthew_Maule-25
+COREF	T111	a_hut___shaggy_with_thatch-26
+COREF	T26	what_was_then_the_centre_of_the_village-27
+COREF	T27	the_village-28
+COREF	T28	the_village-28
+COREF	T112	a_hut___shaggy_with_thatch-26
+COREF	T29	disputed_land-19
+COREF	T113	Colonel_Pyncheon-30
+COREF	T114	disputed_land-19
+COREF	T30	the_legislature-31
+COREF	T115	Colonel_Pyncheon-30
+COREF	T170	we-32
+COREF	T171	Colonel_Pyncheon-30
+COREF	T32	Matthew_Maule-25
+COREF	T172	Colonel_Pyncheon-30
+COREF	T173	Colonel_Pyncheon-30
+COREF	T174	Colonel_Pyncheon-30
+COREF	T116	disputed_land-19
+COREF	T175	Colonel_Pyncheon-30
+COREF	T176	Colonel_Pyncheon-30
+COREF	T117	the_primeval_forest-33
+COREF	T33	his_garden_ground_and_homestead-34
+COREF	T177	Colonel_Pyncheon-30
+COREF	T178	Our-35
+COREF	T36	Colonel_Pyncheon-30
+COREF	T37	the_small_metes_and_bounds_of_Matthew_Maule-36
+COREF	T35	Matthew_Maule-25
+COREF	T118	two_ill-matched_antagonists-37
+COREF	T179	we-38
+COREF	T119	Matthew_Maule-25
+COREF	T120	disputed_land-19
+COREF	T180	Matthew_Maule-25
+COREF	T181	our-39
+COREF	T41	Matthew_Maule-25
+COREF	T38	a_hut___shaggy_with_thatch-26
+COREF	T40	disputed_land-19
+COREF	T42	a_hut___shaggy_with_thatch-26
+COREF	T182	Matthew_Maule-25
+COREF	T183	Matthew_Maule-25
+COREF	T43	men-40
+COREF	T44	Matthew_Maule-25
+COREF	T184	Matthew_Maule-25
+COREF	T185	us-41
+COREF	T122	the_influential_classes-42
+COREF	T123	those_who_take_upon_themselves_to_be_leaders_of_the_people-43
+COREF	T186	those_who_take_upon_themselves_to_be_leaders_of_the_people-43
+COREF	T45	leaders_of_the_people-44
+COREF	T124	the_people-45
+COREF	T125	the_maddest_mob-46
+COREF	T126	Clergymen-47
+COREF	T127	judges-48
+COREF	T128	statesmen-49
+COREF	T235	Clergymen___judges___statesmen-50
+COREF	T187	Clergymen___judges___statesmen-50
+COREF	T130	the_gallows-51
+COREF	T188	Clergymen___judges___statesmen-50
+COREF	T189	Clergymen___judges___statesmen-50
+COREF	T190	Clergymen___judges___statesmen-50
+COREF	T131	the_poor_and_aged-52
+COREF	T132	people_of_all_ranks-53
+COREF	T133	their_own_equals___brethren___and_wives-54
+COREF	T191	Clergymen___judges___statesmen-50
+COREF	T46	a_man_of_inconsiderable_note-55
+COREF	T48	Matthew_Maule-25
+COREF	T47	the_martyr-56
+COREF	T49	the_throng_of_his_fellow_sufferers-57
+COREF	T50	his_fellow_sufferers-58
+COREF	T192	Matthew_Maule-25
+COREF	T51	Colonel_Pyncheon-30
+COREF	T134	the_land-59
+COREF	T193	Colonel_Pyncheon-30
+COREF	T52	Matthew_Maule-25
+COREF	T53	Matthew_Maule-25
+COREF	T54	Colonel_Pyncheon-30
+COREF	T194	Matthew_Maule-25
+COREF	T195	Matthew_Maule-25
+COREF	T196	Matthew_Maule-25
+COREF	T197	Matthew_Maule-25
+COREF	T198	Matthew_Maule-25
+COREF	T199	Matthew_Maule-25
+COREF	T57	Colonel_Pyncheon-30
+COREF	T58	Matthew_Maule-25
+COREF	T200	Colonel_Pyncheon-30
+COREF	T55	Matthew_Maule-25
+COREF	T201	Matthew_Maule-25
+COREF	T56	Colonel_Pyncheon-30
+COREF	T202	Matthew_Maule-25
+COREF	T203	Colonel_Pyncheon-30
+COREF	T60	Matthew_Maule-25
+COREF	T135	a_hut___shaggy_with_thatch-26
+COREF	T204	Matthew_Maule-25
+COREF	T59	Colonel_Pyncheon-30
+COREF	T61	Colonel_Pyncheon-30
+COREF	T136	House_of_the_Seven_Gables-6
+COREF	T137	many_generations_of_his_posterity-60
+COREF	T205	Colonel_Pyncheon-30
+COREF	T138	spot-first-803
+COREF	T139	a_hut___shaggy_with_thatch-26
+COREF	T62	Matthew_Maule-25
+COREF	T140	the_village_gossips-61
+COREF	T65	Colonel_Pyncheon-30
+COREF	T64	a_man_of_conscience_and_integrity-62
+COREF	T206	the_village_gossips-61
+COREF	T207	Colonel_Pyncheon-30
+COREF	T63	House_of_the_Seven_Gables-6
+COREF	T208	Colonel_Pyncheon-30
+COREF	T66	an_unquiet_grave-63
+COREF	T67	House_of_the_Seven_Gables-6
+COREF	T209	Colonel_Pyncheon-30
+COREF	T73	a_hut___shaggy_with_thatch-26
+COREF	T72	Matthew_Maule-25
+COREF	T141	its_new_apartments-64
+COREF	T70	the_chambers_into_which_future_bridegrooms_were_to_lead_their_brides___and_where_children_of_the_Pyncheon_blood_were_to_be_born-65
+COREF	T71	future_bridegrooms-66
+COREF	T69	their_brides-67
+COREF	T210	future_bridegrooms-66
+COREF	T68	children_of_the_Pyncheon_blood-68
+COREF	T75	Matthew_Maule-25
+COREF	T211	Matthew_Maule-25
+COREF	T212	children_of_the_Pyncheon_blood-68
+COREF	T74	an_old_and_melancholy_house-69
+COREF	T142	disputed_land-19
+COREF	T213	Colonel_Pyncheon-30
+COREF	T76	Colonel_Pyncheon-30
+COREF	T77	disputed_land-19
+COREF	T78	Colonel_Pyncheon-30
+COREF	T80	Colonel_Pyncheon-30
+COREF	T214	Colonel_Pyncheon-30
+COREF	T79	Matthew_Maule-25
+COREF	T215	Colonel_Pyncheon-30
+COREF	T216	Colonel_Pyncheon-30
+COREF	T217	Colonel_Pyncheon-30
+COREF	T144	disputed_land-19
+COREF	T218	Colonel_Pyncheon-30
+COREF	T219	Colonel_Pyncheon-30
+COREF	T220	Colonel_Pyncheon-30
+COREF	T221	Colonel_Pyncheon-30
+COREF	T222	Colonel_Pyncheon-30
+COREF	T223	Colonel_Pyncheon-30
+COREF	T81	his_cellar-70
+COREF	T224	Colonel_Pyncheon-30
+COREF	T84	House_of_the_Seven_Gables-6
+COREF	T225	Colonel_Pyncheon-30
+COREF	T82	disputed_land-19
+COREF	T85	Matthew_Maule-25
+COREF	T145	some_people-71
+COREF	T146	the_workmen-72
+COREF	T226	the_workmen-72
+COREF	T147	A_natural_spring_of_soft_and_pleasant_water-22
+COREF	T86	its_sources-73
+COREF	T148	his_cellar-70
+COREF	T88	Matthew_Maule-25
+COREF	T87	Maule__s_Well-74
+COREF	T227	we-75
+COREF	T89	any_old_woman_of_the_neighborhood-76
+COREF	T149	the_neighborhood-77
+COREF	T150	those_who_quench_their_thirst_there-78
+COREF	T228	those_who_quench_their_thirst_there-78
+COREF	T159	Maule__s_Well-74
+COREF	T90	The_reader-79
+COREF	T91	the_head_carpenter_of_the_new_edifice-80
+COREF	T151	House_of_the_Seven_Gables-6
+COREF	T152	Thomas_Maule-81
+COREF	T153	Matthew_Maule-25
+COREF	T154	the_property_of_the_soil-82
+COREF	T155	disputed_land-19
+COREF	T229	Thomas_Maule-81
+COREF	T230	Thomas_Maule-81
+COREF	T92	Colonel_Pyncheon-30
+COREF	T93	Matthew_Maule-25
+COREF	T231	Colonel_Pyncheon-30
+COREF	T95	Thomas_Maule-81
+COREF	T94	Matthew_Maule-25
+COREF	T157	Colonel_Pyncheon-30
+COREF	T232	Thomas_Maule-81
+COREF	T96	Thomas_Maule-81
+COREF	T158	House_of_the_Seven_Gables-6
+COREF	T233	Thomas_Maule-81
+COREF	T234	Thomas_Maule-81
+COP	T1	T3
+COP	T7	T5
+COP	T102	T9
+COP	T107	T482
+APPOS	T110	T109
+APPOS	T31	T115
+COP	T34	T32
+COP	T121	T184
+APPOS	T129	T235
+APPOS	T83	T221
+COP	T156	T229
+COP	T97	T96
+MENTION	T474	7	25	7	25	its	FAC	PRON
+COREF	T474	House_of_the_Seven_Gables-6
+MENTION	T478	7	56	7	56	its	FAC	PRON
+COREF	T478	House_of_the_Seven_Gables-6
+MENTION	T480	10	9	10	9	it	FAC	PRON
+COREF	T480	House_of_the_Seven_Gables-6
+MENTION	T482	11	26	11	26	it	FAC	PRON
+COREF	T482	Maule__s_Lane-20
+MENTION	T522	42	40	42	40	its	LOC	PRON
+COREF	T522	A_natural_spring_of_soft_and_pleasant_water-22
+MENTION	T524	43	1	43	1	its	LOC	PRON
+COREF	T524	A_natural_spring_of_soft_and_pleasant_water-22
+MENTION	T528	43	35	43	35	it	FAC	PRON
+COREF	T528	Maule__s_Well-74
+COREF	T105	the_first_habitation-700
+COREF	T143	a_man_to_be_turned_a-701
+MENTION	T165	7	30	7	30	it	FAC	PRON
+COREF	T165	its_quaint_exterior-10

@@ -1,0 +1,438 @@
+MENTION	T0	3	0	3	1	An author	PER	NOM
+MENTION	T1	3	31	3	32	all persons	PER	NOM
+MENTION	T2	4	10	4	11	the entertainer	PER	NOM
+MENTION	T3	5	7	5	11	the master of an ordinary	PER	NOM
+MENTION	T5	7	8	7	9	their customers	PER	NOM
+MENTION	T6	7	32	7	33	all persons	PER	NOM
+MENTION	T7	7	41	7	42	the house	FAC	NOM
+MENTION	T9	7	20	7	24	the honest and well-meaning host	PER	NOM
+MENTION	T10	8	52	8	53	the reader	PER	NOM
+MENTION	T11	8	29	8	31	these honest victuallers	PER	NOM
+MENTION	T12	8	11	8	19	any man who is capable of lending us either	PER	NOM
+MENTION	T14	11	81	11	82	an author	PER	NOM
+MENTION	T15	11	4	11	12	the alderman of Bristol , well learned in eating	PER	NOM
+MENTION	T17	11	60	11	61	a cook	PER	NOM
+MENTION	T18	11	7	11	7	Bristol	GPE	PROP
+MENTION	T19	11	35	11	37	the learned reader	PER	NOM
+MENTION	T20	13	7	13	8	the epicure	PER	NOM
+MENTION	T23	14	13	14	13	authors	PER	NOM
+MENTION	T25	15	15	15	16	the author	PER	NOM
+MENTION	T27	16	46	16	46	town	GPE	NOM
+MENTION	T28	16	19	16	20	a duke	PER	NOM
+MENTION	T30	17	11	17	12	the nobleman	PER	NOM
+MENTION	T34	19	17	19	18	the author	PER	NOM
+MENTION	T35	20	6	20	7	the reader	PER	NOM
+MENTION	T36	21	9	21	13	all lovers of polite eating	PER	NOM
+MENTION	T37	21	0	21	2	This great man	PER	NOM
+MENTION	T38	21	23	21	25	his hungry guests	PER	NOM
+MENTION	T39	22	57	22	57	cities	FAC	NOM
+MENTION	T40	23	8	23	9	our reader	PER	NOM
+MENTION	T41	23	21	23	25	the great person just above-mentioned	PER	NOM
+MENTION	T42	23	31	23	32	some persons	PER	NOM
+MENTION	T43	26	16	26	17	his sister	PER	NOM
+MENTION	T47	29	42	29	43	the county	GPE	NOM
+MENTION	T48	30	0	30	1	This gentleman	PER	NOM
+MENTION	T51	31	8	31	10	this beloved wife	PER	NOM
+MENTION	T52	32	107	32	108	his neighbours	PER	NOM
+MENTION	T54	33	15	33	16	one sister	PER	NOM
+MENTION	T55	34	0	34	1	This lady	PER	NOM
+MENTION	T56	34	26	34	27	old maid	PER	NOM
+MENTION	T61	40	39	40	46	a better judge than any pitiful critic whatever	PER	NOM
+MENTION	T62	40	43	40	46	any pitiful critic whatever	PER	NOM
+MENTION	T63	40	53	40	55	all those critics	PER	NOM
+MENTION	T64	40	87	40	87	judges	PER	NOM
+MENTION	T68	43	13	43	13	bastards	PER	NOM
+MENTION	T69	45	80	45	81	an hospital	FAC	NOM
+MENTION	T71	45	33	45	35	a good house	FAC	NOM
+MENTION	T72	45	38	45	39	his neighbours	PER	NOM
+MENTION	T73	45	14	45	16	an honest man	PER	NOM
+MENTION	T74	0	9	0	10	THE FOUNDLING	PER	NOM
+MENTION	T75	0	18	0	19	THE READER	PER	NOM
+MENTION	T76	3	9	3	17	a gentleman who gives a private or eleemosynary treat	PER	NOM
+MENTION	T77	3	22	3	27	one who keeps a public ordinary	PER	NOM
+MENTION	T78	4	33	4	34	his company	PER	NOM
+MENTION	T4	6	0	6	6	Men who pay for what they eat	PER	NOM
+MENTION	T8	10	5	10	7	my sensible reader	PER	NOM
+MENTION	T13	14	29	14	30	the shops	FAC	NOM
+MENTION	T16	13	33	13	40	the most paltry alleys under the same name	FAC	NOM
+MENTION	T21	15	21	15	22	Mr Pope	PER	PROP
+MENTION	T22	17	14	17	15	the porter	PER	NOM
+MENTION	T24	20	41	20	41	Heliogabalus	PER	PROP
+MENTION	T26	22	16	22	17	our reader	PER	NOM
+MENTION	T29	22	32	22	33	the country	LOC	NOM
+MENTION	T31	22	55	22	55	courts	FAC	NOM
+MENTION	T32	24	9	24	15	those who like our bill of fare	PER	NOM
+MENTION	T33	26	4	26	5	squire Allworthy	PER	PROP
+MENTION	T79	27	1	27	9	that part of the western division of this kingdom	LOC	NOM
+MENTION	T80	27	4	27	9	the western division of this kingdom	LOC	NOM
+MENTION	T81	27	8	27	9	this kingdom	GPE	NOM
+MENTION	T82	27	14	27	14	Somersetshire	GPE	NOM
+MENTION	T83	27	30	27	30	Allworthy	PER	PROP
+MENTION	T44	26	12	26	14	Miss Bridget Allworthy	PER	PROP
+MENTION	T45	27	38	27	44	the favourite of both nature and fortune	PER	NOM
+MENTION	T84	30	7	30	12	a very worthy and beautiful woman	PER	NOM
+MENTION	T85	30	26	30	27	three children	PER	NOM
+MENTION	T50	32	9	32	14	a man of sense and constancy	PER	NOM
+MENTION	T53	32	46	32	47	his wife	PER	NOM
+MENTION	T86	32	85	32	94	a place where he should never part with her more	FAC	NOM
+MENTION	T87	33	11	33	12	the country	LOC	NOM
+MENTION	T88	34	20	34	21	the malicious	PER	NOM
+MENTION	T57	35	28	35	32	very good sort of women	PER	NOM
+MENTION	T89	36	40	36	41	Miss Such-a-one	PER	PROP
+MENTION	T90	37	0	37	2	Miss Bridget Allworthy	PER	PROP
+MENTION	T91	37	10	37	11	this lady	PER	NOM
+MENTION	T92	37	21	37	22	a woman	PER	NOM
+MENTION	T93	37	71	37	73	her whole sex	PER	NOM
+MENTION	T94	38	12	38	13	the reader	PER	NOM
+MENTION	T95	39	6	39	26	those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power	PER	NOM
+MENTION	T96	39	35	39	39	that higher order of women	PER	NOM
+MENTION	T97	40	0	40	0	Reader	PER	NOM
+MENTION	T65	42	5	42	6	Mr Allworthy	PER	PROP
+MENTION	T66	42	10	42	10	home	FAC	NOM
+MENTION	T67	43	4	43	6	Mrs Deborah Wilkins	PER	PROP
+MENTION	T98	44	3	44	4	my reader	PER	NOM
+MENTION	T99	44	12	44	13	Mr Allworthy	PER	PROP
+MENTION	T100	44	27	44	28	no family	PER	NOM
+MENTION	T70	39	42	39	44	the other sex	PER	NOM
+MENTION	T58	35	41	35	41	madam	PER	NOM
+MENTION	T59	35	3	35	32	that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex , very good sort of women	PER	NOM
+MENTION	T101	35	39	35	39	woman	PER	NOM
+MENTION	T110	11	77	11	78	the world	LOC	NOM
+MENTION	T111	45	19	45	20	no one	PER	NOM
+MENTION	T113	3	5	3	5	himself	PER	PRON
+MENTION	T114	3	36	3	36	their	PER	PRON
+MENTION	T115	4	15	4	15	he	PER	PRON
+MENTION	T116	4	33	4	33	his	PER	PRON
+MENTION	T117	4	36	4	36	they	PER	PRON
+MENTION	T118	4	52	4	52	them	PER	PRON
+MENTION	T119	4	63	4	63	them	PER	PRON
+MENTION	T120	6	5	6	5	they	PER	PRON
+MENTION	T121	6	11	6	11	their	PER	PRON
+MENTION	T122	6	29	6	29	their	PER	PRON
+MENTION	T123	6	47	6	47	their	PER	PRON
+MENTION	T124	7	8	7	8	their	PER	PRON
+MENTION	T125	7	37	7	37	their	PER	PRON
+MENTION	T126	7	48	7	48	themselves	PER	PRON
+MENTION	T127	7	53	7	53	they	PER	PRON
+MENTION	T128	7	67	7	67	them	PER	PRON
+MENTION	T129	7	79	7	79	their	PER	PRON
+MENTION	T130	8	1	8	1	we	PER	PRON
+MENTION	T131	8	18	8	18	us	PER	PRON
+MENTION	T132	8	21	8	21	we	PER	PRON
+MENTION	T133	8	44	8	44	our	PER	PRON
+MENTION	T134	9	6	9	6	we	PER	PRON
+MENTION	T135	10	2	10	2	I	PER	PRON
+MENTION	T136	10	5	10	5	my	PER	PRON
+MENTION	T137	10	13	10	13	his	PER	PRON
+MENTION	T138	10	26	10	26	I	PER	PRON
+MENTION	T139	13	17	13	17	his	PER	PRON
+MENTION	T141	15	24	15	24	us	PER	PRON
+MENTION	T144	20	12	20	12	we	PER	PRON
+MENTION	T145	21	23	21	23	his	PER	PRON
+MENTION	T146	21	32	21	32	their	PER	PRON
+MENTION	T147	22	4	22	4	we	PER	PRON
+MENTION	T148	22	16	22	16	our	PER	PRON
+MENTION	T149	23	4	23	4	we	PER	PRON
+MENTION	T150	23	8	23	8	our	PER	PRON
+MENTION	T151	24	5	24	5	we	PER	PRON
+MENTION	T152	24	12	24	12	our	PER	PRON
+MENTION	T153	24	19	24	19	their	PER	PRON
+MENTION	T154	24	33	24	33	our	PER	PRON
+MENTION	T155	24	36	24	36	their	PER	PRON
+MENTION	T156	26	16	26	16	his	PER	PRON
+MENTION	T157	27	59	27	59	him	PER	PRON
+MENTION	T159	28	19	28	19	him	PER	PRON
+MENTION	T162	28	65	28	65	he	PER	PRON
+MENTION	T163	29	6	29	6	he	PER	PRON
+MENTION	T164	29	29	29	29	he	PER	PRON
+MENTION	T165	30	4	30	4	his	PER	PRON
+MENTION	T166	30	16	30	16	he	PER	PRON
+MENTION	T167	30	23	30	23	her	PER	PRON
+MENTION	T168	30	24	30	24	he	PER	PRON
+MENTION	T169	30	34	30	34	their	PER	PRON
+MENTION	T170	31	0	31	0	He	PER	PRON
+MENTION	T171	31	11	31	11	herself	PER	PRON
+MENTION	T172	32	6	32	6	he	PER	PRON
+MENTION	T173	32	21	32	21	he	PER	PRON
+MENTION	T174	32	33	32	33	he	PER	PRON
+MENTION	T175	32	36	32	36	he	PER	PRON
+MENTION	T176	32	39	32	39	himself	PER	PRON
+MENTION	T177	32	46	32	46	his	PER	PRON
+MENTION	T178	32	54	32	54	him	PER	PRON
+MENTION	T179	32	59	32	59	he	PER	PRON
+MENTION	T180	32	70	32	70	her	PER	PRON
+MENTION	T181	32	74	32	74	he	PER	PRON
+MENTION	T182	32	82	32	82	her	PER	PRON
+MENTION	T183	32	88	32	88	he	PER	PRON
+MENTION	T184	32	93	32	93	her	PER	PRON
+MENTION	T185	32	99	32	99	his	PER	PRON
+MENTION	T186	32	107	32	107	his	PER	PRON
+MENTION	T187	32	110	32	110	his	PER	PRON
+MENTION	T188	32	117	32	117	his	PER	PRON
+MENTION	T189	33	0	33	0	He	PER	PRON
+MENTION	T190	33	20	33	20	he	PER	PRON
+MENTION	T191	35	0	35	0	She	PER	PRON
+MENTION	T192	35	8	35	8	you	PER	PRON
+MENTION	T193	35	24	35	24	their	PER	PRON
+MENTION	T194	35	44	35	44	you	PER	PRON
+MENTION	T195	36	2	36	2	she	PER	PRON
+MENTION	T196	36	13	36	13	she	PER	PRON
+MENTION	T197	36	34	36	34	she	PER	PRON
+MENTION	T198	36	51	36	51	she	PER	PRON
+MENTION	T199	37	30	37	30	herself	PER	PRON
+MENTION	T200	37	43	37	43	she	PER	PRON
+MENTION	T201	37	45	37	45	her	PER	PRON
+MENTION	T202	37	49	37	49	her	PER	PRON
+MENTION	T203	37	59	37	59	she	PER	PRON
+MENTION	T204	37	71	37	71	her	PER	PRON
+MENTION	T205	38	2	38	2	I	PER	PRON
+MENTION	T206	39	25	39	25	their	PER	PRON
+MENTION	T207	39	59	39	59	I	PER	PRON
+MENTION	T208	39	65	39	65	they	PER	PRON
+MENTION	T209	40	2	40	2	I	PER	PRON
+MENTION	T210	40	7	40	7	we	PER	PRON
+MENTION	T211	40	17	40	17	I	PER	PRON
+MENTION	T212	40	30	40	30	I	PER	PRON
+MENTION	T213	40	36	40	36	I	PER	PRON
+MENTION	T214	40	38	40	38	myself	PER	PRON
+MENTION	T215	40	50	40	50	I	PER	PRON
+MENTION	T216	40	58	40	58	their	PER	PRON
+MENTION	T217	40	74	40	74	them	PER	PRON
+MENTION	T218	40	78	40	78	they	PER	PRON
+MENTION	T219	40	84	40	84	they	PER	PRON
+MENTION	T220	40	89	40	89	I	PER	PRON
+MENTION	T221	40	94	40	94	their	PER	PRON
+MENTION	T222	42	8	42	8	his	PER	PRON
+MENTION	T223	44	0	44	0	I	PER	PRON
+MENTION	T224	44	3	44	3	my	PER	PRON
+MENTION	T225	44	20	44	20	he	PER	PRON
+MENTION	T226	45	11	45	11	he	PER	PRON
+MENTION	T227	45	29	45	29	his	PER	PRON
+MENTION	T228	45	38	45	38	his	PER	PRON
+MENTION	T229	45	45	45	45	his	PER	PRON
+MENTION	T230	45	67	45	67	them	PER	PRON
+MENTION	T231	45	74	45	74	he	PER	PRON
+MENTION	T232	20	29	20	44	the best cook which the present age , or perhaps that of Heliogabalus , hath produced	PER	NOM
+MENTION	T233	27	25	27	44	a gentleman whose name was Allworthy , and who might well be called the favourite of both nature and fortune	PER	NOM
+MENTION	T234	39	10	39	11	the men	PER	NOM
+MENTION	T235	40	15	40	15	thee	PER	PRON
+MENTION	T236	45	52	45	53	the poor	PER	NOM
+COREF	T74	THE_FOUNDLING-0
+COREF	T75	THE_READER-1
+COREF	T0	An_author-2
+COREF	T113	An_author-2
+COREF	T76	a_gentleman____-3
+COREF	T77	one_who_keeps_a_public_ordinary-4
+COREF	T1	all_persons-5
+COREF	T114	all_persons-5
+COREF	T2	the_entertainer-6
+COREF	T115	the_entertainer-6
+COREF	T78	his_company-7
+COREF	T116	the_entertainer-6
+COREF	T117	his_company-7
+COREF	T118	his_company-7
+COREF	T119	his_company-7
+COREF	T3	the_master_of_an_ordinary-8
+COREF	T4	Men_who_pay_for_what_they_eat-9
+COREF	T120	Men_who_pay_for_what_they_eat-9
+COREF	T121	Men_who_pay_for_what_they_eat-9
+COREF	T122	Men_who_pay_for_what_they_eat-9
+COREF	T123	Men_who_pay_for_what_they_eat-9
+COREF	T5	their_customers-10
+COREF	T124	the_honest_and_well-meaning_host-11
+COREF	T9	the_honest_and_well-meaning_host-11
+COREF	T6	all_persons-12
+COREF	T125	all_persons-12
+COREF	T7	the_house-13
+COREF	T126	all_persons-12
+COREF	T127	all_persons-12
+COREF	T128	all_persons-12
+COREF	T129	all_persons-12
+COREF	T130	narrator-14
+COREF	T12	any_man_who_is_capable_of_lending_us_either-15
+COREF	T131	narrator-14
+COREF	T132	narrator-14
+COREF	T11	these_honest_victuallers-16
+COREF	T133	narrator-14
+COREF	T10	the_reader-17
+COREF	T134	narrator-14
+COREF	T135	narrator-14
+COREF	T8	my_sensible_reader-18
+COREF	T136	narrator-14
+COREF	T137	my_sensible_reader-18
+COREF	T138	narrator-14
+COREF	T15	the_alderman_of_Bristol___well_learned_in_eating-19
+COREF	T18	Bristol-20
+COREF	T19	the_learned_reader-21
+COREF	T17	a_cook-22
+COREF	T110	the_world-23
+COREF	T14	an_author-24
+COREF	T20	the_epicure-25
+COREF	T139	the_epicure-25
+COREF	T16	the_most_paltry_alleys_under_the_same_name-26
+COREF	T23	authors-27
+COREF	T13	the_shops-28
+COREF	T25	the_author-29
+COREF	T21	Mr_Pope-30
+COREF	T141	us-31
+COREF	T28	a_duke-32
+COREF	T27	town-33
+COREF	T30	the_nobleman-34
+COREF	T22	the_porter-35
+COREF	T34	the_author-36
+COREF	T35	the_reader-37
+COREF	T144	narrator-14
+COREF	T24	Heliogabalus-38
+COREF	T232	best_cook-39
+COREF	T37	best_cook-39
+COREF	T36	all_lovers_of_polite_eating-40
+COREF	T38	his_hungry_guests-41
+COREF	T145	best_cook-39
+COREF	T146	his_hungry_guests-41
+COREF	T147	narrator-14
+COREF	T26	our_reader-42
+COREF	T148	narrator-14
+COREF	T29	the_country-43
+COREF	T31	courts-44
+COREF	T39	cities-45
+COREF	T149	narrator-14
+COREF	T40	our_reader-46
+COREF	T150	narrator-14
+COREF	T41	best_cook-39
+COREF	T42	some_persons-47
+COREF	T151	narrator-14
+COREF	T32	those_who_like_our_bill_of_fare-48
+COREF	T152	narrator-14
+COREF	T153	those_who_like_our_bill_of_fare-48
+COREF	T154	narrator-14
+COREF	T155	those_who_like_our_bill_of_fare-48
+COREF	T79	that_part_of_the_western_division_of_this_kingdom-51
+COREF	T80	the_western_division_of_this_kingdom-52
+COREF	T81	this_kingdom-53
+COREF	T82	Somersetshire-54
+COREF	T233	Allworthy-55
+COREF	T83	Allworthy-55
+COREF	T45	Allworthy-55
+COREF	T157	Allworthy-55
+COREF	T159	Allworthy-55
+COREF	T162	Allworthy-55
+COREF	T163	Allworthy-55
+COREF	T164	Allworthy-55
+COREF	T47	the_county-56
+COREF	T48	Allworthy-55
+COREF	T165	Allworthy-55
+COREF	T84	Allworthy_s_wife-57
+COREF	T166	Allworthy-55
+COREF	T167	Allworthy_s_wife-57
+COREF	T168	Allworthy-55
+COREF	T85	three_children-58
+COREF	T169	three_children-58
+COREF	T170	Allworthy-55
+COREF	T51	Allworthy_s_wife-57
+COREF	T171	Allworthy_s_wife-57
+COREF	T172	Allworthy-55
+COREF	T50	a_man_of_sense_and_constancy-59
+COREF	T173	Allworthy-55
+COREF	T174	Allworthy-55
+COREF	T175	Allworthy-55
+COREF	T176	Allworthy-55
+COREF	T53	Allworthy_s_wife-57
+COREF	T177	Allworthy-55
+COREF	T178	Allworthy-55
+COREF	T179	Allworthy-55
+COREF	T180	Allworthy_s_wife-57
+COREF	T181	Allworthy-55
+COREF	T182	Allworthy_s_wife-57
+COREF	T86	a_place_where_he_should_never_part_with_her_more-60
+COREF	T183	Allworthy-55
+COREF	T184	Allworthy_s_wife-57
+COREF	T185	Allworthy-55
+COREF	T52	his_neighbours-61
+COREF	T186	Allworthy-55
+COREF	T187	Allworthy-55
+COREF	T188	Allworthy-55
+COREF	T189	Allworthy-55
+COREF	T87	the_country-62
+COREF	T190	Allworthy-55
+COREF	T44	Miss_Bridget_Allworthy-63
+COREF	T54	Miss_Bridget_Allworthy-63
+COREF	T33	Allworthy-55
+COREF	T156	Allworthy-55
+COREF	T55	Miss_Bridget_Allworthy-63
+COREF	T88	the_malicious-64
+COREF	T56	old_maid-65
+COREF	T191	Miss_Bridget_Allworthy-63
+COREF	T59	that_species_of_women_whom_you_commend_rather_for_good_qualities_than_beauty___and_who_are_generally_called___by_their_own_sex___very_good_sort_of_women-66
+COREF	T192	you-67
+COREF	T193	that_species_of_women_whom_you_commend_rather_for_good_qualities_than_beauty___and_who_are_generally_called___by_their_own_sex___very_good_sort_of_women-66
+COREF	T57	that_species_of_women_whom_you_commend_rather_for_good_qualities_than_beauty___and_who_are_generally_called___by_their_own_sex___very_good_sort_of_women-66
+COREF	T101	woman-68
+COREF	T58	madam-69
+COREF	T194	you-70
+COREF	T195	Miss_Bridget_Allworthy-63
+COREF	T196	Miss_Bridget_Allworthy-63
+COREF	T197	Miss_Bridget_Allworthy-63
+COREF	T89	Miss_Such-a-one-71
+COREF	T198	Miss_Such-a-one-71
+COREF	T90	Miss_Bridget_Allworthy-63
+COREF	T91	Miss_Bridget_Allworthy-63
+COREF	T92	a_woman-72
+COREF	T199	Miss_Bridget_Allworthy-63
+COREF	T200	Miss_Bridget_Allworthy-63
+COREF	T201	Miss_Bridget_Allworthy-63
+COREF	T202	Miss_Bridget_Allworthy-63
+COREF	T203	Miss_Bridget_Allworthy-63
+COREF	T93	her_whole_sex-73
+COREF	T204	Miss_Bridget_Allworthy-63
+COREF	T205	narrator-14
+COREF	T94	the_reader-74
+COREF	T95	those_paragons_for_whom_the_men_are_all_wishing___sighing___dying___and_spreading_every_net_in_their_power-75
+COREF	T234	the_men-76
+COREF	T206	the_men-76
+COREF	T96	that_higher_order_of_women-77
+COREF	T70	the_other_sex-78
+COREF	T207	narrator-14
+COREF	T208	the_other_sex-78
+COREF	T97	Reader-79
+COREF	T209	narrator-14
+COREF	T210	narrator_reader-80
+COREF	T235	thee-81
+COREF	T211	narrator-14
+COREF	T212	narrator-14
+COREF	T213	narrator-14
+COREF	T214	narrator-14
+COREF	T62	any_pitiful_critic_whatever-82
+COREF	T215	narrator-14
+COREF	T63	all_those_critics-83
+COREF	T216	all_those_critics-83
+COREF	T217	all_those_critics-83
+COREF	T218	all_those_critics-83
+COREF	T219	all_those_critics-83
+COREF	T64	judges-84
+COREF	T220	narrator-14
+COREF	T221	all_those_critics-83
+COREF	T65	Allworthy-55
+COREF	T222	Allworthy-55
+COREF	T66	home-85
+COREF	T67	Mrs_Deborah_Wilkins-86
+COREF	T68	bastards-87
+COREF	T223	narrator-14
+COREF	T98	my_reader-88
+COREF	T224	narrator-14
+COREF	T99	Allworthy-55
+COREF	T225	Allworthy-55
+COREF	T100	no_family-89
+COREF	T226	Allworthy-55
+COREF	T73	an_honest_man-90
+COREF	T111	no_one-91
+COREF	T227	Allworthy-55
+COREF	T71	a_good_house-92
+COREF	T72	his_neighbours-93
+COREF	T228	Allworthy-55
+COREF	T229	Allworthy-55
+COREF	T236	the_poor-94
+COREF	T230	the_poor-94
+COREF	T231	Allworthy-55
+COREF	T69	an_hospital-95
+APPOS	T43	T44
+COP	T61	T213

@@ -1,0 +1,594 @@
+T0	NOM_PER 36 50	a very old man
+T1	NOM_PER 167 176	other men
+T2	NOM_PER 266 287	a man of about thirty
+T3	PROP_GPE 1065 1072	Arizona
+T4	NOM_PER 1121 1131	mortal man
+T7	PROP_PER 1758 1789	Captain Jack Carter of Virginia
+T8	PROP_GPE 1781 1789	Virginia
+T9	NOM_LOC 2043 2052	the South
+T10	PROP_GPE 2355 2363	Richmond
+T11	PROP_PER 2328 2363	Captain James K. Powell of Richmond
+T12	NOM_PER 2584 2614	a mining engineer by education
+T13	NOM_PER 2883 2886	men
+T14	PROP_PER 2918 2924	Powell
+T15	NOM_PER 3176 3201	some wandering prospector
+T17	PROP_PER 3224 3230	Powell
+T19	PROP_GPE 3490 3497	Arizona
+T20	PROP_PER 3782 3788	Powell
+T21	NOM_PER 4056 4065	my friend
+T22	PROP_PER 4194 4200	Powell
+T23	NOM_PER 4897 4921	cunning trailing Apaches
+T25	NOM_PER 4735 4764	an experienced Indian fighter
+T26	NOM_PER 4814 4836	the Sioux in the North
+T27	PROP_PER 5142 5148	Powell
+T28	PROP_PER 5378 5384	Powell
+T29	NOM_PER 5713 5739	some nervous old housewife
+T30	PROP_PER 5774 5780	Powell
+T31	NOM_PER 6095 6122	an old and powerful emperor
+T32	PROP_PER 6438 6444	Powell
+T35	NOM_PER 7061 7076	the red rascals
+T36	NOM_PER 6846 6858	the trailers
+T37	PROP_PER 6904 6910	Powell
+T38	PROP_PER 7210 7216	Powell
+T39	NOM_PER 8345 8351	heroes
+T41	PROP_PER 8851 8857	Powell
+T43	PROP_GPE 9509 9516	Arizona
+T44	NOM_PER 9588 9598	the braves
+T45	NOM_PER 9770 9785	the man himself
+T46	PROP_PER 9725 9736	the Apaches
+T47	NOM_LOC 13 30	THE ARIZONA HILLS
+T48	PROP_GPE 17 24	ARIZONA
+T49	NOM_PER 258 263	a man
+T50	NOM_PER 923 953	an ordinary soldier of fortune
+T51	NOM_PER 1029 1041	my dead body
+T52	NOM_LOC 1062 1077	an Arizona cave
+T54	NOM_PER 1317 1327	the public
+T55	NOM_PER 1330 1340	the pulpit
+T56	NOM_PER 1347 1356	the press
+T5	NOM_PER 1374 1389	a colossal liar
+T57	PROP_LOC 1518 1522	Mars
+T6	NOM_LOC 1641 1658	our sister planet
+T58	PROP_PER 1723 1734	John Carter
+T59	NOM_PER 1903 1912	a captain
+T60	NOM_ORG 1930 1980	the cavalry arm of an army which no longer existed
+T62	NOM_PER 1983 2052	the servant of a state which had vanished with the hopes of the South
+T63	NOM_GPE 1998 2052	a state which had vanished with the hopes of the South
+T64	NOM_PER 2298 2325	another Confederate officer
+T66	PROP_PER 2567 2573	Powell
+T67	NOM_GPE 2797 2809	civilization
+T68	NOM_PER 2861 2886	a sufficient force of men
+T69	NOM_FAC 2904 2912	the mine
+T70	NOM_LOC 2943 2954	the country
+T16	NOM_LOC 3346 3362	the mountainside
+T71	NOM_LOC 3370 3380	the valley
+T72	PROP_PER 3448 3454	Powell
+T73	NOM_LOC 3598 3614	the mountainside
+T74	NOM_LOC 3622 3632	the valley
+T18	NOM_LOC 3747 3762	a level plateau
+T75	NOM_LOC 3851 3895	the range on the opposite side of the valley
+T76	NOM_LOC 3885 3895	the valley
+T77	NOM_LOC 3956 3966	the valley
+T78	NOM_PER 4336 4349	the territory
+T79	NOM_PER 4366 4382	a hostile Indian
+T80	NOM_PER 4497 4683	the great numbers of these vicious marauders that were supposed to haunt the trails , taking their toll in lives and torture of every white party which fell into their merciless clutches
+T81	NOM_PER 4625 4683	every white party which fell into their merciless clutches
+T82	PROP_PER 4686 4692	Powell
+T83	NOM_PER 4750 4756	Indian
+T24	NOM_LOC 4827 4836	the North
+T84	NOM_PER 4886 4921	a party of cunning trailing Apaches
+T86	NOM_PER 6127 6200	several lesser kings , in whose service my sword has been red many a time
+T87	NOM_FAC 6320 6329	the trail
+T88	NOM_LOC 6417 6465	the water hole where Powell had expected to camp
+T89	NOM_LOC 6480 6488	the spot
+T90	NOM_FAC 6585 6591	a camp
+T91	NOM_PER 6638 6703	the pursuing horsemen , for such I was now convinced they must be
+T33	PROP_PER 6722 6728	Powell
+T92	NOM_LOC 6755 6773	the hole for water
+T34	PROP_PER 6864 6871	Apaches
+T93	NOM_FAC 7300 7339	the narrow and difficult mountain trail
+T94	NOM_LOC 7325 7333	mountain
+T95	NOM_FAC 7426 7435	the trail
+T96	NOM_LOC 7460 7510	a small , open plateau near the summit of the pass
+T97	NOM_LOC 7488 7510	the summit of the pass
+T98	NOM_LOC 7502 7510	the pass
+T99	NOM_LOC 7534 7562	a narrow , overhanging gorge
+T100	NOM_LOC 7598 7613	this table land
+T101	NOM_LOC 7690 7722	The little stretch of level land
+T102	NOM_FAC 7738 7751	Indian tepees
+T103	NOM_PER 7778 7806	half a thousand red warriors
+T105	NOM_FAC 7855 7863	the camp
+T104	NOM_LOC 8022 8031	the gorge
+T106	NOM_LOC 8001 8031	the dark recesses of the gorge
+T107	NOM_PER 8862 8886	the center of attraction
+T108	NOM_PER 9067 9094	the entire army of warriors
+T109	NOM_PER 9215 9313	the red men , convinced by sudden surprise that not less than a regiment of regulars was upon them
+T110	NOM_ORG 9277 9299	a regiment of regulars
+T111	PROP_PER 9526 9532	Powell
+T112	NOM_PER 9535 9598	his body fairly bristling with the hostile arrows of the braves
+T113	NOM_PER 9684 9692	his body
+T114	NOM_LOC 10045 10056	the plateau
+T115	NOM_LOC 10184 10198	the table land
+T61	NOM_ORG 1949 1980	an army which no longer existed
+T119	PRON_PER 31 32	I
+T120	PRON_PER 61 62	I
+T121	PRON_PER 86 87	I
+T122	PRON_PER 123 124	I
+T123	PRON_PER 146 147	I
+T124	PRON_PER 186 187	I
+T125	PRON_PER 223 224	I
+T126	PRON_PER 239 240	I
+T127	PRON_PER 290 291	I
+T128	PRON_PER 308 309	I
+T129	PRON_PER 349 350	I
+T130	PRON_PER 361 362	I
+T131	PRON_PER 408 409	I
+T132	PRON_PER 473 474	I
+T133	PRON_PER 491 492	I
+T134	PRON_PER 513 514	I
+T135	PRON_PER 564 565	I
+T137	PRON_PER 666 667	I
+T138	PRON_PER 683 684	I
+T139	PRON_PER 704 706	my
+T140	PRON_PER 750 751	I
+T141	PRON_PER 822 824	my
+T142	PRON_PER 837 839	my
+T143	PRON_PER 848 849	I
+T144	PRON_PER 882 883	I
+T145	PRON_PER 1000 1002	me
+T146	PRON_PER 1029 1031	my
+T147	PRON_PER 1080 1081	I
+T148	PRON_PER 1164 1165	I
+T149	PRON_PER 1198 1199	I
+T150	PRON_PER 1281 1282	I
+T151	PRON_PER 1395 1396	I
+T152	PRON_PER 1504 1505	I
+T153	PRON_PER 1549 1550	I
+T154	PRON_PER 1641 1644	our
+T155	PRON_PER 1674 1677	you
+T156	PRON_PER 1707 1709	me
+T157	PRON_PER 1712 1714	My
+T158	PRON_PER 1737 1738	I
+T159	PRON_PER 1822 1823	I
+T160	PRON_PER 1830 1836	myself
+T161	PRON_PER 2089 2091	my
+T162	PRON_PER 2137 2138	I
+T163	PRON_PER 2158 2160	my
+T164	PRON_PER 2206 2208	my
+T165	PRON_PER 2248 2249	I
+T166	PRON_PER 2366 2368	We
+T167	PRON_PER 2467 2469	we
+T168	PRON_PER 2528 2531	our
+T169	PRON_PER 2629 2631	we
+T170	PRON_PER 2717 2720	our
+T171	PRON_PER 2756 2758	we
+T172	PRON_PER 2779 2781	us
+T173	PRON_PER 3011 3013	we
+T174	PRON_PER 3051 3054	him
+T175	PRON_PER 3093 3094	I
+T176	PRON_PER 3112 3115	our
+T177	PRON_PER 3235 3236	I
+T178	PRON_PER 3244 3247	his
+T179	PRON_PER 3269 3272	our
+T180	PRON_PER 3294 3296	me
+T181	PRON_PER 3306 3308	he
+T182	PRON_PER 3317 3320	his
+T183	PRON_PER 3419 3422	his
+T184	PRON_PER 3531 3532	I
+T185	PRON_PER 3543 3546	him
+T186	PRON_PER 3551 3554	his
+T188	PRON_PER 3662 3663	I
+T191	PRON_PER 3765 3767	My
+T192	PRON_PER 3825 3827	he
+T193	PRON_PER 3919 3920	I
+T194	PRON_PER 4040 4041	I
+T195	PRON_PER 4056 4058	my
+T196	PRON_PER 4070 4073	his
+T197	PRON_PER 4093 4094	I
+T198	PRON_PER 4144 4145	I
+T199	PRON_PER 4164 4170	myself
+T200	PRON_PER 4221 4222	I
+T201	PRON_PER 4235 4238	his
+T202	PRON_PER 4285 4286	I
+T203	PRON_PER 4306 4312	myself
+T204	PRON_PER 4321 4323	we
+T205	PRON_PER 4350 4352	we
+T206	PRON_PER 4389 4391	we
+T207	PRON_PER 4481 4483	we
+T208	PRON_PER 4590 4595	their
+T209	PRON_PER 4659 4664	their
+T210	PRON_PER 4695 4696	I
+T211	PRON_PER 4771 4772	I
+T212	PRON_PER 4843 4844	I
+T213	PRON_PER 4855 4858	his
+T214	PRON_PER 4932 4933	I
+T215	PRON_PER 4985 4991	myself
+T216	PRON_PER 4997 4999	my
+T217	PRON_PER 5035 5036	I
+T218	PRON_PER 5076 5078	me
+T219	PRON_PER 5092 5094	my
+T220	PRON_PER 5177 5178	I
+T221	PRON_PER 5214 5215	I
+T222	PRON_PER 5222 5224	my
+T223	PRON_PER 5320 5321	I
+T226	PRON_PER 5479 5480	I
+T227	PRON_PER 5531 5532	I
+T228	PRON_PER 5649 5651	my
+T229	PRON_PER 5669 5670	I
+T230	PRON_PER 5751 5752	I
+T231	PRON_PER 5808 5810	my
+T232	PRON_PER 5829 5830	I
+T233	PRON_PER 5963 5965	me
+T234	PRON_PER 5977 5979	my
+T235	PRON_PER 6034 6036	me
+T236	PRON_PER 6167 6169	my
+T237	PRON_PER 6259 6261	me
+T238	PRON_PER 6276 6278	my
+T239	PRON_PER 6287 6288	I
+T240	PRON_PER 6407 6408	I
+T241	PRON_PER 6468 6469	I
+T242	PRON_PER 6594 6595	I
+T243	PRON_PER 6671 6672	I
+T245	PRON_PER 6816 6819	his
+T246	PRON_PER 6822 6823	I
+T247	PRON_PER 6881 6885	they
+T248	PRON_PER 6963 6964	I
+T249	PRON_PER 6971 6973	my
+T250	PRON_PER 7039 7040	I
+T251	PRON_PER 7084 7088	they
+T252	PRON_PER 7098 7101	him
+T253	PRON_PER 7193 7195	me
+T254	PRON_PER 7198 7199	I
+T255	PRON_PER 7228 7230	me
+T256	PRON_PER 7249 7250	I
+T257	PRON_PER 7267 7269	my
+T259	PRON_PER 7342 7343	I
+T260	PRON_PER 7513 7514	I
+T261	PRON_PER 7640 7642	my
+T262	PRON_PER 7655 7657	me
+T263	PRON_PER 7866 7871	Their
+T264	PRON_PER 7935 7939	they
+T265	PRON_PER 7955 7957	me
+T266	PRON_PER 7964 7965	I
+T267	PRON_PER 8041 8043	my
+T268	PRON_PER 8129 8131	me
+T269	PRON_PER 8277 8279	me
+T270	PRON_PER 8282 8283	I
+T271	PRON_PER 8304 8305	I
+T272	PRON_PER 8405 8407	my
+T273	PRON_PER 8435 8437	me
+T274	PRON_PER 8464 8465	I
+T275	PRON_PER 8529 8530	I
+T276	PRON_PER 8548 8550	me
+T277	PRON_PER 8576 8578	My
+T278	PRON_PER 8617 8618	I
+T279	PRON_PER 8736 8737	I
+T280	PRON_PER 8795 8797	me
+T281	PRON_PER 8817 8818	I
+T282	PRON_PER 8901 8902	I
+T283	PRON_PER 8926 8927	I
+T284	PRON_PER 9001 9003	my
+T285	PRON_PER 9009 9010	I
+T286	PRON_PER 9027 9029	my
+T287	PRON_PER 9143 9145	my
+T288	PRON_PER 9169 9170	I
+T289	PRON_PER 9309 9313	them
+T290	PRON_PER 9355 9360	their
+T291	PRON_PER 9405 9410	their
+T292	PRON_PER 9444 9446	me
+T293	PRON_PER 9535 9538	his
+T294	PRON_PER 9606 9608	he
+T295	PRON_PER 9626 9627	I
+T296	PRON_PER 9665 9666	I
+T297	PRON_PER 9684 9687	his
+T298	PRON_PER 9751 9752	I
+T299	PRON_PER 9778 9785	himself
+T300	PRON_PER 9815 9818	him
+T301	PRON_PER 9819 9820	I
+T302	PRON_PER 9865 9868	his
+T303	PRON_PER 9889 9892	him
+T304	PRON_PER 9918 9920	my
+T305	PRON_PER 9957 9959	me
+T306	PRON_PER 9986 9987	I
+T307	PRON_PER 10081 10083	my
+T308	PRON_PER 10097 10098	I
+T309	PRON_PER 10145 10146	I
+T310	NOM_PER 596 619	you who have never died
+T311	NOM_FAC 5123 5163	the trail taken by Powell in the morning
+T360	THE_ARIZONA_HILLS-0 13 30	THE ARIZONA HILLS
+T361	Arizona-1 17 24	ARIZONA
+T432	narrator-2 31 32	I
+T433	narrator-2 61 62	I
+T434	narrator-2 86 87	I
+T435	narrator-2 123 124	I
+T436	narrator-2 146 147	I
+T314	other_men-3 167 176	other men
+T437	narrator-2 186 187	I
+T438	narrator-2 223 224	I
+T439	narrator-2 239 240	I
+T440	narrator-2 290 291	I
+T441	narrator-2 308 309	I
+T442	narrator-2 349 350	I
+T443	narrator-2 361 362	I
+T444	narrator-2 408 409	I
+T445	narrator-2 473 474	I
+T446	narrator-2 491 492	I
+T447	narrator-2 513 514	I
+T448	narrator-2 564 565	I
+T623	you_who_have_never_died-100000 596 619	you who have never died
+T450	narrator-2 666 667	I
+T451	narrator-2 683 684	I
+T452	narrator-2 704 706	my
+T453	narrator-2 750 751	I
+T454	narrator-2 822 824	my
+T455	narrator-2 837 839	my
+T456	narrator-2 848 849	I
+T457	narrator-2 882 883	I
+T363	narrator-2 923 953	an ordinary soldier of fortune
+T458	narrator-2 1000 1002	me
+T364	narrator-2 1029 1041	my dead body
+T459	narrator-2 1029 1031	my
+T365	an_Arizona_cave-7 1062 1077	an Arizona cave
+T316	Arizona-1 1065 1072	Arizona
+T460	narrator-2 1080 1081	I
+T317	mortal_man-8 1121 1131	mortal man
+T461	narrator-2 1164 1165	I
+T462	narrator-2 1198 1199	I
+T463	narrator-2 1281 1282	I
+T367	the_public-9 1317 1327	the public
+T368	the_pulpit-10 1330 1340	the pulpit
+T369	the_press-11 1347 1356	the press
+T464	narrator-2 1395 1396	I
+T465	narrator-2 1504 1505	I
+T370	Mars-12 1518 1522	Mars
+T466	narrator-2 1549 1550	I
+T319	Mars-12 1641 1658	our sister planet
+T467	our-13 1641 1644	our
+T468	dear_reader-5 1674 1677	you
+T469	narrator-2 1707 1709	me
+T470	narrator-2 1712 1714	My
+T371	narrator-2 1723 1734	John Carter
+T471	narrator-2 1737 1738	I
+T321	Virginia-14 1781 1789	Virginia
+T472	narrator-2 1822 1823	I
+T473	narrator-2 1830 1836	myself
+T372	a_captain-15 1903 1912	a captain
+T373	the_cavalry_arm_of_an_army_which_no_longer_existed-16 1930 1980	the cavalry arm of an army which no longer existed
+T374	an_army_which_no_longer_existed-17 1949 1980	an army which no longer existed
+T375	narrator-2 1983 2052	the servant of a state which had vanished with the hopes of the South
+T376	a_state_which_had_vanished_with_the_hopes_of_the_South-18 1998 2052	a state which had vanished with the hopes of the South
+T322	the_South-19 2043 2052	the South
+T474	narrator-2 2089 2091	my
+T475	narrator-2 2137 2138	I
+T476	narrator-2 2158 2160	my
+T477	narrator-2 2206 2208	my
+T478	narrator-2 2248 2249	I
+T377	Powell-20 2298 2325	another Confederate officer
+T323	Richmond-21 2355 2363	Richmond
+T479	narrator_James_Powell-22 2366 2368	We
+T480	narrator_James_Powell-22 2467 2469	we
+T481	narrator_James_Powell-22 2528 2531	our
+T379	Powell-20 2567 2573	Powell
+T325	Powell-20 2584 2614	a mining engineer by education
+T482	narrator_James_Powell-22 2629 2631	we
+T483	narrator_James_Powell-22 2717 2720	our
+T484	narrator_James_Powell-22 2756 2758	we
+T485	narrator_James_Powell-22 2779 2781	us
+T380	civilization-23 2797 2809	civilization
+T381	a_sufficient_force_of_men-24 2861 2886	a sufficient force of men
+T326	men-25 2883 2886	men
+T382	the_mine-26 2904 2912	the mine
+T327	Powell-20 2918 2924	Powell
+T383	the_country-27 2943 2954	the country
+T486	narrator_James_Powell-22 3011 3013	we
+T487	Powell-20 3051 3054	him
+T488	narrator-2 3093 3094	I
+T489	narrator_James_Powell-22 3112 3115	our
+T328	some_wandering_prospector-28 3176 3201	some wandering prospector
+T330	Powell-20 3224 3230	Powell
+T490	narrator-2 3235 3236	I
+T491	Powell-20 3244 3247	his
+T492	narrator_James_Powell-22 3269 3272	our
+T493	narrator-2 3294 3296	me
+T494	Powell-20 3306 3308	he
+T495	Powell-20 3317 3320	his
+T329	the_mountainside-29 3346 3362	the mountainside
+T384	the_valley-30 3370 3380	the valley
+T496	Powell-20 3419 3422	his
+T385	Powell-20 3448 3454	Powell
+T332	Arizona-1 3490 3497	Arizona
+T497	narrator-2 3531 3532	I
+T498	Powell-20 3543 3546	him
+T499	Powell-20 3551 3554	his
+T386	the_mountainside-29 3598 3614	the mountainside
+T387	the_valley-30 3622 3632	the valley
+T501	narrator-2 3662 3663	I
+T331	a_level_plateau-33 3747 3762	a level plateau
+T504	narrator-2 3765 3767	My
+T333	Powell-20 3782 3788	Powell
+T505	Powell-20 3825 3827	he
+T388	the_range_on_the_opposite_side_of_the_valley-34 3851 3895	the range on the opposite side of the valley
+T389	the_valley-30 3885 3895	the valley
+T506	narrator-2 3919 3920	I
+T390	the_valley-30 3956 3966	the valley
+T507	narrator-2 4040 4041	I
+T334	Powell-20 4056 4065	my friend
+T508	narrator-2 4056 4058	my
+T509	Powell-20 4070 4073	his
+T510	narrator-2 4093 4094	I
+T511	narrator-2 4144 4145	I
+T512	narrator-2 4164 4170	myself
+T335	Powell-20 4194 4200	Powell
+T513	narrator-2 4221 4222	I
+T514	Powell-20 4235 4238	his
+T515	narrator-2 4285 4286	I
+T516	narrator-2 4306 4312	myself
+T517	narrator_James_Powell-22 4321 4323	we
+T391	the_territory-35 4336 4349	the territory
+T518	narrator_James_Powell-22 4350 4352	we
+T392	a_hostile_Indian-36 4366 4382	a hostile Indian
+T519	narrator_James_Powell-22 4389 4391	we
+T520	narrator_James_Powell-22 4481 4483	we
+T393	the_great_numbers_of_these_vicious_marauders_that_were_supposed_to_haunt_the_trails___taking_their_toll_in_lives_and_torture_of_every_white_party_which_fell_into_their_merciless_clutches-37 4497 4683	the great numbers of these vicious marauders that were supposed to haunt the trails , taking their toll in lives and torture of every white party which fell into their merciless clutches
+T521	the_great_numbers_of_these_vicious_marauders_that_were_supposed_to_haunt_the_trails___taking_their_toll_in_lives_and_torture_of_every_white_party_which_fell_into_their_merciless_clutches-37 4590 4595	their
+T394	every_white_party_which_fell_into_their_merciless_clutches-38 4625 4683	every white party which fell into their merciless clutches
+T522	the_great_numbers_of_these_vicious_marauders_that_were_supposed_to_haunt_the_trails___taking_their_toll_in_lives_and_torture_of_every_white_party_which_fell_into_their_merciless_clutches-37 4659 4664	their
+T395	Powell-20 4686 4692	Powell
+T523	narrator-2 4695 4696	I
+T396	Indian-39 4750 4756	Indian
+T524	narrator-2 4771 4772	I
+T339	the_Sioux_in_the_North-40 4814 4836	the Sioux in the North
+T337	the_North-41 4827 4836	the North
+T525	narrator-2 4843 4844	I
+T526	Powell-20 4855 4858	his
+T397	a_party_of_cunning_trailing_Apaches-42 4886 4921	a party of cunning trailing Apaches
+T336	cunning_trailing_Apaches-43 4897 4921	cunning trailing Apaches
+T527	narrator-2 4932 4933	I
+T528	narrator-2 4985 4991	myself
+T529	narrator-2 4997 4999	my
+T530	narrator-2 5035 5036	I
+T531	narrator-2 5076 5078	me
+T532	narrator-2 5092 5094	my
+T624	trail-44 5123 5163	the trail taken by Powell in the morning
+T340	Powell-20 5142 5148	Powell
+T533	narrator-2 5177 5178	I
+T534	narrator-2 5214 5215	I
+T535	narrator-2 5222 5224	my
+T536	narrator-2 5320 5321	I
+T341	Powell-20 5378 5384	Powell
+T539	narrator-2 5479 5480	I
+T540	narrator-2 5531 5532	I
+T541	narrator-2 5649 5651	my
+T542	narrator-2 5669 5670	I
+T342	some_nervous_old_housewife-45 5713 5739	some nervous old housewife
+T543	narrator-2 5751 5752	I
+T343	Powell-20 5774 5780	Powell
+T544	narrator-2 5808 5810	my
+T545	narrator-2 5829 5830	I
+T546	narrator-2 5963 5965	me
+T547	narrator-2 5977 5979	my
+T548	narrator-2 6034 6036	me
+T344	an_old_and_powerful_emperor-46 6095 6122	an old and powerful emperor
+T399	several_lesser_kings___in_whose_service_my_sword_has_been_red_many_a_time-47 6127 6200	several lesser kings , in whose service my sword has been red many a time
+T549	narrator-2 6167 6169	my
+T550	narrator-2 6259 6261	me
+T551	narrator-2 6276 6278	my
+T552	narrator-2 6287 6288	I
+T400	trail-44 6320 6329	the trail
+T553	narrator-2 6407 6408	I
+T401	water_hole-48 6417 6465	the water hole where Powell had expected to camp
+T345	Powell-20 6438 6444	Powell
+T554	narrator-2 6468 6469	I
+T402	water_hole-48 6480 6488	the spot
+T555	narrator-2 6594 6595	I
+T404	3_Apache_horsemen-49 6638 6703	the pursuing horsemen , for such I was now convinced they must be
+T556	narrator-2 6671 6672	I
+T346	Powell-20 6722 6728	Powell
+T405	water_hole-48 6755 6773	the hole for water
+T558	Powell-20 6816 6819	his
+T559	narrator-2 6822 6823	I
+T349	3_Apache_horsemen-49 6846 6858	the trailers
+T560	3_Apache_horsemen-49 6881 6885	they
+T350	Powell-20 6904 6910	Powell
+T561	narrator-2 6963 6964	I
+T562	narrator-2 6971 6973	my
+T563	narrator-2 7039 7040	I
+T348	3_Apache_horsemen-49 7061 7076	the red rascals
+T564	3_Apache_horsemen-49 7084 7088	they
+T565	Powell-20 7098 7101	him
+T566	narrator-2 7193 7195	me
+T567	narrator-2 7198 7199	I
+T351	Powell-20 7210 7216	Powell
+T568	narrator-2 7228 7230	me
+T569	narrator-2 7249 7250	I
+T570	narrator-2 7267 7269	my
+T406	trail-44 7300 7339	the narrow and difficult mountain trail
+T407	mountain-50 7325 7333	mountain
+T572	narrator-2 7342 7343	I
+T408	trail-44 7426 7435	the trail
+T409	plateau-51 7460 7510	a small , open plateau near the summit of the pass
+T410	the_summit_of_the_pass-52 7488 7510	the summit of the pass
+T411	the_pass-53 7502 7510	the pass
+T573	narrator-2 7513 7514	I
+T412	a_narrow___overhanging_gorge-54 7534 7562	a narrow , overhanging gorge
+T413	plateau-51 7598 7613	this table land
+T574	narrator-2 7640 7642	my
+T575	narrator-2 7655 7657	me
+T414	plateau-51 7690 7722	The little stretch of level land
+T415	Indian_tepees-55 7738 7751	Indian tepees
+T416	500_Apache_in_camp-56 7778 7806	half a thousand red warriors
+T418	the_camp-57 7855 7863	the camp
+T576	500_Apache_in_camp-56 7866 7871	Their
+T577	500_Apache_in_camp-56 7935 7939	they
+T578	narrator-2 7955 7957	me
+T579	narrator-2 7964 7965	I
+T419	the_dark_recesses_of_the_gorge-58 8001 8031	the dark recesses of the gorge
+T417	a_narrow___overhanging_gorge-54 8022 8031	the gorge
+T580	narrator-2 8041 8043	my
+T581	narrator-2 8129 8131	me
+T582	narrator-2 8277 8279	me
+T583	narrator-2 8282 8283	I
+T584	narrator-2 8304 8305	I
+T352	heroes-59 8345 8351	heroes
+T585	narrator-2 8405 8407	my
+T586	narrator-2 8435 8437	me
+T587	narrator-2 8464 8465	I
+T588	narrator-2 8529 8530	I
+T589	narrator-2 8548 8550	me
+T590	narrator-2 8576 8578	My
+T591	narrator-2 8617 8618	I
+T592	narrator-2 8736 8737	I
+T593	narrator-2 8795 8797	me
+T594	narrator-2 8817 8818	I
+T354	Powell-20 8851 8857	Powell
+T595	narrator-2 8901 8902	I
+T596	narrator-2 8926 8927	I
+T597	narrator-2 9001 9003	my
+T598	narrator-2 9009 9010	I
+T599	narrator-2 9027 9029	my
+T421	500_Apache_in_camp-56 9067 9094	the entire army of warriors
+T600	narrator-2 9143 9145	my
+T601	narrator-2 9169 9170	I
+T422	500_Apache_in_camp-56 9215 9313	the red men , convinced by sudden surprise that not less than a regiment of regulars was upon them
+T423	a_regiment_of_regulars-60 9277 9299	a regiment of regulars
+T602	500_Apache_in_camp-56 9309 9313	them
+T603	500_Apache_in_camp-56 9355 9360	their
+T604	500_Apache_in_camp-56 9405 9410	their
+T605	narrator-2 9444 9446	me
+T356	Arizona-1 9509 9516	Arizona
+T424	Powell-20 9526 9532	Powell
+T425	Powell-20 9535 9598	his body fairly bristling with the hostile arrows of the braves
+T606	Powell-20 9535 9538	his
+T357	500_Apache_in_camp-56 9588 9598	the braves
+T607	Powell-20 9606 9608	he
+T608	narrator-2 9626 9627	I
+T609	narrator-2 9665 9666	I
+T426	Powell-20 9684 9692	his body
+T610	Powell-20 9684 9687	his
+T359	500_Apache_in_camp-56 9725 9736	the Apaches
+T611	narrator-2 9751 9752	I
+T358	Powell-20 9770 9785	the man himself
+T612	Powell-20 9778 9785	himself
+T613	Powell-20 9815 9818	him
+T614	narrator-2 9819 9820	I
+T615	Powell-20 9865 9868	his
+T616	Powell-20 9889 9892	him
+T617	narrator-2 9918 9920	my
+T618	narrator-2 9957 9959	me
+T619	narrator-2 9986 9987	I
+T427	plateau-51 10045 10056	the plateau
+T620	narrator-2 10081 10083	my
+T621	narrator-2 10097 10098	I
+T622	narrator-2 10145 10146	I
+T428	plateau-51 10184 10198	the table land
+R1	cop Arg1:T0 Arg2:T119
+R2	cop Arg1:T49 Arg2:T126
+R3	appos Arg1:T2 Arg2:T49
+R5	cop Arg1:T7 Arg2:T158
+R6	appos Arg1:T11 Arg2:T64
+R7	cop Arg1:T25 Arg2:T82
+R9	cop Arg1:T34 Arg2:T36
+R10	cop Arg1:T107 Arg2:T41
+T639	PRON_LOC 6512 6514	it
+T640	water_hole-48 6512 6514	it
+T40	a_colossal_liar-700 1374 1389	a colossal liar
+T42	a_camp-701 6585 6591	a camp

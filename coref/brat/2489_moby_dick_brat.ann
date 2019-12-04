@@ -1,0 +1,600 @@
+T3	NOM_PER 430 437	my soul
+T4	NOM_FAC 528 560	the rear of every funeral I meet
+T5	PROP_PER 913 917	Cato
+T6	NOM_PER 1039 1069	almost all men in their degree
+T7	NOM_FAC 1356 1376	Its extreme downtown
+T8	NOM_GPE 1574 1612	the city of a dreamy Sabbath afternoon
+T9	NOM_PER 1640 1653	Coenties Slip
+T15	NOM_PER 1734 1750	silent sentinels
+T17	PROP_GPE 1967 1972	China
+T18	NOM_LOC 2215 2231	the green fields
+T20	NOM_FAC 2449 2483	the shady lee of yonder warehouses
+T26	NOM_PER 3432 3456	a metaphysical professor
+T30	NOM_LOC 3839 3849	his meadow
+T31	NOM_PER 4212 4224	the shepherd
+T32	NOM_PER 4161 4174	this shepherd
+T33	NOM_LOC 4287 4299	the Prairies
+T35	PROP_LOC 4469 4476	Niagara
+T36	NOM_PER 4559 4585	the poor poet of Tennessee
+T37	PROP_GPE 4576 4585	Tennessee
+T38	PROP_LOC 4744 4758	Rockaway Beach
+T41	NOM_PER 4909 4920	a passenger
+T42	NOM_PER 5052 5068	the old Persians
+T44	NOM_PER 5097 5107	the Greeks
+T45	NOM_PER 5116 5132	a separate deity
+T46	PROP_PER 5154 5158	Jove
+T47	NOM_PER 5736 5747	a passenger
+T49	NOM_PER 6021 6032	a passenger
+T50	NOM_PER 6098 6109	a Commodore
+T52	NOM_PER 5874 5884	passengers
+T54	NOM_PER 6547 6553	a cook
+T55	NOM_PER 6482 6486	cook
+T58	NOM_PER 6881 6898	the old Egyptians
+T60	NOM_PER 7059 7074	a simple sailor
+T61	NOM_PER 7607 7629	a country schoolmaster
+T62	NOM_PER 7639 7655	the tallest boys
+T63	PROP_PER 7793 7799	Seneca
+T66	NOM_PER 7747 7755	a sailor
+T71	NOM_PER 8290 8310	the old sea-captains
+T72	NOM_PER 8718 8726	a sailor
+T73	NOM_PER 8808 8818	passengers
+T74	NOM_PER 8875 8896	passengers themselves
+T75	NOM_PER 9053 9093	the two orchard thieves entailed upon us
+T76	NOM_PER 9175 9180	a man
+T77	NOM_FAC 9349 9355	heaven
+T78	NOM_PER 9330 9342	a monied man
+T79	NOM_PER 9446 9454	a sailor
+T80	NOM_PER 9690 9723	the Commodore on the quarter-deck
+T81	NOM_PER 9764 9793	the sailors on the forecastle
+T82	NOM_PER 9886 9899	their leaders
+T86	NOM_PER 10044 10061	a merchant sailor
+T1	PROP_PER 27 34	Ishmael
+T88	NOM_LOC 169 174	shore
+T89	NOM_LOC 223 251	the watery part of the world
+T2	NOM_FAC 492 509	coffin warehouses
+T90	NOM_FAC 715 725	the street
+T91	NOM_PER 754 760	people
+T92	NOM_LOC 816 819	sea
+T93	NOM_VEH 968 976	the ship
+T94	NOM_LOC 1139 1148	the ocean
+T96	PROP_PER 1193 1207	the Manhattoes
+T97	NOM_LOC 1237 1249	Indian isles
+T98	NOM_LOC 1226 1233	wharves
+T99	NOM_FAC 1323 1334	the streets
+T100	NOM_FAC 1380 1391	the battery
+T101	NOM_FAC 1400 1415	that noble mole
+T102	NOM_PER 1524 1550	the crowds of water-gazers
+T103	NOM_LOC 1509 1513	land
+T11	PROP_LOC 1623 1636	Corlears Hook
+T10	PROP_FAC 1677 1686	Whitehall
+T12	NOM_GPE 1762 1770	the town
+T13	NOM_PER 1779 1841	thousands upon thousands of mortal men fixed in ocean reveries
+T14	NOM_VEH 1956 1972	ships from China
+T104	NOM_PER 2078 2086	landsmen
+T106	NOM_PER 2280 2356	more crowds , pacing straight for the water , and seemingly bound for a dive
+T107	NOM_LOC 2399 2430	the extremest limit of the land
+T19	NOM_LOC 2535 2544	the water
+T21	NOM_PER 2611 2624	miles of them
+T109	NOM_PER 2638 2651	Inlanders all
+T110	NOM_FAC 2669 2674	lanes
+T111	NOM_FAC 2679 2685	alleys
+T112	NOM_FAC 2688 2695	streets
+T113	NOM_FAC 2700 2707	avenues
+T119	NOM_VEH 2847 2858	those ships
+T22	NOM_LOC 2909 2920	the country
+T120	NOM_LOC 2926 2949	some high land of lakes
+T121	NOM_LOC 3024 3030	a dale
+T122	NOM_LOC 3057 3077	a pool in the stream
+T123	NOM_LOC 2957 2983	almost any path you please
+T23	NOM_PER 3107 3136	the most absent-minded of men
+T24	NOM_PER 3181 3189	that man
+T124	NOM_VEH 3392 3404	your caravan
+T125	NOM_LOC 3339 3364	the great American desert
+T28	NOM_LOC 3577 3686	the dreamiest , shadiest , quietest , most enchanting bit of romantic landscape in all the valley of the Saco
+T29	NOM_PER 3785 3793	a hermit
+T126	NOM_LOC 3827 3831	here
+T128	NOM_FAC 3893 3907	yonder cottage
+T129	NOM_LOC 3930 3957	Deep into distant woodlands
+T130	NOM_LOC 3989 4050	overlapping spurs of mountains bathed in their hill-side blue
+T131	NOM_LOC 4248 4275	the magic stream before him
+T34	NOM_PER 4768 4833	almost every robust healthy boy with a robust healthy soul in him
+T39	NOM_LOC 4870 4876	to sea
+T40	NOM_VEH 5002 5011	your ship
+T132	NOM_LOC 5037 5041	land
+T133	NOM_LOC 5074 5081	the sea
+T134	PROP_PER 5248 5257	Narcissus
+T135	NOM_LOC 5420 5430	all rivers
+T136	NOM_LOC 5435 5441	oceans
+T138	NOM_LOC 5729 5732	sea
+T137	NOM_LOC 5581 5584	sea
+T48	NOM_PER 5763 5774	a passenger
+T53	NOM_PER 6115 6124	a Captain
+T51	NOM_PER 6130 6136	a Cook
+T139	NOM_PER 6194 6213	those who like them
+T140	NOM_VEH 6409 6414	ships
+T141	NOM_VEH 6417 6424	barques
+T142	NOM_VEH 6427 6432	brigs
+T143	NOM_VEH 6435 6444	schooners
+T144	NOM_PER 6560 6591	a sort of officer on ship-board
+T56	NOM_LOC 7045 7048	sea
+T57	NOM_LOC 7272 7284	a May meadow
+T59	NOM_PER 7407 7444	an old established family in the land
+T145	PROP_PER 7447 7466	the Van Rensselaers
+T146	PROP_PER 7472 7481	Randolphs
+T147	PROP_PER 7487 7499	Hardicanutes
+T65	NOM_PER 7729 7743	a schoolmaster
+T148	NOM_PER 7804 7814	the Stoics
+T64	NOM_PER 7901 7932	some old hunks of a sea-captain
+T67	NOM_PER 8187 8201	that old hunks
+T68	NOM_PER 8243 8250	a slave
+T70	NOM_LOC 8711 8714	sea
+T149	NOM_LOC 8943 8952	the world
+T150	NOM_LOC 9439 9442	sea
+T151	NOM_LOC 9540 9550	this world
+T152	NOM_LOC 10033 10040	the sea
+T83	NOM_PER 10131 10172	the invisible police officer of the Fates
+T25	NOM_LOC 3262 3267	water
+T84	NOM_LOC 3273 3278	water
+T85	NOM_LOC 3295 3306	that region
+T87	NOM_FAC 6990 7024	their huge bakehouses the pyramids
+T27	NOM_PER 3541 3550	an artist
+T69	PROP_PER 8105 8112	Gabriel
+T153	NOM_PER 8091 8104	the archangel
+T105	NOM_PER 8440 8454	everybody else
+T114	NOM_LOC 242 251	the world
+T115	NOM_PER 10313 10325	any one else
+T116	NOM_PER 3468 3477	every one
+T154	NOM_PER 6741 6747	no one
+T117	NOM_FAC 1551 1556	there
+T118	NOM_LOC 3048 3053	there
+T155	PRON_PER 24 26	me
+T156	PRON_PER 117 119	my
+T157	PRON_PER 163 165	me
+T158	PRON_PER 177 178	I
+T159	PRON_PER 187 188	I
+T160	PRON_PER 266 267	I
+T161	PRON_PER 341 342	I
+T162	PRON_PER 348 354	myself
+T163	PRON_PER 430 432	my
+T164	PRON_PER 449 450	I
+T165	PRON_PER 456 462	myself
+T166	PRON_PER 554 555	I
+T167	PRON_PER 587 589	my
+T168	PRON_PER 622 624	me
+T169	PRON_PER 680 682	me
+T170	PRON_PER 783 784	I
+T171	PRON_PER 831 832	I
+T172	PRON_PER 847 849	my
+T173	PRON_PER 925 932	himself
+T174	PRON_PER 938 941	his
+T175	PRON_PER 950 951	I
+T176	PRON_PER 1020 1024	they
+T177	PRON_PER 1057 1062	their
+T178	PRON_PER 1154 1156	me
+T179	PRON_PER 1172 1176	your
+T181	PRON_PER 1340 1343	you
+T182	PRON_PER 1709 1712	you
+T183	PRON_PER 2247 2251	they
+T184	PRON_PER 2390 2394	them
+T185	PRON_PER 2508 2512	They
+T186	PRON_PER 2548 2552	they
+T187	PRON_PER 2597 2601	they
+T188	PRON_PER 2620 2624	them
+T189	PRON_PER 2654 2658	they
+T190	PRON_PER 2756 2760	they
+T191	PRON_PER 2778 2780	me
+T192	PRON_PER 2867 2871	them
+T193	PRON_PER 2898 2901	you
+T194	PRON_PER 2973 2976	you
+T803	you-803 2973 2976	you
+T195	PRON_PER 3012 3015	you
+T196	PRON_PER 3044 3047	you
+T197	PRON_PER 3151 3154	his
+T198	PRON_PER 3193 3196	his
+T199	PRON_PER 3208 3211	his
+T200	PRON_PER 3231 3233	he
+T201	PRON_PER 3255 3258	you
+T202	PRON_PER 3316 3319	you
+T203	PRON_PER 3392 3396	your
+T204	PRON_PER 3553 3555	He
+T205	PRON_PER 3573 3576	you
+T206	PRON_PER 3715 3717	he
+T207	PRON_PER 3740 3743	his
+T208	PRON_PER 3839 3842	his
+T209	PRON_PER 3868 3871	his
+T211	PRON_PER 4272 4275	him
+T212	PRON_PER 4345 4348	you
+T213	PRON_PER 4508 4511	you
+T214	PRON_PER 4519 4523	your
+T215	PRON_PER 4663 4666	him
+T216	PRON_PER 4682 4684	he
+T217	PRON_PER 4710 4713	his
+T218	PRON_PER 4830 4833	him
+T219	PRON_PER 4888 4892	your
+T220	PRON_PER 4927 4930	you
+T221	PRON_PER 4931 4939	yourself
+T222	PRON_PER 4994 4997	you
+T223	PRON_PER 5002 5006	your
+T224	PRON_PER 5272 5274	he
+T225	PRON_PER 5319 5321	he
+T226	PRON_PER 5400 5402	we
+T227	PRON_PER 5403 5412	ourselves
+T228	PRON_PER 5540 5541	I
+T229	PRON_PER 5551 5552	I
+T230	PRON_PER 5594 5595	I
+T231	PRON_PER 5666 5668	my
+T232	PRON_PER 5677 5678	I
+T233	PRON_PER 5716 5717	I
+T234	PRON_PER 5775 5778	you
+T235	PRON_PER 5837 5840	you
+T236	PRON_PER 5960 5970	themselves
+T237	PRON_PER 6007 6008	I
+T238	PRON_PER 6048 6049	I
+T239	PRON_PER 6078 6079	I
+T240	PRON_PER 6139 6140	I
+T242	PRON_PER 6220 6222	my
+T243	PRON_PER 6230 6231	I
+T244	PRON_PER 6352 6353	I
+T245	PRON_PER 6377 6383	myself
+T246	PRON_PER 6499 6500	I
+T247	PRON_PER 6611 6612	I
+T248	PRON_PER 6833 6834	I
+T249	PRON_PER 6948 6951	you
+T250	PRON_PER 6990 6995	their
+T251	PRON_PER 7037 7038	I
+T252	PRON_PER 7051 7052	I
+T253	PRON_PER 7179 7183	they
+T254	PRON_PER 7197 7199	me
+T255	PRON_PER 7222 7224	me
+T256	PRON_PER 7395 7398	you
+T257	PRON_PER 7550 7554	your
+T258	PRON_PER 7579 7582	you
+T259	PRON_PER 7672 7675	you
+T260	PRON_PER 7709 7710	I
+T261	PRON_PER 7718 7721	you
+T262	PRON_PER 7825 7828	you
+T263	PRON_PER 7940 7942	me
+T264	PRON_PER 8032 8033	I
+T265	PRON_PER 8081 8084	you
+T266	PRON_PER 8141 8143	me
+T267	PRON_PER 8154 8155	I
+T268	PRON_PER 8258 8260	me
+T269	PRON_PER 8321 8323	me
+T270	PRON_PER 8341 8345	they
+T271	PRON_PER 8366 8368	me
+T272	PRON_PER 8377 8378	I
+T273	PRON_PER 8696 8697	I
+T274	PRON_PER 8737 8741	they
+T275	PRON_PER 8765 8767	me
+T276	PRON_PER 8772 8774	my
+T277	PRON_PER 8793 8797	they
+T278	PRON_PER 8839 8840	I
+T279	PRON_PER 8886 8896	themselves
+T280	PRON_PER 9091 9093	us
+T281	PRON_PER 9236 9238	we
+T282	PRON_PER 9378 9380	we
+T283	PRON_PER 9389 9398	ourselves
+T284	PRON_PER 9424 9425	I
+T285	PRON_PER 9625 9628	you
+T286	PRON_PER 9729 9732	his
+T287	PRON_PER 9796 9798	He
+T288	PRON_PER 9806 9808	he
+T289	PRON_PER 9886 9891	their
+T290	PRON_PER 10064 10065	I
+T291	PRON_PER 10090 10092	my
+T292	PRON_PER 10212 10214	me
+T293	PRON_PER 10235 10237	me
+T294	PRON_PER 10255 10257	me
+T295	PRON_PER 10287 10289	he
+T296	PRON_PER 10346 10348	my
+T297	PRON_PER 10552 10553	I
+T453	ISHMAEL-0 24 26	me
+T299	ISHMAEL-0 27 34	Ishmael
+T454	ISHMAEL-0 117 119	my
+T455	ISHMAEL-0 163 165	me
+T386	shore-1 169 174	shore
+T456	ISHMAEL-0 177 178	I
+T457	ISHMAEL-0 187 188	I
+T387	sea_water_ocean-201 223 251	the watery part of the world
+T458	ISHMAEL-0 266 267	I
+T412	the_world-3 242 251	the world
+T459	ISHMAEL-0 341 342	I
+T460	ISHMAEL-0 348 354	myself
+T301	ISHMAEL-0 430 437	my soul
+T461	ISHMAEL-0 430 432	my
+T462	ISHMAEL-0 449 450	I
+T463	ISHMAEL-0 456 462	myself
+T300	coffin_warehouses-4 492 509	coffin warehouses
+T302	the_rear_of_every_funeral_I_meet-5 528 560	the rear of every funeral I meet
+T464	ISHMAEL-0 554 555	I
+T465	ISHMAEL-0 587 589	my
+T466	ISHMAEL-0 622 624	me
+T467	ISHMAEL-0 680 682	me
+T388	the_street-6 715 725	the street
+T389	people-7 754 760	people
+T468	ISHMAEL-0 783 784	I
+T390	sea_water_ocean-2 816 819	sea
+T469	ISHMAEL-0 831 832	I
+T470	ISHMAEL-0 847 849	my
+T303	Cato-8 913 917	Cato
+T471	Cato-8 925 932	himself
+T472	Cato-8 938 941	his
+T473	ISHMAEL-0 950 951	I
+T391	the_ship-9 968 976	the ship
+T474	almost_all_men-10 1020 1024	they
+T304	almost_all_men-10 1039 1069	almost all men in their degree
+T475	almost_all_men-10 1057 1062	their
+T392	sea_water_ocean-202 1139 1148	the ocean
+T476	ISHMAEL-0 1154 1156	me
+T477	your-11 1172 1176	your
+T394	the_Manhattoes-13 1193 1207	the Manhattoes
+T396	wharves-14 1226 1233	wharves
+T395	Indian_isles-15 1237 1249	Indian isles
+T397	the_streets-16 1323 1334	the streets
+T479	you-17 1340 1343	you
+T305	Its_extreme_downtown-18 1356 1376	Its extreme downtown
+T399	that_noble_mole-19 1400 1415	that noble mole
+T401	land-20 1509 1513	land
+T400	the_crowds_of_water-gazers-21 1524 1550	the crowds of water-gazers
+T415	Its_extreme_downtown-18 1551 1556	there
+T306	insular_city_of_the_Manhattoes-12 1574 1612	the city of a dreamy Sabbath afternoon
+T309	Corlears_Hook-22 1623 1636	Corlears Hook
+T307	Coenties_Slip-23 1640 1653	Coenties Slip
+T308	Whitehall-24 1677 1686	Whitehall
+T480	you-25 1709 1712	you
+T313	silent_sentinels-26 1734 1750	silent sentinels
+T310	the_town-27 1762 1770	the town
+T311	thousands_upon_thousands_of_mortal_men_fixed_in_ocean_reveries-28 1779 1841	thousands upon thousands of mortal men fixed in ocean reveries
+T312	ships_from_China-29 1956 1972	ships from China
+T402	thousands_upon_thousands_of_mortal_men_fixed_in_ocean_reveries-28 2078 2086	landsmen
+T316	the_green_fields-30 2215 2231	the green fields
+T481	thousands_upon_thousands_of_mortal_men_fixed_in_ocean_reveries-28 2247 2251	they
+T404	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2280 2356	more crowds , pacing straight for the water , and seemingly bound for a dive
+T482	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2390 2394	them
+T405	the_extremest_limit_of_the_land-32 2399 2430	the extremest limit of the land
+T318	the_shady_lee_of_yonder_warehouses-33 2449 2483	the shady lee of yonder warehouses
+T483	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2508 2512	They
+T317	sea_water_ocean-203 2535 2544	the water
+T484	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2548 2552	they
+T485	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2597 2601	they
+T319	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2611 2624	miles of them
+T486	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2620 2624	them
+T487	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2654 2658	they
+T408	lanes-34 2669 2674	lanes
+T409	alleys-35 2679 2685	alleys
+T410	streets-36 2688 2695	streets
+T411	avenues-37 2700 2707	avenues
+T488	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2756 2760	they
+T489	ISHMAEL-0 2778 2780	me
+T417	those_ships-38 2847 2858	those ships
+T490	more_crowds___pacing_straight_for_the_water___and_seemingly_bound_for_a_dive-31 2867 2871	them
+T491	you-39 2898 2901	you
+T320	the_country-40 2909 2920	the country
+T418	some_high_land_of_lakes-41 2926 2949	some high land of lakes
+T421	almost_any_path_you_please-42 2957 2983	almost any path you please
+T493	you-43 3012 3015	you
+T419	a_dale-44 3024 3030	a dale
+T494	you-45 3044 3047	you
+T416	there-46 3048 3053	there
+T420	a_pool_in_the_stream-47 3057 3077	a pool in the stream
+T321	the_most_absent-minded_of_men-48 3107 3136	the most absent-minded of men
+T495	the_most_absent-minded_of_men-48 3151 3154	his
+T322	the_most_absent-minded_of_men-48 3181 3189	that man
+T496	the_most_absent-minded_of_men-48 3193 3196	his
+T497	the_most_absent-minded_of_men-48 3208 3211	his
+T498	the_most_absent-minded_of_men-48 3231 3233	he
+T499	you-49 3255 3258	you
+T323	sea_water_ocean-204 3262 3267	water
+T382	sea_water_ocean-205 3273 3278	water
+T383	that_region-50 3295 3306	that region
+T500	you-51 3316 3319	you
+T423	the_great_American_desert-52 3339 3364	the great American desert
+T422	your_caravan-53 3392 3404	your caravan
+T501	your-54 3392 3396	your
+T324	a_metaphysical_professor-55 3432 3456	a metaphysical professor
+T414	every_one-56 3468 3477	every one
+T325	an_artist-57 3541 3550	an artist
+T502	an_artist-57 3553 3555	He
+T503	you-58 3573 3576	you
+T326	the_dreamiest___shadiest___quietest___most_enchanting_bit_of_romantic_landscape_in_all_the_valley_of_the_Saco-59 3577 3686	the dreamiest , shadiest , quietest , most enchanting bit of romantic landscape in all the valley of the Saco
+T504	an_artist-57 3715 3717	he
+T505	an_artist-57 3740 3743	his
+T327	a_hermit-60 3785 3793	a hermit
+T424	here-61 3827 3831	here
+T328	his_meadow-62 3839 3849	his meadow
+T506	an_artist-57 3839 3842	his
+T507	an_artist-57 3868 3871	his
+T426	yonder_cottage-63 3893 3907	yonder cottage
+T427	Deep_into_distant_woodlands-64 3930 3957	Deep into distant woodlands
+T428	overlapping_spurs_of_mountains_bathed_in_their_hill-side_blue-65 3989 4050	overlapping spurs of mountains bathed in their hill-side blue
+T330	this_shepherd-66 4161 4174	this shepherd
+T329	this_shepherd-66 4212 4224	the shepherd
+T429	the_magic_stream_before_him-67 4248 4275	the magic stream before him
+T509	this_shepherd-66 4272 4275	him
+T331	the_Prairies-68 4287 4299	the Prairies
+T510	you-69 4345 4348	you
+T333	Niagara-70 4469 4476	Niagara
+T511	you-71 4508 4511	you
+T512	your-72 4519 4523	your
+T334	the_poor_poet_of_Tennessee-73 4559 4585	the poor poet of Tennessee
+T335	Tennessee-74 4576 4585	Tennessee
+T513	the_poor_poet_of_Tennessee-73 4663 4666	him
+T514	the_poor_poet_of_Tennessee-73 4682 4684	he
+T515	the_poor_poet_of_Tennessee-73 4710 4713	his
+T336	Rockaway_Beach-75 4744 4758	Rockaway Beach
+T332	almost_every_robust_healthy_boy_with_a_robust_healthy_soul_in_him-76 4768 4833	almost every robust healthy boy with a robust healthy soul in him
+T516	almost_every_robust_healthy_boy_with_a_robust_healthy_soul_in_him-76 4830 4833	him
+T337	sea_water_ocean-206 4870 4876	to sea
+T517	your-77 4888 4892	your
+T339	a_passenger-78 4909 4920	a passenger
+T518	you-79 4927 4930	you
+T519	yourself-80 4931 4939	yourself
+T520	you-81 4994 4997	you
+T338	your_ship-82 5002 5011	your ship
+T521	your-83 5002 5006	your
+T430	land-20 5037 5041	land
+T340	the_old_Persians-84 5052 5068	the old Persians
+T431	sea_water_ocean-207 5074 5081	the sea
+T342	the_Greeks-85 5097 5107	the Greeks
+T343	a_separate_deity-86 5116 5132	a separate deity
+T344	Jove-88 5154 5158	Jove
+T432	Narcissus-89 5248 5257	Narcissus
+T522	Narcissus-89 5272 5274	he
+T523	Narcissus-89 5319 5321	he
+T524	we-90 5400 5402	we
+T433	all_rivers-92 5420 5430	all rivers
+T434	sea_water_ocean-208 5435 5441	oceans
+T526	ISHMAEL-0 5540 5541	I
+T527	ISHMAEL-0 5551 5552	I
+T435	sea_water_ocean-209 5581 5584	sea
+T528	ISHMAEL-0 5594 5595	I
+T529	ISHMAEL-0 5666 5668	my
+T530	ISHMAEL-0 5677 5678	I
+T531	ISHMAEL-0 5716 5717	I
+T436	sea_water_ocean-210 5729 5732	sea
+T345	a_passenger-93 5736 5747	a passenger
+T346	a_passenger-94 5763 5774	a passenger
+T532	you-95 5775 5778	you
+T533	you-96 5837 5840	you
+T350	passengers-97 5874 5884	passengers
+T534	passengers-97 5960 5970	themselves
+T535	ISHMAEL-0 6007 6008	I
+T347	a_passenger-98 6021 6032	a passenger
+T536	ISHMAEL-0 6048 6049	I
+T537	ISHMAEL-0 6078 6079	I
+T348	a_Commodore-99 6098 6109	a Commodore
+T351	a_Captain-100 6115 6124	a Captain
+T349	a_Cook-101 6130 6136	a Cook
+T538	ISHMAEL-0 6139 6140	I
+T437	those_who_like_them-102 6194 6213	those who like them
+T540	ISHMAEL-0 6220 6222	my
+T541	ISHMAEL-0 6230 6231	I
+T542	ISHMAEL-0 6352 6353	I
+T543	ISHMAEL-0 6377 6383	myself
+T438	ships-103 6409 6414	ships
+T439	barques-104 6417 6424	barques
+T440	brigs-105 6427 6432	brigs
+T441	schooners-106 6435 6444	schooners
+T353	cook-107 6482 6486	cook
+T544	ISHMAEL-0 6499 6500	I
+T352	a_cook-108 6547 6553	a cook
+T545	ISHMAEL-0 6611 6612	I
+T452	no_one-109 6741 6747	no one
+T546	ISHMAEL-0 6833 6834	I
+T356	the_old_Egyptians-110 6881 6898	the old Egyptians
+T547	you-111 6948 6951	you
+T385	their_huge_bakehouses_the_pyramids-112 6990 7024	their huge bakehouses the pyramids
+T548	the_old_Egyptians-110 6990 6995	their
+T549	ISHMAEL-0 7037 7038	I
+T354	sea_water_ocean-220 7045 7048	sea
+T550	ISHMAEL-0 7051 7052	I
+T358	a_simple_sailor-113 7059 7074	a simple sailor
+T551	they-114 7179 7183	they
+T552	ISHMAEL-0 7197 7199	me
+T553	ISHMAEL-0 7222 7224	me
+T355	a_May_meadow-115 7272 7284	a May meadow
+T554	you-116 7395 7398	you
+T357	an_old_established_family_in_the_land-117 7407 7444	an old established family in the land
+T443	the_Van_Rensselaers-118 7447 7466	the Van Rensselaers
+T444	Randolphs-119 7472 7481	Randolphs
+T445	Hardicanutes-120 7487 7499	Hardicanutes
+T555	your-121 7550 7554	your
+T556	you-122 7579 7582	you
+T359	a_country_schoolmaster-123 7607 7629	a country schoolmaster
+T360	the_tallest_boys-124 7639 7655	the tallest boys
+T557	you-125 7672 7675	you
+T558	ISHMAEL-0 7709 7710	I
+T559	you-126 7718 7721	you
+T364	a_sailor-127 7747 7755	a sailor
+T363	a_schoolmaster-128 7729 7743	a schoolmaster
+T361	Seneca-129 7793 7799	Seneca
+T446	the_Stoics-130 7804 7814	the Stoics
+T560	you-131 7825 7828	you
+T362	the_old_sea-captains-132 7901 7932	some old hunks of a sea-captain
+T561	ISHMAEL-0 7940 7942	me
+T562	ISHMAEL-0 8032 8033	I
+T563	you-133 8081 8084	you
+T451	Gabriel-134 8091 8104	the archangel
+T367	Gabriel-134 8105 8112	Gabriel
+T564	ISHMAEL-0 8141 8143	me
+T565	ISHMAEL-0 8154 8155	I
+T365	the_old_sea-captains-132 8187 8201	that old hunks
+T366	a_slave-135 8243 8250	a slave
+T566	ISHMAEL-0 8258 8260	me
+T369	the_old_sea-captains-132 8290 8310	the old sea-captains
+T567	ISHMAEL-0 8321 8323	me
+T568	the_old_sea-captains-132 8341 8345	they
+T569	ISHMAEL-0 8366 8368	me
+T570	ISHMAEL-0 8377 8378	I
+T403	everybody_else-136 8440 8454	everybody else
+T571	ISHMAEL-0 8696 8697	I
+T368	sea_water_ocean-221 8711 8714	sea
+T370	a_sailor-137 8718 8726	a sailor
+T572	the_old_sea-captains-132 8737 8741	they
+T573	ISHMAEL-0 8765 8767	me
+T574	ISHMAEL-0 8772 8774	my
+T575	the_old_sea-captains-132 8793 8797	they
+T371	passengers-138 8808 8818	passengers
+T576	ISHMAEL-0 8839 8840	I
+T372	passengers_themselves-139 8875 8896	passengers themselves
+T577	passengers_themselves-139 8886 8896	themselves
+T525	we-90 5403 5412	ourselves
+T447	the_world-3 8943 8952	the world
+T373	the_two_orchard_thieves_entailed_upon_us-140 9053 9093	the two orchard thieves entailed upon us
+T578	us-141 9091 9093	us
+T374	a_man-142 9175 9180	a man
+T579	we-143 9236 9238	we
+T376	a_monied_man-144 9330 9342	a monied man
+T375	heaven-145 9349 9355	heaven
+T580	we-146 9378 9380	we
+T581	we-146 9389 9398	ourselves
+T582	ISHMAEL-0 9424 9425	I
+T448	sea_water_ocean-222 9439 9442	sea
+T377	a_sailor-147 9446 9454	a sailor
+T449	the_world-3 9540 9550	this world
+T583	you-148 9625 9628	you
+T378	the_Commodore_on_the_quarter-deck-149 9690 9723	the Commodore on the quarter-deck
+T584	the_Commodore_on_the_quarter-deck-149 9729 9732	his
+T379	the_sailors_on_the_forecastle-150 9764 9793	the sailors on the forecastle
+T585	the_Commodore_on_the_quarter-deck-149 9796 9798	He
+T586	the_Commodore_on_the_quarter-deck-149 9806 9808	he
+T380	the_Commodore_on_the_quarter-deck-149 9886 9899	their leaders
+T587	the_sailors_on_the_forecastle-150 9886 9891	their
+T450	sea_water_ocean-223 10033 10040	the sea
+T384	a_merchant_sailor-151 10044 10061	a merchant sailor
+T588	ISHMAEL-0 10064 10065	I
+T589	ISHMAEL-0 10090 10092	my
+T381	the_invisible_police_officer_of_the_Fates-152 10131 10172	the invisible police officer of the Fates
+T590	ISHMAEL-0 10212 10214	me
+T591	ISHMAEL-0 10235 10237	me
+T592	ISHMAEL-0 10255 10257	me
+T593	the_invisible_police_officer_of_the_Fates-152 10287 10289	he
+T413	any_one_else-153 10313 10325	any one else
+T594	ISHMAEL-0 10346 10348	my
+T595	ISHMAEL-0 10552 10553	I
+R1	cop Arg1:T100 Arg2:T7
+R2	appos Arg1:T109 Arg2:T189
+R4	cop Arg1:T144 Arg2:T54
+T16	new-801 1967 1972	China
+T127	PRON_LOC 3001 3003	it
+T298	almost_any_path_you_please-42 3001 3003	it
+T814	PRON_GPE 1287 1289	it
+T815	insular_city_of_the_Manhattoes-12 1287 1289	it
+T816	PRON_GPE 1356 1359	Its
+T817	insular_city_of_the_Manhattoes-12 1356 1359	Its
+T822	PRON_LOC 4546 4548	it
+T823	Niagara-70 4546 4548	it
+T824	PRON_LOC 5113 5115	it
+T825	sea_water_ocean-207 5113 5115	it
+T108	NOM_GPE 1172 1207	your insular city of the Manhattoes
+T180	insular_city_of_the_Manhattoes-12 1172 1207	your insular city of the Manhattoes
+T95	NOM_PER 5139 5158	own brother of Jove
+T210	a_separate_deity-86 5139 5158	own brother of Jove
+T43	NOM_PER 1844 1848	Some
+T241	Some-700 1844 1848	Some
+T314	NOM_PER 1878 1882	some
+T315	some-701 1878 1882	some
+T341	NOM_PER 1912 1916	some
+T393	some-702 1912 1916	some
+T398	some-703 1975 1979	some
+T406	NOM_PER 1975 1979	some

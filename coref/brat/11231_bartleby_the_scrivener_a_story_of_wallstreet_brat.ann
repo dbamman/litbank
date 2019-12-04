@@ -1,0 +1,612 @@
+T0	NOM_PER 5 25	a rather elderly man
+T1	NOM_PER 292 302	scriveners
+T2	NOM_PER 194 197	men
+T4	NOM_PER 429 451	good-natured gentlemen
+T5	NOM_PER 470 487	sentimental souls
+T6	NOM_PER 532 552	all other scriveners
+T8	NOM_PER 669 687	other law-copyists
+T9	PROP_PER 725 733	Bartleby
+T10	NOM_PER 844 852	this man
+T12	NOM_PER 1202 1215	the scrivener
+T13	NOM_PER 1442 1483	the chief character about to be presented
+T15	NOM_PER 2064 2089	an eminently _ safe _ man
+T16	NOM_PER 2120 2165	a personage little given to poetic enthusiasm
+T17	PROP_PER 2363 2388	the late John Jacob Astor
+T24	NOM_FAC 3357 3363	stairs
+T25	NOM_FAC 3492 3504	the building
+T26	NOM_PER 3610 3628	landscape painters
+T27	NOM_PER 3965 3992	all near-sighted spectators
+T28	NOM_FAC 4078 4103	the surrounding buildings
+T30	NOM_PER 4297 4308	two persons
+T32	NOM_PER 4635 4659	their respective persons
+T33	NOM_PER 4587 4602	my three clerks
+T34	NOM_PER 4663 4673	characters
+T35	PROP_PER 5423 5429	Turkey
+T36	NOM_PER 6606 6629	an elderly man like him
+T38	NOM_PER 7415 7429	a man of peace
+T39	NOM_FAC 7789 7793	home
+T41	NOM_FAC 8023 8031	the room
+T42	PROP_PER 8164 8170	Turkey
+T43	NOM_PER 8210 8229	your right-hand man
+T44	NOM_PER 8356 8363	the foe
+T48	NOM_PER 9306 9320	a mere copyist
+T49	PROP_PER 9832 9839	Nippers
+T50	NOM_FAC 10248 10261	a Dutch house
+T51	PROP_PER 10508 10515	Nippers
+T52	NOM_PER 10790 10801	his clients
+T53	NOM_PER 11154 11164	his client
+T57	NOM_PER 11963 11985	a dependent Englishman
+T58	NOM_FAC 12036 12044	the room
+T59	NOM_PER 12180 12207	a man of so small an income
+T60	PROP_PER 12307 12314	Nippers
+T61	PROP_PER 12401 12407	Turkey
+T62	PROP_PER 12580 12586	Turkey
+T64	NOM_PER 12992 13020	a man whom prosperity harmed
+T65	NOM_PER 272 288	the law-copyists
+T3	NOM_PER 587 657	Bartleby , who was a scrivener of the strangest I ever saw or heard of
+T7	PROP_PER 897 905	Bartleby
+T66	PROP_PER 1074 1082	Bartleby
+T69	NOM_LOC 1340 1360	general surroundings
+T11	NOM_PER 1289 1305	my _ employees _
+T70	NOM_PER 1502 1622	a man who , from his youth upwards , has been filled with a profound conviction that the easiest way of life is the best
+T71	NOM_PER 1859 1865	a jury
+T14	NOM_PER 1813 1908	those unambitious lawyers who never addresses a jury , or in any way draws down public applause
+T72	NOM_PER 1806 1908	one of those unambitious lawyers who never addresses a jury , or in any way draws down public applause
+T73	NOM_PER 1984 1992	rich men
+T75	PROP_PER 2564 2589	the late John Jacob Astor
+T19	PROP_GPE 2756 2777	the State of New York
+T18	PROP_FAC 3375 3386	Wall-street
+T20	NOM_FAC 3337 3348	My chambers
+T22	NOM_FAC 3451 3523	a spacious sky-light shaft , penetrating the building from top to bottom
+T23	NOM_FAC 3688 3699	my chambers
+T76	NOM_FAC 4110 4121	my chambers
+T77	PROP_PER 4280 4288	Bartleby
+T31	NOM_PER 4312 4320	copyists
+T29	NOM_PER 4344 4359	a promising lad
+T78	NOM_PER 4363 4376	an office-boy
+T79	PROP_PER 4387 4393	Turkey
+T80	PROP_PER 4405 4412	Nippers
+T81	PROP_PER 4423 4433	Ginger Nut
+T82	PROP_PER 4676 4682	Turkey
+T83	NOM_PER 4687 4733	a short , pursy Englishman of about my own age
+T84	NOM_PER 5088 5284	the proprietor of the face , which gaining its meridian with the sun , seemed to set with it , to rise , culminate , and decline the following day , with the like regularity and undiminished glory
+T85	NOM_PER 6670 6698	a most valuable person to me
+T86	NOM_PER 6757 6790	the quickest , steadiest creature
+T37	NOM_PER 7045 7106	the civilest , nay , the blandest and most reverential of men
+T87	NOM_FAC 7797 7809	his lodgings
+T40	NOM_PER 8502 8505	sir
+T45	NOM_PER 8557 8560	sir
+T46	PROP_PER 9014 9021	Nippers
+T88	NOM_PER 9052 9157	a whiskered , sallow , and , upon the whole , rather piratical-looking young man of about five and twenty
+T47	NOM_PER 10218 10274	a man using the steep roof of a Dutch house for his desk
+T89	NOM_PER 10724 10801	certain ambiguous-looking fellows in seedy coats , whom he called his clients
+T90	NOM_PER 10873 10890	a ward-politician
+T91	NOM_PER 10938 10950	the Justices
+T92	NOM_FAC 10998 11007	the Tombs
+T93	NOM_FAC 10938 10959	the Justices ' courts
+T94	NOM_PER 11057 11164	one individual who called upon him at my chambers , and who , with a grand air , he insisted was his client
+T95	NOM_PER 11185 11190	a dun
+T96	PROP_PER 11293 11300	Nippers
+T97	NOM_PER 11336 11359	a very useful man to me
+T98	PROP_PER 11617 11623	Turkey
+T99	NOM_FAC 11730 11743	eating-houses
+T55	PROP_PER 12331 12337	Turkey
+T56	PROP_PER 12939 12945	Turkey
+T54	NOM_PER 11308 11322	his compatriot
+T74	PROP_PER 11323 11329	Turkey
+T100	NOM_PER 8718 8721	sir
+T101	NOM_PER 8151 8154	sir
+T102	PRON_PER 0 1	I
+T103	PRON_PER 42 44	my
+T104	PRON_PER 94 96	me
+T105	PRON_PER 228 229	I
+T106	PRON_PER 265 266	I
+T107	PRON_PER 305 306	I
+T108	PRON_PER 331 335	them
+T109	PRON_PER 376 377	I
+T110	PRON_PER 505 506	I
+T111	PRON_PER 635 636	I
+T112	PRON_PER 688 689	I
+T113	PRON_PER 769 770	I
+T114	PRON_PER 1007 1010	his
+T115	PRON_PER 1044 1046	my
+T116	PRON_PER 1101 1102	I
+T117	PRON_PER 1111 1114	him
+T118	PRON_PER 1221 1223	he
+T119	PRON_PER 1242 1244	me
+T120	PRON_PER 1257 1258	I
+T121	PRON_PER 1280 1286	myself
+T122	PRON_PER 1289 1291	my
+T123	PRON_PER 1308 1310	my
+T124	PRON_PER 1322 1324	my
+T125	PRON_PER 1497 1498	I
+T126	PRON_PER 1519 1522	his
+T127	PRON_PER 1640 1641	I
+T128	PRON_PER 1764 1765	I
+T129	PRON_PER 1790 1792	my
+T130	PRON_PER 1801 1802	I
+T131	PRON_PER 2047 2049	me
+T132	PRON_PER 2061 2063	me
+T133	PRON_PER 2201 2203	my
+T134	PRON_PER 2239 2241	my
+T135	PRON_PER 2258 2259	I
+T136	PRON_PER 2322 2323	I
+T137	PRON_PER 2346 2348	my
+T138	PRON_PER 2406 2407	I
+T139	PRON_PER 2416 2417	I
+T140	PRON_PER 2515 2516	I
+T141	PRON_PER 2540 2541	I
+T142	PRON_PER 2676 2678	my
+T143	PRON_PER 2830 2832	me
+T144	PRON_PER 2905 2906	I
+T145	PRON_PER 2919 2921	my
+T146	PRON_PER 3010 3011	I
+T147	PRON_PER 3065 3066	I
+T148	PRON_PER 3210 3211	I
+T149	PRON_PER 3267 3268	I
+T150	PRON_PER 3337 3339	My
+T151	PRON_FAC 3400 3404	they
+T152	PRON_PER 3688 3690	my
+T153	PRON_PER 3770 3772	my
+T154	PRON_PER 4031 4033	my
+T155	PRON_PER 4110 4112	my
+T156	PRON_PER 4291 4292	I
+T157	PRON_PER 4324 4326	my
+T159	PRON_PER 4587 4589	my
+T160	PRON_PER 4635 4640	their
+T161	PRON_PER 4723 4725	my
+T162	PRON_PER 4810 4813	his
+T163	PRON_PER 4885 4888	his
+T164	PRON_PER 5071 5072	I
+T165	PRON_PER 5324 5325	I
+T166	PRON_PER 5354 5356	my
+T167	PRON_PER 5440 5443	his
+T168	PRON_PER 5463 5466	his
+T169	PRON_PER 5569 5570	I
+T170	PRON_PER 5582 5585	his
+T171	PRON_PER 5683 5685	he
+T172	PRON_PER 5772 5774	he
+T173	PRON_PER 5899 5902	him
+T174	PRON_PER 5905 5907	He
+T175	PRON_PER 5939 5942	his
+T176	PRON_PER 5952 5955	his
+T177	PRON_PER 5971 5974	his
+T178	PRON_PER 5986 5988	my
+T179	PRON_PER 6078 6080	he
+T180	PRON_PER 6158 6160	he
+T181	PRON_PER 6221 6224	his
+T182	PRON_PER 6313 6315	He
+T183	PRON_PER 6347 6350	his
+T184	PRON_PER 6367 6370	his
+T185	PRON_PER 6393 6396	his
+T188	PRON_PER 6518 6521	his
+T189	PRON_PER 6537 6540	his
+T190	PRON_PER 6626 6629	him
+T191	PRON_PER 6650 6652	he
+T192	PRON_PER 6696 6698	me
+T193	PRON_PER 6889 6890	I
+T194	PRON_PER 6915 6918	his
+T195	PRON_PER 6967 6968	I
+T196	PRON_PER 6987 6990	him
+T197	PRON_PER 6993 6994	I
+T198	PRON_PER 7145 7147	he
+T199	PRON_PER 7207 7210	his
+T200	PRON_PER 7255 7258	his
+T201	PRON_PER 7279 7280	I
+T203	PRON_PER 7364 7367	his
+T204	PRON_PER 7445 7447	my
+T205	PRON_PER 7496 7499	him
+T206	PRON_PER 7502 7503	I
+T207	PRON_PER 7514 7516	me
+T208	PRON_PER 7539 7541	he
+T209	PRON_PER 7587 7590	him
+T210	PRON_PER 7629 7631	he
+T211	PRON_PER 7678 7681	his
+T212	PRON_PER 7702 7704	he
+T213	PRON_PER 7722 7724	my
+T214	PRON_PER 7797 7800	his
+T215	PRON_PER 7819 7826	himself
+T216	PRON_PER 7851 7853	he
+T217	PRON_PER 7868 7871	his
+T218	PRON_PER 7894 7897	His
+T219	PRON_PER 7941 7943	he
+T220	PRON_PER 7965 7967	me
+T221	PRON_PER 8043 8046	his
+T222	PRON_PER 8192 8193	I
+T223	PRON_PER 8203 8209	myself
+T224	PRON_PER 8210 8214	your
+T225	PRON_PER 8247 8248	I
+T226	PRON_PER 8272 8274	my
+T227	PRON_PER 8306 8307	I
+T228	PRON_PER 8312 8318	myself
+T230	PRON_PER 8382 8384	he
+T231	PRON_PER 8529 8530	I
+T232	PRON_PER 8724 8726	we
+T233	PRON_PER 8771 8773	my
+T234	PRON_PER 8833 8834	I
+T235	PRON_PER 8847 8849	he
+T236	PRON_PER 8865 8866	I
+T237	PRON_PER 8875 8877	my
+T238	PRON_PER 8890 8893	him
+T239	PRON_PER 8969 8971	he
+T240	PRON_PER 8987 8989	my
+T241	PRON_PER 9038 9040	my
+T242	PRON_PER 9160 9161	I
+T243	PRON_PER 9176 9179	him
+T244	PRON_PER 9775 9777	he
+T245	PRON_PER 9875 9878	him
+T246	PRON_PER 9881 9883	He
+T247	PRON_PER 10117 10120	his
+T248	PRON_PER 10128 10130	he
+T249	PRON_PER 10186 10189	his
+T250	PRON_PER 10266 10269	his
+T251	PRON_PER 10285 10287	he
+T252	PRON_PER 10332 10335	his
+T253	PRON_PER 10350 10352	he
+T254	PRON_PER 10374 10377	his
+T255	PRON_PER 10456 10459	his
+T256	PRON_PER 10530 10532	he
+T257	PRON_PER 10550 10552	he
+T258	PRON_PER 10654 10657	his
+T259	PRON_PER 10691 10693	he
+T260	PRON_PER 10780 10782	he
+T261	PRON_PER 10790 10793	his
+T262	PRON_PER 10811 10812	I
+T263	PRON_PER 10841 10843	he
+T264	PRON_PER 10897 10899	he
+T265	PRON_PER 11010 11011	I
+T266	PRON_PER 11088 11091	him
+T267	PRON_PER 11095 11097	my
+T268	PRON_PER 11138 11140	he
+T269	PRON_PER 11154 11157	his
+T270	PRON_PER 11244 11247	his
+T271	PRON_PER 11278 11280	he
+T272	PRON_PER 11288 11290	me
+T273	PRON_PER 11308 11311	his
+T274	PRON_PER 11357 11359	me
+T275	PRON_PER 11401 11403	he
+T276	PRON_PER 11484 11486	he
+T277	PRON_PER 11579 11581	my
+T278	PRON_PER 11626 11627	I
+T279	PRON_PER 11649 11652	him
+T280	PRON_PER 11678 11680	me
+T281	PRON_PER 11683 11686	His
+T282	PRON_PER 11746 11748	He
+T283	PRON_PER 11754 11757	his
+T284	PRON_PER 11802 11805	His
+T285	PRON_PER 11829 11832	his
+T286	PRON_PER 11906 11908	me
+T287	PRON_PER 11923 11926	his
+T288	PRON_PER 11999 12002	him
+T289	PRON_PER 12025 12027	he
+T290	PRON_PER 12051 12054	his
+T291	PRON_PER 12092 12095	his
+T292	PRON_PER 12104 12105	I
+T293	PRON_PER 12120 12123	him
+T294	PRON_PER 12163 12164	I
+T295	PRON_PER 12389 12390	I
+T296	PRON_PER 12450 12452	my
+T297	PRON_PER 12570 12571	I
+T298	PRON_PER 12626 12629	his
+T299	PRON_PER 12685 12686	I
+T300	PRON_PER 12717 12724	himself
+T301	PRON_PER 12793 12796	him
+T303	PRON_PER 12951 12954	his
+T304	PRON_PER 12970 12973	him
+T305	PRON_PER 12985 12987	He
+T306	NOM_PER 150 197	an interesting and somewhat singular set of men
+T307	NOM_PER 318 335	very many of them
+T308	NOM_ORG 1308 1319	my business
+T309	NOM_FAC 1322 1333	my chambers
+T310	PROP_PER 2092 2117	The late John Jacob Astor
+T311	NOM_FAC 7722 7733	my chambers
+T312	PROP_PER 8442 8448	Turkey
+T313	PRON_PER 8463 8465	I.
+T314	NOM_FAC 11095 11106	my chambers
+T315	NOM_FAC 11579 11590	my chambers
+T418	narrator-0 0 1	I
+T419	narrator-0 42 44	my
+T420	narrator-0 94 96	me
+T318	men-1 194 197	men
+T622	men-2 150 197	an interesting and somewhat singular set of men
+T421	narrator-0 228 229	I
+T422	narrator-0 265 266	I
+T381	the_law-copyists-3 272 288	the law-copyists
+T423	narrator-0 305 306	I
+T424	men-2 331 335	them
+T623	very_many_of_them-4 318 335	very many of them
+T425	narrator-0 376 377	I
+T320	good-natured_gentlemen-5 429 451	good-natured gentlemen
+T321	sentimental_souls-6 470 487	sentimental souls
+T426	narrator-0 505 506	I
+T322	all_other_scriveners-7 532 552	all other scriveners
+T319	Bartleby-8 587 657	Bartleby , who was a scrivener of the strangest I ever saw or heard of
+T427	narrator-0 635 636	I
+T324	other_law-copyists-9 669 687	other law-copyists
+T428	narrator-0 688 689	I
+T325	Bartleby-8 725 733	Bartleby
+T429	narrator-0 769 770	I
+T326	Bartleby-8 844 852	this man
+T323	Bartleby-8 897 905	Bartleby
+T430	Bartleby-8 1007 1010	his
+T431	narrator-0 1044 1046	my
+T382	Bartleby-8 1074 1082	Bartleby
+T432	narrator-0 1101 1102	I
+T433	Bartleby-8 1111 1114	him
+T328	Bartleby-8 1202 1215	the scrivener
+T434	Bartleby-8 1221 1223	he
+T435	narrator-0 1242 1244	me
+T436	narrator-0 1257 1258	I
+T437	narrator-0 1280 1286	myself
+T327	my___employees__-10 1289 1305	my _ employees _
+T438	narrator-0 1289 1291	my
+T439	narrator-0 1308 1310	my
+T624	my_business-11 1308 1319	my business
+T440	narrator-0 1322 1324	my
+T625	my_chambers-12 1322 1333	my chambers
+T385	general_surroundings-13 1340 1360	general surroundings
+T329	Bartleby-8 1442 1483	the chief character about to be presented
+T441	narrator-0 1497 1498	I
+T442	narrator-0 1519 1522	his
+T443	narrator-0 1640 1641	I
+T444	narrator-0 1764 1765	I
+T445	narrator-0 1790 1792	my
+T446	narrator-0 1801 1802	I
+T330	those_unambitious_lawyers_who_never_addresses_a_jury___or_in_any_way_draws_down_public_applause-14 1813 1908	those unambitious lawyers who never addresses a jury , or in any way draws down public applause
+T387	a_jury-15 1859 1865	a jury
+T389	rich_men-16 1984 1992	rich men
+T447	narrator-0 2047 2049	me
+T448	narrator-0 2061 2063	me
+T626	The_late_John_Jacob_Astor-17 2092 2117	The late John Jacob Astor
+T449	narrator-0 2201 2203	my
+T450	narrator-0 2239 2241	my
+T451	narrator-0 2258 2259	I
+T452	narrator-0 2322 2323	I
+T453	narrator-0 2346 2348	my
+T333	The_late_John_Jacob_Astor-17 2363 2388	the late John Jacob Astor
+T454	narrator-0 2406 2407	I
+T455	narrator-0 2416 2417	I
+T456	narrator-0 2515 2516	I
+T457	narrator-0 2540 2541	I
+T391	The_late_John_Jacob_Astor-17 2564 2589	the late John Jacob Astor
+T458	narrator-0 2676 2678	my
+T335	the_State_of_New_York-18 2756 2777	the State of New York
+T459	narrator-0 2830 2832	me
+T460	narrator-0 2905 2906	I
+T461	narrator-0 2919 2921	my
+T462	narrator-0 3010 3011	I
+T463	narrator-0 3065 3066	I
+T464	narrator-0 3210 3211	I
+T465	narrator-0 3267 3268	I
+T336	my_chambers-12 3337 3348	My chambers
+T466	narrator-0 3337 3339	My
+T340	stairs-19 3357 3363	stairs
+T334	Wall-street-20 3375 3386	Wall-street
+T467	my_chambers-12 3400 3404	they
+T338	a_spacious_sky-light_shaft___penetrating_the_building_from_top_to_bottom-21 3451 3523	a spacious sky-light shaft , penetrating the building from top to bottom
+T341	the_building-22 3492 3504	the building
+T342	landscape_painters-23 3610 3628	landscape painters
+T339	my_chambers-12 3688 3699	my chambers
+T468	narrator-0 3688 3690	my
+T469	narrator-0 3770 3772	my
+T343	all_near-sighted_spectators-24 3965 3992	all near-sighted spectators
+T470	narrator-0 4031 4033	my
+T344	the_surrounding_buildings-25 4078 4103	the surrounding buildings
+T392	my_chambers-12 4110 4121	my chambers
+T471	narrator-0 4110 4112	my
+T393	Bartleby-8 4280 4288	Bartleby
+T472	narrator-0 4291 4292	I
+T346	two_persons-26 4297 4308	two persons
+T473	narrator-0 4324 4326	my
+T345	a_promising_lad-27 4344 4359	a promising lad
+T395	Turkey-28 4387 4393	Turkey
+T396	Nippers-29 4405 4412	Nippers
+T397	a_promising_lad-27 4423 4433	Ginger Nut
+T349	my_three_clerks-30 4587 4602	my three clerks
+T475	narrator-0 4587 4589	my
+T348	their_respective_persons-31 4635 4659	their respective persons
+T476	my_three_clerks-30 4635 4640	their
+T350	characters-32 4663 4673	characters
+T398	Turkey-28 4676 4682	Turkey
+T477	narrator-0 4723 4725	my
+T478	Turkey-28 4810 4813	his
+T479	Turkey-28 4885 4888	his
+T480	narrator-0 5071 5072	I
+T400	Turkey-28 5088 5284	the proprietor of the face , which gaining its meridian with the sun , seemed to set with it , to rise , culminate , and decline the following day , with the like regularity and undiminished glory
+T481	narrator-0 5324 5325	I
+T482	narrator-0 5354 5356	my
+T351	Turkey-28 5423 5429	Turkey
+T483	Turkey-28 5440 5443	his
+T484	Turkey-28 5463 5466	his
+T485	narrator-0 5569 5570	I
+T486	Turkey-28 5582 5585	his
+T487	Turkey-28 5683 5685	he
+T488	Turkey-28 5772 5774	he
+T489	Turkey-28 5899 5902	him
+T490	Turkey-28 5905 5907	He
+T491	Turkey-28 5939 5942	his
+T492	Turkey-28 5952 5955	his
+T493	Turkey-28 5971 5974	his
+T494	narrator-0 5986 5988	my
+T495	Turkey-28 6078 6080	he
+T496	Turkey-28 6158 6160	he
+T497	Turkey-28 6221 6224	his
+T498	Turkey-28 6313 6315	He
+T499	Turkey-28 6347 6350	his
+T500	Turkey-28 6367 6370	his
+T501	Turkey-28 6393 6396	his
+T504	Turkey-28 6518 6521	his
+T505	Turkey-28 6537 6540	his
+T352	an_elderly_man_like_him-33 6606 6629	an elderly man like him
+T506	Turkey-28 6626 6629	him
+T507	Turkey-28 6650 6652	he
+T508	narrator-0 6696 6698	me
+T509	narrator-0 6889 6890	I
+T510	Turkey-28 6915 6918	his
+T511	narrator-0 6967 6968	I
+T512	Turkey-28 6987 6990	him
+T513	narrator-0 6993 6994	I
+T514	Turkey-28 7145 7147	he
+T515	Turkey-28 7207 7210	his
+T516	Turkey-28 7255 7258	his
+T517	narrator-0 7279 7280	I
+T519	Turkey-28 7364 7367	his
+T520	narrator-0 7445 7447	my
+T521	Turkey-28 7496 7499	him
+T522	narrator-0 7502 7503	I
+T523	narrator-0 7514 7516	me
+T524	Turkey-28 7539 7541	he
+T525	Turkey-28 7587 7590	him
+T526	Turkey-28 7629 7631	he
+T527	Turkey-28 7678 7681	his
+T528	Turkey-28 7702 7704	he
+T529	narrator-0 7722 7724	my
+T627	my_chambers-12 7722 7733	my chambers
+T355	home-34 7789 7793	home
+T403	his_lodgings-35 7797 7809	his lodgings
+T530	Turkey-28 7797 7800	his
+T531	Turkey-28 7819 7826	himself
+T532	Turkey-28 7851 7853	he
+T533	Turkey-28 7868 7871	his
+T534	Turkey-28 7894 7897	His
+T535	Turkey-28 7941 7943	he
+T536	narrator-0 7965 7967	me
+T357	the_room-36 8023 8031	the room
+T537	Turkey-28 8043 8046	his
+T417	narrator-0 8151 8154	sir
+T358	Turkey-28 8164 8170	Turkey
+T538	Turkey-28 8192 8193	I
+T539	Turkey-28 8203 8209	myself
+T540	narrator-0 8210 8214	your
+T541	Turkey-28 8247 8248	I
+T542	Turkey-28 8272 8274	my
+T543	Turkey-28 8306 8307	I
+T544	Turkey-28 8312 8318	myself
+T360	the_foe-37 8356 8363	the foe
+T546	Turkey-28 8382 8384	he
+T628	Turkey-28 8442 8448	Turkey
+T629	narrator-0 8463 8465	I.
+T356	narrator-0 8502 8505	sir
+T547	Turkey-28 8529 8530	I
+T361	narrator-0 8557 8560	sir
+T416	narrator-0 8718 8721	sir
+T548	Turkey_narrator-38 8724 8726	we
+T549	narrator-0 8771 8773	my
+T550	narrator-0 8833 8834	I
+T551	Turkey-28 8847 8849	he
+T552	narrator-0 8865 8866	I
+T553	narrator-0 8875 8877	my
+T554	Turkey-28 8890 8893	him
+T555	Turkey-28 8969 8971	he
+T556	narrator-0 8987 8989	my
+T362	Nippers-29 9014 9021	Nippers
+T557	narrator-0 9038 9040	my
+T558	narrator-0 9160 9161	I
+T559	Nippers-29 9176 9179	him
+T364	a_mere_copyist-39 9306 9320	a mere copyist
+T560	Nippers-29 9775 9777	he
+T365	Nippers-29 9832 9839	Nippers
+T561	Nippers-29 9875 9878	him
+T562	Nippers-29 9881 9883	He
+T563	Nippers-29 10117 10120	his
+T564	Nippers-29 10128 10130	he
+T565	Nippers-29 10186 10189	his
+T363	a_man_using_the_steep_roof_of_a_Dutch_house_for_his_desk-40 10218 10274	a man using the steep roof of a Dutch house for his desk
+T366	a_Dutch_house-41 10248 10261	a Dutch house
+T566	a_man_using_the_steep_roof_of_a_Dutch_house_for_his_desk-40 10266 10269	his
+T567	Nippers-29 10285 10287	he
+T568	Nippers-29 10332 10335	his
+T569	Nippers-29 10350 10352	he
+T570	Nippers-29 10374 10377	his
+T571	Nippers-29 10456 10459	his
+T367	Nippers-29 10508 10515	Nippers
+T572	Nippers-29 10530 10532	he
+T573	Nippers-29 10550 10552	he
+T574	Nippers-29 10654 10657	his
+T575	Nippers-29 10691 10693	he
+T405	certain_ambiguous-looking_fellows_in_seedy_coats___whom_he_called_his_clients-42 10724 10801	certain ambiguous-looking fellows in seedy coats , whom he called his clients
+T576	Nippers-29 10780 10782	he
+T368	certain_ambiguous-looking_fellows_in_seedy_coats___whom_he_called_his_clients-42 10790 10801	his clients
+T577	Nippers-29 10790 10793	his
+T578	narrator-0 10811 10812	I
+T579	Nippers-29 10841 10843	he
+T406	a_ward-politician-43 10873 10890	a ward-politician
+T580	Nippers-29 10897 10899	he
+T407	the_Justices-44 10938 10950	the Justices
+T409	the_Justices___courts-45 10938 10959	the Justices ' courts
+T408	the_Tombs-46 10998 11007	the Tombs
+T581	narrator-0 11010 11011	I
+T410	one_individual_who_called_upon_him_at_my_chambers___and_who___with_a_grand_air___he_insisted_was_his_client-47 11057 11164	one individual who called upon him at my chambers , and who , with a grand air , he insisted was his client
+T582	Nippers-29 11088 11091	him
+T583	narrator-0 11095 11097	my
+T630	my_chambers-12 11095 11106	my chambers
+T584	Nippers-29 11138 11140	he
+T369	one_individual_who_called_upon_him_at_my_chambers___and_who___with_a_grand_air___he_insisted_was_his_client-47 11154 11164	his client
+T585	Nippers-29 11154 11157	his
+T411	one_individual_who_called_upon_him_at_my_chambers___and_who___with_a_grand_air___he_insisted_was_his_client-47 11185 11190	a dun
+T586	Nippers-29 11244 11247	his
+T587	Nippers-29 11278 11280	he
+T588	narrator-0 11288 11290	me
+T412	Nippers-29 11293 11300	Nippers
+T370	Turkey-28 11308 11322	his compatriot
+T589	Nippers-29 11308 11311	his
+T390	Turkey-28 11323 11329	Turkey
+T590	narrator-0 11357 11359	me
+T591	Nippers-29 11401 11403	he
+T592	Nippers-29 11484 11486	he
+T593	narrator-0 11579 11581	my
+T631	my_chambers-12 11579 11590	my chambers
+T414	Turkey-28 11617 11623	Turkey
+T594	narrator-0 11626 11627	I
+T595	Turkey-28 11649 11652	him
+T596	narrator-0 11678 11680	me
+T597	Turkey-28 11683 11686	His
+T415	eating-houses-48 11730 11743	eating-houses
+T598	Turkey-28 11746 11748	He
+T599	Turkey-28 11754 11757	his
+T600	Turkey-28 11802 11805	His
+T601	Turkey-28 11829 11832	his
+T602	narrator-0 11906 11908	me
+T603	Turkey-28 11923 11926	his
+T373	a_dependent_Englishman-49 11963 11985	a dependent Englishman
+T604	Turkey-28 11999 12002	him
+T605	Turkey-28 12025 12027	he
+T374	the_room-50 12036 12044	the room
+T606	Turkey-28 12051 12054	his
+T607	Turkey-28 12092 12095	his
+T608	narrator-0 12104 12105	I
+T609	Turkey-28 12120 12123	him
+T610	narrator-0 12163 12164	I
+T375	a_man_of_so_small_an_income-51 12180 12207	a man of so small an income
+T376	Nippers-29 12307 12314	Nippers
+T371	Turkey-28 12331 12337	Turkey
+T611	narrator-0 12389 12390	I
+T377	Turkey-28 12401 12407	Turkey
+T612	narrator-0 12450 12452	my
+T613	narrator-0 12570 12571	I
+T378	Turkey-28 12580 12586	Turkey
+T614	Turkey-28 12626 12629	his
+T615	narrator-0 12685 12686	I
+T616	Turkey-28 12717 12724	himself
+T617	Turkey-28 12793 12796	him
+T372	Turkey-28 12939 12945	Turkey
+T619	Turkey-28 12951 12954	his
+T620	Turkey-28 12970 12973	him
+T621	Turkey-28 12985 12987	He
+R1	cop Arg1:T0 Arg2:T102
+R2	cop Arg1:T1 Arg2:T65
+R3	cop Arg1:T70 Arg2:T125
+R4	cop Arg1:T72 Arg2:T130
+R5	cop Arg1:T15 Arg2:T132
+R6	appos Arg1:T16 Arg2:T310
+R7	cop Arg1:T31 Arg2:T30
+R8	cop Arg1:T78 Arg2:T29
+R9	cop Arg1:T83 Arg2:T82
+R10	cop Arg1:T85 Arg2:T191
+R11	cop Arg1:T86 Arg2:T191
+R12	cop Arg1:T37 Arg2:T198
+R13	cop Arg1:T38 Arg2:T206
+R14	cop Arg1:T43 Arg2:T223
+R15	cop Arg1:T88 Arg2:T46
+R16	cop Arg1:T97 Arg2:T96
+R17	cop Arg1:T64 Arg2:T305

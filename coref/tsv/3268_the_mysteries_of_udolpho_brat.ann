@@ -1,0 +1,446 @@
+MENTION	T1	1	12	1	15	the province of Gascony	GPE	NOM
+MENTION	T3	1	27	1	29	Monsieur St. Aubert	PER	PROP
+MENTION	T6	2	11	2	11	Gascony	GPE	PROP
+MENTION	T9	4	10	4	18	the pastures and woods that hung upon their skirts	LOC	NOM
+MENTION	T11	5	14	5	14	Languedoc	GPE	PROP
+MENTION	T12	5	12	5	12	Guienne	GPE	PROP
+MENTION	T13	5	27	5	27	Gascony	GPE	PROP
+MENTION	T14	6	8	6	9	his wife	PER	NOM
+MENTION	T15	6	11	6	11	daughter	PER	NOM
+MENTION	T17	11	4	11	5	his father	PER	NOM
+MENTION	T18	11	8	11	11	a very amiable woman	PER	NOM
+MENTION	T22	12	19	12	20	his son	PER	NOM
+MENTION	T24	12	52	12	53	his wife	PER	NOM
+MENTION	T25	12	49	12	53	the brother of his wife	PER	NOM
+MENTION	T28	13	1	13	2	this spot	FAC	NOM
+MENTION	T29	14	25	14	27	the grey-headed peasant	PER	NOM
+MENTION	T30	17	17	17	18	a stranger	PER	NOM
+MENTION	T35	19	38	19	39	its inhabitants	PER	NOM
+MENTION	T37	19	3	19	5	Madame St. Aubert	PER	PROP
+MENTION	T38	20	3	20	8	the west side of the chateau	FAC	NOM
+MENTION	T40	22	43	22	44	the naturalist	PER	NOM
+MENTION	T41	23	42	23	43	the shepherd	PER	NOM
+MENTION	T45	23	9	23	11	Madame St. Aubert	PER	PROP
+MENTION	T49	24	15	24	16	the enthusiast	PER	NOM
+MENTION	T51	25	20	25	20	Emily	PER	PROP
+MENTION	T52	25	1	25	6	the eastern side of the green-house	FAC	NOM
+MENTION	T54	26	30	26	30	Monsieur	PER	PROP
+MENTION	T58	27	44	27	51	the distant landscape , where the Garonne wandered	LOC	NOM
+MENTION	T59	27	19	27	25	the little lawn that surrounded the house	FAC	NOM
+MENTION	T60	28	0	28	5	The peasants of this gay climate	PER	NOM
+MENTION	T62	29	22	29	23	the girls	PER	NOM
+MENTION	T63	37	32	37	33	his wife	PER	NOM
+MENTION	T64	37	35	37	35	children	PER	NOM
+MENTION	T69	38	21	38	22	his children	PER	NOM
+MENTION	T70	38	13	38	15	Madame St. Aubert	PER	PROP
+MENTION	T71	41	18	41	24	a man of moral perceptions like his	PER	NOM
+MENTION	T73	0	4	0	4	home	FAC	NOM
+MENTION	T75	0	25	0	27	polish 'd friends	PER	NOM
+MENTION	T76	0	29	0	30	dear relations	PER	NOM
+MENTION	T77	1	2	1	2	Thomson	PER	PROP
+MENTION	T78	1	4	1	9	the pleasant banks of the Garonne	LOC	NOM
+MENTION	T4	1	24	1	29	the chateau of Monsieur St. Aubert	FAC	NOM
+MENTION	T2	2	9	2	9	Guienne	GPE	PROP
+MENTION	T5	2	5	2	11	the pastoral landscapes of Guienne and Gascony	LOC	NOM
+MENTION	T7	2	15	2	15	river	LOC	NOM
+MENTION	T79	2	19	2	22	luxuriant woods and vine	LOC	NOM
+MENTION	T80	2	25	2	27	plantations of olives	LOC	NOM
+MENTION	T8	3	9	3	11	the majestic Pyrenees	LOC	NOM
+MENTION	T81	4	0	4	2	These tremendous precipices	LOC	NOM
+MENTION	T82	4	28	4	29	simple cottages	FAC	NOM
+MENTION	T83	4	37	4	38	the cliffs	LOC	NOM
+MENTION	T86	5	9	5	14	the plains of Guienne and Languedoc	LOC	NOM
+MENTION	T88	5	31	5	34	the waters of Biscay	LOC	NOM
+MENTION	T89	5	34	5	34	Biscay	GPE	PROP
+MENTION	T90	6	0	6	2	M. St. Aubert	PER	PROP
+MENTION	T91	6	14	6	18	the margin of the Garonne	LOC	NOM
+MENTION	T92	7	24	7	25	the world	LOC	NOM
+MENTION	T93	7	35	7	36	his heart	PER	NOM
+MENTION	T94	7	32	7	32	mankind	PER	NOM
+MENTION	T95	10	1	10	2	St. Aubert	PER	PROP
+MENTION	T20	12	58	12	62	a small estate in Gascony	FAC	NOM
+MENTION	T23	12	62	12	62	Gascony	GPE	PROP
+MENTION	T19	15	0	15	2	The green pastures	LOC	NOM
+MENTION	T27	15	20	15	21	the woods	LOC	NOM
+MENTION	T96	15	49	15	50	the mountains	LOC	NOM
+MENTION	T97	15	52	15	53	the river	LOC	NOM
+MENTION	T98	15	63	15	65	the distant plains	LOC	NOM
+MENTION	T99	15	80	15	81	St. Aubert	PER	PROP
+MENTION	T100	17	0	17	1	The building	FAC	NOM
+MENTION	T101	17	10	17	12	a summer cottage	FAC	NOM
+MENTION	T102	18	0	18	1	St. Aubert	PER	PROP
+MENTION	T103	18	35	18	37	the new building	FAC	NOM
+MENTION	T104	18	44	18	46	the old one	FAC	NOM
+MENTION	T33	18	52	18	56	a simple and elegant residence	FAC	NOM
+MENTION	T34	19	31	19	31	apartments	FAC	NOM
+MENTION	T36	20	0	20	1	The library	FAC	NOM
+MENTION	T105	21	0	21	1	This room	FAC	NOM
+MENTION	T106	21	4	21	5	a grove	LOC	NOM
+MENTION	T107	21	10	21	15	the brow of a gentle declivity	LOC	NOM
+MENTION	T108	21	20	21	21	the river	LOC	NOM
+MENTION	T39	21	48	21	56	the gay and luxuriant landscape stretching to the west	LOC	NOM
+MENTION	T109	21	64	21	69	the bold precipices of the Pyrenees	LOC	NOM
+MENTION	T110	22	1	22	2	the library	FAC	NOM
+MENTION	T111	22	4	22	5	a green-house	FAC	NOM
+MENTION	T112	22	20	22	21	St. Aubert	PER	PROP
+MENTION	T113	22	30	22	32	the neighbouring mountains	LOC	NOM
+MENTION	T44	24	5	24	16	cliffs that seemed scarcely accessible but to the steps of the enthusiast	LOC	NOM
+MENTION	T46	24	40	24	44	one of those green recesses	LOC	NOM
+MENTION	T47	24	50	24	54	the bosom of these mountains	LOC	NOM
+MENTION	T48	24	81	24	89	the cool stream , that crept along the turf	LOC	NOM
+MENTION	T50	25	10	25	13	the plains of Languedoc	LOC	NOM
+MENTION	T114	25	13	25	13	Languedoc	GPE	PROP
+MENTION	T115	25	16	25	17	a room	FAC	NOM
+MENTION	T53	26	32	26	34	Madame St. Aubert	PER	PROP
+MENTION	T55	27	3	27	4	this room	FAC	NOM
+MENTION	T56	27	49	27	50	the Garonne	LOC	PROP
+MENTION	T57	28	25	28	29	the margin of the river	LOC	NOM
+MENTION	T61	30	0	30	4	The front of the chateau	FAC	NOM
+MENTION	T117	30	28	30	30	a rustic hall	FAC	NOM
+MENTION	T118	30	33	30	36	two excellent sitting rooms	FAC	NOM
+MENTION	T119	31	0	31	2	The first floor	FAC	NOM
+MENTION	T120	31	5	31	6	the cottage	FAC	NOM
+MENTION	T122	31	16	31	16	bed-chambers	FAC	NOM
+MENTION	T123	31	19	31	25	one apartment that opened to a balcony	FAC	NOM
+MENTION	T124	31	33	31	34	a breakfast-room	FAC	NOM
+MENTION	T125	32	1	32	3	the surrounding ground	FAC	NOM
+MENTION	T126	32	5	32	6	St. Aubert	PER	PROP
+MENTION	T127	33	7	33	8	the building	FAC	NOM
+MENTION	T128	33	15	33	16	St. Aubert	PER	PROP
+MENTION	T129	35	1	35	3	a lofty terrace	FAC	NOM
+MENTION	T130	35	7	35	12	the swelling bank of the river	LOC	NOM
+MENTION	T131	37	16	37	17	the river	LOC	NOM
+MENTION	T132	37	19	37	20	St. Aubert	PER	PROP
+MENTION	T65	40	0	40	1	His heart	PER	NOM
+MENTION	T67	0	6	0	33	the resort Of love , of joy , of peace and plenty , where , Supporting and supported , polish 'd friends And dear relations mingle into bliss	FAC	NOM
+MENTION	T68	1	8	1	9	the Garonne	LOC	PROP
+MENTION	T72	30	18	30	19	the mountains	LOC	NOM
+MENTION	T42	23	16	23	17	his daughter	PER	NOM
+MENTION	T26	12	46	12	47	Monsieur Quesnel	PER	NOM
+MENTION	T10	9	9	9	11	an illustrious family	PER	NOM
+MENTION	T16	9	5	9	11	the younger branch of an illustrious family	PER	NOM
+MENTION	T31	9	2	9	11	a descendant from the younger branch of an illustrious family	PER	NOM
+MENTION	T32	17	40	17	43	a comfortable family residence	FAC	NOM
+MENTION	T43	16	6	16	7	the world	LOC	NOM
+MENTION	T66	39	34	39	35	the world	PER	NOM
+MENTION	T84	26	0	26	0	Here	FAC	NOM
+MENTION	T85	35	15	35	36	a plantation of orange , lemon , and palm-trees , whose fruit , in the coolness of evening , breathed delicious fragrance	FAC	NOM
+MENTION	T87	37	0	37	0	Here	FAC	NOM
+MENTION	T146	38	0	38	0	Here	FAC	NOM
+MENTION	T148	3	64	3	64	their	LOC	PRON
+MENTION	T149	4	17	4	17	their	LOC	PRON
+MENTION	T150	6	8	6	8	his	PER	PRON
+MENTION	T151	7	0	7	0	He	PER	PRON
+MENTION	T152	7	35	7	35	his	PER	PRON
+MENTION	T153	7	43	7	43	his	PER	PRON
+MENTION	T154	8	9	8	9	his	PER	PRON
+MENTION	T155	8	14	8	14	his	PER	PRON
+MENTION	T156	8	19	8	19	he	PER	PRON
+MENTION	T157	9	0	9	0	He	PER	PRON
+MENTION	T158	9	22	9	22	his	PER	PRON
+MENTION	T159	10	26	10	26	he	PER	PRON
+MENTION	T160	11	4	11	4	his	PER	PRON
+MENTION	T161	11	6	11	6	he	PER	PRON
+MENTION	T162	11	13	11	13	his	PER	PRON
+MENTION	T163	11	20	11	20	his	PER	PRON
+MENTION	T164	12	15	12	15	his	PER	PRON
+MENTION	T165	12	19	12	19	his	PER	PRON
+MENTION	T166	12	39	12	39	his	PER	PRON
+MENTION	T167	12	42	12	42	he	PER	PRON
+MENTION	T168	12	52	12	52	his	PER	PRON
+MENTION	T169	12	73	12	73	his	PER	PRON
+MENTION	T170	13	3	13	3	he	PER	PRON
+MENTION	T171	13	8	13	8	his	PER	PRON
+MENTION	T172	14	0	14	0	He	PER	PRON
+MENTION	T173	14	18	14	18	his	PER	PRON
+MENTION	T174	15	5	15	5	he	PER	PRON
+MENTION	T175	15	27	15	27	he	PER	PRON
+MENTION	T176	15	42	15	42	his	PER	PRON
+MENTION	T177	15	58	15	58	he	PER	PRON
+MENTION	T178	15	71	15	71	his	PER	PRON
+MENTION	T179	16	2	16	2	he	PER	PRON
+MENTION	T180	16	4	16	4	himself	PER	PRON
+MENTION	T181	18	15	18	15	he	PER	PRON
+MENTION	T182	18	18	18	18	his	PER	PRON
+MENTION	T183	22	46	22	46	he	PER	PRON
+MENTION	T184	22	55	22	55	his	PER	PRON
+MENTION	T185	23	0	23	0	He	PER	PRON
+MENTION	T186	23	16	23	16	his	PER	PRON
+MENTION	T187	23	48	23	48	they	PER	PRON
+MENTION	T188	23	70	23	70	them	PER	PRON
+MENTION	T190	24	37	24	37	they	PER	PRON
+MENTION	T191	24	69	24	69	they	PER	PRON
+MENTION	T192	24	71	24	71	their	PER	PRON
+MENTION	T193	25	27	25	27	her	PER	PRON
+MENTION	T194	25	30	25	30	her	PER	PRON
+MENTION	T195	25	33	25	33	her	PER	PRON
+MENTION	T196	26	1	26	1	she	PER	PRON
+MENTION	T197	26	4	26	4	herself	PER	PRON
+MENTION	T199	26	16	26	16	her	PER	PRON
+MENTION	T200	26	37	26	37	her	PER	PRON
+MENTION	T202	29	0	29	0	Their	PER	PRON
+MENTION	T203	29	11	29	11	their	PER	PRON
+MENTION	T204	29	25	29	25	their	PER	PRON
+MENTION	T205	32	17	32	17	his	PER	PRON
+MENTION	T206	32	21	32	21	he	PER	PRON
+MENTION	T207	32	25	32	25	his	PER	PRON
+MENTION	T208	32	30	32	30	he	PER	PRON
+MENTION	T209	33	21	33	21	he	PER	PRON
+MENTION	T210	33	23	33	23	he	PER	PRON
+MENTION	T212	34	5	34	5	he	PER	PRON
+MENTION	T213	37	32	37	32	his	PER	PRON
+MENTION	T214	38	4	38	4	he	PER	PRON
+MENTION	T215	38	21	38	21	his	PER	PRON
+MENTION	T216	38	25	38	25	himself	PER	PRON
+MENTION	T217	39	0	39	0	He	PER	PRON
+MENTION	T218	39	11	39	11	his	PER	PRON
+MENTION	T219	40	0	40	0	His	PER	PRON
+MENTION	T220	41	9	41	9	his	PER	PRON
+MENTION	T221	41	24	41	24	his	PER	PRON
+MENTION	T222	41	29	41	29	his	PER	PRON
+MENTION	T223	42	8	42	8	him	PER	PRON
+MENTION	T224	42	10	42	10	his	PER	PRON
+MENTION	T225	43	0	43	0	He	PER	PRON
+MENTION	T227	44	11	44	11	he	PER	PRON
+MENTION	T228	44	16	44	16	his	PER	PRON
+MENTION	T229	6	17	6	18	the Garonne	LOC	PROP
+MENTION	T230	12	0	12	4	The late Monsieur St. Aubert	PER	PROP
+MENTION	T231	20	7	20	8	the chateau	FAC	NOM
+MENTION	T232	24	53	24	54	these mountains	LOC	NOM
+MENTION	T233	25	5	25	6	the green-house	FAC	NOM
+MENTION	T234	25	22	25	22	hers	FAC	PRON
+MENTION	T235	35	11	35	12	the river	LOC	NOM
+COREF	T73	home-100000
+COREF	T75	polish_'d_friends-100001
+COREF	T76	dear_relations-100002
+COREF	T77	Thomson-100003
+COREF	T78	the_pleasant_banks_of_the_Garonne-0
+COREF	T68	the_Garonne-1
+COREF	T1	Gascony-2
+COREF	T4	the_chateau_of_Monsieur_St__Aubert-3
+COREF	T3	Monsieur_St__Aubert-4
+COREF	T5	the_pastoral_landscapes_of_Guienne_and_Gascony-5
+COREF	T2	Guienne-6
+COREF	T6	Gascony-2
+COREF	T79	luxuriant_woods_and_vine-8
+COREF	T80	plantations_of_olives-9
+COREF	T8	the_majestic_Pyrenees-10
+COREF	T81	the_majestic_Pyrenees-10
+COREF	T9	the_pastures_and_woods_that_hung_upon_their_skirts-11
+COREF	T148	the_majestic_Pyrenees-10
+COREF	T149	the_majestic_Pyrenees-10
+COREF	T82	simple_cottages-12
+COREF	T83	the_cliffs-13
+COREF	T86	the_plains_of_Guienne_and_Languedoc-14
+COREF	T12	Guienne-6
+COREF	T11	Languedoc-15
+COREF	T7	the_Garonne-1
+COREF	T13	Gascony-2
+COREF	T88	the_waters_of_Biscay-16
+COREF	T89	Biscay-17
+COREF	T90	Monsieur_St__Aubert-4
+COREF	T14	Madame_St__Aubert-18
+COREF	T150	Monsieur_St__Aubert-4
+COREF	T15	Emily_St__Aubert-19
+COREF	T91	the_margin_of_the_Garonne-20
+COREF	T229	the_Garonne-1
+COREF	T151	Monsieur_St__Aubert-4
+COREF	T92	the_world-21
+COREF	T94	mankind-22
+COREF	T152	Monsieur_St__Aubert-4
+COREF	T93	Monsieur_St__Aubert-4
+COREF	T153	Monsieur_St__Aubert-4
+COREF	T154	Monsieur_St__Aubert-4
+COREF	T155	Monsieur_St__Aubert-4
+COREF	T156	Monsieur_St__Aubert-4
+COREF	T157	Monsieur_St__Aubert-4
+COREF	T16	the_younger_branch_of_an_illustrious_family-24
+COREF	T10	an_illustrious_family-25
+COREF	T158	Monsieur_St__Aubert-4
+COREF	T95	Monsieur_St__Aubert-4
+COREF	T159	Monsieur_St__Aubert-4
+COREF	T17	his_father-26
+COREF	T160	Monsieur_St__Aubert-4
+COREF	T161	Monsieur_St__Aubert-4
+COREF	T18	Madame_St__Aubert-18
+COREF	T162	Monsieur_St__Aubert-4
+COREF	T163	Monsieur_St__Aubert-4
+COREF	T230	his_father-26
+COREF	T164	his_father-26
+COREF	T22	Monsieur_St__Aubert-4
+COREF	T165	his_father-26
+COREF	T166	Monsieur_St__Aubert-4
+COREF	T167	Monsieur_St__Aubert-4
+COREF	T26	Monsieur_Quesnel-27
+COREF	T24	Madame_St__Aubert-18
+COREF	T168	Monsieur_St__Aubert-4
+COREF	T20	the_chateau_of_Monsieur_St__Aubert-3
+COREF	T23	Gascony-2
+COREF	T169	Monsieur_St__Aubert-4
+COREF	T28	the_chateau_of_Monsieur_St__Aubert-3
+COREF	T170	Monsieur_St__Aubert-4
+COREF	T171	Monsieur_St__Aubert-4
+COREF	T172	Monsieur_St__Aubert-4
+COREF	T173	Monsieur_St__Aubert-4
+COREF	T29	the_grey-headed_peasant-28
+COREF	T19	the_pastures_and_woods_that_hung_upon_their_skirts-11
+COREF	T174	Monsieur_St__Aubert-4
+COREF	T27	luxuriant_woods_and_vine-8
+COREF	T175	Monsieur_St__Aubert-4
+COREF	T176	Monsieur_St__Aubert-4
+COREF	T96	the_majestic_Pyrenees-10
+COREF	T97	the_Garonne-1
+COREF	T177	Monsieur_St__Aubert-4
+COREF	T98	the_plains_of_Guienne_and_Languedoc-14
+COREF	T178	Monsieur_St__Aubert-4
+COREF	T99	Monsieur_St__Aubert-4
+COREF	T179	Monsieur_St__Aubert-4
+COREF	T180	Monsieur_St__Aubert-4
+COREF	T43	the_world-21
+COREF	T30	a_stranger-29
+COREF	T102	Monsieur_St__Aubert-4
+COREF	T181	Monsieur_St__Aubert-4
+COREF	T182	Monsieur_St__Aubert-4
+COREF	T100	old_building-30
+COREF	T103	the_new_building-31
+COREF	T104	old_building-30
+COREF	T37	Madame_St__Aubert-18
+COREF	T34	apartments-32
+COREF	T35	its_inhabitants-33
+COREF	T36	The_library-34
+COREF	T38	the_west_side_of_the_chateau-35
+COREF	T231	the_chateau_of_Monsieur_St__Aubert-3
+COREF	T105	The_library-34
+COREF	T106	a_grove-36
+COREF	T107	the_brow_of_a_gentle_declivity-37
+COREF	T108	the_Garonne-1
+COREF	T39	the_gay_and_luxuriant_landscape_stretching_to_the_west-38
+COREF	T109	the_majestic_Pyrenees-10
+COREF	T110	The_library-34
+COREF	T111	a_green-house-39
+COREF	T112	Monsieur_St__Aubert-4
+COREF	T113	the_majestic_Pyrenees-10
+COREF	T40	the_naturalist-40
+COREF	T183	Monsieur_St__Aubert-4
+COREF	T184	Monsieur_St__Aubert-4
+COREF	T185	Monsieur_St__Aubert-4
+COREF	T45	Madame_St__Aubert-18
+COREF	T42	Emily_St__Aubert-19
+COREF	T186	Monsieur_St__Aubert-4
+COREF	T41	the_grey-headed_peasant-28
+COREF	T187	St__Aubert_family-41
+COREF	T188	St__Aubert_family-41
+COREF	T44	cliffs_that_seemed_scarcely_accessible_but_to_the_steps_of_the_enthusiast-42
+COREF	T49	the_enthusiast-43
+COREF	T190	St__Aubert_family-41
+COREF	T46	one_of_those_green_recesses-44
+COREF	T47	the_bosom_of_these_mountains-45
+COREF	T232	the_majestic_Pyrenees-10
+COREF	T191	St__Aubert_family-41
+COREF	T192	St__Aubert_family-41
+COREF	T48	the_cool_stream___that_crept_along_the_turf-46
+COREF	T52	the_eastern_side_of_the_green-house-47
+COREF	T233	a_green-house-39
+COREF	T50	the_plains_of_Languedoc-48
+COREF	T114	Languedoc-15
+COREF	T51	Emily_St__Aubert-19
+COREF	T115	Emily_s_room-50
+COREF	T193	Emily_St__Aubert-19
+COREF	T194	Emily_St__Aubert-19
+COREF	T195	Emily_St__Aubert-19
+COREF	T84	Emily_s_room-50
+COREF	T196	Emily_St__Aubert-19
+COREF	T197	Emily_St__Aubert-19
+COREF	T199	Emily_St__Aubert-19
+COREF	T54	Monsieur_St__Aubert-4
+COREF	T53	Madame_St__Aubert-18
+COREF	T200	Emily_St__Aubert-19
+COREF	T55	Emily_s_room-50
+COREF	T59	the_little_lawn_that_surrounded_the_house-51
+COREF	T58	the_distant_landscape___where_the_Garonne_wandered-52
+COREF	T56	the_Garonne-1
+COREF	T60	The_peasants_of_this_gay_climate-53
+COREF	T57	the_margin_of_the_Garonne-20
+COREF	T202	The_peasants_of_this_gay_climate-53
+COREF	T203	The_peasants_of_this_gay_climate-53
+COREF	T62	peasant_girls-54
+COREF	T204	peasant_girls-54
+COREF	T61	The_front_of_the_chateau-55
+COREF	T72	the_majestic_Pyrenees-10
+COREF	T117	a_rustic_hall-56
+COREF	T118	two_excellent_sitting_rooms-57
+COREF	T119	The_first_floor-58
+COREF	T120	the_chateau_of_Monsieur_St__Aubert-3
+COREF	T122	bed-chambers-60
+COREF	T123	one_apartment_that_opened_to_a_balcony-61
+COREF	T124	a_breakfast-room-62
+COREF	T125	the_surrounding_ground-63
+COREF	T126	Monsieur_St__Aubert-4
+COREF	T205	Monsieur_St__Aubert-4
+COREF	T206	Monsieur_St__Aubert-4
+COREF	T207	Monsieur_St__Aubert-4
+COREF	T208	Monsieur_St__Aubert-4
+COREF	T127	the_chateau_of_Monsieur_St__Aubert-3
+COREF	T128	Monsieur_St__Aubert-4
+COREF	T209	Monsieur_St__Aubert-4
+COREF	T210	Monsieur_St__Aubert-4
+COREF	T212	Monsieur_St__Aubert-4
+COREF	T129	a_lofty_terrace-64
+COREF	T130	the_swelling_bank_of_the_river-65
+COREF	T235	the_Garonne-1
+COREF	T85	a_plantation_of_orange___lemon___and_palm-trees___whose_fruit___in_the_coolness_of_evening___breathed_delicious_fragrance-66
+COREF	T87	a_plantation_of_orange___lemon___and_palm-trees___whose_fruit___in_the_coolness_of_evening___breathed_delicious_fragrance-66
+COREF	T131	the_Garonne-1
+COREF	T132	Monsieur_St__Aubert-4
+COREF	T63	Madame_St__Aubert-18
+COREF	T213	Monsieur_St__Aubert-4
+COREF	T64	children-67
+COREF	T146	a_plantation_of_orange___lemon___and_palm-trees___whose_fruit___in_the_coolness_of_evening___breathed_delicious_fragrance-66
+COREF	T214	Monsieur_St__Aubert-4
+COREF	T70	Madame_St__Aubert-18
+COREF	T69	children-67
+COREF	T215	Monsieur_St__Aubert-4
+COREF	T216	Monsieur_St__Aubert-4
+COREF	T217	Monsieur_St__Aubert-4
+COREF	T218	Monsieur_St__Aubert-4
+COREF	T66	the_world-803
+COREF	T65	Monsieur_St__Aubert-4
+COREF	T219	Monsieur_St__Aubert-4
+COREF	T220	Monsieur_St__Aubert-4
+COREF	T71	a_man_of_moral_perceptions_like_his-68
+COREF	T221	Monsieur_St__Aubert-4
+COREF	T222	Monsieur_St__Aubert-4
+COREF	T223	Monsieur_St__Aubert-4
+COREF	T224	Monsieur_St__Aubert-4
+COREF	T225	Monsieur_St__Aubert-4
+COREF	T227	Monsieur_St__Aubert-4
+COREF	T228	Monsieur_St__Aubert-4
+COP	T31	T157
+APPOS	T25	T26
+COP	T101	T100
+COP	T33	T103
+COP	T67	T73
+MENTION	T472	2	1	2	1	its	FAC	PRON
+COREF	T472	the_chateau_of_Monsieur_St__Aubert-3
+MENTION	T474	6	29	6	29	its	LOC	PRON
+COREF	T474	the_Garonne-1
+MENTION	T482	14	6	14	6	it	FAC	PRON
+COREF	T482	the_chateau_of_Monsieur_St__Aubert-3
+MENTION	T486	17	4	17	4	it	FAC	PRON
+COREF	T486	old_building-30
+MENTION	T488	17	20	17	20	its	FAC	PRON
+COREF	T488	old_building-30
+MENTION	T490	17	39	17	39	it	FAC	PRON
+COREF	T490	old_building-30
+MENTION	T492	18	28	18	28	it	FAC	PRON
+COREF	T492	old_building-30
+MENTION	T494	18	50	18	50	it	FAC	PRON
+COREF	T494	old_building-30
+MENTION	T498	19	38	19	38	its	FAC	PRON
+COREF	T498	apartments-32
+MENTION	T500	21	28	21	28	it	LOC	PRON
+COREF	T500	a_grove-36
+COP	T32	T490
+COREF	T234	Emily_s_room-50
+MENTION	T74	31	8	31	10	no second story	FAC	NOM
+COREF	T74	second_story-59

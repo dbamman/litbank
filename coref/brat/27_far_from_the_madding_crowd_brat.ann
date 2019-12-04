@@ -1,0 +1,477 @@
+T0	PROP_PER 56 66	Farmer Oak
+T5	NOM_FAC 811 817	church
+T6	NOM_PER 1139 1148	a bad man
+T7	NOM_PER 1071 1082	his friends
+T8	NOM_PER 1087 1094	critics
+T10	NOM_LOC 1855 1862	a river
+T11	NOM_PER 1904 1915	their maker
+T12	NOM_PER 1829 1839	any wearer
+T13	PROP_PER 2038 2045	Mr. Oak
+T14	NOM_PER 2266 2284	Oak 's grandfather
+T18	NOM_PER 3695 3702	the boy
+T20	NOM_PER 3855 3863	some men
+T22	PROP_PER 4447 4450	Oak
+T23	NOM_PER 4936 4942	a wife
+T24	NOM_PER 4993 5003	a bachelor
+T25	PROP_LOC 5064 5077	Norcombe Hill
+T27	NOM_FAC 5112 5160	the highway between Emminster and Chalk - Newton
+T28	NOM_PER 5327 5337	a waggoner
+T30	NOM_VEH 5589 5600	the vehicle
+T31	NOM_PER 5706 5718	the waggoner
+T32	NOM_PER 6051 6085	The girl on the summit of the load
+T33	NOM_FAC 6324 6346	the house just vacated
+T34	NOM_PER 6514 6531	The handsome girl
+T36	NOM_PER 6868 6880	the waggoner
+T41	NOM_FAC 8069 8078	a bedroom
+T43	PROP_PER 8381 8392	Gabriel Oak
+T44	NOM_PER 8851 8854	men
+T45	NOM_LOC 8748 8754	Nature
+T46	NOM_VEH 9383 9394	the vehicle
+T47	NOM_FAC 9363 9371	the road
+T48	NOM_PER 9702 9725	the man at the toll-bar
+T49	NOM_PER 9670 9697	the persons with the waggon
+T53	NOM_PER 10054 10068	the disputants
+T54	NOM_PER 10381 10395	the gatekeeper
+T56	PROP_PER 10627 10641	Judas Iscariot
+T57	PROP_PER 10598 10606	St. John
+T58	NOM_FAC 10674 10696	the church he attended
+T59	NOM_PER 10913 10920	her man
+T60	PROP_PER 10971 10978	Gabriel
+T61	NOM_PER 11131 11136	women
+T62	NOM_PER 11166 11180	The gatekeeper
+T63	NOM_VEH 11190 11212	the retreating vehicle
+T65	PROP_PER 25 35	FARMER OAK
+T1	PROP_PER 359 366	Gabriel
+T2	NOM_PER 396 484	a young man of sound judgment , easy motions , proper dress , and general good character
+T3	NOM_PER 505 525	a man of misty views
+T4	NOM_PER 765 784	the drunken section
+T66	NOM_FAC 750 760	the parish
+T67	NOM_PER 726 760	the Communion people of the parish
+T68	NOM_PER 1190 1200	a good man
+T69	NOM_PER 1235 1297	a man whose moral colour was a kind of pepper-and-salt mixture
+T9	PROP_PER 1359 1362	Oak
+T70	NOM_PER 1456 1470	his neighbours
+T71	PROP_PER 1655 1666	Dr. Johnson
+T72	NOM_PER 1922 2035	a conscientious man who endeavoured to compensate for any weakness in his cut by unstinted dimension and solidity
+T73	PROP_PER 2266 2269	Oak
+T74	PROP_PER 2579 2582	Oak
+T16	NOM_PER 2795 2809	his neighbours
+T15	PROP_PER 2925 2928	Oak
+T17	NOM_PER 3335 3359	some thoughtfull persons
+T75	NOM_LOC 3401 3411	his fields
+T76	PROP_PER 3495 3506	Gabriel Oak
+T19	NOM_LOC 4169 4178	the world
+T21	PROP_PER 4189 4192	Oak
+T77	NOM_PER 4332 4345	an individual
+T78	NOM_PER 4947 4953	family
+T79	NOM_LOC 5006 5038	The field he was in this morning
+T80	NOM_LOC 5049 5056	a ridge
+T81	NOM_LOC 5098 5107	this hill
+T82	NOM_LOC 5088 5107	a spur of this hill
+T26	PROP_GPE 5132 5141	Emminster
+T83	PROP_GPE 5146 5160	Chalk - Newton
+T84	PROP_PER 5198 5201	Oak
+T85	NOM_VEH 5241 5324	an ornamental spring waggon , painted yellow and gaily marked , drawn by two horses
+T86	NOM_VEH 5389 5399	The waggon
+T29	NOM_PER 5484 5518	a woman , " young " and attractive
+T87	PROP_PER 5521 5528	Gabriel
+T88	NOM_VEH 5672 5682	the waggon
+T90	NOM_PER 5753 5761	the girl
+T91	NOM_LOC 5877 5885	the hill
+T92	NOM_PER 5986 5998	the waggoner
+T35	NOM_PER 7563 7567	girl
+T37	NOM_PER 7699 7717	unperceived farmer
+T38	NOM_PER 8219 8224	Woman
+T39	NOM_PER 9152 9164	The waggoner
+T40	NOM_VEH 9272 9282	the waggon
+T42	PROP_PER 9299 9306	Gabriel
+T93	NOM_LOC 9446 9454	the hill
+T94	NOM_LOC 9432 9454	the bottom of the hill
+T95	NOM_VEH 9687 9697	the waggon
+T50	NOM_PER 9730 9748	Mis ' ess 's niece
+T51	NOM_PER 9833 9848	you great miser
+T97	NOM_PER 9894 9906	the waggoner
+T98	NOM_PER 9937 9955	mis ' ess 's niece
+T99	NOM_PER 9977 9996	the turnpike-keeper
+T100	PROP_PER 10018 10021	Oak
+T101	NOM_PER 10034 10037	one
+T102	NOM_PER 10041 10068	the other of the disputants
+T55	NOM_PER 10404 10419	the young woman
+T103	PROP_PER 10496 10503	Gabriel
+T104	NOM_PER 10800 10840	The redjacketed and dark - haired maiden
+T105	NOM_PER 11225 11240	a handsome maid
+T106	PROP_PER 11254 11257	Oak
+T107	PROP_PER 11292 11299	Gabriel
+T64	NOM_PER 11311 11317	farmer
+T108	PROP_PER 11455 11462	Gabriel
+T109	NOM_PER 11492 11512	the comely traveller
+T113	NOM_PER 11394 11400	people
+T114	NOM_PER 2480 2486	nobody
+T115	NOM_PER 7837 7843	nobody
+T117	PRON_PER 91 94	his
+T119	PRON_PER 157 160	his
+T120	PRON_PER 168 171	his
+T122	PRON_PER 262 265	his
+T123	PRON_PER 336 339	His
+T124	PRON_PER 389 391	he
+T125	PRON_PER 498 500	he
+T126	PRON_PER 573 576	his
+T127	PRON_PER 635 642	himself
+T128	PRON_PER 800 802	he
+T129	PRON_PER 952 954	he
+T130	PRON_PER 1007 1010	his
+T131	PRON_PER 1071 1074	his
+T132	PRON_PER 1114 1116	he
+T133	PRON_PER 1156 1160	they
+T134	PRON_PER 1176 1178	he
+T135	PRON_PER 1208 1212	they
+T136	PRON_PER 1228 1230	he
+T137	PRON_PER 1306 1308	he
+T138	PRON_PER 1380 1383	his
+T139	PRON_PER 1416 1419	his
+T140	PRON_PER 1456 1459	his
+T141	PRON_PER 1484 1487	him
+T142	PRON_PER 1523 1525	He
+T143	PRON_PER 1672 1675	his
+T145	PRON_PER 1992 1995	his
+T146	PRON_PER 2060 2063	him
+T148	PRON_PER 2569 2572	his
+T149	PRON_PER 2619 2621	he
+T150	PRON_PER 2764 2767	his
+T151	PRON_PER 2795 2798	his
+T152	PRON_PER 2827 2829	he
+T153	PRON_PER 3025 3028	his
+T154	PRON_PER 3080 3083	his
+T155	PRON_PER 3375 3378	him
+T156	PRON_PER 3401 3404	his
+T157	PRON_PER 3540 3543	his
+T158	PRON_PER 3659 3662	his
+T159	PRON_PER 3705 3708	His
+T160	PRON_PER 3763 3766	his
+T162	PRON_PER 3986 3991	their
+T163	PRON_PER 4006 4011	their
+T164	PRON_PER 4030 4034	them
+T165	PRON_PER 4135 4138	him
+T166	PRON_PER 4144 4146	he
+T167	PRON_PER 4349 4351	he
+T168	PRON_PER 4364 4367	his
+T169	PRON_PER 4388 4391	his
+T170	PRON_PER 4413 4416	his
+T171	PRON_PER 4461 4463	He
+T172	PRON_PER 4577 4579	He
+T173	PRON_PER 4634 4637	his
+T174	PRON_PER 4652 4655	his
+T175	PRON_PER 4690 4692	he
+T177	PRON_PER 4813 4815	he
+T179	PRON_PER 4967 4969	he
+T180	PRON_PER 5016 5018	he
+T181	PRON_PER 5237 5240	him
+T182	PRON_PER 5642 5645	his
+T183	PRON_PER 5728 5729	I
+T184	PRON_PER 5814 5815	I
+T185	PRON_PER 5830 5831	I
+T186	PRON_PER 5859 5861	we
+T187	PRON_PER 5892 5893	I
+T188	PRON_PER 5920 5923	she
+T191	PRON_PER 6561 6564	her
+T192	PRON_PER 6690 6693	she
+T194	PRON_PER 6836 6839	She
+T195	PRON_PER 6847 6850	her
+T196	PRON_PER 6895 6897	He
+T197	PRON_PER 6962 6965	her
+T198	PRON_PER 7026 7029	she
+T199	PRON_PER 7052 7055	her
+T200	PRON_PER 7147 7150	she
+T201	PRON_PER 7171 7178	herself
+T202	PRON_PER 7193 7196	She
+T203	PRON_PER 7204 7207	her
+T204	PRON_PER 7310 7313	she
+T205	PRON_PER 7352 7355	her
+T206	PRON_PER 7437 7440	her
+T208	PRON_PER 7614 7617	her
+T209	PRON_PER 7807 7810	her
+T210	PRON_PER 7889 7892	She
+T211	PRON_PER 7904 7911	herself
+T212	PRON_PER 7925 7928	her
+T213	PRON_PER 8396 8398	he
+T214	PRON_PER 8436 8438	he
+T215	PRON_PER 8498 8501	her
+T216	PRON_PER 8525 8528	She
+T217	PRON_PER 8544 8547	her
+T218	PRON_PER 8561 8564	her
+T219	PRON_PER 8663 8666	her
+T220	PRON_PER 8699 8702	She
+T221	PRON_PER 8719 8726	herself
+T222	PRON_PER 8778 8781	her
+T224	PRON_PER 9197 9200	She
+T225	PRON_PER 9321 9324	his
+T226	PRON_PER 9477 9480	his
+T227	PRON_PER 9574 9577	him
+T228	PRON_PER 9598 9600	he
+T229	PRON_PER 9785 9788	she
+T230	PRON_PER 9814 9815	I
+T231	PRON_PER 9833 9836	you
+T232	PRON_PER 9855 9858	she
+T233	PRON_PER 10330 10332	he
+T234	PRON_PER 10429 10431	He
+T235	PRON_PER 10445 10448	her
+T236	PRON_PER 10456 10459	she
+T237	PRON_PER 10466 10469	his
+T239	PRON_PER 10685 10687	he
+T240	PRON_PER 10870 10873	she
+T241	PRON_PER 10898 10901	him
+T242	PRON_PER 10913 10916	her
+T243	PRON_PER 10935 10938	She
+T244	PRON_PER 10957 10960	her
+T245	PRON_PER 11003 11006	she
+T247	PRON_PER 11042 11045	she
+T248	PRON_PER 11073 11076	her
+T249	PRON_PER 11087 11089	he
+T250	PRON_PER 11099 11102	her
+T251	PRON_PER 11103 11106	her
+T252	PRON_PER 11119 11121	we
+T253	PRON_PER 11243 11245	he
+T254	PRON_PER 11264 11267	she
+T255	PRON_PER 11272 11275	her
+T257	PRON_PER 11553 11555	he
+T258	PRON_PER 11570 11573	her
+T325	FARMER_OAK-0 25 35	FARMER OAK
+T260	FARMER_OAK-0 56 66	Farmer Oak
+T377	FARMER_OAK-0 91 94	his
+T379	FARMER_OAK-0 157 160	his
+T380	FARMER_OAK-0 168 171	his
+T382	FARMER_OAK-0 262 265	his
+T383	FARMER_OAK-0 336 339	His
+T261	FARMER_OAK-0 359 366	Gabriel
+T384	FARMER_OAK-0 389 391	he
+T385	FARMER_OAK-0 498 500	he
+T386	FARMER_OAK-0 573 576	his
+T387	FARMER_OAK-0 635 642	himself
+T327	the_Communion_people_of_the_parish-1 726 760	the Communion people of the parish
+T326	the_parish-2 750 760	the parish
+T264	the_drunken_section-3 765 784	the drunken section
+T388	FARMER_OAK-0 800 802	he
+T265	church-4 811 817	church
+T389	FARMER_OAK-0 952 954	he
+T390	FARMER_OAK-0 1007 1010	his
+T267	his_friends-5 1071 1082	his friends
+T391	FARMER_OAK-0 1071 1074	his
+T268	critics-6 1087 1094	critics
+T392	FARMER_OAK-0 1114 1116	he
+T393	they-8 1156 1160	they
+T394	FARMER_OAK-0 1176 1178	he
+T395	they-8 1208 1212	they
+T396	FARMER_OAK-0 1228 1230	he
+T397	FARMER_OAK-0 1306 1308	he
+T269	FARMER_OAK-0 1359 1362	Oak
+T398	FARMER_OAK-0 1380 1383	his
+T399	FARMER_OAK-0 1416 1419	his
+T330	his_neighbours-9 1456 1470	his neighbours
+T400	FARMER_OAK-0 1456 1459	his
+T401	FARMER_OAK-0 1484 1487	him
+T402	FARMER_OAK-0 1523 1525	He
+T331	Dr__Johnson-10 1655 1666	Dr. Johnson
+T403	FARMER_OAK-0 1672 1675	his
+T272	any_wearer-11 1829 1839	any wearer
+T270	a_river-12 1855 1862	a river
+T271	FARMER_OAK-0 1904 1915	their maker
+T405	FARMER_OAK-0 1992 1995	his
+T273	FARMER_OAK-0 2038 2045	Mr. Oak
+T406	FARMER_OAK-0 2060 2063	him
+T274	Oak__s_grandfather-13 2266 2284	Oak 's grandfather
+T333	FARMER_OAK-0 2266 2269	Oak
+T374	nobody-100000 2480 2486	nobody
+T408	FARMER_OAK-0 2569 2572	his
+T334	FARMER_OAK-0 2579 2582	Oak
+T409	FARMER_OAK-0 2619 2621	he
+T410	FARMER_OAK-0 2764 2767	his
+T276	his_neighbours-9 2795 2809	his neighbours
+T411	FARMER_OAK-0 2795 2798	his
+T412	FARMER_OAK-0 2827 2829	he
+T275	FARMER_OAK-0 2925 2928	Oak
+T413	FARMER_OAK-0 3025 3028	his
+T414	FARMER_OAK-0 3080 3083	his
+T277	some_thoughtfull_persons-14 3335 3359	some thoughtfull persons
+T415	FARMER_OAK-0 3375 3378	him
+T335	his_fields-15 3401 3411	his fields
+T416	FARMER_OAK-0 3401 3404	his
+T336	FARMER_OAK-0 3495 3506	Gabriel Oak
+T417	FARMER_OAK-0 3540 3543	his
+T418	FARMER_OAK-0 3659 3662	his
+T278	FARMER_OAK-0 3695 3702	the boy
+T419	FARMER_OAK-0 3705 3708	His
+T420	FARMER_OAK-0 3763 3766	his
+T280	some_men-16 3855 3863	some men
+T422	some_men-16 3986 3991	their
+T423	some_men-16 4006 4011	their
+T424	some_men-16 4030 4034	them
+T425	FARMER_OAK-0 4135 4138	him
+T426	FARMER_OAK-0 4144 4146	he
+T279	the_world-17 4169 4178	the world
+T281	FARMER_OAK-0 4189 4192	Oak
+T337	an_individual-18 4332 4345	an individual
+T427	an_individual-18 4349 4351	he
+T428	an_individual-18 4364 4367	his
+T429	an_individual-18 4388 4391	his
+T430	an_individual-18 4413 4416	his
+T282	FARMER_OAK-0 4447 4450	Oak
+T431	FARMER_OAK-0 4461 4463	He
+T432	FARMER_OAK-0 4577 4579	He
+T433	FARMER_OAK-0 4634 4637	his
+T434	FARMER_OAK-0 4652 4655	his
+T435	FARMER_OAK-0 4690 4692	he
+T437	FARMER_OAK-0 4813 4815	he
+T283	a_wife-19 4936 4942	a wife
+T338	family-20 4947 4953	family
+T439	FARMER_OAK-0 4967 4969	he
+T339	The_field_he_was_in_this_morning-21 5006 5038	The field he was in this morning
+T440	FARMER_OAK-0 5016 5018	he
+T340	a_ridge-22 5049 5056	a ridge
+T285	a_ridge-22 5064 5077	Norcombe Hill
+T342	a_spur_of_this_hill-23 5088 5107	a spur of this hill
+T341	The_field_he_was_in_this_morning-21 5098 5107	this hill
+T287	the_highway_between_Emminster_and_Chalk_-_Newton-24 5112 5160	the highway between Emminster and Chalk - Newton
+T286	Emminster-25 5132 5141	Emminster
+T343	Chalk_-_Newton-26 5146 5160	Chalk - Newton
+T344	FARMER_OAK-0 5198 5201	Oak
+T441	FARMER_OAK-0 5237 5240	him
+T345	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 5241 5324	an ornamental spring waggon , painted yellow and gaily marked , drawn by two horses
+T288	a_waggoner-28 5327 5337	a waggoner
+T346	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 5389 5399	The waggon
+T347	FARMER_OAK-0 5521 5528	Gabriel
+T289	a_woman_____young___and_attractive-30 5484 5518	a woman , " young " and attractive
+T290	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 5589 5600	the vehicle
+T442	FARMER_OAK-0 5642 5645	his
+T348	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 5672 5682	the waggon
+T291	a_waggoner-28 5706 5718	the waggoner
+T443	a_woman_____young___and_attractive-30 5728 5729	I
+T350	a_woman_____young___and_attractive-30 5753 5761	the girl
+T444	a_woman_____young___and_attractive-30 5814 5815	I
+T445	a_woman_____young___and_attractive-30 5830 5831	I
+T446	we-31 5859 5861	we
+T351	a_ridge-22 5877 5885	the hill
+T447	a_waggoner-28 5892 5893	I
+T448	a_woman_____young___and_attractive-30 5920 5923	she
+T352	a_waggoner-28 5986 5998	the waggoner
+T292	a_woman_____young___and_attractive-30 6051 6085	The girl on the summit of the load
+T293	the_house_just_vacated-32 6324 6346	the house just vacated
+T294	a_woman_____young___and_attractive-30 6514 6531	The handsome girl
+T451	a_woman_____young___and_attractive-30 6561 6564	her
+T452	a_woman_____young___and_attractive-30 6690 6693	she
+T454	a_woman_____young___and_attractive-30 6836 6839	She
+T455	a_woman_____young___and_attractive-30 6847 6850	her
+T296	a_waggoner-28 6868 6880	the waggoner
+T456	a_waggoner-28 6895 6897	He
+T457	a_woman_____young___and_attractive-30 6962 6965	her
+T458	a_woman_____young___and_attractive-30 7026 7029	she
+T459	a_woman_____young___and_attractive-30 7052 7055	her
+T460	a_woman_____young___and_attractive-30 7147 7150	she
+T461	a_woman_____young___and_attractive-30 7171 7178	herself
+T462	a_woman_____young___and_attractive-30 7193 7196	She
+T463	a_woman_____young___and_attractive-30 7204 7207	her
+T464	a_woman_____young___and_attractive-30 7310 7313	she
+T465	a_woman_____young___and_attractive-30 7352 7355	her
+T466	a_woman_____young___and_attractive-30 7437 7440	her
+T295	a_woman_____young___and_attractive-30 7563 7567	girl
+T468	a_woman_____young___and_attractive-30 7614 7617	her
+T297	FARMER_OAK-0 7699 7717	unperceived farmer
+T469	a_woman_____young___and_attractive-30 7807 7810	her
+T375	nobody-100001 7837 7843	nobody
+T470	a_woman_____young___and_attractive-30 7889 7892	She
+T471	a_woman_____young___and_attractive-30 7904 7911	herself
+T472	a_woman_____young___and_attractive-30 7925 7928	her
+T301	a_bedroom-33 8069 8078	a bedroom
+T298	Woman-34 8219 8224	Woman
+T303	FARMER_OAK-0 8381 8392	Gabriel Oak
+T473	FARMER_OAK-0 8396 8398	he
+T474	FARMER_OAK-0 8436 8438	he
+T475	a_woman_____young___and_attractive-30 8498 8501	her
+T476	a_woman_____young___and_attractive-30 8525 8528	She
+T477	a_woman_____young___and_attractive-30 8544 8547	her
+T478	a_woman_____young___and_attractive-30 8561 8564	her
+T479	a_woman_____young___and_attractive-30 8663 8666	her
+T480	a_woman_____young___and_attractive-30 8699 8702	She
+T481	a_woman_____young___and_attractive-30 8719 8726	herself
+T305	Nature-35 8748 8754	Nature
+T482	a_woman_____young___and_attractive-30 8778 8781	her
+T304	men-36 8851 8854	men
+T299	a_waggoner-28 9152 9164	The waggoner
+T484	a_woman_____young___and_attractive-30 9197 9200	She
+T300	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 9272 9282	the waggon
+T302	FARMER_OAK-0 9299 9306	Gabriel
+T485	FARMER_OAK-0 9321 9324	his
+T307	the_road-37 9363 9371	the road
+T306	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 9383 9394	the vehicle
+T354	the_bottom_of_the_hill-38 9432 9454	the bottom of the hill
+T353	a_ridge-22 9446 9454	the hill
+T486	FARMER_OAK-0 9477 9480	his
+T487	FARMER_OAK-0 9574 9577	him
+T488	FARMER_OAK-0 9598 9600	he
+T309	the_persons_with_the_waggon-40 9670 9697	the persons with the waggon
+T355	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 9687 9697	the waggon
+T308	the_man_at_the_toll-bar-41 9702 9725	the man at the toll-bar
+T310	a_woman_____young___and_attractive-30 9730 9748	Mis ' ess 's niece
+T489	a_woman_____young___and_attractive-30 9785 9788	she
+T490	a_waggoner-28 9814 9815	I
+T311	the_man_at_the_toll-bar-41 9833 9848	you great miser
+T491	the_man_at_the_toll-bar-41 9833 9836	you
+T492	a_woman_____young___and_attractive-30 9855 9858	she
+T357	a_waggoner-28 9894 9906	the waggoner
+T358	a_woman_____young___and_attractive-30 9937 9955	mis ' ess 's niece
+T359	the_man_at_the_toll-bar-41 9977 9996	the turnpike-keeper
+T360	FARMER_OAK-0 10018 10021	Oak
+T361	a_waggoner-28 10034 10037	one
+T362	the_man_at_the_toll-bar-41 10041 10068	the other of the disputants
+T313	the_disputants-42 10054 10068	the disputants
+T493	FARMER_OAK-0 10330 10332	he
+T314	the_man_at_the_toll-bar-41 10381 10395	the gatekeeper
+T315	a_woman_____young___and_attractive-30 10404 10419	the young woman
+T494	FARMER_OAK-0 10429 10431	He
+T495	a_woman_____young___and_attractive-30 10445 10448	her
+T496	a_woman_____young___and_attractive-30 10456 10459	she
+T497	FARMER_OAK-0 10466 10469	his
+T363	FARMER_OAK-0 10496 10503	Gabriel
+T317	St__John-43 10598 10606	St. John
+T316	Judas_Iscariot-44 10627 10641	Judas Iscariot
+T318	church-4 10674 10696	the church he attended
+T499	FARMER_OAK-0 10685 10687	he
+T364	a_woman_____young___and_attractive-30 10800 10840	The redjacketed and dark - haired maiden
+T500	a_woman_____young___and_attractive-30 10870 10873	she
+T501	a_woman_____young___and_attractive-30 10898 10901	him
+T319	a_waggoner-28 10913 10920	her man
+T502	a_woman_____young___and_attractive-30 10913 10916	her
+T503	a_woman_____young___and_attractive-30 10935 10938	She
+T504	a_woman_____young___and_attractive-30 10957 10960	her
+T320	FARMER_OAK-0 10971 10978	Gabriel
+T505	a_woman_____young___and_attractive-30 11003 11006	she
+T507	a_woman_____young___and_attractive-30 11042 11045	she
+T508	a_woman_____young___and_attractive-30 11073 11076	her
+T509	a_woman_____young___and_attractive-30 11087 11089	he
+T510	a_woman_____young___and_attractive-30 11099 11102	her
+T511	a_woman_____young___and_attractive-30 11103 11106	her
+T512	we-45 11119 11121	we
+T321	women-46 11131 11136	women
+T322	the_man_at_the_toll-bar-41 11166 11180	The gatekeeper
+T323	an_ornamental_spring_waggon___painted_yellow_and_gaily_marked___drawn_by_two_horses-27 11190 11212	the retreating vehicle
+T365	a_woman_____young___and_attractive-30 11225 11240	a handsome maid
+T513	the_man_at_the_toll-bar-41 11243 11245	he
+T366	FARMER_OAK-0 11254 11257	Oak
+T514	FARMER_OAK-0 11264 11267	she
+T515	FARMER_OAK-0 11272 11275	her
+T367	FARMER_OAK-0 11292 11299	Gabriel
+T324	FARMER_OAK-0 11311 11317	farmer
+T373	people-47 11394 11400	people
+T368	FARMER_OAK-0 11455 11462	Gabriel
+T369	a_woman_____young___and_attractive-30 11492 11512	the comely traveller
+T517	FARMER_OAK-0 11553 11555	he
+T518	a_woman_____young___and_attractive-30 11570 11573	her
+R1	cop Arg1:T2 Arg2:T124
+R2	cop Arg1:T3 Arg2:T125
+R3	cop Arg1:T6 Arg2:T132
+R4	cop Arg1:T68 Arg2:T134
+R5	cop Arg1:T69 Arg2:T136
+R6	cop Arg1:T72 Arg2:T11
+R7	cop Arg1:T24 Arg2:T179
+T96	NOM_PER 5693 5698	Miss.
+T110	NOM_PER 5693 5698	Miss.
+T111	a_woman_____young___and_attractive-30 5693 5698	Miss.

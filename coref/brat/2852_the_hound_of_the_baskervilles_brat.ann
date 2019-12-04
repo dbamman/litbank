@@ -1,0 +1,580 @@
+T0	NOM_PER 260 271	our visitor
+T1	NOM_PER 491 516	James Mortimer , M.R.C.S.
+T2	NOM_PER 524 549	his friends of the C.C.H.
+T4	NOM_PER 1271 1278	the man
+T5	NOM_PER 1373 1385	my companion
+T7	PROP_PER 1548 1554	Holmes
+T10	PROP_PER 2005 2011	Holmes
+T13	PROP_PER 2306 2312	Holmes
+T14	NOM_PER 2589 2609	a conductor of light
+T16	NOM_PER 3966 3973	The man
+T18	NOM_ORG 4258 4268	a hospital
+T19	NOM_ORG 4279 4285	a hunt
+T20	NOM_PER 4221 4229	a doctor
+T22	NOM_PER 4594 4614	this unknown visitor
+T23	PROP_ORG 4678 4700	Charing Cross Hospital
+T24	NOM_PER 4863 4870	the man
+T25	NOM_GPE 4888 4892	town
+T26	NOM_PER 5108 5119	his friends
+T27	PROP_PER 5197 5209	Dr. Mortimer
+T28	NOM_ORG 5239 5251	the hospital
+T29	NOM_GPE 5377 5381	town
+T31	NOM_ORG 5633 5645	the hospital
+T32	PROP_GPE 5687 5693	London
+T33	NOM_PER 5654 5702	only a man well-established in a London practice
+T34	NOM_FAC 5816 5828	the hospital
+T35	NOM_PER 5935 5951	a senior student
+T38	NOM_PER 6119 6133	a young fellow
+T39	PROP_PER 6349 6364	Sherlock Holmes
+T41	NOM_PER 6734 6751	several Mortimers
+T42	PROP_ORG 6927 6949	Charing Cross Hospital
+T48	PROP_PER 7362 7368	Holmes
+T51	PROP_GPE 7737 7743	London
+T52	NOM_LOC 7659 7669	this world
+T53	NOM_FAC 7871 7880	your room
+T54	NOM_PER 7957 7967	his master
+T55	PROP_PER 8256 8260	Jove
+T56	NOM_FAC 8319 8327	the room
+T57	NOM_PER 8635 8644	its owner
+T59	NOM_PER 8688 8719	a professional brother of yours
+T61	NOM_PER 8959 8977	the man of science
+T63	NOM_PER 9005 9028	the specialist in crime
+T64	NOM_PER 9117 9147	a typical country practitioner
+T65	NOM_PER 9061 9072	our visitor
+T67	NOM_FAC 9802 9821	the Shipping Office
+T68	NOM_LOC 9856 9865	the world
+T69	PROP_PER 12 31	Mr. Sherlock Holmes
+T70	PROP_PER 32 51	Mr. Sherlock Holmes
+T3	NOM_PER 630 667	the old-fashioned family practitioner
+T71	PROP_PER 731 737	Watson
+T72	PROP_PER 767 773	Holmes
+T73	PROP_PER 1058 1064	Watson
+T74	NOM_PER 1087 1098	our visitor
+T6	PROP_PER 1395 1407	Dr. Mortimer
+T75	NOM_PER 1411 1445	a successful , elderly medical man
+T76	NOM_PER 1468 1486	those who know him
+T77	NOM_PER 1635 1703	a country practitioner who does a great deal of his visiting on foot
+T8	NOM_PER 1834 1853	a town practitioner
+T11	NOM_PER 2048 2069	friends of the C.C.H.
+T12	NOM_PER 2137 2150	whose members
+T78	NOM_ORG 2098 2116	the Something Hunt
+T79	NOM_ORG 2119 2253	the local hunt to whose members he has possibly given some surgical assistance , and which has made him a small presentation in return
+T80	PROP_ORG 2059 2069	the C.C.H.
+T81	PROP_ORG 539 549	the C.C.H.
+T82	PROP_PER 2269 2275	Watson
+T83	NOM_PER 2612 2623	Some people
+T84	NOM_PER 2706 2720	my dear fellow
+T17	NOM_PER 3987 4009	a country practitioner
+T21	PROP_ORG 4368 4381	Charing Cross
+T87	NOM_ORG 4342 4355	that hospital
+T88	PROP_ORG 4652 4658	C.C.H.
+T89	NOM_LOC 4909 4920	the country
+T30	NOM_FAC 5375 5390	a town hospital
+T90	NOM_LOC 5768 5779	the country
+T91	NOM_PER 5878 5893	a house-surgeon
+T92	NOM_PER 5897 5914	a house-physician
+T36	NOM_PER 6014 6058	your grave , middle-aged family practitioner
+T93	NOM_PER 6593 6600	the man
+T40	NOM_PER 6780 6791	our visitor
+T94	NOM_PER 6822 6849	Mortimer , James , M.R.C.S.
+T95	NOM_PER 6888 6901	House-surgeon
+T43	NOM_ORG 7081 7113	the Swedish Pathological Society
+T44	NOM_PER 7057 7113	Corresponding member of the Swedish Pathological Society
+T45	NOM_PER 7116 7168	Author of ‘ Some Freaks of Atavism ’ ( Lancet 1882 )
+T46	PROP_GPE 7296 7307	High Barrow
+T47	PROP_GPE 7281 7289	Thorsley
+T96	PROP_GPE 7271 7278	Grimpen
+T97	NOM_PER 7235 7307	Medical Officer for the parishes of Grimpen , Thorsley , and High Barrow
+T49	NOM_ORG 7328 7343	that local hunt
+T98	PROP_PER 7346 7352	Watson
+T50	NOM_PER 7402 7418	a country doctor
+T99	NOM_PER 7641 7695	an amiable man in this world who receives testimonials
+T100	NOM_LOC 7755 7766	the country
+T101	NOM_PER 7703 7766	an unambitious one who abandons a London career for the country
+T102	NOM_PER 7778 7880	an absent-minded one who leaves his stick and not his visiting-card after waiting an hour in your room
+T103	NOM_PER 8469 8483	My dear fellow
+T58	PROP_PER 8673 8679	Watson
+T104	PROP_PER 8806 8812	Watson
+T105	NOM_PER 8841 8850	the stair
+T60	PROP_PER 8938 8956	Dr. James Mortimer
+T62	PROP_PER 8987 9002	Sherlock Holmes
+T106	NOM_PER 9157 9346	a very tall , thin man , with a long nose like a beak , which jutted out between two keen , gray eyes , set closely together and sparkling brightly from behind a pair of gold-rimmed glasses
+T66	PROP_PER 9650 9656	Holmes
+T15	PROP_PER 3724 3730	Watson
+T85	NOM_PER 3716 3723	my dear
+T37	PROP_PER 6092 6098	Watson
+T107	NOM_PER 6084 6091	my dear
+T86	PROP_PER 4128 4134	Watson
+T108	NOM_PER 4120 4127	my dear
+T114	NOM_FAC 9791 9795	here
+T115	PRON_PER 144 146	he
+T116	PRON_PER 202 203	I
+T117	PRON_PER 260 263	our
+T118	PRON_PER 288 291	him
+T119	PRON_PER 524 527	his
+T120	PRON_PER 748 751	you
+T121	PRON_PER 791 794	his
+T122	PRON_PER 803 805	me
+T123	PRON_PER 812 813	I
+T124	PRON_PER 824 827	him
+T125	PRON_PER 839 841	my
+T126	PRON_PER 865 868	you
+T127	PRON_PER 879 880	I
+T128	PRON_PER 893 894	I
+T129	PRON_PER 903 906	you
+T130	PRON_PER 932 936	your
+T131	PRON_PER 948 949	I
+T132	PRON_PER 1023 1025	me
+T133	PRON_PER 1035 1037	he
+T134	PRON_PER 1053 1055	me
+T135	PRON_PER 1075 1078	you
+T136	PRON_PER 1087 1090	our
+T137	PRON_PER 1116 1118	we
+T138	PRON_PER 1155 1158	him
+T139	PRON_PER 1181 1184	his
+T140	PRON_PER 1247 1249	me
+T141	PRON_PER 1255 1258	you
+T142	PRON_PER 1309 1310	I
+T143	PRON_PER 1326 1327	I
+T144	PRON_PER 1350 1351	I
+T145	PRON_PER 1373 1375	my
+T146	PRON_PER 1483 1486	him
+T147	PRON_PER 1492 1495	him
+T148	PRON_PER 1509 1514	their
+T149	PRON_PER 1575 1576	I
+T150	PRON_PER 1625 1628	his
+T151	PRON_PER 1683 1686	his
+T152	PRON_PER 1813 1814	I
+T153	PRON_PER 1928 1930	he
+T154	PRON_PER 2072 2073	I
+T155	PRON_PER 2151 2153	he
+T156	PRON_PER 2219 2222	him
+T157	PRON_PER 2278 2281	you
+T158	PRON_PER 2288 2296	yourself
+T159	PRON_PER 2328 2331	his
+T160	PRON_PER 2367 2368	I
+T161	PRON_PER 2416 2419	you
+T162	PRON_PER 2452 2454	my
+T163	PRON_PER 2478 2481	you
+T164	PRON_PER 2509 2513	your
+T165	PRON_PER 2545 2548	you
+T166	PRON_PER 2557 2565	yourself
+T167	PRON_PER 2581 2584	you
+T168	PRON_PER 2694 2695	I
+T169	PRON_PER 2706 2708	my
+T170	PRON_PER 2728 2729	I
+T171	PRON_PER 2746 2750	your
+T172	PRON_PER 2760 2762	He
+T173	PRON_PER 2799 2800	I
+T174	PRON_PER 2817 2820	his
+T175	PRON_PER 2832 2834	me
+T176	PRON_PER 2855 2856	I
+T177	PRON_PER 2882 2885	his
+T178	PRON_PER 2902 2904	my
+T179	PRON_PER 2942 2943	I
+T180	PRON_PER 2974 2977	his
+T181	PRON_PER 2988 2989	I
+T182	PRON_PER 3022 3023	I
+T183	PRON_PER 3044 3047	his
+T184	PRON_PER 3092 3095	his
+T185	PRON_PER 3107 3109	He
+T186	PRON_PER 3134 3136	my
+T187	PRON_PER 3182 3185	his
+T188	PRON_PER 3235 3237	he
+T189	PRON_PER 3248 3251	his
+T190	PRON_PER 3302 3304	he
+T191	PRON_PER 3390 3392	he
+T192	PRON_PER 3396 3398	he
+T193	PRON_PER 3411 3414	his
+T194	PRON_PER 3519 3521	us
+T195	PRON_PER 3582 3584	me
+T196	PRON_PER 3589 3590	I
+T197	PRON_PER 3627 3628	I
+T198	PRON_PER 3678 3679	I
+T199	PRON_PER 3702 3703	I
+T200	PRON_PER 3716 3718	my
+T201	PRON_PER 3746 3750	your
+T202	PRON_PER 3785 3786	I
+T203	PRON_PER 3797 3800	you
+T204	PRON_PER 3812 3814	me
+T205	PRON_PER 3815 3816	I
+T206	PRON_PER 3854 3858	your
+T207	PRON_PER 3869 3870	I
+T208	PRON_PER 3924 3927	you
+T209	PRON_PER 4016 4018	he
+T210	PRON_PER 4048 4049	I
+T211	PRON_PER 4120 4122	my
+T212	PRON_PER 4166 4167	I
+T214	PRON_PER 4424 4427	You
+T215	PRON_PER 4495 4497	we
+T216	PRON_PER 4532 4534	we
+T217	PRON_PER 4574 4577	our
+T218	PRON_PER 4733 4735	we
+T220	PRON_PER 4776 4779	You
+T221	PRON_PER 4785 4787	my
+T223	PRON_PER 4815 4816	I
+T224	PRON_PER 4927 4928	I
+T225	PRON_PER 4940 4942	we
+T226	PRON_PER 5108 5111	his
+T227	PRON_PER 5134 5137	him
+T228	PRON_PER 5150 5155	their
+T229	PRON_PER 5285 5292	himself
+T230	PRON_PER 5295 5297	We
+T231	PRON_PER 5335 5337	We
+T232	PRON_PER 5441 5444	our
+T233	PRON_PER 5572 5575	you
+T234	PRON_PER 5594 5596	he
+T235	PRON_PER 5791 5793	he
+T236	PRON_PER 5806 5808	he
+T237	PRON_PER 5854 5856	he
+T238	PRON_PER 5958 5960	he
+T239	PRON_PER 6014 6018	your
+T240	PRON_PER 6084 6086	my
+T241	PRON_PER 6234 6235	I
+T242	PRON_PER 6322 6323	I
+T243	PRON_PER 6380 6383	his
+T244	PRON_PER 6477 6478	I
+T245	PRON_PER 6505 6508	you
+T246	PRON_PER 6518 6519	I
+T247	PRON_PER 6641 6643	my
+T248	PRON_PER 6664 6665	I
+T249	PRON_PER 6780 6783	our
+T250	PRON_PER 6794 6795	I
+T251	PRON_PER 6801 6804	his
+T252	PRON_PER 7176 7178	We
+T253	PRON_PER 7424 7427	you
+T254	PRON_PER 7453 7454	I
+T255	PRON_PER 7466 7467	I
+T256	PRON_PER 7491 7493	my
+T257	PRON_PER 7530 7531	I
+T258	PRON_PER 7542 7543	I
+T259	PRON_PER 7611 7613	my
+T260	PRON_PER 7810 7813	his
+T261	PRON_PER 7828 7831	his
+T262	PRON_PER 7871 7875	your
+T265	PRON_PER 8165 8167	my
+T266	PRON_PER 8296 8298	He
+T267	PRON_PER 8331 8333	he
+T268	PRON_PER 8346 8348	he
+T269	PRON_PER 8425 8428	his
+T270	PRON_PER 8440 8441	I
+T271	PRON_PER 8469 8471	My
+T272	PRON_PER 8494 8497	you
+T273	PRON_PER 8564 8565	I
+T275	PRON_PER 8589 8592	our
+T276	PRON_PER 8661 8662	I
+T277	PRON_PER 8667 8670	you
+T278	PRON_PER 8682 8684	He
+T279	PRON_PER 8726 8730	your
+T280	PRON_PER 8764 8766	me
+T281	PRON_PER 8820 8823	you
+T282	PRON_PER 8873 8877	your
+T283	PRON_PER 8889 8892	you
+T284	PRON_PER 9061 9064	our
+T285	PRON_PER 9091 9093	me
+T286	PRON_PER 9102 9103	I
+T287	PRON_PER 9150 9152	He
+T288	PRON_PER 9349 9351	He
+T289	PRON_PER 9413 9416	his
+T290	PRON_PER 9442 9445	his
+T291	PRON_PER 9479 9482	his
+T292	PRON_PER 9517 9519	he
+T293	PRON_PER 9552 9555	his
+T294	PRON_PER 9607 9609	he
+T295	PRON_PER 9618 9621	his
+T296	PRON_PER 9671 9673	he
+T297	PRON_PER 9720 9721	I
+T298	PRON_PER 9747 9749	he
+T299	PRON_PER 9754 9755	I
+T300	PRON_PER 9777 9778	I
+T301	PRON_PER 9824 9825	I
+T372	Mr__Sherlock_Holmes-0 12 31	Mr. Sherlock Holmes
+T373	Mr__Sherlock_Holmes-0 32 51	Mr. Sherlock Holmes
+T418	Mr__Sherlock_Holmes-0 144 146	he
+T419	Watson-1 202 203	I
+T303	our_visitor-2 260 271	our visitor
+T420	Watson_and_Holmes-3 260 263	our
+T421	our_visitor-2 288 291	him
+T304	our_visitor-2 491 516	James Mortimer , M.R.C.S.
+T305	his_friends_of_the_C_C_H_-4 524 549	his friends of the C.C.H.
+T422	our_visitor-2 524 527	his
+T306	the_old-fashioned_family_practitioner-6 630 667	the old-fashioned family practitioner
+T374	Watson-1 731 737	Watson
+T423	Watson-1 748 751	you
+T375	Mr__Sherlock_Holmes-0 767 773	Holmes
+T424	Mr__Sherlock_Holmes-0 791 794	his
+T425	Watson-1 803 805	me
+T426	Watson-1 812 813	I
+T427	Mr__Sherlock_Holmes-0 824 827	him
+T428	Watson-1 839 841	my
+T429	Mr__Sherlock_Holmes-0 865 868	you
+T430	Watson-1 879 880	I
+T431	Watson-1 893 894	I
+T432	Mr__Sherlock_Holmes-0 903 906	you
+T433	Mr__Sherlock_Holmes-0 932 936	your
+T434	Mr__Sherlock_Holmes-0 948 949	I
+T435	Mr__Sherlock_Holmes-0 1023 1025	me
+T436	Mr__Sherlock_Holmes-0 1035 1037	he
+T437	Mr__Sherlock_Holmes-0 1053 1055	me
+T376	Watson-1 1058 1064	Watson
+T438	Watson-1 1075 1078	you
+T377	our_visitor-2 1087 1098	our visitor
+T439	Watson_and_Holmes-3 1087 1090	our
+T440	Watson_and_Holmes-3 1116 1118	we
+T441	our_visitor-2 1155 1158	him
+T442	our_visitor-2 1181 1184	his
+T443	Mr__Sherlock_Holmes-0 1247 1249	me
+T444	Watson-1 1255 1258	you
+T307	our_visitor-2 1271 1278	the man
+T445	Watson-1 1309 1310	I
+T446	Watson-1 1326 1327	I
+T447	Watson-1 1350 1351	I
+T308	Mr__Sherlock_Holmes-0 1373 1385	my companion
+T448	Mr__Sherlock_Holmes-0 1373 1375	my
+T309	our_visitor-2 1395 1407	Dr. Mortimer
+T379	his_friends_of_the_C_C_H_-4 1468 1486	those who know him
+T449	our_visitor-2 1483 1486	him
+T450	our_visitor-2 1492 1495	him
+T451	his_friends_of_the_C_C_H_-4 1509 1514	their
+T310	Mr__Sherlock_Holmes-0 1548 1554	Holmes
+T452	Mr__Sherlock_Holmes-0 1575 1576	I
+T453	our_visitor-2 1625 1628	his
+T454	our_visitor-2 1683 1686	his
+T455	Watson-1 1813 1814	I
+T311	a_town_practitioner-7 1834 1853	a town practitioner
+T456	our_visitor-2 1928 1930	he
+T313	Mr__Sherlock_Holmes-0 2005 2011	Holmes
+T314	his_friends_of_the_C_C_H_-4 2048 2069	friends of the C.C.H.
+T457	Watson-1 2072 2073	I
+T381	the_C_C_H_-5 2098 2116	the Something Hunt
+T315	his_friends_of_the_C_C_H_-4 2137 2150	whose members
+T458	our_visitor-2 2151 2153	he
+T459	our_visitor-2 2219 2222	him
+T385	Watson-1 2269 2275	Watson
+T460	Watson-1 2278 2281	you
+T461	Watson-1 2288 2296	yourself
+T316	Mr__Sherlock_Holmes-0 2306 2312	Holmes
+T462	Mr__Sherlock_Holmes-0 2328 2331	his
+T463	Mr__Sherlock_Holmes-0 2367 2368	I
+T464	Watson-1 2416 2419	you
+T465	Mr__Sherlock_Holmes-0 2452 2454	my
+T466	Watson-1 2478 2481	you
+T467	Watson-1 2509 2513	your
+T468	Watson-1 2545 2548	you
+T469	Watson-1 2557 2565	yourself
+T470	Watson-1 2581 2584	you
+T386	Some_people-8 2612 2623	Some people
+T471	Mr__Sherlock_Holmes-0 2694 2695	I
+T387	Watson-1 2706 2720	my dear fellow
+T472	Mr__Sherlock_Holmes-0 2706 2708	my
+T473	Mr__Sherlock_Holmes-0 2728 2729	I
+T474	Watson-1 2746 2750	your
+T475	Mr__Sherlock_Holmes-0 2760 2762	He
+T476	Watson-1 2799 2800	I
+T477	Mr__Sherlock_Holmes-0 2817 2820	his
+T479	Watson-1 2855 2856	I
+T480	Mr__Sherlock_Holmes-0 2882 2885	his
+T481	Watson-1 2902 2904	my
+T482	Watson-1 2942 2943	I
+T483	Mr__Sherlock_Holmes-0 2974 2977	his
+T484	Watson-1 2988 2989	I
+T485	Watson-1 3022 3023	I
+T486	Mr__Sherlock_Holmes-0 3044 3047	his
+T487	Mr__Sherlock_Holmes-0 3092 3095	his
+T488	Mr__Sherlock_Holmes-0 3107 3109	He
+T489	Watson-1 3134 3136	my
+T490	Mr__Sherlock_Holmes-0 3182 3185	his
+T491	Mr__Sherlock_Holmes-0 3235 3237	he
+T492	Mr__Sherlock_Holmes-0 3248 3251	his
+T493	Mr__Sherlock_Holmes-0 3302 3304	he
+T494	Mr__Sherlock_Holmes-0 3390 3392	he
+T495	Mr__Sherlock_Holmes-0 3396 3398	he
+T496	Mr__Sherlock_Holmes-0 3411 3414	his
+T497	Watson_and_Holmes-3 3519 3521	us
+T498	Watson-1 3582 3584	me
+T499	Watson-1 3589 3590	I
+T500	Watson-1 3627 3628	I
+T501	Watson-1 3678 3679	I
+T502	Mr__Sherlock_Holmes-0 3702 3703	I
+T388	Watson-1 3716 3723	my dear
+T503	Mr__Sherlock_Holmes-0 3716 3718	my
+T318	Watson-1 3724 3730	Watson
+T504	Watson-1 3746 3750	your
+T505	Mr__Sherlock_Holmes-0 3785 3786	I
+T506	Watson-1 3797 3800	you
+T507	Mr__Sherlock_Holmes-0 3812 3814	me
+T508	Mr__Sherlock_Holmes-0 3815 3816	I
+T509	Watson-1 3854 3858	your
+T510	Mr__Sherlock_Holmes-0 3869 3870	I
+T511	Watson-1 3924 3927	you
+T319	our_visitor-2 3966 3973	The man
+T512	our_visitor-2 4016 4018	he
+T513	Watson-1 4048 4049	I
+T411	Watson-1 4120 4127	my dear
+T514	Mr__Sherlock_Holmes-0 4120 4122	my
+T389	Watson-1 4128 4134	Watson
+T515	Mr__Sherlock_Holmes-0 4166 4167	I
+T323	a_doctor-9 4221 4229	a doctor
+T321	a_hospital-10 4258 4268	a hospital
+T322	a_hunt-11 4279 4285	a hunt
+T390	a_hospital-10 4342 4355	that hospital
+T324	Charing_Cross-12 4368 4381	Charing Cross
+T517	Watson-1 4424 4427	You
+T518	Watson_and_Holmes-3 4495 4497	we
+T519	Watson_and_Holmes-3 4532 4534	we
+T520	Watson_and_Holmes-3 4574 4577	our
+T325	our_visitor-2 4594 4614	this unknown visitor
+T391	the_C_C_H_-5 4652 4658	C.C.H.
+T326	Charing_Cross_Hospital-13 4678 4700	Charing Cross Hospital
+T521	Watson_and_Holmes-3 4733 4735	we
+T523	Watson-1 4776 4779	You
+T524	Mr__Sherlock_Holmes-0 4785 4787	my
+T526	Watson-1 4815 4816	I
+T327	our_visitor-2 4863 4870	the man
+T328	town-14 4888 4892	town
+T392	the_country-15 4909 4920	the country
+T527	Mr__Sherlock_Holmes-0 4927 4928	I
+T528	Watson_and_Holmes-3 4940 4942	we
+T329	his_friends_of_the_C_C_H_-4 5108 5119	his friends
+T529	our_visitor-2 5108 5111	his
+T530	our_visitor-2 5134 5137	him
+T531	his_friends_of_the_C_C_H_-4 5150 5155	their
+T330	our_visitor-2 5197 5209	Dr. Mortimer
+T331	Charing_Cross_Hospital-13 5239 5251	the hospital
+T532	our_visitor-2 5285 5292	himself
+T533	Watson_and_Holmes-3 5295 5297	We
+T534	Watson_and_Holmes-3 5335 5337	We
+T333	a_town_hospital-16 5375 5390	a town hospital
+T332	town-14 5377 5381	town
+T535	Watson_and_Holmes-3 5441 5444	our
+T536	Watson-1 5572 5575	you
+T537	our_visitor-2 5594 5596	he
+T334	Charing_Cross-12 5633 5645	the hospital
+T336	only_a_man_well-established_in_a_London_practice-17 5654 5702	only a man well-established in a London practice
+T335	London-18 5687 5693	London
+T393	the_country-15 5768 5779	the country
+T538	our_visitor-2 5791 5793	he
+T539	our_visitor-2 5806 5808	he
+T337	hospital-building-1 5816 5828	the hospital
+T540	our_visitor-2 5854 5856	he
+T541	our_visitor-2 5958 5960	he
+T339	your_grave___middle-aged_family_practitioner-19 6014 6058	your grave , middle-aged family practitioner
+T542	Watson-1 6014 6018	your
+T410	Watson-1 6084 6091	my dear
+T543	Mr__Sherlock_Holmes-0 6084 6086	my
+T340	Watson-1 6092 6098	Watson
+T341	our_visitor-2 6119 6133	a young fellow
+T544	Mr__Sherlock_Holmes-0 6234 6235	I
+T545	Watson-1 6322 6323	I
+T342	Mr__Sherlock_Holmes-0 6349 6364	Sherlock Holmes
+T546	Mr__Sherlock_Holmes-0 6380 6383	his
+T547	Watson-1 6477 6478	I
+T548	Mr__Sherlock_Holmes-0 6505 6508	you
+T549	Watson-1 6518 6519	I
+T396	our_visitor-2 6593 6600	the man
+T550	Watson-1 6641 6643	my
+T551	Watson-1 6664 6665	I
+T344	several_Mortimers-20 6734 6751	several Mortimers
+T343	our_visitor-2 6780 6791	our visitor
+T552	Watson_and_Holmes-3 6780 6783	our
+T553	Watson-1 6794 6795	I
+T554	our_visitor-2 6801 6804	his
+T397	our_visitor-2 6822 6849	Mortimer , James , M.R.C.S.
+T398	our_visitor-2 6888 6901	House-surgeon
+T345	Charing_Cross_Hospital-13 6927 6949	Charing Cross Hospital
+T347	our_visitor-2 7057 7113	Corresponding member of the Swedish Pathological Society
+T346	the_Swedish_Pathological_Society-22 7081 7113	the Swedish Pathological Society
+T348	our_visitor-2 7116 7168	Author of ‘ Some Freaks of Atavism ’ ( Lancet 1882 )
+T555	We-100000 7176 7178	We
+T400	our_visitor-2 7235 7307	Medical Officer for the parishes of Grimpen , Thorsley , and High Barrow
+T399	Grimpen-23 7271 7278	Grimpen
+T350	Thorsley-24 7281 7289	Thorsley
+T349	High_Barrow-25 7296 7307	High Barrow
+T352	a_hunt-11 7328 7343	that local hunt
+T401	Watson-1 7346 7352	Watson
+T351	Mr__Sherlock_Holmes-0 7362 7368	Holmes
+T353	our_visitor-2 7402 7418	a country doctor
+T556	Watson-1 7424 7427	you
+T557	Mr__Sherlock_Holmes-0 7453 7454	I
+T558	Mr__Sherlock_Holmes-0 7466 7467	I
+T559	Mr__Sherlock_Holmes-0 7491 7493	my
+T560	Mr__Sherlock_Holmes-0 7530 7531	I
+T561	Mr__Sherlock_Holmes-0 7542 7543	I
+T562	Mr__Sherlock_Holmes-0 7611 7613	my
+T402	an_amiable_man_in_this_world_who_receives_testimonials-26 7641 7695	an amiable man in this world who receives testimonials
+T355	this_world-27 7659 7669	this world
+T404	an_unambitious_one_who_abandons_a_London_career_for_the_country-28 7703 7766	an unambitious one who abandons a London career for the country
+T354	London-18 7737 7743	London
+T403	the_country-15 7755 7766	the country
+T405	an_absent-minded_one_who_leaves_his_stick_and_not_his_visiting-card_after_waiting_an_hour_in_your_room-29 7778 7880	an absent-minded one who leaves his stick and not his visiting-card after waiting an hour in your room
+T563	an_absent-minded_one_who_leaves_his_stick_and_not_his_visiting-card_after_waiting_an_hour_in_your_room-29 7810 7813	his
+T564	an_absent-minded_one_who_leaves_his_stick_and_not_his_visiting-card_after_waiting_an_hour_in_your_room-29 7828 7831	his
+T356	your_room-30 7871 7880	your room
+T565	your-100001 7871 7875	your
+T357	our_visitor-2 7957 7967	his master
+T568	Mr__Sherlock_Holmes-0 8165 8167	my
+T358	Jove-31 8256 8260	Jove
+T569	Mr__Sherlock_Holmes-0 8296 8298	He
+T359	your_room-30 8319 8327	the room
+T570	Mr__Sherlock_Holmes-0 8331 8333	he
+T571	Mr__Sherlock_Holmes-0 8346 8348	he
+T572	Mr__Sherlock_Holmes-0 8425 8428	his
+T573	Watson-1 8440 8441	I
+T406	Mr__Sherlock_Holmes-0 8469 8483	My dear fellow
+T574	Watson-1 8469 8471	My
+T575	Mr__Sherlock_Holmes-0 8494 8497	you
+T576	Mr__Sherlock_Holmes-0 8564 8565	I
+T578	Watson_and_Holmes-3 8589 8592	our
+T360	our_visitor-2 8635 8644	its owner
+T579	Mr__Sherlock_Holmes-0 8661 8662	I
+T580	Watson-1 8667 8670	you
+T361	Watson-1 8673 8679	Watson
+T581	our_visitor-2 8682 8684	He
+T582	Watson-1 8726 8730	your
+T583	Mr__Sherlock_Holmes-0 8764 8766	me
+T407	Watson-1 8806 8812	Watson
+T584	Watson-1 8820 8823	you
+T408	the_stair-32 8841 8850	the stair
+T585	Watson-1 8873 8877	your
+T586	Watson-1 8889 8892	you
+T363	our_visitor-2 8938 8956	Dr. James Mortimer
+T365	Mr__Sherlock_Holmes-0 8987 9002	Sherlock Holmes
+T368	our_visitor-2 9061 9072	our visitor
+T587	Watson_and_Holmes-3 9061 9064	our
+T588	Watson-1 9091 9093	me
+T589	Watson-1 9102 9103	I
+T367	a_typical_country_practitioner-33 9117 9147	a typical country practitioner
+T590	our_visitor-2 9150 9152	He
+T591	our_visitor-2 9349 9351	He
+T592	our_visitor-2 9413 9416	his
+T593	our_visitor-2 9442 9445	his
+T594	our_visitor-2 9479 9482	his
+T595	our_visitor-2 9517 9519	he
+T596	our_visitor-2 9552 9555	his
+T597	our_visitor-2 9607 9609	he
+T598	our_visitor-2 9618 9621	his
+T369	Mr__Sherlock_Holmes-0 9650 9656	Holmes
+T599	our_visitor-2 9671 9673	he
+T600	our_visitor-2 9720 9721	I
+T601	our_visitor-2 9747 9749	he
+T602	our_visitor-2 9754 9755	I
+T603	our_visitor-2 9777 9778	I
+T417	your_room-30 9791 9795	here
+T370	the_Shipping_Office-34 9802 9821	the Shipping Office
+T604	our_visitor-2 9824 9825	I
+T384	Charing_Cross_Hospital-13 539 549	the C.C.H.
+T383	Charing_Cross_Hospital-13 2059 2069	the C.C.H.
+T371	this_world-27 9856 9865	the world
+R2	cop Arg1:T75 Arg2:T6
+R3	cop Arg1:T77 Arg2:T150
+R4	appos Arg1:T79 Arg2:T78
+R5	cop Arg1:T14 Arg2:T167
+R6	cop Arg1:T17 Arg2:T16
+R10	cop Arg1:T59 Arg2:T278
+R11	appos Arg1:T61 Arg2:T60
+R12	appos Arg1:T63 Arg2:T62
+R13	cop Arg1:T106 Arg2:T287
+T9	Watson-1 2832 2834	me
+T109	a_house-surgeon-700 5878 5893	a house-surgeon
+T110	a_house-physician-701 5897 5914	a house-physician
+T111	a_senior_student-702 5935 5951	a senior student

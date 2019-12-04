@@ -1,0 +1,394 @@
+MENTION	T1	1	3	1	4	my garden	FAC	NOM
+MENTION	T5	7	46	7	47	a town	GPE	NOM
+MENTION	T6	7	11	7	12	the garden	FAC	NOM
+MENTION	T7	7	5	7	6	the house	FAC	NOM
+MENTION	T8	7	63	7	64	the world	LOC	NOM
+MENTION	T10	9	16	9	16	servants	PER	NOM
+MENTION	T11	9	61	9	63	my frost-bound garden	FAC	NOM
+MENTION	T12	9	71	9	71	children	PER	NOM
+MENTION	T13	11	30	11	31	the garden	FAC	NOM
+MENTION	T15	13	7	13	8	the garden	FAC	NOM
+MENTION	T16	14	0	14	1	My garden	FAC	NOM
+MENTION	T19	14	108	14	108	God	PER	PROP
+MENTION	T21	16	0	16	1	The house	FAC	NOM
+MENTION	T22	17	23	17	23	peasant	PER	NOM
+MENTION	T23	17	30	17	31	a hall	FAC	NOM
+MENTION	T24	18	0	18	1	Gustavus Adolphus	PER	PROP
+MENTION	T25	18	30	18	30	Sweden	GPE	PROP
+MENTION	T28	19	3	19	4	the North	LOC	NOM
+MENTION	T29	19	8	19	10	an estimable person	PER	NOM
+MENTION	T30	20	33	20	34	distant forest	LOC	NOM
+MENTION	T31	20	6	20	7	the house	FAC	NOM
+MENTION	T32	21	19	21	20	the house	FAC	NOM
+MENTION	T33	21	34	21	41	the young woman who attends to such matters	PER	NOM
+MENTION	T38	22	0	22	1	This girl	PER	NOM
+MENTION	T39	22	24	22	27	a respectable German lady	PER	NOM
+MENTION	T40	22	11	22	12	the garden	FAC	NOM
+MENTION	T41	25	5	25	6	the maids	PER	NOM
+MENTION	T42	27	9	27	10	a town	GPE	NOM
+MENTION	T43	27	46	27	47	the garden	FAC	NOM
+MENTION	T45	28	124	28	126	the empty house	FAC	NOM
+MENTION	T46	28	153	28	155	the old housekeeper	PER	NOM
+MENTION	T48	31	94	31	95	a garden	FAC	NOM
+MENTION	T49	31	60	31	64	the bare and desolate garden	FAC	NOM
+MENTION	T50	31	52	31	52	village	GPE	NOM
+MENTION	T51	34	9	34	12	brown , quiet earth	LOC	NOM
+MENTION	T52	34	66	34	67	the world	LOC	NOM
+MENTION	T53	34	50	34	51	a child	PER	NOM
+MENTION	T54	35	75	35	76	the house	FAC	NOM
+MENTION	T56	41	26	41	27	the painters	PER	NOM
+MENTION	T58	43	64	43	65	the house	FAC	NOM
+MENTION	T2	6	3	6	4	a garden	FAC	NOM
+MENTION	T3	6	6	6	7	a wilderness	LOC	NOM
+MENTION	T4	7	22	7	25	a pretty old place	FAC	NOM
+MENTION	T59	7	27	7	47	the people who might have lived here and did not , deliberately preferring the horrors of a flat in a town	PER	NOM
+MENTION	T60	7	43	7	47	a flat in a town	FAC	NOM
+MENTION	T61	7	53	7	67	that vast number of eyeless and earless persons of whom the world seems chiefly composed	PER	NOM
+MENTION	T9	13	2	13	11	a little stream that bounds the garden on the east	LOC	NOM
+MENTION	T14	13	19	13	21	the cornfield beyond	FAC	NOM
+MENTION	T62	14	5	14	5	cornfields	FAC	NOM
+MENTION	T63	14	7	14	7	meadows	LOC	NOM
+MENTION	T64	14	15	14	16	sandy heath	LOC	NOM
+MENTION	T65	14	18	14	19	pine forests	LOC	NOM
+MENTION	T66	14	23	14	24	the forests	LOC	NOM
+MENTION	T67	14	27	14	29	the bare heath	LOC	NOM
+MENTION	T68	14	34	14	35	the forests	LOC	NOM
+MENTION	T17	14	68	14	70	the bare heaths	LOC	NOM
+MENTION	T18	15	4	15	5	this plain	LOC	NOM
+MENTION	T20	15	28	15	40	the gray stone house with many gables where I pass my reluctant nights	FAC	NOM
+MENTION	T69	17	2	17	3	a convent	FAC	NOM
+MENTION	T70	17	12	17	14	the vaulted chapel	FAC	NOM
+MENTION	T27	18	3	18	4	his Swedes	PER	NOM
+MENTION	T71	18	27	18	34	the high-road between Sweden and Brandenburg the unfortunate	FAC	NOM
+MENTION	T72	15	7	15	18	the oasis of birdcherries and greenery where I spend my happy days	FAC	NOM
+MENTION	T73	15	25	15	26	the oasis	FAC	NOM
+MENTION	T26	18	32	18	34	Brandenburg the unfortunate	GPE	PROP
+MENTION	T74	19	0	19	4	The Lion of the North	PER	NOM
+MENTION	T75	19	25	19	36	the peaceful nuns , who were not without convictions of their own	PER	NOM
+MENTION	T76	19	43	19	47	the wide , empty plain	LOC	NOM
+MENTION	T77	19	59	19	59	here	FAC	NOM
+MENTION	T78	20	13	20	14	the plain	LOC	NOM
+MENTION	T79	20	23	20	24	a hill	LOC	NOM
+MENTION	T80	20	49	20	53	a green , rolling plain	LOC	NOM
+MENTION	T37	21	13	21	14	my bedroom	FAC	NOM
+MENTION	T34	21	50	21	59	a mistress recumbent in an easychair before an open window	PER	NOM
+MENTION	T35	23	0	23	3	The people round about	PER	NOM
+MENTION	T81	25	30	25	32	the evil one	PER	NOM
+MENTION	T82	25	35	25	36	the foolish	PER	NOM
+MENTION	T83	26	18	26	19	this place	FAC	NOM
+MENTION	T84	27	5	27	10	in a flat in a town	FAC	NOM
+MENTION	T85	28	7	28	7	there	FAC	NOM
+MENTION	T86	28	9	28	9	here	FAC	NOM
+MENTION	T87	28	11	28	13	this dear place	FAC	NOM
+MENTION	T44	28	147	28	151	the rooms on that side	FAC	NOM
+MENTION	T88	29	3	29	3	here	FAC	NOM
+MENTION	T89	30	19	30	19	here	FAC	NOM
+MENTION	T90	30	27	30	30	my kingdom of heaven	FAC	NOM
+MENTION	T91	31	12	31	13	the place	FAC	NOM
+MENTION	T92	31	51	31	53	the village school	FAC	NOM
+MENTION	T47	35	21	35	22	the place	FAC	NOM
+MENTION	T93	35	78	35	79	the workmen	PER	NOM
+MENTION	T94	37	35	37	42	a lawn closely strewn with dandelions and daisies	FAC	NOM
+MENTION	T36	28	36	28	40	nobody but the north wind	PER	NOM
+MENTION	T95	7	0	7	1	No one	PER	NOM
+MENTION	T96	28	59	28	60	no one	PER	NOM
+MENTION	T55	7	33	7	33	here	FAC	NOM
+MENTION	T57	27	41	27	41	here	FAC	NOM
+MENTION	T97	35	54	35	54	here	FAC	NOM
+MENTION	T98	12	12	12	13	the place	FAC	NOM
+MENTION	T99	1	1	1	1	I	PER	PRON
+MENTION	T100	1	3	1	3	my	PER	PRON
+MENTION	T101	2	0	2	0	I	PER	PRON
+MENTION	T102	3	5	3	5	me	PER	PRON
+MENTION	T103	3	15	3	15	I	PER	PRON
+MENTION	T108	5	12	5	12	I	PER	PRON
+MENTION	T109	5	20	5	20	me	PER	PRON
+MENTION	T110	5	23	5	23	I	PER	PRON
+MENTION	T111	5	27	5	27	myself	PER	PRON
+MENTION	T112	8	15	8	15	my	PER	PRON
+MENTION	T113	9	0	9	0	I	PER	PRON
+MENTION	T114	9	27	9	27	my	PER	PRON
+MENTION	T115	9	34	9	34	my	PER	PRON
+MENTION	T116	9	54	9	54	I	PER	PRON
+MENTION	T117	9	61	9	61	my	PER	PRON
+MENTION	T118	9	68	9	68	my	PER	PRON
+MENTION	T119	10	1	10	1	I	PER	PRON
+MENTION	T120	11	6	11	6	me	PER	PRON
+MENTION	T122	12	0	12	0	I	PER	PRON
+MENTION	T125	14	0	14	0	My	PER	PRON
+MENTION	T126	14	39	14	39	their	LOC	PRON
+MENTION	T127	14	80	14	80	them	LOC	PRON
+MENTION	T128	14	91	14	91	them	LOC	PRON
+MENTION	T129	15	14	15	14	I	PER	PRON
+MENTION	T130	15	16	15	16	my	PER	PRON
+MENTION	T131	15	36	15	36	I	PER	PRON
+MENTION	T132	15	38	15	38	my	PER	PRON
+MENTION	T133	18	3	18	3	his	PER	PRON
+MENTION	T134	18	21	18	21	we	PER	PRON
+MENTION	T135	19	16	19	16	his	PER	PRON
+MENTION	T136	19	20	19	20	he	PER	PRON
+MENTION	T137	19	35	19	35	their	PER	PRON
+MENTION	T138	19	39	19	39	them	PER	PRON
+MENTION	T139	20	8	20	8	I	PER	PRON
+MENTION	T140	21	0	21	0	I	PER	PRON
+MENTION	T141	21	13	21	13	my	PER	PRON
+MENTION	T142	21	47	21	47	her	PER	PRON
+MENTION	T143	22	5	22	5	my	PER	PRON
+MENTION	T144	22	16	22	16	her	PER	PRON
+MENTION	T145	22	37	22	37	she	PER	PRON
+MENTION	T146	22	40	22	40	me	PER	PRON
+MENTION	T147	23	7	23	7	I	PER	PRON
+MENTION	T148	23	27	23	27	I	PER	PRON
+MENTION	T149	23	47	23	47	me	PER	PRON
+MENTION	T150	24	4	24	4	you	PER	PRON
+MENTION	T151	24	12	24	12	you	PER	PRON
+MENTION	T152	25	15	25	15	I	PER	PRON
+MENTION	T153	25	39	25	39	their	PER	PRON
+MENTION	T154	26	0	26	0	We	PER	PRON
+MENTION	T155	26	9	26	9	us	PER	PRON
+MENTION	T156	26	11	26	11	we	PER	PRON
+MENTION	T158	27	18	27	18	I	PER	PRON
+MENTION	T159	27	37	27	37	me	PER	PRON
+MENTION	T160	27	39	27	39	my	PER	PRON
+MENTION	T161	28	2	28	2	we	PER	PRON
+MENTION	T162	28	5	28	5	our	PER	PRON
+MENTION	T163	29	22	29	22	me	PER	PRON
+MENTION	T164	30	2	30	2	I	PER	PRON
+MENTION	T165	30	16	30	16	my	PER	PRON
+MENTION	T166	30	27	30	27	my	PER	PRON
+MENTION	T167	31	7	31	7	my	PER	PRON
+MENTION	T168	31	18	31	18	I	PER	PRON
+MENTION	T169	31	66	31	66	I	PER	PRON
+MENTION	T170	31	80	31	80	my	PER	PRON
+MENTION	T171	31	90	31	90	I	PER	PRON
+MENTION	T172	32	1	32	1	I	PER	PRON
+MENTION	T173	33	5	33	5	my	PER	PRON
+MENTION	T174	33	9	33	9	my	PER	PRON
+MENTION	T175	33	20	33	20	my	PER	PRON
+MENTION	T176	34	30	34	30	I	PER	PRON
+MENTION	T177	34	46	34	46	I	PER	PRON
+MENTION	T178	34	60	34	60	me	PER	PRON
+MENTION	T179	34	74	34	74	I	PER	PRON
+MENTION	T180	34	76	34	76	myself	PER	PRON
+MENTION	T181	35	0	35	0	My	PER	PRON
+MENTION	T182	35	52	35	52	I	PER	PRON
+MENTION	T183	36	2	36	2	I	PER	PRON
+MENTION	T184	37	0	37	0	I	PER	PRON
+MENTION	T185	37	13	37	13	I	PER	PRON
+MENTION	T186	37	27	37	27	my	PER	PRON
+MENTION	T187	38	13	38	13	I	PER	PRON
+MENTION	T189	38	37	38	37	I	PER	PRON
+MENTION	T192	39	4	39	4	I	PER	PRON
+MENTION	T194	41	5	41	5	me	PER	PRON
+MENTION	T198	43	4	43	4	I	PER	PRON
+MENTION	T202	44	34	44	34	I	PER	PRON
+MENTION	T203	44	50	44	50	I	PER	PRON
+MENTION	T204	45	0	45	0	My	PER	PRON
+MENTION	T205	6	0	6	0	This	FAC	NOM
+MENTION	T206	35	0	35	2	My other half	PER	NOM
+COREF	T99	narrator-0
+COREF	T1	my_garden-1
+COREF	T100	narrator-0
+COREF	T101	narrator-0
+COREF	T102	narrator-0
+COREF	T103	narrator-0
+COREF	T108	narrator-0
+COREF	T109	narrator-0
+COREF	T110	narrator-0
+COREF	T111	narrator-0
+COREF	T205	my_garden-1
+COREF	T2	a_garden-2
+COREF	T3	a_wilderness-3
+COREF	T95	No_one-4
+COREF	T7	the_house-5
+COREF	T6	my_garden-1
+COREF	T4	the_house-5
+COREF	T59	the_people-6
+COREF	T55	the_house-5
+COREF	T60	a_flat_in_a_town-7
+COREF	T5	a_town-8
+COREF	T61	vast_number-9
+COREF	T8	the_world-10
+COREF	T112	narrator-0
+COREF	T113	narrator-0
+COREF	T10	servants-11
+COREF	T114	narrator-0
+COREF	T115	narrator-0
+COREF	T116	narrator-0
+COREF	T11	my_garden-1
+COREF	T117	narrator-0
+COREF	T118	narrator-0
+COREF	T12	children-12
+COREF	T119	narrator-0
+COREF	T120	narrator-0
+COREF	T13	my_garden-1
+COREF	T122	narrator-0
+COREF	T98	my_garden-1
+COREF	T9	a_little_stream_that_bounds_the_garden_on_the_east-13
+COREF	T15	my_garden-1
+COREF	T14	the_cornfield_beyond-14
+COREF	T16	my_garden-1
+COREF	T125	narrator-0
+COREF	T62	cornfields-15
+COREF	T63	meadows-16
+COREF	T64	sandy_heath-17
+COREF	T65	pine_forests-18
+COREF	T66	pine_forests-18
+COREF	T67	the_bare_heath-19
+COREF	T68	pine_forests-18
+COREF	T126	pine_forests-18
+COREF	T17	the_bare_heath-19
+COREF	T127	the_bare_heath-19
+COREF	T128	the_bare_heath-19
+COREF	T19	God-20
+COREF	T18	this_plain-21
+COREF	T72	my_garden-1
+COREF	T129	narrator-0
+COREF	T130	narrator-0
+COREF	T73	my_garden-1
+COREF	T20	the_house-5
+COREF	T131	narrator-0
+COREF	T132	narrator-0
+COREF	T21	the_house-5
+COREF	T69	a_convent-22
+COREF	T70	the_vaulted_chapel-23
+COREF	T22	peasant-24
+COREF	T23	a_hall-25
+COREF	T24	Gustavus_Adolphus-26
+COREF	T27	his_Swedes-27
+COREF	T133	Gustavus_Adolphus-26
+COREF	T134	we-28
+COREF	T71	the_high-road_between_Sweden_and_Brandenburg_the_unfortunate-29
+COREF	T25	Sweden-30
+COREF	T26	Brandenburg_the_unfortunate-31
+COREF	T74	Gustavus_Adolphus-26
+COREF	T28	the_North-32
+COREF	T135	Gustavus_Adolphus-26
+COREF	T136	Gustavus_Adolphus-26
+COREF	T75	the_peaceful_nuns-33
+COREF	T137	the_peaceful_nuns-33
+COREF	T138	the_peaceful_nuns-33
+COREF	T76	the_wide___empty_plain-34
+COREF	T77	the_house-5
+COREF	T31	the_house-5
+COREF	T139	narrator-0
+COREF	T78	the_wide___empty_plain-34
+COREF	T79	a_hill-35
+COREF	T30	distant_forest-36
+COREF	T80	a_green___rolling_plain-37
+COREF	T140	narrator-0
+COREF	T37	my_bedroom-38
+COREF	T141	narrator-0
+COREF	T32	the_house-5
+COREF	T33	hair_comber-39
+COREF	T142	hair_comber-39
+COREF	T34	narrator-0
+COREF	T38	hair_comber-39
+COREF	T143	narrator-0
+COREF	T40	my_garden-1
+COREF	T144	hair_comber-39
+COREF	T39	a_respectable_German_lady-40
+COREF	T145	hair_comber-39
+COREF	T146	narrator-0
+COREF	T35	The_people_round_about-41
+COREF	T147	narrator-0
+COREF	T148	narrator-0
+COREF	T149	narrator-0
+COREF	T150	you-42
+COREF	T151	you-43
+COREF	T41	the_maids-44
+COREF	T152	narrator-0
+COREF	T81	the_evil_one-45
+COREF	T82	the_foolish-46
+COREF	T153	the_foolish-46
+COREF	T154	narrator_husband-47
+COREF	T155	narrator_husband-47
+COREF	T156	narrator_husband-47
+COREF	T84	in_a_flat_in_a_town-48
+COREF	T42	a_town-49
+COREF	T158	narrator-0
+COREF	T159	narrator-0
+COREF	T160	narrator-0
+COREF	T57	_this_place__holistically-69
+COREF	T43	my_garden-1
+COREF	T161	narrator_husband-47
+COREF	T162	narrator_husband-47
+COREF	T85	in_a_flat_in_a_town-48
+COREF	T86	_this_place__holistically-69
+COREF	T36	nobody_but_the_north_wind-51
+COREF	T96	no_one-52
+COREF	T45	the_house-5
+COREF	T44	the_rooms_on_that_side-53
+COREF	T46	the_old_housekeeper-54
+COREF	T88	_this_place__holistically-69
+COREF	T163	narrator-0
+COREF	T164	narrator-0
+COREF	T165	narrator-0
+COREF	T89	_this_place__holistically-69
+COREF	T166	narrator-0
+COREF	T167	narrator-0
+COREF	T91	_this_place__holistically-69
+COREF	T168	narrator-0
+COREF	T92	the_village_school-58
+COREF	T50	village-59
+COREF	T49	my_garden-1
+COREF	T169	narrator-0
+COREF	T170	narrator-0
+COREF	T171	narrator-0
+COREF	T48	a_garden-60
+COREF	T172	narrator-0
+COREF	T173	narrator-0
+COREF	T174	narrator-0
+COREF	T175	narrator-0
+COREF	T51	brown___quiet_earth-61
+COREF	T176	narrator-0
+COREF	T177	narrator-0
+COREF	T53	a_child-62
+COREF	T178	narrator-0
+COREF	T52	the_world-10
+COREF	T179	narrator-0
+COREF	T180	narrator-0
+COREF	T181	narrator-0
+COREF	T206	My_other_half-63
+COREF	T47	_this_place__holistically-69
+COREF	T182	narrator-0
+COREF	T97	_this_place__holistically-69
+COREF	T54	the_house-5
+COREF	T93	the_workmen-66
+COREF	T183	narrator-0
+COREF	T184	narrator-0
+COREF	T185	narrator-0
+COREF	T186	narrator-0
+COREF	T94	a_lawn_closely_strewn_with_dandelions_and_daisies-67
+COREF	T187	narrator-0
+COREF	T189	narrator-0
+COREF	T192	narrator-0
+COREF	T194	narrator-0
+COREF	T56	the_painters-68
+COREF	T198	narrator-0
+COREF	T58	the_house-5
+COREF	T202	narrator-0
+COREF	T203	narrator-0
+COREF	T204	narrator-0
+COREF	T83	_this_place__holistically-69
+COP	T29	T74
+COP	T90	T89
+COP	T87	T86
+MENTION	T414	2	4	2	4	it	FAC	PRON
+COREF	T414	my_garden-1
+MENTION	T428	17	0	17	0	It	FAC	PRON
+COREF	T428	the_house-5
+MENTION	T430	17	17	17	17	its	FAC	PRON
+COREF	T430	the_vaulted_chapel-23
+MENTION	T436	26	26	26	26	it	FAC	PRON
+COREF	T436	this_place_holistically-69
+MENTION	T438	28	46	28	46	it	FAC	PRON
+COREF	T438	this_place_holistically-69
+MENTION	T442	29	28	29	28	it	FAC	PRON
+COREF	T442	this_place_holistically-69
+MENTION	T454	35	28	35	28	it	FAC	PRON
+COREF	T454	this_place_holistically-69
+MENTION	T456	35	84	35	84	it	FAC	PRON
+COREF	T456	the_house-5
+MENTION	T104	24	7	24	8	some one	PER	NOM
+COREF	T104	some_one-700

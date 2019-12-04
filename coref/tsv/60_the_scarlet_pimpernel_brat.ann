@@ -1,0 +1,530 @@
+MENTION	T1	1	27	1	29	a proud tyrant	PER	NOM
+MENTION	T2	2	20	2	20	France	GPE	PROP
+MENTION	T5	5	9	5	10	those aristos	PER	NOM
+MENTION	T6	5	12	5	13	such fools	PER	NOM
+MENTION	T7	6	38	6	38	France	GPE	PROP
+MENTION	T8	7	0	7	1	Their ancestors	PER	NOM
+MENTION	T9	7	32	7	34	their former masters	PER	NOM
+MENTION	T11	7	29	7	29	France	GPE	PROP
+MENTION	T12	8	38	8	41	a beautiful young Queen	PER	NOM
+MENTION	T13	8	34	8	35	a King	PER	NOM
+MENTION	T14	8	18	8	19	young women	PER	NOM
+MENTION	T15	8	21	8	22	tiny children	PER	NOM
+MENTION	T16	9	13	9	16	the rulers of France	PER	NOM
+MENTION	T17	9	16	9	16	France	GPE	PROP
+MENTION	T18	10	0	10	1	Every aristocrat	PER	NOM
+MENTION	T19	10	7	10	8	his ancestors	PER	NOM
+MENTION	T20	10	3	10	4	a traitor	PER	NOM
+MENTION	T21	12	22	12	23	an aristo	PER	NOM
+MENTION	T22	12	19	12	23	some fool of an aristo	PER	NOM
+MENTION	T23	13	22	13	26	citizen soldiers of the Republic	PER	NOM
+MENTION	T25	14	38	14	38	France	GPE	PROP
+MENTION	T27	14	41	14	41	England	GPE	PROP
+MENTION	T29	14	82	14	84	sovereigns of France	PER	NOM
+MENTION	T31	14	84	14	84	France	GPE	PROP
+MENTION	T32	15	10	15	11	Sergeant Bibot	PER	PROP
+MENTION	T34	15	14	15	16	the West Gate	FAC	NOM
+MENTION	T35	17	4	17	5	his prey	PER	NOM
+MENTION	T37	19	25	19	26	an aristo	PER	NOM
+MENTION	T39	19	0	19	0	Bibot	PER	PROP
+MENTION	T40	20	66	20	67	two men	PER	NOM
+MENTION	T41	20	47	20	47	Bibot	PER	PROP
+MENTION	T42	20	4	20	5	his prey	PER	NOM
+MENTION	T43	20	42	20	42	England	GPE	PROP
+MENTION	T44	20	1	20	1	Bibot	PER	PROP
+MENTION	T45	20	31	20	31	Paris	GPE	PROP
+MENTION	T49	25	21	25	22	citoyen soldiers	PER	NOM
+MENTION	T52	27	0	27	2	Those cursed aristos	PER	NOM
+MENTION	T53	27	14	27	14	Paris	GPE	PROP
+MENTION	T54	27	32	27	34	those traitorous Bourbons	PER	NOM
+MENTION	T57	28	2	28	2	Bibot	PER	PROP
+MENTION	T58	28	29	28	31	that good patriot	PER	NOM
+MENTION	T59	28	9	28	11	some fugitive royalists	PER	NOM
+MENTION	T60	29	2	29	2	Danton	PER	PROP
+MENTION	T62	29	11	29	11	Bibot	PER	PROP
+MENTION	T63	29	6	29	6	Bibot	PER	PROP
+MENTION	T64	31	17	31	17	England	GPE	PROP
+MENTION	T65	31	13	31	13	France	GPE	PROP
+MENTION	T66	31	6	31	6	aristos	PER	NOM
+MENTION	T67	33	0	33	1	Sergeant Grospierre	PER	PROP
+MENTION	T71	34	43	34	49	lawful victims destined for Madame la Guillotine	PER	NOM
+MENTION	T73	35	30	35	38	a man whose pluck and audacity were almost fabulous	PER	NOM
+MENTION	T75	36	8	36	12	those aristos whom he rescued	PER	NOM
+MENTION	T76	37	10	37	11	their leader	PER	NOM
+MENTION	T77	37	4	37	6	these mysterious Englishmen	PER	NOM
+MENTION	T78	39	37	39	37	England	GPE	PROP
+MENTION	T82	40	41	40	41	England	GPE	PROP
+MENTION	T83	40	12	40	19	the citoyens of the Committee of Public Safety	PER	NOM
+MENTION	T84	41	0	41	4	The guards at the gates	PER	NOM
+MENTION	T85	41	9	41	12	the sergeants in command	PER	NOM
+MENTION	T86	41	28	41	32	these daring and impudent Englishmen	PER	NOM
+MENTION	T87	43	3	43	3	Bibot	PER	PROP
+MENTION	T88	43	36	43	38	the West Gate	FAC	NOM
+MENTION	T90	43	10	43	10	Bibot	PER	PROP
+MENTION	T91	43	59	43	61	that mysterious Englishman	PER	NOM
+MENTION	T92	44	7	44	9	his trusted corporal	PER	NOM
+MENTION	T93	44	15	44	16	a fool	PER	NOM
+MENTION	T94	46	10	46	11	the corporal	PER	NOM
+MENTION	T95	48	6	48	8	this meddlesome Englishman	PER	NOM
+MENTION	T96	50	3	50	5	the devil himself	PER	NOM
+MENTION	T97	51	1	51	1	Grospierre	PER	PROP
+MENTION	T98	51	3	51	4	a fool	PER	NOM
+MENTION	T99	52	24	52	27	a boy beside him	PER	NOM
+MENTION	T100	52	19	52	21	an old man	PER	NOM
+MENTION	T102	54	11	54	18	ill-clad wretches , who crowded round Citoyen Bibot	PER	NOM
+MENTION	T103	55	8	55	9	the sergeant	PER	NOM
+MENTION	T104	55	23	55	27	some dozen soldiers with him	PER	NOM
+MENTION	T105	59	10	59	11	the captain	PER	NOM
+MENTION	T107	61	4	61	8	the CI-DEVANT Duc de Chalis	PER	NOM
+MENTION	T108	65	1	65	2	the driver	PER	NOM
+MENTION	T110	67	0	67	1	Citoyen Grospierre	PER	PROP
+MENTION	T111	67	13	67	14	a fool	PER	NOM
+MENTION	T113	0	2	0	2	PARIS	GPE	PROP
+MENTION	T114	0	33	0	34	savage creatures	PER	NOM
+MENTION	T115	0	7	0	48	A surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate	PER	NOM
+MENTION	T116	3	20	3	21	the people	PER	NOM
+MENTION	T3	4	2	4	3	the crowd	PER	NOM
+MENTION	T4	4	7	4	11	the Place de la Greve	FAC	NOM
+MENTION	T117	6	4	6	5	the people	PER	NOM
+MENTION	T118	6	2	6	5	traitors to the people	PER	NOM
+MENTION	T119	6	26	6	38	the great men who since the Crusades had made the glory of France	PER	NOM
+MENTION	T120	6	24	6	38	descendants of the great men who since the Crusades had made the glory of France	PER	NOM
+MENTION	T121	6	40	6	42	her old NOBLESSE	PER	NOM
+MENTION	T122	6	13	6	38	men , women , and children , who happened to be descendants of the great men who since the Crusades had made the glory of France	PER	NOM
+MENTION	T123	7	4	7	5	the people	PER	NOM
+MENTION	T10	7	26	7	29	the rulers of France	PER	NOM
+MENTION	T124	7	22	7	23	the people	PER	NOM
+MENTION	T125	8	11	8	13	its many victims	PER	NOM
+MENTION	T126	8	15	8	16	old men	PER	NOM
+MENTION	T127	9	10	9	11	the people	PER	NOM
+MENTION	T128	10	19	10	20	the people	PER	NOM
+MENTION	T129	10	43	10	51	those who had helped to make those courts brilliant	PER	NOM
+MENTION	T130	10	40	10	51	the descendants of those who had helped to make those courts brilliant	PER	NOM
+MENTION	T131	10	71	10	72	the people	PER	NOM
+MENTION	T132	12	7	12	9	the market carts	VEH	NOM
+MENTION	T133	12	30	12	34	the Committee of Public Safety	ORG	PROP
+MENTION	T24	13	25	13	26	the Republic	GPE	NOM
+MENTION	T134	14	2	14	2	women	PER	NOM
+MENTION	T135	14	0	14	4	Men in women 's clothes	PER	NOM
+MENTION	T136	14	6	14	9	women in male attire	PER	NOM
+MENTION	T30	14	14	14	14	beggars	PER	NOM
+MENTION	T28	14	11	14	16	children disguised in beggars ' rags	PER	NOM
+MENTION	T137	14	64	14	65	an army	PER	NOM
+MENTION	T138	14	74	14	75	the Temple	FAC	NOM
+MENTION	T26	14	70	14	84	the wretched prisoners in the Temple , who had once called themselves sovereigns of France	PER	NOM
+MENTION	T139	14	25	14	84	CI-DEVANT counts , marquises , even dukes , who wanted to fly from France , reach England or some other equally accursed country , and there try to rouse foreign feelings against the glorious Revolution , or to raise an army in order to liberate the wretched prisoners in the Temple , who had once called themselves sovereigns of France	PER	NOM
+MENTION	T33	15	23	15	29	an aristo in the most perfect disguise	PER	NOM
+MENTION	T140	17	0	17	0	Bibot	PER	PROP
+MENTION	T36	17	49	17	54	a CI-DEVANT noble marquise or count	PER	NOM
+MENTION	T141	19	39	19	40	the people	PER	NOM
+MENTION	T46	20	50	20	52	the unfortunate wretch	PER	NOM
+MENTION	T142	20	58	20	60	the open country	LOC	NOM
+MENTION	T143	22	10	22	11	the fugitive	PER	NOM
+MENTION	T144	22	16	22	17	a woman	PER	NOM
+MENTION	T145	22	32	22	32	Bibot	PER	PROP
+MENTION	T146	22	19	22	60	some proud marchioness , who looked terribly comical when she found herself in Bibot 's clutches after all , and knew that a summary trial would await her the next day and after that , the fond embrace of Madame la Guillotine	PER	NOM
+MENTION	T48	23	12	23	12	Bibot	PER	PROP
+MENTION	T147	24	14	24	15	the crowd	PER	NOM
+MENTION	T148	24	37	24	38	another hundred	PER	NOM
+MENTION	T149	25	0	25	0	Bibot	PER	PROP
+MENTION	T55	27	38	27	38	traitors	PER	NOM
+MENTION	T56	28	20	28	24	the Committee of Public Safety	ORG	PROP
+MENTION	T150	28	33	28	34	Citoyen Foucquier-Tinville	PER	PROP
+MENTION	T151	29	0	29	0	Robespierre	PER	PROP
+MENTION	T61	29	25	29	28	at least fifty aristos	PER	NOM
+MENTION	T152	30	2	30	10	all the sergeants in command at the various barricades	PER	NOM
+MENTION	T153	32	17	32	18	the people	PER	NOM
+MENTION	T68	33	10	33	14	a whole family of aristos	PER	NOM
+MENTION	T70	34	9	34	49	a band of Englishmen , whose daring seemed to be unparalleled , and who , from sheer desire to meddle in what did not concern them , spent their spare time in snatching away lawful victims destined for Madame la Guillotine	PER	NOM
+MENTION	T47	35	12	35	16	this band of meddlesome Englishmen	PER	NOM
+MENTION	T72	38	0	38	1	Citoyen Foucquier-Tinville	PER	PROP
+MENTION	T74	38	42	38	43	the crowd	PER	NOM
+MENTION	T154	38	55	38	59	the Committee of Public Safety	ORG	PROP
+MENTION	T79	39	8	39	12	the band of meddlesome Englishmen	PER	NOM
+MENTION	T155	40	15	40	19	the Committee of Public Safety	ORG	PROP
+MENTION	T80	40	23	40	27	so many royalists and aristocrats	PER	NOM
+MENTION	T81	40	32	40	33	the coast	LOC	NOM
+MENTION	T156	42	16	42	21	the mysterious and elusive Scarlet Pimpernel	PER	PROP
+MENTION	T157	42	10	42	21	the man who laid hands on the mysterious and elusive Scarlet Pimpernel	PER	NOM
+MENTION	T89	43	6	43	7	that man	PER	NOM
+MENTION	T158	43	30	43	30	people	PER	NOM
+MENTION	T159	43	50	43	61	any fugitive aristo who perhaps might be accompanied by that mysterious Englishman	PER	NOM
+MENTION	T160	44	12	44	13	Citoyen Grospierre	PER	PROP
+MENTION	T161	45	7	45	9	that North Gate	FAC	NOM
+MENTION	T162	45	16	45	17	Citoyen Bibot	PER	PROP
+MENTION	T163	45	27	45	28	his comrade	PER	NOM
+MENTION	T164	47	1	47	1	Grospierre	PER	PROP
+MENTION	T165	47	13	47	13	Bibot	PER	PROP
+MENTION	T166	47	18	47	19	the crowd	PER	NOM
+MENTION	T167	48	10	48	13	this accursed Scarlet Pimpernel	PER	PROP
+MENTION	T168	52	0	52	2	The market carts	VEH	NOM
+MENTION	T169	53	0	53	0	Grospierre	PER	PROP
+MENTION	T170	53	34	53	35	the cart	VEH	NOM
+MENTION	T101	54	17	54	18	Citoyen Bibot	PER	PROP
+MENTION	T171	55	17	55	18	the guard	PER	NOM
+MENTION	T172	55	14	55	18	a captain of the guard	PER	NOM
+MENTION	T173	56	2	56	3	a cart	VEH	NOM
+MENTION	T174	57	3	57	3	Grospierre	PER	PROP
+MENTION	T175	58	5	58	5	Grospierre	PER	PROP
+MENTION	T176	60	10	60	11	citoyen sergeant	PER	NOM
+MENTION	T177	61	0	61	1	that cart	VEH	NOM
+MENTION	T106	61	10	61	12	all his family	PER	NOM
+MENTION	T178	63	1	63	1	Grospierre	PER	PROP
+MENTION	T112	69	1	69	2	a fool	PER	NOM
+MENTION	T69	20	39	20	40	the coast	LOC	NOM
+MENTION	T38	65	7	65	9	that cursed Englishman	PER	NOM
+MENTION	T109	65	11	65	13	the Scarlet Pimpernel	PER	PROP
+MENTION	T181	43	0	43	0	Everyone	PER	NOM
+MENTION	T182	43	19	43	19	everybody	PER	NOM
+MENTION	T183	37	0	37	1	No one	PER	NOM
+MENTION	T185	0	29	0	29	they	PER	PRON
+MENTION	T186	1	40	1	40	his	PER	PRON
+MENTION	T187	2	41	2	41	her	GPE	PRON
+MENTION	T188	6	0	6	0	They	PER	PRON
+MENTION	T189	6	11	6	11	them	PER	PRON
+MENTION	T190	6	40	6	40	her	GPE	PRON
+MENTION	T191	7	0	7	0	Their	PER	PRON
+MENTION	T192	7	9	7	9	them	PER	PRON
+MENTION	T193	7	15	7	15	their	PER	PRON
+MENTION	T194	7	32	7	32	their	PER	PRON
+MENTION	T195	7	38	7	38	their	PER	PRON
+MENTION	T196	7	42	7	42	they	PER	PRON
+MENTION	T197	10	7	10	7	his	PER	PRON
+MENTION	T198	10	12	10	12	him	PER	PRON
+MENTION	T199	10	56	10	56	their	PER	PRON
+MENTION	T200	10	63	10	63	they	PER	PRON
+MENTION	T201	11	1	11	1	they	PER	PRON
+MENTION	T202	13	8	13	8	they	PER	PRON
+MENTION	T203	14	81	14	81	themselves	PER	PRON
+MENTION	T204	15	1	15	1	they	PER	PRON
+MENTION	T205	17	4	17	4	his	PER	PRON
+MENTION	T206	17	16	17	16	him	PER	PRON
+MENTION	T207	19	23	19	23	him	PER	PRON
+MENTION	T208	20	4	20	4	his	PER	PRON
+MENTION	T209	20	13	20	13	him	PER	PRON
+MENTION	T210	20	25	20	25	he	PER	PRON
+MENTION	T211	20	63	20	63	he	PER	PRON
+MENTION	T212	20	69	20	69	him	PER	PRON
+MENTION	T213	20	72	20	72	him	PER	PRON
+MENTION	T214	20	77	20	77	his	PER	PRON
+MENTION	T215	22	28	22	28	she	PER	PRON
+MENTION	T216	22	30	22	30	herself	PER	PRON
+MENTION	T217	22	46	22	46	her	PER	PRON
+MENTION	T218	25	25	25	25	his	PER	PRON
+MENTION	T219	27	8	27	8	their	PER	PRON
+MENTION	T220	27	39	27	39	themselves	PER	PRON
+MENTION	T221	28	14	28	14	them	PER	PRON
+MENTION	T222	29	8	29	8	his	PER	PRON
+MENTION	T223	29	18	29	18	he	PER	PRON
+MENTION	T224	29	20	29	20	his	PER	PRON
+MENTION	T225	32	8	32	8	they	PER	PRON
+MENTION	T226	33	23	33	23	his	PER	PRON
+MENTION	T227	34	34	34	34	them	PER	PRON
+MENTION	T228	34	37	34	37	their	PER	PRON
+MENTION	T229	35	22	35	22	they	PER	PRON
+MENTION	T230	36	6	36	6	he	PER	PRON
+MENTION	T231	36	11	36	11	he	PER	PRON
+MENTION	T232	36	17	36	17	they	PER	PRON
+MENTION	T233	37	10	37	10	their	PER	PRON
+MENTION	T234	37	13	37	13	he	PER	PRON
+MENTION	T235	38	20	38	20	he	PER	PRON
+MENTION	T236	38	28	38	28	his	PER	PRON
+MENTION	T237	38	38	38	38	him	PER	PRON
+MENTION	T238	38	46	38	46	he	PER	PRON
+MENTION	T239	38	49	38	49	his	PER	PRON
+MENTION	T240	39	35	39	35	we	PER	PRON
+MENTION	T241	40	38	40	38	their	PER	PRON
+MENTION	T242	43	34	43	34	him	PER	PRON
+MENTION	T243	43	46	43	46	he	PER	PRON
+MENTION	T244	44	4	44	4	he	PER	PRON
+MENTION	T245	44	7	44	7	his	PER	PRON
+MENTION	T246	45	3	45	3	me	PER	PRON
+MENTION	T247	45	24	45	24	his	PER	PRON
+MENTION	T248	45	27	45	27	his	PER	PRON
+MENTION	T249	47	23	47	23	him	PER	PRON
+MENTION	T250	47	28	47	28	his	PER	PRON
+MENTION	T251	48	1	48	1	We	PER	PRON
+MENTION	T252	49	0	49	0	He	PER	PRON
+MENTION	T253	49	5	49	5	MY	PER	PRON
+MENTION	T254	50	1	50	1	he	PER	PRON
+MENTION	T255	50	5	50	5	himself	PER	PRON
+MENTION	T256	52	27	52	27	him	PER	PRON
+MENTION	T257	53	7	53	7	he	PER	PRON
+MENTION	T258	53	9	53	9	himself	PER	PRON
+MENTION	T259	53	13	53	13	he	PER	PRON
+MENTION	T262	55	27	55	27	him	PER	PRON
+MENTION	T263	57	0	57	0	he	PER	PRON
+MENTION	T264	59	2	59	2	you	PER	PRON
+MENTION	T265	59	5	59	5	them	PER	PRON
+MENTION	T266	60	1	60	1	You	PER	PRON
+MENTION	T267	61	11	61	11	his	PER	PRON
+MENTION	T268	67	5	67	5	his	PER	PRON
+MENTION	T272	46	6	46	6	citoyen	PER	NOM
+COREF	T113	PARIS-0
+COREF	T115	A_surging___seething___murmuring_crowd_of_beings_that_are_human_only_in_name___for_to_the_eye_and_ear_they_seem_naught_but_savage_creatures___animated_by_vile_passions_and_by_the_lust_of_vengeance_and_of_hate-1
+COREF	T185	A_surging___seething___murmuring_crowd_of_beings_that_are_human_only_in_name___for_to_the_eye_and_ear_they_seem_naught_but_savage_creatures___animated_by_vile_passions_and_by_the_lust_of_vengeance_and_of_hate-1
+COREF	T186	a_proud_tyrant-2
+COREF	T2	France-3
+COREF	T187	France-3
+COREF	T116	the_people-4
+COREF	T4	the_Place_de_la_Greve-5
+COREF	T5	aristocrats-6
+COREF	T188	aristocrats-6
+COREF	T3	the_crowd-7
+COREF	T117	the_people-4
+COREF	T189	aristocrats-6
+COREF	T122	men___women___and_children___who_happened_to_be_descendants_of_the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-8
+COREF	T120	descendants_of_the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-9
+COREF	T119	the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-10
+COREF	T7	France-3
+COREF	T121	the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-10
+COREF	T190	France-3
+COREF	T8	Their_ancestors-11
+COREF	T191	aristocrats-6
+COREF	T123	the_people-4
+COREF	T192	the_people-4
+COREF	T193	aristocrats-6
+COREF	T124	the_people-4
+COREF	T10	the_rulers_of_France-12
+COREF	T11	France-3
+COREF	T9	aristocrats-6
+COREF	T194	the_people-4
+COREF	T195	the_people-4
+COREF	T196	the_people-4
+COREF	T125	its_many_victims-13
+COREF	T126	old_men-14
+COREF	T14	young_women-15
+COREF	T15	tiny_children-16
+COREF	T13	a_King-17
+COREF	T12	a_beautiful_young_Queen-18
+COREF	T127	the_people-4
+COREF	T16	the_rulers_of_France-12
+COREF	T17	France-3
+COREF	T18	Every_aristocrat-19
+COREF	T19	his_ancestors-20
+COREF	T198	Every_aristocrat-19
+COREF	T128	the_people-4
+COREF	T129	those_who_had_helped_to_make_those_courts_brilliant-22
+COREF	T131	the_people-4
+COREF	T132	the_market_carts-23
+COREF	T22	some_fool_of_an_aristo-24
+COREF	T21	an_aristo-25
+COREF	T133	the_Committee_of_Public_Safety-26
+COREF	T130	aristocrats-6
+COREF	T199	aristocrats-6
+COREF	T200	aristocrats-6
+COREF	T201	aristocrats-6
+COREF	T202	aristocrats-6
+COREF	T23	citizen_soldiers_of_the_Republic-27
+COREF	T24	the_Republic-28
+COREF	T135	Men_in_women__s_clothes-29
+COREF	T134	women-30
+COREF	T136	women_in_male_attire-31
+COREF	T28	children_disguised_in_beggars___rags-32
+COREF	T30	beggars-33
+COREF	T139	CI-DEVANT_counts___marquises___even_dukes___who_wanted_to_fly_from_France___reach_England_or_some_other_equally_accursed_country___and_there_try_to_rouse_foreign_feelings_against_the_glorious_Revolution___or_to_raise_an_army_in_order_to_liberate_the_wretched_prisoners_in_the_Temple___who_had_once_called_themselves_sovereigns_of_France-34
+COREF	T25	France-3
+COREF	T27	England-35
+COREF	T137	an_army-36
+COREF	T26	the_wretched_prisoners_in_the_Temple___who_had_once_called_themselves_sovereigns_of_France-37
+COREF	T138	the_Temple-38
+COREF	T203	the_wretched_prisoners_in_the_Temple___who_had_once_called_themselves_sovereigns_of_France-37
+COREF	T29	sovereigns_of_France-39
+COREF	T31	France-3
+COREF	T204	aristocrats-6
+COREF	T32	Sergeant_Bibot-40
+COREF	T34	the_West_Gate-41
+COREF	T33	an_aristo_in_the_most_perfect_disguise-42
+COREF	T140	Sergeant_Bibot-40
+COREF	T35	his_prey-43
+COREF	T205	Sergeant_Bibot-40
+COREF	T206	his_prey-43
+COREF	T36	a_CI-DEVANT_noble_marquise_or_count-44
+COREF	T39	Sergeant_Bibot-40
+COREF	T207	Sergeant_Bibot-40
+COREF	T37	an_aristo-45
+COREF	T141	the_people-4
+COREF	T44	Sergeant_Bibot-40
+COREF	T42	his_prey-43
+COREF	T208	Sergeant_Bibot-40
+COREF	T209	his_prey-43
+COREF	T210	his_prey-43
+COREF	T45	PARIS-0
+COREF	T69	the_coast-46
+COREF	T43	England-35
+COREF	T41	Sergeant_Bibot-40
+COREF	T46	his_prey-43
+COREF	T142	the_open_country-47
+COREF	T211	Sergeant_Bibot-40
+COREF	T40	two_men-48
+COREF	T212	his_prey-43
+COREF	T213	his_prey-43
+COREF	T214	his_prey-43
+COREF	T143	his_prey-43
+COREF	T144	a_woman-49
+COREF	T215	a_woman-49
+COREF	T216	a_woman-49
+COREF	T145	Sergeant_Bibot-40
+COREF	T217	a_woman-49
+COREF	T48	Sergeant_Bibot-40
+COREF	T147	the_crowd-50
+COREF	T148	another_hundred-51
+COREF	T149	Sergeant_Bibot-40
+COREF	T49	citoyen_soldiers-52
+COREF	T218	Sergeant_Bibot-40
+COREF	T52	aristocrats-6
+COREF	T219	aristocrats-6
+COREF	T53	PARIS-0
+COREF	T54	those_traitorous_Bourbons-56
+COREF	T220	aristocrats-6
+COREF	T57	Sergeant_Bibot-40
+COREF	T59	some_fugitive_royalists-57
+COREF	T221	some_fugitive_royalists-57
+COREF	T56	the_Committee_of_Public_Safety-26
+COREF	T58	Focquier-Tinville-58
+COREF	T151	Robespierre-59
+COREF	T60	Danton-60
+COREF	T63	Sergeant_Bibot-40
+COREF	T222	Sergeant_Bibot-40
+COREF	T62	Sergeant_Bibot-40
+COREF	T223	Sergeant_Bibot-40
+COREF	T224	Sergeant_Bibot-40
+COREF	T61	at_least_fifty_aristos-61
+COREF	T152	all_the_sergeants_in_command_at_the_various_barricades-62
+COREF	T66	aristos-63
+COREF	T65	France-3
+COREF	T64	England-35
+COREF	T225	aristos-63
+COREF	T153	the_people-4
+COREF	T67	Sergeant_Grospierre-64
+COREF	T68	a_whole_family_of_aristos-65
+COREF	T226	Sergeant_Grospierre-64
+COREF	T70	League_of_the_Scarlet_Pimpernel-66
+COREF	T227	League_of_the_Scarlet_Pimpernel-66
+COREF	T228	League_of_the_Scarlet_Pimpernel-66
+COREF	T71	aristocrats-6
+COREF	T47	League_of_the_Scarlet_Pimpernel-66
+COREF	T229	League_of_the_Scarlet_Pimpernel-66
+COREF	T73	Scarlet_Pimpernel-68
+COREF	T230	Scarlet_Pimpernel-68
+COREF	T75	those_aristos_whom_he_rescued-69
+COREF	T231	Scarlet_Pimpernel-68
+COREF	T232	those_aristos_whom_he_rescued-69
+COREF	T183	No_one-70
+COREF	T77	League_of_the_Scarlet_Pimpernel-66
+COREF	T76	Scarlet_Pimpernel-68
+COREF	T233	League_of_the_Scarlet_Pimpernel-66
+COREF	T234	Scarlet_Pimpernel-68
+COREF	T72	Focquier-Tinville-58
+COREF	T235	Focquier-Tinville-58
+COREF	T236	Focquier-Tinville-58
+COREF	T237	Focquier-Tinville-58
+COREF	T74	the_crowd-71
+COREF	T238	Focquier-Tinville-58
+COREF	T239	Focquier-Tinville-58
+COREF	T154	the_Committee_of_Public_Safety-26
+COREF	T79	League_of_the_Scarlet_Pimpernel-66
+COREF	T240	we-72
+COREF	T78	England-35
+COREF	T83	the_citoyens_of_the_Committee_of_Public_Safety-73
+COREF	T155	the_Committee_of_Public_Safety-26
+COREF	T80	so_many_royalists_and_aristocrats-74
+COREF	T81	the_coast-46
+COREF	T241	so_many_royalists_and_aristocrats-74
+COREF	T82	England-35
+COREF	T84	The_guards_at_the_gates-75
+COREF	T85	the_sergeants_in_command-76
+COREF	T86	League_of_the_Scarlet_Pimpernel-66
+COREF	T157	the_man_who_laid_hands_on_the_mysterious_and_elusive_Scarlet_Pimpernel-77
+COREF	T156	Scarlet_Pimpernel-68
+COREF	T181	Everyone-78
+COREF	T87	Sergeant_Bibot-40
+COREF	T89	that_man-79
+COREF	T90	Sergeant_Bibot-40
+COREF	T182	everybody-80
+COREF	T158	people-81
+COREF	T242	Sergeant_Bibot-40
+COREF	T243	Sergeant_Bibot-40
+COREF	T159	any_fugitive_aristo_who_perhaps_might_be_accompanied_by_that_mysterious_Englishman-84
+COREF	T91	Scarlet_Pimpernel-68
+COREF	T244	Sergeant_Bibot-40
+COREF	T92	his_trusted_corporal-85
+COREF	T245	Sergeant_Bibot-40
+COREF	T197	Sergeant_Bibot-40
+COREF	T1	Robespierre-59
+COREF	T88	the_West_Gate-41
+COREF	T160	Sergeant_Grospierre-64
+COREF	T246	Sergeant_Bibot-40
+COREF	T161	North_Gate-82
+COREF	T162	Sergeant_Bibot-40
+COREF	T247	Sergeant_Bibot-40
+COREF	T163	Sergeant_Grospierre-64
+COREF	T248	Sergeant_Bibot-40
+COREF	T272	Sergeant_Bibot-40
+COREF	T94	his_trusted_corporal-85
+COREF	T164	Sergeant_Grospierre-64
+COREF	T165	Sergeant_Bibot-40
+COREF	T166	the_crowd-88
+COREF	T249	Sergeant_Bibot-40
+COREF	T250	Sergeant_Bibot-40
+COREF	T251	We-89
+COREF	T95	Scarlet_Pimpernel-68
+COREF	T252	Scarlet_Pimpernel-68
+COREF	T253	Sergeant_Bibot-40
+COREF	T254	Scarlet_Pimpernel-68
+COREF	T96	the_devil_himself-90
+COREF	T255	himself-91
+COREF	T97	Sergeant_Grospierre-64
+COREF	T98	a_fool-92
+COREF	T168	The_market_carts-93
+COREF	T100	an_old_man-94
+COREF	T99	a_boy_beside_him-95
+COREF	T256	an_old_man-94
+COREF	T169	Sergeant_Grospierre-64
+COREF	T257	Sergeant_Grospierre-64
+COREF	T258	Sergeant_Grospierre-64
+COREF	T259	Sergeant_Grospierre-64
+COREF	T170	the_cart-96
+COREF	T102	ill-clad_wretches___who_crowded_round_Citoyen_Bibot-97
+COREF	T101	Sergeant_Bibot-40
+COREF	T103	Sergeant_Bibot-40
+COREF	T172	a_captain_of_the_guard-98
+COREF	T171	the_guard-99
+COREF	T104	some_dozen_soldiers_with_him-100
+COREF	T262	a_captain_of_the_guard-98
+COREF	T173	a_cart-101
+COREF	T263	a_captain_of_the_guard-98
+COREF	T174	Sergeant_Grospierre-64
+COREF	T175	Sergeant_Grospierre-64
+COREF	T264	a_captain_of_the_guard-98
+COREF	T265	them-102
+COREF	T105	a_captain_of_the_guard-98
+COREF	T266	Sergeant_Grospierre-64
+COREF	T176	Sergeant_Grospierre-64
+COREF	T177	a_cart-101
+COREF	T107	the_CI-DEVANT_Duc_de_Chalis-103
+COREF	T106	all_his_family-104
+COREF	T267	the_CI-DEVANT_Duc_de_Chalis-103
+COREF	T178	Sergeant_Grospierre-64
+COREF	T108	Scarlet_Pimpernel-68
+COREF	T38	Scarlet_Pimpernel-68
+COREF	T110	Sergeant_Grospierre-64
+COREF	T268	Sergeant_Grospierre-64
+COREF	T111	Sergeant_Grospierre-64
+COREF	T112	Sergeant_Grospierre-64
+COP	T114	T185
+COP	T6	T5
+COP	T118	T188
+COP	T20	T18
+APPOS	T146	T144
+COP	T55	T179
+APPOS	T150	T58
+COP	T93	T160
+APPOS	T167	T95
+APPOS	T109	T38
+MENTION	T180	27	22	27	23	whose ancestors	PER	NOM
+COREF	T180	ancestors-55
+MENTION	T179	27	16	27	34	men , women and children , whose ancestors , even in remote ages , had served those traitorous Bourbons	PER	NOM
+COREF	T179	aristocrats-6
+MENTION	T50	14	43	14	47	some other equally accursed country	GPE	NOM
+COREF	T50	some_other_equally_a-700

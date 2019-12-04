@@ -1,0 +1,466 @@
+MENTION	T3	6	0	6	3	The Director of Companies	PER	NOM
+MENTION	T4	9	7	9	8	a seaman	PER	NOM
+MENTION	T5	13	6	13	7	old fellows	PER	NOM
+MENTION	T6	14	0	14	1	The Accountant	PER	NOM
+MENTION	T8	15	0	15	0	Marlow	PER	PROP
+MENTION	T9	17	0	17	1	The director	PER	NOM
+MENTION	T14	24	9	24	11	the upper reaches	LOC	NOM
+MENTION	T18	29	29	29	34	the great spirit of the past	PER	NOM
+MENTION	T20	30	26	30	26	home	FAC	NOM
+MENTION	T21	30	16	30	16	men	PER	NOM
+MENTION	T28	31	20	31	22	Sir John Franklin	PER	PROP
+MENTION	T33	32	37	32	40	the Queen 's Highness	PER	NOM
+MENTION	T37	34	12	34	13	the adventurers	PER	NOM
+MENTION	T38	34	18	34	18	kings	PER	NOM
+MENTION	T41	35	26	35	32	messengers of the might within the land	PER	NOM
+MENTION	T42	35	34	35	41	bearers of a spark from the sacred fire	PER	NOM
+MENTION	T43	35	4	35	4	pursuers	PER	NOM
+MENTION	T44	35	0	35	0	Hunters	PER	NOM
+MENTION	T45	37	14	37	14	empires	FAC	NOM
+MENTION	T46	37	4	37	4	men	PER	NOM
+MENTION	T47	37	9	37	9	commonwealths	FAC	NOM
+MENTION	T49	40	5	40	6	the fairway	FAC	NOM
+MENTION	T50	41	7	41	12	the place of the monstrous town	LOC	NOM
+MENTION	T51	41	10	41	12	the monstrous town	GPE	NOM
+MENTION	T52	42	15	42	20	the dark places of the earth	LOC	NOM
+MENTION	T56	46	9	46	10	their home	FAC	NOM
+MENTION	T58	48	43	48	44	a seaman	PER	NOM
+MENTION	T59	51	1	51	1	Marlow	PER	PROP
+MENTION	T61	55	27	55	28	the Romans	PER	NOM
+MENTION	T62	56	10	56	10	Knights	PER	PROP
+MENTION	T66	61	9	61	10	the north	LOC	NOM
+MENTION	T67	61	15	61	16	the Gauls	PER	PROP
+MENTION	T68	63	15	63	17	a civilized man	PER	NOM
+MENTION	T71	70	29	70	29	Rome	GPE	PROP
+MENTION	T72	70	18	70	18	Ravenna	GPE	PROP
+MENTION	T73	71	26	71	27	some prefect	PER	NOM
+MENTION	T74	71	33	71	33	trader	PER	NOM
+MENTION	T75	72	49	72	50	wild men	PER	NOM
+MENTION	T77	72	42	72	43	the jungles	LOC	NOM
+MENTION	T78	0	1	0	2	The Nellie	VEH	PROP
+MENTION	T79	0	4	0	6	a cruising yawl	VEH	NOM
+MENTION	T80	1	15	1	16	the river	LOC	NOM
+MENTION	T81	2	3	2	4	the Thames	LOC	PROP
+MENTION	T82	2	12	2	14	an interminable waterway	LOC	NOM
+MENTION	T83	3	3	3	4	the sea	LOC	NOM
+MENTION	T84	4	11	4	11	sea	LOC	NOM
+MENTION	T88	5	5	5	5	Gravesend	GPE	PROP
+MENTION	T1	5	21	5	30	the biggest , and the greatest , town on earth	GPE	NOM
+MENTION	T2	6	5	6	6	our captain	PER	NOM
+MENTION	T89	6	8	6	9	our host	PER	NOM
+MENTION	T91	9	2	9	3	a pilot	PER	NOM
+MENTION	T92	8	1	8	3	the whole river	LOC	NOM
+MENTION	T93	10	12	10	14	the luminous estuary	LOC	NOM
+MENTION	T95	11	15	11	16	the sea	LOC	NOM
+MENTION	T96	13	0	13	1	The Lawyer	PER	NOM
+MENTION	T97	13	3	13	7	the best of old fellows	PER	NOM
+MENTION	T98	13	24	13	24	deck	FAC	NOM
+MENTION	T7	19	6	19	7	the yacht	VEH	NOM
+MENTION	T99	16	31	16	32	an idol	PER	NOM
+MENTION	T12	23	24	23	26	the Essex marsh	LOC	NOM
+MENTION	T13	3	24	3	25	the barges	VEH	NOM
+MENTION	T16	7	0	7	1	We four	PER	NOM
+MENTION	T103	12	2	12	3	our hearts	PER	NOM
+MENTION	T10	23	44	23	46	the low shores	LOC	NOM
+MENTION	T11	23	37	23	40	the wooded rises inland	LOC	NOM
+MENTION	T15	25	50	25	53	a crowd of men	PER	NOM
+MENTION	T105	26	5	26	6	the waters	LOC	NOM
+MENTION	T106	27	0	27	6	The old river in its broad reach	LOC	NOM
+MENTION	T107	27	44	27	45	the earth	LOC	NOM
+MENTION	T109	27	22	27	27	the race that peopled its banks	PER	NOM
+MENTION	T110	27	36	27	45	a waterway leading to the uttermost ends of the earth	LOC	NOM
+MENTION	T111	28	3	28	5	the venerable stream	LOC	NOM
+MENTION	T17	29	6	29	24	a man who has , as the phrase goes , “ followed the sea ” with reverence and affection	PER	NOM
+MENTION	T112	29	40	29	41	the Thames	LOC	PROP
+MENTION	T19	29	36	29	41	the lower reaches of the Thames	LOC	NOM
+MENTION	T113	30	18	30	18	ships	VEH	NOM
+MENTION	T22	29	18	29	19	the sea	LOC	NOM
+MENTION	T114	30	32	30	33	the sea	LOC	NOM
+MENTION	T115	31	6	31	7	the men	PER	NOM
+MENTION	T116	31	10	31	11	the nation	GPE	NOM
+MENTION	T23	31	16	31	18	Sir Francis Drake	PER	PROP
+MENTION	T24	31	31	31	36	the great knights-errant of the sea	PER	NOM
+MENTION	T25	31	35	31	36	the sea	LOC	NOM
+MENTION	T26	31	24	31	29	knights all , titled and untitled	PER	NOM
+MENTION	T27	32	4	32	5	the ships	VEH	NOM
+MENTION	T29	32	19	32	23	the _ Golden Hind _	VEH	NOM
+MENTION	T30	32	51	32	58	the _ Erebus _ and _ Terror _	VEH	NOM
+MENTION	T32	33	3	33	4	the ships	VEH	NOM
+MENTION	T34	33	6	33	7	the men	PER	NOM
+MENTION	T117	34	4	34	4	Deptford	GPE	PROP
+MENTION	T118	34	7	34	7	Greenwich	GPE	PROP
+MENTION	T119	34	10	34	10	Erith	GPE	PROP
+MENTION	T120	34	15	34	16	the settlers	PER	NOM
+MENTION	T36	34	18	34	20	kings ' ships	VEH	NOM
+MENTION	T39	34	25	34	28	men on ' Change	PER	NOM
+MENTION	T121	34	22	34	28	the ships of men on ' Change	VEH	NOM
+MENTION	T122	34	30	34	30	captains	PER	NOM
+MENTION	T123	34	32	34	32	admirals	PER	NOM
+MENTION	T124	34	34	34	42	the dark “ interlopers ” of the Eastern trade	PER	NOM
+MENTION	T125	34	45	34	53	the commissioned “ generals ” of East India fleets	PER	NOM
+MENTION	T35	34	51	34	53	East India fleets	VEH	PROP
+MENTION	T40	34	51	34	52	East India	LOC	PROP
+MENTION	T126	35	14	35	15	that stream	LOC	NOM
+MENTION	T127	35	31	35	32	the land	LOC	NOM
+MENTION	T128	36	9	36	10	that river	LOC	NOM
+MENTION	T129	36	15	36	17	an unknown earth	LOC	NOM
+MENTION	T130	38	8	38	9	the stream	LOC	NOM
+MENTION	T131	38	17	38	18	the shore	LOC	NOM
+MENTION	T48	39	0	39	2	The Chapman light-house	FAC	NOM
+MENTION	T132	39	4	39	10	a three-legged thing erect on a mud-flat	FAC	NOM
+MENTION	T133	39	9	39	10	a mud-flat	LOC	NOM
+MENTION	T134	40	2	40	2	ships	VEH	NOM
+MENTION	T135	41	4	41	6	the upper reaches	LOC	NOM
+MENTION	T136	41	21	41	25	a brooding gloom in sunshine	LOC	NOM
+MENTION	T53	42	7	42	7	Marlow	PER	PROP
+MENTION	T137	42	19	42	20	the earth	LOC	NOM
+MENTION	T139	43	11	43	12	the sea	LOC	NOM
+MENTION	T140	44	14	44	15	his class	PER	NOM
+MENTION	T54	45	2	45	3	a seaman	PER	NOM
+MENTION	T55	45	8	45	9	a wanderer	PER	NOM
+MENTION	T141	45	15	45	15	seamen	PER	NOM
+MENTION	T143	46	16	46	17	the ship	VEH	NOM
+MENTION	T145	46	25	46	26	the sea	LOC	NOM
+MENTION	T146	47	0	47	1	One ship	VEH	NOM
+MENTION	T147	47	9	47	10	the sea	LOC	NOM
+MENTION	T148	48	48	48	49	the sea	LOC	NOM
+MENTION	T57	48	6	48	8	the foreign shores	LOC	NOM
+MENTION	T149	48	10	48	12	the foreign faces	PER	NOM
+MENTION	T150	49	18	49	18	shore	LOC	NOM
+MENTION	T151	50	3	50	3	seamen	PER	NOM
+MENTION	T60	53	4	53	4	Marlow	PER	PROP
+MENTION	T152	56	4	56	5	this river	LOC	NOM
+MENTION	T153	57	10	57	11	a plain	LOC	NOM
+MENTION	T154	58	12	58	14	the old earth	LOC	NOM
+MENTION	T64	61	3	61	4	the Mediterranean	LOC	PROP
+MENTION	T155	61	32	61	37	a wonderful lot of handy men	PER	NOM
+MENTION	T65	62	2	62	2	here	LOC	NOM
+MENTION	T156	62	4	62	9	the very end of the world	LOC	NOM
+MENTION	T157	62	11	62	16	a sea the colour of lead	LOC	NOM
+MENTION	T159	62	25	62	34	a kind of ship about as rigid as a concertina	VEH	NOM
+MENTION	T160	62	39	62	40	this river	LOC	NOM
+MENTION	T161	63	0	63	0	Sand-banks	LOC	PROP
+MENTION	T162	63	2	63	2	marshes	LOC	NOM
+MENTION	T163	63	4	63	4	forests	LOC	NOM
+MENTION	T164	63	6	63	6	savages	PER	NOM
+MENTION	T165	63	21	63	21	Thames	LOC	PROP
+MENTION	T166	64	7	64	7	ashore	LOC	NOM
+MENTION	T167	65	3	65	5	a military camp	PER	NOM
+MENTION	T168	65	8	65	9	a wilderness	LOC	NOM
+MENTION	T169	70	26	70	29	good friends in Rome	PER	NOM
+MENTION	T70	71	3	71	9	a decent young citizen in a toga	PER	NOM
+MENTION	T170	71	30	71	30	tax-gatherer	PER	NOM
+MENTION	T76	72	2	72	3	a swamp	LOC	NOM
+MENTION	T171	72	7	72	8	the woods	LOC	NOM
+MENTION	T172	72	12	72	14	some inland post	FAC	NOM
+MENTION	T173	72	38	72	39	the forest	LOC	NOM
+MENTION	T175	61	27	61	28	these craft	VEH	NOM
+MENTION	T63	43	2	43	14	the only man of us who still “ followed the sea . ”	PER	NOM
+MENTION	T85	23	1	23	1	water	LOC	NOM
+MENTION	T86	5	30	5	30	earth	LOC	NOM
+MENTION	T178	55	0	55	1	No one	PER	NOM
+MENTION	T87	10	10	10	10	there	LOC	NOM
+MENTION	T180	0	10	0	10	her	VEH	PRON
+MENTION	T181	2	7	2	7	us	PER	PRON
+MENTION	T182	6	5	6	5	our	PER	PRON
+MENTION	T183	6	8	6	8	our	PER	PRON
+MENTION	T184	7	0	7	0	We	PER	PRON
+MENTION	T185	7	4	7	4	his	PER	PRON
+MENTION	T186	7	7	7	7	he	PER	PRON
+MENTION	T187	9	0	9	0	He	PER	PRON
+MENTION	T188	10	5	10	5	his	PER	PRON
+MENTION	T189	10	18	10	18	him	PER	PRON
+MENTION	T190	11	1	11	1	us	PER	PRON
+MENTION	T191	11	6	11	6	I	PER	PRON
+MENTION	T192	12	2	12	2	our	PER	PRON
+MENTION	T193	12	17	12	17	us	PER	PRON
+MENTION	T194	13	13	13	13	his	PER	PRON
+MENTION	T195	16	0	16	0	He	PER	PRON
+MENTION	T196	16	20	16	20	his	PER	PRON
+MENTION	T197	17	11	17	11	his	PER	PRON
+MENTION	T198	17	18	17	18	us	PER	PRON
+MENTION	T199	18	0	18	0	We	PER	PRON
+MENTION	T200	20	5	20	5	we	PER	PRON
+MENTION	T201	21	0	21	0	We	PER	PRON
+MENTION	T202	28	0	28	0	We	PER	PRON
+MENTION	T203	32	26	32	26	her	VEH	PRON
+MENTION	T204	34	0	34	0	They	PER	PRON
+MENTION	T205	35	8	35	8	they	PER	PRON
+MENTION	T206	43	0	43	0	He	PER	PRON
+MENTION	T207	43	6	43	6	us	PER	PRON
+MENTION	T208	44	7	44	7	him	PER	PRON
+MENTION	T209	44	10	44	10	he	PER	PRON
+MENTION	T210	44	14	44	14	his	PER	PRON
+MENTION	T211	45	0	45	0	He	PER	PRON
+MENTION	T212	45	6	45	6	he	PER	PRON
+MENTION	T213	46	0	46	0	Their	PER	PRON
+MENTION	T214	46	9	46	9	their	PER	PRON
+MENTION	T215	46	14	46	14	them	PER	PRON
+MENTION	T216	46	22	46	22	their	PER	PRON
+MENTION	T217	48	4	48	4	their	PER	PRON
+MENTION	T218	48	57	48	57	his	PER	PRON
+MENTION	T219	49	5	49	5	his	PER	PRON
+MENTION	T220	49	23	49	23	him	PER	PRON
+MENTION	T221	49	33	49	33	he	PER	PRON
+MENTION	T222	51	7	51	7	his	PER	PRON
+MENTION	T223	51	18	51	18	him	PER	PRON
+MENTION	T224	52	0	52	0	His	PER	PRON
+MENTION	T225	55	11	55	11	he	PER	PRON
+MENTION	T226	55	18	55	18	I	PER	PRON
+MENTION	T227	56	8	56	8	you	PER	PRON
+MENTION	T228	58	0	58	0	We	PER	PRON
+MENTION	T229	61	38	61	38	they	PER	PRON
+MENTION	T230	61	61	61	61	we	PER	PRON
+MENTION	T231	61	65	61	65	we	PER	PRON
+MENTION	T232	62	1	62	1	him	PER	PRON
+MENTION	T233	62	49	62	49	you	PER	PRON
+MENTION	T234	66	0	66	0	They	PER	PRON
+MENTION	T235	67	4	67	4	he	PER	PRON
+MENTION	T236	68	24	68	24	he	PER	PRON
+MENTION	T237	68	29	68	29	his	PER	PRON
+MENTION	T238	69	0	69	0	They	PER	PRON
+MENTION	T239	70	2	70	2	he	PER	PRON
+MENTION	T240	70	7	70	7	his	PER	PRON
+MENTION	T241	70	24	70	24	he	PER	PRON
+MENTION	T242	71	16	71	16	you	PER	PRON
+MENTION	T243	71	38	71	38	his	PER	PRON
+MENTION	T244	72	26	72	26	him	PER	PRON
+MENTION	T245	74	0	74	0	He	PER	PRON
+MENTION	T246	75	13	75	13	him	PER	PRON
+MENTION	T247	76	6	76	6	you	PER	PRON
+MENTION	T248	61	30	61	30	legionaries	PER	NOM
+COREF	T78	The_Nellie-0
+COREF	T180	The_Nellie-0
+COREF	T80	Thames-1
+COREF	T81	Thames-1
+COREF	T181	group-2
+COREF	T82	an_interminable_waterway-3
+COREF	T83	the_sea-4
+COREF	T13	the_barges-5
+COREF	T84	the_sea-4
+COREF	T88	Gravesend-6
+COREF	T1	the_biggest___and_the_greatest___town_on_earth-7
+COREF	T86	earth-8
+COREF	T3	captain-9
+COREF	T182	group-2
+COREF	T183	group-2
+COREF	T16	group-2
+COREF	T184	group-2
+COREF	T185	captain-9
+COREF	T186	captain-9
+COREF	T92	Thames-1
+COREF	T187	captain-9
+COREF	T91	a_pilot-10
+COREF	T4	a_seaman-11
+COREF	T188	captain-9
+COREF	T93	the_luminous_estuary-13
+COREF	T87	the_luminous_estuary-13
+COREF	T189	captain-9
+COREF	T190	group-2
+COREF	T191	I-14
+COREF	T95	the_sea-4
+COREF	T103	group-2
+COREF	T192	group-2
+COREF	T193	group-2
+COREF	T96	The_Lawyer-15
+COREF	T5	old_fellows-16
+COREF	T194	The_Lawyer-15
+COREF	T98	deck-17
+COREF	T6	The_Accountant-18
+COREF	T8	Marlow-19
+COREF	T195	Marlow-19
+COREF	T196	Marlow-19
+COREF	T99	an_idol-20
+COREF	T9	captain-9
+COREF	T198	group-2
+COREF	T199	group-2
+COREF	T7	The_Nellie-0
+COREF	T200	group-2
+COREF	T201	group-2
+COREF	T85	water-21
+COREF	T12	the_Essex_marsh-22
+COREF	T11	the_wooded_rises_inland-23
+COREF	T10	the_low_shores-24
+COREF	T14	the_upper_reaches-25
+COREF	T15	a_crowd_of_men-26
+COREF	T105	water-21
+COREF	T106	Thames-1
+COREF	T109	the_race_that_peopled_its_banks-27
+COREF	T110	Thames-1
+COREF	T107	earth-8
+COREF	T202	group-2
+COREF	T111	Thames-1
+COREF	T17	a_man_who_has___as_the_phrase_goes_____followed_the_sea___with_reverence_and_affection-28
+COREF	T22	the_sea-4
+COREF	T18	the_great_spirit_of_the_past-29
+COREF	T19	the_low_shores-24
+COREF	T112	Thames-1
+COREF	T21	men-30
+COREF	T113	ships-31
+COREF	T20	home-32
+COREF	T114	the_sea-4
+COREF	T115	the_men-33
+COREF	T116	the_nation-34
+COREF	T23	Sir_Francis_Drake-35
+COREF	T28	Sir_John_Franklin-36
+COREF	T26	knights_all___titled_and_untitled-37
+COREF	T25	the_sea-4
+COREF	T27	the_ships-38
+COREF	T29	the___Golden_Hind__-39
+COREF	T203	the___Golden_Hind__-39
+COREF	T33	the_Queen__s_Highness-40
+COREF	T30	the___Erebus___and___Terror__-41
+COREF	T32	the_ships-42
+COREF	T34	the_men-43
+COREF	T204	the_men-43
+COREF	T117	Deptford-44
+COREF	T118	Greenwich-45
+COREF	T119	Erith-46
+COREF	T37	the_adventurers-47
+COREF	T120	the_settlers-48
+COREF	T38	kings-49
+COREF	T36	kings___ships-50
+COREF	T121	the_ships_of_men_on___Change-51
+COREF	T39	men_on___Change-52
+COREF	T122	captains-53
+COREF	T123	admirals-54
+COREF	T124	the_dark___interlopers___of_the_Eastern_trade-55
+COREF	T125	the_commissioned___generals___of_East_India_fleets-56
+COREF	T35	East_India_fleets-57
+COREF	T40	East_India-58
+COREF	T44	Hunters-59
+COREF	T43	pursuers-60
+COREF	T205	they-61
+COREF	T126	Thames-1
+COREF	T41	they-61
+COREF	T127	the_land-803
+COREF	T42	they-61
+COREF	T128	Thames-1
+COREF	T129	an_unknown_earth-62
+COREF	T46	men-63
+COREF	T47	commonwealths-64
+COREF	T45	empires-65
+COREF	T130	Thames-1
+COREF	T131	the_shore-66
+COREF	T48	The_Chapman_light-house-67
+COREF	T133	a_mud-flat-68
+COREF	T134	ships-69
+COREF	T49	the_fairway-70
+COREF	T135	the_upper_reaches-25
+COREF	T50	the_place_of_the_monstrous_town-71
+COREF	T51	the_biggest___and_the_greatest___town_on_earth-7
+COREF	T136	the_place_of_the_monstrous_town-71
+COREF	T53	Marlow-19
+COREF	T52	the_dark_places_of_the_earth-72
+COREF	T137	earth-8
+COREF	T206	Marlow-19
+COREF	T207	group-2
+COREF	T139	the_sea-4
+COREF	T208	Marlow-19
+COREF	T209	Marlow-19
+COREF	T140	his_class-73
+COREF	T210	Marlow-19
+COREF	T211	Marlow-19
+COREF	T212	Marlow-19
+COREF	T141	seamen-74
+COREF	T213	seamen-74
+COREF	T56	their_home-75
+COREF	T214	seamen-74
+COREF	T215	seamen-74
+COREF	T143	the_ship-76
+COREF	T216	seamen-74
+COREF	T145	the_sea-4
+COREF	T146	One_ship-77
+COREF	T147	the_sea-4
+COREF	T217	seamen-74
+COREF	T57	the_foreign_shores-78
+COREF	T149	the_foreign_faces-79
+COREF	T148	the_sea-4
+COREF	T58	a_seaman-80
+COREF	T218	a_seaman-80
+COREF	T219	a_seaman-80
+COREF	T150	shore-81
+COREF	T220	a_seaman-80
+COREF	T221	a_seaman-80
+COREF	T151	seamen-74
+COREF	T59	Marlow-19
+COREF	T222	Marlow-19
+COREF	T223	Marlow-19
+COREF	T224	Marlow-19
+COREF	T60	Marlow-19
+COREF	T178	No_one-100000
+COREF	T225	Marlow-19
+COREF	T226	Marlow-19
+COREF	T61	the_Romans-82
+COREF	T152	Thames-1
+COREF	T227	you-83
+COREF	T62	Knights-84
+COREF	T153	a_plain-85
+COREF	T228	We-86
+COREF	T154	the_old_earth-87
+COREF	T64	the_Mediterranean-88
+COREF	T66	the_north-89
+COREF	T67	the_Gauls-90
+COREF	T175	these_craft-91
+COREF	T248	legionaries-92
+COREF	T229	legionaries-92
+COREF	T230	we-93
+COREF	T231	we-93
+COREF	T232	legion_man-94
+COREF	T65	here-95
+COREF	T157	the_sea-4
+COREF	T159	a_kind_of_ship_about_as_rigid_as_a_concertina-96
+COREF	T160	Thames-1
+COREF	T233	group-2
+COREF	T161	Sand-banks-97
+COREF	T162	marshes-98
+COREF	T163	forests-99
+COREF	T164	savages-100
+COREF	T68	a_civilized_man-101
+COREF	T165	Thames-1
+COREF	T166	ashore-102
+COREF	T167	a_military_camp-103
+COREF	T168	a_wilderness-104
+COREF	T234	legionaries-92
+COREF	T235	legion_man-94
+COREF	T236	legion_man-94
+COREF	T237	legion_man-94
+COREF	T238	legionaries-92
+COREF	T239	legion_man-94
+COREF	T240	legion_man-94
+COREF	T72	Ravenna-105
+COREF	T241	legion_man-94
+COREF	T169	good_friends_in_Rome-106
+COREF	T71	Rome-107
+COREF	T70	a_decent_young_citizen_in_a_toga-108
+COREF	T242	group-2
+COREF	T73	some_prefect-109
+COREF	T170	tax-gatherer-110
+COREF	T74	trader-111
+COREF	T243	a_decent_young_citizen_in_a_toga-108
+COREF	T76	a_swamp-112
+COREF	T171	the_woods-113
+COREF	T172	some_inland_post-114
+COREF	T244	a_decent_young_citizen_in_a_toga-108
+COREF	T173	the_forest-115
+COREF	T77	the_jungles-116
+COREF	T75	wild_men-117
+COREF	T245	a_decent_young_citizen_in_a_toga-108
+COREF	T246	a_decent_young_citizen_in_a_toga-108
+COREF	T247	group-2
+APPOS	T79	T78
+COP	T2	T3
+COP	T89	T3
+APPOS	T97	T96
+APPOS	T24	T26
+APPOS	T132	T48
+COP	T63	T206
+COP	T54	T211
+COP	T55	T212
+COREF	T197	captain-9
+MENTION	T506	27	4	27	4	its	LOC	PRON
+COREF	T506	Thames-1
+MENTION	T508	27	26	27	26	its	LOC	PRON
+COREF	T508	Thames-1
+COREF	T155	legionaries-92
+COREF	T156	here-95

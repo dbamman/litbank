@@ -1,0 +1,574 @@
+T0	PROP_PER 118 126	Waymarsh
+T1	NOM_FAC 58 67	the hotel
+T2	PROP_GPE 392 401	Liverpool
+T4	NOM_FAC 310 320	the office
+T5	PROP_GPE 369 376	Chester
+T6	NOM_FAC 548 556	the dock
+T7	PROP_PER 524 532	Waymarsh
+T8	PROP_PER 490 498	Strether
+T9	NOM_PER 1172 1183	his comrade
+T10	NOM_PER 1018 1029	the two men
+T12	PROP_PER 1414 1422	Strether
+T13	NOM_VEH 1924 1932	the ship
+T14	PROP_GPE 2117 2123	London
+T15	PROP_GPE 2255 2264	Liverpool
+T17	PROP_PER 2877 2885	Waymarsh
+T19	NOM_VEH 3333 3341	the ship
+T20	NOM_PER 3885 3895	his friend
+T21	NOM_FAC 3972 3980	the hall
+T22	NOM_PER 3783 3816	the young woman in the glass cage
+T24	NOM_VEH 4415 4427	his own ship
+T27	PROP_PER 4969 4981	Mr. Waymarsh
+T28	PROP_PER 4930 4965	Mr. Waymarsh of Milrose Connecticut
+T30	NOM_PER 5647 5684	friends there who were friends of his
+T32	PROP_PER 5766 5774	Strether
+T33	NOM_PER 5926 5936	our friend
+T34	PROP_PER 6088 6100	Mr. Waymarsh
+T35	PROP_PER 6055 6063	Strether
+T36	NOM_PER 6179 6187	the lady
+T37	PROP_PER 6408 6420	the Munsters
+T38	PROP_PER 6379 6387	Strether
+T39	PROP_GPE 6462 6471	Liverpool
+T41	PROP_PER 7042 7050	Strether
+T42	NOM_FAC 7079 7088	the hotel
+T43	NOM_FAC 7110 7118	a garden
+T44	NOM_FAC 7018 7026	the hall
+T45	NOM_PER 7042 7063	Strether 's companion
+T46	PROP_PER 7252 7260	Waymarsh
+T47	NOM_FAC 7433 7441	his room
+T48	NOM_FAC 7449 7472	the garden of the hotel
+T49	NOM_FAC 7463 7472	the hotel
+T51	NOM_GPE 7645 7653	the town
+T52	NOM_PER 7764 7771	a guest
+T53	NOM_GPE 7796 7805	the place
+T54	NOM_PER 7884 7910	the lady in the glass cage
+T55	PROP_PER 7851 7859	Strether
+T56	NOM_PER 7835 7844	a hostess
+T57	NOM_PER 7926 7940	this personage
+T58	NOM_PER 8030 8041	his hostess
+T62	PROP_PER 8987 8995	Strether
+T63	NOM_PER 8886 8907	an attentive observer
+T64	NOM_FAC 9035 9045	the garden
+T65	NOM_FAC 9220 9241	the small smooth lawn
+T67	NOM_PER 9459 9472	her companion
+T68	PROP_PER 9877 9885	Strether
+T69	NOM_FAC 10221 10237	his dull bedroom
+T70	PROP_GPE 10619 10625	London
+T72	NOM_PER 10794 10818	the person of his friend
+T73	PROP_PER 13 21	Strether
+T74	NOM_FAC 233 239	a room
+T3	NOM_PER 294 306	the enquirer
+T75	PROP_PER 781 789	Waymarsh
+T11	NOM_PER 988 1029	the most newly disembarked of the two men
+T76	NOM_VEH 1300 1319	the nearing steamer
+T77	PROP_GPE 1347 1353	Europe
+T78	PROP_GPE 1490 1496	Europe
+T79	NOM_PER 1914 1966	people on the ship with whom he had easily consorted
+T80	NOM_FAC 2096 2113	the landing-stage
+T81	NOM_PER 2137 2264	others who had invited him to a tryst at the inn and had even invoked his aid for a " look round " at the beauties of Liverpool
+T82	NOM_FAC 2178 2185	the inn
+T83	NOM_PER 2239 2264	the beauties of Liverpool
+T84	NOM_PER 2413 2492	persons who esteemed themselves fortunate in being , unlike himself , " met , "
+T85	PROP_GPE 2703 2709	Europe
+T86	PROP_LOC 2760 2766	Mersey
+T16	PROP_GPE 2906 2913	Chester
+T18	NOM_PER 3094 3267	a man who , elatedly finding in his pocket more money than usual , handles it a while and idly and pleasantly chinks it before addressing himself to the business of spending
+T87	PROP_PER 3306 3314	Waymarsh
+T88	PROP_PER 3608 3616	Strether
+T89	NOM_PER 3990 4197	a lady who met his eyes as with an intention suddenly determined , and whose features -- not freshly young , not markedly fine , but on happy terms with each other -- came back to him as from a recent vision
+T90	NOM_FAC 4317 4333	his previous inn
+T23	NOM_FAC 4354 4362	the hall
+T91	NOM_PER 4400 4438	some people of his own ship 's company
+T25	PROP_GPE 4946 4953	Milrose
+T26	PROP_GPE 4954 4965	Connecticut
+T92	NOM_PER 4982 5001	the American lawyer
+T93	NOM_PER 5032 5057	my very well-known friend
+T94	PROP_GPE 5099 5106	Malvern
+T95	PROP_PER 5248 5256	Strether
+T96	PROP_GPE 5576 5583	Milrose
+T29	NOM_PER 5670 5684	friends of his
+T97	NOM_GPE 5655 5660	there
+T31	NOM_FAC 5705 5714	his house
+T98	NOM_PER 5766 5794	Strether 's new acquaintance
+T99	PROP_PER 6393 6405	the Munsters
+T100	NOM_PER 6427 6471	the people he had seen her with at Liverpool
+T101	PROP_PER 6510 6522	the Munsters
+T40	NOM_VEH 7211 7222	the steamer
+T50	NOM_PER 7584 7621	the dispenser of such good assurances
+T59	NOM_PER 8153 8226	a man of the middle height and something more perhaps than the middle age
+T60	NOM_PER 8230 8636	a man of five-and-fifty , whose most immediate signs were a marked bloodless brownness of face , a thick dark moustache , of characteristically American cut , growing strong and falling low , a head of hair still abundant but irregularly streaked with grey , and a nose of bold free prominence , the even line , the high finish , as it might have been called , of which , had a certain effect of mitigation
+T61	NOM_PER 9379 9388	this lady
+T66	NOM_PER 2295 2304	every one
+T105	NOM_PER 1764 1770	nobody
+T71	NOM_FAC 10100 10108	upstairs
+T106	NOM_FAC 7524 7529	there
+T108	PRON_PER 47 49	he
+T109	PRON_PER 80 83	his
+T110	PRON_PER 100 103	his
+T111	PRON_PER 169 171	he
+T112	PRON_PER 218 221	him
+T113	PRON_PER 349 353	they
+T114	PRON_PER 572 575	him
+T115	PRON_PER 609 612	his
+T116	PRON_PER 652 655	him
+T117	PRON_PER 661 663	he
+T118	PRON_PER 706 710	They
+T119	PRON_PER 828 835	himself
+T120	PRON_PER 880 884	they
+T121	PRON_PER 937 938	I
+T122	PRON_PER 1122 1129	himself
+T123	PRON_PER 1172 1175	his
+T124	PRON_PER 1194 1197	his
+T125	PRON_PER 1240 1242	he
+T126	PRON_PER 1668 1670	he
+T127	PRON_PER 1869 1872	his
+T128	PRON_PER 1943 1945	he
+T129	PRON_PER 2015 2018	him
+T130	PRON_PER 2160 2163	him
+T131	PRON_PER 2207 2210	his
+T132	PRON_PER 2271 2273	he
+T133	PRON_PER 2434 2444	themselves
+T134	PRON_PER 2473 2480	himself
+T135	PRON_PER 2606 2609	his
+T136	PRON_PER 2668 2672	They
+T137	PRON_PER 2788 2790	he
+T138	PRON_PER 2796 2799	his
+T139	PRON_PER 2828 2830	He
+T140	PRON_PER 2916 2918	he
+T141	PRON_PER 2943 2945	he
+T142	PRON_PER 2963 2970	himself
+T143	PRON_PER 3082 3084	he
+T144	PRON_PER 3126 3129	his
+T145	PRON_PER 3232 3239	himself
+T146	PRON_PER 3275 3277	he
+T147	PRON_PER 3365 3367	he
+T148	PRON_PER 3397 3400	him
+T149	PRON_PER 3507 3510	him
+T150	PRON_PER 3516 3519	his
+T151	PRON_PER 3532 3535	his
+T152	PRON_PER 3585 3587	He
+T153	PRON_PER 3732 3735	his
+T154	PRON_PER 3758 3761	his
+T155	PRON_PER 3832 3835	him
+T156	PRON_PER 3843 3846	her
+T157	PRON_PER 3885 3888	his
+T158	PRON_PER 3912 3915	she
+T159	PRON_PER 3936 3938	he
+T160	PRON_PER 3959 3966	himself
+T161	PRON_PER 4005 4008	his
+T162	PRON_PER 4170 4173	him
+T163	PRON_PER 4213 4217	they
+T164	PRON_PER 4260 4263	her
+T165	PRON_PER 4266 4268	he
+T166	PRON_PER 4281 4284	her
+T167	PRON_PER 4310 4313	her
+T168	PRON_PER 4317 4320	his
+T169	PRON_PER 4366 4369	she
+T170	PRON_PER 4415 4418	his
+T171	PRON_PER 4477 4481	them
+T172	PRON_PER 4488 4490	he
+T173	PRON_PER 4555 4558	her
+T174	PRON_PER 4568 4571	him
+T175	PRON_PER 4619 4622	his
+T176	PRON_PER 4692 4695	her
+T177	PRON_PER 4765 4768	she
+T178	PRON_PER 4792 4795	him
+T179	PRON_PER 4844 4847	his
+T180	PRON_PER 4858 4861	she
+T181	PRON_PER 4884 4887	his
+T182	PRON_PER 5017 5019	he
+T183	PRON_PER 5032 5034	my
+T184	PRON_PER 5060 5062	He
+T185	PRON_PER 5074 5076	me
+T186	PRON_PER 5113 5114	I
+T187	PRON_PER 5124 5126	he
+T188	PRON_PER 5157 5159	he
+T189	PRON_PER 5191 5192	I
+T190	PRON_PER 5222 5225	him
+T191	PRON_PER 5231 5234	you
+T192	PRON_PER 5240 5243	him
+T193	PRON_PER 5290 5292	he
+T194	PRON_PER 5309 5311	he
+T195	PRON_PER 5355 5358	him
+T196	PRON_PER 5390 5393	her
+T197	PRON_PER 5451 5454	her
+T198	PRON_PER 5551 5554	him
+T199	PRON_PER 5559 5560	I
+T200	PRON_PER 5569 5572	him
+T201	PRON_PER 5593 5594	I
+T202	PRON_PER 5641 5642	I
+T203	PRON_PER 5681 5684	his
+T204	PRON_PER 5691 5692	I
+T205	PRON_PER 5705 5708	his
+T206	PRON_PER 5717 5718	I
+T207	PRON_PER 5745 5747	he
+T208	PRON_PER 5759 5761	me
+T209	PRON_PER 5811 5812	I
+T210	PRON_PER 5840 5843	him
+T211	PRON_PER 5858 5861	she
+T212	PRON_PER 5872 5873	I
+T213	PRON_PER 5887 5888	I
+T214	PRON_PER 5909 5912	She
+T215	PRON_PER 5926 5929	our
+T216	PRON_PER 6018 6022	They
+T217	PRON_PER 6194 6197	she
+T218	PRON_PER 6228 6231	She
+T219	PRON_PER 6287 6290	she
+T220	PRON_PER 6300 6302	he
+T221	PRON_PER 6326 6329	she
+T222	PRON_PER 6366 6369	she
+T223	PRON_PER 6438 6440	he
+T224	PRON_PER 6450 6453	her
+T225	PRON_PER 6478 6480	he
+T226	PRON_PER 6577 6581	they
+T227	PRON_PER 6650 6653	Her
+T228	PRON_PER 6776 6781	Their
+T229	PRON_PER 6895 6899	them
+T230	PRON_PER 7001 7005	They
+T231	PRON_PER 7121 7123	He
+T232	PRON_PER 7150 7153	his
+T233	PRON_PER 7178 7180	he
+T234	PRON_PER 7274 7281	himself
+T235	PRON_PER 7350 7352	He
+T236	PRON_PER 7404 7406	he
+T237	PRON_PER 7433 7436	his
+T238	PRON_PER 7549 7551	he
+T239	PRON_PER 7569 7576	himself
+T240	PRON_PER 7624 7626	He
+T241	PRON_PER 7660 7664	they
+T242	PRON_PER 7717 7720	she
+T243	PRON_PER 7757 7760	him
+T244	PRON_PER 7774 7777	Her
+T245	PRON_PER 7816 7819	her
+T246	PRON_PER 7950 7957	herself
+T247	PRON_PER 8010 8012	he
+T248	PRON_PER 8030 8033	his
+T249	PRON_PER 8053 8056	she
+T250	PRON_PER 9013 9016	She
+T251	PRON_PER 9028 9031	him
+T252	PRON_PER 9149 9156	herself
+T253	PRON_PER 9197 9199	he
+T254	PRON_PER 9211 9214	her
+T255	PRON_PER 9279 9281	he
+T256	PRON_PER 9295 9298	his
+T257	PRON_PER 9369 9372	She
+T258	PRON_PER 9459 9462	her
+T259	PRON_PER 9515 9518	him
+T260	PRON_PER 9529 9532	his
+T261	PRON_PER 9601 9604	him
+T262	PRON_PER 9623 9626	her
+T263	PRON_PER 9627 9629	he
+T264	PRON_PER 9747 9749	he
+T265	PRON_PER 9761 9764	his
+T266	PRON_PER 9898 9905	himself
+T267	PRON_PER 10011 10014	his
+T268	PRON_PER 10151 10154	him
+T269	PRON_PER 10221 10224	his
+T270	PRON_PER 10303 10305	he
+T271	PRON_PER 10347 10349	He
+T272	PRON_PER 10416 10419	his
+T273	PRON_PER 10428 10430	he
+T275	PRON_PER 10573 10575	he
+T276	PRON_PER 10594 10596	He
+T277	PRON_PER 10694 10697	him
+T278	PRON_PER 10808 10811	his
+T279	PRON_PER 10949 10952	him
+T280	PRON_PER 11046 11049	her
+T281	PRON_PER 11070 11073	him
+T282	PRON_PER 11089 11092	his
+T283	PRON_PER 11119 11121	he
+T284	PRON_PER 11145 11152	himself
+T285	PRON_PER 11153 11156	his
+T286	PRON_PER 11171 11174	her
+T287	PRON_PER 11189 11192	she
+T288	PRON_PER 11288 11291	him
+T289	PRON_PER 11345 11348	his
+T290	PRON_PER 11386 11389	his
+T291	NOM_PER 80 90	his friend
+T365	Strether-0 13 21	Strether
+T400	Strether-0 47 49	he
+T293	the_hotel-1 58 67	the hotel
+T401	Strether-0 80 83	his
+T583	Waymarsh-2 80 90	his friend
+T402	Strether-0 100 103	his
+T292	Waymarsh-2 118 126	Waymarsh
+T403	Strether-0 169 171	he
+T404	Waymarsh-2 218 221	him
+T366	a_room-3 233 239	a room
+T295	Waymarsh-2 294 306	the enquirer
+T296	the_office-4 310 320	the office
+T405	waymar_and_strether-5 349 353	they
+T297	Chester-6 369 376	Chester
+T294	Liverpool-7 392 401	Liverpool
+T300	Strether-0 490 498	Strether
+T299	Waymarsh-2 524 532	Waymarsh
+T298	the_dock-8 548 556	the dock
+T406	Strether-0 572 575	him
+T407	Strether-0 609 612	his
+T408	Strether-0 652 655	him
+T409	Strether-0 661 663	he
+T410	waymar_and_strether-5 706 710	They
+T367	Waymarsh-2 781 789	Waymarsh
+T411	Strether-0 828 835	himself
+T412	waymar_and_strether-5 880 884	they
+T413	Narrator-9 937 938	I
+T303	Strether-0 988 1029	the most newly disembarked of the two men
+T302	waymar_and_strether-5 1018 1029	the two men
+T414	Strether-0 1122 1129	himself
+T301	Waymarsh-2 1172 1183	his comrade
+T415	Strether-0 1172 1175	his
+T416	Strether-0 1194 1197	his
+T417	Strether-0 1240 1242	he
+T368	the_nearing_steamer-10 1300 1319	the nearing steamer
+T369	Europe-11 1347 1353	Europe
+T304	Strether-0 1414 1422	Strether
+T370	Europe-11 1490 1496	Europe
+T418	Strether-0 1668 1670	he
+T397	nobody-100000 1764 1770	nobody
+T419	Strether-0 1869 1872	his
+T371	people_on_the_ship_with_whom_he_had_easily_consorted-12 1914 1966	people on the ship with whom he had easily consorted
+T305	the_ship-13 1924 1932	the ship
+T420	Strether-0 1943 1945	he
+T421	Strether-0 2015 2018	him
+T372	the_landing-stage-14 2096 2113	the landing-stage
+T306	London-15 2117 2123	London
+T373	others_who_had_invited_him_to_a_tryst_at_the_inn_and_had_even_invoked_his_aid_for_a___look_round___at_the_beauties_of_Liverpool-16 2137 2264	others who had invited him to a tryst at the inn and had even invoked his aid for a " look round " at the beauties of Liverpool
+T422	Strether-0 2160 2163	him
+T374	the_hotel-1 2178 2185	the inn
+T423	Strether-0 2207 2210	his
+T375	the_beauties_of_Liverpool-17 2239 2264	the beauties of Liverpool
+T307	Liverpool-7 2255 2264	Liverpool
+T424	Strether-0 2271 2273	he
+T358	every_one-18 2295 2304	every one
+T376	persons_who_esteemed_themselves_fortunate_in_being___unlike_himself_____met____-19 2413 2492	persons who esteemed themselves fortunate in being , unlike himself , " met , "
+T425	persons_who_esteemed_themselves_fortunate_in_being___unlike_himself_____met____-19 2434 2444	themselves
+T426	Strether-0 2473 2480	himself
+T427	Strether-0 2606 2609	his
+T428	persons_who_esteemed_themselves_fortunate_in_being___unlike_himself_____met____-19 2668 2672	They
+T377	Europe-11 2703 2709	Europe
+T378	Mersey-20 2760 2766	Mersey
+T429	Strether-0 2788 2790	he
+T430	Strether-0 2796 2799	his
+T431	Strether-0 2828 2830	He
+T309	Waymarsh-2 2877 2885	Waymarsh
+T308	Chester-6 2906 2913	Chester
+T432	Strether-0 2916 2918	he
+T433	Strether-0 2943 2945	he
+T434	Strether-0 2963 2970	himself
+T435	Strether-0 3082 3084	he
+T310	a_man_who___elatedly_finding_in_his_pocket_more_money_than_usual___handles_it_a_while_and_idly_and_pleasantly_chinks_it_before_addressing_himself_to_the_business_of_spending-21 3094 3267	a man who , elatedly finding in his pocket more money than usual , handles it a while and idly and pleasantly chinks it before addressing himself to the business of spending
+T436	a_man_who___elatedly_finding_in_his_pocket_more_money_than_usual___handles_it_a_while_and_idly_and_pleasantly_chinks_it_before_addressing_himself_to_the_business_of_spending-21 3126 3129	his
+T437	a_man_who___elatedly_finding_in_his_pocket_more_money_than_usual___handles_it_a_while_and_idly_and_pleasantly_chinks_it_before_addressing_himself_to_the_business_of_spending-21 3232 3239	himself
+T438	Strether-0 3275 3277	he
+T379	Waymarsh-2 3306 3314	Waymarsh
+T311	the_ship-13 3333 3341	the ship
+T439	Strether-0 3365 3367	he
+T440	Waymarsh-2 3397 3400	him
+T441	Strether-0 3507 3510	him
+T442	Strether-0 3516 3519	his
+T443	Strether-0 3532 3535	his
+T444	Strether-0 3585 3587	He
+T380	Strether-0 3608 3616	Strether
+T445	Strether-0 3732 3735	his
+T446	Strether-0 3758 3761	his
+T314	the_young_woman_in_the_glass_cage-22 3783 3816	the young woman in the glass cage
+T447	Strether-0 3832 3835	him
+T448	the_young_woman_in_the_glass_cage-22 3843 3846	her
+T312	Waymarsh-2 3885 3895	his friend
+T449	Strether-0 3885 3888	his
+T450	the_young_woman_in_the_glass_cage-22 3912 3915	she
+T451	Strether-0 3936 3938	he
+T452	Strether-0 3959 3966	himself
+T313	the_hall-23 3972 3980	the hall
+T381	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 3990 4197	a lady who met his eyes as with an intention suddenly determined , and whose features -- not freshly young , not markedly fine , but on happy terms with each other -- came back to him as from a recent vision
+T453	Strether-0 4005 4008	his
+T454	Strether-0 4170 4173	him
+T455	girl_and_strether-25 4213 4217	they
+T456	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4260 4263	her
+T457	Strether-0 4266 4268	he
+T458	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4281 4284	her
+T459	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4310 4313	her
+T382	his_previous_inn-26 4317 4333	his previous inn
+T460	Strether-0 4317 4320	his
+T315	the_hall-23 4354 4362	the hall
+T461	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4366 4369	she
+T383	some_people_of_his_own_ship__s_company-27 4400 4438	some people of his own ship 's company
+T316	the_ship-13 4415 4427	his own ship
+T462	Strether-0 4415 4418	his
+T463	girl_and_strether-25 4477 4481	them
+T464	Strether-0 4488 4490	he
+T465	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4555 4558	her
+T466	Strether-0 4568 4571	him
+T467	Strether-0 4619 4622	his
+T468	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4692 4695	her
+T469	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4765 4768	she
+T470	Strether-0 4792 4795	him
+T471	Strether-0 4844 4847	his
+T472	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 4858 4861	she
+T473	Strether-0 4884 4887	his
+T320	Waymarsh-2 4930 4965	Mr. Waymarsh of Milrose Connecticut
+T317	Milrose-28 4946 4953	Milrose
+T318	Connecticut-29 4954 4965	Connecticut
+T319	Waymarsh-2 4969 4981	Mr. Waymarsh
+T474	Strether-0 5017 5019	he
+T385	Waymarsh-2 5032 5057	my very well-known friend
+T475	Strether-0 5032 5034	my
+T476	Waymarsh-2 5060 5062	He
+T477	Strether-0 5074 5076	me
+T386	Malvern-30 5099 5106	Malvern
+T478	Strether-0 5113 5114	I
+T479	Waymarsh-2 5124 5126	he
+T480	Waymarsh-2 5157 5159	he
+T481	Strether-0 5191 5192	I
+T482	Waymarsh-2 5222 5225	him
+T483	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5231 5234	you
+T484	Waymarsh-2 5240 5243	him
+T387	Strether-0 5248 5256	Strether
+T485	Strether-0 5290 5292	he
+T486	Strether-0 5309 5311	he
+T487	Strether-0 5355 5358	him
+T488	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5390 5393	her
+T489	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5451 5454	her
+T490	Strether-0 5551 5554	him
+T491	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5559 5560	I
+T492	Waymarsh-2 5569 5572	him
+T388	Milrose-28 5576 5583	Milrose
+T493	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5593 5594	I
+T494	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5641 5642	I
+T322	friends_there_who_were_friends_of_his-31 5647 5684	friends there who were friends of his
+T389	Milrose-28 5655 5660	there
+T321	friends_there_who_were_friends_of_his-31 5670 5684	friends of his
+T495	Waymarsh-2 5681 5684	his
+T496	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5691 5692	I
+T323	his_house-32 5705 5714	his house
+T497	Waymarsh-2 5705 5708	his
+T498	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5717 5718	I
+T499	Waymarsh-2 5745 5747	he
+T500	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5759 5761	me
+T324	Strether-0 5766 5774	Strether
+T390	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5766 5794	Strether 's new acquaintance
+T501	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5811 5812	I
+T502	Waymarsh-2 5840 5843	him
+T503	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5858 5861	she
+T504	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5872 5873	I
+T505	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5887 5888	I
+T506	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 5909 5912	She
+T325	Strether-0 5926 5936	our friend
+T507	our-33 5926 5929	our
+T508	girl_and_strether-25 6018 6022	They
+T327	Strether-0 6055 6063	Strether
+T326	Waymarsh-2 6088 6100	Mr. Waymarsh
+T328	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6179 6187	the lady
+T509	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6194 6197	she
+T510	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6228 6231	She
+T511	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6287 6290	she
+T512	Waymarsh-2 6300 6302	he
+T513	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6326 6329	she
+T514	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6366 6369	she
+T330	Strether-0 6379 6387	Strether
+T391	the_Munsters-34 6393 6405	the Munsters
+T329	the_Munsters-34 6408 6420	the Munsters
+T392	some_people_of_his_own_ship__s_company-27 6427 6471	the people he had seen her with at Liverpool
+T515	Strether-0 6438 6440	he
+T516	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6450 6453	her
+T331	Liverpool-7 6462 6471	Liverpool
+T517	Strether-0 6478 6480	he
+T393	the_Munsters-34 6510 6522	the Munsters
+T518	girl_and_strether-25 6577 6581	they
+T519	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 6650 6653	Her
+T520	girl_and_strether-25 6776 6781	Their
+T521	girl_and_strether-25 6895 6899	them
+T522	girl_and_strether-25 7001 7005	They
+T336	the_hall-23 7018 7026	the hall
+T333	Strether-0 7042 7050	Strether
+T337	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 7042 7063	Strether 's companion
+T334	the_hotel-1 7079 7088	the hotel
+T335	a_garden-35 7110 7118	a garden
+T523	Strether-0 7121 7123	He
+T524	Strether-0 7150 7153	his
+T525	Strether-0 7178 7180	he
+T332	the_nearing_steamer-10 7211 7222	the steamer
+T338	Waymarsh-2 7252 7260	Waymarsh
+T526	Strether-0 7274 7281	himself
+T527	Strether-0 7350 7352	He
+T528	Strether-0 7404 7406	he
+T339	his_room-36 7433 7441	his room
+T529	Strether-0 7433 7436	his
+T340	a_garden-35 7449 7472	the garden of the hotel
+T341	the_hotel-1 7463 7472	the hotel
+T398	a_garden-35 7524 7529	there
+T530	Strether-0 7549 7551	he
+T531	Strether-0 7569 7576	himself
+T342	Strether-0 7584 7621	the dispenser of such good assurances
+T532	Strether-0 7624 7626	He
+T343	the_town-37 7645 7653	the town
+T533	girl_and_strether-25 7660 7664	they
+T534	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 7717 7720	she
+T535	Strether-0 7757 7760	him
+T536	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 7774 7777	Her
+T345	the_town-37 7796 7805	the place
+T537	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 7816 7819	her
+T347	Strether-0 7851 7859	Strether
+T346	the_young_woman_in_the_glass_cage-22 7884 7910	the lady in the glass cage
+T349	the_young_woman_in_the_glass_cage-22 7926 7940	this personage
+T538	the_young_woman_in_the_glass_cage-22 7950 7957	herself
+T539	Strether-0 8010 8012	he
+T350	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 8030 8041	his hostess
+T540	Strether-0 8030 8033	his
+T541	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 8053 8056	she
+T351	Strether-0 8153 8226	a man of the middle height and something more perhaps than the middle age
+T352	Strether-0 8230 8636	a man of five-and-fifty , whose most immediate signs were a marked bloodless brownness of face , a thick dark moustache , of characteristically American cut , growing strong and falling low , a head of hair still abundant but irregularly streaked with grey , and a nose of bold free prominence , the even line , the high finish , as it might have been called , of which , had a certain effect of mitigation
+T355	an_attentive_observer-38 8886 8907	an attentive observer
+T354	Strether-0 8987 8995	Strether
+T542	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 9013 9016	She
+T543	Strether-0 9028 9031	him
+T356	a_garden-35 9035 9045	the garden
+T544	herself-39 9149 9156	herself
+T545	Strether-0 9197 9199	he
+T546	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 9211 9214	her
+T357	the_small_smooth_lawn-40 9220 9241	the small smooth lawn
+T547	Strether-0 9279 9281	he
+T548	Strether-0 9295 9298	his
+T549	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 9369 9372	She
+T353	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 9379 9388	this lady
+T359	Strether-0 9459 9472	her companion
+T550	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 9459 9462	her
+T551	Strether-0 9515 9518	him
+T552	Strether-0 9529 9532	his
+T553	Strether-0 9601 9604	him
+T554	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 9623 9626	her
+T555	Strether-0 9627 9629	he
+T556	Strether-0 9747 9749	he
+T557	Strether-0 9761 9764	his
+T360	Strether-0 9877 9885	Strether
+T558	Strether-0 9898 9905	himself
+T559	Strether-0 10011 10014	his
+T363	upstairs-41 10100 10108	upstairs
+T560	Strether-0 10151 10154	him
+T361	his_dull_bedroom-42 10221 10237	his dull bedroom
+T561	Strether-0 10221 10224	his
+T562	Strether-0 10303 10305	he
+T563	Strether-0 10347 10349	He
+T564	Strether-0 10416 10419	his
+T565	Strether-0 10428 10430	he
+T567	Strether-0 10573 10575	he
+T568	Strether-0 10594 10596	He
+T362	London-15 10619 10625	London
+T569	Strether-0 10694 10697	him
+T364	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 10794 10818	the person of his friend
+T570	Strether-0 10808 10811	his
+T571	Strether-0 10949 10952	him
+T572	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 11046 11049	her
+T573	Strether-0 11070 11073	him
+T574	Strether-0 11089 11092	his
+T575	Strether-0 11119 11121	he
+T576	Strether-0 11145 11152	himself
+T577	Strether-0 11153 11156	his
+T578	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 11171 11174	her
+T579	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24 11189 11192	she
+T580	Strether-0 11288 11291	him
+T581	Strether-0 11345 11348	his
+T582	Strether-0 11386 11389	his
+R1	appos Arg1:T92 Arg2:T27
+R2	cop Arg1:T52 Arg2:T243
+R3	cop Arg1:T56 Arg2:T245

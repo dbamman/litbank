@@ -1,0 +1,628 @@
+MENTION	T0	0	3	0	7	the little town of Vevey	GPE	NOM
+MENTION	T1	0	14	0	17	a particularly comfortable hotel	FAC	NOM
+MENTION	T2	0	10	0	10	Switzerland	GPE	PROP
+MENTION	T3	1	44	1	45	every tourist	PER	NOM
+MENTION	T4	1	12	1	12	tourists	PER	NOM
+MENTION	T5	1	23	1	24	many travelers	PER	NOM
+MENTION	T10	3	20	3	22	its upstart neighbors	FAC	NOM
+MENTION	T11	4	1	4	2	this region	LOC	NOM
+MENTION	T12	4	34	4	37	an American watering place	LOC	NOM
+MENTION	T13	4	24	4	24	Vevey	GPE	PROP
+MENTION	T14	5	14	5	14	Newport	GPE	PROP
+MENTION	T15	8	41	8	42	the garden	FAC	NOM
+MENTION	T16	8	33	8	35	secretaries of legation	PER	NOM
+MENTION	T18	8	61	8	68	the sunny crest of the Dent du Midi	FAC	NOM
+MENTION	T20	8	55	8	56	their governors	PER	NOM
+MENTION	T22	11	32	11	35	his place of residence	GPE	NOM
+MENTION	T23	11	4	11	4	Geneva	GPE	PROP
+MENTION	T24	11	22	11	23	the hotel	FAC	NOM
+MENTION	T26	12	1	12	2	his aunt	PER	NOM
+MENTION	T27	12	7	12	8	his aunt	PER	NOM
+MENTION	T28	12	22	12	23	her room	FAC	NOM
+MENTION	T29	13	9	13	10	his friends	PER	NOM
+MENTION	T31	14	1	14	2	his enemies	PER	NOM
+MENTION	T32	14	17	14	18	no enemies	PER	NOM
+MENTION	T35	15	10	15	11	certain persons	PER	NOM
+MENTION	T36	15	27	15	27	Geneva	GPE	PROP
+MENTION	T37	15	41	15	49	a foreign lady -- a person older than himself	PER	NOM
+MENTION	T39	17	21	17	22	a boy	PER	NOM
+MENTION	T40	17	7	17	11	the little metropolis of Calvinism	GPE	NOM
+MENTION	T41	17	1	17	1	Winterbourne	PER	PROP
+MENTION	T43	19	20	19	21	the town	GPE	NOM
+MENTION	T44	19	3	19	4	his aunt	PER	NOM
+MENTION	T45	20	28	20	29	the garden	FAC	NOM
+MENTION	T46	20	38	20	39	an attache	PER	NOM
+MENTION	T48	20	33	20	39	the waiters who looked like an attache	PER	NOM
+MENTION	T50	22	1	22	3	a small boy	PER	NOM
+MENTION	T51	23	0	23	8	The child , who was diminutive for his years	PER	NOM
+MENTION	T52	25	32	25	33	the ladies	PER	NOM
+MENTION	T55	26	3	26	3	Winterbourne	PER	PROP
+MENTION	T56	29	0	29	0	Winterbourne	PER	PROP
+MENTION	T57	30	22	30	23	little boys	PER	NOM
+MENTION	T59	31	0	31	2	This little boy	PER	NOM
+MENTION	T60	32	8	32	8	Winterbourne	PER	PROP
+MENTION	T62	35	14	35	16	a fellow countryman	PER	NOM
+MENTION	T63	35	0	35	0	Winterbourne	PER	PROP
+MENTION	T64	40	0	40	1	My mother	PER	NOM
+MENTION	T65	45	1	45	1	America	GPE	PROP
+MENTION	T66	47	0	47	0	Winterbourne	PER	PROP
+MENTION	T67	48	9	48	10	your mother	PER	NOM
+MENTION	T68	49	14	49	16	his young interlocutor	PER	NOM
+MENTION	T69	52	6	52	9	the best little boys	PER	NOM
+MENTION	T71	55	8	55	9	the child	PER	NOM
+MENTION	T74	59	1	59	3	this vivacious infant	PER	NOM
+MENTION	T75	60	4	60	4	Winterbourne	PER	PROP
+MENTION	T76	60	10	60	11	American men	PER	NOM
+MENTION	T77	61	0	61	1	His companion	PER	NOM
+MENTION	T78	62	0	62	0	Winterbourne	PER	PROP
+MENTION	T79	64	1	64	2	the child	PER	NOM
+MENTION	T81	66	7	66	10	a beautiful young lady	PER	NOM
+MENTION	T82	67	1	67	2	American girls	PER	NOM
+MENTION	T83	67	13	67	15	his young companion	PER	NOM
+MENTION	T85	68	1	68	2	My sister	PER	NOM
+MENTION	T86	69	0	69	1	the child	PER	NOM
+MENTION	T87	71	13	71	13	Winterbourne	PER	PROP
+MENTION	T88	72	0	72	2	The young lady	PER	NOM
+MENTION	T93	77	0	77	2	The young lady	PER	NOM
+MENTION	T95	78	0	78	2	The little boy	PER	NOM
+MENTION	T96	79	5	79	7	the young lady	PER	NOM
+MENTION	T97	82	11	82	11	Winterbourne	PER	PROP
+MENTION	T98	83	11	83	11	Winterbourne	PER	PROP
+MENTION	T100	86	14	86	15	her brother	PER	NOM
+MENTION	T101	86	0	86	2	The young lady	PER	NOM
+MENTION	T102	88	3	88	3	Winterbourne	PER	PROP
+MENTION	T103	89	7	89	9	the young girl	PER	NOM
+MENTION	T104	91	20	91	23	a young unmarried lady	PER	NOM
+MENTION	T105	91	1	91	1	Geneva	GPE	PROP
+MENTION	T106	91	10	91	12	a young man	PER	NOM
+MENTION	T107	92	13	92	14	a garden	FAC	NOM
+MENTION	T109	92	1	92	4	a pretty American girl	PER	NOM
+MENTION	T111	93	0	93	3	This pretty American girl	PER	NOM
+MENTION	T112	95	10	95	12	the young lady	PER	NOM
+MENTION	T113	95	15	95	17	the little boy	PER	NOM
+MENTION	T114	98	14	98	14	Italy	GPE	PROP
+MENTION	T115	1	5	1	6	many hotels	FAC	NOM
+MENTION	T116	1	17	1	18	the place	GPE	NOM
+MENTION	T117	1	31	1	37	the edge of a remarkably blue lake	LOC	NOM
+MENTION	T118	1	39	1	47	a lake that it behooves every tourist to visit	LOC	NOM
+MENTION	T119	2	0	2	4	The shore of the lake	LOC	NOM
+MENTION	T120	2	6	2	13	an unbroken array of establishments of this order	FAC	NOM
+MENTION	T7	2	20	2	46	the “ grand hotel ” of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof	FAC	NOM
+MENTION	T6	2	49	2	80	the little Swiss pension of an elder day , with its name inscribed in German-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden	FAC	NOM
+MENTION	T8	3	0	3	5	One of the hotels at Vevey	FAC	NOM
+MENTION	T9	4	10	4	11	American travelers	PER	NOM
+MENTION	T121	5	16	5	16	Saratoga	GPE	PROP
+MENTION	T122	6	8	6	12	“ stylish ” young girls	PER	NOM
+MENTION	T123	7	8	7	16	the excellent inn of the “ Trois Couronnes ”	FAC	NOM
+MENTION	T124	7	23	7	25	the Ocean House	FAC	NOM
+MENTION	T125	7	28	7	29	Congress Hall	FAC	PROP
+MENTION	T126	8	2	8	7	the “ Trois Couronnes , ”	FAC	NOM
+MENTION	T127	8	26	8	35	neat German waiters , who look like secretaries of legation	PER	NOM
+MENTION	T19	8	37	8	42	Russian princesses sitting in the garden	PER	NOM
+MENTION	T128	8	44	8	56	little Polish boys walking about held by the hand , with their governors	PER	NOM
+MENTION	T17	8	70	8	77	the picturesque towers of the Castle of Chillon	FAC	NOM
+MENTION	T129	9	18	9	56	a young American , who , two or three years ago , sat in the garden of the “ Trois Couronnes , ” looking about him , rather idly , at some of the graceful objects I have mentioned	PER	NOM
+MENTION	T131	10	11	10	13	the young American	PER	NOM
+MENTION	T132	11	9	11	11	the little steamer	VEH	NOM
+MENTION	T133	11	15	11	16	his aunt	PER	NOM
+MENTION	T134	11	25	11	25	Geneva	GPE	PROP
+MENTION	T25	13	22	13	22	Geneva	GPE	PROP
+MENTION	T30	14	22	14	25	an extremely amiable fellow	PER	NOM
+MENTION	T33	15	35	15	39	a lady who lived there	PER	NOM
+MENTION	T34	16	13	16	22	this lady , about whom there were some singular stories	PER	NOM
+MENTION	T42	22	10	22	15	an urchin of nine or ten	PER	NOM
+MENTION	T47	25	25	25	26	the garden	FAC	NOM
+MENTION	T49	43	2	43	4	this old Europe	GPE	NOM
+MENTION	T53	46	2	46	3	these hotels	FAC	NOM
+MENTION	T54	52	3	52	5	American little boys	PER	NOM
+MENTION	T58	55	2	55	4	an American boy	PER	NOM
+MENTION	T61	56	5	56	8	one of the best	PER	NOM
+MENTION	T70	57	1	57	1	Winterbourne	PER	PROP
+MENTION	T72	58	3	58	5	an American man	PER	NOM
+MENTION	T73	61	9	61	10	the child	PER	NOM
+MENTION	T135	62	19	62	19	Europe	GPE	PROP
+MENTION	T136	63	3	63	4	my sister	PER	NOM
+MENTION	T80	65	4	65	5	American girl	PER	NOM
+MENTION	T137	66	0	66	0	Winterbourne	PER	PROP
+MENTION	T84	67	4	67	6	the best girls	PER	NOM
+MENTION	T89	76	1	76	1	Winterbourne	PER	PROP
+MENTION	T90	77	11	77	20	the parapet of the garden , which overlooked the lake	FAC	NOM
+MENTION	T91	77	14	77	15	the garden	FAC	NOM
+MENTION	T92	77	19	77	20	the lake	LOC	NOM
+MENTION	T94	79	1	79	1	Randolph	PER	PROP
+MENTION	T138	80	5	80	6	the Alps	LOC	PROP
+MENTION	T139	80	10	80	10	Randolph	PER	PROP
+MENTION	T99	84	3	84	5	an American man	PER	NOM
+MENTION	T140	85	1	85	1	Randolph	PER	PROP
+MENTION	T141	90	1	90	3	This little boy	PER	NOM
+MENTION	T142	91	34	91	34	Vevey	GPE	PROP
+MENTION	T108	93	9	93	9	Winterbourne	PER	PROP
+MENTION	T110	93	26	93	27	the parapet	FAC	NOM
+MENTION	T143	93	30	93	31	the lake	LOC	NOM
+MENTION	T144	93	33	93	35	the opposite mountains	LOC	NOM
+MENTION	T145	97	7	97	7	Randolph	PER	PROP
+MENTION	T146	17	30	17	30	college	ORG	NOM
+MENTION	T38	16	0	16	2	Very few Americans	PER	NOM
+MENTION	T130	9	35	9	40	the “ Trois Couronnes , ”	FAC	NOM
+MENTION	T21	9	32	9	40	the garden of the “ Trois Couronnes , ”	FAC	NOM
+MENTION	T147	15	39	15	39	there	GPE	NOM
+MENTION	T148	17	31	17	31	there	GPE	NOM
+MENTION	T149	17	19	17	19	there	GPE	NOM
+MENTION	T150	91	32	91	32	here	GPE	NOM
+MENTION	T152	7	0	7	0	You	PER	PRON
+MENTION	T153	8	55	8	55	their	PER	PRON
+MENTION	T154	9	0	9	0	I	PER	PRON
+MENTION	T155	9	43	9	43	him	PER	PRON
+MENTION	T156	9	54	9	54	I	PER	PRON
+MENTION	T158	10	23	10	23	him	PER	PRON
+MENTION	T159	11	0	11	0	He	PER	PRON
+MENTION	T160	11	15	11	15	his	PER	PRON
+MENTION	T161	11	32	11	32	his	PER	PRON
+MENTION	T162	12	1	12	1	his	PER	PRON
+MENTION	T163	12	7	12	7	his	PER	PRON
+MENTION	T164	12	17	12	17	she	PER	PRON
+MENTION	T165	12	22	12	22	her	PER	PRON
+MENTION	T166	12	30	12	30	he	PER	PRON
+MENTION	T167	13	0	13	0	He	PER	PRON
+MENTION	T168	13	9	13	9	his	PER	PRON
+MENTION	T169	13	13	13	13	him	PER	PRON
+MENTION	T170	13	15	13	15	they	PER	PRON
+MENTION	T171	13	19	13	19	he	PER	PRON
+MENTION	T172	14	1	14	1	his	PER	PRON
+MENTION	T173	14	5	14	5	him	PER	PRON
+MENTION	T174	14	7	14	7	they	PER	PRON
+MENTION	T175	14	15	14	15	he	PER	PRON
+MENTION	T176	14	20	14	20	he	PER	PRON
+MENTION	T177	15	1	15	1	I	PER	PRON
+MENTION	T178	15	14	15	14	him	PER	PRON
+MENTION	T179	15	15	15	15	they	PER	PRON
+MENTION	T180	15	21	15	21	his	PER	PRON
+MENTION	T181	15	30	15	30	he	PER	PRON
+MENTION	T182	15	49	15	49	himself	PER	PRON
+MENTION	T183	16	6	16	6	I	PER	PRON
+MENTION	T184	17	13	17	13	he	PER	PRON
+MENTION	T185	17	25	17	25	he	PER	PRON
+MENTION	T186	17	38	17	38	his	PER	PRON
+MENTION	T187	18	3	18	3	he	PER	PRON
+MENTION	T189	18	16	18	16	him	PER	PRON
+MENTION	T190	19	3	19	3	his	PER	PRON
+MENTION	T191	19	10	19	10	she	PER	PRON
+MENTION	T192	19	14	19	14	he	PER	PRON
+MENTION	T193	19	25	19	25	he	PER	PRON
+MENTION	T194	19	30	19	30	his	PER	PRON
+MENTION	T195	20	0	20	0	He	PER	PRON
+MENTION	T196	20	4	20	4	his	PER	PRON
+MENTION	T197	20	8	20	8	he	PER	PRON
+MENTION	T198	20	22	20	22	him	PER	PRON
+MENTION	T199	21	2	21	2	he	PER	PRON
+MENTION	T200	21	4	21	4	his	PER	PRON
+MENTION	T201	23	7	23	7	his	PER	PRON
+MENTION	T202	24	0	24	0	He	PER	PRON
+MENTION	T203	24	12	24	12	his	PER	PRON
+MENTION	T204	24	17	24	17	he	PER	PRON
+MENTION	T205	25	0	25	0	He	PER	PRON
+MENTION	T206	25	3	25	3	his	PER	PRON
+MENTION	T207	25	14	25	14	he	PER	PRON
+MENTION	T208	25	19	25	19	he	PER	PRON
+MENTION	T209	26	4	26	4	he	PER	PRON
+MENTION	T210	26	9	26	9	him	PER	PRON
+MENTION	T211	27	2	27	2	you	PER	PRON
+MENTION	T212	27	4	27	4	me	PER	PRON
+MENTION	T213	28	0	28	0	he	PER	PRON
+MENTION	T214	29	7	29	7	him	PER	PRON
+MENTION	T215	29	11	29	11	his	PER	PRON
+MENTION	T216	30	3	30	3	you	PER	PRON
+MENTION	T217	30	9	30	9	he	PER	PRON
+MENTION	T218	30	14	30	14	I	PER	PRON
+MENTION	T219	31	17	31	17	he	PER	PRON
+MENTION	T220	31	23	31	23	his	PER	PRON
+MENTION	T221	32	0	32	0	He	PER	PRON
+MENTION	T222	32	2	32	2	his	PER	PRON
+MENTION	T223	32	20	32	20	his	PER	PRON
+MENTION	T224	34	0	34	0	he	PER	PRON
+MENTION	T225	35	5	35	5	he	PER	PRON
+MENTION	T226	35	12	35	12	him	PER	PRON
+MENTION	T227	36	3	36	3	you	PER	PRON
+MENTION	T228	36	7	36	7	your	PER	PRON
+MENTION	T229	36	11	36	11	he	PER	PRON
+MENTION	T230	37	1	37	1	I	PER	PRON
+MENTION	T232	39	0	39	0	I	PER	PRON
+MENTION	T233	40	0	40	0	My	PER	PRON
+MENTION	T235	41	0	41	0	She	PER	PRON
+MENTION	T236	41	2	41	2	she	PER	PRON
+MENTION	T237	41	5	41	5	me	PER	PRON
+MENTION	T238	42	0	42	0	I	PER	PRON
+MENTION	T241	48	2	48	2	you	PER	PRON
+MENTION	T242	48	9	48	9	your	PER	PRON
+MENTION	T243	48	14	48	14	you	PER	PRON
+MENTION	T244	48	17	48	17	he	PER	PRON
+MENTION	T245	49	1	49	1	She	PER	PRON
+MENTION	T246	49	6	49	6	me	PER	PRON
+MENTION	T247	49	14	49	14	his	PER	PRON
+MENTION	T248	50	1	50	1	I	PER	PRON
+MENTION	T249	54	1	54	1	I	PER	PRON
+MENTION	T250	55	0	55	0	I	PER	PRON
+MENTION	T251	56	1	56	1	I	PER	PRON
+MENTION	T252	56	3	56	3	you	PER	PRON
+MENTION	T253	58	2	58	2	you	PER	PRON
+MENTION	T254	60	17	60	17	he	PER	PRON
+MENTION	T255	61	0	61	0	His	PER	PRON
+MENTION	T256	61	3	61	3	him	PER	PRON
+MENTION	T257	61	18	61	18	his	PER	PRON
+MENTION	T258	61	24	61	24	him	PER	PRON
+MENTION	T259	61	27	61	27	he	PER	PRON
+MENTION	T260	62	3	62	3	he	PER	PRON
+MENTION	T261	62	4	62	4	himself	PER	PRON
+MENTION	T262	62	10	62	10	his	PER	PRON
+MENTION	T263	62	14	62	14	he	PER	PRON
+MENTION	T264	63	3	63	3	my	PER	PRON
+MENTION	T265	65	1	65	1	She	PER	PRON
+MENTION	T266	67	9	67	9	he	PER	PRON
+MENTION	T267	67	13	67	13	his	PER	PRON
+MENTION	T268	68	1	68	1	My	PER	PRON
+MENTION	T269	70	1	70	1	She	PER	PRON
+MENTION	T270	70	6	70	6	me	PER	PRON
+MENTION	T271	71	1	71	1	I	PER	PRON
+MENTION	T272	71	5	71	5	your	PER	PRON
+MENTION	T273	73	0	73	0	She	PER	PRON
+MENTION	T274	74	0	74	0	She	PER	PRON
+MENTION	T275	74	5	74	5	she	PER	PRON
+MENTION	T276	74	8	74	8	her	PER	PRON
+MENTION	T277	74	22	74	22	she	PER	PRON
+MENTION	T278	75	3	75	3	they	PER	PRON
+MENTION	T279	76	4	76	4	himself	PER	PRON
+MENTION	T280	76	6	76	6	his	PER	PRON
+MENTION	T281	76	11	76	11	he	PER	PRON
+MENTION	T282	77	7	77	7	his	PER	PRON
+MENTION	T283	78	6	78	6	his	PER	PRON
+MENTION	T284	78	18	78	18	he	PER	PRON
+MENTION	T285	79	12	79	12	you	PER	PRON
+MENTION	T286	80	1	80	1	I	PER	PRON
+MENTION	T287	82	1	82	1	he	PER	PRON
+MENTION	T289	84	1	84	1	He	PER	PRON
+MENTION	T290	85	4	85	4	his	PER	PRON
+MENTION	T291	86	14	86	14	her	PER	PRON
+MENTION	T292	87	3	87	3	I	PER	PRON
+MENTION	T293	87	5	87	5	you	PER	PRON
+MENTION	T294	87	12	87	12	she	PER	PRON
+MENTION	T295	88	5	88	5	he	PER	PRON
+MENTION	T296	89	0	89	0	He	PER	PRON
+MENTION	T297	89	13	89	13	his	PER	PRON
+MENTION	T298	90	5	90	5	I	PER	PRON
+MENTION	T299	90	11	90	11	he	PER	PRON
+MENTION	T300	91	4	91	4	he	PER	PRON
+MENTION	T301	92	11	92	11	you	PER	PRON
+MENTION	T302	93	16	93	16	him	PER	PRON
+MENTION	T303	93	18	93	18	she	PER	PRON
+MENTION	T304	93	21	93	21	her	PER	PRON
+MENTION	T305	94	0	94	0	He	PER	PRON
+MENTION	T306	94	3	94	3	he	PER	PRON
+MENTION	T307	94	10	94	10	he	PER	PRON
+MENTION	T308	94	13	94	13	he	PER	PRON
+MENTION	T309	95	1	95	1	he	PER	PRON
+MENTION	T310	96	1	96	1	I	PER	PRON
+MENTION	T311	96	7	96	7	you	PER	PRON
+MENTION	T312	96	13	96	13	she	PER	PRON
+MENTION	T313	97	1	97	1	I	PER	PRON
+MENTION	T314	98	1	98	1	You	PER	PRON
+MENTION	T315	98	7	98	7	you	PER	PRON
+MENTION	T316	53	1	53	1	Winterbourne	PER	PROP
+COREF	T0	Vevey-0
+COREF	T2	Switzerland-1
+COREF	T1	Tri_ois_Couronnes-2
+COREF	T115	many_hotels-3
+COREF	T4	tourists-4
+COREF	T116	Vevey-0
+COREF	T5	many_travelers-5
+COREF	T117	the_edge_of_a_remarkably_blue_lake-6
+COREF	T3	every_tourist-7
+COREF	T119	The_shore_of_the_lake-8
+COREF	T120	many_hotels-3
+COREF	T7	the___grand_hotel___of_the_newest_fashion___with_a_chalk-white_front___a_hundred_balconies___and_a_dozen_flags_flying_from_its_roof-9
+COREF	T6	the_little_Swiss_pension_of_an_elder_day___with_its_name_inscribed_in_German-looking_lettering_upon_a_pink_or_yellow_wall_and_an_awkward_summerhouse_in_the_angle_of_the_garden-10
+COREF	T8	Tri_ois_Couronnes-2
+COREF	T10	many_hotels-3
+COREF	T11	this_region-11
+COREF	T9	American_travelers-12
+COREF	T13	Vevey-0
+COREF	T12	an_American_watering_place-13
+COREF	T14	Newport-14
+COREF	T121	Saratoga-15
+COREF	T122	__stylish___young_girls-16
+COREF	T152	You-17
+COREF	T123	Tri_ois_Couronnes-2
+COREF	T124	the_Ocean_House-18
+COREF	T125	Congress_Hall-19
+COREF	T126	Tri_ois_Couronnes-2
+COREF	T127	neat_German_waiters___who_look_like_secretaries_of_legation-20
+COREF	T16	secretaries_of_legation-21
+COREF	T19	Russian_princesses_sitting_in_the_garden-22
+COREF	T15	the_garden-23
+COREF	T128	little_Polish_boys_walking_about_held_by_the_hand___with_their_governors-24
+COREF	T20	their_governors-25
+COREF	T153	little_Polish_boys_walking_about_held_by_the_hand___with_their_governors-24
+COREF	T18	the_sunny_crest_of_the_Dent_du_Midi-26
+COREF	T17	the_picturesque_towers_of_the_Castle_of_Chillon-27
+COREF	T154	Narrator-28
+COREF	T129	young_American-29
+COREF	T21	the_garden-23
+COREF	T130	Tri_ois_Couronnes-2
+COREF	T155	young_American-29
+COREF	T156	Narrator-28
+COREF	T131	young_American-29
+COREF	T158	young_American-29
+COREF	T159	young_American-29
+COREF	T23	Geneva-30
+COREF	T132	the_little_steamer-31
+COREF	T133	his_aunt-32
+COREF	T160	young_American-29
+COREF	T24	Tri_ois_Couronnes-2
+COREF	T134	Geneva-30
+COREF	T161	young_American-29
+COREF	T26	his_aunt-32
+COREF	T162	young_American-29
+COREF	T27	his_aunt-32
+COREF	T163	young_American-29
+COREF	T164	his_aunt-32
+COREF	T28	her_room-33
+COREF	T165	his_aunt-32
+COREF	T166	young_American-29
+COREF	T167	young_American-29
+COREF	T29	his_friends-34
+COREF	T168	young_American-29
+COREF	T169	young_American-29
+COREF	T170	his_friends-34
+COREF	T171	young_American-29
+COREF	T25	Geneva-30
+COREF	T31	his_enemies-35
+COREF	T172	young_American-29
+COREF	T173	young_American-29
+COREF	T174	his_enemies-35
+COREF	T175	young_American-29
+COREF	T32	no_enemies-36
+COREF	T176	young_American-29
+COREF	T177	Narrator-28
+COREF	T35	certain_persons-37
+COREF	T178	young_American-29
+COREF	T179	certain_persons-37
+COREF	T180	young_American-29
+COREF	T36	Geneva-30
+COREF	T181	young_American-29
+COREF	T33	a_lady_who_lived_there-38
+COREF	T147	Geneva-30
+COREF	T182	young_American-29
+COREF	T38	Very_few_Americans-39
+COREF	T183	Narrator-28
+COREF	T34	a_lady_who_lived_there-38
+COREF	T40	Geneva-30
+COREF	T41	young_American-29
+COREF	T184	young_American-29
+COREF	T149	Geneva-30
+COREF	T185	young_American-29
+COREF	T146	college-41
+COREF	T148	Geneva-30
+COREF	T186	young_American-29
+COREF	T187	young_American-29
+COREF	T189	young_American-29
+COREF	T44	his_aunt-32
+COREF	T190	young_American-29
+COREF	T191	his_aunt-32
+COREF	T192	young_American-29
+COREF	T43	Vevey-0
+COREF	T193	young_American-29
+COREF	T194	young_American-29
+COREF	T195	young_American-29
+COREF	T196	young_American-29
+COREF	T197	young_American-29
+COREF	T198	young_American-29
+COREF	T45	the_garden-23
+COREF	T48	the_waiters_who_looked_like_an_attache-42
+COREF	T46	an_attache-43
+COREF	T199	young_American-29
+COREF	T200	young_American-29
+COREF	T50	a_small_boy-44
+COREF	T51	a_small_boy-44
+COREF	T201	a_small_boy-44
+COREF	T202	a_small_boy-44
+COREF	T203	a_small_boy-44
+COREF	T204	a_small_boy-44
+COREF	T205	a_small_boy-44
+COREF	T206	a_small_boy-44
+COREF	T207	a_small_boy-44
+COREF	T208	a_small_boy-44
+COREF	T47	the_garden-23
+COREF	T52	the_ladies-45
+COREF	T55	young_American-29
+COREF	T209	a_small_boy-44
+COREF	T210	young_American-29
+COREF	T211	young_American-29
+COREF	T212	a_small_boy-44
+COREF	T213	a_small_boy-44
+COREF	T56	young_American-29
+COREF	T214	young_American-29
+COREF	T215	young_American-29
+COREF	T216	a_small_boy-44
+COREF	T217	young_American-29
+COREF	T218	young_American-29
+COREF	T57	little_boys-46
+COREF	T59	a_small_boy-44
+COREF	T219	a_small_boy-44
+COREF	T220	a_small_boy-44
+COREF	T221	a_small_boy-44
+COREF	T222	a_small_boy-44
+COREF	T60	young_American-29
+COREF	T223	a_small_boy-44
+COREF	T224	a_small_boy-44
+COREF	T63	young_American-29
+COREF	T225	young_American-29
+COREF	T226	a_small_boy-44
+COREF	T227	a_small_boy-44
+COREF	T228	a_small_boy-44
+COREF	T229	young_American-29
+COREF	T230	a_small_boy-44
+COREF	T232	a_small_boy-44
+COREF	T64	My_mother-47
+COREF	T233	a_small_boy-44
+COREF	T235	My_mother-47
+COREF	T236	My_mother-47
+COREF	T237	a_small_boy-44
+COREF	T238	a_small_boy-44
+COREF	T49	this_old_Europe-48
+COREF	T65	America-49
+COREF	T53	many_hotels-3
+COREF	T66	young_American-29
+COREF	T241	a_small_boy-44
+COREF	T67	My_mother-47
+COREF	T242	a_small_boy-44
+COREF	T243	a_small_boy-44
+COREF	T244	young_American-29
+COREF	T245	My_mother-47
+COREF	T246	a_small_boy-44
+COREF	T68	a_small_boy-44
+COREF	T247	young_American-29
+COREF	T248	a_small_boy-44
+COREF	T54	American_little_boys-50
+COREF	T69	the_best_little_boys-51
+COREF	T316	young_American-29
+COREF	T249	a_small_boy-44
+COREF	T250	a_small_boy-44
+COREF	T58	an_American_boy-52
+COREF	T71	a_small_boy-44
+COREF	T251	young_American-29
+COREF	T252	a_small_boy-44
+COREF	T70	young_American-29
+COREF	T253	young_American-29
+COREF	T72	an_American_man-53
+COREF	T74	a_small_boy-44
+COREF	T75	young_American-29
+COREF	T76	American_men-54
+COREF	T254	a_small_boy-44
+COREF	T77	young_American-29
+COREF	T255	a_small_boy-44
+COREF	T256	a_small_boy-44
+COREF	T73	a_small_boy-44
+COREF	T257	a_small_boy-44
+COREF	T258	a_small_boy-44
+COREF	T259	a_small_boy-44
+COREF	T78	young_American-29
+COREF	T260	young_American-29
+COREF	T261	young_American-29
+COREF	T262	young_American-29
+COREF	T263	young_American-29
+COREF	T135	this_old_Europe-48
+COREF	T136	my_sister-55
+COREF	T264	a_small_boy-44
+COREF	T79	a_small_boy-44
+COREF	T265	my_sister-55
+COREF	T137	young_American-29
+COREF	T81	my_sister-55
+COREF	T82	American_girls-56
+COREF	T266	young_American-29
+COREF	T83	a_small_boy-44
+COREF	T267	young_American-29
+COREF	T85	my_sister-55
+COREF	T268	a_small_boy-44
+COREF	T86	a_small_boy-44
+COREF	T269	my_sister-55
+COREF	T270	a_small_boy-44
+COREF	T271	young_American-29
+COREF	T272	a_small_boy-44
+COREF	T87	young_American-29
+COREF	T88	my_sister-55
+COREF	T273	my_sister-55
+COREF	T274	my_sister-55
+COREF	T275	my_sister-55
+COREF	T276	my_sister-55
+COREF	T277	my_sister-55
+COREF	T278	American_girls-56
+COREF	T89	young_American-29
+COREF	T279	young_American-29
+COREF	T280	young_American-29
+COREF	T281	young_American-29
+COREF	T93	my_sister-55
+COREF	T282	young_American-29
+COREF	T90	the_parapet_of_the_garden___which_overlooked_the_lake-57
+COREF	T91	the_garden-23
+COREF	T92	lake-58
+COREF	T95	a_small_boy-44
+COREF	T283	a_small_boy-44
+COREF	T284	a_small_boy-44
+COREF	T94	a_small_boy-44
+COREF	T96	my_sister-55
+COREF	T285	a_small_boy-44
+COREF	T286	a_small_boy-44
+COREF	T138	the_Alps-59
+COREF	T139	a_small_boy-44
+COREF	T287	a_small_boy-44
+COREF	T97	young_American-29
+COREF	T98	young_American-29
+COREF	T289	young_American-29
+COREF	T140	a_small_boy-44
+COREF	T290	a_small_boy-44
+COREF	T101	my_sister-55
+COREF	T100	a_small_boy-44
+COREF	T291	my_sister-55
+COREF	T292	my_sister-55
+COREF	T293	a_small_boy-44
+COREF	T294	my_sister-55
+COREF	T102	young_American-29
+COREF	T295	young_American-29
+COREF	T296	young_American-29
+COREF	T103	my_sister-55
+COREF	T297	young_American-29
+COREF	T141	a_small_boy-44
+COREF	T298	young_American-29
+COREF	T299	young_American-29
+COREF	T105	Geneva-30
+COREF	T300	young_American-29
+COREF	T106	a_young_man-60
+COREF	T104	a_young_unmarried_lady-61
+COREF	T150	Vevey-0
+COREF	T142	Vevey-0
+COREF	T109	my_sister-55
+COREF	T301	you-62
+COREF	T107	the_garden-23
+COREF	T111	my_sister-55
+COREF	T108	young_American-29
+COREF	T302	young_American-29
+COREF	T303	my_sister-55
+COREF	T304	my_sister-55
+COREF	T110	the_parapet_of_the_garden___which_overlooked_the_lake-57
+COREF	T143	lake-58
+COREF	T144	the_opposite_mountains-63
+COREF	T305	young_American-29
+COREF	T306	young_American-29
+COREF	T307	young_American-29
+COREF	T308	young_American-29
+COREF	T309	young_American-29
+COREF	T112	my_sister-55
+COREF	T113	a_small_boy-44
+COREF	T310	my_sister-55
+COREF	T311	a_small_boy-44
+COREF	T312	my_sister-55
+COREF	T313	a_small_boy-44
+COREF	T145	a_small_boy-44
+COREF	T314	a_small_boy-44
+COREF	T315	a_small_boy-44
+COREF	T114	Italy-64
+APPOS	T118	T349
+COP	T30	T176
+APPOS	T37	T33
+COP	T39	T184
+COP	T62	T226
+COP	T61	T252
+COP	T80	T265
+COP	T84	T82
+COP	T99	T289
+MENTION	T349	1	34	1	37	a remarkably blue lake	LOC	NOM
+COREF	T349	lake-58
+MENTION	T317	2	3	2	4	the lake	LOC	NOM
+COREF	T317	lake-58
+COP	T22	T134
+MENTION	T638	2	45	2	45	its	FAC	PRON
+COREF	T638	the___grand_hotel___of_the_newest_fashion___with_a_chalk-white_front___a_hundred_balconies___and_a_dozen_flags_flying_from_its_roof-9
+MENTION	T640	2	59	2	59	its	FAC	PRON
+COREF	T640	the_little_Swiss_pension_of_an_elder_day___with_its_name_inscribed_in_German-looking_lettering_upon_a_pink_or_yellow_wall_and_an_awkward_summerhouse_in_the_angle_of_the_garden-10
+MENTION	T642	3	20	3	20	its	FAC	PRON
+COREF	T642	Tri_ois_Couronnes-2
+COREF	T42	a_small_boy-44

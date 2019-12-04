@@ -1,0 +1,542 @@
+MENTION	T0	1	1	1	2	the landscape	LOC	NOM
+MENTION	T1	4	1	4	4	a certain tall soldier	PER	NOM
+MENTION	T2	6	37	6	38	division headquarters	FAC	NOM
+MENTION	T3	6	34	6	38	the orderlies at division headquarters	PER	NOM
+MENTION	T4	8	22	8	24	the company street	FAC	NOM
+MENTION	T5	12	16	12	17	twoscore soldiers	PER	NOM
+MENTION	T9	23	0	23	2	The tall soldier	PER	NOM
+MENTION	T10	26	9	26	10	his house	FAC	NOM
+MENTION	T12	28	16	28	17	eternal camp	FAC	NOM
+MENTION	T14	30	11	30	13	the commanding general	PER	NOM
+MENTION	T18	44	23	44	24	his comrades	PER	NOM
+MENTION	T19	44	14	44	16	the tall soldier	PER	NOM
+MENTION	T20	47	13	47	14	the room	FAC	NOM
+MENTION	T26	55	14	55	15	the room	FAC	NOM
+MENTION	T28	67	1	67	2	his home	FAC	NOM
+MENTION	T29	67	12	67	14	his own country	GPE	NOM
+MENTION	T30	71	0	71	0	Men	PER	NOM
+MENTION	T31	78	1	78	2	his mother	PER	NOM
+MENTION	T32	80	24	80	25	the farm	FAC	NOM
+MENTION	T33	80	28	80	31	the field of battle	FAC	NOM
+MENTION	T36	87	22	87	23	some enthusiast	PER	NOM
+MENTION	T39	89	7	89	8	his mother	PER	NOM
+MENTION	T40	89	7	89	10	his mother 's room	FAC	NOM
+MENTION	T42	90	11	90	12	his mother	PER	NOM
+MENTION	T44	93	14	93	15	his mother	PER	NOM
+MENTION	T45	93	9	93	17	a town that was near his mother 's farm	GPE	NOM
+MENTION	T46	94	5	94	6	his mother	PER	NOM
+MENTION	T50	99	35	99	35	home	FAC	NOM
+MENTION	T52	99	47	99	48	his mother	PER	NOM
+MENTION	T57	108	25	108	26	my boy	PER	NOM
+MENTION	T61	112	17	112	21	a young feller like you	PER	NOM
+MENTION	T64	112	30	112	30	home	FAC	NOM
+MENTION	T67	0	7	0	8	the earth	LOC	NOM
+MENTION	T68	0	15	0	21	an army stretched out on the hills	ORG	NOM
+MENTION	T69	0	20	0	21	the hills	LOC	NOM
+MENTION	T70	1	9	1	10	the army	ORG	NOM
+MENTION	T71	2	5	2	6	the roads	FAC	NOM
+MENTION	T72	2	12	2	16	long troughs of liquid mud	FAC	NOM
+MENTION	T73	2	18	2	19	proper thoroughfares	FAC	NOM
+MENTION	T74	3	0	3	9	A river , amber-tinted in the shadow of its banks	LOC	NOM
+MENTION	T75	3	13	3	14	the army	ORG	NOM
+MENTION	T76	3	23	3	24	the stream	LOC	NOM
+MENTION	T77	3	28	3	30	a sorrowful blackness	LOC	NOM
+MENTION	T78	3	47	3	52	the low brows of distant hills	LOC	NOM
+MENTION	T79	3	51	3	52	distant hills	LOC	NOM
+MENTION	T80	5	5	5	6	a brook	LOC	NOM
+MENTION	T81	6	10	6	12	a reliable friend	PER	NOM
+MENTION	T82	6	19	6	21	a truthful cavalryman	PER	NOM
+MENTION	T83	6	28	6	38	his trustworthy brother , one of the orderlies at division headquarters	PER	NOM
+MENTION	T84	8	19	8	24	a group in the company street	PER	NOM
+MENTION	T85	9	8	9	9	the river	LOC	NOM
+MENTION	T86	10	1	10	3	his attentive audience	PER	NOM
+MENTION	T87	11	5	11	7	the blue-clothed men	PER	NOM
+MENTION	T88	11	10	11	12	small arguing groups	PER	NOM
+MENTION	T7	12	0	12	17	A negro teamster who had been dancing upon a cracker box with the hilarious encouragement of twoscore soldiers	PER	NOM
+MENTION	T6	17	1	17	2	another private	PER	NOM
+MENTION	T8	20	5	20	8	the derned old army	ORG	NOM
+MENTION	T89	25	0	25	1	A corporal	PER	NOM
+MENTION	T90	25	6	25	7	the assemblage	PER	NOM
+MENTION	T11	27	21	27	22	the army	ORG	NOM
+MENTION	T13	29	0	29	3	Many of the men	PER	NOM
+MENTION	T91	31	4	31	13	men who advocated that there were other plans of campaign	PER	NOM
+MENTION	T92	33	2	33	8	the soldier who had fetched the rumor	PER	NOM
+MENTION	T93	35	5	35	5	Jim	PER	PROP
+MENTION	T94	36	1	36	3	Th ' army	ORG	NOM
+MENTION	T15	44	2	44	4	a youthful private	PER	NOM
+MENTION	T16	45	14	45	15	his hut	FAC	NOM
+MENTION	T17	55	31	55	33	the whole establishment	FAC	NOM
+MENTION	T21	56	0	56	1	The youth	PER	NOM
+MENTION	T22	63	3	63	11	peoples secure in the shadow of his eagle-eyed prowess	PER	NOM
+MENTION	T25	65	16	65	17	high castles	FAC	NOM
+MENTION	T27	84	6	84	7	the village	GPE	NOM
+MENTION	T34	88	3	88	8	the people rejoicing in the night	PER	NOM
+MENTION	T35	90	1	90	1	Henry	PER	PROP
+MENTION	T37	93	14	93	17	his mother 's farm	FAC	NOM
+MENTION	T38	93	22	93	27	a company that was forming there	PER	NOM
+MENTION	T41	94	4	94	4	home	FAC	NOM
+MENTION	T43	98	8	98	8	Henry	PER	PROP
+MENTION	T47	104	16	104	16	Henry	PER	PROP
+MENTION	T48	105	8	105	11	the hull rebel army	PER	NOM
+MENTION	T51	106	2	106	10	one little feller amongst a hull lot of others	PER	NOM
+MENTION	T53	106	6	106	10	a hull lot of others	PER	NOM
+MENTION	T54	108	10	108	10	Henry	PER	PROP
+MENTION	T55	108	37	108	40	anybody in the army	PER	NOM
+MENTION	T56	108	39	108	40	the army	ORG	NOM
+MENTION	T58	110	10	110	12	comp ' ny	PER	NOM
+MENTION	T59	111	4	111	8	bad men in the army	PER	NOM
+MENTION	T60	111	10	111	10	Henry	PER	PROP
+MENTION	T95	112	0	112	1	The army	ORG	NOM
+MENTION	T62	112	36	112	37	a mother	PER	NOM
+MENTION	T63	113	3	113	4	them folks	PER	NOM
+MENTION	T96	113	6	113	6	Henry	PER	PROP
+MENTION	T65	114	10	114	10	Henry	PER	PROP
+MENTION	T66	107	6	107	6	Henry	PER	PROP
+MENTION	T97	111	7	111	8	the army	ORG	NOM
+MENTION	T23	66	5	66	6	the world	LOC	NOM
+MENTION	T98	60	21	60	22	the earth	LOC	NOM
+MENTION	T99	93	27	93	27	there	GPE	NOM
+MENTION	T100	5	0	5	0	He	PER	PRON
+MENTION	T101	5	8	5	8	his	PER	PRON
+MENTION	T102	6	0	6	0	He	PER	PRON
+MENTION	T103	6	6	6	6	he	PER	PRON
+MENTION	T104	6	28	6	28	his	PER	PRON
+MENTION	T105	7	0	7	0	He	PER	PRON
+MENTION	T106	8	1	8	1	We	PER	PRON
+MENTION	T107	8	15	8	15	he	PER	PRON
+MENTION	T108	9	1	9	1	We	PER	PRON
+MENTION	T109	10	1	10	1	his	PER	PRON
+MENTION	T110	10	4	10	4	he	PER	PRON
+MENTION	T111	11	1	11	1	he	PER	PRON
+MENTION	T112	13	0	13	0	He	PER	PRON
+MENTION	T113	18	0	18	0	His	PER	PRON
+MENTION	T114	18	7	18	7	his	PER	PRON
+MENTION	T115	18	13	18	13	his	PER	PRON
+MENTION	T116	19	0	19	0	He	PER	PRON
+MENTION	T117	19	8	19	8	him	PER	PRON
+MENTION	T118	20	1	20	1	I	PER	PRON
+MENTION	T119	21	0	21	0	We	PER	PRON
+MENTION	T120	22	0	22	0	I	PER	PRON
+MENTION	T121	22	15	22	15	we	PER	PRON
+MENTION	T122	23	13	23	13	he	PER	PRON
+MENTION	T123	23	14	23	14	himself	PER	PRON
+MENTION	T124	24	0	24	0	He	PER	PRON
+MENTION	T125	26	0	26	0	He	PER	PRON
+MENTION	T126	26	9	26	9	his	PER	PRON
+MENTION	T127	26	12	26	12	he	PER	PRON
+MENTION	T128	27	4	27	4	he	PER	PRON
+MENTION	T129	27	14	27	14	his	PER	PRON
+MENTION	T130	27	17	27	17	he	PER	PRON
+MENTION	T131	28	5	28	5	he	PER	PRON
+MENTION	T132	28	10	28	10	they	PER	PRON
+MENTION	T133	31	0	31	0	He	PER	PRON
+MENTION	T134	32	0	32	0	They	PER	PRON
+MENTION	T135	34	0	34	0	He	PER	PRON
+MENTION	T136	39	8	39	8	me	PER	PRON
+MENTION	T137	40	0	40	0	I	PER	PRON
+MENTION	T138	41	11	41	11	he	PER	PRON
+MENTION	T139	42	0	42	0	He	PER	PRON
+MENTION	T140	42	5	42	5	them	PER	PRON
+MENTION	T141	43	0	43	0	They	PER	PRON
+MENTION	T142	44	23	44	23	his	PER	PRON
+MENTION	T143	45	11	45	11	he	PER	PRON
+MENTION	T144	45	14	45	14	his	PER	PRON
+MENTION	T145	46	0	46	0	He	PER	PRON
+MENTION	T146	46	14	46	14	him	PER	PRON
+MENTION	T147	47	0	47	0	He	PER	PRON
+MENTION	T149	57	1	57	1	they	PER	PRON
+MENTION	T150	58	13	58	13	he	PER	PRON
+MENTION	T151	59	3	59	3	he	PER	PRON
+MENTION	T152	59	10	59	10	himself	PER	PRON
+MENTION	T153	60	0	60	0	He	PER	PRON
+MENTION	T154	60	9	60	9	he	PER	PRON
+MENTION	T155	61	0	61	0	He	PER	PRON
+MENTION	T156	61	10	61	10	his	PER	PRON
+MENTION	T157	61	21	61	21	him	PER	PRON
+MENTION	T159	62	2	62	2	he	PER	PRON
+MENTION	T160	62	5	62	5	himself	PER	PRON
+MENTION	T161	63	0	63	0	He	PER	PRON
+MENTION	T162	63	9	63	9	his	PER	PRON
+MENTION	T163	64	2	64	2	he	PER	PRON
+MENTION	T164	65	0	65	0	He	PER	PRON
+MENTION	T166	65	10	65	10	his	PER	PRON
+MENTION	T167	66	10	66	10	he	PER	PRON
+MENTION	T168	66	22	66	22	he	PER	PRON
+MENTION	T169	67	1	67	1	his	PER	PRON
+MENTION	T170	67	3	67	3	his	PER	PRON
+MENTION	T171	67	12	67	12	his	PER	PRON
+MENTION	T172	69	0	69	0	He	PER	PRON
+MENTION	T173	70	6	70	6	he	PER	PRON
+MENTION	T174	73	0	73	0	He	PER	PRON
+MENTION	T177	76	0	76	0	He	PER	PRON
+MENTION	T178	76	11	76	11	he	PER	PRON
+MENTION	T179	77	0	77	0	His	PER	PRON
+MENTION	T180	77	6	77	6	him	PER	PRON
+MENTION	T181	78	1	78	1	his	PER	PRON
+MENTION	T182	78	5	78	5	him	PER	PRON
+MENTION	T183	79	0	79	0	She	PER	PRON
+MENTION	T184	79	12	79	12	his	PER	PRON
+MENTION	T185	80	0	80	0	She	PER	PRON
+MENTION	T186	80	4	80	4	herself	PER	PRON
+MENTION	T187	80	11	80	11	him	PER	PRON
+MENTION	T188	80	17	80	17	he	PER	PRON
+MENTION	T189	81	0	81	0	She	PER	PRON
+MENTION	T190	81	9	81	9	him	PER	PRON
+MENTION	T191	81	11	81	11	her	PER	PRON
+MENTION	T192	82	3	82	3	her	PER	PRON
+MENTION	T193	82	7	82	7	his	PER	PRON
+MENTION	T194	82	10	82	10	her	PER	PRON
+MENTION	T195	83	5	83	5	he	PER	PRON
+MENTION	T196	83	19	83	19	his	PER	PRON
+MENTION	T197	84	9	84	9	his	PER	PRON
+MENTION	T198	84	15	84	15	him	PER	PRON
+MENTION	T199	85	0	85	0	They	PER	PRON
+MENTION	T200	87	4	87	4	he	PER	PRON
+MENTION	T201	87	14	87	14	him	PER	PRON
+MENTION	T202	88	11	88	11	him	PER	PRON
+MENTION	T203	89	2	89	2	he	PER	PRON
+MENTION	T204	89	7	89	7	his	PER	PRON
+MENTION	T205	89	19	89	19	I	PER	PRON
+MENTION	T206	90	5	90	5	you	PER	PRON
+MENTION	T207	90	11	90	11	his	PER	PRON
+MENTION	T208	91	0	91	0	She	PER	PRON
+MENTION	T209	91	4	91	4	her	PER	PRON
+MENTION	T210	93	5	93	5	he	PER	PRON
+MENTION	T211	93	14	93	14	his	PER	PRON
+MENTION	T212	94	1	94	1	he	PER	PRON
+MENTION	T213	94	5	94	5	his	PER	PRON
+MENTION	T214	96	3	96	3	I	PER	PRON
+MENTION	T215	96	8	96	8	he	PER	PRON
+MENTION	T216	96	12	96	12	her	PER	PRON
+MENTION	T217	98	11	98	11	she	PER	PRON
+MENTION	T218	99	1	99	1	he	PER	PRON
+MENTION	T219	99	8	99	8	his	PER	PRON
+MENTION	T220	99	13	99	13	his	PER	PRON
+MENTION	T221	99	25	99	25	his	PER	PRON
+MENTION	T222	99	38	99	38	he	PER	PRON
+MENTION	T224	99	47	99	47	his	PER	PRON
+MENTION	T225	100	2	100	2	she	PER	PRON
+MENTION	T226	100	5	100	5	him	PER	PRON
+MENTION	T227	100	13	100	13	his	PER	PRON
+MENTION	T228	101	0	101	0	He	PER	PRON
+MENTION	T229	101	4	101	4	himself	PER	PRON
+MENTION	T230	102	0	102	0	He	PER	PRON
+MENTION	T231	102	6	102	6	he	PER	PRON
+MENTION	T232	103	1	103	1	her	PER	PRON
+MENTION	T233	103	4	103	4	his	PER	PRON
+MENTION	T234	104	0	104	0	She	PER	PRON
+MENTION	T235	104	7	104	7	him	PER	PRON
+MENTION	T236	104	12	104	12	You	PER	PRON
+MENTION	T237	104	31	104	31	you	PER	PRON
+MENTION	T238	105	5	105	5	you	PER	PRON
+MENTION	T239	106	23	106	23	they	PER	PRON
+MENTION	T240	107	0	107	0	I	PER	PRON
+MENTION	T241	107	3	107	3	you	PER	PRON
+MENTION	T242	108	1	108	1	I	PER	PRON
+MENTION	T243	108	13	108	13	I	PER	PRON
+MENTION	T244	108	23	108	23	I	PER	PRON
+MENTION	T245	108	25	108	25	my	PER	PRON
+MENTION	T247	109	7	109	7	I	PER	PRON
+MENTION	T248	109	16	109	16	me	PER	PRON
+MENTION	T249	109	20	109	20	I	PER	PRON
+MENTION	T250	112	7	112	7	they	PER	PRON
+MENTION	T251	112	21	112	21	you	PER	PRON
+MENTION	T253	114	0	114	0	I	PER	PRON
+MENTION	T254	114	20	114	20	me	PER	PRON
+MENTION	T255	115	4	115	4	I	PER	PRON
+MENTION	T256	116	9	116	9	I	PER	PRON
+MENTION	T257	3	36	3	36	it	LOC	PRON
+MENTION	T258	30	0	30	0	One	PER	NOM
+MENTION	T260	37	4	37	4	yeh	PER	PRON
+MENTION	T261	38	1	38	1	yeh	PER	PRON
+MENTION	T262	39	3	39	3	yeh	PER	PRON
+MENTION	T263	39	14	39	14	yeh	PER	PRON
+COREF	T67	the_earth-0
+COREF	T68	an_army_stretched_out_on_the_hills-1
+COREF	T69	the_hills-2
+COREF	T0	the_landscape-3
+COREF	T70	an_army_stretched_out_on_the_hills-1
+COREF	T71	the_roads-4
+COREF	T72	long_troughs_of_liquid_mud-5
+COREF	T73	proper_thoroughfares-6
+COREF	T74	A_river___amber-tinted_in_the_shadow_of_its_banks-7
+COREF	T75	an_army_stretched_out_on_the_hills-1
+COREF	T76	A_river___amber-tinted_in_the_shadow_of_its_banks-7
+COREF	T77	a_sorrowful_blackness-8
+COREF	T257	A_river___amber-tinted_in_the_shadow_of_its_banks-7
+COREF	T78	the_low_brows_of_distant_hills-9
+COREF	T79	distant_hills-10
+COREF	T1	a_certain_tall_soldier-11
+COREF	T100	a_certain_tall_soldier-11
+COREF	T80	a_brook-12
+COREF	T101	a_certain_tall_soldier-11
+COREF	T102	a_certain_tall_soldier-11
+COREF	T103	a_certain_tall_soldier-11
+COREF	T81	a_reliable_friend-13
+COREF	T82	a_truthful_cavalryman-14
+COREF	T83	his_trustworthy_brother___one_of_the_orderlies_at_division_headquarters-15
+COREF	T104	a_truthful_cavalryman-14
+COREF	T3	the_orderlies_at_division_headquarters-16
+COREF	T2	division_headquarters-17
+COREF	T105	a_certain_tall_soldier-11
+COREF	T106	We-18
+COREF	T107	a_certain_tall_soldier-11
+COREF	T84	a_group_in_the_company_street-19
+COREF	T4	the_company_street-20
+COREF	T108	We-18
+COREF	T85	A_river___amber-tinted_in_the_shadow_of_its_banks-7
+COREF	T86	a_group_in_the_company_street-19
+COREF	T109	a_certain_tall_soldier-11
+COREF	T110	a_certain_tall_soldier-11
+COREF	T111	a_certain_tall_soldier-11
+COREF	T87	a_group_in_the_company_street-19
+COREF	T88	small_arguing_groups-22
+COREF	T7	A_negro_teamster_who_had_been_dancing_upon_a_cracker_box_with_the_hilarious_encouragement_of_twoscore_soldiers-23
+COREF	T5	twoscore_soldiers-24
+COREF	T112	A_negro_teamster_who_had_been_dancing_upon_a_cracker_box_with_the_hilarious_encouragement_of_twoscore_soldiers-23
+COREF	T6	another_private-25
+COREF	T113	another_private-25
+COREF	T114	another_private-25
+COREF	T115	another_private-25
+COREF	T116	another_private-25
+COREF	T117	another_private-25
+COREF	T118	another_private-25
+COREF	T8	an_army_stretched_out_on_the_hills-1
+COREF	T119	We-18
+COREF	T120	another_private-25
+COREF	T121	We-18
+COREF	T9	a_certain_tall_soldier-11
+COREF	T122	a_certain_tall_soldier-11
+COREF	T123	a_certain_tall_soldier-11
+COREF	T124	a_certain_tall_soldier-11
+COREF	T89	A_corporal-26
+COREF	T90	a_group_in_the_company_street-19
+COREF	T125	A_corporal-26
+COREF	T10	his_house-27
+COREF	T126	A_corporal-26
+COREF	T127	A_corporal-26
+COREF	T128	A_corporal-26
+COREF	T129	A_corporal-26
+COREF	T130	A_corporal-26
+COREF	T11	an_army_stretched_out_on_the_hills-1
+COREF	T131	A_corporal-26
+COREF	T132	they-28
+COREF	T12	eternal_camp-29
+COREF	T13	Many_of_the_men-30
+COREF	T258	One-31
+COREF	T14	the_commanding_general-32
+COREF	T133	One-31
+COREF	T91	men_who_advocated_that_there_were_other_plans_of_campaign-33
+COREF	T134	They-34
+COREF	T92	a_certain_tall_soldier-11
+COREF	T135	a_certain_tall_soldier-11
+COREF	T93	a_certain_tall_soldier-11
+COREF	T94	an_army_stretched_out_on_the_hills-1
+COREF	T136	a_certain_tall_soldier-11
+COREF	T137	a_certain_tall_soldier-11
+COREF	T138	a_certain_tall_soldier-11
+COREF	T139	a_certain_tall_soldier-11
+COREF	T140	They-34
+COREF	T141	They-34
+COREF	T15	Henry_Fleming-37
+COREF	T19	a_certain_tall_soldier-11
+COREF	T18	his_comrades-38
+COREF	T142	Henry_Fleming-37
+COREF	T143	Henry_Fleming-37
+COREF	T16	his_hut-39
+COREF	T144	Henry_Fleming-37
+COREF	T145	Henry_Fleming-37
+COREF	T146	Henry_Fleming-37
+COREF	T147	Henry_Fleming-37
+COREF	T20	the_room-40
+COREF	T26	the_room-40
+COREF	T17	his_hut-39
+COREF	T21	Henry_Fleming-37
+COREF	T149	they-42
+COREF	T150	Henry_Fleming-37
+COREF	T151	Henry_Fleming-37
+COREF	T152	Henry_Fleming-37
+COREF	T153	Henry_Fleming-37
+COREF	T154	Henry_Fleming-37
+COREF	T98	the_earth-43
+COREF	T155	Henry_Fleming-37
+COREF	T156	Henry_Fleming-37
+COREF	T157	Henry_Fleming-37
+COREF	T159	Henry_Fleming-37
+COREF	T160	Henry_Fleming-37
+COREF	T161	Henry_Fleming-37
+COREF	T22	peoples_secure_in_the_shadow_of_his_eagle-eyed_prowess-44
+COREF	T162	Henry_Fleming-37
+COREF	T163	Henry_Fleming-37
+COREF	T164	Henry_Fleming-37
+COREF	T166	Henry_Fleming-37
+COREF	T25	high_castles-45
+COREF	T23	the_world-46
+COREF	T167	Henry_Fleming-37
+COREF	T168	Henry_Fleming-37
+COREF	T28	his_home-47
+COREF	T169	Henry_Fleming-37
+COREF	T170	Henry_Fleming-37
+COREF	T29	his_own_country-48
+COREF	T171	Henry_Fleming-37
+COREF	T172	Henry_Fleming-37
+COREF	T173	Henry_Fleming-37
+COREF	T30	Men-49
+COREF	T174	Henry_Fleming-37
+COREF	T177	Henry_Fleming-37
+COREF	T178	Henry_Fleming-37
+COREF	T179	Henry_Fleming-37
+COREF	T180	Henry_Fleming-37
+COREF	T31	his_mother-50
+COREF	T181	Henry_Fleming-37
+COREF	T182	Henry_Fleming-37
+COREF	T183	his_mother-50
+COREF	T184	Henry_Fleming-37
+COREF	T185	his_mother-50
+COREF	T186	his_mother-50
+COREF	T187	Henry_Fleming-37
+COREF	T188	Henry_Fleming-37
+COREF	T32	the_farm-51
+COREF	T33	the_field_of_battle-52
+COREF	T189	his_mother-50
+COREF	T190	Henry_Fleming-37
+COREF	T191	his_mother-50
+COREF	T192	his_mother-50
+COREF	T193	Henry_Fleming-37
+COREF	T194	his_mother-50
+COREF	T195	Henry_Fleming-37
+COREF	T196	Henry_Fleming-37
+COREF	T27	the_village-53
+COREF	T197	Henry_Fleming-37
+COREF	T198	Henry_Fleming-37
+COREF	T199	They-54
+COREF	T200	Henry_Fleming-37
+COREF	T201	Henry_Fleming-37
+COREF	T36	some_enthusiast-55
+COREF	T34	the_people_rejoicing_in_the_night-56
+COREF	T202	Henry_Fleming-37
+COREF	T203	Henry_Fleming-37
+COREF	T39	his_mother-50
+COREF	T40	his_mother__s_room-57
+COREF	T204	Henry_Fleming-37
+COREF	T205	Henry_Fleming-37
+COREF	T35	Henry_Fleming-37
+COREF	T206	Henry_Fleming-37
+COREF	T42	his_mother-50
+COREF	T207	Henry_Fleming-37
+COREF	T208	his_mother-50
+COREF	T209	his_mother-50
+COREF	T210	Henry_Fleming-37
+COREF	T45	a_town_that_was_near_his_mother__s_farm-58
+COREF	T44	his_mother-50
+COREF	T37	the_farm-51
+COREF	T211	Henry_Fleming-37
+COREF	T38	a_company_that_was_forming_there-59
+COREF	T99	a_town_that_was_near_his_mother__s_farm-58
+COREF	T212	Henry_Fleming-37
+COREF	T41	home-60
+COREF	T46	his_mother-50
+COREF	T213	Henry_Fleming-37
+COREF	T214	Henry_Fleming-37
+COREF	T215	Henry_Fleming-37
+COREF	T216	his_mother-50
+COREF	T43	Henry_Fleming-37
+COREF	T217	his_mother-50
+COREF	T218	Henry_Fleming-37
+COREF	T219	Henry_Fleming-37
+COREF	T220	Henry_Fleming-37
+COREF	T221	Henry_Fleming-37
+COREF	T50	home-61
+COREF	T222	Henry_Fleming-37
+COREF	T52	his_mother-50
+COREF	T224	Henry_Fleming-37
+COREF	T225	his_mother-50
+COREF	T226	Henry_Fleming-37
+COREF	T227	Henry_Fleming-37
+COREF	T228	Henry_Fleming-37
+COREF	T229	Henry_Fleming-37
+COREF	T230	Henry_Fleming-37
+COREF	T231	Henry_Fleming-37
+COREF	T232	his_mother-50
+COREF	T233	Henry_Fleming-37
+COREF	T234	his_mother-50
+COREF	T235	Henry_Fleming-37
+COREF	T236	Henry_Fleming-37
+COREF	T47	Henry_Fleming-37
+COREF	T237	Henry_Fleming-37
+COREF	T238	Henry_Fleming-37
+COREF	T48	the_hull_rebel_army-62
+COREF	T51	one_little_feller_amongst_a_hull_lot_of_others-63
+COREF	T53	a_hull_lot_of_others-64
+COREF	T239	a_hull_lot_of_others-64
+COREF	T240	his_mother-50
+COREF	T241	Henry_Fleming-37
+COREF	T66	Henry_Fleming-37
+COREF	T242	his_mother-50
+COREF	T54	Henry_Fleming-37
+COREF	T243	his_mother-50
+COREF	T244	his_mother-50
+COREF	T57	Henry_Fleming-37
+COREF	T245	his_mother-50
+COREF	T55	anybody_in_the_army-65
+COREF	T56	the_army-66
+COREF	T247	his_mother-50
+COREF	T248	his_mother-50
+COREF	T249	his_mother-50
+COREF	T58	comp___ny-67
+COREF	T59	bad_men_in_the_army-68
+COREF	T97	the_army-66
+COREF	T60	Henry_Fleming-37
+COREF	T95	the_army-66
+COREF	T250	bad_men_in_the_army-68
+COREF	T61	a_young_feller_like_you-69
+COREF	T251	Henry_Fleming-37
+COREF	T64	home-70
+COREF	T62	a_mother-71
+COREF	T63	bad_men_in_the_army-68
+COREF	T96	Henry_Fleming-37
+COREF	T253	his_mother-50
+COREF	T65	Henry_Fleming-37
+COREF	T254	his_mother-50
+COREF	T255	his_mother-50
+COREF	T256	his_mother-50
+COREF	T260	a_certain_tall_soldier-11
+COREF	T261	a_certain_tall_soldier-11
+COREF	T262	a_certain_tall_soldier-11
+COREF	T263	yeh-72
+MENTION	T528	106	13	106	13	yeh	PER	NOM
+COREF	T528	Henry_Fleming-37
+MENTION	T530	2	0	2	0	It	ORG	PRON
+COREF	T530	an_army_stretched_out_on_the_hills-1
+MENTION	T532	2	2	2	2	its	ORG	PRON
+COREF	T532	an_army_stretched_out_on_the_hills-1
+MENTION	T534	3	8	3	8	its	LOC	PRON
+COREF	T534	A_river___amber-tinted_in_the_shadow_of_its_banks-7
+MENTION	T550	45	24	45	24	it	FAC	PRON
+COREF	T550	his_hut-39
+MENTION	T24	105	17	105	17	yeh	PER	PRON
+COREF	T24	Henry_Fleming-37
+MENTION	T148	106	0	106	0	Yer	PER	PRON
+COREF	T148	Henry_Fleming-37
+MENTION	T165	106	25	106	25	yeh	PER	PRON
+COREF	T165	Henry_Fleming-37
+MENTION	T176	108	4	108	4	yeh	PER	PRON
+COREF	T176	Henry_Fleming-37
+MENTION	T246	108	18	108	18	yer	PER	PRON
+COREF	T246	Henry_Fleming-37
+MENTION	T288	109	9	109	9	yeh	PER	PRON
+COREF	T288	Henry_Fleming-37
+MENTION	T412	110	9	110	9	yer	PER	PRON
+COREF	T412	Henry_Fleming-37
+MENTION	T252	114	4	114	4	yeh	PER	PRON
+COREF	T252	Henry_Fleming-37
+MENTION	T439	114	13	114	13	yeh	PER	PRON
+COREF	T439	Henry_Fleming-37
+MENTION	T487	115	8	115	8	yeh	PER	PRON
+COREF	T487	Henry_Fleming-37
+MENTION	T516	116	1	116	1	yeh	PER	PRON
+COREF	T516	Henry_Fleming-37
+MENTION	T536	116	5	116	5	yer	PER	PRON
+COREF	T536	Henry_Fleming-37
+MENTION	T538	116	11	116	11	yeh	PER	PRON
+COREF	T538	Henry_Fleming-37

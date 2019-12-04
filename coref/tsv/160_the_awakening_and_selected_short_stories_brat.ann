@@ -1,0 +1,602 @@
+MENTION	T2	8	9	8	10	Madame Lebrun	PER	PROP
+MENTION	T4	9	0	9	1	Mr. Pontellier	PER	PROP
+MENTION	T7	14	30	14	31	New Orleans	GPE	PROP
+MENTION	T9	15	0	15	1	Mr. Pontellier	PER	PROP
+MENTION	T12	23	0	23	6	Two young girls , the Farival twins	PER	NOM
+MENTION	T13	24	0	24	1	Madame Lebrun	PER	PROP
+MENTION	T15	24	32	24	34	a dining-room servant	PER	NOM
+MENTION	T16	27	9	27	12	a lady in black	PER	NOM
+MENTION	T17	28	0	28	6	A good many persons of the pension	PER	NOM
+MENTION	T20	28	11	28	13	the Cheniere Caminada	GPE	NOM
+MENTION	T21	30	0	30	1	Mr. Pontellier	PER	PROP
+MENTION	T24	30	0	30	4	Mr. Pontellier 's two children	PER	NOM
+MENTION	T26	31	0	31	2	A quadroon nurse	PER	NOM
+MENTION	T27	32	0	32	1	Mr. Pontellier	PER	PROP
+MENTION	T29	35	12	35	13	the horizon	LOC	NOM
+MENTION	T30	37	8	37	9	Mrs. Pontellier	PER	PROP
+MENTION	T36	41	1	41	2	Mr. Pontellier	PER	PROP
+MENTION	T38	44	13	44	14	his wife	PER	NOM
+MENTION	T39	46	14	46	15	her husband	PER	NOM
+MENTION	T40	48	16	48	16	Robert	PER	PROP
+MENTION	T42	55	7	55	8	Mr. Pontellier	PER	PROP
+MENTION	T45	58	11	58	11	Robert	PER	PROP
+MENTION	T46	59	16	59	17	Mrs. Pontellier	PER	PROP
+MENTION	T48	59	1	59	1	Robert	PER	PROP
+MENTION	T49	60	17	60	18	her husband	PER	NOM
+MENTION	T50	64	0	64	1	his wife	PER	NOM
+MENTION	T51	68	11	68	11	Klein	PER	PROP
+MENTION	T52	70	0	70	1	Both children	PER	NOM
+MENTION	T53	70	5	70	6	their father	PER	NOM
+MENTION	T56	79	0	79	0	Robert	PER	PROP
+MENTION	T57	81	8	81	9	Mr. Pontellier	PER	PROP
+MENTION	T60	87	0	87	1	Mrs. Pontellier	PER	PROP
+MENTION	T63	87	20	87	20	Robert	PER	PROP
+MENTION	T65	88	43	88	49	the children playing croquet under the oaks	PER	NOM
+MENTION	T67	89	0	89	0	Robert	PER	PROP
+MENTION	T68	91	0	91	1	Mrs. Pontellier	PER	PROP
+MENTION	T70	93	0	93	0	Robert	PER	PROP
+MENTION	T71	93	8	93	8	Mexico	GPE	PROP
+MENTION	T72	94	7	94	7	Mexico	GPE	PROP
+MENTION	T73	95	32	95	33	a clerk	PER	NOM
+MENTION	T74	95	35	95	35	correspondent	PER	NOM
+MENTION	T80	97	5	97	5	Robert	PER	PROP
+MENTION	T81	98	26	98	27	Madame Lebrun	PER	PROP
+MENTION	T84	99	0	99	1	Mrs. Pontellier	PER	PROP
+MENTION	T85	99	14	99	18	the old Kentucky bluegrass country	LOC	NOM
+MENTION	T88	99	4	99	5	her father	PER	NOM
+MENTION	T89	99	7	99	7	Mississippi	GPE	PROP
+MENTION	T93	102	17	102	18	the father	PER	NOM
+MENTION	T94	102	25	102	26	the mother	PER	NOM
+MENTION	T95	102	0	102	0	Robert	PER	PROP
+MENTION	T96	102	11	102	11	girls	PER	NOM
+MENTION	T97	102	12	102	13	the sisters	PER	NOM
+MENTION	T98	103	1	103	2	Mrs. Pontellier	PER	PROP
+MENTION	T100	104	20	104	21	her husband	PER	NOM
+MENTION	T101	104	3	104	3	Leonce	PER	PROP
+MENTION	T102	105	0	105	0	Robert	PER	PROP
+MENTION	T105	105	18	105	18	Klein	PER	PROP
+MENTION	T106	106	1	106	2	Mrs. Pontellier	PER	PROP
+MENTION	T108	106	10	106	12	the young man	PER	NOM
+MENTION	T109	107	8	107	9	Mr. Pontellier	PER	PROP
+MENTION	T110	107	12	107	12	Klein	PER	PROP
+MENTION	T1	5	0	5	1	Mr. Pontellier	PER	PROP
+MENTION	T113	6	3	6	4	the gallery	FAC	NOM
+MENTION	T114	6	7	6	20	the narrow “ bridges ” which connected the Lebrun cottages one with the other	FAC	NOM
+MENTION	T115	6	14	6	16	the Lebrun cottages	FAC	NOM
+MENTION	T116	7	8	7	10	the main house	FAC	NOM
+MENTION	T3	10	6	10	8	his own cottage	FAC	NOM
+MENTION	T5	10	16	10	18	the main building	FAC	NOM
+MENTION	T6	13	7	13	8	Grand Isle	GPE	PROP
+MENTION	T10	20	8	20	9	the house	FAC	NOM
+MENTION	T11	21	0	21	2	The main building	FAC	NOM
+MENTION	T117	21	6	21	7	the house	FAC	NOM
+MENTION	T118	21	14	21	15	the cottages	FAC	NOM
+MENTION	T119	24	15	24	16	a yard-boy	PER	NOM
+MENTION	T14	30	8	30	14	sturdy little fellows of four and five	PER	NOM
+MENTION	T8	16	2	16	13	a man of forty , of medium height and rather slender build	PER	NOM
+MENTION	T22	24	21	24	22	the house	FAC	NOM
+MENTION	T23	24	33	24	33	dining-room	FAC	NOM
+MENTION	T28	25	2	25	14	a fresh , pretty woman , clad always in white with elbow sleeves	PER	NOM
+MENTION	T120	27	4	27	7	one of the cottages	FAC	NOM
+MENTION	T18	28	15	28	17	Beaudelet 's lugger	VEH	NOM
+MENTION	T19	29	0	29	2	Some young people	PER	NOM
+MENTION	T121	35	0	35	1	The gulf	LOC	NOM
+MENTION	T31	37	5	37	6	his wife	PER	NOM
+MENTION	T32	37	13	37	14	Robert Lebrun	PER	PROP
+MENTION	T33	38	3	38	4	the cottage	FAC	NOM
+MENTION	T34	38	6	38	7	the two	PER	NOM
+MENTION	T35	46	19	46	20	the beach	LOC	NOM
+MENTION	T37	52	1	52	1	Pontellier	PER	PROP
+MENTION	T41	52	8	52	8	one	PER	NOM
+MENTION	T122	52	10	52	11	the other	PER	NOM
+MENTION	T43	57	15	57	17	Klein 's hotel	FAC	NOM
+MENTION	T124	58	5	58	5	Lebrun	PER	PROP
+MENTION	T47	60	13	60	13	Edna	PER	PROP
+MENTION	T125	68	11	68	12	Klein 's	FAC	PROP
+MENTION	T54	72	1	72	2	Mrs. Pontellier	PER	PROP
+MENTION	T55	83	6	83	7	his companion	PER	NOM
+MENTION	T59	88	39	88	40	the Cheniere	GPE	PROP
+MENTION	T61	88	52	88	54	the Farival twins	PER	NOM
+MENTION	T66	92	5	92	6	the other	PER	NOM
+MENTION	T69	92	0	92	0	Each	PER	NOM
+MENTION	T126	94	14	94	14	there	GPE	NOM
+MENTION	T128	95	9	95	14	a mercantile house in New Orleans	FAC	NOM
+MENTION	T78	95	13	95	14	New Orleans	GPE	PROP
+MENTION	T75	96	13	96	14	his mother	PER	NOM
+MENTION	T76	96	16	96	17	Grand Isle	GPE	PROP
+MENTION	T77	97	10	97	11	the house	FAC	NOM
+MENTION	T79	97	19	97	20	the Lebruns	PER	NOM
+MENTION	T129	98	5	98	8	dozen or more cottages	FAC	NOM
+MENTION	T82	99	7	99	8	Mississippi plantation	FAC	NOM
+MENTION	T86	99	10	99	18	her girlhood home in the old Kentucky bluegrass country	FAC	NOM
+MENTION	T90	100	2	100	19	an American woman , with a small infusion of French which seemed to have been lost in dilution	PER	NOM
+MENTION	T91	101	12	101	13	the East	LOC	NOM
+MENTION	T99	105	12	105	13	New Orleans	GPE	PROP
+MENTION	T103	105	12	105	15	New Orleans club men	PER	NOM
+MENTION	T104	105	18	105	19	Klein 's	FAC	PROP
+MENTION	T107	106	7	106	8	her room	FAC	NOM
+MENTION	T132	106	20	106	22	the croquet players	PER	NOM
+MENTION	T134	106	36	106	46	the little Pontellier children , who were very fond of him	PER	NOM
+MENTION	T111	107	12	107	14	Klein 's hotel	FAC	NOM
+MENTION	T25	88	33	88	40	the people who had gone to the Cheniere	PER	NOM
+MENTION	T58	105	12	105	14	New Orleans club	ORG	NOM
+MENTION	T87	109	3	109	4	his wife	PER	NOM
+MENTION	T92	101	5	101	22	her sister , who was away in the East , and who had engaged herself to be married	PER	NOM
+MENTION	T44	57	15	57	15	Klein	PER	PROP
+MENTION	T112	98	18	98	23	the “ Quartier Francais , ”	LOC	NOM
+MENTION	T83	98	15	98	23	exclusive visitors from the “ Quartier Francais , ”	PER	NOM
+MENTION	T155	4	12	4	12	nobody	PER	NOM
+MENTION	T123	11	8	11	8	there	FAC	NOM
+MENTION	T130	30	6	30	6	there	FAC	NOM
+MENTION	T159	5	6	5	6	his	PER	PRON
+MENTION	T160	6	0	6	0	He	PER	PRON
+MENTION	T161	7	0	7	0	He	PER	PRON
+MENTION	T164	9	7	9	7	their	PER	PRON
+MENTION	T165	9	10	9	10	they	PER	PRON
+MENTION	T166	10	0	10	0	He	PER	PRON
+MENTION	T167	10	6	10	6	his	PER	PRON
+MENTION	T168	11	1	11	1	himself	PER	PRON
+MENTION	T169	11	10	11	10	he	PER	PRON
+MENTION	T170	11	14	11	14	himself	PER	PRON
+MENTION	T171	14	0	14	0	He	PER	PRON
+MENTION	T172	14	10	14	10	he	PER	PRON
+MENTION	T173	14	21	14	21	he	PER	PRON
+MENTION	T174	16	0	16	0	He	PER	PRON
+MENTION	T175	16	15	16	15	he	PER	PRON
+MENTION	T176	17	0	17	0	His	PER	PRON
+MENTION	T177	18	0	18	0	His	PER	PRON
+MENTION	T178	19	4	19	4	he	PER	PRON
+MENTION	T179	19	6	19	6	his	PER	PRON
+MENTION	T180	19	14	19	14	him	PER	PRON
+MENTION	T181	24	18	24	18	she	PER	PRON
+MENTION	T182	24	36	24	36	she	PER	PRON
+MENTION	T183	25	0	25	0	She	PER	PRON
+MENTION	T184	26	0	26	0	Her	PER	PRON
+MENTION	T185	26	5	26	5	she	PER	PRON
+MENTION	T186	27	21	27	21	her	PER	PRON
+MENTION	T187	31	4	31	4	them	PER	PRON
+MENTION	T188	32	17	32	17	his	PER	PRON
+MENTION	T189	33	0	33	0	He	PER	PRON
+MENTION	T190	33	2	33	2	his	PER	PRON
+MENTION	T191	34	0	34	0	He	PER	PRON
+MENTION	T192	37	5	37	5	his	PER	PRON
+MENTION	T193	38	1	38	1	they	PER	PRON
+MENTION	T194	38	9	38	9	themselves	PER	PRON
+MENTION	T195	42	0	42	0	He	PER	PRON
+MENTION	T196	42	1	42	1	himself	PER	PRON
+MENTION	T197	43	8	43	8	him	PER	PRON
+MENTION	T198	44	1	44	1	You	PER	PRON
+MENTION	T199	44	8	44	8	he	PER	PRON
+MENTION	T200	44	13	44	13	his	PER	PRON
+MENTION	T201	45	0	45	0	She	PER	PRON
+MENTION	T202	45	3	45	3	her	PER	PRON
+MENTION	T204	45	18	45	18	her	PER	PRON
+MENTION	T206	46	4	46	4	her	PER	PRON
+MENTION	T207	46	6	46	6	her	PER	PRON
+MENTION	T208	46	10	46	10	she	PER	PRON
+MENTION	T209	46	14	46	14	her	PER	PRON
+MENTION	T210	47	0	47	0	She	PER	PRON
+MENTION	T211	47	5	47	5	him	PER	PRON
+MENTION	T212	47	8	47	8	he	PER	PRON
+MENTION	T213	47	16	47	16	his	PER	PRON
+MENTION	T215	47	23	47	23	her	PER	PRON
+MENTION	T216	48	0	48	0	She	PER	PRON
+MENTION	T218	48	4	48	4	her	PER	PRON
+MENTION	T219	48	9	48	9	her	PER	PRON
+MENTION	T220	48	12	48	12	she	PER	PRON
+MENTION	T221	49	4	49	4	her	PER	PRON
+MENTION	T222	50	0	50	0	He	PER	PRON
+MENTION	T223	53	15	53	15	they	PER	PRON
+MENTION	T224	55	0	55	0	They	PER	PRON
+MENTION	T225	56	0	56	0	He	PER	PRON
+MENTION	T226	56	4	56	4	himself	PER	PRON
+MENTION	T227	57	1	57	1	he	PER	PRON
+MENTION	T228	57	6	57	6	he	PER	PRON
+MENTION	T229	58	8	58	8	he	PER	PRON
+MENTION	T230	59	6	59	6	he	PER	PRON
+MENTION	T231	59	11	59	11	he	PER	PRON
+MENTION	T232	60	4	60	4	him	PER	PRON
+MENTION	T233	60	6	60	6	his	PER	PRON
+MENTION	T234	60	9	60	9	he	PER	PRON
+MENTION	T235	60	11	60	11	you	PER	PRON
+MENTION	T236	60	17	60	17	her	PER	PRON
+MENTION	T237	60	20	60	20	he	PER	PRON
+MENTION	T238	61	8	61	8	she	PER	PRON
+MENTION	T239	61	15	61	15	him	PER	PRON
+MENTION	T240	62	0	62	0	He	PER	PRON
+MENTION	T241	62	9	62	9	his	PER	PRON
+MENTION	T242	64	0	64	0	his	PER	PRON
+MENTION	T243	64	4	64	4	him	PER	PRON
+MENTION	T244	65	0	65	0	He	PER	PRON
+MENTION	T245	65	6	65	6	his	PER	PRON
+MENTION	T246	66	0	66	0	He	PER	PRON
+MENTION	T247	66	3	66	3	his	PER	PRON
+MENTION	T248	67	0	67	0	He	PER	PRON
+MENTION	T249	67	6	67	6	he	PER	PRON
+MENTION	T250	67	15	67	15	he	PER	PRON
+MENTION	T251	68	7	68	7	he	PER	PRON
+MENTION	T252	69	0	69	0	He	PER	PRON
+MENTION	T253	69	7	69	7	she	PER	PRON
+MENTION	T254	69	17	69	17	him	PER	PRON
+MENTION	T255	70	5	70	5	their	PER	PRON
+MENTION	T256	70	8	70	8	they	PER	PRON
+MENTION	T257	70	10	70	10	him	PER	PRON
+MENTION	T258	71	0	71	0	He	PER	PRON
+MENTION	T259	71	2	71	2	them	PER	PRON
+MENTION	T260	71	7	71	7	them	PER	PRON
+MENTION	T262	72	20	72	20	her	PER	PRON
+MENTION	T263	73	0	73	0	She	PER	PRON
+MENTION	T266	74	0	74	0	Her	PER	PRON
+MENTION	T267	74	7	74	7	her	PER	PRON
+MENTION	T269	75	11	75	11	her	PER	PRON
+MENTION	T270	76	0	76	0	She	PER	PRON
+MENTION	T271	77	0	77	0	Her	PER	PRON
+MENTION	T272	78	0	78	0	Her	PER	PRON
+MENTION	T273	80	0	80	0	He	PER	PRON
+MENTION	T274	80	4	80	4	he	PER	PRON
+MENTION	T275	80	10	80	10	he	PER	PRON
+MENTION	T276	81	0	81	0	He	PER	PRON
+MENTION	T277	81	5	81	5	his	PER	PRON
+MENTION	T278	81	12	81	12	him	PER	PRON
+MENTION	T279	81	16	81	16	he	PER	PRON
+MENTION	T280	81	21	81	21	his	PER	PRON
+MENTION	T281	82	7	82	7	his	PER	PRON
+MENTION	T282	83	2	83	2	he	PER	PRON
+MENTION	T283	83	6	83	6	his	PER	PRON
+MENTION	T284	85	7	85	7	his	PER	PRON
+MENTION	T285	86	0	86	0	His	PER	PRON
+MENTION	T286	87	17	87	17	herself	PER	PRON
+MENTION	T287	87	23	87	23	his	PER	PRON
+MENTION	T288	87	28	87	28	his	PER	PRON
+MENTION	T289	88	0	88	0	They	PER	PRON
+MENTION	T290	88	8	88	8	them	PER	PRON
+MENTION	T291	88	10	88	10	their	PER	PRON
+MENTION	T292	89	6	89	6	himself	PER	PRON
+MENTION	T293	90	0	90	0	He	PER	PRON
+MENTION	T294	91	6	91	6	herself	PER	PRON
+MENTION	T295	93	3	93	3	his	PER	PRON
+MENTION	T296	93	16	93	16	him	PER	PRON
+MENTION	T297	94	0	94	0	He	PER	PRON
+MENTION	T298	95	1	95	1	he	PER	PRON
+MENTION	T299	95	5	95	5	his	PER	PRON
+MENTION	T300	95	27	95	27	him	PER	PRON
+MENTION	T301	96	0	96	0	He	PER	PRON
+MENTION	T302	96	3	96	3	his	PER	PRON
+MENTION	T303	96	8	96	8	he	PER	PRON
+MENTION	T304	96	13	96	13	his	PER	PRON
+MENTION	T305	98	39	98	39	her	PER	PRON
+MENTION	T306	99	4	99	4	her	PER	PRON
+MENTION	T307	99	10	99	10	her	PER	PRON
+MENTION	T308	100	0	100	0	She	PER	PRON
+MENTION	T309	101	0	101	0	She	PER	PRON
+MENTION	T310	101	5	101	5	her	PER	PRON
+MENTION	T311	101	19	101	19	herself	PER	PRON
+MENTION	T312	103	10	103	10	her	PER	PRON
+MENTION	T313	104	1	104	1	I	PER	PRON
+MENTION	T314	104	10	104	10	she	PER	PRON
+MENTION	T315	104	20	104	20	her	PER	PRON
+MENTION	T316	105	2	105	2	he	PER	PRON
+MENTION	T317	106	4	106	4	him	PER	PRON
+MENTION	T318	106	7	106	7	her	PER	PRON
+MENTION	T319	106	32	106	32	he	PER	PRON
+MENTION	T320	106	34	106	34	himself	PER	PRON
+MENTION	T321	106	46	106	46	him	PER	PRON
+MENTION	T322	108	0	108	0	He	PER	PRON
+MENTION	T323	109	0	109	0	His	PER	PRON
+MENTION	T324	109	3	109	3	his	PER	PRON
+MENTION	T325	109	14	109	14	he	PER	PRON
+MENTION	T326	110	0	110	0	He	PER	PRON
+MENTION	T327	110	3	110	3	her	PER	PRON
+MENTION	T328	110	5	110	5	he	PER	PRON
+MENTION	T329	110	9	110	9	her	PER	PRON
+MENTION	T330	110	18	110	18	he	PER	PRON
+MENTION	T331	111	1	111	1	his	PER	PRON
+MENTION	T332	111	4	111	4	he	PER	PRON
+MENTION	T333	111	21	111	21	he	PER	PRON
+MENTION	T334	111	41	111	41	his	PER	PRON
+MENTION	T335	112	0	112	0	She	PER	PRON
+MENTION	T336	112	8	112	8	him	PER	PRON
+COREF	T155	nobody-0
+COREF	T1	Mr__Pontellier-1
+COREF	T159	Mr__Pontellier-1
+COREF	T160	Mr__Pontellier-1
+COREF	T113	the_gallery-2
+COREF	T114	the_narrow___bridges___which_connected_the_Lebrun_cottages_one_with_the_other-3
+COREF	T115	the_Lebrun_cottages-4
+COREF	T161	Mr__Pontellier-1
+COREF	T116	the_main_house-5
+COREF	T2	Madame_Lebrun-6
+COREF	T4	Mr__Pontellier-1
+COREF	T164	Mr__Pontellier-1
+COREF	T165	Mr__Pontellier-1
+COREF	T166	Mr__Pontellier-1
+COREF	T3	his_own_cottage-7
+COREF	T167	Mr__Pontellier-1
+COREF	T5	the_main_house-5
+COREF	T168	Mr__Pontellier-1
+COREF	T123	his_own_cottage-7
+COREF	T169	Mr__Pontellier-1
+COREF	T170	Mr__Pontellier-1
+COREF	T6	Grand_Isle-8
+COREF	T171	Mr__Pontellier-1
+COREF	T172	Mr__Pontellier-1
+COREF	T173	Mr__Pontellier-1
+COREF	T7	New_Orleans-9
+COREF	T9	Mr__Pontellier-1
+COREF	T174	Mr__Pontellier-1
+COREF	T175	Mr__Pontellier-1
+COREF	T176	Mr__Pontellier-1
+COREF	T177	Mr__Pontellier-1
+COREF	T178	Mr__Pontellier-1
+COREF	T179	Mr__Pontellier-1
+COREF	T180	Mr__Pontellier-1
+COREF	T10	the_main_house-5
+COREF	T11	the_main_house-5
+COREF	T117	the_main_house-5
+COREF	T118	the_Lebrun_cottages-4
+COREF	T12	Two_young_girls___the_Farival_twins-10
+COREF	T13	Madame_Lebrun-6
+COREF	T119	a_yard-boy-11
+COREF	T181	Madame_Lebrun-6
+COREF	T22	the_main_house-5
+COREF	T15	a_dining-room_servant-12
+COREF	T23	dining-room-13
+COREF	T182	Madame_Lebrun-6
+COREF	T183	Madame_Lebrun-6
+COREF	T184	Madame_Lebrun-6
+COREF	T185	Madame_Lebrun-6
+COREF	T120	one_of_the_cottages-14
+COREF	T16	a_lady_in_black-15
+COREF	T186	a_lady_in_black-15
+COREF	T17	A_good_many_persons_of_the_pension-16
+COREF	T20	the_Cheniere_Caminada-17
+COREF	T18	Beaudelet__s_lugger-18
+COREF	T19	Some_young_people-19
+COREF	T21	Mr__Pontellier-1
+COREF	T24	Pontellier_children-20
+COREF	T130	out_under_the_wateroaks-21
+COREF	T26	A_quadroon_nurse-22
+COREF	T187	Pontellier_children-20
+COREF	T27	Mr__Pontellier-1
+COREF	T188	Mr__Pontellier-1
+COREF	T189	Mr__Pontellier-1
+COREF	T190	Mr__Pontellier-1
+COREF	T191	Mr__Pontellier-1
+COREF	T121	The_gulf-23
+COREF	T29	the_horizon-24
+COREF	T31	Mrs__Pontellier-25
+COREF	T192	Mr__Pontellier-1
+COREF	T30	Mrs__Pontellier-25
+COREF	T32	Robert_Lebrun-26
+COREF	T193	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T33	his_own_cottage-7
+COREF	T34	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T194	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T36	Mr__Pontellier-1
+COREF	T195	Mr__Pontellier-1
+COREF	T196	Mr__Pontellier-1
+COREF	T197	Mr__Pontellier-1
+COREF	T198	Mrs__Pontellier-25
+COREF	T199	Mr__Pontellier-1
+COREF	T38	Mrs__Pontellier-25
+COREF	T200	Mr__Pontellier-1
+COREF	T201	Mrs__Pontellier-25
+COREF	T202	Mrs__Pontellier-25
+COREF	T204	Mrs__Pontellier-25
+COREF	T206	Mrs__Pontellier-25
+COREF	T207	Mrs__Pontellier-25
+COREF	T208	Mrs__Pontellier-25
+COREF	T39	Mr__Pontellier-1
+COREF	T209	Mrs__Pontellier-25
+COREF	T35	the_beach-28
+COREF	T210	Mrs__Pontellier-25
+COREF	T211	Mr__Pontellier-1
+COREF	T212	Mr__Pontellier-1
+COREF	T213	Mr__Pontellier-1
+COREF	T215	Mrs__Pontellier-25
+COREF	T216	Mrs__Pontellier-25
+COREF	T218	Mrs__Pontellier-25
+COREF	T219	Mrs__Pontellier-25
+COREF	T220	Mrs__Pontellier-25
+COREF	T40	Robert_Lebrun-26
+COREF	T221	Mrs__Pontellier-25
+COREF	T222	Robert_Lebrun-26
+COREF	T37	Mr__Pontellier-1
+COREF	T41	Mrs__Pontellier-25
+COREF	T122	Robert_Lebrun-26
+COREF	T223	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T224	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T42	Mr__Pontellier-1
+COREF	T225	Mr__Pontellier-1
+COREF	T226	Mr__Pontellier-1
+COREF	T227	Mr__Pontellier-1
+COREF	T228	Mr__Pontellier-1
+COREF	T43	Klein__s_hotel-29
+COREF	T44	Klein-30
+COREF	T124	Robert_Lebrun-26
+COREF	T229	Mr__Pontellier-1
+COREF	T45	Robert_Lebrun-26
+COREF	T48	Robert_Lebrun-26
+COREF	T230	Robert_Lebrun-26
+COREF	T231	Robert_Lebrun-26
+COREF	T46	Mrs__Pontellier-25
+COREF	T232	Robert_Lebrun-26
+COREF	T233	Robert_Lebrun-26
+COREF	T234	Robert_Lebrun-26
+COREF	T235	Mrs__Pontellier-25
+COREF	T47	Mrs__Pontellier-25
+COREF	T49	Mr__Pontellier-1
+COREF	T236	Mrs__Pontellier-25
+COREF	T237	Mr__Pontellier-1
+COREF	T238	Mrs__Pontellier-25
+COREF	T239	Mr__Pontellier-1
+COREF	T240	Mr__Pontellier-1
+COREF	T241	Mr__Pontellier-1
+COREF	T50	Mrs__Pontellier-25
+COREF	T242	Mr__Pontellier-1
+COREF	T243	Mr__Pontellier-1
+COREF	T244	Mr__Pontellier-1
+COREF	T245	Mr__Pontellier-1
+COREF	T246	Mr__Pontellier-1
+COREF	T247	Mr__Pontellier-1
+COREF	T248	Mr__Pontellier-1
+COREF	T249	Mr__Pontellier-1
+COREF	T250	Mr__Pontellier-1
+COREF	T251	Mr__Pontellier-1
+COREF	T51	Klein-30
+COREF	T125	Klein__s_hotel-29
+COREF	T252	Mr__Pontellier-1
+COREF	T253	Mrs__Pontellier-25
+COREF	T254	Mr__Pontellier-1
+COREF	T52	Pontellier_children-20
+COREF	T53	Mr__Pontellier-1
+COREF	T255	Pontellier_children-20
+COREF	T256	Pontellier_children-20
+COREF	T257	Mr__Pontellier-1
+COREF	T258	Mr__Pontellier-1
+COREF	T259	Pontellier_children-20
+COREF	T260	Pontellier_children-20
+COREF	T54	Mrs__Pontellier-25
+COREF	T262	Mrs__Pontellier-25
+COREF	T263	Mrs__Pontellier-25
+COREF	T266	Mrs__Pontellier-25
+COREF	T267	Mrs__Pontellier-25
+COREF	T269	Mrs__Pontellier-25
+COREF	T270	Mrs__Pontellier-25
+COREF	T271	Mrs__Pontellier-25
+COREF	T272	Mrs__Pontellier-25
+COREF	T56	Robert_Lebrun-26
+COREF	T273	Robert_Lebrun-26
+COREF	T274	Robert_Lebrun-26
+COREF	T275	Robert_Lebrun-26
+COREF	T276	Robert_Lebrun-26
+COREF	T277	Robert_Lebrun-26
+COREF	T57	Mr__Pontellier-1
+COREF	T278	Robert_Lebrun-26
+COREF	T279	Robert_Lebrun-26
+COREF	T280	Robert_Lebrun-26
+COREF	T281	Robert_Lebrun-26
+COREF	T282	Robert_Lebrun-26
+COREF	T55	Robert_Lebrun-26
+COREF	T283	Robert_Lebrun-26
+COREF	T284	Robert_Lebrun-26
+COREF	T285	Robert_Lebrun-26
+COREF	T60	Mrs__Pontellier-25
+COREF	T286	Mrs__Pontellier-25
+COREF	T63	Robert_Lebrun-26
+COREF	T287	Robert_Lebrun-26
+COREF	T288	Robert_Lebrun-26
+COREF	T289	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T290	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T291	Mrs__Pontellier_Robert_Lebrun-27
+COREF	T25	the_people_who_had_gone_to_the_Cheniere-31
+COREF	T59	the_Cheniere_Caminada-17
+COREF	T65	Some_young_people-19
+COREF	T61	Two_young_girls___the_Farival_twins-10
+COREF	T67	Robert_Lebrun-26
+COREF	T292	Robert_Lebrun-26
+COREF	T293	Robert_Lebrun-26
+COREF	T68	Mrs__Pontellier-25
+COREF	T294	Mrs__Pontellier-25
+COREF	T69	Each-32
+COREF	T66	the_other-33
+COREF	T70	Robert_Lebrun-26
+COREF	T295	Robert_Lebrun-26
+COREF	T71	Mexico-34
+COREF	T296	Robert_Lebrun-26
+COREF	T297	Robert_Lebrun-26
+COREF	T72	Mexico-34
+COREF	T126	Mexico-34
+COREF	T298	Robert_Lebrun-26
+COREF	T299	Robert_Lebrun-26
+COREF	T128	a_mercantile_house_in_New_Orleans-35
+COREF	T78	New_Orleans-9
+COREF	T300	Robert_Lebrun-26
+COREF	T73	a_clerk-36
+COREF	T74	correspondent-37
+COREF	T301	Robert_Lebrun-26
+COREF	T302	Robert_Lebrun-26
+COREF	T303	Robert_Lebrun-26
+COREF	T304	Robert_Lebrun-26
+COREF	T76	Grand_Isle-39
+COREF	T80	Robert_Lebrun-26
+COREF	T77	the_main_house-5
+COREF	T75	Madame_Lebrun-6
+COREF	T79	the_Lebruns-40
+COREF	T129	the_Lebrun_cottages-4
+COREF	T83	exclusive_visitors_from_the___Quartier_Francais____-41
+COREF	T112	the___Quartier_Francais____-42
+COREF	T81	Madame_Lebrun-6
+COREF	T305	Madame_Lebrun-6
+COREF	T84	Mrs__Pontellier-25
+COREF	T88	her_father-43
+COREF	T306	Mrs__Pontellier-25
+COREF	T89	Mississippi-44
+COREF	T82	Mississippi_plantation-45
+COREF	T86	her_girlhood_home_in_the_old_Kentucky_bluegrass_country-46
+COREF	T307	Mrs__Pontellier-25
+COREF	T85	the_old_Kentucky_bluegrass_country-47
+COREF	T308	Mrs__Pontellier-25
+COREF	T309	Mrs__Pontellier-25
+COREF	T92	her_sister___who_was_away_in_the_East___and_who_had_engaged_herself_to_be_married-48
+COREF	T310	Mrs__Pontellier-25
+COREF	T91	the_East-49
+COREF	T311	her_sister___who_was_away_in_the_East___and_who_had_engaged_herself_to_be_married-48
+COREF	T95	Robert_Lebrun-26
+COREF	T96	girls-50
+COREF	T97	the_sisters-51
+COREF	T93	her_father-43
+COREF	T94	the_mother-52
+COREF	T98	Mrs__Pontellier-25
+COREF	T312	Mrs__Pontellier-25
+COREF	T313	Mrs__Pontellier-25
+COREF	T101	Mr__Pontellier-1
+COREF	T314	Mrs__Pontellier-25
+COREF	T100	Mr__Pontellier-1
+COREF	T315	Mrs__Pontellier-25
+COREF	T102	Robert_Lebrun-26
+COREF	T316	Mr__Pontellier-1
+COREF	T99	New_Orleans-9
+COREF	T103	New_Orleans_club_men-53
+COREF	T58	New_Orleans_club-54
+COREF	T105	Klein-30
+COREF	T104	Klein__s_hotel-29
+COREF	T106	Mrs__Pontellier-25
+COREF	T317	Robert_Lebrun-26
+COREF	T107	her_room-55
+COREF	T318	Mrs__Pontellier-25
+COREF	T108	Robert_Lebrun-26
+COREF	T132	Some_young_people-19
+COREF	T319	Robert_Lebrun-26
+COREF	T320	Robert_Lebrun-26
+COREF	T134	Pontellier_children-20
+COREF	T321	Robert_Lebrun-26
+COREF	T109	Mr__Pontellier-1
+COREF	T110	Klein-30
+COREF	T111	Klein__s_hotel-29
+COREF	T322	Mr__Pontellier-1
+COREF	T323	Mr__Pontellier-1
+COREF	T87	Mrs__Pontellier-25
+COREF	T324	Mr__Pontellier-1
+COREF	T325	Mr__Pontellier-1
+COREF	T326	Mr__Pontellier-1
+COREF	T327	Mrs__Pontellier-25
+COREF	T328	Mr__Pontellier-1
+COREF	T329	Mrs__Pontellier-25
+COREF	T330	Mr__Pontellier-1
+COREF	T331	Mr__Pontellier-1
+COREF	T332	Mr__Pontellier-1
+COREF	T333	Mr__Pontellier-1
+COREF	T334	Mr__Pontellier-1
+COREF	T335	Mrs__Pontellier-25
+COREF	T336	Mr__Pontellier-1
+COP	T8	T174
+COP	T28	T183
+COP	T90	T308
+MENTION	T677	21	12	21	12	it	FAC	PRON
+COREF	T677	the_main_house-5
+MENTION	T709	98	4	98	4	its	FAC	PRON
+COREF	T709	the_main_house-5
+MENTION	T711	98	24	98	24	it	FAC	PRON
+COREF	T711	the_main_house-5
+COREF	T14	Pontellier_children-20

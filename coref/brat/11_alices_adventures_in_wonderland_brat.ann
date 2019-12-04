@@ -1,0 +1,452 @@
+T0	NOM_PER 182 192	her sister
+T1	NOM_PER 84 94	her sister
+T4	PROP_PER 696 701	Alice
+T5	PROP_PER 1424 1429	Alice
+T8	PROP_PER 1619 1624	Alice
+T10	NOM_FAC 2559 2565	stairs
+T11	NOM_FAC 2603 2607	home
+T12	NOM_FAC 2682 2691	the house
+T13	NOM_LOC 2910 2919	the earth
+T16	PROP_PER 3007 3012	Alice
+T19	NOM_LOC 3540 3549	the earth
+T21	PROP_GPE 3898 3907	Australia
+T22	NOM_PER 4057 4080	an ignorant little girl
+T24	PROP_PER 4634 4639	Alice
+T25	NOM_PER 5392 5408	the White Rabbit
+T26	PROP_PER 5495 5500	Alice
+T27	PROP_PER 5903 5908	Alice
+T28	NOM_FAC 5856 5864	the hall
+T29	NOM_FAC 6269 6277	the hall
+T30	NOM_FAC 6789 6822	the loveliest garden you ever saw
+T31	NOM_FAC 6854 6868	that dark hall
+T32	PROP_PER 7302 7307	Alice
+T33	PROP_PER 7682 7687	Alice
+T34	NOM_PER 7865 7886	the wise little Alice
+T35	NOM_PER 8210 8223	their friends
+T38	NOM_FAC 9116 9134	that lovely garden
+T40	NOM_LOC 16 31	the Rabbit-Hole
+T41	PROP_PER 32 37	Alice
+T42	NOM_LOC 98 106	the bank
+T43	PROP_PER 299 304	Alice
+T2	NOM_PER 592 621	a White Rabbit with pink eyes
+T3	NOM_PER 747 757	the Rabbit
+T44	NOM_PER 974 984	the Rabbit
+T45	PROP_PER 1078 1083	Alice
+T46	NOM_PER 1168 1238	a rabbit with either a waistcoat-pocket , or a watch to take out of it
+T47	NOM_LOC 1285 1294	the field
+T48	NOM_LOC 1358 1393	a large rabbit-hole under the hedge
+T6	NOM_LOC 1508 1523	The rabbit-hole
+T7	NOM_FAC 1546 1554	a tunnel
+T49	NOM_FAC 1712 1728	a very deep well
+T50	NOM_FAC 1738 1746	the well
+T51	NOM_FAC 2036 2044	the well
+T9	PROP_PER 2471 2476	Alice
+T53	NOM_LOC 2896 2919	the centre of the earth
+T54	NOM_FAC 3070 3084	the schoolroom
+T14	PROP_PER 3361 3366	Alice
+T15	NOM_PER 3592 3638	the people that walk with their heads downward
+T17	NOM_PER 3641 3656	The Antipathies
+T18	NOM_GPE 3830 3841	the country
+T55	NOM_PER 3867 3872	Ma’am
+T20	PROP_GPE 3883 3894	New Zealand
+T23	PROP_PER 4244 4249	Alice
+T56	PROP_PER 5229 5234	Alice
+T57	NOM_FAC 5365 5385	another long passage
+T58	NOM_FAC 5568 5576	a corner
+T59	NOM_FAC 5674 5684	the corner
+T60	NOM_PER 5691 5701	the Rabbit
+T61	NOM_FAC 5750 5826	a long , low hall , which was lit up by a row of lamps hanging from the roof
+T62	PROP_PER 6198 6203	Alice
+T63	PROP_PER 6639 6644	Alice
+T64	NOM_FAC 6688 6737	a small passage , not much larger than a rat-hole
+T65	NOM_LOC 6727 6737	a rat-hole
+T66	NOM_FAC 6772 6783	the passage
+T67	NOM_LOC 6894 6922	those beds of bright flowers
+T68	PROP_PER 7064 7069	Alice
+T69	NOM_PER 7561 7567	people
+T36	NOM_PER 8070 8154	children who had got burnt , and eaten up by wild beasts and other unpleasant things
+T37	PROP_PER 8594 8599	Alice
+T70	PROP_PER 8892 8897	Alice
+T39	PROP_PER 9310 9315	Alice
+T52	NOM_FAC 2671 2691	the top of the house
+T71	NOM_PER 2372 2380	somebody
+T72	NOM_LOC 1471 1480	the world
+T73	NOM_PER 3180 3186	no one
+T74	NOM_PER 3704 3710	no one
+T75	PRON_PER 84 87	her
+T76	PRON_PER 153 156	she
+T77	PRON_PER 182 185	her
+T78	PRON_PER 348 351	she
+T79	PRON_PER 371 374	her
+T80	PRON_PER 397 400	she
+T81	PRON_PER 430 433	her
+T82	PRON_PER 635 638	her
+T83	PRON_PER 796 797	I
+T84	PRON_PER 823 826	she
+T85	PRON_PER 871 874	her
+T86	PRON_PER 880 883	she
+T87	PRON_PER 1095 1098	her
+T88	PRON_PER 1128 1131	her
+T89	PRON_PER 1142 1145	she
+T90	PRON_PER 1270 1273	she
+T91	PRON_PER 1481 1484	she
+T92	PRON_PER 1666 1673	herself
+T93	PRON_PER 1681 1684	she
+T94	PRON_PER 1691 1698	herself
+T95	PRON_PER 1766 1769	she
+T96	PRON_PER 1793 1796	she
+T97	PRON_PER 1819 1822	she
+T98	PRON_PER 1847 1850	her
+T99	PRON_PER 1905 1908	she
+T100	PRON_PER 1946 1949	she
+T101	PRON_PER 2009 2012	she
+T103	PRON_PER 2130 2133	she
+T104	PRON_PER 2173 2176	She
+T105	PRON_PER 2220 2223	she
+T106	PRON_PER 2279 2282	her
+T107	PRON_PER 2319 2322	she
+T108	PRON_PER 2433 2436	she
+T109	PRON_PER 2480 2487	herself
+T110	PRON_PER 2520 2521	I
+T111	PRON_PER 2578 2582	they
+T112	PRON_PER 2597 2599	me
+T113	PRON_PER 2616 2617	I
+T114	PRON_PER 2660 2661	I
+T115	PRON_PER 2790 2791	I
+T116	PRON_PER 2814 2815	I
+T117	PRON_PER 2844 2847	she
+T118	PRON_PER 2863 2864	I
+T119	PRON_PER 2926 2928	me
+T120	PRON_PER 2976 2977	I
+T121	PRON_PER 2997 3000	you
+T122	PRON_PER 3055 3058	her
+T123	PRON_PER 3151 3154	her
+T124	PRON_PER 3200 3203	her
+T125	PRON_PER 3306 3307	I
+T126	PRON_PER 3342 3343	I
+T128	PRON_PER 3481 3484	she
+T129	PRON_PER 3501 3502	I
+T130	PRON_PER 3513 3514	I
+T131	PRON_PER 3618 3623	their
+T132	PRON_PER 3659 3660	I
+T133	PRON_PER 3674 3677	she
+T134	PRON_PER 3788 3789	I
+T135	PRON_PER 3808 3812	them
+T136	PRON_PER 3847 3850	you
+T137	PRON_PER 3918 3921	she
+T138	PRON_PER 3942 3945	she
+T139	PRON_PER 3975 3978	you
+T140	PRON_PER 4012 4015	you
+T141	PRON_PER 4022 4025	you
+T142	PRON_PER 4081 4084	she
+T143	PRON_PER 4095 4097	me
+T144	PRON_PER 4149 4150	I
+T145	PRON_PER 4294 4296	me
+T146	PRON_PER 4318 4319	I
+T147	PRON_PER 4363 4364	I
+T148	PRON_PER 4370 4374	they
+T150	PRON_PER 4427 4429	my
+T151	PRON_PER 4437 4438	I
+T153	PRON_PER 4468 4470	me
+T154	PRON_PER 4504 4505	I
+T157	PRON_PER 4612 4613	I
+T158	PRON_PER 4691 4698	herself
+T159	PRON_PER 4814 4817	you
+T160	PRON_PER 4827 4830	she
+T161	PRON_PER 4899 4902	she
+T162	PRON_PER 4912 4915	She
+T163	PRON_PER 4926 4929	she
+T164	PRON_PER 4980 4983	she
+T165	PRON_PER 5036 5039	her
+T166	PRON_PER 5078 5080	me
+T168	PRON_PER 5157 5160	she
+T169	PRON_PER 5260 5263	she
+T170	PRON_PER 5280 5283	her
+T171	PRON_PER 5303 5306	she
+T172	PRON_PER 5357 5360	her
+T173	PRON_PER 5584 5586	my
+T174	PRON_PER 5634 5637	She
+T175	PRON_PER 5663 5666	she
+T176	PRON_PER 5729 5732	she
+T177	PRON_PER 5739 5746	herself
+T179	PRON_PER 5983 5986	she
+T180	PRON_PER 6032 6035	she
+T181	PRON_PER 6073 6076	she
+T183	PRON_PER 6439 6442	she
+T184	PRON_PER 6467 6470	she
+T185	PRON_PER 6556 6559	she
+T186	PRON_PER 6609 6612	her
+T187	PRON_PER 6740 6743	she
+T188	PRON_PER 6810 6813	you
+T189	PRON_PER 6829 6832	she
+T190	PRON_PER 6954 6957	she
+T191	PRON_PER 6977 6980	her
+T192	PRON_PER 7022 7024	my
+T193	PRON_PER 7113 7115	my
+T194	PRON_PER 7137 7138	I
+T195	PRON_PER 7144 7145	I
+T196	PRON_PER 7179 7180	I
+T197	PRON_PER 7187 7188	I
+T198	PRON_PER 7200 7201	I
+T199	PRON_PER 7235 7238	you
+T200	PRON_PER 7441 7444	she
+T201	PRON_PER 7482 7485	she
+T202	PRON_PER 7599 7602	she
+T205	PRON_PER 7932 7933	I
+T206	PRON_PER 7953 7956	she
+T207	PRON_PER 8021 8024	she
+T208	PRON_PER 8169 8173	they
+T209	PRON_PER 8210 8215	their
+T210	PRON_PER 8235 8239	them
+T211	PRON_PER 8283 8286	you
+T212	PRON_PER 8290 8293	you
+T213	PRON_PER 8325 8328	you
+T214	PRON_PER 8333 8337	your
+T215	PRON_PER 8396 8399	she
+T216	PRON_PER 8430 8433	you
+T217	PRON_PER 8517 8520	you
+T218	PRON_PER 8786 8789	she
+T219	PRON_PER 8902 8903	I
+T220	PRON_PER 8968 8971	she
+T221	PRON_PER 9007 9010	her
+T222	PRON_PER 9050 9053	she
+T223	PRON_PER 9155 9158	she
+T224	PRON_PER 9194 9197	she
+T225	PRON_PER 9232 9235	she
+T226	PRON_PER 9292 9295	you
+T227	PRON_PER 9319 9326	herself
+T228	PRON_PER 9334 9336	my
+T229	PRON_PER 9376 9377	I
+T230	PRON_PER 9390 9391	I
+T231	PRON_PER 9420 9423	she
+T232	PRON_PER 9510 9513	she
+T273	the_Rabbit-Hole-0 16 31	the Rabbit-Hole
+T274	Alice-1 32 37	Alice
+T234	her_sister-2 84 94	her sister
+T308	Alice-1 84 87	her
+T275	the_bank-3 98 106	the bank
+T309	Alice-1 153 156	she
+T233	her_sister-2 182 192	her sister
+T310	Alice-1 182 185	her
+T276	Alice-1 299 304	Alice
+T311	Alice-1 348 351	she
+T312	Alice-1 371 374	her
+T313	Alice-1 397 400	she
+T314	Alice-1 430 433	her
+T235	The_White_Rabbit-4 592 621	a White Rabbit with pink eyes
+T315	Alice-1 635 638	her
+T237	Alice-1 696 701	Alice
+T236	The_White_Rabbit-4 747 757	the Rabbit
+T316	The_White_Rabbit-4 796 797	I
+T317	Alice-1 823 826	she
+T318	Alice-1 871 874	her
+T319	Alice-1 880 883	she
+T277	The_White_Rabbit-4 974 984	the Rabbit
+T278	Alice-1 1078 1083	Alice
+T320	Alice-1 1095 1098	her
+T321	Alice-1 1128 1131	her
+T322	Alice-1 1142 1145	she
+T279	a_rabbit_with_either_a_waistcoat-pocket___or_a_watch_to_take_out_of_it-5 1168 1238	a rabbit with either a waistcoat-pocket , or a watch to take out of it
+T323	Alice-1 1270 1273	she
+T280	the_field-6 1285 1294	the field
+T281	the_Rabbit-Hole-0 1358 1393	a large rabbit-hole under the hedge
+T238	Alice-1 1424 1429	Alice
+T305	the_world-7 1471 1480	the world
+T324	Alice-1 1481 1484	she
+T239	the_Rabbit-Hole-0 1508 1523	The rabbit-hole
+T240	a_tunnel-8 1546 1554	a tunnel
+T241	Alice-1 1619 1624	Alice
+T325	Alice-1 1666 1673	herself
+T326	Alice-1 1681 1684	she
+T327	Alice-1 1691 1698	herself
+T282	a_very_deep_well-9 1712 1728	a very deep well
+T283	a_very_deep_well-9 1738 1746	the well
+T328	Alice-1 1766 1769	she
+T329	Alice-1 1793 1796	she
+T330	Alice-1 1819 1822	she
+T331	Alice-1 1847 1850	her
+T332	Alice-1 1905 1908	she
+T333	Alice-1 1946 1949	she
+T334	Alice-1 2009 2012	she
+T284	a_very_deep_well-9 2036 2044	the well
+T336	Alice-1 2130 2133	she
+T337	Alice-1 2173 2176	She
+T338	Alice-1 2220 2223	she
+T339	Alice-1 2279 2282	her
+T340	Alice-1 2319 2322	she
+T304	somebody-10 2372 2380	somebody
+T341	Alice-1 2433 2436	she
+T242	Alice-1 2471 2476	Alice
+T342	Alice-1 2480 2487	herself
+T343	Alice-1 2520 2521	I
+T243	stairs-11 2559 2565	stairs
+T344	they-12 2578 2582	they
+T345	Alice-1 2597 2599	me
+T244	home-13 2603 2607	home
+T346	Alice-1 2616 2617	I
+T347	Alice-1 2660 2661	I
+T285	the_top_of_the_house-14 2671 2691	the top of the house
+T245	the_house-15 2682 2691	the house
+T348	Alice-1 2790 2791	I
+T349	Alice-1 2814 2815	I
+T350	Alice-1 2844 2847	she
+T351	Alice-1 2863 2864	I
+T286	the_centre_of_the_earth-16 2896 2919	the centre of the earth
+T246	the_earth-17 2910 2919	the earth
+T352	Alice-1 2926 2928	me
+T353	Alice-1 2976 2977	I
+T354	you-18 2997 3000	you
+T249	Alice-1 3007 3012	Alice
+T355	Alice-1 3055 3058	her
+T287	the_schoolroom-19 3070 3084	the schoolroom
+T356	Alice-1 3151 3154	her
+T306	no_one-20 3180 3186	no one
+T357	Alice-1 3200 3203	her
+T358	Alice-1 3306 3307	I
+T359	Alice-1 3342 3343	I
+T247	Alice-1 3361 3366	Alice
+T361	Alice-1 3481 3484	she
+T362	Alice-1 3501 3502	I
+T363	Alice-1 3513 3514	I
+T252	the_earth-17 3540 3549	the earth
+T248	the_people_that_walk_with_their_heads_downward-21 3592 3638	the people that walk with their heads downward
+T364	the_people_that_walk_with_their_heads_downward-21 3618 3623	their
+T250	the_people_that_walk_with_their_heads_downward-21 3641 3656	The Antipathies
+T365	Alice-1 3659 3660	I
+T366	Alice-1 3674 3677	she
+T307	no_one-22 3704 3710	no one
+T367	Alice-1 3788 3789	I
+T368	the_people_that_walk_with_their_heads_downward-21 3808 3812	them
+T251	the_country-23 3830 3841	the country
+T369	you-24 3847 3850	you
+T288	Ma_am-25 3867 3872	Ma’am
+T253	New_Zealand-26 3883 3894	New Zealand
+T254	Australia-27 3898 3907	Australia
+T370	Alice-1 3918 3921	she
+T371	Alice-1 3942 3945	she
+T372	you-28 3975 3978	you
+T373	you-29 4012 4015	you
+T374	you-30 4022 4025	you
+T375	Ma_am-25 4081 4084	she
+T376	Alice-1 4095 4097	me
+T377	Alice-1 4149 4150	I
+T256	Alice-1 4244 4249	Alice
+T378	Alice-1 4294 4296	me
+T379	Alice-1 4318 4319	I
+T380	Alice-1 4363 4364	I
+T381	they-31 4370 4374	they
+T383	Alice-1 4427 4429	my
+T384	Alice-1 4437 4438	I
+T386	Alice-1 4468 4470	me
+T387	Alice-1 4504 4505	I
+T390	Alice-1 4612 4613	I
+T257	Alice-1 4634 4639	Alice
+T391	Alice-1 4691 4698	herself
+T392	you-33 4814 4817	you
+T393	Alice-1 4827 4830	she
+T394	Alice-1 4899 4902	she
+T395	Alice-1 4912 4915	She
+T396	Alice-1 4926 4929	she
+T397	Alice-1 4980 4983	she
+T398	Alice-1 5036 5039	her
+T399	Alice-1 5078 5080	me
+T401	Alice-1 5157 5160	she
+T289	Alice-1 5229 5234	Alice
+T402	Alice-1 5260 5263	she
+T403	Alice-1 5280 5283	her
+T404	Alice-1 5303 5306	she
+T405	Alice-1 5357 5360	her
+T290	another_long_passage-34 5365 5385	another long passage
+T258	The_White_Rabbit-4 5392 5408	the White Rabbit
+T259	Alice-1 5495 5500	Alice
+T291	a_corner-35 5568 5576	a corner
+T406	The_White_Rabbit-4 5584 5586	my
+T407	Alice-1 5634 5637	She
+T408	Alice-1 5663 5666	she
+T292	a_corner-35 5674 5684	the corner
+T293	The_White_Rabbit-4 5691 5701	the Rabbit
+T409	Alice-1 5729 5732	she
+T410	Alice-1 5739 5746	herself
+T294	the_hall-36 5750 5826	a long , low hall , which was lit up by a row of lamps hanging from the roof
+T261	the_hall-36 5856 5864	the hall
+T260	Alice-1 5903 5908	Alice
+T412	Alice-1 5983 5986	she
+T413	Alice-1 6032 6035	she
+T414	Alice-1 6073 6076	she
+T295	Alice-1 6198 6203	Alice
+T262	the_hall-36 6269 6277	the hall
+T416	Alice-1 6439 6442	she
+T417	Alice-1 6467 6470	she
+T418	Alice-1 6556 6559	she
+T419	Alice-1 6609 6612	her
+T296	Alice-1 6639 6644	Alice
+T297	a_small_passage___not_much_larger_than_a_rat-hole-37 6688 6737	a small passage , not much larger than a rat-hole
+T298	a_rat-hole-38 6727 6737	a rat-hole
+T420	Alice-1 6740 6743	she
+T299	a_small_passage___not_much_larger_than_a_rat-hole-37 6772 6783	the passage
+T263	the_loveliest_garden_you_ever_saw-39 6789 6822	the loveliest garden you ever saw
+T421	you-40 6810 6813	you
+T422	Alice-1 6829 6832	she
+T264	the_hall-36 6854 6868	that dark hall
+T300	those_beds_of_bright_flowers-41 6894 6922	those beds of bright flowers
+T423	Alice-1 6954 6957	she
+T424	Alice-1 6977 6980	her
+T425	Alice-1 7022 7024	my
+T301	Alice-1 7064 7069	Alice
+T426	Alice-1 7113 7115	my
+T427	Alice-1 7137 7138	I
+T428	Alice-1 7144 7145	I
+T429	Alice-1 7179 7180	I
+T430	Alice-1 7187 7188	I
+T431	Alice-1 7200 7201	I
+T432	you-42 7235 7238	you
+T265	Alice-1 7302 7307	Alice
+T433	Alice-1 7441 7444	she
+T434	Alice-1 7482 7485	she
+T302	people-43 7561 7567	people
+T435	Alice-1 7599 7602	she
+T266	Alice-1 7682 7687	Alice
+T267	Alice-1 7865 7886	the wise little Alice
+T438	Alice-1 7932 7933	I
+T439	Alice-1 7953 7956	she
+T440	Alice-1 8021 8024	she
+T269	children_who_had_got_burnt___and_eaten_up_by_wild_beasts_and_other_unpleasant_things-44 8070 8154	children who had got burnt , and eaten up by wild beasts and other unpleasant things
+T441	children_who_had_got_burnt___and_eaten_up_by_wild_beasts_and_other_unpleasant_things-44 8169 8173	they
+T268	their_friends-45 8210 8223	their friends
+T442	children_who_had_got_burnt___and_eaten_up_by_wild_beasts_and_other_unpleasant_things-44 8210 8215	their
+T443	children_who_had_got_burnt___and_eaten_up_by_wild_beasts_and_other_unpleasant_things-44 8235 8239	them
+T444	you-46 8283 8286	you
+T445	you-47 8290 8293	you
+T446	you-48 8325 8328	you
+T447	your-49 8333 8337	your
+T448	Alice-1 8396 8399	she
+T449	you-50 8430 8433	you
+T450	you-51 8517 8520	you
+T270	Alice-1 8594 8599	Alice
+T451	Alice-1 8786 8789	she
+T303	Alice-1 8892 8897	Alice
+T452	Alice-1 8902 8903	I
+T453	Alice-1 8968 8971	she
+T454	Alice-1 9007 9010	her
+T455	Alice-1 9050 9053	she
+T271	the_loveliest_garden_you_ever_saw-39 9116 9134	that lovely garden
+T456	Alice-1 9155 9158	she
+T457	Alice-1 9194 9197	she
+T458	Alice-1 9232 9235	she
+T459	you-52 9292 9295	you
+T272	Alice-1 9310 9315	Alice
+T460	Alice-1 9319 9326	herself
+T461	Alice-1 9334 9336	my
+T462	Alice-1 9376 9377	I
+T463	Alice-1 9390 9391	I
+T464	Alice-1 9420 9423	she
+T465	Alice-1 9510 9513	she
+T102	an_ignorant_little_g-700 4057 4080	an ignorant little girl
+T127	PRON_PER 1301 1303	it
+T149	PRON_PER 1346 1348	it
+T152	The_White_Rabbit-4 1301 1303	it
+T155	The_White_Rabbit-4 1346 1348	it
+T167	PRON_PER 1436 1438	it
+T178	The_White_Rabbit-4 1436 1438	it
+T182	PRON_FAC 5444 5446	it
+T203	another_long_passage-34 5444 5446	it

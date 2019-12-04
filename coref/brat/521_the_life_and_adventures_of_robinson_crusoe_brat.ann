@@ -1,0 +1,704 @@
+T2	PROP_GPE 157 163	Bremen
+T3	PROP_GPE 59 75	the city of York
+T4	NOM_GPE 187 191	Hull
+T5	NOM_PER 126 135	my father
+T6	PROP_PER 428 447	Robinson Kreutznaer
+T7	NOM_GPE 386 398	that country
+T8	PROP_GPE 492 499	England
+T10	NOM_PER 581 594	my companions
+T11	PROP_PER 353 361	Robinson
+T13	PROP_GPE 807 814	Dunkirk
+T15	PROP_GPE 710 718	Flanders
+T16	NOM_GPE 823 836	the Spaniards
+T18	NOM_PER 901 910	my father
+T19	NOM_PER 914 920	mother
+T20	NOM_PER 854 871	my second brother
+T21	NOM_PER 952 979	the third son of the family
+T23	NOM_PER 1392 1401	my father
+T24	NOM_PER 1454 1463	my mother
+T26	NOM_PER 1474 1481	friends
+T27	NOM_PER 1631 1651	a wise and grave man
+T29	NOM_PER 1955 1961	father
+T32	NOM_PER 3009 3014	kings
+T33	NOM_PER 3204 3216	the wise man
+T35	NOM_PER 4312 4315	men
+T37	NOM_PER 5008 5021	the young man
+T38	PROP_PER 6203 6206	God
+T39	NOM_FAC 5683 5687	home
+T41	NOM_PER 5838 5869	my elder brother for an example
+T42	NOM_PER 6454 6463	my father
+T43	NOM_PER 6593 6618	my brother who was killed
+T44	NOM_FAC 6973 6977	home
+T45	NOM_PER 6991 7000	my father
+T46	NOM_PER 7088 7097	my father
+T47	NOM_PER 7526 7535	my father
+T48	NOM_FAC 7936 7940	home
+T50	NOM_PER 7695 7706	an attorney
+T51	NOM_PER 7284 7293	my mother
+T53	NOM_PER 7806 7815	my master
+T54	NOM_PER 7883 7892	my father
+T55	NOM_PER 8733 8742	my mother
+T56	NOM_PER 8760 8769	my father
+T57	NOM_PER 8085 8094	my mother
+T58	NOM_PER 8177 8186	my father
+T59	NOM_PER 8401 8410	my father
+T60	NOM_PER 8462 8471	my father
+T61	NOM_PER 8787 8796	my mother
+T62	NOM_PER 8819 8828	my father
+T63	NOM_PER 8908 8917	my father
+T64	NOM_PER 8988 8996	That boy
+T66	NOM_FAC 9032 9036	home
+T67	NOM_PER 9347 9356	my father
+T68	NOM_PER 9361 9367	mother
+T69	PROP_PER 10080 10083	God
+T70	NOM_PER 9751 9764	seafaring men
+T72	PROP_GPE 9657 9663	London
+T73	NOM_PER 9667 9677	his father
+T74	PROP_PER 9964 9967	God
+T77	PROP_GPE 10156 10162	London
+T79	NOM_PER 9986 9992	father
+T80	NOM_PER 10171 10191	any young adventurer
+T81	NOM_PER 10625 10634	my father
+T82	PROP_FAC 10596 10602	Heaven
+T83	NOM_PER 10732 10741	my mother
+T84	PROP_PER 10953 10956	God
+T85	NOM_PER 10709 10718	my father
+T86	NOM_PER 10696 10706	my parents
+T87	NOM_PER 10964 10970	father
+T88	NOM_PER 81 94	a good family
+T89	NOM_GPE 111 123	that country
+T1	NOM_PER 142 163	a foreigner of Bremen
+T90	PROP_GPE 280 284	York
+T9	NOM_PER 314 323	my mother
+T91	NOM_PER 364 382	a very good family
+T12	PROP_PER 565 571	Crusoe
+T92	NOM_PER 620 638	two elder brothers
+T93	NOM_PER 657 772	lieutenant-colonel to an English regiment of foot in Flanders , formerly commanded by the famous Colonel Lockhart ,
+T94	NOM_PER 679 718	an English regiment of foot in Flanders
+T22	NOM_LOC 1299 1302	sea
+T28	NOM_PER 1619 1628	My father
+T95	NOM_FAC 1762 1773	his chamber
+T96	NOM_FAC 1955 1970	father ’s house
+T97	NOM_GPE 1975 1992	my native country
+T98	NOM_PER 2154 2243	men of desperate fortunes on one hand , or of aspiring , superior fortunes on the other ,
+T99	NOM_LOC 2608 2617	the world
+T101	NOM_PER 2730 2758	the mechanic part of mankind
+T100	NOM_PER 2830 2855	the upper part of mankind
+T30	NOM_PER 2978 2994	all other people
+T31	NOM_PER 3423 3458	the upper and lower part of mankind
+T102	NOM_PER 3470 3488	the middle station
+T103	NOM_PER 3563 3598	the higher or lower part of mankind
+T104	NOM_PER 3700 3871	those were who , by vicious living , luxury , and extravagances on the one hand , or by hard labour , want of necessaries , and mean or insufficient diet on the other hand
+T105	NOM_LOC 4351 4360	the world
+T36	NOM_LOC 5949 5964	the Low Country
+T49	NOM_LOC 7851 7854	sea
+T52	NOM_PER 9074 9118	the most miserable wretch that ever was born
+T65	NOM_GPE 9488 9492	Hull
+T71	NOM_PER 9613 9685	one of my companions being about to sail to London in his father ’s ship
+T75	NOM_PER 9835 9841	father
+T76	NOM_PER 9846 9852	mother
+T78	NOM_VEH 10268 10276	The ship
+T106	PROP_LOC 10298 10308	the Humber
+T107	NOM_LOC 10341 10348	the sea
+T108	NOM_LOC 10415 10418	sea
+T109	NOM_FAC 10625 10643	my father ’s house
+T110	NOM_FAC 1181 1202	a country free school
+T17	NOM_PER 1071 1103	My father , who was very ancient
+T14	NOM_PER 762 770	Lockhart
+T25	NOM_PER 743 761	the famous Colonel
+T111	NOM_LOC 4747 4756	the world
+T112	NOM_LOC 5383 5392	the world
+T113	NOM_GPE 9601 9606	there
+T115	PRON_PER 26 27	I
+T116	PRON_PER 126 128	my
+T117	PRON_PER 194 196	He
+T118	PRON_PER 248 251	his
+T119	PRON_PER 299 301	he
+T120	PRON_PER 314 316	my
+T121	PRON_PER 415 416	I
+T122	PRON_PER 502 504	we
+T123	PRON_PER 526 528	we
+T124	PRON_PER 534 543	ourselves
+T125	PRON_PER 554 557	our
+T126	PRON_PER 581 583	my
+T127	PRON_PER 609 611	me
+T128	PRON_PER 614 615	I
+T129	PRON_PER 854 856	my
+T130	PRON_PER 872 873	I
+T131	PRON_PER 901 903	my
+T132	PRON_PER 941 943	me
+T133	PRON_PER 1008 1010	my
+T134	PRON_PER 1071 1073	My
+T135	PRON_PER 1116 1118	me
+T136	PRON_PER 1231 1233	me
+T137	PRON_PER 1252 1253	I
+T138	PRON_PER 1309 1311	my
+T139	PRON_PER 1336 1338	me
+T140	PRON_PER 1392 1394	my
+T141	PRON_PER 1454 1456	my
+T142	PRON_PER 1614 1616	me
+T143	PRON_PER 1619 1621	My
+T144	PRON_PER 1659 1661	me
+T145	PRON_PER 1705 1707	he
+T146	PRON_PER 1720 1722	my
+T147	PRON_PER 1732 1734	He
+T148	PRON_PER 1742 1744	me
+T149	PRON_PER 1762 1765	his
+T150	PRON_PER 1782 1784	he
+T151	PRON_PER 1846 1848	me
+T152	PRON_PER 1869 1871	He
+T153	PRON_PER 1878 1880	me
+T154	PRON_PER 1937 1938	I
+T155	PRON_PER 1975 1977	my
+T156	PRON_PER 2001 2002	I
+T157	PRON_PER 2060 2062	my
+T158	PRON_PER 2136 2138	He
+T159	PRON_PER 2144 2146	me
+T160	PRON_PER 2311 2321	themselves
+T161	PRON_PER 2430 2432	me
+T162	PRON_PER 2450 2452	me
+T163	PRON_PER 2550 2552	he
+T164	PRON_PER 2858 2860	He
+T165	PRON_PER 2866 2868	me
+T166	PRON_PER 2869 2870	I
+T167	PRON_PER 3109 3113	they
+T168	PRON_PER 3222 3225	his
+T169	PRON_PER 3281 3283	he
+T170	PRON_PER 3328 3330	He
+T171	PRON_PER 3336 3338	me
+T172	PRON_PER 3356 3357	I
+T173	PRON_PER 3607 3611	they
+T174	PRON_PER 3895 3905	themselves
+T175	PRON_PER 3937 3942	their
+T176	PRON_PER 4837 4841	they
+T177	PRON_PER 4932 4934	he
+T178	PRON_PER 4943 4945	me
+T179	PRON_PER 5043 5049	myself
+T180	PRON_PER 5103 5104	I
+T181	PRON_PER 5158 5159	I
+T182	PRON_PER 5194 5196	my
+T183	PRON_PER 5210 5212	he
+T184	PRON_PER 5231 5233	me
+T185	PRON_PER 5259 5261	me
+T186	PRON_PER 5300 5302	he
+T187	PRON_PER 5333 5335	me
+T188	PRON_PER 5350 5351	I
+T189	PRON_PER 5406 5408	my
+T190	PRON_PER 5459 5461	he
+T191	PRON_PER 5521 5524	his
+T192	PRON_PER 5541 5543	me
+T193	PRON_PER 5567 5569	he
+T194	PRON_PER 5587 5589	my
+T195	PRON_PER 5617 5619	he
+T196	PRON_PER 5650 5652	me
+T197	PRON_PER 5656 5657	I
+T198	PRON_PER 5691 5693	he
+T199	PRON_PER 5708 5710	he
+T200	PRON_PER 5742 5744	my
+T201	PRON_PER 5768 5770	me
+T202	PRON_PER 5821 5823	he
+T203	PRON_PER 5829 5831	me
+T204	PRON_PER 5832 5833	I
+T205	PRON_PER 5838 5840	my
+T206	PRON_PER 5880 5882	he
+T207	PRON_PER 5929 5932	him
+T208	PRON_PER 5996 5999	his
+T209	PRON_PER 6024 6027	him
+T210	PRON_PER 6057 6059	he
+T211	PRON_PER 6084 6086	he
+T212	PRON_PER 6092 6094	he
+T213	PRON_PER 6123 6125	me
+T214	PRON_PER 6132 6134	he
+T215	PRON_PER 6159 6161	me
+T216	PRON_PER 6172 6173	I
+T217	PRON_PER 6223 6225	me
+T218	PRON_PER 6232 6233	I
+T219	PRON_PER 6297 6300	his
+T220	PRON_PER 6347 6349	my
+T221	PRON_PER 6361 6362	I
+T222	PRON_PER 6393 6396	his
+T223	PRON_PER 6444 6445	I
+T224	PRON_PER 6454 6456	my
+T225	PRON_PER 6489 6496	himself
+T226	PRON_PER 6499 6500	I
+T227	PRON_PER 6507 6508	I
+T228	PRON_PER 6537 6540	his
+T229	PRON_PER 6581 6583	he
+T230	PRON_PER 6593 6595	my
+T231	PRON_PER 6635 6637	he
+T232	PRON_PER 6647 6649	my
+T233	PRON_PER 6696 6698	me
+T234	PRON_PER 6701 6703	he
+T235	PRON_PER 6722 6724	he
+T236	PRON_PER 6760 6762	me
+T237	PRON_PER 6763 6766	his
+T238	PRON_PER 6785 6787	he
+T239	PRON_PER 6809 6811	me
+T240	PRON_PER 6814 6815	I
+T241	PRON_PER 6905 6906	I
+T242	PRON_PER 6991 6993	my
+T243	PRON_PER 7088 7090	my
+T244	PRON_PER 7146 7147	I
+T245	PRON_PER 7180 7183	him
+T246	PRON_PER 7196 7197	I
+T247	PRON_PER 7248 7250	my
+T248	PRON_PER 7277 7278	I
+T249	PRON_PER 7284 7286	my
+T250	PRON_PER 7309 7310	I
+T251	PRON_PER 7319 7322	her
+T252	PRON_PER 7371 7374	her
+T253	PRON_PER 7380 7382	my
+T254	PRON_PER 7441 7442	I
+T255	PRON_PER 7526 7528	my
+T256	PRON_PER 7552 7554	me
+T257	PRON_PER 7555 7558	his
+T258	PRON_PER 7578 7580	me
+T259	PRON_PER 7605 7606	I
+T260	PRON_PER 7714 7715	I
+T261	PRON_PER 7728 7729	I
+T262	PRON_PER 7734 7735	I
+T263	PRON_PER 7759 7761	my
+T264	PRON_PER 7773 7774	I
+T265	PRON_PER 7806 7808	my
+T266	PRON_PER 7823 7825	my
+T267	PRON_PER 7864 7867	she
+T268	PRON_PER 7883 7885	my
+T269	PRON_PER 7900 7902	me
+T270	PRON_PER 7929 7930	I
+T271	PRON_PER 7971 7972	I
+T272	PRON_PER 7996 7997	I
+T273	PRON_PER 8063 8064	I
+T274	PRON_PER 8085 8087	my
+T275	PRON_PER 8118 8121	she
+T276	PRON_PER 8127 8129	me
+T277	PRON_PER 8130 8133	she
+T278	PRON_PER 8177 8179	my
+T279	PRON_PER 8216 8218	he
+T280	PRON_PER 8242 8244	my
+T281	PRON_PER 8262 8265	his
+T282	PRON_PER 8298 8300	my
+T283	PRON_PER 8317 8320	she
+T284	PRON_PER 8334 8335	I
+T285	PRON_PER 8386 8387	I
+T286	PRON_PER 8401 8403	my
+T287	PRON_PER 8453 8456	she
+T288	PRON_PER 8462 8464	my
+T289	PRON_PER 8484 8486	me
+T290	PRON_PER 8514 8515	I
+T291	PRON_PER 8527 8533	myself
+T292	PRON_PER 8558 8560	me
+T293	PRON_PER 8567 8568	I
+T294	PRON_PER 8582 8583	I
+T295	PRON_PER 8602 8607	their
+T296	PRON_PER 8633 8636	her
+T297	PRON_PER 8642 8645	she
+T298	PRON_PER 8677 8679	my
+T299	PRON_PER 8698 8699	I
+T300	PRON_PER 8733 8735	my
+T301	PRON_PER 8760 8762	my
+T302	PRON_PER 8787 8789	my
+T303	PRON_PER 8819 8821	my
+T304	PRON_PER 8835 8836	I
+T305	PRON_PER 8859 8862	she
+T306	PRON_PER 8893 8896	him
+T307	PRON_PER 8908 8910	my
+T308	PRON_PER 8966 8969	her
+T309	PRON_PER 9015 9017	he
+T310	PRON_PER 9046 9048	he
+T311	PRON_PER 9063 9065	he
+T312	PRON_PER 9121 9122	I
+T313	PRON_PER 9199 9200	I
+T314	PRON_PER 9242 9243	I
+T315	PRON_PER 9347 9349	my
+T316	PRON_PER 9374 9379	their
+T317	PRON_PER 9424 9428	they
+T318	PRON_PER 9434 9436	my
+T319	PRON_PER 9459 9461	me
+T320	PRON_PER 9501 9502	I
+T321	PRON_PER 9587 9588	I
+T322	PRON_PER 9620 9622	my
+T323	PRON_PER 9667 9670	his
+T324	PRON_PER 9702 9704	me
+T325	PRON_PER 9716 9720	them
+T326	PRON_PER 9787 9789	me
+T327	PRON_PER 9802 9804	my
+T328	PRON_PER 9815 9816	I
+T329	PRON_PER 9884 9888	them
+T330	PRON_PER 9914 9918	them
+T331	PRON_PER 9936 9940	they
+T332	PRON_PER 9983 9985	my
+T333	PRON_PER 10123 10124	I
+T334	PRON_PER 10209 10210	I
+T335	PRON_PER 10395 10396	I
+T336	PRON_PER 10428 10429	I
+T337	PRON_PER 10490 10491	I
+T338	PRON_PER 10533 10534	I
+T339	PRON_PER 10561 10562	I
+T340	PRON_PER 10607 10609	my
+T341	PRON_PER 10625 10627	my
+T342	PRON_PER 10661 10663	my
+T343	PRON_PER 10696 10698	my
+T344	PRON_PER 10709 10711	my
+T345	PRON_PER 10732 10734	my
+T346	PRON_PER 10778 10780	my
+T347	PRON_PER 10792 10794	my
+T348	PRON_PER 10891 10893	me
+T349	PRON_PER 10942 10944	my
+T350	PRON_PER 10961 10963	my
+T351	PRON_PER 641 652	one of whom
+T356	NOM_LOC 7426 7435	the world
+T357	NOM_VEH 9681 9685	ship
+T474	Robinson_Crusoe-0 26 27	I
+T362	the_city_of_York-1 59 75	the city of York
+T447	a_good_family-2 81 94	a good family
+T448	England-3 111 123	that country
+T364	my_father-4 126 135	my father
+T475	Robinson_Crusoe-0 126 128	my
+T361	Bremen-5 157 163	Bremen
+T363	Hull-6 187 191	Hull
+T476	my_father-4 194 196	He
+T477	my_father-4 248 251	his
+T449	the_city_of_York-1 280 284	York
+T478	my_father-4 299 301	he
+T368	my_mother-7 314 323	my mother
+T479	Robinson_Crusoe-0 314 316	my
+T370	Robinson-8 353 361	Robinson
+T366	England-3 386 398	that country
+T480	Robinson_Crusoe-0 415 416	I
+T365	Robinson_Crusoe-0 428 447	Robinson Kreutznaer
+T367	England-3 492 499	England
+T481	a_good_family-2 502 504	we
+T482	a_good_family-2 526 528	we
+T483	a_good_family-2 534 543	ourselves
+T484	a_good_family-2 554 557	our
+T371	a_good_family-2 565 571	Crusoe
+T369	my_companions-9 581 594	my companions
+T485	Robinson_Crusoe-0 581 583	my
+T486	Robinson_Crusoe-0 609 611	me
+T487	Robinson_Crusoe-0 614 615	I
+T451	two_elder_brothers-10 620 638	two elder brothers
+T710	one_of_whom-11 641 652	one of whom
+T453	an_English_regiment_of_foot_in_Flanders-12 679 718	an English regiment of foot in Flanders
+T374	Flanders-13 710 718	Flanders
+T373	Colonel_Lockhart-14 762 770	Lockhart
+T384	Colonel_Lockhart-14 743 761	the famous Colonel
+T372	Dunkirk-15 807 814	Dunkirk
+T375	the_Spaniards-16 823 836	the Spaniards
+T379	my_second_brother-17 854 871	my second brother
+T488	Robinson_Crusoe-0 854 856	my
+T489	Robinson_Crusoe-0 872 873	I
+T377	my_father-4 901 910	my father
+T490	Robinson_Crusoe-0 901 903	my
+T378	my_mother-7 914 920	mother
+T491	Robinson_Crusoe-0 941 943	me
+T492	Robinson_Crusoe-0 1008 1010	my
+T376	my_father-4 1071 1103	My father , who was very ancient
+T493	Robinson_Crusoe-0 1071 1073	My
+T494	Robinson_Crusoe-0 1116 1118	me
+T469	a_country_free_school-18 1181 1202	a country free school
+T495	Robinson_Crusoe-0 1231 1233	me
+T496	Robinson_Crusoe-0 1252 1253	I
+T381	sea-19 1299 1302	sea
+T497	Robinson_Crusoe-0 1309 1311	my
+T498	Robinson_Crusoe-0 1336 1338	me
+T382	my_father-4 1392 1401	my father
+T499	Robinson_Crusoe-0 1392 1394	my
+T383	my_mother-7 1454 1463	my mother
+T500	Robinson_Crusoe-0 1454 1456	my
+T385	friends-20 1474 1481	friends
+T501	Robinson_Crusoe-0 1614 1616	me
+T387	my_father-4 1619 1628	My father
+T502	Robinson_Crusoe-0 1619 1621	My
+T503	Robinson_Crusoe-0 1659 1661	me
+T504	my_father-4 1705 1707	he
+T505	Robinson_Crusoe-0 1720 1722	my
+T506	my_father-4 1732 1734	He
+T507	Robinson_Crusoe-0 1742 1744	me
+T454	his_chamber-21 1762 1773	his chamber
+T508	my_father-4 1762 1765	his
+T509	my_father-4 1782 1784	he
+T510	Robinson_Crusoe-0 1846 1848	me
+T511	my_father-4 1869 1871	He
+T512	Robinson_Crusoe-0 1878 1880	me
+T513	Robinson_Crusoe-0 1937 1938	I
+T388	my_father-4 1955 1961	father
+T455	father__s_house-22 1955 1970	father ’s house
+T456	England-3 1975 1992	my native country
+T515	Robinson_Crusoe-0 2001 2002	I
+T516	Robinson_Crusoe-0 2060 2062	my
+T517	my_father-4 2136 2138	He
+T518	Robinson_Crusoe-0 2144 2146	me
+T457	men_of_desperate_fortunes_on_one_hand___or_of_aspiring___superior_fortunes_on_the_other__-23 2154 2243	men of desperate fortunes on one hand , or of aspiring , superior fortunes on the other ,
+T519	men_of_desperate_fortunes_on_one_hand___or_of_aspiring___superior_fortunes_on_the_other__-23 2311 2321	themselves
+T520	Robinson_Crusoe-0 2430 2432	me
+T521	Robinson_Crusoe-0 2450 2452	me
+T522	my_father-4 2550 2552	he
+T458	the_world-24 2608 2617	the world
+T460	the_mechanic_part_of_mankind-25 2730 2758	the mechanic part of mankind
+T459	the_upper_part_of_mankind-26 2830 2855	the upper part of mankind
+T523	my_father-4 2858 2860	He
+T524	Robinson_Crusoe-0 2866 2868	me
+T525	Robinson_Crusoe-0 2869 2870	I
+T389	all_other_people-27 2978 2994	all other people
+T391	kings-28 3009 3014	kings
+T526	kings-28 3109 3113	they
+T392	the_wise_man-29 3204 3216	the wise man
+T527	the_wise_man-29 3222 3225	his
+T528	the_wise_man-29 3281 3283	he
+T529	my_father-4 3328 3330	He
+T530	Robinson_Crusoe-0 3336 3338	me
+T531	Robinson_Crusoe-0 3356 3357	I
+T390	the_upper_and_lower_part_of_mankind-30 3423 3458	the upper and lower part of mankind
+T461	the_middle_state-31 3470 3488	the middle station
+T462	the_upper_and_lower_part_of_mankind-30 3563 3598	the higher or lower part of mankind
+T532	the_middle_state-31 3607 3611	they
+T463	the_upper_and_lower_part_of_mankind-30 3700 3871	those were who , by vicious living , luxury , and extravagances on the one hand , or by hard labour , want of necessaries , and mean or insufficient diet on the other hand
+T533	the_upper_and_lower_part_of_mankind-30 3895 3905	themselves
+T534	the_upper_and_lower_part_of_mankind-30 3937 3942	their
+T394	men-32 4312 4315	men
+T464	the_world-24 4351 4360	the world
+T470	the_world-24 4747 4756	the world
+T535	men-32 4837 4841	they
+T536	my_father-4 4932 4934	he
+T537	Robinson_Crusoe-0 4943 4945	me
+T396	the_young_man-33 5008 5021	the young man
+T538	Robinson_Crusoe-0 5043 5049	myself
+T539	Robinson_Crusoe-0 5103 5104	I
+T540	Robinson_Crusoe-0 5158 5159	I
+T541	Robinson_Crusoe-0 5194 5196	my
+T542	my_father-4 5210 5212	he
+T543	Robinson_Crusoe-0 5231 5233	me
+T544	Robinson_Crusoe-0 5259 5261	me
+T545	my_father-4 5300 5302	he
+T546	Robinson_Crusoe-0 5333 5335	me
+T547	Robinson_Crusoe-0 5350 5351	I
+T471	the_world-24 5383 5392	the world
+T548	Robinson_Crusoe-0 5406 5408	my
+T549	my_father-4 5459 5461	he
+T550	my_father-4 5521 5524	his
+T551	Robinson_Crusoe-0 5541 5543	me
+T552	my_father-4 5567 5569	he
+T553	Robinson_Crusoe-0 5587 5589	my
+T554	my_father-4 5617 5619	he
+T555	Robinson_Crusoe-0 5650 5652	me
+T556	Robinson_Crusoe-0 5656 5657	I
+T398	home-34 5683 5687	home
+T557	my_father-4 5691 5693	he
+T558	my_father-4 5708 5710	he
+T559	Robinson_Crusoe-0 5742 5744	my
+T560	Robinson_Crusoe-0 5768 5770	me
+T561	my_father-4 5821 5823	he
+T562	Robinson_Crusoe-0 5829 5831	me
+T563	Robinson_Crusoe-0 5832 5833	I
+T400	one_of_whom-11 5838 5869	my elder brother for an example
+T564	Robinson_Crusoe-0 5838 5840	my
+T565	my_father-4 5880 5882	he
+T566	one_of_whom-11 5929 5932	him
+T395	the_Low_Country-35 5949 5964	the Low Country
+T567	one_of_whom-11 5996 5999	his
+T568	one_of_whom-11 6024 6027	him
+T569	one_of_whom-11 6057 6059	he
+T570	my_father-4 6084 6086	he
+T571	my_father-4 6092 6094	he
+T572	Robinson_Crusoe-0 6123 6125	me
+T573	my_father-4 6132 6134	he
+T574	Robinson_Crusoe-0 6159 6161	me
+T575	Robinson_Crusoe-0 6172 6173	I
+T397	God-36 6203 6206	God
+T576	Robinson_Crusoe-0 6223 6225	me
+T577	Robinson_Crusoe-0 6232 6233	I
+T578	my_father-4 6297 6300	his
+T579	Robinson_Crusoe-0 6347 6349	my
+T580	Robinson_Crusoe-0 6361 6362	I
+T581	my_father-4 6393 6396	his
+T582	Robinson_Crusoe-0 6444 6445	I
+T401	my_father-4 6454 6463	my father
+T583	Robinson_Crusoe-0 6454 6456	my
+T584	my_father-4 6489 6496	himself
+T585	Robinson_Crusoe-0 6499 6500	I
+T586	Robinson_Crusoe-0 6507 6508	I
+T587	my_father-4 6537 6540	his
+T588	my_father-4 6581 6583	he
+T402	one_of_whom-11 6593 6618	my brother who was killed
+T589	Robinson_Crusoe-0 6593 6595	my
+T590	my_father-4 6635 6637	he
+T591	Robinson_Crusoe-0 6647 6649	my
+T592	Robinson_Crusoe-0 6696 6698	me
+T593	my_father-4 6701 6703	he
+T594	my_father-4 6722 6724	he
+T595	Robinson_Crusoe-0 6760 6762	me
+T596	my_father-4 6763 6766	his
+T597	my_father-4 6785 6787	he
+T598	Robinson_Crusoe-0 6809 6811	me
+T599	Robinson_Crusoe-0 6814 6815	I
+T600	Robinson_Crusoe-0 6905 6906	I
+T403	home-34 6973 6977	home
+T404	my_father-4 6991 7000	my father
+T601	Robinson_Crusoe-0 6991 6993	my
+T405	my_father-4 7088 7097	my father
+T602	Robinson_Crusoe-0 7088 7090	my
+T603	Robinson_Crusoe-0 7146 7147	I
+T604	my_father-4 7180 7183	him
+T605	Robinson_Crusoe-0 7196 7197	I
+T606	Robinson_Crusoe-0 7248 7250	my
+T607	Robinson_Crusoe-0 7277 7278	I
+T410	my_mother-7 7284 7293	my mother
+T608	Robinson_Crusoe-0 7284 7286	my
+T609	Robinson_Crusoe-0 7309 7310	I
+T610	my_mother-7 7319 7322	her
+T611	my_mother-7 7371 7374	her
+T612	Robinson_Crusoe-0 7380 7382	my
+T715	the_world-24 7426 7435	the world
+T613	Robinson_Crusoe-0 7441 7442	I
+T406	my_father-4 7526 7535	my father
+T614	Robinson_Crusoe-0 7526 7528	my
+T615	Robinson_Crusoe-0 7552 7554	me
+T616	my_father-4 7555 7558	his
+T617	Robinson_Crusoe-0 7578 7580	me
+T618	Robinson_Crusoe-0 7605 7606	I
+T409	an_attorney-37 7695 7706	an attorney
+T619	Robinson_Crusoe-0 7714 7715	I
+T620	Robinson_Crusoe-0 7728 7729	I
+T621	Robinson_Crusoe-0 7734 7735	I
+T622	Robinson_Crusoe-0 7759 7761	my
+T623	Robinson_Crusoe-0 7773 7774	I
+T412	my_master-38 7806 7815	my master
+T624	Robinson_Crusoe-0 7806 7808	my
+T625	Robinson_Crusoe-0 7823 7825	my
+T408	sea-19 7851 7854	sea
+T626	my_mother-7 7864 7867	she
+T413	my_father-4 7883 7892	my father
+T627	Robinson_Crusoe-0 7883 7885	my
+T628	Robinson_Crusoe-0 7900 7902	me
+T629	Robinson_Crusoe-0 7929 7930	I
+T407	home-34 7936 7940	home
+T630	Robinson_Crusoe-0 7971 7972	I
+T631	Robinson_Crusoe-0 7996 7997	I
+T632	Robinson_Crusoe-0 8063 8064	I
+T416	my_mother-7 8085 8094	my mother
+T633	Robinson_Crusoe-0 8085 8087	my
+T634	my_mother-7 8118 8121	she
+T635	Robinson_Crusoe-0 8127 8129	me
+T636	my_mother-7 8130 8133	she
+T417	my_father-4 8177 8186	my father
+T637	Robinson_Crusoe-0 8177 8179	my
+T638	my_father-4 8216 8218	he
+T639	Robinson_Crusoe-0 8242 8244	my
+T640	my_father-4 8262 8265	his
+T641	Robinson_Crusoe-0 8298 8300	my
+T642	my_mother-7 8317 8320	she
+T643	Robinson_Crusoe-0 8334 8335	I
+T644	Robinson_Crusoe-0 8386 8387	I
+T418	my_father-4 8401 8410	my father
+T645	Robinson_Crusoe-0 8401 8403	my
+T646	my_mother-7 8453 8456	she
+T419	my_father-4 8462 8471	my father
+T647	Robinson_Crusoe-0 8462 8464	my
+T648	Robinson_Crusoe-0 8484 8486	me
+T649	Robinson_Crusoe-0 8514 8515	I
+T650	Robinson_Crusoe-0 8527 8533	myself
+T651	Robinson_Crusoe-0 8558 8560	me
+T652	Robinson_Crusoe-0 8567 8568	I
+T653	Robinson_Crusoe-0 8582 8583	I
+T654	Robinson_s_Parents-39 8602 8607	their
+T655	my_mother-7 8633 8636	her
+T656	my_mother-7 8642 8645	she
+T657	Robinson_Crusoe-0 8677 8679	my
+T658	Robinson_Crusoe-0 8698 8699	I
+T414	my_mother-7 8733 8742	my mother
+T659	Robinson_Crusoe-0 8733 8735	my
+T415	my_father-4 8760 8769	my father
+T660	Robinson_Crusoe-0 8760 8762	my
+T420	my_mother-7 8787 8796	my mother
+T661	Robinson_Crusoe-0 8787 8789	my
+T421	my_father-4 8819 8828	my father
+T662	Robinson_Crusoe-0 8819 8821	my
+T663	Robinson_Crusoe-0 8835 8836	I
+T664	my_mother-7 8859 8862	she
+T665	my_father-4 8893 8896	him
+T422	my_father-4 8908 8917	my father
+T666	Robinson_Crusoe-0 8908 8910	my
+T667	my_mother-7 8966 8969	her
+T423	Robinson_Crusoe-0 8988 8996	That boy
+T668	Robinson_Crusoe-0 9015 9017	he
+T425	home-34 9032 9036	home
+T669	Robinson_Crusoe-0 9046 9048	he
+T670	Robinson_Crusoe-0 9063 9065	he
+T671	my_father-4 9121 9122	I
+T672	Robinson_Crusoe-0 9199 9200	I
+T673	Robinson_Crusoe-0 9242 9243	I
+T426	my_father-4 9347 9356	my father
+T674	Robinson_Crusoe-0 9347 9349	my
+T427	my_mother-7 9361 9367	mother
+T675	Robinson_s_Parents-39 9374 9379	their
+T676	Robinson_s_Parents-39 9424 9428	they
+T677	Robinson_Crusoe-0 9434 9436	my
+T678	Robinson_Crusoe-0 9459 9461	me
+T424	Hull-6 9488 9492	Hull
+T679	Robinson_Crusoe-0 9501 9502	I
+T680	Robinson_Crusoe-0 9587 9588	I
+T472	Hull-6 9601 9606	there
+T430	one_of_my_companions_being_about_to_sail_to_London_in_his_father__s_ship-40 9613 9685	one of my companions being about to sail to London in his father ’s ship
+T681	Robinson_Crusoe-0 9620 9622	my
+T431	London-41 9657 9663	London
+T432	his_father-42 9667 9677	his father
+T682	one_of_my_companions_being_about_to_sail_to_London_in_his_father__s_ship-40 9667 9670	his
+T716	ship-43 9681 9685	ship
+T683	Robinson_Crusoe-0 9702 9704	me
+T684	them-44 9716 9720	them
+T429	seafaring_men-45 9751 9764	seafaring men
+T685	Robinson_Crusoe-0 9787 9789	me
+T686	Robinson_Crusoe-0 9802 9804	my
+T687	Robinson_Crusoe-0 9815 9816	I
+T434	my_father-4 9835 9841	father
+T435	my_mother-7 9846 9852	mother
+T688	Robinson_s_Parents-39 9884 9888	them
+T689	Robinson_s_Parents-39 9914 9918	them
+T690	Robinson_s_Parents-39 9936 9940	they
+T433	God-36 9964 9967	God
+T691	Robinson_Crusoe-0 9983 9985	my
+T438	my_father-4 9986 9992	father
+T428	God-36 10080 10083	God
+T692	Robinson_Crusoe-0 10123 10124	I
+T436	London-41 10156 10162	London
+T439	any_young_adventurer-46 10171 10191	any young adventurer
+T693	Robinson_Crusoe-0 10209 10210	I
+T437	ship-43 10268 10276	The ship
+T465	the_Humber-47 10298 10308	the Humber
+T466	the_sea-48 10341 10348	the sea
+T694	Robinson_Crusoe-0 10395 10396	I
+T467	sea-19 10415 10418	sea
+T695	Robinson_Crusoe-0 10428 10429	I
+T696	Robinson_Crusoe-0 10490 10491	I
+T697	Robinson_Crusoe-0 10533 10534	I
+T698	Robinson_Crusoe-0 10561 10562	I
+T441	Heaven-49 10596 10602	Heaven
+T699	Robinson_Crusoe-0 10607 10609	my
+T440	my_father-4 10625 10634	my father
+T468	home-34 10625 10643	my father ’s house
+T700	Robinson_Crusoe-0 10625 10627	my
+T701	Robinson_Crusoe-0 10661 10663	my
+T445	Robinson_s_Parents-39 10696 10706	my parents
+T702	Robinson_Crusoe-0 10696 10698	my
+T444	my_father-4 10709 10718	my father
+T703	Robinson_Crusoe-0 10709 10711	my
+T442	my_mother-7 10732 10741	my mother
+T704	Robinson_Crusoe-0 10732 10734	my
+T705	Robinson_Crusoe-0 10778 10780	my
+T706	Robinson_Crusoe-0 10792 10794	my
+T707	Robinson_Crusoe-0 10891 10893	me
+T708	Robinson_Crusoe-0 10942 10944	my
+T443	God-36 10953 10956	God
+T709	Robinson_Crusoe-0 10961 10963	my
+T446	my_father-4 10964 10970	father
+R1	cop Arg1:T1 Arg2:T5
+R2	appos Arg1:T91 Arg2:T11
+R3	cop Arg1:T93 Arg2:T351
+R4	cop Arg1:T21 Arg2:T133
+R5	appos Arg1:T27 Arg2:T28
+T34	Robinson_Crusoe-0 1975 1977	my
+T721	PRON_LOC 4386 4388	it
+T722	the_world-24 4386 4388	it
+T723	PRON_LOC 4902 4904	it
+T724	the_world-24 4902 4904	it
+T40	the_most_miserable_w-700 9074 9118	the most miserable wretch that ever was born

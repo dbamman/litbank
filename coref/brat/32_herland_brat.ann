@@ -1,0 +1,610 @@
+T0	NOM_FAC 398 405	streets
+T2	NOM_FAC 411 420	buildings
+T3	NOM_PER 623 628	women
+T4	NOM_LOC 724 733	the world
+T6	NOM_PER 845 852	traders
+T7	PROP_PER 1101 1119	Terry O. Nicholson
+T8	NOM_PER 1090 1097	friends
+T9	NOM_VEH 1675 1680	boats
+T10	PROP_PER 1787 1792	Terry
+T11	NOM_PER 1833 1843	a botanist
+T12	PROP_PER 1795 1808	Jeff Margrave
+T15	PROP_PER 2159 2164	Terry
+T16	PROP_PER 2226 2230	Jeff
+T17	PROP_PER 2503 2507	Jeff
+T18	NOM_PER 2478 2486	a doctor
+T19	NOM_LOC 2757 2770	a great river
+T20	NOM_PER 3020 3030	our guides
+T21	NOM_PER 3124 3165	a really good interpreter we took with us
+T23	NOM_PER 3475 3488	these savages
+T27	NOM_PER 3775 3788	girl children
+T29	NOM_PER 4014 4023	All Women
+T30	NOM_FAC 3984 3994	Big Houses
+T33	NOM_PER 4159 4167	the boys
+T34	NOM_FAC 4397 4401	home
+T35	NOM_PER 4733 4782	a rather superior fellow with quick , bright eyes
+T36	NOM_LOC 4702 4712	that river
+T37	NOM_PER 4716 4730	our last guide
+T38	NOM_LOC 4843 4854	short river
+T39	NOM_LOC 4811 4824	another river
+T40	NOM_LOC 5042 5051	the river
+T42	PROP_PER 5232 5237	Terry
+T43	NOM_PER 5286 5293	The man
+T44	PROP_PER 5385 5390	Terry
+T45	PROP_PER 6031 6036	Terry
+T46	NOM_LOC 6186 6205	the circling forest
+T47	NOM_PER 6243 6252	Our guide
+T48	NOM_VEH 6266 6271	boats
+T49	PROP_PER 6706 6711	Terry
+T50	NOM_LOC 6857 6867	the cliffs
+T51	NOM_PER 6920 6929	the guide
+T52	NOM_LOC 6949 6958	his river
+T53	NOM_PER 7101 7110	The guide
+T54	PROP_PER 7166 7171	Terry
+T55	NOM_PER 7285 7294	The guide
+T57	NOM_PER 8126 8135	The guide
+T59	NOM_PER 8487 8494	the man
+T60	NOM_PER 8576 8581	women
+T61	NOM_PER 8608 8617	all girls
+T62	NOM_PER 8585 8591	no men
+T64	NOM_PER 8749 8752	men
+T65	NOM_PER 8832 8841	the guide
+T66	PROP_PER 9051 9056	Terry
+T67	NOM_PER 9154 9180	those cocky old professors
+T68	NOM_FAC 9196 9200	home
+T69	NOM_GPE 350 360	the cities
+T70	NOM_FAC 365 370	parks
+T71	NOM_FAC 452 474	those gorgeous gardens
+T1	NOM_PER 510 519	the women
+T72	NOM_LOC 754 766	that country
+T5	NOM_PER 807 839	some self-appointed missionaries
+T73	NOM_PER 858 883	land-greedy expansionists
+T74	NOM_PER 1075 1085	classmates
+T75	PROP_PER 1146 1154	Old Nick
+T76	PROP_PER 1178 1191	Jeff Margrave
+T77	PROP_PER 1202 1218	Vandyck Jennings
+T78	PROP_PER 1365 1370	Terry
+T79	NOM_VEH 1685 1694	motorcars
+T80	NOM_PER 1724 1734	our airmen
+T81	NOM_PER 1712 1734	the best of our airmen
+T82	NOM_PER 1705 1734	one of the best of our airmen
+T83	NOM_PER 1862 1871	his folks
+T14	NOM_PER 1892 1900	a doctor
+T84	PROP_PER 2571 2576	Terry
+T85	PROP_PER 2656 2661	Terry
+T86	NOM_LOC 2705 2770	the thousand tributaries and enormous hinterland of a great river
+T87	NOM_PER 3217 3239	these scattered tribes
+T88	NOM_LOC 3307 3313	rivers
+T89	NOM_LOC 3316 3321	lakes
+T90	NOM_LOC 3324 3332	morasses
+T91	NOM_LOC 3339 3352	dense forests
+T92	NOM_LOC 3416 3440	the big mountains beyond
+T93	NOM_LOC 3375 3440	an unexpected long spur running out from the big mountains beyond
+T22	NOM_LOC 3507 3561	a strange and terrible Woman Land in the high distance
+T26	NOM_PER 3765 3770	women
+T25	NOM_LOC 3717 3756	this strange country where no men lived
+T28	NOM_PER 3867 3874	any man
+T31	NOM_PER 3929 3952	some brave investigator
+T94	NOM_LOC 3968 3981	a Big Country
+T95	NOM_PER 3997 4010	Plenty People
+T32	NOM_PER 4118 4121	men
+T96	NOM_FAC 4480 4499	The main encampment
+T97	NOM_LOC 4539 4554	the main stream
+T98	NOM_LOC 4580 4595	the main stream
+T99	NOM_LOC 4507 4595	a spit of land running out into the main stream , or what we thought was the main stream
+T41	NOM_LOC 5088 5093	River
+T100	PROP_PER 5128 5133	Terry
+T101	NOM_PER 5165 5175	the fellow
+T102	PROP_PER 5211 5214	Van
+T103	PROP_PER 5494 5498	Jeff
+T104	NOM_PER 5828 5838	the savage
+T105	NOM_LOC 5930 5992	a swampy patch we never should have found our way across alone
+T106	NOM_LOC 5889 5925	a desperate tangle of wood and water
+T107	NOM_LOC 6143 6164	a sort of marshy lake
+T108	NOM_FAC 6295 6303	our camp
+T109	NOM_LOC 6564 6583	a wooded promontory
+T110	NOM_LOC 6592 6617	a quite different country
+T111	NOM_LOC 6638 6664	mountains , steep and bare
+T112	NOM_LOC 6669 6701	One of those long easterly spurs
+T113	NOM_LOC 6821 6829	the lake
+T114	NOM_LOC 7068 7077	the cliff
+T115	NOM_LOC 7010 7077	a narrow vertical cataract from an opening in the face of the cliff
+T116	NOM_LOC 7213 7222	the hills
+T117	NOM_LOC 7364 7433	a quiet marginal pool where there were smears of red along the border
+T118	PROP_PER 7456 7461	Terry
+T119	NOM_LOC 7657 7665	the fall
+T120	NOM_LOC 7689 7704	the steep banks
+T56	NOM_LOC 7722 7779	the pool that foamed and boiled beneath the falling water
+T121	NOM_LOC 8154 8162	the bank
+T58	NOM_LOC 8382 8395	Woman Country
+T122	NOM_LOC 8566 8581	a land of women
+T63	NOM_PER 8633 8636	men
+T123	PROP_PER 8709 8714	Terry
+T124	NOM_LOC 8800 8813	the waterfall
+T125	NOM_LOC 8925 8941	that sheer cliff
+T126	NOM_PER 8970 8979	our party
+T127	NOM_PER 9095 9102	fellows
+T13	NOM_PER 1824 1830	a poet
+T128	NOM_PER 533 539	Nobody
+T129	NOM_PER 4030 4041	no one else
+T130	NOM_LOC 3881 3886	there
+T131	NOM_LOC 6286 6291	there
+T132	NOM_LOC 7782 7786	Here
+T133	NOM_LOC 8365 8377	the cataract
+T134	NOM_LOC 8470 8475	there
+T135	PRON_PER 88 89	I
+T136	PRON_PER 114 116	me
+T137	PRON_PER 130 131	I
+T138	PRON_PER 320 322	We
+T139	PRON_PER 520 530	themselves
+T140	PRON_PER 562 566	they
+T141	PRON_PER 635 636	I
+T142	PRON_PER 769 770	I
+T143	PRON_PER 904 914	themselves
+T144	PRON_PER 928 932	They
+T145	PRON_PER 954 955	I
+T146	PRON_PER 965 969	them
+T147	PRON_PER 1002 1004	we
+T148	PRON_PER 1012 1016	they
+T150	PRON_PER 1122 1124	we
+T151	PRON_PER 1138 1141	him
+T152	PRON_PER 1198 1199	I
+T153	PRON_PER 1221 1223	We
+T154	PRON_PER 1279 1282	our
+T155	PRON_PER 1295 1297	we
+T157	PRON_PER 1396 1398	he
+T158	PRON_PER 1409 1412	His
+T159	PRON_PER 1441 1443	He
+T160	PRON_PER 1556 1558	he
+T161	PRON_PER 1566 1568	He
+T162	PRON_PER 1594 1596	he
+T163	PRON_PER 1724 1727	our
+T164	PRON_PER 1737 1739	We
+T165	PRON_PER 1862 1865	his
+T166	PRON_PER 1882 1885	him
+T167	PRON_PER 1911 1913	He
+T168	PRON_PER 1935 1938	his
+T169	PRON_PER 1949 1952	his
+T170	PRON_PER 1979 1981	he
+T171	PRON_PER 2032 2034	me
+T172	PRON_PER 2050 2052	my
+T173	PRON_PER 2061 2064	You
+T174	PRON_PER 2129 2130	I
+T176	PRON_PER 2242 2245	him
+T177	PRON_PER 2272 2273	I
+T178	PRON_PER 2299 2303	they
+T179	PRON_PER 2406 2408	We
+T180	PRON_PER 2466 2470	They
+T181	PRON_PER 2531 2534	his
+T182	PRON_PER 2559 2563	they
+T183	PRON_PER 2593 2596	his
+T184	PRON_PER 2611 2614	his
+T185	PRON_PER 2634 2636	me
+T186	PRON_PER 2639 2640	I
+T187	PRON_PER 2977 2979	My
+T188	PRON_PER 3020 3023	our
+T189	PRON_PER 3033 3034	I
+T191	PRON_PER 3150 3152	we
+T192	PRON_PER 3163 3165	us
+T193	PRON_PER 3168 3169	I
+T194	PRON_PER 3249 3251	we
+T195	PRON_PER 3443 3444	I
+T196	PRON_PER 3633 3637	they
+T197	PRON_PER 3656 3661	their
+T198	PRON_PER 3799 3803	them
+T199	PRON_PER 3851 3855	they
+T200	PRON_PER 4075 4079	they
+T201	PRON_PER 4133 4137	they
+T202	PRON_PER 4152 4153	I
+T203	PRON_PER 4194 4198	they
+T205	PRON_PER 4227 4228	I
+T206	PRON_PER 4233 4239	myself
+T207	PRON_PER 4242 4243	I
+T208	PRON_PER 4301 4303	we
+T209	PRON_PER 4316 4319	our
+T210	PRON_PER 4357 4359	we
+T211	PRON_PER 4452 4454	we
+T212	PRON_PER 4565 4567	we
+T213	PRON_PER 4626 4628	we
+T214	PRON_PER 4679 4680	I
+T215	PRON_PER 4716 4719	our
+T216	PRON_PER 4785 4787	He
+T217	PRON_PER 4793 4795	me
+T218	PRON_PER 4888 4889	I
+T219	PRON_PER 4935 4936	I
+T220	PRON_PER 4957 4958	I
+T221	PRON_PER 4966 4969	him
+T222	PRON_PER 4992 4993	I
+T223	PRON_PER 5028 5030	he
+T224	PRON_PER 5202 5204	he
+T225	PRON_PER 5219 5220	I
+T226	PRON_PER 5226 5229	him
+T227	PRON_PER 5264 5267	him
+T228	PRON_PER 5322 5323	I
+T229	PRON_PER 5400 5402	us
+T230	PRON_PER 5417 5419	we
+T231	PRON_PER 5516 5519	his
+T232	PRON_PER 5552 5554	we
+T233	PRON_PER 5600 5602	we
+T234	PRON_PER 5629 5631	we
+T235	PRON_PER 5693 5695	we
+T236	PRON_PER 5767 5776	ourselves
+T237	PRON_PER 5820 5821	I
+T238	PRON_PER 5945 5947	we
+T239	PRON_PER 5972 5975	our
+T240	PRON_PER 6019 6020	I
+T241	PRON_PER 6118 6120	We
+T242	PRON_PER 6243 6246	Our
+T243	PRON_PER 6258 6260	us
+T244	PRON_PER 6295 6298	our
+T245	PRON_PER 6379 6381	we
+T246	PRON_PER 6397 6399	we
+T247	PRON_PER 6439 6441	We
+T248	PRON_PER 6512 6514	we
+T249	PRON_PER 6540 6542	we
+T250	PRON_LOC 6776 6780	They
+T251	PRON_PER 6813 6815	we
+T252	PRON_PER 6870 6872	We
+T253	PRON_PER 6900 6902	we
+T254	PRON_PER 6949 6952	his
+T255	PRON_PER 6976 6978	We
+T256	PRON_PER 7136 7138	we
+T257	PRON_PER 7325 7327	He
+T258	PRON_PER 7361 7363	us
+T259	PRON_PER 7470 7473	his
+T260	PRON_PER 7554 7555	I
+T261	PRON_PER 7590 7592	me
+T262	PRON_PER 7632 7634	he
+T263	PRON_PER 7670 7672	We
+T264	PRON_PER 7787 7789	we
+T265	PRON_PER 8090 8092	we
+T266	PRON_PER 8183 8186	our
+T267	PRON_PER 8251 8253	he
+T268	PRON_PER 8259 8261	us
+T269	PRON_PER 8280 8283	his
+T270	PRON_PER 8343 8345	he
+T271	PRON_PER 8417 8419	we
+T272	PRON_PER 8438 8440	We
+T273	PRON_PER 8445 8448	our
+T274	PRON_PER 8521 8523	He
+T275	PRON_PER 8535 8537	us
+T276	PRON_PER 8697 8698	I
+T277	PRON_PER 8767 8769	He
+T278	PRON_PER 8783 8785	he
+T279	PRON_PER 8948 8950	we
+T280	PRON_PER 8970 8973	our
+T281	PRON_PER 8997 9001	They
+T282	PRON_PER 9016 9018	we
+T283	PRON_PER 9024 9028	them
+T284	PRON_PER 9033 9034	I
+T285	PRON_PER 9068 9071	his
+T286	PRON_PER 9107 9109	he
+T287	PRON_PER 9127 9130	our
+T288	PRON_PER 9240 9242	us
+T289	PRON_PER 9274 9277	our
+T290	NOM_PER 1061 1072	three of us
+T291	NOM_PER 1326 1335	All of us
+T292	NOM_PER 4056 4067	a good many
+T293	PRON_LOC 4598 4600	It
+T294	PROP_PER 7861 7865	Jeff
+T295	NOM_PER 8548 8558	the others
+T296	NOM_PER 8595 8601	babies
+T432	narrator-0 88 89	I
+T433	narrator-0 114 116	me
+T434	narrator-0 130 131	I
+T435	We-1 320 322	We
+T366	the_cities-2 350 360	the cities
+T367	parks-3 365 370	parks
+T297	streets-4 398 405	streets
+T299	buildings-5 411 420	buildings
+T368	those_gorgeous_gardens-6 452 474	those gorgeous gardens
+T298	the_women-7 510 519	the women
+T436	the_women-7 520 530	themselves
+T425	Nobody-8 533 539	Nobody
+T437	the_women-7 562 566	they
+T300	women-9 623 628	women
+T438	narrator-0 635 636	I
+T301	the_world-10 724 733	the world
+T369	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 754 766	that country
+T439	narrator-0 769 770	I
+T302	some_self-appointed_missionaries-12 807 839	some self-appointed missionaries
+T303	traders-13 845 852	traders
+T370	land-greedy_expansionists-14 858 883	land-greedy expansionists
+T440	themselves-15 904 914	themselves
+T441	themselves-15 928 932	They
+T442	narrator-0 954 955	I
+T443	themselves-15 965 969	them
+T444	We-1 1002 1004	we
+T445	themselves-15 1012 1016	they
+T587	We-1 1061 1072	three of us
+T304	Terry_O__Nicholson-17 1101 1119	Terry O. Nicholson
+T447	we-18 1122 1124	we
+T448	Terry_O__Nicholson-17 1138 1141	him
+T372	Terry_O__Nicholson-17 1146 1154	Old Nick
+T373	Jeff_Margrave-19 1178 1191	Jeff Margrave
+T449	narrator-0 1198 1199	I
+T450	We-1 1221 1223	We
+T451	We-1 1279 1282	our
+T452	We-1 1295 1297	we
+T588	We-1 1326 1335	All of us
+T375	Terry_O__Nicholson-17 1365 1370	Terry
+T454	Terry_O__Nicholson-17 1396 1398	he
+T455	Terry_O__Nicholson-17 1409 1412	His
+T456	Terry_O__Nicholson-17 1441 1443	He
+T457	Terry_O__Nicholson-17 1556 1558	he
+T458	Terry_O__Nicholson-17 1566 1568	He
+T459	Terry_O__Nicholson-17 1594 1596	he
+T306	boats-21 1675 1680	boats
+T376	motorcars-22 1685 1694	motorcars
+T378	the_best_of_our_airmen-23 1712 1734	the best of our airmen
+T377	our_airmen-24 1724 1734	our airmen
+T460	our-25 1724 1727	our
+T461	We-1 1737 1739	We
+T307	Terry_O__Nicholson-17 1787 1792	Terry
+T309	Jeff_Margrave-19 1795 1808	Jeff Margrave
+T310	a_poet-26 1824 1830	a poet
+T308	a_botanist-27 1833 1843	a botanist
+T380	his_folks-28 1862 1871	his folks
+T462	Jeff_Margrave-19 1862 1865	his
+T463	Jeff_Margrave-19 1882 1885	him
+T464	Jeff_Margrave-19 1911 1913	He
+T465	Jeff_Margrave-19 1935 1938	his
+T466	Jeff_Margrave-19 1949 1952	his
+T467	Jeff_Margrave-19 1979 1981	he
+T468	narrator-0 2032 2034	me
+T469	narrator-0 2050 2052	my
+T470	You-29 2061 2064	You
+T471	narrator-0 2129 2130	I
+T312	Terry_O__Nicholson-17 2159 2164	Terry
+T313	Jeff_Margrave-19 2226 2230	Jeff
+T473	Terry_O__Nicholson-17 2242 2245	him
+T474	narrator-0 2272 2273	I
+T475	Terry_Jeff-30 2299 2303	they
+T476	We-1 2406 2408	We
+T477	They-31 2466 2470	They
+T315	a_doctor-32 2478 2486	a doctor
+T314	Jeff_Margrave-19 2503 2507	Jeff
+T478	Jeff_Margrave-19 2531 2534	his
+T479	They-31 2559 2563	they
+T381	Terry_O__Nicholson-17 2571 2576	Terry
+T480	Terry_O__Nicholson-17 2593 2596	his
+T481	Terry_O__Nicholson-17 2611 2614	his
+T482	narrator-0 2634 2636	me
+T483	narrator-0 2639 2640	I
+T382	Terry_O__Nicholson-17 2656 2661	Terry
+T383	the_thousand_tributaries_and_enormous_hinterland_of_a_great_river-33 2705 2770	the thousand tributaries and enormous hinterland of a great river
+T316	a_great_river-34 2757 2770	a great river
+T484	narrator-0 2977 2979	My
+T317	our_guides-35 3020 3030	our guides
+T485	We-1 3020 3023	our
+T486	narrator-0 3033 3034	I
+T318	a_really_good_interpreter_we_took_with_us-36 3124 3165	a really good interpreter we took with us
+T488	We-1 3150 3152	we
+T489	We-1 3163 3165	us
+T490	narrator-0 3168 3169	I
+T384	these_scattered_tribes-37 3217 3239	these scattered tribes
+T491	We-1 3249 3251	we
+T385	rivers-38 3307 3313	rivers
+T386	lakes-39 3316 3321	lakes
+T387	morasses-40 3324 3332	morasses
+T388	dense_forests-41 3339 3352	dense forests
+T390	an_unexpected_long_spur_running_out_from_the_big_mountains_beyond-42 3375 3440	an unexpected long spur running out from the big mountains beyond
+T389	the_big_mountains_beyond-43 3416 3440	the big mountains beyond
+T492	narrator-0 3443 3444	I
+T320	these_savages-44 3475 3488	these savages
+T319	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 3507 3561	a strange and terrible Woman Land in the high distance
+T493	these_savages-44 3633 3637	they
+T494	these_savages-44 3656 3661	their
+T322	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 3717 3756	this strange country where no men lived
+T323	women-47 3765 3770	women
+T324	girl_children-48 3775 3788	girl children
+T495	these_savages-44 3799 3803	them
+T496	these_savages-44 3851 3855	they
+T325	any_man-49 3867 3874	any man
+T427	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 3881 3886	there
+T328	some_brave_investigator-50 3929 3952	some brave investigator
+T391	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 3968 3981	a Big Country
+T327	Big_Houses-51 3984 3994	Big Houses
+T392	Plenty_People-52 3997 4010	Plenty People
+T326	All_Women-53 4014 4023	All Women
+T426	no_one_else-54 4030 4041	no one else
+T589	a_good_many-55 4056 4067	a good many
+T497	a_good_many-55 4075 4079	they
+T329	men-56 4118 4121	men
+T498	these_savages-44 4133 4137	they
+T499	narrator-0 4152 4153	I
+T330	Terry_Jeff-30 4159 4167	the boys
+T500	Terry_Jeff-30 4194 4198	they
+T502	narrator-0 4227 4228	I
+T503	narrator-0 4233 4239	myself
+T504	narrator-0 4242 4243	I
+T505	We-1 4301 4303	we
+T506	We-1 4316 4319	our
+T507	We-1 4357 4359	we
+T331	home-57 4397 4401	home
+T508	We-1 4452 4454	we
+T393	The_main_encampment-58 4480 4499	The main encampment
+T396	a_spit_of_land_running_out_into_the_main_stream___or_what_we_thought_was_the_main_stream-59 4507 4595	a spit of land running out into the main stream , or what we thought was the main stream
+T394	the_main_stream-60 4539 4554	the main stream
+T509	We-1 4565 4567	we
+T395	the_main_stream-60 4580 4595	the main stream
+T510	We-1 4626 4628	we
+T511	narrator-0 4679 4680	I
+T333	the_main_stream-60 4702 4712	that river
+T334	our_last_guide-61 4716 4730	our last guide
+T512	We-1 4716 4719	our
+T513	our_last_guide-61 4785 4787	He
+T514	narrator-0 4793 4795	me
+T590	the_main_stream-60 4598 4600	It
+T336	another_river-62 4811 4824	another river
+T335	another_river-62 4843 4854	short river
+T515	narrator-0 4888 4889	I
+T516	narrator-0 4935 4936	I
+T517	narrator-0 4957 4958	I
+T518	our_last_guide-61 4966 4969	him
+T519	narrator-0 4992 4993	I
+T520	our_last_guide-61 5028 5030	he
+T337	the_main_stream-60 5042 5051	the river
+T338	another_river-62 5088 5093	River
+T397	Terry_O__Nicholson-17 5128 5133	Terry
+T398	our_last_guide-61 5165 5175	the fellow
+T521	our_last_guide-61 5202 5204	he
+T399	narrator-0 5211 5214	Van
+T522	narrator-0 5219 5220	I
+T523	Terry_O__Nicholson-17 5226 5229	him
+T339	Terry_O__Nicholson-17 5232 5237	Terry
+T524	our_last_guide-61 5264 5267	him
+T340	our_last_guide-61 5286 5293	The man
+T525	narrator-0 5322 5323	I
+T341	Terry_O__Nicholson-17 5385 5390	Terry
+T526	We-1 5400 5402	us
+T527	We-1 5417 5419	we
+T400	Jeff_Margrave-19 5494 5498	Jeff
+T528	Jeff_Margrave-19 5516 5519	his
+T529	We-1 5552 5554	we
+T530	We-1 5600 5602	we
+T531	We-1 5629 5631	we
+T532	We-1 5693 5695	we
+T533	We-1 5767 5776	ourselves
+T534	narrator-0 5820 5821	I
+T401	our_last_guide-61 5828 5838	the savage
+T403	a_desperate_tangle_of_wood_and_water-63 5889 5925	a desperate tangle of wood and water
+T402	a_swampy_patch_we_never_should_have_found_our_way_across_alone-64 5930 5992	a swampy patch we never should have found our way across alone
+T535	We-1 5945 5947	we
+T536	We-1 5972 5975	our
+T537	narrator-0 6019 6020	I
+T342	Terry_O__Nicholson-17 6031 6036	Terry
+T538	We-1 6118 6120	We
+T404	a_sort_of_marshy_lake-65 6143 6164	a sort of marshy lake
+T343	the_circling_forest-66 6186 6205	the circling forest
+T344	our_last_guide-61 6243 6252	Our guide
+T539	We-1 6243 6246	Our
+T540	We-1 6258 6260	us
+T345	boats-67 6266 6271	boats
+T428	a_sort_of_marshy_lake-65 6286 6291	there
+T405	The_main_encampment-58 6295 6303	our camp
+T541	We-1 6295 6298	our
+T542	We-1 6379 6381	we
+T543	We-1 6397 6399	we
+T544	We-1 6439 6441	We
+T545	We-1 6512 6514	we
+T546	We-1 6540 6542	we
+T406	a_wooded_promontory-68 6564 6583	a wooded promontory
+T407	a_quite_different_country-69 6592 6617	a quite different country
+T408	mountains___steep_and_bare-70 6638 6664	mountains , steep and bare
+T409	One_of_those_long_easterly_spurs-71 6669 6701	One of those long easterly spurs
+T346	Terry_O__Nicholson-17 6706 6711	Terry
+T547	They-72 6776 6780	They
+T548	We-1 6813 6815	we
+T410	a_sort_of_marshy_lake-65 6821 6829	the lake
+T347	the_cliffs-73 6857 6867	the cliffs
+T549	We-1 6870 6872	We
+T550	We-1 6900 6902	we
+T348	our_last_guide-61 6920 6929	the guide
+T349	another_river-62 6949 6958	his river
+T551	our_last_guide-61 6949 6952	his
+T552	We-1 6976 6978	We
+T412	a_narrow_vertical_cataract_from_an_opening_in_the_face_of_the_cliff-74 7010 7077	a narrow vertical cataract from an opening in the face of the cliff
+T411	the_cliff-75 7068 7077	the cliff
+T350	our_last_guide-61 7101 7110	The guide
+T553	We-1 7136 7138	we
+T351	Terry_O__Nicholson-17 7166 7171	Terry
+T413	the_hills-76 7213 7222	the hills
+T352	our_last_guide-61 7285 7294	The guide
+T554	our_last_guide-61 7325 7327	He
+T555	We-1 7361 7363	us
+T414	a_quiet_marginal_pool_where_there_were_smears_of_red_along_the_border-77 7364 7433	a quiet marginal pool where there were smears of red along the border
+T415	Terry_O__Nicholson-17 7456 7461	Terry
+T556	Terry_O__Nicholson-17 7470 7473	his
+T557	Terry_O__Nicholson-17 7554 7555	I
+T558	Terry_O__Nicholson-17 7590 7592	me
+T559	Terry_O__Nicholson-17 7632 7634	he
+T416	the_fall-78 7657 7665	the fall
+T560	We-1 7670 7672	We
+T417	the_steep_banks-79 7689 7704	the steep banks
+T353	the_pool_that_foamed_and_boiled_beneath_the_falling_water-80 7722 7779	the pool that foamed and boiled beneath the falling water
+T429	the_pool_that_foamed_and_boiled_beneath_the_falling_water-80 7782 7786	Here
+T561	We-1 7787 7789	we
+T591	Jeff_Margrave-19 7861 7865	Jeff
+T562	We-1 8090 8092	we
+T354	our_last_guide-61 8126 8135	The guide
+T418	the_bank-81 8154 8162	the bank
+T563	We-1 8183 8186	our
+T564	our_last_guide-61 8251 8253	he
+T565	We-1 8259 8261	us
+T566	our_last_guide-61 8280 8283	his
+T567	our_last_guide-61 8343 8345	he
+T430	a_narrow_vertical_cataract_from_an_opening_in_the_face_of_the_cliff-74 8365 8377	the cataract
+T568	We-1 8417 8419	we
+T569	We-1 8438 8440	We
+T570	We-1 8445 8448	our
+T431	there-83 8470 8475	there
+T356	our_last_guide-61 8487 8494	the man
+T571	our_last_guide-61 8521 8523	He
+T572	We-1 8535 8537	us
+T592	the_others-84 8548 8558	the others
+T355	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 8382 8395	Woman Country
+T419	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 8566 8581	a land of women
+T357	women-85 8576 8581	women
+T359	no_men-86 8585 8591	no men
+T358	all_girls-87 8608 8617	all girls
+T593	babies-88 8595 8601	babies
+T360	men-89 8633 8636	men
+T573	narrator-0 8697 8698	I
+T420	Terry_O__Nicholson-17 8709 8714	Terry
+T361	men-90 8749 8752	men
+T574	Terry_O__Nicholson-17 8767 8769	He
+T575	Terry_O__Nicholson-17 8783 8785	he
+T421	the_fall-78 8800 8813	the waterfall
+T362	our_last_guide-61 8832 8841	the guide
+T422	a_narrow_vertical_cataract_from_an_opening_in_the_face_of_the_cliff-74 8925 8941	that sheer cliff
+T576	We-1 8948 8950	we
+T423	our_party-91 8970 8979	our party
+T577	We-1 8970 8973	our
+T578	our_party-91 8997 9001	They
+T579	We-1 9016 9018	we
+T580	our_party-91 9024 9028	them
+T581	narrator-0 9033 9034	I
+T363	Terry_O__Nicholson-17 9051 9056	Terry
+T582	Terry_O__Nicholson-17 9068 9071	his
+T424	Narrator_Jeff-92 9095 9102	fellows
+T583	Terry_O__Nicholson-17 9107 9109	he
+T584	We-1 9127 9130	our
+T364	those_cocky_old_professors-93 9154 9180	those cocky old professors
+T365	home-94 9196 9200	home
+T585	We-1 9240 9242	us
+T586	We-1 9274 9277	our
+R1	appos Arg1:T74 Arg2:T290
+R2	appos Arg1:T8 Arg2:T290
+R3	appos Arg1:T77 Arg2:T152
+R5	cop Arg1:T14 Arg2:T166
+R6	appos Arg1:T35 Arg2:T37
+T598	PRON_LOC 791 793	it
+T599	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 791 793	it
+T602	PRON_LOC 1025 1027	it
+T603	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 1025 1027	it
+T610	PRON_LOC 3818 3820	it
+T611	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 3818 3820	it
+T614	PRON_LOC 3962 3964	it
+T615	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 3962 3964	it
+T616	PRON_LOC 4098 4100	It
+T617	a_strange_and_terrible_Woman_Land_in_the_high_distance-45 4098 4100	It
+T628	PRON_LOC 6238 6240	it
+T629	a_sort_of_marshy_lake-65 6238 6240	it
+T630	PRON_LOC 6450 6452	it
+T631	a_sort_of_marshy_lake-65 6450 6452	it
+T634	PRON_LOC 6961 6963	It
+T635	another_river-62 6961 6963	It
+T636	PRON_LOC 6995 6997	it
+T637	another_river-62 6995 6997	it
+T149	one_of_the_best_of_o-700 1705 1734	one of the best of our airmen
+T156	NOM_PER 3744 3750	no men
+T175	men-46 3744 3750	no men
+T24	NOM_PER 3791 3803	None of them
+T190	None_of_them-700 3791 3803	None of them
+T204	NOM_PER 8676 8680	none
+T305	none-701 8676 8680	none
+T311	NOM_PER 8652 8656	Some
+T321	Some-702 8652 8656	Some
+T332	NOM_FAC 444 474	some of those gorgeous gardens
+T371	some_of_those_gorgeo-703 444 474	some of those gorgeous gardens

@@ -1,0 +1,502 @@
+MENTION	T1	1	9	1	11	these alien-looking men	PER	NOM
+MENTION	T2	2	2	2	4	these pale men	PER	NOM
+MENTION	T3	4	29	4	30	the pedlar	PER	NOM
+MENTION	T4	5	29	5	30	his father	PER	NOM
+MENTION	T5	5	4	5	5	wandering men	PER	NOM
+MENTION	T6	5	16	5	17	a man	PER	NOM
+MENTION	T7	5	32	5	32	mother	PER	NOM
+MENTION	T8	6	50	6	52	even a settler	PER	NOM
+MENTION	T9	6	1	6	5	the peasants of old times	PER	NOM
+MENTION	T10	6	7	6	13	the world outside their own direct experience	LOC	NOM
+MENTION	T11	7	22	7	22	villagers	PER	NOM
+MENTION	T12	8	14	8	15	the town	GPE	NOM
+MENTION	T13	8	26	8	26	aliens	PER	NOM
+MENTION	T14	8	28	8	30	their rustic neighbours	PER	NOM
+MENTION	T15	8	12	8	18	emigrants from the town into the country	PER	NOM
+MENTION	T16	9	13	9	14	Silas Marner	PER	PROP
+MENTION	T17	9	31	9	34	the village of Raveloe	GPE	NOM
+MENTION	T18	10	95	10	96	the weaver	PER	NOM
+MENTION	T19	10	54	10	56	the stone cottage	FAC	NOM
+MENTION	T22	11	19	11	21	the small scoundrels	PER	NOM
+MENTION	T23	12	50	12	58	any boy who happened to be in the rear	PER	NOM
+MENTION	T24	13	9	13	9	mothers	PER	NOM
+MENTION	T26	13	50	13	51	the doctor	PER	NOM
+MENTION	T27	13	12	13	13	Silas Marner	PER	PROP
+MENTION	T28	13	6	13	7	their fathers	PER	NOM
+MENTION	T29	14	15	14	17	the diligent listener	PER	NOM
+MENTION	T32	18	23	18	24	his wife	PER	NOM
+MENTION	T35	21	1	21	1	Raveloe	GPE	PROP
+MENTION	T36	22	21	22	22	thinly-scattered shepherds	PER	NOM
+MENTION	T37	22	42	22	43	Merry England	GPE	PROP
+MENTION	T38	24	102	24	102	Raveloe	GPE	PROP
+MENTION	T39	24	38	24	39	the road	FAC	NOM
+MENTION	T41	25	5	25	6	Silas Marner	PER	PROP
+MENTION	T42	26	10	26	11	no comer	PER	NOM
+MENTION	T43	26	46	26	46	woman	PER	NOM
+MENTION	T44	26	102	26	104	a dead man	PER	NOM
+MENTION	T45	26	43	26	44	no man	PER	NOM
+MENTION	T46	26	23	26	24	the village	GPE	NOM
+MENTION	T47	27	38	27	39	Silas Marner	PER	PROP
+MENTION	T48	27	61	27	65	a man in his senses	PER	NOM
+MENTION	T49	27	134	27	135	the weaver	PER	NOM
+MENTION	T50	29	2	29	2	Marner	PER	PROP
+MENTION	T52	29	28	29	31	clerk of the parish	PER	NOM
+MENTION	T53	31	31	31	32	no children	PER	NOM
+MENTION	T54	32	11	32	12	a man	PER	NOM
+MENTION	T55	33	68	33	69	the parson	PER	NOM
+MENTION	T57	33	59	33	60	their neighbours	PER	NOM
+MENTION	T58	34	3	34	4	Master Marner	PER	PROP
+MENTION	T59	35	30	35	31	a baby	PER	NOM
+MENTION	T60	35	19	35	19	Marner	PER	PROP
+MENTION	T61	0	11	0	12	the farmhouses	FAC	NOM
+MENTION	T62	0	16	0	23	great ladies , clothed in silk and thread-lace	PER	NOM
+MENTION	T63	0	51	0	52	the hills	LOC	NOM
+MENTION	T64	0	42	0	43	the lanes	FAC	NOM
+MENTION	T65	0	38	0	43	districts far away among the lanes	LOC	NOM
+MENTION	T66	0	65	0	67	the brawny country-folk	PER	NOM
+MENTION	T67	0	74	0	76	a disinherited race	PER	NOM
+MENTION	T68	0	54	0	76	certain pallid undersized men , who , by the side of the brawny country-folk , looked like the remnants of a disinherited race	PER	NOM
+MENTION	T69	1	0	1	1	The shepherd	PER	NOM
+MENTION	T70	1	7	1	11	one of these alien-looking men	PER	NOM
+MENTION	T71	1	14	1	15	the upland	LOC	NOM
+MENTION	T72	1	28	1	34	a figure bent under a heavy bag	PER	NOM
+MENTION	T73	3	0	3	1	The shepherd	PER	NOM
+MENTION	T74	3	57	3	59	the Evil One	PER	NOM
+MENTION	T75	4	8	4	9	every person	PER	NOM
+MENTION	T76	4	32	4	33	the knife-grinder	PER	NOM
+MENTION	T77	5	7	5	8	their homes	FAC	NOM
+MENTION	T78	5	26	5	32	somebody who knew his father and mother	PER	NOM
+MENTION	T79	6	15	6	20	a region of vagueness and mystery	LOC	NOM
+MENTION	T80	6	58	6	59	distant parts	LOC	NOM
+MENTION	T81	7	29	7	38	honest folk , born and bred in a visible manner	PER	NOM
+MENTION	T82	8	8	8	10	those scattered linen-weavers	PER	NOM
+MENTION	T83	8	17	8	18	the country	LOC	NOM
+MENTION	T84	8	22	8	23	the last	PER	NOM
+MENTION	T85	9	8	9	10	such a linen-weaver	PER	NOM
+MENTION	T86	9	27	9	29	the nutty hedgerows	LOC	NOM
+MENTION	T87	9	43	9	45	a deserted stone-pit	LOC	NOM
+MENTION	T88	9	21	9	45	a stone cottage that stood among the nutty hedgerows near the village of Raveloe , and not far from the edge of a deserted stone-pit	FAC	NOM
+MENTION	T89	10	4	10	4	Silas	PER	PROP
+MENTION	T20	10	31	10	96	the Raveloe boys , who would often leave off their nutting or birds ' - nesting to peep in at the window of the stone cottage , counterbalancing a certain awe at the mysterious action of the loom , by a pleasant sense of scornful superiority , drawn from the mockery of its alternating noises , along with the bent , tread-mill attitude of the weaver	PER	NOM
+MENTION	T21	11	5	11	5	Marner	PER	PROP
+MENTION	T90	12	14	12	15	Silas Marner	PER	PROP
+MENTION	T91	13	16	13	16	folks	PER	NOM
+MENTION	T25	13	38	13	39	the devil	PER	NOM
+MENTION	T30	14	19	14	21	the grey-haired peasantry	PER	NOM
+MENTION	T31	15	34	15	61	men who have always been pressed close by primitive wants , and to whom a life of hard toil has never been illuminated by any enthusiastic religious faith	PER	NOM
+MENTION	T92	18	4	18	27	an old labouring man , who was in his last illness , and who had refused all the food his wife had offered him	PER	NOM
+MENTION	T33	21	3	21	16	a village where many of the old echoes lingered , undrowned by new voices	GPE	NOM
+MENTION	T34	22	6	22	22	those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds	GPE	NOM
+MENTION	T93	22	4	22	22	one of those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds	GPE	NOM
+MENTION	T94	22	31	22	43	the rich central plain of what we are pleased to call Merry England	LOC	NOM
+MENTION	T95	22	47	22	60	farms which , speaking from a spiritual point of view , paid highly-desirable tithes	FAC	NOM
+MENTION	T96	23	18	23	19	any turnpike	FAC	NOM
+MENTION	T97	23	5	23	36	a snug well-wooded hollow , quite an hour 's journey on horseback from any turnpike , where it was never reached by the vibrations of the coach-horn , or of public opinion	LOC	NOM
+MENTION	T98	24	29	24	30	well-walled orchards	FAC	NOM
+MENTION	T99	24	61	24	62	the churchyard	FAC	NOM
+MENTION	T100	24	47	24	62	the rectory , which peeped from among the trees on the other side of the churchyard	FAC	NOM
+MENTION	T101	24	7	24	18	a fine old church and large churchyard in the heart of it	FAC	NOM
+MENTION	T102	24	2	24	62	an important-looking village , with a fine old church and large churchyard in the heart of it , and two or three large brick-and-stone homesteads , with well-walled orchards and ornamental weathercocks , standing close upon the road , and lifting more imposing fronts than the rectory , which peeped from among the trees on the other side of the churchyard	GPE	NOM
+MENTION	T103	24	87	24	88	great park	FAC	NOM
+MENTION	T104	24	90	24	90	manor-house	FAC	NOM
+MENTION	T105	24	92	24	93	the vicinity	LOC	NOM
+MENTION	T106	24	99	24	142	several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly Christmas , Whitsun , and Easter tide	PER	NOM
+MENTION	T107	24	65	24	142	a village which showed at once the summits of its social life , and told the practised eye that there was no great park and manor-house in the vicinity , but that there were several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly Christmas , Whitsun , and Easter tide	GPE	NOM
+MENTION	T108	25	11	25	11	Raveloe	GPE	PROP
+MENTION	T109	25	36	25	41	people of average culture and experience	PER	NOM
+MENTION	T40	25	45	25	53	the villagers near whom he had come to settle	PER	NOM
+MENTION	T110	25	77	25	79	North ' ard	LOC	PROP
+MENTION	T111	25	72	25	80	an unknown region called " North ' ard "	LOC	NOM
+MENTION	T112	25	17	25	80	a pallid young man , with prominent short-sighted brown eyes , whose appearance would have had nothing strange for people of average culture and experience , but for the villagers near whom he had come to settle it had mysterious peculiarities which corresponded with the exceptional nature of his occupation , and his advent from an unknown region called " North ' ard "	PER	NOM
+MENTION	T113	26	30	26	31	the Rainbow	FAC	NOM
+MENTION	T114	26	37	26	38	the wheelwright	PER	NOM
+MENTION	T115	26	71	26	73	the Raveloe lasses	PER	NOM
+MENTION	T116	26	72	26	72	Raveloe	GPE	PROP
+MENTION	T117	27	3	27	3	Marner	PER	PROP
+MENTION	T118	27	20	27	21	Jem Rodney	PER	PROP
+MENTION	T119	27	23	27	24	the mole-catcher	PER	NOM
+MENTION	T120	27	82	27	82	Marner	PER	PROP
+MENTION	T121	27	88	27	90	a dead man	PER	NOM
+MENTION	T122	28	2	28	2	Jem	PER	PROP
+MENTION	T123	28	22	28	23	Squire Cass	PER	PROP
+MENTION	T124	28	22	28	25	Squire Cass 's land	LOC	NOM
+MENTION	T125	28	29	28	31	the old saw-pit	FAC	NOM
+MENTION	T51	29	23	29	26	the argumentative Mr. Macey	PER	PROP
+MENTION	T126	31	16	31	17	a man	PER	NOM
+MENTION	T127	31	24	31	25	the parish	FAC	NOM
+MENTION	T56	33	8	33	9	a man	PER	NOM
+MENTION	T128	33	38	33	38	folks	PER	NOM
+MENTION	T129	33	46	33	46	school	FAC	NOM
+MENTION	T130	35	0	35	1	Jem Rodney	PER	PROP
+MENTION	T131	35	22	35	23	Sally Oates	PER	PROP
+MENTION	T132	35	56	35	57	the doctor	PER	NOM
+MENTION	T133	36	4	36	4	folks	PER	NOM
+MENTION	T134	35	14	35	59	anybody who had seen how Marner had cured Sally Oates , and made her sleep like a baby , when her heart had been beating enough to burst her body , for two months and more , while she had been under the doctor 's care	PER	NOM
+MENTION	T136	29	40	29	40	anybody	PER	NOM
+MENTION	T137	5	0	5	1	No one	PER	NOM
+MENTION	T139	29	30	29	31	the parish	FAC	NOM
+MENTION	T140	22	6	22	14	those barren parishes lying on the outskirts of civilization	FAC	NOM
+MENTION	T142	0	26	0	26	their	PER	PRON
+MENTION	T143	3	2	3	2	himself	PER	PRON
+MENTION	T144	3	5	3	5	he	PER	PRON
+MENTION	T145	5	7	5	7	their	PER	PRON
+MENTION	T146	5	10	5	10	their	PER	PRON
+MENTION	T147	5	22	5	22	you	PER	PRON
+MENTION	T148	5	29	5	29	his	PER	PRON
+MENTION	T149	6	10	6	10	their	PER	PRON
+MENTION	T150	6	23	6	23	their	PER	PRON
+MENTION	T151	6	55	6	55	he	PER	PRON
+MENTION	T152	6	87	6	87	his	PER	PRON
+MENTION	T153	6	100	6	100	he	PER	PRON
+MENTION	T154	7	82	7	82	they	PER	PRON
+MENTION	T155	8	28	8	28	their	PER	PRON
+MENTION	T156	9	18	9	18	his	PER	PRON
+MENTION	T157	10	40	10	40	their	PER	PRON
+MENTION	T158	11	13	11	13	his	PER	PRON
+MENTION	T159	11	28	11	28	his	PER	PRON
+MENTION	T160	11	31	11	31	he	PER	PRON
+MENTION	T161	11	33	11	33	their	PER	PRON
+MENTION	T162	11	38	11	38	he	PER	PRON
+MENTION	T163	11	42	11	42	his	PER	PRON
+MENTION	T164	11	54	11	54	them	PER	PRON
+MENTION	T165	11	63	11	63	them	PER	PRON
+MENTION	T166	11	66	11	66	their	PER	PRON
+MENTION	T167	12	29	12	29	them	PER	PRON
+MENTION	T168	12	35	12	35	their	PER	PRON
+MENTION	T169	13	0	13	0	They	PER	PRON
+MENTION	T170	13	6	13	6	their	PER	PRON
+MENTION	T171	13	20	13	20	he	PER	PRON
+MENTION	T172	13	34	13	34	you	PER	PRON
+MENTION	T173	13	43	13	43	he	PER	PRON
+MENTION	T174	13	46	13	46	you	PER	PRON
+MENTION	T175	16	1	16	1	them	PER	PRON
+MENTION	T176	16	17	16	17	their	PER	PRON
+MENTION	T177	17	4	17	4	you	PER	PRON
+MENTION	T178	17	8	17	8	you	PER	PRON
+MENTION	T179	18	0	18	0	I	PER	PRON
+MENTION	T180	18	12	18	12	his	PER	PRON
+MENTION	T181	18	23	18	23	his	PER	PRON
+MENTION	T182	18	27	18	27	him	PER	PRON
+MENTION	T183	19	4	19	4	he	PER	PRON
+MENTION	T184	19	8	19	8	I	PER	PRON
+MENTION	T185	19	20	19	20	I	PER	PRON
+MENTION	T186	20	6	20	6	him	PER	PRON
+MENTION	T187	22	37	22	37	we	PER	PRON
+MENTION	T188	24	109	24	109	their	PER	PRON
+MENTION	T189	24	116	24	116	their	PER	PRON
+MENTION	T190	25	13	25	13	he	PER	PRON
+MENTION	T191	25	49	25	49	he	PER	PRON
+MENTION	T192	25	65	25	65	his	PER	PRON
+MENTION	T193	25	69	25	69	his	PER	PRON
+MENTION	T194	26	2	26	2	his	PER	PRON
+MENTION	T195	26	8	26	8	he	PER	PRON
+MENTION	T196	26	15	26	15	his	PER	PRON
+MENTION	T197	26	19	26	19	he	PER	PRON
+MENTION	T198	26	41	26	41	he	PER	PRON
+MENTION	T199	26	53	26	53	his	PER	PRON
+MENTION	T200	26	61	26	61	himself	PER	PRON
+MENTION	T201	26	75	26	75	he	PER	PRON
+MENTION	T202	26	81	26	81	them	PER	PRON
+MENTION	T203	26	84	26	84	him	PER	PRON
+MENTION	T204	26	86	26	86	her	PER	PRON
+MENTION	T205	26	92	26	92	he	PER	PRON
+MENTION	T206	26	95	26	95	them	PER	PRON
+MENTION	T207	26	98	26	98	they	PER	PRON
+MENTION	T208	27	12	27	12	his	PER	PRON
+MENTION	T209	27	31	27	31	he	PER	PRON
+MENTION	T210	27	36	27	36	he	PER	PRON
+MENTION	T211	27	49	27	49	his	PER	PRON
+MENTION	T212	27	64	27	64	his	PER	PRON
+MENTION	T213	27	77	27	77	him	PER	PRON
+MENTION	T214	27	79	27	79	he	PER	PRON
+MENTION	T215	27	94	27	94	he	PER	PRON
+MENTION	T216	27	97	27	97	him	PER	PRON
+MENTION	T217	27	101	27	101	him	PER	PRON
+MENTION	T218	27	104	27	104	his	PER	PRON
+MENTION	T219	27	110	27	110	his	PER	PRON
+MENTION	T221	27	127	27	127	he	PER	PRON
+MENTION	T222	27	131	27	131	his	PER	PRON
+MENTION	T223	27	139	27	139	he	PER	PRON
+MENTION	T224	27	148	27	148	you	PER	PRON
+MENTION	T225	28	4	28	4	he	PER	PRON
+MENTION	T226	28	17	28	17	he	PER	PRON
+MENTION	T227	29	34	29	34	his	PER	PRON
+MENTION	T228	31	22	31	22	him	PER	PRON
+MENTION	T229	31	28	31	28	he	PER	PRON
+MENTION	T230	32	15	32	15	his	PER	PRON
+MENTION	T231	32	32	32	32	you	PER	PRON
+MENTION	T232	33	15	33	15	his	PER	PRON
+MENTION	T233	33	43	33	43	they	PER	PRON
+MENTION	T234	33	56	33	56	them	PER	PRON
+MENTION	T235	33	59	33	59	their	PER	PRON
+MENTION	T236	33	64	33	64	their	PER	PRON
+MENTION	T237	34	6	34	6	his	PER	PRON
+MENTION	T238	34	17	34	17	he	PER	PRON
+MENTION	T240	35	27	35	27	her	PER	PRON
+MENTION	T241	35	34	35	34	her	PER	PRON
+MENTION	T242	35	42	35	42	her	PER	PRON
+MENTION	T243	35	52	35	52	she	PER	PRON
+MENTION	T244	36	0	36	0	He	PER	PRON
+MENTION	T245	36	6	36	6	he	PER	PRON
+MENTION	T246	36	10	36	10	he	PER	PRON
+MENTION	T247	36	22	36	22	him	PER	PRON
+MENTION	T248	36	25	36	25	you	PER	PRON
+MENTION	T249	22	2	22	2	it	GPE	PRON
+MENTION	T250	22	28	22	28	it	GPE	PRON
+MENTION	T252	23	22	23	22	it	GPE	PRON
+MENTION	T253	24	18	24	18	it	GPE	PRON
+MENTION	T254	24	0	24	0	It	GPE	PRON
+COREF	T61	the_farmhouses-0
+COREF	T62	great_ladies___clothed_in_silk_and_thread-lace-1
+COREF	T142	great_ladies___clothed_in_silk_and_thread-lace-1
+COREF	T65	districts_far_away_among_the_lanes-2
+COREF	T64	the_lanes-3
+COREF	T63	the_hills-4
+COREF	T68	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5
+COREF	T66	the_brawny_country-folk-6
+COREF	T67	a_disinherited_race-7
+COREF	T69	The_shepherd-8
+COREF	T70	one_of_these_alien-looking_men-9
+COREF	T1	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5
+COREF	T71	the_upland-10
+COREF	T72	a_figure_bent_under_a_heavy_bag-11
+COREF	T2	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5
+COREF	T73	The_shepherd-8
+COREF	T143	certain_pallid_undersized_men___who___by_the_side_of_the_brawny_country-folk___looked_like_the_remnants_of_a_disinherited_race-5
+COREF	T144	The_shepherd-8
+COREF	T74	the_Evil_One-12
+COREF	T75	every_person-13
+COREF	T3	the_pedlar-14
+COREF	T76	the_knife-grinder-15
+COREF	T137	No_one-16
+COREF	T5	wandering_men-17
+COREF	T77	their_homes-18
+COREF	T145	wandering_men-17
+COREF	T146	wandering_men-17
+COREF	T6	a_man-19
+COREF	T147	you-20
+COREF	T78	somebody_who_knew_his_father_and_mother-21
+COREF	T4	his_father-22
+COREF	T148	a_man-19
+COREF	T7	mother-23
+COREF	T9	the_peasants_of_old_times-24
+COREF	T10	the_world_outside_their_own_direct_experience-25
+COREF	T149	the_peasants_of_old_times-24
+COREF	T79	a_region_of_vagueness_and_mystery-26
+COREF	T150	the_peasants_of_old_times-24
+COREF	T8	even_a_settler-27
+COREF	T151	even_a_settler-27
+COREF	T80	distant_parts-28
+COREF	T152	even_a_settler-27
+COREF	T153	even_a_settler-27
+COREF	T11	villagers-29
+COREF	T81	honest_folk___born_and_bred_in_a_visible_manner-30
+COREF	T154	honest_folk___born_and_bred_in_a_visible_manner-30
+COREF	T82	those_scattered_linen-weavers-31
+COREF	T12	the_town-32
+COREF	T83	the_country-33
+COREF	T84	the_last-34
+COREF	T13	aliens-35
+COREF	T14	their_rustic_neighbours-36
+COREF	T155	those_scattered_linen-weavers-31
+COREF	T85	Silas_Marner-37
+COREF	T156	Silas_Marner-37
+COREF	T88	a_stone_cottage_that_stood_among_the_nutty_hedgerows_near_the_village_of_Raveloe___and_not_far_from_the_edge_of_a_deserted_stone-pit-38
+COREF	T86	the_nutty_hedgerows-39
+COREF	T17	the_village_of_Raveloe-40
+COREF	T87	a_deserted_stone-pit-41
+COREF	T89	Silas_Marner-37
+COREF	T20	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T157	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T19	a_stone_cottage_that_stood_among_the_nutty_hedgerows_near_the_village_of_Raveloe___and_not_far_from_the_edge_of_a_deserted_stone-pit-38
+COREF	T18	Silas_Marner-37
+COREF	T21	Silas_Marner-37
+COREF	T158	Silas_Marner-37
+COREF	T22	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T159	Silas_Marner-37
+COREF	T160	Silas_Marner-37
+COREF	T161	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T162	Silas_Marner-37
+COREF	T163	Silas_Marner-37
+COREF	T164	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T165	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T166	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T90	Silas_Marner-37
+COREF	T167	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T168	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T23	any_boy_who_happened_to_be_in_the_rear-43
+COREF	T169	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T28	their_fathers-44
+COREF	T170	the_Raveloe_boys___who_would_often_leave_off_their_nutting_or_birds___-_nesting_to_peep_in_at_the_window_of_the_stone_cottage___counterbalancing_a_certain_awe_at_the_mysterious_action_of_the_loom___by_a_pleasant_sense_of_scornful_superiority___drawn_from_the_mockery_of_its_alternating_noises___along_with_the_bent___tread-mill_attitude_of_the_weaver-42
+COREF	T24	mothers-45
+COREF	T27	Silas_Marner-37
+COREF	T91	folks-46
+COREF	T171	Silas_Marner-37
+COREF	T172	you-47
+COREF	T25	Silas_Marner-37
+COREF	T173	Silas_Marner-37
+COREF	T174	you-48
+COREF	T26	the_doctor-49
+COREF	T29	the_diligent_listener-50
+COREF	T30	the_grey-haired_peasantry-51
+COREF	T31	men_who_have_always_been_pressed_close_by_primitive_wants___and_to_whom_a_life_of_hard_toil_has_never_been_illuminated_by_any_enthusiastic_religious_faith-52
+COREF	T175	men_who_have_always_been_pressed_close_by_primitive_wants___and_to_whom_a_life_of_hard_toil_has_never_been_illuminated_by_any_enthusiastic_religious_faith-52
+COREF	T176	men_who_have_always_been_pressed_close_by_primitive_wants___and_to_whom_a_life_of_hard_toil_has_never_been_illuminated_by_any_enthusiastic_religious_faith-52
+COREF	T179	NARRATOR-53
+COREF	T177	the_old_man-54
+COREF	T178	the_old_man-54
+COREF	T92	the_old_man-54
+COREF	T180	the_old_man-54
+COREF	T32	his_wife-55
+COREF	T181	the_old_man-54
+COREF	T182	the_old_man-54
+COREF	T183	the_old_man-54
+COREF	T184	the_old_man-54
+COREF	T185	the_old_man-54
+COREF	T186	the_old_man-54
+COREF	T35	the_village_of_Raveloe-40
+COREF	T249	the_village_of_Raveloe-40
+COREF	T34	those_barren_parishes_lying_on_the_outskirts_of_civilization_--_inhabited_by_meagre_sheep_and_thinly-scattered_shepherds-56
+COREF	T140	those_barren_parishes_lying_on_the_outskirts_of_civilization-57
+COREF	T36	thinly-scattered_shepherds-58
+COREF	T250	the_village_of_Raveloe-40
+COREF	T94	the_rich_central_plain_of_what_we_are_pleased_to_call_Merry_England-59
+COREF	T187	we-60
+COREF	T37	Merry_England-61
+COREF	T95	farms_which___speaking_from_a_spiritual_point_of_view___paid_highly-desirable_tithes-62
+COREF	T97	a_snug_well-wooded_hollow___quite_an_hour__s_journey_on_horseback_from_any_turnpike___where_it_was_never_reached_by_the_vibrations_of_the_coach-horn___or_of_public_opinion-63
+COREF	T96	any_turnpike-64
+COREF	T252	the_village_of_Raveloe-40
+COREF	T254	the_village_of_Raveloe-40
+COREF	T101	a_fine_old_church_and_large_churchyard_in_the_heart_of_it-65
+COREF	T253	the_village_of_Raveloe-40
+COREF	T98	well-walled_orchards-66
+COREF	T39	the_road-67
+COREF	T100	the_rectory___which_peeped_from_among_the_trees_on_the_other_side_of_the_churchyard-68
+COREF	T99	a_fine_old_church_and_large_churchyard_in_the_heart_of_it-65
+COREF	T107	the_village_of_Raveloe-40
+COREF	T103	great_park-69
+COREF	T104	manor-house-70
+COREF	T105	the_vicinity-71
+COREF	T106	several_chiefs_in_Raveloe_who_could_farm_badly_quite_at_their_ease___drawing_enough_money_from_their_bad_farming___in_those_war_times___to_live_in_a_rollicking_fashion___and_keep_a_jolly_Christmas___Whitsun___and_Easter_tide-72
+COREF	T38	the_village_of_Raveloe-40
+COREF	T188	several_chiefs_in_Raveloe_who_could_farm_badly_quite_at_their_ease___drawing_enough_money_from_their_bad_farming___in_those_war_times___to_live_in_a_rollicking_fashion___and_keep_a_jolly_Christmas___Whitsun___and_Easter_tide-72
+COREF	T189	several_chiefs_in_Raveloe_who_could_farm_badly_quite_at_their_ease___drawing_enough_money_from_their_bad_farming___in_those_war_times___to_live_in_a_rollicking_fashion___and_keep_a_jolly_Christmas___Whitsun___and_Easter_tide-72
+COREF	T41	Silas_Marner-37
+COREF	T108	the_village_of_Raveloe-40
+COREF	T190	Silas_Marner-37
+COREF	T109	people_of_average_culture_and_experience-73
+COREF	T40	the_villagers_near_whom_he_had_come_to_settle-74
+COREF	T191	Silas_Marner-37
+COREF	T192	Silas_Marner-37
+COREF	T193	Silas_Marner-37
+COREF	T111	an_unknown_region_called___North___ard__-75
+COREF	T110	an_unknown_region_called___North___ard__-75
+COREF	T194	Silas_Marner-37
+COREF	T195	Silas_Marner-37
+COREF	T42	no_comer-76
+COREF	T196	Silas_Marner-37
+COREF	T197	Silas_Marner-37
+COREF	T46	the_village_of_Raveloe-40
+COREF	T113	the_Rainbow-77
+COREF	T114	the_wheelwright-78
+COREF	T198	Silas_Marner-37
+COREF	T45	no_man-79
+COREF	T43	woman-80
+COREF	T199	Silas_Marner-37
+COREF	T200	Silas_Marner-37
+COREF	T115	the_Raveloe_lasses-81
+COREF	T116	the_village_of_Raveloe-40
+COREF	T201	Silas_Marner-37
+COREF	T202	the_Raveloe_lasses-81
+COREF	T203	Silas_Marner-37
+COREF	T204	her-82
+COREF	T205	Silas_Marner-37
+COREF	T206	the_Raveloe_lasses-81
+COREF	T207	the_Raveloe_lasses-81
+COREF	T44	a_dead_man-83
+COREF	T117	Silas_Marner-37
+COREF	T208	Silas_Marner-37
+COREF	T118	Jem_Rodney-84
+COREF	T209	Jem_Rodney-84
+COREF	T210	Jem_Rodney-84
+COREF	T47	Silas_Marner-37
+COREF	T211	Silas_Marner-37
+COREF	T48	a_man_in_his_senses-85
+COREF	T212	a_man_in_his_senses-85
+COREF	T213	Silas_Marner-37
+COREF	T214	Jem_Rodney-84
+COREF	T120	Silas_Marner-37
+COREF	T121	a_dead_man-86
+COREF	T215	Jem_Rodney-84
+COREF	T216	Silas_Marner-37
+COREF	T217	Silas_Marner-37
+COREF	T218	Silas_Marner-37
+COREF	T219	Silas_Marner-37
+COREF	T221	Jem_Rodney-84
+COREF	T222	Jem_Rodney-84
+COREF	T49	Silas_Marner-37
+COREF	T223	Silas_Marner-37
+COREF	T224	you-87
+COREF	T122	Jem_Rodney-84
+COREF	T225	Jem_Rodney-84
+COREF	T226	Jem_Rodney-84
+COREF	T123	Squire_Cass-88
+COREF	T124	Squire_Cass__s_land-89
+COREF	T125	the_old_saw-pit-90
+COREF	T50	Silas_Marner-37
+COREF	T51	the_argumentative_Mr__Macey-91
+COREF	T139	the_parish-92
+COREF	T227	the_argumentative_Mr__Macey-91
+COREF	T136	anybody-93
+COREF	T126	a_man-94
+COREF	T228	a_man-94
+COREF	T127	the_parish-92
+COREF	T229	a_man-94
+COREF	T53	no_children-95
+COREF	T54	a_man-96
+COREF	T230	a_man-96
+COREF	T231	you-97
+COREF	T56	a_man-98
+COREF	T232	a_man-98
+COREF	T128	folks-99
+COREF	T233	folks-99
+COREF	T129	school-100
+COREF	T234	folks-99
+COREF	T57	their_neighbours-101
+COREF	T235	folks-99
+COREF	T236	folks-99
+COREF	T55	the_parson-102
+COREF	T58	Silas_Marner-37
+COREF	T237	Silas_Marner-37
+COREF	T238	Silas_Marner-37
+COREF	T130	Jem_Rodney-84
+COREF	T134	anybody_who_had_seen_how_Marner_had_cured_Sally_Oates___and_made_her_sleep_like_a_baby___when_her_heart_had_been_beating_enough_to_burst_her_body___for_two_months_and_more___while_she_had_been_under_the_doctor__s_care-103
+COREF	T60	Silas_Marner-37
+COREF	T131	Sally_Oates-104
+COREF	T240	Sally_Oates-104
+COREF	T59	a_baby-105
+COREF	T241	Sally_Oates-104
+COREF	T242	Sally_Oates-104
+COREF	T243	Sally_Oates-104
+COREF	T132	the_doctor-106
+COREF	T244	Silas_Marner-37
+COREF	T245	Silas_Marner-37
+COREF	T246	Silas_Marner-37
+COREF	T247	Silas_Marner-37
+COREF	T248	you-107
+APPOS	T15	T82
+COP	T16	T85
+COP	T33	T35
+COP	T102	T254
+COP	T112	T190
+APPOS	T119	T118
+APPOS	T52	T51
+MENTION	T520	23	1	23	1	it	GPE	PRON
+COREF	T520	the_village_of_Raveloe-40
+MENTION	T522	24	74	24	74	its	GPE	PRON
+COREF	T522	the_village_of_Raveloe-40
+COREF	T133	folks-700
+COREF	T93	one_of_those_barren_-701
+MENTION	T141	29	0	29	0	Some	PER	NOM
+COREF	T141	Some-700

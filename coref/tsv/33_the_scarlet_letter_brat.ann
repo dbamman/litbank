@@ -1,0 +1,432 @@
+MENTION	T0	1	21	1	23	some wearing hoods	PER	NOM
+MENTION	T2	1	19	1	19	women	PER	NOM
+MENTION	T4	2	37	2	38	a cemetery	FAC	NOM
+MENTION	T5	2	47	2	48	a prison	FAC	NOM
+MENTION	T7	3	20	3	25	somewhere in the Vicinity of Cornhill	LOC	NOM
+MENTION	T8	3	11	3	14	the forefathers of Boston	PER	NOM
+MENTION	T9	3	61	3	67	the old churchyard of King 's Chapel	FAC	NOM
+MENTION	T10	3	14	3	14	Boston	GPE	PROP
+MENTION	T11	3	39	3	40	Isaac Johnson	PER	PROP
+MENTION	T13	4	17	4	19	the wooden jail	FAC	NOM
+MENTION	T14	4	14	4	15	the town	GPE	NOM
+MENTION	T16	5	17	5	19	the New World	LOC	NOM
+MENTION	T18	7	12	7	13	the street	FAC	NOM
+MENTION	T19	7	53	7	54	a prison	FAC	NOM
+MENTION	T22	8	45	8	46	the prisoner	PER	NOM
+MENTION	T24	9	63	9	66	the sainted Ann Hutchinson	PER	PROP
+MENTION	T25	13	33	13	36	the inhabitants of Boston	PER	NOM
+MENTION	T26	13	5	13	6	the jail	FAC	NOM
+MENTION	T27	13	36	13	36	Boston	GPE	PROP
+MENTION	T29	14	14	14	15	New England	LOC	PROP
+MENTION	T30	15	11	15	13	some noted culprit	PER	NOM
+MENTION	T32	17	14	17	15	his parents	PER	NOM
+MENTION	T34	18	41	18	42	the streets	FAC	NOM
+MENTION	T37	18	21	18	22	the town	GPE	NOM
+MENTION	T39	18	32	18	34	the white man	PER	NOM
+MENTION	T40	19	15	19	20	the bitter-tempered widow of the magistrate	PER	NOM
+MENTION	T41	19	19	19	20	the magistrate	PER	NOM
+MENTION	T42	20	17	20	18	the spectators	PER	NOM
+MENTION	T44	21	11	21	12	a transgressor	PER	NOM
+MENTION	T45	21	18	21	19	such bystanders	PER	NOM
+MENTION	T47	24	30	24	33	their not unsubstantial persons	PER	NOM
+MENTION	T48	25	25	25	27	their fair descendants	PER	NOM
+MENTION	T52	25	55	25	56	her child	PER	NOM
+MENTION	T53	25	49	25	51	every successive mother	PER	NOM
+MENTION	T55	26	0	26	8	The women who were now standing about the prison-door	PER	NOM
+MENTION	T56	26	20	26	22	the man-like Elizabeth	PER	NOM
+MENTION	T57	28	42	28	43	New England	LOC	PROP
+MENTION	T59	29	12	29	13	these matrons	PER	NOM
+MENTION	T60	30	5	30	9	a hard-featured dame of fifty	PER	NOM
+MENTION	T61	31	27	31	32	such malefactresses as this Hester Prynne	PER	NOM
+MENTION	T62	31	30	31	32	this Hester Prynne	PER	PROP
+MENTION	T63	33	1	33	2	the hussy	PER	NOM
+MENTION	T64	33	29	33	31	the worshipful magistrates	PER	NOM
+MENTION	T66	36	1	36	2	The magistrates	PER	NOM
+MENTION	T67	36	18	36	21	a third autumnal matron	PER	NOM
+MENTION	T68	37	17	37	18	Hester Prynne	PER	PROP
+MENTION	T69	38	0	38	1	Madame Hester	PER	PROP
+MENTION	T70	40	22	40	23	the streets	FAC	NOM
+MENTION	T71	41	16	41	17	a child	PER	NOM
+MENTION	T72	43	13	43	15	these self-constituted judges	PER	NOM
+MENTION	T73	44	1	44	2	This woman	PER	NOM
+MENTION	T74	46	20	46	20	daughters	PER	NOM
+MENTION	T75	46	16	46	18	their own wives	PER	NOM
+MENTION	T76	48	1	48	5	a man in the crowd	PER	NOM
+MENTION	T77	48	13	48	13	woman	PER	NOM
+MENTION	T78	50	16	50	17	Mistress Prynne	PER	PROP
+MENTION	T82	51	3	51	4	the jail	FAC	NOM
+MENTION	T83	52	0	52	1	This personage	PER	NOM
+MENTION	T84	52	33	52	34	the offender	PER	NOM
+MENTION	T85	53	18	53	20	a young woman	PER	NOM
+MENTION	T86	54	56	54	57	the prison	FAC	NOM
+MENTION	T87	54	8	54	14	a baby of some three months old	PER	NOM
+MENTION	T89	55	8	55	9	this child	PER	NOM
+MENTION	T90	55	5	55	9	the mother of this child	PER	NOM
+MENTION	T91	55	27	55	28	the infant	PER	NOM
+MENTION	T93	56	24	56	25	the baby	PER	NOM
+MENTION	T94	56	57	56	57	neighbours	PER	NOM
+MENTION	T1	1	3	1	7	A throng of bearded men	PER	NOM
+MENTION	T95	1	26	1	27	others bareheaded	PER	NOM
+MENTION	T3	1	34	1	36	a wooden edifice	FAC	NOM
+MENTION	T96	2	3	2	5	a new colony	GPE	NOM
+MENTION	T6	3	25	3	25	Cornhill	GPE	PROP
+MENTION	T97	3	17	3	19	the first prison-house	FAC	NOM
+MENTION	T98	3	34	3	36	the first burial-ground	FAC	NOM
+MENTION	T99	3	39	3	42	Isaac Johnson 's lot	FAC	NOM
+MENTION	T12	3	65	3	67	King 's Chapel	FAC	PROP
+MENTION	T15	7	1	7	3	this ugly edifice	FAC	NOM
+MENTION	T17	7	16	7	54	a grass-plot , much overgrown with burdock , pig-weed , apple-pern , and such unsightly vegetation , which evidently found something congenial in the soil that had so early borne the black flower of civilised society , a prison	FAC	NOM
+MENTION	T20	8	54	8	56	the condemned criminal	PER	NOM
+MENTION	T21	9	23	9	26	the stern old wilderness	LOC	NOM
+MENTION	T23	13	0	13	1	THE MARKET-PLACE	FAC	NOM
+MENTION	T100	13	9	13	10	Prison Lane	FAC	PROP
+MENTION	T101	13	2	13	10	The grass-plot before the jail , in Prison Lane	FAC	NOM
+MENTION	T28	14	26	14	28	these good people	PER	NOM
+MENTION	T102	15	20	15	22	a legal tribunal	PER	NOM
+MENTION	T31	17	4	17	6	a sluggish bond-servant	PER	NOM
+MENTION	T33	17	9	17	22	an undutiful child , whom his parents had given over to the civil authority	PER	NOM
+MENTION	T103	17	20	17	22	the civil authority	ORG	NOM
+MENTION	T104	18	4	18	5	an Antinomian	PER	NOM
+MENTION	T35	18	7	18	8	a Quaker	PER	NOM
+MENTION	T36	18	11	18	13	other heterodox religionist	PER	NOM
+MENTION	T38	18	25	18	42	an idle or vagrant Indian , whom the white man 's firewater had made riotous about the streets	PER	NOM
+MENTION	T105	18	54	18	55	the forest	LOC	NOM
+MENTION	T106	19	7	19	8	a witch	PER	NOM
+MENTION	T107	19	11	19	13	old Mistress Hibbins	PER	PROP
+MENTION	T43	20	22	20	57	a people among whom religion and law were almost identical , and in whose character both were so thoroughly interfused , that the mildest and severest acts of public discipline were alike made venerable and awful	PER	NOM
+MENTION	T108	23	19	23	20	the women	PER	NOM
+MENTION	T46	24	14	24	19	the wearers of petticoat and farthingale	PER	NOM
+MENTION	T49	25	13	25	22	those wives and maidens of old English birth and breeding	PER	NOM
+MENTION	T50	25	33	25	39	a series of six or seven generations	PER	NOM
+MENTION	T51	27	2	27	3	her countrywomen	PER	NOM
+MENTION	T54	27	11	27	13	their native land	LOC	NOM
+MENTION	T58	28	26	28	28	the far-off island	LOC	NOM
+MENTION	T109	30	1	30	1	Goodwives	PER	NOM
+MENTION	T110	31	10	31	10	women	PER	NOM
+MENTION	T111	31	17	31	17	church-members	PER	NOM
+MENTION	T112	35	1	35	1	People	PER	NOM
+MENTION	T113	35	15	35	17	her godly pastor	PER	NOM
+MENTION	T114	35	33	35	34	his congregation	PER	NOM
+MENTION	T115	36	4	36	5	God-fearing gentlemen	PER	NOM
+MENTION	T116	39	3	39	5	the naughty baggage	PER	NOM
+MENTION	T117	41	11	41	13	a young wife	PER	NOM
+MENTION	T118	43	1	43	2	another female	PER	NOM
+MENTION	T119	43	4	43	15	the ugliest as well as the most pitiless of these self-constituted judges	PER	NOM
+MENTION	T120	46	2	46	11	the magistrates , who have made it of no effect	PER	NOM
+MENTION	T121	47	5	47	5	goodwife	PER	NOM
+MENTION	T122	50	3	50	3	gossips	PER	NOM
+MENTION	T79	51	32	51	33	the town-beadle	PER	NOM
+MENTION	T80	54	5	54	6	a child	PER	NOM
+MENTION	T81	54	48	54	49	a dungeon	FAC	NOM
+MENTION	T88	54	52	54	54	other darksome apartment	FAC	NOM
+MENTION	T92	55	1	55	3	the young woman	PER	NOM
+MENTION	T123	56	55	56	55	townspeople	PER	NOM
+MENTION	T124	58	62	58	63	the colony	GPE	NOM
+MENTION	T65	35	12	35	13	Master Dimmesdale	PER	NOM
+MENTION	T126	35	10	35	11	the Reverend	PER	NOM
+MENTION	T131	2	14	2	14	they	PER	PRON
+MENTION	T132	2	24	2	24	their	PER	PRON
+MENTION	T133	3	31	3	31	they	PER	PRON
+MENTION	T134	3	47	3	47	his	PER	PRON
+MENTION	T136	8	48	8	48	he	PER	PRON
+MENTION	T137	8	58	8	58	he	PER	PRON
+MENTION	T138	8	62	8	62	his	PER	PRON
+MENTION	T139	8	79	8	79	him	PER	PRON
+MENTION	T140	9	68	9	68	she	PER	PRON
+MENTION	T141	9	73	9	73	we	PER	PRON
+MENTION	T142	9	78	9	78	us	PER	PRON
+MENTION	T143	10	8	10	8	our	PER	PRON
+MENTION	T144	10	22	10	22	we	PER	PRON
+MENTION	T145	11	5	11	5	us	PER	PRON
+MENTION	T146	13	40	13	40	their	PER	PRON
+MENTION	T147	17	14	17	14	his	PER	PRON
+MENTION	T148	22	10	22	10	our	PER	PRON
+MENTION	T149	23	12	23	12	our	PER	PRON
+MENTION	T150	24	30	24	30	their	PER	PRON
+MENTION	T151	25	25	25	25	their	PER	PRON
+MENTION	T152	25	31	25	31	them	PER	PRON
+MENTION	T153	25	55	25	55	her	PER	PRON
+MENTION	T154	25	83	25	83	her	PER	PRON
+MENTION	T155	27	0	27	0	They	PER	PRON
+MENTION	T156	27	2	27	2	her	PER	PRON
+MENTION	T157	27	11	27	11	their	PER	PRON
+MENTION	T158	27	28	27	28	their	PER	PRON
+MENTION	T159	29	18	29	18	them	PER	PRON
+MENTION	T160	29	26	29	26	us	PER	PRON
+MENTION	T161	30	12	30	12	I	PER	PRON
+MENTION	T162	30	19	30	19	my	PER	PRON
+MENTION	T163	31	9	31	9	we	PER	PRON
+MENTION	T164	33	8	33	8	us	PER	PRON
+MENTION	T165	33	21	33	21	she	PER	PRON
+MENTION	T166	34	2	34	2	I	PER	PRON
+MENTION	T167	35	15	35	15	her	PER	PRON
+MENTION	T168	35	33	35	33	his	PER	PRON
+MENTION	T169	37	6	37	6	they	PER	PRON
+MENTION	T170	38	8	38	8	I	PER	PRON
+MENTION	T171	38	10	38	10	me	PER	PRON
+MENTION	T172	39	1	39	1	she	PER	PRON
+MENTION	T173	39	9	39	9	she	PER	PRON
+MENTION	T174	39	12	39	12	they	PER	PRON
+MENTION	T175	39	18	39	18	her	PER	PRON
+MENTION	T176	40	3	40	3	you	PER	PRON
+MENTION	T177	40	5	40	5	she	PER	PRON
+MENTION	T178	41	24	41	24	her	PER	PRON
+MENTION	T179	41	29	41	29	she	PER	PRON
+MENTION	T180	41	40	41	40	her	PER	PRON
+MENTION	T181	42	3	42	3	we	PER	PRON
+MENTION	T182	42	15	42	15	her	PER	PRON
+MENTION	T183	42	21	42	21	her	PER	PRON
+MENTION	T184	44	7	44	7	us	PER	PRON
+MENTION	T185	46	14	46	14	themselves	PER	PRON
+MENTION	T186	46	16	46	16	their	PER	PRON
+MENTION	T187	47	3	47	3	us	PER	PRON
+MENTION	T188	50	18	50	18	herself	PER	PRON
+MENTION	T189	51	39	51	39	his	PER	PRON
+MENTION	T190	51	43	51	43	his	PER	PRON
+MENTION	T191	51	48	51	48	his	PER	PRON
+MENTION	T192	52	6	52	6	his	PER	PRON
+MENTION	T193	52	22	52	22	his	PER	PRON
+MENTION	T194	53	6	53	6	his	PER	PRON
+MENTION	T195	53	10	53	10	he	PER	PRON
+MENTION	T196	53	12	53	12	his	PER	PRON
+MENTION	T197	53	23	53	23	he	PER	PRON
+MENTION	T198	53	37	53	37	she	PER	PRON
+MENTION	T199	53	39	53	39	him	PER	PRON
+MENTION	T200	53	62	53	62	her	PER	PRON
+MENTION	T201	54	0	54	0	She	PER	PRON
+MENTION	T202	54	3	54	3	her	PER	PRON
+MENTION	T203	55	22	55	22	her	PER	PRON
+MENTION	T204	55	31	55	31	her	PER	PRON
+MENTION	T205	55	46	55	46	she	PER	PRON
+MENTION	T206	55	60	55	60	her	PER	PRON
+MENTION	T207	56	12	56	12	her	PER	PRON
+MENTION	T208	56	22	56	22	she	PER	PRON
+MENTION	T209	56	27	56	27	her	PER	PRON
+MENTION	T210	56	54	56	54	her	PER	PRON
+MENTION	T211	57	4	57	4	her	PER	PRON
+MENTION	T212	58	33	58	33	she	PER	PRON
+MENTION	T213	2	1	2	1	founders	PER	NOM
+COREF	T1	A_throng_of_bearded_men-0
+COREF	T2	women-1
+COREF	T0	some_wearing_hoods-2
+COREF	T95	others_bareheaded-3
+COREF	T3	a_wooden_edifice-4
+COREF	T96	Boston-5
+COREF	T213	founders-6
+COREF	T131	founders-6
+COREF	T132	founders-6
+COREF	T4	a_cemetery-7
+COREF	T5	a_prison-8
+COREF	T8	founders-6
+COREF	T10	Boston-5
+COREF	T97	a_prison-8
+COREF	T7	somewhere_in_the_Vicinity_of_Cornhill-9
+COREF	T6	Cornhill-10
+COREF	T133	founders-6
+COREF	T98	a_cemetery-7
+COREF	T11	Isaac_Johnson-11
+COREF	T99	Isaac_Johnson__s_lot-12
+COREF	T134	Isaac_Johnson-11
+COREF	T9	a_cemetery-7
+COREF	T12	King__s_Chapel-13
+COREF	T14	Boston-5
+COREF	T13	a_prison-8
+COREF	T16	the_New_World-14
+COREF	T15	a_prison-8
+COREF	T18	the_street-15
+COREF	T17	a_grass-plot___much_overgrown_with_burdock___pig-weed___apple-pern___and_such_unsightly_vegetation___which_evidently_found_something_congenial_in_the_soil_that_had_so_early_borne_the_black_flower_of_civilised_society___a_prison-16
+COREF	T19	a_prison-8
+COREF	T22	the_prisoner-17
+COREF	T136	the_prisoner-17
+COREF	T20	the_prisoner-17
+COREF	T137	the_prisoner-17
+COREF	T138	the_prisoner-17
+COREF	T139	the_prisoner-17
+COREF	T21	the_stern_old_wilderness-18
+COREF	T24	the_sainted_Ann_Hutchinson-19
+COREF	T140	the_sainted_Ann_Hutchinson-19
+COREF	T141	we-20
+COREF	T142	we-20
+COREF	T143	we-20
+COREF	T144	we-20
+COREF	T145	we-20
+COREF	T23	THE_MARKET-PLACE-21
+COREF	T101	a_grass-plot___much_overgrown_with_burdock___pig-weed___apple-pern___and_such_unsightly_vegetation___which_evidently_found_something_congenial_in_the_soil_that_had_so_early_borne_the_black_flower_of_civilised_society___a_prison-16
+COREF	T26	a_prison-8
+COREF	T100	the_street-15
+COREF	T25	the_inhabitants_of_Boston-22
+COREF	T27	Boston-5
+COREF	T146	the_inhabitants_of_Boston-22
+COREF	T29	New_England-23
+COREF	T28	the_inhabitants_of_Boston-22
+COREF	T30	some_noted_culprit-24
+COREF	T102	a_legal_tribunal-25
+COREF	T31	a_sluggish_bond-servant-26
+COREF	T33	an_undutiful_child___whom_his_parents_had_given_over_to_the_civil_authority-27
+COREF	T32	his_parents-28
+COREF	T147	an_undutiful_child___whom_his_parents_had_given_over_to_the_civil_authority-27
+COREF	T103	the_civil_authority-29
+COREF	T104	an_Antinomian-30
+COREF	T35	a_Quaker-31
+COREF	T36	other_heterodox_religionist-32
+COREF	T37	Boston-5
+COREF	T38	an_idle_or_vagrant_Indian___whom_the_white_man__s_firewater_had_made_riotous_about_the_streets-33
+COREF	T39	the_white_man-34
+COREF	T34	the_streets-35
+COREF	T105	the_forest-36
+COREF	T106	a_witch-37
+COREF	T107	old_Mistress_Hibbins-38
+COREF	T41	the_magistrate-39
+COREF	T42	the_inhabitants_of_Boston-22
+COREF	T43	the_inhabitants_of_Boston-22
+COREF	T44	a_transgressor-40
+COREF	T45	the_inhabitants_of_Boston-22
+COREF	T148	we-20
+COREF	T149	we-20
+COREF	T108	the_women-41
+COREF	T46	the_women-41
+COREF	T47	the_women-41
+COREF	T150	the_women-41
+COREF	T49	the_women-41
+COREF	T48	their_fair_descendants-42
+COREF	T151	the_women-41
+COREF	T152	the_women-41
+COREF	T50	a_series_of_six_or_seven_generations-43
+COREF	T53	every_successive_mother-44
+COREF	T52	her_child-45
+COREF	T153	every_successive_mother-44
+COREF	T154	every_successive_mother-44
+COREF	T55	the_women-41
+COREF	T56	the_man-like_Elizabeth-46
+COREF	T155	the_women-41
+COREF	T51	the_women-41
+COREF	T156	the_man-like_Elizabeth-46
+COREF	T54	England-47
+COREF	T157	the_women-41
+COREF	T158	the_women-41
+COREF	T58	England-47
+COREF	T57	New_England-23
+COREF	T59	the_women-41
+COREF	T159	the_women-41
+COREF	T160	we-20
+COREF	T109	the_women-41
+COREF	T60	a_hard-featured_dame_of_fifty-48
+COREF	T161	a_hard-featured_dame_of_fifty-48
+COREF	T162	a_hard-featured_dame_of_fifty-48
+COREF	T163	the_women-41
+COREF	T110	the_women-41
+COREF	T111	the_women-41
+COREF	T61	Hester-49
+COREF	T62	Hester-49
+COREF	T63	Hester-49
+COREF	T164	the_women-41
+COREF	T165	Hester-49
+COREF	T64	the_worshipful_magistrates-50
+COREF	T166	a_hard-featured_dame_of_fifty-48
+COREF	T112	People-51
+COREF	T126	Master_Dimmesdale-52
+COREF	T65	Master_Dimmesdale-52
+COREF	T167	Hester-49
+COREF	T114	his_congregation-53
+COREF	T168	Master_Dimmesdale-52
+COREF	T66	the_worshipful_magistrates-50
+COREF	T67	a_third_autumnal_matron-54
+COREF	T169	the_worshipful_magistrates-50
+COREF	T68	Hester-49
+COREF	T69	Hester-49
+COREF	T170	a_third_autumnal_matron-54
+COREF	T171	a_third_autumnal_matron-54
+COREF	T172	Hester-49
+COREF	T173	Hester-49
+COREF	T174	the_worshipful_magistrates-50
+COREF	T175	Hester-49
+COREF	T176	you-55
+COREF	T177	Hester-49
+COREF	T70	the_streets-35
+COREF	T117	a_young_wife-56
+COREF	T71	a_child-57
+COREF	T178	Hester-49
+COREF	T179	Hester-49
+COREF	T180	Hester-49
+COREF	T181	the_women-41
+COREF	T182	Hester-49
+COREF	T183	Hester-49
+COREF	T118	another_female-58
+COREF	T72	the_women-41
+COREF	T73	Hester-49
+COREF	T184	the_women-41
+COREF	T120	the_worshipful_magistrates-50
+COREF	T185	the_worshipful_magistrates-50
+COREF	T75	their_own_wives-59
+COREF	T186	the_worshipful_magistrates-50
+COREF	T74	daughters-60
+COREF	T187	us-61
+COREF	T121	another_female-58
+COREF	T76	a_man_in_the_crowd-62
+COREF	T77	woman-63
+COREF	T122	the_women-41
+COREF	T78	Hester-49
+COREF	T188	Hester-49
+COREF	T82	a_prison-8
+COREF	T79	the_town-beadle-64
+COREF	T189	the_town-beadle-64
+COREF	T190	the_town-beadle-64
+COREF	T191	the_town-beadle-64
+COREF	T83	the_town-beadle-64
+COREF	T192	the_town-beadle-64
+COREF	T193	the_town-beadle-64
+COREF	T84	Hester-49
+COREF	T194	the_town-beadle-64
+COREF	T195	the_town-beadle-64
+COREF	T196	the_town-beadle-64
+COREF	T85	Hester-49
+COREF	T197	the_town-beadle-64
+COREF	T198	Hester-49
+COREF	T199	the_town-beadle-64
+COREF	T200	Hester-49
+COREF	T201	Hester-49
+COREF	T202	Hester-49
+COREF	T80	pearl-65
+COREF	T81	a_dungeon-66
+COREF	T88	other_darksome_apartment-67
+COREF	T86	a_prison-8
+COREF	T92	Hester-49
+COREF	T89	pearl-65
+COREF	T203	Hester-49
+COREF	T91	pearl-65
+COREF	T204	Hester-49
+COREF	T205	Hester-49
+COREF	T206	Hester-49
+COREF	T207	Hester-49
+COREF	T208	Hester-49
+COREF	T93	pearl-65
+COREF	T209	Hester-49
+COREF	T210	Hester-49
+COREF	T123	the_inhabitants_of_Boston-22
+COREF	T94	the_inhabitants_of_Boston-22
+COREF	T211	Hester-49
+COREF	T212	Hester-49
+COREF	T124	Boston-5
+APPOS	T40	T107
+APPOS	T113	T65
+COP	T115	T66
+APPOS	T116	T172
+APPOS	T119	T118
+APPOS	T87	T80
+APPOS	T90	T92
+MENTION	T434	4	38	4	38	its	FAC	PRON
+COREF	T434	a_prison-8
+MENTION	T436	5	7	5	7	its	FAC	PRON
+COREF	T436	a_prison-8
+MENTION	T438	6	7	6	7	it	FAC	PRON
+COREF	T438	a_prison-8
+MENTION	T440	7	7	7	7	it	FAC	PRON
+COREF	T440	a_prison-8
+MENTION	T490	54	21	54	21	its	PER	PRON
+COREF	T490	pearl-65
+MENTION	T492	54	33	54	33	its	PER	PRON
+COREF	T492	pearl-65
+MENTION	T494	54	40	54	40	it	PER	PRON
+COREF	T494	pearl-65
+MENTION	T125	35	6	35	6	another	PER	NOM
+COREF	T125	another-403

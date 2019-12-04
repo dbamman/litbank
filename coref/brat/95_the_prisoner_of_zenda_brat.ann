@@ -1,0 +1,714 @@
+T1	NOM_PER 134 152	my brother ’s wife
+T3	PROP_PER 452 466	Lord Burlesdon
+T4	NOM_PER 491 509	that charming lady
+T6	NOM_PER 512 524	his countess
+T10	NOM_PER 1451 1459	his wife
+T11	NOM_PER 1772 1782	my brother
+T12	PROP_PER 1875 1879	Rose
+T13	PROP_PER 1981 1996	Countess Amelia
+T14	NOM_PER 1999 2017	My brother ’s wife
+T15	PROP_PER 2262 2268	Robert
+T16	PROP_PER 2240 2246	Rudolf
+T17	NOM_PER 2356 2374	my brother ’s wife
+T20	NOM_PER 2876 2892	my sister-in-law
+T21	NOM_PER 3227 3243	that Royal House
+T22	NOM_PER 3009 3024	the Rassendylls
+T23	NOM_FAC 3319 3341	the Palace at Strelsau
+T24	PROP_GPE 3333 3341	Strelsau
+T26	PROP_GPE 3285 3294	Ruritania
+T28	PROP_PER 3554 3563	George II
+T32	NOM_PER 3631 3639	the King
+T33	NOM_PER 3644 3663	the Prince of Wales
+T34	NOM_PER 3828 3838	The prince
+T36	NOM_GPE 4123 4171	England , where he was most courteously received
+T37	NOM_PER 4419 4455	the husband of a very beautiful wife
+T38	NOM_PER 4330 4340	a nobleman
+T39	NOM_PER 4434 4455	a very beautiful wife
+T41	NOM_PER 4634 4646	The nobleman
+T42	PROP_PER 4855 4868	Prince Rudolf
+T43	NOM_PER 4979 4986	an heir
+T44	NOM_PER 5091 5107	my sister-in-law
+T45	NOM_PER 5041 5050	This lady
+T46	NOM_PER 5288 5310	a Knight of the Garter
+T47	NOM_PER 5190 5213	fifth Earl of Burlesdon
+T48	PROP_PER 5218 5248	twenty-second Baron Rassendyll
+T49	PROP_GPE 5274 5281	England
+T50	NOM_PER 5166 5177	her husband
+T51	PROP_GPE 5204 5213	Burlesdon
+T52	PROP_FAC 5150 5159	Park Lane
+T53	PROP_PER 5055 5074	the Countess Amelia
+T56	NOM_PER 5365 5371	a wife
+T58	NOM_PER 5691 5705	the sixth earl
+T59	NOM_PER 5843 5858	the Rassendylls
+T64	NOM_PER 7287 7297	my parents
+T65	PROP_PER 7413 7419	Robert
+T67	NOM_PER 7640 7655	a man of spirit
+T69	NOM_PER 8017 8027	an attache
+T70	PROP_PER 7970 7976	Robert
+T72	NOM_PER 8081 8097	my sister-in-law
+T73	PROP_PER 8613 8622	Sir Jacob
+T74	PROP_PER 8562 8571	Sir Jacob
+T75	PROP_PER 9154 9163	Sir Jacob
+T78	NOM_PER 9578 9607	my brother , prompted by Rose
+T79	NOM_PER 9370 9379	my father
+T81	NOM_PER 9461 9475	his second son
+T82	PROP_GPE 9724 9733	Ruritania
+T83	NOM_PER 10171 10183	the new King
+T84	NOM_PER 9856 9877	the House of Elphberg
+T86	PROP_GPE 10306 10314	Strelsau
+T87	NOM_FAC 10686 10695	the Tyrol
+T89	PROP_PER 10 25	The Rassendylls
+T90	PROP_PER 44 57	the Elphbergs
+T91	PROP_PER 118 124	Rudolf
+T92	NOM_PER 134 144	my brother
+T2	NOM_PER 441 466	brother to Lord Burlesdon
+T95	NOM_PER 663 673	Our family
+T96	PROP_PER 740 744	Rose
+T97	NOM_PER 927 942	the Rassendylls
+T98	NOM_PER 882 892	her family
+T8	PROP_PER 1148 1152	Rose
+T9	NOM_PER 1175 1188	Good families
+T99	PROP_PER 1320 1326	Robert
+T100	PROP_PER 1370 1376	Robert
+T101	PROP_PER 1710 1714	Rose
+T102	PROP_PER 1806 1812	Rudolf
+T103	NOM_PER 1999 2009	My brother
+T104	PROP_PER 2098 2104	Robert
+T105	PROP_PER 2335 2341	Rudolf
+T106	NOM_PER 2356 2366	my brother
+T18	NOM_PER 2600 2630	my strict little sister-in-law
+T19	NOM_PER 2683 2694	an Elphberg
+T107	NOM_PER 2961 2972	an Elphberg
+T108	PROP_PER 3189 3202	the Elphbergs
+T109	PROP_GPE 3299 3308	Burlesdon
+T110	NOM_FAC 3345 3364	the Castle of Zenda
+T111	PROP_GPE 3359 3364	Zenda
+T25	NOM_FAC 3369 3394	Number 305 Park Lane , W.
+T27	NOM_FAC 3720 3737	the English Court
+T31	NOM_PER 3738 3825	a certain prince , who was afterwards known to history as Rudolf the Third of Ruritania
+T112	PROP_PER 3796 3825	Rudolf the Third of Ruritania
+T113	PROP_GPE 3816 3825	Ruritania
+T30	NOM_PER 3843 4010	a tall , handsome young fellow , marked ( maybe marred , it is not for me to say ) by a somewhat unusually long , sharp and straight nose , and a mass of dark-red hair
+T35	PROP_PER 4065 4078	the Elphbergs
+T40	PROP_PER 4471 4484	Prince Rudolf
+T114	NOM_PER 4569 4631	the Ruritanian ambassador , who had found him a pretty handful
+T115	NOM_PER 4929 5038	his wife -- who , after another two months , bore an heir to the title and estates of the family of Burlesdon
+T116	NOM_FAC 5004 5038	estates of the family of Burlesdon
+T117	NOM_PER 5015 5038	the family of Burlesdon
+T118	PROP_GPE 5029 5038	Burlesdon
+T119	NOM_FAC 5130 5159	the drawing-room in Park Lane
+T120	PROP_PER 5182 5187	James
+T121	PROP_PER 5320 5326	Rudolf
+T122	PROP_GPE 5345 5354	Ruritania
+T54	NOM_PER 5408 5438	his progeny in the direct line
+T55	PROP_GPE 5568 5577	Burlesdon
+T60	NOM_ORG 6765 6780	a German school
+T62	NOM_PER 6982 7021	a strong , though hardly fine swordsman
+T63	NOM_PER 7026 7037	a good shot
+T123	NOM_FAC 7245 7250	Court
+T68	PROP_PER 7813 7881	Sir Jacob Borrodaile offering you exactly what you might be equal to
+T125	NOM_FAC 7939 7949	an Embassy
+T126	PROP_PER 8043 8049	Rudolf
+T71	NOM_PER 8237 8307	an idle scamp like myself , for whom she has no natural responsibility
+T127	NOM_PER 8481 8495	My dear sister
+T128	PROP_PER 8634 8640	Rudolf
+T129	NOM_FAC 8748 8762	a good Embassy
+T130	NOM_PER 8769 8775	Madame
+T77	NOM_PER 9080 9088	attaches
+T76	NOM_PER 9143 9179	attache to Sir Jacob or anybody else
+T131	PROP_GPE 9290 9299	Ruritania
+T132	NOM_GPE 9347 9359	that country
+T133	PROP_PER 9418 9431	the Elphbergs
+T135	PROP_PER 9603 9607	Rose
+T136	NOM_PER 9623 9633	the family
+T137	NOM_GPE 9694 9706	that country
+T138	PROP_PER 9869 9877	Elphberg
+T139	NOM_GPE 9986 10028	a highly interesting and important kingdom
+T140	NOM_PER 10134 10202	a young and vigorous ruler , such as the new King was rumoured to be
+T85	PROP_PER 10268 10284	Rudolf the Fifth
+T88	NOM_PER 10539 10551	my relatives
+T141	NOM_FAC 10699 10719	an old haunt of mine
+T142	PROP_PER 10739 10743	Rose
+T143	NOM_PER 10828 10888	the interesting community which dwells in that neighbourhood
+T144	NOM_FAC 10870 10888	that neighbourhood
+T57	NOM_PER 6222 6238	my sister-in-law
+T93	PROP_PER 165 169	Rose
+T124	NOM_PER 157 164	My dear
+T7	PROP_PER 1018 1024	Robert
+T145	NOM_PER 1007 1017	my brother
+T29	NOM_PER 3500 3514	Lady Burlesdon
+T146	NOM_PER 3492 3499	my dear
+T66	PROP_PER 7666 7670	Rose
+T148	NOM_PER 7658 7665	my dear
+T156	NOM_PER 751 760	everybody
+T157	NOM_LOC 223 232	the world
+T158	NOM_LOC 77 86	the world
+T159	NOM_LOC 6092 6101	the world
+T160	NOM_PER 341 347	no one
+T161	PRON_PER 60 61	I
+T162	PRON_PER 87 90	you
+T163	PRON_PER 134 136	my
+T164	PRON_PER 157 159	My
+T165	PRON_PER 174 175	I
+T166	PRON_PER 199 201	my
+T167	PRON_PER 240 241	I
+T168	PRON_PER 256 258	My
+T169	PRON_PER 291 292	I
+T170	PRON_PER 330 332	my
+T171	PRON_PER 385 388	you
+T172	PRON_PER 398 399	I
+T173	PRON_PER 436 437	I
+T174	PRON_PER 512 515	his
+T175	PRON_PER 555 558	You
+T176	PRON_PER 583 586	she
+T177	PRON_PER 604 607	you
+T178	PRON_PER 663 666	Our
+T179	PRON_PER 865 868	she
+T180	PRON_PER 869 876	herself
+T181	PRON_PER 882 885	her
+T182	PRON_PER 953 956	her
+T183	PRON_PER 971 974	she
+T184	PRON_PER 1007 1009	my
+T185	PRON_PER 1059 1062	her
+T186	PRON_PER 1229 1232	she
+T187	PRON_PER 1250 1251	I
+T188	PRON_PER 1260 1262	my
+T189	PRON_PER 1270 1271	I
+T190	PRON_PER 1293 1296	she
+T191	PRON_PER 1307 1308	I
+T192	PRON_PER 1343 1346	she
+T193	PRON_PER 1437 1439	He
+T194	PRON_PER 1451 1454	his
+T195	PRON_PER 1462 1465	her
+T196	PRON_PER 1495 1497	he
+T197	PRON_PER 1545 1547	my
+T198	PRON_PER 1557 1559	he
+T199	PRON_PER 1570 1573	She
+T200	PRON_PER 1585 1587	my
+T201	PRON_PER 1631 1632	I
+T202	PRON_PER 1673 1675	he
+T203	PRON_PER 1688 1691	his
+T204	PRON_PER 1772 1774	my
+T206	PRON_PER 1837 1838	I
+T208	PRON_PER 1900 1901	I
+T210	PRON_PER 1919 1925	myself
+T211	PRON_PER 1935 1936	I
+T212	PRON_PER 1954 1955	I
+T213	PRON_PER 1999 2001	My
+T214	PRON_PER 2059 2060	I
+T215	PRON_PER 2066 2069	you
+T216	PRON_PER 2114 2117	she
+T217	PRON_PER 2122 2124	My
+T218	PRON_PER 2134 2136	he
+T219	PRON_PER 2164 2165	I
+T220	PRON_PER 2207 2210	she
+T221	PRON_PER 2279 2282	his
+T222	PRON_PER 2323 2324	I
+T223	PRON_PER 2356 2358	my
+T224	PRON_PER 2402 2403	I
+T225	PRON_PER 2431 2433	my
+T226	PRON_PER 2449 2450	I
+T227	PRON_PER 2500 2501	I
+T228	PRON_PER 2569 2570	I
+T229	PRON_PER 2600 2602	my
+T230	PRON_PER 2648 2649	I
+T231	PRON_PER 2663 2664	I
+T232	PRON_PER 2695 2701	myself
+T233	PRON_PER 2711 2712	I
+T234	PRON_PER 2728 2729	I
+T235	PRON_PER 2769 2770	I
+T236	PRON_PER 2792 2793	I
+T237	PRON_PER 2804 2805	I
+T238	PRON_PER 2857 2858	I
+T239	PRON_PER 2876 2878	my
+T240	PRON_PER 2908 2910	my
+T241	PRON_PER 2935 2936	I
+T242	PRON_PER 2954 2960	myself
+T243	PRON_PER 2992 2993	I
+T244	PRON_PER 3079 3084	their
+T245	PRON_PER 3414 3415	I
+T246	PRON_PER 3434 3435	I
+T247	PRON_PER 3492 3494	my
+T248	PRON_PER 3914 3916	me
+T249	PRON_PER 4098 4100	He
+T250	PRON_PER 4139 4141	he
+T251	PRON_PER 4193 4195	he
+T252	PRON_PER 4228 4230	he
+T253	PRON_PER 4285 4288	him
+T254	PRON_PER 4314 4317	his
+T255	PRON_PER 4395 4398	his
+T256	PRON_PER 4611 4614	him
+T257	PRON_PER 4745 4747	he
+T258	PRON_PER 4808 4810	he
+T259	PRON_PER 4910 4913	his
+T260	PRON_PER 4929 4932	his
+T261	PRON_PER 5091 5093	my
+T262	PRON_PER 5166 5169	her
+T263	PRON_PER 5329 5331	he
+T264	PRON_PER 5408 5411	his
+T265	PRON_PER 5526 5529	you
+T266	PRON_PER 5645 5648	you
+T267	PRON_PER 5918 5919	I
+T268	PRON_PER 6039 6041	we
+T269	PRON_PER 6222 6224	my
+T270	PRON_PER 6294 6301	herself
+T271	PRON_PER 6310 6312	we
+T272	PRON_PER 6362 6365	her
+T273	PRON_PER 6382 6384	my
+T274	PRON_PER 6427 6428	I
+T275	PRON_PER 6517 6518	I
+T276	PRON_PER 6527 6529	my
+T277	PRON_PER 6575 6578	she
+T278	PRON_PER 6641 6642	I
+T279	PRON_PER 6680 6681	I
+T280	PRON_PER 6751 6752	I
+T281	PRON_PER 6862 6863	I
+T282	PRON_PER 6899 6900	I
+T283	PRON_PER 6962 6963	I
+T284	PRON_PER 6970 6971	I
+T285	PRON_PER 7040 7041	I
+T286	PRON_PER 7094 7096	my
+T287	PRON_PER 7123 7126	you
+T288	PRON_PER 7171 7174	you
+T289	PRON_PER 7184 7185	I
+T290	PRON_PER 7206 7208	my
+T291	PRON_PER 7233 7234	I
+T292	PRON_PER 7287 7289	my
+T293	PRON_PER 7323 7325	me
+T294	PRON_PER 7405 7408	you
+T295	PRON_PER 7429 7431	my
+T296	PRON_PER 7466 7469	her
+T297	PRON_PER 7521 7524	she
+T298	PRON_PER 7549 7551	he
+T299	PRON_PER 7577 7580	his
+T300	PRON_PER 7596 7599	you
+T301	PRON_PER 7658 7660	my
+T302	PRON_PER 7675 7676	I
+T303	PRON_PER 7739 7742	she
+T304	PRON_PER 7753 7756	her
+T305	PRON_PER 7783 7786	she
+T306	PRON_PER 7843 7846	you
+T307	PRON_PER 7860 7863	you
+T308	PRON_PER 7910 7911	I
+T309	PRON_PER 7925 7927	He
+T310	PRON_PER 7982 7984	he
+T311	PRON_PER 7998 8000	he
+T312	PRON_PER 8010 8013	you
+T313	PRON_PER 8063 8065	me
+T314	PRON_PER 8081 8083	my
+T315	PRON_PER 8138 8141	her
+T316	PRON_PER 8166 8169	her
+T317	PRON_PER 8256 8262	myself
+T318	PRON_PER 8274 8277	she
+T319	PRON_PER 8310 8311	I
+T320	PRON_PER 8353 8354	I
+T321	PRON_PER 8380 8381	I
+T322	PRON_PER 8470 8471	I
+T323	PRON_PER 8481 8483	My
+T324	PRON_PER 8580 8582	me
+T325	PRON_PER 8590 8592	me
+T326	PRON_PER 8596 8597	I
+T327	PRON_PER 8655 8658	you
+T328	PRON_PER 8661 8662	I
+T329	PRON_PER 8686 8688	he
+T330	PRON_PER 8704 8706	He
+T331	PRON_PER 8785 8786	I
+T332	PRON_PER 8795 8799	your
+T333	PRON_PER 8805 8806	I
+T334	PRON_PER 8865 8866	I
+T335	PRON_PER 8880 8881	I
+T336	PRON_PER 8909 8911	My
+T338	PRON_PER 9037 9039	me
+T339	PRON_PER 9044 9046	my
+T340	PRON_PER 9070 9071	I
+T341	PRON_PER 9111 9112	I
+T342	PRON_PER 9128 9129	I
+T343	PRON_PER 9184 9185	I
+T345	PRON_PER 9259 9261	me
+T346	PRON_PER 9276 9277	I
+T347	PRON_PER 9327 9328	I
+T348	PRON_PER 9370 9372	my
+T349	PRON_PER 9444 9447	him
+T350	PRON_PER 9456 9458	me
+T351	PRON_PER 9461 9464	his
+T352	PRON_PER 9543 9545	my
+T353	PRON_PER 9566 9569	his
+T354	PRON_PER 9578 9580	my
+T355	PRON_PER 9748 9750	my
+T356	PRON_PER 9756 9757	I
+T357	PRON_PER 9956 9962	myself
+T358	PRON_PER 10205 10207	My
+T359	PRON_PER 10418 10419	I
+T360	PRON_PER 10428 10430	my
+T361	PRON_PER 10462 10464	my
+T362	PRON_PER 10516 10518	my
+T363	PRON_PER 10539 10541	my
+T364	PRON_PER 10573 10575	my
+T365	PRON_PER 10602 10603	I
+T366	PRON_PER 10630 10632	my
+T367	PRON_PER 10642 10643	I
+T368	PRON_PER 10658 10659	I
+T369	PRON_PER 10771 10772	I
+T370	NOM_PER 473 524	brother-in-law to that charming lady , his countess
+T371	NOM_ORG 6785 6804	a German university
+T372	NOM_PER 7429 7445	my sister-in-law
+T373	PRON_FAC 8731 8733	it
+T463	The_Rassendylls-0 10 25	The Rassendylls
+T464	the_Elphbergs-1 44 57	the Elphbergs
+T535	Rose-2 60 61	I
+T532	the_world-3 77 86	the world
+T536	Rudolf_narrator-4 87 90	you
+T375	Rose-2 134 152	my brother ’s wife
+T466	Robert_brother-5 134 144	my brother
+T537	Rudolf_narrator-4 134 136	my
+T498	Rose-2 157 164	My dear
+T538	Rudolf_narrator-4 157 159	My
+T467	Rose-2 165 169	Rose
+T539	Rudolf_narrator-4 174 175	I
+T540	Rudolf_narrator-4 199 201	my
+T531	the_world-3 223 232	the world
+T541	Rudolf_narrator-4 240 241	I
+T542	Rudolf_narrator-4 256 258	My
+T543	Rudolf_narrator-4 291 292	I
+T544	Rudolf_narrator-4 330 332	my
+T534	no_one-7 341 347	no one
+T545	Rose-2 385 388	you
+T546	Rudolf_narrator-4 398 399	I
+T547	Rudolf_narrator-4 436 437	I
+T377	Robert_brother-5 452 466	Lord Burlesdon
+T378	Rose-2 491 509	that charming lady
+T548	Robert_brother-5 512 515	his
+T549	Rudolf_narrator-4 555 558	You
+T550	Rose-2 583 586	she
+T551	Rudolf_narrator-4 604 607	you
+T469	Our_family-8 663 673	Our family
+T552	Rudolf_Rose-9 663 666	Our
+T470	Rose-2 740 744	Rose
+T530	everybody-10 751 760	everybody
+T553	Rose-2 865 868	she
+T554	Rose-2 869 876	herself
+T472	Our_family-8 882 892	her family
+T555	Rose-2 882 885	her
+T471	The_Rassendylls-0 927 942	the Rassendylls
+T556	Rose-2 953 956	her
+T557	Rose-2 971 974	she
+T519	Robert_brother-5 1007 1017	my brother
+T558	Rudolf_narrator-4 1007 1009	my
+T381	Robert_brother-5 1018 1024	Robert
+T559	Rose-2 1059 1062	her
+T382	Rose-2 1148 1152	Rose
+T383	Good_families-11 1175 1188	Good families
+T560	Rose-2 1229 1232	she
+T561	Rudolf_narrator-4 1250 1251	I
+T562	Rudolf_narrator-4 1260 1262	my
+T563	Rudolf_narrator-4 1270 1271	I
+T564	Rose-2 1293 1296	she
+T565	Rose-2 1307 1308	I
+T473	Robert_brother-5 1320 1326	Robert
+T566	Rose-2 1343 1346	she
+T567	Robert_brother-5 1437 1439	He
+T384	Rose-2 1451 1459	his wife
+T568	Robert_brother-5 1451 1454	his
+T569	Rose-2 1462 1465	her
+T570	Robert_brother-5 1495 1497	he
+T571	Robert_brother-5 1545 1547	my
+T572	Robert_brother-5 1557 1559	he
+T573	Rose-2 1570 1573	She
+T574	Rudolf_narrator-4 1585 1587	my
+T575	Rudolf_narrator-4 1631 1632	I
+T576	Rudolf_narrator-4 1673 1675	he
+T577	Rudolf_narrator-4 1688 1691	his
+T475	Rose-2 1710 1714	Rose
+T385	Robert_brother-5 1772 1782	my brother
+T578	Rudolf_narrator-4 1772 1774	my
+T476	Rudolf_narrator-4 1806 1812	Rudolf
+T580	Rose-2 1837 1838	I
+T386	Rose-2 1875 1879	Rose
+T582	Rudolf_narrator-4 1900 1901	I
+T584	Rudolf_narrator-4 1919 1925	myself
+T585	Rudolf_narrator-4 1935 1936	I
+T586	Rudolf_narrator-4 1954 1955	I
+T387	Countess_Amelia-12 1981 1996	Countess Amelia
+T388	Rose-2 1999 2017	My brother ’s wife
+T477	Robert_brother-5 1999 2009	My brother
+T587	Rudolf_narrator-4 1999 2001	My
+T588	Rose-2 2059 2060	I
+T589	Robert_brother-5 2066 2069	you
+T478	Robert_brother-5 2098 2104	Robert
+T590	Rose-2 2114 2117	she
+T591	Robert_brother-5 2122 2124	My
+T592	Robert_brother-5 2134 2136	he
+T593	Rudolf_narrator-4 2164 2165	I
+T594	Rose-2 2207 2210	she
+T390	Rudolf_narrator-4 2240 2246	Rudolf
+T389	Robert_brother-5 2262 2268	Robert
+T595	Robert_brother-5 2279 2282	his
+T596	Rudolf_narrator-4 2323 2324	I
+T479	Rudolf_narrator-4 2335 2341	Rudolf
+T391	Rose-2 2356 2374	my brother ’s wife
+T480	Robert_brother-5 2356 2366	my brother
+T597	Rudolf_narrator-4 2356 2358	my
+T598	Rudolf_narrator-4 2402 2403	I
+T599	Rudolf_narrator-4 2431 2433	my
+T600	Rudolf_narrator-4 2449 2450	I
+T601	Rudolf_narrator-4 2500 2501	I
+T602	Rudolf_narrator-4 2569 2570	I
+T392	Rose-2 2600 2630	my strict little sister-in-law
+T603	Rudolf_narrator-4 2600 2602	my
+T604	Rudolf_narrator-4 2648 2649	I
+T605	Rudolf_narrator-4 2663 2664	I
+T606	Rudolf_narrator-4 2695 2701	myself
+T607	Rudolf_narrator-4 2711 2712	I
+T608	Rudolf_narrator-4 2728 2729	I
+T609	Rudolf_narrator-4 2769 2770	I
+T610	Rudolf_narrator-4 2792 2793	I
+T611	Rudolf_narrator-4 2804 2805	I
+T612	Rudolf_narrator-4 2857 2858	I
+T394	Rose-2 2876 2892	my sister-in-law
+T613	Rudolf_narrator-4 2876 2878	my
+T614	Rudolf_narrator-4 2908 2910	my
+T615	Rudolf_narrator-4 2935 2936	I
+T616	Rudolf_narrator-4 2954 2960	myself
+T617	Rudolf_narrator-4 2992 2993	I
+T396	The_Rassendylls-0 3009 3024	the Rassendylls
+T618	The_Rassendylls-0 3079 3084	their
+T482	the_Elphbergs-1 3189 3202	the Elphbergs
+T395	the_Elphbergs-1 3227 3243	that Royal House
+T400	Ruritania-13 3285 3294	Ruritania
+T483	Burlesdon-14 3299 3308	Burlesdon
+T397	the_Palace_at_Strelsau-15 3319 3341	the Palace at Strelsau
+T398	Strelsau-16 3333 3341	Strelsau
+T484	the_Castle_of_Zenda-17 3345 3364	the Castle of Zenda
+T485	Zenda-18 3359 3364	Zenda
+T399	Number_305_Park_Lane___W_-19 3369 3394	Number 305 Park Lane , W.
+T619	Rudolf_narrator-4 3414 3415	I
+T620	Rudolf_narrator-4 3434 3435	I
+T520	Rose-2 3492 3499	my dear
+T621	Rudolf_narrator-4 3492 3494	my
+T403	Rose-2 3500 3514	Lady Burlesdon
+T402	George_II-20 3554 3563	George II
+T406	George_II-20 3631 3639	the King
+T407	the_Prince_of_Wales-21 3644 3663	the Prince of Wales
+T401	the_English_Court-22 3720 3737	the English Court
+T405	Prince_Rudolf-23 3738 3825	a certain prince , who was afterwards known to history as Rudolf the Third of Ruritania
+T486	Prince_Rudolf-23 3796 3825	Rudolf the Third of Ruritania
+T487	Ruritania-13 3816 3825	Ruritania
+T622	Rudolf_narrator-4 3914 3916	me
+T409	the_Elphbergs-1 4065 4078	the Elphbergs
+T623	Prince_Rudolf-23 4098 4100	He
+T410	England___where_he_was_most_courteously_received-24 4123 4171	England , where he was most courteously received
+T624	Prince_Rudolf-23 4139 4141	he
+T625	Prince_Rudolf-23 4193 4195	he
+T626	Prince_Rudolf-23 4228 4230	he
+T627	Prince_Rudolf-23 4285 4288	him
+T628	Prince_Rudolf-23 4314 4317	his
+T412	James-25 4330 4340	a nobleman
+T411	James-25 4419 4455	the husband of a very beautiful wife
+T414	Prince_Rudolf-23 4471 4484	Prince Rudolf
+T488	the_Ruritanian_ambassador___who_had_found_him_a_pretty_handful-27 4569 4631	the Ruritanian ambassador , who had found him a pretty handful
+T630	Prince_Rudolf-23 4611 4614	him
+T415	James-25 4634 4646	The nobleman
+T631	James-25 4745 4747	he
+T632	James-25 4808 4810	he
+T416	Prince_Rudolf-23 4855 4868	Prince Rudolf
+T633	James-25 4910 4913	his
+T489	Countess_Amelia-12 4929 5038	his wife -- who , after another two months , bore an heir to the title and estates of the family of Burlesdon
+T634	James-25 4929 4932	his
+T417	an_heir-29 4979 4986	an heir
+T490	estates_of_the_family_of_Burlesdon-30 5004 5038	estates of the family of Burlesdon
+T491	the_family_of_Burlesdon-31 5015 5038	the family of Burlesdon
+T492	Burlesdon-14 5029 5038	Burlesdon
+T419	Countess_Amelia-12 5041 5050	This lady
+T418	Rose-2 5091 5107	my sister-in-law
+T635	Rudolf_narrator-4 5091 5093	my
+T493	the_drawing-room_in_Park_Lane-32 5130 5159	the drawing-room in Park Lane
+T426	Park_Lane-33 5150 5159	Park Lane
+T424	James-25 5166 5177	her husband
+T425	Burlesdon-14 5204 5213	Burlesdon
+T423	England___where_he_was_most_courteously_received-24 5274 5281	England
+T495	Prince_Rudolf-23 5320 5326	Rudolf
+T637	Prince_Rudolf-23 5329 5331	he
+T496	Ruritania-13 5345 5354	Ruritania
+T430	a_wife-35 5365 5371	a wife
+T428	his_progeny_in_the_direct_line-36 5408 5438	his progeny in the direct line
+T638	Prince_Rudolf-23 5408 5411	his
+T639	you-37 5526 5529	you
+T429	Burlesdon-14 5568 5577	Burlesdon
+T640	you-38 5645 5648	you
+T432	the_sixth_earl-39 5691 5705	the sixth earl
+T433	The_Rassendylls-0 5843 5858	the Rassendylls
+T641	Rudolf_narrator-4 5918 5919	I
+T642	we-40 6039 6041	we
+T533	the_world-3 6092 6101	the world
+T636	Countess_Amelia-12 5166 5169	her
+T465	Rudolf_narrator-4 118 124	Rudolf
+T474	Robert_brother-5 1370 1376	Robert
+T408	Prince_Rudolf-23 3828 3838	The prince
+T629	James-25 4395 4398	his
+T413	Countess_Amelia-12 4434 4455	a very beautiful wife
+T494	James-25 5182 5187	James
+T431	Rose-2 6222 6238	my sister-in-law
+T643	Rudolf_narrator-4 6222 6224	my
+T644	Rose-2 6294 6301	herself
+T645	we-41 6310 6312	we
+T646	Rose-2 6362 6365	her
+T647	Rudolf_narrator-4 6382 6384	my
+T648	Rudolf_narrator-4 6427 6428	I
+T649	Rudolf_narrator-4 6517 6518	I
+T650	Rudolf_narrator-4 6527 6529	my
+T651	Rose-2 6575 6578	she
+T652	Rudolf_narrator-4 6641 6642	I
+T653	Rudolf_narrator-4 6680 6681	I
+T654	Rudolf_narrator-4 6751 6752	I
+T434	a_German_school-42 6765 6780	a German school
+T745	a_German_university-43 6785 6804	a German university
+T655	Rudolf_narrator-4 6862 6863	I
+T656	Rudolf_narrator-4 6899 6900	I
+T657	Rudolf_narrator-4 6962 6963	I
+T658	Rudolf_narrator-4 6970 6971	I
+T659	Rudolf_narrator-4 7040 7041	I
+T660	Rudolf_narrator-4 7094 7096	my
+T661	you-44 7123 7126	you
+T662	you-45 7171 7174	you
+T663	Rudolf_narrator-4 7184 7185	I
+T664	Rudolf_narrator-4 7206 7208	my
+T665	Rudolf_narrator-4 7233 7234	I
+T497	Court-46 7245 7250	Court
+T438	my_parents-47 7287 7297	my parents
+T666	Rudolf_narrator-4 7287 7289	my
+T667	Rudolf_narrator-4 7323 7325	me
+T668	Rudolf_narrator-4 7405 7408	you
+T439	Robert_brother-5 7413 7419	Robert
+T669	Rudolf_narrator-4 7429 7431	my
+T746	Rose-2 7429 7445	my sister-in-law
+T670	Rose-2 7466 7469	her
+T671	Rose-2 7521 7524	she
+T672	Robert_brother-5 7549 7551	he
+T673	Robert_brother-5 7577 7580	his
+T674	Rudolf_narrator-4 7596 7599	you
+T441	a_man_of_spirit-48 7640 7655	a man of spirit
+T522	Rose-2 7658 7665	my dear
+T675	Rudolf_narrator-4 7658 7660	my
+T440	Rose-2 7666 7670	Rose
+T676	Rudolf_narrator-4 7675 7676	I
+T677	Rose-2 7739 7742	she
+T678	Rose-2 7753 7756	her
+T679	Rose-2 7783 7786	she
+T442	Sir_Jacob_Borrodaile-49 7813 7881	Sir Jacob Borrodaile offering you exactly what you might be equal to
+T680	Rudolf_narrator-4 7843 7846	you
+T681	Rudolf_narrator-4 7860 7863	you
+T682	Rudolf_narrator-4 7910 7911	I
+T683	Sir_Jacob_Borrodaile-49 7925 7927	He
+T499	an_Embassy-50 7939 7949	an Embassy
+T444	Robert_brother-5 7970 7976	Robert
+T684	Robert_brother-5 7982 7984	he
+T685	Sir_Jacob_Borrodaile-49 7998 8000	he
+T686	Rudolf_narrator-4 8010 8013	you
+T500	Rudolf_narrator-4 8043 8049	Rudolf
+T687	Rose-2 8063 8065	me
+T446	Rose-2 8081 8097	my sister-in-law
+T688	Rudolf_narrator-4 8081 8083	my
+T689	Rose-2 8138 8141	her
+T690	Rose-2 8166 8169	her
+T445	Rudolf_narrator-4 8237 8307	an idle scamp like myself , for whom she has no natural responsibility
+T691	Rudolf_narrator-4 8256 8262	myself
+T692	Rose-2 8274 8277	she
+T693	Rudolf_narrator-4 8310 8311	I
+T694	Rudolf_narrator-4 8353 8354	I
+T695	Rudolf_narrator-4 8380 8381	I
+T696	Rudolf_narrator-4 8470 8471	I
+T501	Rose-2 8481 8495	My dear sister
+T697	Rudolf_narrator-4 8481 8483	My
+T448	Sir_Jacob_Borrodaile-49 8562 8571	Sir Jacob
+T698	Rudolf_narrator-4 8580 8582	me
+T699	Rudolf_narrator-4 8590 8592	me
+T700	Rudolf_narrator-4 8596 8597	I
+T447	Sir_Jacob_Borrodaile-49 8613 8622	Sir Jacob
+T502	Rudolf_narrator-4 8634 8640	Rudolf
+T701	Rudolf_narrator-4 8655 8658	you
+T702	Rose-2 8661 8662	I
+T703	Sir_Jacob_Borrodaile-49 8686 8688	he
+T704	Sir_Jacob_Borrodaile-49 8704 8706	He
+T503	a_good_Embassy-51 8748 8762	a good Embassy
+T504	Rose-2 8769 8775	Madame
+T705	Rudolf_narrator-4 8785 8786	I
+T706	Rose-2 8795 8799	your
+T707	Rudolf_narrator-4 8805 8806	I
+T708	Rudolf_narrator-4 8865 8866	I
+T709	Rudolf_narrator-4 8880 8881	I
+T710	Rudolf_narrator-4 8909 8911	My
+T712	Rudolf_narrator-4 9037 9039	me
+T713	Rudolf_narrator-4 9044 9046	my
+T714	Rudolf_narrator-4 9070 9071	I
+T451	attaches-52 9080 9088	attaches
+T715	Rudolf_narrator-4 9111 9112	I
+T716	Rudolf_narrator-4 9128 9129	I
+T449	Sir_Jacob_Borrodaile-49 9154 9163	Sir Jacob
+T717	Rudolf_narrator-4 9184 9185	I
+T719	Rudolf_narrator-4 9259 9261	me
+T720	Rudolf_narrator-4 9276 9277	I
+T505	Ruritania-13 9290 9299	Ruritania
+T721	Rudolf_narrator-4 9327 9328	I
+T506	Ruritania-13 9347 9359	that country
+T453	my_father-53 9370 9379	my father
+T722	Rudolf_narrator-4 9370 9372	my
+T507	the_Elphbergs-1 9418 9431	the Elphbergs
+T723	my_father-53 9444 9447	him
+T724	Rudolf_narrator-4 9456 9458	me
+T725	my_father-53 9461 9464	his
+T726	Rudolf_narrator-4 9543 9545	my
+T727	my_father-53 9566 9569	his
+T452	Robert_brother-5 9578 9607	my brother , prompted by Rose
+T728	Rudolf_narrator-4 9578 9580	my
+T509	Rose-2 9603 9607	Rose
+T510	the_family-54 9623 9633	the family
+T511	Ruritania-13 9694 9706	that country
+T456	Ruritania-13 9724 9733	Ruritania
+T729	Rudolf_narrator-4 9748 9750	my
+T730	Rudolf_narrator-4 9756 9757	I
+T458	the_Elphbergs-1 9856 9877	the House of Elphberg
+T512	the_Elphbergs-1 9869 9877	Elphberg
+T731	Rudolf_narrator-4 9956 9962	myself
+T513	Ruritania-13 9986 10028	a highly interesting and important kingdom
+T514	Rudolf_the_Fifth-55 10134 10202	a young and vigorous ruler , such as the new King was rumoured to be
+T457	Rudolf_the_Fifth-55 10171 10183	the new King
+T732	Rudolf_narrator-4 10205 10207	My
+T459	Rudolf_the_Fifth-55 10268 10284	Rudolf the Fifth
+T460	Strelsau-56 10306 10314	Strelsau
+T733	Rudolf_narrator-4 10418 10419	I
+T734	Rudolf_narrator-4 10428 10430	my
+T735	Rudolf_narrator-4 10462 10464	my
+T736	Rudolf_narrator-4 10516 10518	my
+T462	my_relatives-57 10539 10551	my relatives
+T737	Rudolf_narrator-4 10539 10541	my
+T738	Rudolf_narrator-4 10573 10575	my
+T739	Rudolf_narrator-4 10602 10603	I
+T740	Rudolf_narrator-4 10630 10632	my
+T741	Rudolf_narrator-4 10642 10643	I
+T742	Rudolf_narrator-4 10658 10659	I
+T461	the_Tyrol-58 10686 10695	the Tyrol
+T516	Rose-2 10739 10743	Rose
+T743	Rudolf_narrator-4 10771 10772	I
+T517	the_interesting_community_which_dwells_in_that_neighbourhood-59 10828 10888	the interesting community which dwells in that neighbourhood
+T518	the_Tyrol-58 10870 10888	that neighbourhood
+R1	cop Arg1:T2 Arg2:T173
+R2	cop Arg1:T370 Arg2:T173
+R3	appos Arg1:T6 Arg2:T4
+R4	cop Arg1:T19 Arg2:T231
+R5	cop Arg1:T107 Arg2:T242
+R6	cop Arg1:T30 Arg2:T34
+R7	cop Arg1:T53 Arg2:T45
+R8	appos Arg1:T47 Arg2:T120
+R9	appos Arg1:T48 Arg2:T120
+R10	appos Arg1:T46 Arg2:T120
+R11	cop Arg1:T62 Arg2:T283
+R12	cop Arg1:T63 Arg2:T283
+R14	cop Arg1:T373 Arg2:T129
+R16	appos Arg1:T81 Arg2:T350
+R17	appos Arg1:T141 Arg2:T87
+T94	NOM_PER 2122 2129	My dear
+T374	Rose-2 2122 2129	My dear
+T791	PRON_GPE 9795 9797	it
+T792	Ruritania-13 9795 9797	it
+T5	an_attache-700 8017 8027	an attache
+T61	attache_to_Sir_Jacob-701 9143 9179	attache to Sir Jacob or anybody else

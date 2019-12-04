@@ -1,0 +1,596 @@
+T2	PROP_FAC 183 197	Greenhill Lane
+T7	PROP_PER 545 555	Charles II
+T8	NOM_LOC 461 476	the countryside
+T10	NOM_PER 1018 1032	the financiers
+T11	PROP_GPE 1062 1077	Nottinghamshire
+T12	PROP_GPE 1082 1092	Derbyshire
+T15	NOM_LOC 1253 1280	the edge of Sherwood Forest
+T18	PROP_PER 1174 1189	Lord Palmerston
+T21	PROP_GPE 1539 1544	Selby
+T22	PROP_GPE 2001 2006	Crich
+T25	PROP_GPE 1960 1969	Beggarlee
+T26	PROP_PER 1724 1739	the Carthusians
+T28	NOM_LOC 2067 2082	the countryside
+T29	NOM_FAC 1865 1896	the farmlands of the valleyside
+T31	NOM_LOC 1882 1896	the valleyside
+T33	NOM_PER 2164 2170	miners
+T35	NOM_FAC 2314 2334	the site of Hell Row
+T36	NOM_FAC 2350 2361	the Bottoms
+T37	NOM_FAC 2364 2375	The Bottoms
+T39	NOM_PER 2403 2409	miners
+T40	NOM_FAC 2904 2923	the sunny top block
+T41	NOM_PER 3109 3121	the colliers
+T42	NOM_PER 3105 3129	all the colliers ' wives
+T43	NOM_FAC 3243 3264	a scrubby back garden
+T44	NOM_PER 3377 3389	the children
+T45	NOM_PER 3424 3431	the men
+T46	NOM_PER 3401 3410	the women
+T47	NOM_FAC 3481 3492	the Bottoms
+T48	PROP_PER 3668 3678	Mrs. Morel
+T50	NOM_FAC 3708 3756	the Bottoms , which was already twelve years old
+T51	NOM_PER 3932 3950	only one neighbour
+T54	NOM_PER 4066 4107	the other women of the “ between ” houses
+T55	PROP_PER 4254 4264	Mrs. Morel
+T57	NOM_PER 4445 4462	the Bottoms women
+T59	NOM_PER 4523 4537	her third baby
+T60	NOM_PER 4540 4551	Her husband
+T62	NOM_PER 4768 4784	The two children
+T63	NOM_PER 4817 4831	a boy of seven
+T64	PROP_PER 4977 4987	Mrs. Morel
+T66	NOM_PER 5021 5035	her neighbours
+T67	NOM_PER 5077 5092	the little girl
+T68	PROP_PER 5151 5158	William
+T72	NOM_PER 5406 5413	the man
+T73	NOM_PER 5487 5497	the mother
+T75	NOM_PER 5814 5824	the mother
+T76	NOM_PER 5896 5903	The lad
+T77	NOM_PER 6018 6025	the boy
+T80	NOM_PER 6217 6227	his mother
+T81	NOM_PER 6423 6433	the mother
+T82	NOM_PER 6448 6455	The boy
+T83	PROP_PER 6581 6586	Annie
+T84	NOM_PER 6678 6688	the mother
+T85	NOM_PER 6768 6777	her child
+T86	NOM_LOC 6806 6816	the fields
+T87	PROP_PER 6886 6896	Mrs. Morel
+T91	NOM_PER 7138 7156	the Aunt Sally man
+T92	NOM_PER 7174 7192	the peep-show lady
+T93	NOM_PER 7099 7115	the cocoanut man
+T94	NOM_PER 7195 7205	The mother
+T95	NOM_PER 7355 7368	two white men
+T96	NOM_PER 7327 7334	a negro
+T97	PROP_PER 7408 7413	Annie
+T98	NOM_PER 7443 7450	the lad
+T100	NOM_PER 7581 7590	three men
+T103	NOM_PER 8350 8361	a small boy
+T104	NOM_PER 8384 8398	no other woman
+T105	NOM_PER 8406 8417	such a lady
+T106	NOM_PER 8498 8512	women she knew
+T107	NOM_PER 8546 8553	her son
+T108	NOM_PER 8873 8880	her son
+T109	NOM_PER 8848 8863	her little girl
+T110	NOM_PER 9113 9124	her husband
+T113	NOM_PER 9043 9046	men
+T116	NOM_PER 9383 9389	my dad
+T117	NOM_PER 9424 9434	the mother
+T118	NOM_PER 45 55	THE MORELS
+T119	PROP_FAC 100 108	Hell Row
+T120	NOM_FAC 113 197	a block of thatched , bulging cottages that stood by the brookside on Greenhill Lane
+T1	NOM_LOC 166 179	the brookside
+T121	NOM_PER 212 274	the colliers who worked in the little gin-pits two fields away
+T122	NOM_FAC 200 205	There
+T123	NOM_LOC 277 286	The brook
+T124	NOM_FAC 334 445	these small mines , whose coal was drawn to the surface by donkeys that plodded wearily in a circle round a gin
+T125	NOM_FAC 440 445	a gin
+T126	NOM_FAC 482 497	these same pits
+T4	NOM_PER 558 574	the few colliers
+T6	NOM_LOC 621 630	the earth
+T5	NOM_LOC 683 698	the corn-fields
+T9	NOM_LOC 703 714	the meadows
+T127	NOM_FAC 721 733	the cottages
+T128	NOM_PER 737 754	these coal-miners
+T129	NOM_FAC 808 873	odd farms and homes of the stockingers , straying over the parish
+T130	NOM_PER 831 846	the stockingers
+T131	NOM_FAC 863 873	the parish
+T132	NOM_GPE 883 906	the village of Bestwood
+T133	NOM_FAC 968 976	gin-pits
+T134	NOM_FAC 999 1032	the large mines of the financiers
+T135	NOM_LOC 1035 1092	The coal and iron field of Nottinghamshire and Derbyshire
+T13	PROP_FAC 1235 1247	Spinney Park
+T14	NOM_FAC 58 69	THE BOTTOMS
+T16	PROP_FAC 87 95	Hell Row
+T32	NOM_FAC 2203 2214	the Squares
+T34	NOM_FAC 2217 2275	great quadrangles of dwellings on the hillside of Bestwood
+T136	PROP_GPE 2267 2275	Bestwood
+T138	NOM_LOC 2251 2275	the hillside of Bestwood
+T139	NOM_FAC 2389 2421	six blocks of miners ' dwellings
+T140	NOM_FAC 2424 2441	two rows of three
+T38	NOM_FAC 2486 2510	twelve houses in a block
+T141	NOM_FAC 2486 2499	twelve houses
+T20	PROP_FAC 1299 1321	the notorious Hell Row
+T142	NOM_LOC 1508 1556	the valleys of the brooks from Selby and Nuttall
+T143	PROP_GPE 1549 1556	Nuttall
+T144	NOM_FAC 1603 1611	six pits
+T145	NOM_FAC 1559 1568	new mines
+T146	PROP_GPE 1627 1634	Nuttall
+T147	NOM_FAC 1703 1739	the ruined priory of the Carthusians
+T23	PROP_PER 1749 1759	Robin Hood
+T24	NOM_FAC 1749 1767	Robin Hood 's Well
+T148	PROP_FAC 1778 1790	Spinney Park
+T149	PROP_FAC 1804 1810	Minton
+T150	NOM_FAC 1813 1843	a large mine among corn-fields
+T151	PROP_FAC 1851 1857	Minton
+T27	PROP_LOC 1900 1914	Bunker 's Hill
+T152	PROP_GPE 1974 1979	Selby
+T153	PROP_GPE 2024 2034	Derbyshire
+T154	NOM_LOC 2011 2034	the hills of Derbyshire
+T155	NOM_FAC 2037 2082	six mines like black studs on the countryside
+T19	NOM_LOC 2292 2308	the brook valley
+T30	NOM_FAC 2699 2709	The houses
+T137	NOM_FAC 2118 2129	the railway
+T17	PROP_GPE 3814 3822	Bestwood
+T156	NOM_FAC 3879 3916	an end house in one of the top blocks
+T52	NOM_FAC 3902 3916	the top blocks
+T53	NOM_FAC 4011 4023	an end house
+T157	NOM_FAC 4085 4107	the “ between ” houses
+T56	NOM_PER 4333 4394	A rather small woman , of delicate mould but resolute bearing
+T58	NOM_FAC 4445 4456	the Bottoms
+T158	NOM_PER 4556 4563	a miner
+T61	NOM_FAC 4588 4602	their new home
+T159	PROP_PER 4650 4655	Morel
+T160	PROP_PER 4807 4814	William
+T161	NOM_FAC 4888 4904	the wakes ground
+T162	PROP_PER 4915 4920	Annie
+T65	NOM_PER 5197 5289	a very active lad , fair-haired , freckled , with a touch of the Dane or Norwegian about him
+T69	NOM_PER 5317 5323	mother
+T70	NOM_PER 5532 5545	his blue eyes
+T71	NOM_PER 5741 5748	the boy
+T74	NOM_PER 5950 5959	the three
+T79	NOM_LOC 6733 6741	the hill
+T88	NOM_FAC 6910 6919	the wakes
+T89	NOM_PER 7220 7223	son
+T90	NOM_FAC 7250 7272	the Lion Wallace booth
+T99	NOM_FAC 8959 8968	the wakes
+T101	NOM_FAC 8986 9032	the open ground in front of the Moon and Stars
+T102	NOM_PER 9174 9181	her son
+T111	NOM_FAC 124 197	thatched , bulging cottages that stood by the brookside on Greenhill Lane
+T3	NOM_FAC 239 274	the little gin-pits two fields away
+T78	NOM_PER 6636 6668	whining , wizzening little stick
+T166	NOM_PER 6886 6890	Mrs.
+T112	NOM_PER 3573 3579	people
+T114	NOM_ORG 1206 1217	the company
+T115	NOM_ORG 1110 1133	Carston , Waite and Co.
+T167	NOM_FAC 1206 1231	the company 's first mine
+T168	NOM_ORG 1436 1457	Carston , Waite & Co.
+T169	NOM_ORG 2173 2196	Carston , Waite and Co.
+T170	NOM_PER 5051 5092	no one with whom to trust the little girl
+T171	NOM_LOC 1931 1936	there
+T172	NOM_FAC 2790 2839	little front gardens with auriculas and saxifrage
+T173	NOM_FAC 3989 3995	garden
+T175	PRON_ORG 1464 1468	they
+T176	PRON_ORG 2337 2341	they
+T177	PRON_FAC 2710 2720	themselves
+T178	PRON_PER 3789 3792	she
+T179	PRON_PER 3845 3848	she
+T180	PRON_PER 3871 3874	she
+T181	PRON_PER 4026 4029	she
+T182	PRON_PER 4118 4121	her
+T183	PRON_PER 4267 4270	She
+T184	PRON_PER 4397 4400	she
+T185	PRON_PER 4465 4468	She
+T186	PRON_PER 4523 4526	her
+T187	PRON_PER 4540 4543	Her
+T188	PRON_PER 4566 4570	They
+T189	PRON_PER 4588 4593	their
+T190	PRON_PER 4658 4661	she
+T191	PRON_PER 4704 4706	He
+T192	PRON_PER 4992 4995	her
+T193	PRON_PER 5003 5006	She
+T194	PRON_PER 5021 5024	her
+T195	PRON_PER 5098 5101	she
+T196	PRON_PER 5119 5122	her
+T197	PRON_PER 5190 5192	He
+T198	PRON_PER 5286 5289	him
+T199	PRON_PER 5298 5299	I
+T200	PRON_PER 5305 5307	my
+T201	PRON_PER 5328 5330	he
+T202	PRON_PER 5355 5358	his
+T203	PRON_PER 5428 5431	You
+T204	PRON_PER 5441 5445	your
+T205	PRON_PER 5521 5523	he
+T206	PRON_PER 5532 5535	his
+T207	PRON_PER 5557 5560	her
+T208	PRON_PER 5585 5586	I
+T209	PRON_PER 5613 5616	You
+T210	PRON_PER 5714 5718	They
+T211	PRON_PER 5779 5782	You
+T212	PRON_PER 5797 5801	they
+T213	PRON_PER 5872 5875	you
+T214	PRON_PER 5971 5975	They
+T215	PRON_PER 6037 6040	his
+T216	PRON_PER 6183 6186	His
+T217	PRON_PER 6204 6206	he
+T218	PRON_PER 6217 6220	his
+T219	PRON_PER 6232 6233	I
+T220	PRON_PER 6239 6242	you
+T221	PRON_PER 6247 6249	he
+T222	PRON_PER 6284 6287	his
+T223	PRON_PER 6301 6305	your
+T224	PRON_PER 6317 6321	your
+T225	PRON_PER 6364 6367	you
+T226	PRON_PER 6382 6385	you
+T227	PRON_PER 6399 6403	your
+T228	PRON_PER 6496 6499	his
+T229	PRON_PER 6544 6545	I
+T230	PRON_PER 6559 6560	I
+T231	PRON_PER 6621 6624	you
+T232	PRON_PER 6718 6721	she
+T233	PRON_PER 6768 6771	her
+T234	PRON_PER 7216 7219	her
+T235	PRON_PER 7371 7374	She
+T236	PRON_PER 7380 7383	him
+T237	PRON_PER 7469 7472	her
+T238	PRON_PER 7494 7497	You
+T239	PRON_PER 7509 7512	you
+T240	PRON_PER 7594 7595	I
+T241	PRON_PER 7606 7608	my
+T242	PRON_PER 7640 7642	He
+T243	PRON_PER 7655 7658	his
+T245	PRON_PER 7714 7715	I
+T248	PRON_PER 7797 7798	I
+T249	PRON_PER 7883 7884	I
+T250	PRON_PER 7902 7905	She
+T251	PRON_PER 7911 7913	he
+T253	PRON_PER 7930 7933	her
+T254	PRON_PER 7947 7950	she
+T256	PRON_PER 7998 8001	you
+T257	PRON_PER 8021 8022	I
+T258	PRON_PER 8059 8061	He
+T259	PRON_PER 8091 8094	she
+T260	PRON_PER 8110 8113	her
+T261	PRON_PER 8140 8143	her
+T262	PRON_PER 8183 8186	she
+T263	PRON_PER 8242 8244	he
+T264	PRON_PER 8273 8275	He
+T265	PRON_PER 8292 8295	her
+T266	PRON_PER 8311 8313	he
+T267	PRON_PER 8329 8332	her
+T268	PRON_PER 8374 8377	her
+T269	PRON_PER 8421 8424	she
+T270	PRON_PER 8434 8437	her
+T271	PRON_PER 8462 8465	her
+T272	PRON_PER 8474 8477	She
+T273	PRON_PER 8490 8493	she
+T274	PRON_PER 8504 8507	she
+T275	PRON_PER 8520 8523	she
+T276	PRON_PER 8534 8537	she
+T277	PRON_PER 8546 8549	her
+T278	PRON_PER 8569 8572	you
+T279	PRON_PER 8605 8608	you
+T280	PRON_PER 8630 8632	he
+T281	PRON_PER 8641 8644	his
+T282	PRON_PER 8699 8700	I
+T283	PRON_PER 8721 8724	you
+T284	PRON_PER 8750 8752	he
+T285	PRON_PER 8766 8769	You
+T286	PRON_PER 8787 8790	you
+T287	PRON_PER 8807 8810	she
+T288	PRON_PER 8822 8825	she
+T289	PRON_PER 8848 8851	her
+T290	PRON_PER 8873 8876	her
+T291	PRON_PER 8896 8899	her
+T292	PRON_PER 8926 8929	her
+T293	PRON_PER 8974 8977	she
+T294	PRON_PER 9033 9036	she
+T295	PRON_PER 9113 9116	her
+T296	PRON_PER 9174 9177	her
+T297	PRON_PER 9244 9246	He
+T298	PRON_PER 9270 9272	he
+T299	PRON_PER 9299 9301	he
+T300	PRON_PER 9310 9313	her
+T301	PRON_PER 9331 9334	she
+T302	PRON_PER 9346 9348	he
+T303	PRON_PER 9365 9368	his
+T304	PRON_PER 9383 9385	my
+T305	PRON_PER 9399 9401	he
+T306	NOM_FAC 5126 5135	the wakes
+T425	THE_MORELS-0 45 55	THE MORELS
+T323	Hell_Row-2 87 95	Hell Row
+T426	Hell_Row-2 100 108	Hell Row
+T418	thatched___bulging_cottages_that_stood_by_the_brookside_on_Greenhill_Lane-3 124 197	thatched , bulging cottages that stood by the brookside on Greenhill Lane
+T309	Greenhill_Lane-5 183 197	Greenhill Lane
+T429	Hell_Row-2 200 205	There
+T428	the_colliers_who_worked_in_the_little_gin-pits_two_fields_away-6 212 274	the colliers who worked in the little gin-pits two fields away
+T310	the_little_gin-pits_two_fields_away-7 239 274	the little gin-pits two fields away
+T430	The_brook-8 277 286	The brook
+T431	these_small_mines___whose_coal_was_drawn_to_the_surface_by_donkeys_that_plodded_wearily_in_a_circle_round_a_gin-9 334 445	these small mines , whose coal was drawn to the surface by donkeys that plodded wearily in a circle round a gin
+T432	a_gin-10 440 445	a gin
+T315	the_countryside-11 461 476	the countryside
+T433	these_same_pits-12 482 497	these same pits
+T314	Charles_II-13 545 555	Charles II
+T311	the_few_colliers-14 558 574	the few colliers
+T313	the_earth-15 621 630	the earth
+T312	the_corn-fields-16 683 698	the corn-fields
+T316	the_meadows-17 703 714	the meadows
+T434	the_cottages-18 721 733	the cottages
+T435	the_colliers_who_worked_in_the_little_gin-pits_two_fields_away-6 737 754	these coal-miners
+T436	odd_farms_and_homes_of_the_stockingers___straying_over_the_parish-19 808 873	odd farms and homes of the stockingers , straying over the parish
+T437	the_stockingers-20 831 846	the stockingers
+T438	the_parish-21 863 873	the parish
+T439	Bestwood-22 883 906	the village of Bestwood
+T440	gin-pits-23 968 976	gin-pits
+T441	the_large_mines_of_the_financiers-24 999 1032	the large mines of the financiers
+T317	the_financiers-25 1018 1032	the financiers
+T442	The_coal_and_iron_field_of_Nottinghamshire_and_Derbyshire-26 1035 1092	The coal and iron field of Nottinghamshire and Derbyshire
+T318	Nottinghamshire-27 1062 1077	Nottinghamshire
+T319	Derbyshire-28 1082 1092	Derbyshire
+T422	Carston___Waite_and_Co_-29 1110 1133	Carston , Waite and Co.
+T325	Lord_Palmerston-30 1174 1189	Lord Palmerston
+T421	Carston___Waite_and_Co_-29 1206 1217	the company
+T474	the_company__s_first_mine-31 1206 1231	the company 's first mine
+T320	Spinney_Park-32 1235 1247	Spinney Park
+T322	the_edge_of_Sherwood_Forest-33 1253 1280	the edge of Sherwood Forest
+T327	Hell_Row-2 1299 1321	the notorious Hell Row
+T475	Carston___Waite_and_Co_-29 1436 1457	Carston , Waite & Co.
+T482	Carston___Waite_and_Co_-29 1464 1468	they
+T449	the_valleys_of_the_brooks_from_Selby_and_Nuttall-34 1508 1556	the valleys of the brooks from Selby and Nuttall
+T328	Selby-35 1539 1544	Selby
+T450	Nuttall-36 1549 1556	Nuttall
+T452	new_mines-37 1559 1568	new mines
+T451	six_pits-38 1603 1611	six pits
+T453	Nuttall-36 1627 1634	Nuttall
+T454	the_ruined_priory_of_the_Carthusians-39 1703 1739	the ruined priory of the Carthusians
+T333	the_Carthusians-40 1724 1739	the Carthusians
+T330	Robin_Hood-41 1749 1759	Robin Hood
+T331	Robin_Hood__s_Well-42 1749 1767	Robin Hood 's Well
+T455	Spinney_Park-32 1778 1790	Spinney Park
+T456	Minton-43 1804 1810	Minton
+T457	a_large_mine_among_corn-fields-44 1813 1843	a large mine among corn-fields
+T458	Minton-43 1851 1857	Minton
+T336	the_farmlands_of_the_valleyside-45 1865 1896	the farmlands of the valleyside
+T338	the_valleyside-46 1882 1896	the valleyside
+T334	Bunker__s_Hill-47 1900 1914	Bunker 's Hill
+T478	Bunker__s_Hill-47 1931 1936	there
+T332	Beggarlee-48 1960 1969	Beggarlee
+T459	Selby-35 1974 1979	Selby
+T329	Crich-49 2001 2006	Crich
+T461	the_hills_of_Derbyshire-50 2011 2034	the hills of Derbyshire
+T460	Derbyshire-28 2024 2034	Derbyshire
+T462	six_mines_like_black_studs_on_the_countryside-51 2037 2082	six mines like black studs on the countryside
+T335	the_countryside-52 2067 2082	the countryside
+T444	the_railway-53 2118 2129	the railway
+T340	miners-54 2164 2170	miners
+T476	Carston___Waite_and_Co_-29 2173 2196	Carston , Waite and Co.
+T339	the_Squares-55 2203 2214	the Squares
+T445	the_hillside_of_Bestwood-56 2251 2275	the hillside of Bestwood
+T443	Bestwood-22 2267 2275	Bestwood
+T326	the_brookside-4 2292 2308	the brook valley
+T342	Hell_Row-2 2314 2334	the site of Hell Row
+T483	Carston___Waite_and_Co_-29 2337 2341	they
+T343	the_Bottoms-57 2350 2361	the Bottoms
+T344	the_Bottoms-57 2364 2375	The Bottoms
+T308	the_brookside-4 166 179	the brookside
+T321	the_Bottoms-57 58 69	THE BOTTOMS
+T446	six_blocks_of_miners___dwellings-58 2389 2421	six blocks of miners ' dwellings
+T346	miners-59 2403 2409	miners
+T447	two_rows_of_three-60 2424 2441	two rows of three
+T345	twelve_houses_in_a_block-61 2486 2510	twelve houses in a block
+T448	twelve_houses-62 2486 2499	twelve houses
+T337	twelve_houses-62 2699 2709	The houses
+T484	twelve_houses-62 2710 2720	themselves
+T479	little_front_gardens_with_auriculas_and_saxifrage-63 2790 2839	little front gardens with auriculas and saxifrage
+T347	the_sunny_top_block-64 2904 2923	the sunny top block
+T349	all_the_colliers___wives-65 3105 3129	all the colliers ' wives
+T348	the_colliers_who_worked_in_the_little_gin-pits_two_fields_away-6 3109 3121	the colliers
+T350	a_scrubby_back_garden-66 3243 3264	a scrubby back garden
+T351	the_children-67 3377 3389	the children
+T353	the_women-68 3401 3410	the women
+T352	the_men-69 3424 3431	the men
+T354	the_Bottoms-57 3481 3492	the Bottoms
+T419	people-70 3573 3579	people
+T355	Mrs__Morel-71 3668 3678	Mrs. Morel
+T357	the_Bottoms-57 3708 3756	the Bottoms , which was already twelve years old
+T485	Mrs__Morel-71 3789 3792	she
+T324	Bestwood-22 3814 3822	Bestwood
+T486	Mrs__Morel-71 3845 3848	she
+T487	Mrs__Morel-71 3871 3874	she
+T463	an_end_house_in_one_of_the_top_blocks-72 3879 3916	an end house in one of the top blocks
+T359	the_top_blocks-73 3902 3916	the top blocks
+T358	only_one_neighbour-74 3932 3950	only one neighbour
+T480	garden-75 3989 3995	garden
+T360	an_end_house-76 4011 4023	an end house
+T488	Mrs__Morel-71 4026 4029	she
+T361	the_other_women_of_the___between___houses-77 4066 4107	the other women of the “ between ” houses
+T464	the___between___houses-78 4085 4107	the “ between ” houses
+T489	Mrs__Morel-71 4118 4121	her
+T362	Mrs__Morel-71 4254 4264	Mrs. Morel
+T490	Mrs__Morel-71 4267 4270	She
+T491	Mrs__Morel-71 4397 4400	she
+T364	the_other_women_of_the___between___houses-77 4445 4462	the Bottoms women
+T365	the_Bottoms-57 4445 4456	the Bottoms
+T492	Mrs__Morel-71 4465 4468	She
+T366	her_third_baby-79 4523 4537	her third baby
+T493	Mrs__Morel-71 4523 4526	her
+T367	Mr__Morel-80 4540 4551	Her husband
+T494	Mrs__Morel-71 4540 4543	Her
+T495	THE_MORELS-0 4566 4570	They
+T368	their_new_home-82 4588 4602	their new home
+T496	THE_MORELS-0 4588 4593	their
+T466	Mr__Morel-80 4650 4655	Morel
+T497	Mrs__Morel-71 4658 4661	she
+T498	Mr__Morel-80 4704 4706	He
+T369	The_two_children-83 4768 4784	The two children
+T467	William_Morel-84 4807 4814	William
+T468	the_wakes_ground-85 4888 4904	the wakes ground
+T469	Annie_Morel-86 4915 4920	Annie
+T371	Mrs__Morel-71 4977 4987	Mrs. Morel
+T499	Mrs__Morel-71 4992 4995	her
+T500	Mrs__Morel-71 5003 5006	She
+T373	her_neighbours-87 5021 5035	her neighbours
+T501	Mrs__Morel-71 5021 5024	her
+T477	no_one_with_whom_to_trust_the_little_girl-88 5051 5092	no one with whom to trust the little girl
+T374	Annie_Morel-86 5077 5092	the little girl
+T502	Mrs__Morel-71 5098 5101	she
+T503	Annie_Morel-86 5119 5122	her
+T375	William_Morel-84 5151 5158	William
+T613	the_wakes_ground-85 5126 5135	the wakes
+T504	William_Morel-84 5190 5192	He
+T505	William_Morel-84 5286 5289	him
+T506	William_Morel-84 5298 5299	I
+T507	William_Morel-84 5305 5307	my
+T376	Mrs__Morel-71 5317 5323	mother
+T508	William_Morel-84 5328 5330	he
+T509	William_Morel-84 5355 5358	his
+T379	the_man-89 5406 5413	the man
+T510	William_Morel-84 5428 5431	You
+T511	William_Morel-84 5441 5445	your
+T380	Mrs__Morel-71 5487 5497	the mother
+T512	William_Morel-84 5521 5523	he
+T377	his_blue_eyes-90 5532 5545	his blue eyes
+T513	William_Morel-84 5532 5535	his
+T514	Mrs__Morel-71 5557 5560	her
+T515	William_Morel-84 5585 5586	I
+T516	Mrs__Morel-71 5613 5616	You
+T517	They-91 5714 5718	They
+T378	William_Morel-84 5741 5748	the boy
+T518	William_Morel-84 5779 5782	You
+T519	They-91 5797 5801	they
+T382	Mrs__Morel-71 5814 5824	the mother
+T520	William_Morel-84 5872 5875	you
+T383	William_Morel-84 5896 5903	The lad
+T381	the_three-92 5950 5959	the three
+T521	the_three-92 5971 5975	They
+T384	William_Morel-84 6018 6025	the boy
+T522	William_Morel-84 6037 6040	his
+T523	William_Morel-84 6183 6186	His
+T524	William_Morel-84 6204 6206	he
+T387	Mrs__Morel-71 6217 6227	his mother
+T525	William_Morel-84 6217 6220	his
+T526	William_Morel-84 6232 6233	I
+T527	Mrs__Morel-71 6239 6242	you
+T528	William_Morel-84 6247 6249	he
+T529	William_Morel-84 6284 6287	his
+T530	William_Morel-84 6301 6305	your
+T531	William_Morel-84 6317 6321	your
+T532	William_Morel-84 6364 6367	you
+T533	William_Morel-84 6382 6385	you
+T534	William_Morel-84 6399 6403	your
+T388	Mrs__Morel-71 6423 6433	the mother
+T389	William_Morel-84 6448 6455	The boy
+T535	William_Morel-84 6496 6499	his
+T536	Annie_Morel-86 6544 6545	I
+T537	Annie_Morel-86 6559 6560	I
+T390	Annie_Morel-86 6581 6586	Annie
+T538	Annie_Morel-86 6621 6624	you
+T385	Annie_Morel-86 6636 6668	whining , wizzening little stick
+T391	Mrs__Morel-71 6678 6688	the mother
+T539	Mrs__Morel-71 6718 6721	she
+T386	the_hill-93 6733 6741	the hill
+T392	Annie_Morel-86 6768 6777	her child
+T540	Mrs__Morel-71 6768 6771	her
+T393	the_fields-94 6806 6816	the fields
+T394	Mrs__Morel-71 6886 6896	Mrs. Morel
+T473	THE_BOTTOMS-1 6886 6890	Mrs.
+T395	the_wakes_ground-85 6910 6919	the wakes
+T400	the_cocoanut_man-95 7099 7115	the cocoanut man
+T398	the_Aunt_Sally_man-96 7138 7156	the Aunt Sally man
+T399	the_peep-show_lady-97 7174 7192	the peep-show lady
+T401	Mrs__Morel-71 7195 7205	The mother
+T541	Mrs__Morel-71 7216 7219	her
+T396	William_Morel-84 7220 7223	son
+T397	the_Lion_Wallace_booth-98 7250 7272	the Lion Wallace booth
+T403	a_negro-99 7327 7334	a negro
+T402	two_white_men-100 7355 7368	two white men
+T542	Mrs__Morel-71 7371 7374	She
+T543	William_Morel-84 7380 7383	him
+T404	Annie_Morel-86 7408 7413	Annie
+T405	William_Morel-84 7443 7450	the lad
+T544	Mrs__Morel-71 7469 7472	her
+T545	Mrs__Morel-71 7494 7497	You
+T546	Mrs__Morel-71 7509 7512	you
+T407	three_men-101 7581 7590	three men
+T547	William_Morel-84 7594 7595	I
+T548	William_Morel-84 7606 7608	my
+T549	William_Morel-84 7640 7642	He
+T550	William_Morel-84 7655 7658	his
+T552	William_Morel-84 7714 7715	I
+T555	William_Morel-84 7797 7798	I
+T556	William_Morel-84 7883 7884	I
+T557	Mrs__Morel-71 7902 7905	She
+T558	William_Morel-84 7911 7913	he
+T560	Mrs__Morel-71 7930 7933	her
+T561	Mrs__Morel-71 7947 7950	she
+T563	William_Morel-84 7998 8001	you
+T564	Mrs__Morel-71 8021 8022	I
+T565	William_Morel-84 8059 8061	He
+T566	Mrs__Morel-71 8091 8094	she
+T567	Mrs__Morel-71 8110 8113	her
+T568	Mrs__Morel-71 8140 8143	her
+T569	Mrs__Morel-71 8183 8186	she
+T570	William_Morel-84 8242 8244	he
+T571	William_Morel-84 8273 8275	He
+T572	Mrs__Morel-71 8292 8295	her
+T573	William_Morel-84 8311 8313	he
+T574	Mrs__Morel-71 8329 8332	her
+T410	a_small_boy-102 8350 8361	a small boy
+T575	Mrs__Morel-71 8374 8377	her
+T411	no_other_woman-103 8384 8398	no other woman
+T412	such_a_lady-104 8406 8417	such a lady
+T576	Mrs__Morel-71 8421 8424	she
+T577	Mrs__Morel-71 8434 8437	her
+T578	Mrs__Morel-71 8462 8465	her
+T579	Mrs__Morel-71 8474 8477	She
+T580	Mrs__Morel-71 8490 8493	she
+T413	women_she_knew-105 8498 8512	women she knew
+T581	Mrs__Morel-71 8504 8507	she
+T582	Mrs__Morel-71 8520 8523	she
+T583	Mrs__Morel-71 8534 8537	she
+T414	William_Morel-84 8546 8553	her son
+T584	Mrs__Morel-71 8546 8549	her
+T585	William_Morel-84 8569 8572	you
+T586	Mrs__Morel-71 8605 8608	you
+T587	William_Morel-84 8630 8632	he
+T588	William_Morel-84 8641 8644	his
+T589	Mrs__Morel-71 8699 8700	I
+T590	Mrs__Morel-71 8721 8724	you
+T591	William_Morel-84 8750 8752	he
+T592	William_Morel-84 8766 8769	You
+T593	William_Morel-84 8787 8790	you
+T594	Mrs__Morel-71 8807 8810	she
+T595	Mrs__Morel-71 8822 8825	she
+T416	Annie_Morel-86 8848 8863	her little girl
+T596	Mrs__Morel-71 8848 8851	her
+T415	William_Morel-84 8873 8880	her son
+T597	Mrs__Morel-71 8873 8876	her
+T598	Mrs__Morel-71 8896 8899	her
+T599	Mrs__Morel-71 8926 8929	her
+T406	the_wakes_ground-85 8959 8968	the wakes
+T600	Mrs__Morel-71 8974 8977	she
+T408	the_open_ground_in_front_of_the_Moon_and_Stars-106 8986 9032	the open ground in front of the Moon and Stars
+T601	Mrs__Morel-71 9033 9036	she
+T420	men-107 9043 9046	men
+T417	Mr__Morel-80 9113 9124	her husband
+T602	Mrs__Morel-71 9113 9116	her
+T409	William_Morel-84 9174 9181	her son
+T603	Mrs__Morel-71 9174 9177	her
+T604	William_Morel-84 9244 9246	He
+T605	William_Morel-84 9270 9272	he
+T606	William_Morel-84 9299 9301	he
+T607	Mrs__Morel-71 9310 9313	her
+T608	Mrs__Morel-71 9331 9334	she
+T609	William_Morel-84 9346 9348	he
+T610	William_Morel-84 9365 9368	his
+T423	Mr__Morel-80 9383 9389	my dad
+T611	William_Morel-84 9383 9385	my
+T612	William_Morel-84 9399 9401	he
+T424	Mrs__Morel-71 9424 9434	the mother
+R1	cop Arg1:T120 Arg2:T119
+R2	appos Arg1:T34 Arg2:T32
+R3	appos Arg1:T56 Arg2:T184
+R4	cop Arg1:T158 Arg2:T60
+R5	appos Arg1:T63 Arg2:T160
+R6	cop Arg1:T65 Arg2:T197
+T614	PRON_FAC 3806 3808	it
+T615	the_Bottoms-57 3806 3808	it
+T49	NOM_FAC 500 513	some of which
+T163	some_of_which-700 500 513	some of which

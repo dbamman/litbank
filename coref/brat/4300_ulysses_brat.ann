@@ -1,0 +1,722 @@
+T4	PROP_PER 605 620	Stephen Dedalus
+T6	NOM_FAC 786 810	the top of the staircase
+T8	PROP_PER 968 981	Buck Mulligan
+T10	NOM_PER 1160 1181	the genuine Christine
+T11	NOM_PER 1104 1114	a preacher
+T13	NOM_PER 1258 1263	gents
+T14	NOM_PER 1590 1598	old chap
+T15	NOM_PER 1727 1738	his watcher
+T18	PROP_PER 2113 2128	Stephen Dedalus
+T21	PROP_PER 2334 2347	Buck Mulligan
+T25	PROP_GPE 2529 2535	Athens
+T26	NOM_PER 2565 2573	the aunt
+T27	NOM_PER 2679 2696	The jejune jesuit
+T28	PROP_PER 2762 2769	Stephen
+T29	PROP_PER 2817 2823	Haines
+T30	PROP_PER 2854 2867	Buck Mulligan
+T32	NOM_PER 2963 2980	A ponderous Saxon
+T34	PROP_GPE 3108 3114	Oxford
+T35	PROP_PER 3340 3347	Stephen
+T36	NOM_PER 3380 3395	A woful lunatic
+T37	PROP_PER 3398 3406	Mulligan
+T38	PROP_PER 3445 3452	Stephen
+T39	NOM_PER 3608 3611	men
+T41	PROP_PER 3687 3700	Buck Mulligan
+T45	PROP_PER 3910 3917	Stephen
+T46	PROP_PER 3995 4002	Stephen
+T48	PROP_PER 4094 4107	Buck Mulligan
+T50	NOM_PER 4188 4196	The bard
+T51	NOM_PER 4231 4246	our Irish poets
+T53	PROP_GPE 4351 4357	Dublin
+T54	PROP_PER 4452 4456	Algy
+T55	NOM_LOC 4468 4488	a great sweet mother
+T57	PROP_PER 4713 4720	Stephen
+T58	NOM_FAC 4832 4861	the harbourmouth of Kingstown
+T59	PROP_GPE 4852 4861	Kingstown
+T60	NOM_LOC 4866 4883	Our mighty mother
+T61	PROP_PER 4886 4899	Buck Mulligan
+T63	PROP_PER 4966 4973	Stephen
+T64	NOM_PER 4986 4994	The aunt
+T65	NOM_PER 5013 5024	your mother
+T66	PROP_PER 5121 5128	Stephen
+T67	NOM_PER 5198 5215	your dying mother
+T68	PROP_PER 5228 5241	Buck Mulligan
+T70	NOM_PER 5299 5310	your mother
+T72	NOM_PER 5588 5620	the loveliest mummer of them all
+T73	PROP_PER 5681 5688	Stephen
+T80	PROP_PER 6474 6487	Buck Mulligan
+T83	PROP_PER 6668 6675	Stephen
+T84	PROP_PER 6687 6700	Buck Mulligan
+T87	PROP_PER 6815 6818	God
+T90	PROP_PER 7017 7024	Stephen
+T91	PROP_PER 7094 7107	Buck Mulligan
+T93	NOM_PER 7172 7182	his mother
+T95	PROP_PER 7303 7310	Stephen
+T96	PROP_PER 7450 7463	Buck Mulligan
+T100	PROP_PER 7517 7532	Connolly Norman
+T104	NOM_PER 7836 7853	you dreadful bard
+T105	PROP_PER 7856 7863	Stephen
+T107	NOM_PER 8016 8046	This dogsbody to rid of vermin
+T109	PROP_PER 8109 8122	Buck Mulligan
+T110	NOM_PER 8088 8098	the skivvy
+T113	NOM_PER 8154 8162	The aunt
+T115	PROP_PER 8202 8209	Malachi
+T116	PROP_PER 8317 8324	Stephen
+T117	PROP_PER 8357 8364	Caliban
+T118	PROP_PER 8415 8420	Wilde
+T119	PROP_PER 8478 8485	Stephen
+T120	NOM_PER 8569 8578	a servant
+T122	PROP_PER 8581 8594	Buck Mulligan
+T124	PROP_PER 8622 8629	Stephen
+T125	PROP_PER 8817 8820	God
+T127	NOM_PER 8984 8993	a servant
+T131	NOM_PER 9125 9139	His old fellow
+T132	PROP_PER 9173 9178	Zulus
+T133	PROP_PER 9319 9325	Cranly
+T135	PROP_PER 9634 9650	Clive Kempthorpe
+T136	PROP_PER 9575 9582	Seymour
+T1	PROP_PER 28 41	Buck Mulligan
+T2	NOM_PER 399 417	you fearful jesuit
+T137	NOM_FAC 52 65	the stairhead
+T138	NOM_FAC 319 342	the dark winding stairs
+T139	NOM_FAC 519 528	the tower
+T140	NOM_LOC 531 551	the surrounding land
+T141	NOM_LOC 556 577	the awaking mountains
+T3	NOM_FAC 1063 1071	barracks
+T5	PROP_PER 725 740	Stephen Dedalus
+T7	NOM_PER 1138 1154	O dearly beloved
+T9	NOM_PER 1184 1197	body and soul
+T12	NOM_PER 1796 1840	The plump shadowed face and sullen oval jowl
+T16	NOM_PER 1850 1895	a prelate , patron of arts in the middle ages
+T17	NOM_FAC 2077 2088	the parapet
+T19	NOM_FAC 2260 2271	the parapet
+T20	PROP_PER 2397 2413	Malachi Mulligan
+T22	PROP_PER 2751 2759	Mulligan
+T24	PROP_PER 2918 2921	God
+T31	NOM_PER 3005 3016	a gentleman
+T33	PROP_PER 3038 3045	English
+T142	PROP_PER 3128 3135	Dedalus
+T143	PROP_GPE 3156 3162	Oxford
+T40	NOM_PER 3637 3643	a hero
+T42	NOM_FAC 3870 3881	the gunrest
+T43	NOM_FAC 457 474	the round gunrest
+T44	NOM_FAC 1693 1704	the gunrest
+T144	NOM_FAC 2199 2210	the gunrest
+T47	NOM_FAC 4314 4325	the parapet
+T49	PROP_PER 4408 4411	God
+T52	NOM_LOC 4439 4446	the sea
+T145	NOM_LOC 4491 4508	The snotgreen sea
+T146	NOM_LOC 4511 4536	The scrotumtightening sea
+T147	PROP_PER 4564 4571	Dedalus
+T148	NOM_PER 4574 4584	the Greeks
+T56	NOM_LOC 4672 4694	our great sweet mother
+T151	NOM_FAC 4747 4758	the parapet
+T153	NOM_VEH 4810 4822	the mailboat
+T62	NOM_LOC 4955 4962	the sea
+T69	PROP_PER 381 386	Kinch
+T149	PROP_PER 3231 3236	Kinch
+T150	PROP_LOC 4351 4361	Dublin bay
+T71	PROP_PER 5580 5585	Kinch
+T79	NOM_PER 5537 5552	a lovely mummer
+T77	NOM_LOC 6173 6211	the sea hailed as a great sweet mother
+T76	NOM_PER 6215 6243	the wellfed voice beside him
+T78	NOM_LOC 6246 6273	The ring of bay and skyline
+T82	NOM_PER 6524 6537	poor dogsbody
+T85	PROP_PER 6956 6961	Kinch
+T88	NOM_LOC 7332 7339	the sea
+T89	NOM_PER 7347 7392	the plump face with its smokeblue mobile eyes
+T92	NOM_PER 7397 7442	That fellow I was with in the Ship last night
+T94	NOM_VEH 7423 7431	the Ship
+T98	PROP_GPE 7501 7511	Dottyville
+T97	NOM_LOC 7669 7676	the sea
+T102	NOM_FAC 8088 8106	the skivvy ’s room
+T103	NOM_PER 8176 8197	plainlooking servants
+T106	PROP_PER 8259 8265	Ursula
+T108	NOM_FAC 8659 8668	the tower
+T111	PROP_PER 8784 8789	Kinch
+T112	NOM_PER 9009 9032	the oxy chap downstairs
+T114	NOM_FAC 9022 9032	downstairs
+T121	PROP_PER 9219 9224	Kinch
+T123	NOM_LOC 9291 9301	the island
+T128	NOM_PER 9387 9398	these swine
+T130	PROP_PER 9522 9528	Haines
+T134	NOM_LOC 4793 4802	the water
+T74	NOM_PER 3515 3595	a man I do n’t know raving and moaning to himself about shooting a black panther
+T155	PRON_PER 201 204	him
+T156	PRON_PER 231 233	He
+T157	PRON_PER 304 306	he
+T158	PRON_PER 399 402	you
+T159	PRON_PER 429 431	he
+T160	PRON_PER 477 479	He
+T161	PRON_PER 623 625	he
+T162	PRON_PER 639 642	him
+T163	PRON_PER 691 694	his
+T164	PRON_PER 714 717	his
+T165	PRON_PER 774 777	his
+T166	PRON_PER 871 874	him
+T167	PRON_PER 1074 1076	he
+T168	PRON_PER 1092 1094	He
+T169	PRON_PER 1246 1250	your
+T170	PRON_PER 1343 1345	He
+T171	PRON_PER 1443 1446	his
+T172	PRON_PER 1601 1603	he
+T173	PRON_PER 1672 1675	you
+T174	PRON_PER 1678 1680	He
+T175	PRON_PER 1727 1730	his
+T176	PRON_PER 1757 1760	his
+T177	PRON_PER 1785 1788	his
+T178	PRON_PER 1934 1937	his
+T179	PRON_PER 1967 1969	he
+T180	PRON_PER 1983 1987	Your
+T181	PRON_PER 2021 2023	He
+T182	PRON_PER 2032 2035	his
+T183	PRON_PER 2103 2110	himself
+T184	PRON_PER 2151 2154	him
+T185	PRON_PER 2222 2225	him
+T186	PRON_PER 2235 2237	he
+T187	PRON_PER 2246 2249	his
+T188	PRON_PER 2373 2375	My
+T189	PRON_PER 2505 2512	himself
+T190	PRON_PER 2515 2517	We
+T191	PRON_PER 2543 2546	you
+T192	PRON_PER 2555 2556	I
+T193	PRON_PER 2600 2602	He
+T194	PRON_PER 2669 2671	he
+T195	PRON_PER 2709 2711	he
+T196	PRON_PER 2746 2748	me
+T197	PRON_PER 2793 2795	my
+T198	PRON_PER 2895 2898	his
+T199	PRON_PER 2931 2933	he
+T200	PRON_PER 2945 2947	he
+T201	PRON_PER 2983 2985	He
+T202	PRON_PER 2993 2996	you
+T203	PRON_PER 3094 3096	he
+T204	PRON_PER 3117 3120	You
+T205	PRON_PER 3138 3141	you
+T206	PRON_PER 3172 3174	He
+T207	PRON_PER 3187 3190	you
+T208	PRON_PER 3201 3203	my
+T209	PRON_PER 3213 3216	you
+T210	PRON_PER 3257 3259	He
+T211	PRON_PER 3279 3282	his
+T212	PRON_PER 3292 3294	He
+T213	PRON_PER 3364 3367	his
+T214	PRON_PER 3419 3422	you
+T215	PRON_PER 3437 3438	I
+T216	PRON_PER 3521 3522	I
+T217	PRON_PER 3557 3564	himself
+T218	PRON_PER 3598 3601	You
+T219	PRON_PER 3628 3629	I
+T220	PRON_PER 3659 3661	he
+T221	PRON_PER 3676 3677	I
+T222	PRON_PER 3726 3729	his
+T223	PRON_PER 3743 3745	He
+T224	PRON_PER 3763 3766	his
+T225	PRON_PER 3793 3796	his
+T226	PRON_PER 3835 3837	he
+T227	PRON_PER 3854 3856	He
+T228	PRON_PER 3950 3952	us
+T229	PRON_PER 3963 3967	your
+T230	PRON_PER 3984 3986	my
+T231	PRON_PER 4012 4015	him
+T232	PRON_PER 4176 4178	he
+T233	PRON_PER 4231 4234	our
+T234	PRON_PER 4261 4264	You
+T235	PRON_PER 4294 4297	you
+T236	PRON_PER 4300 4302	He
+T237	PRON_PER 4364 4367	his
+T238	PRON_PER 4414 4416	he
+T239	PRON_PER 4587 4588	I
+T240	PRON_PER 4600 4603	you
+T241	PRON_PER 4606 4609	You
+T242	PRON_PER 4620 4624	them
+T243	PRON_LOC 4665 4668	She
+T244	PRON_PER 4672 4675	our
+T245	PRON_PER 4775 4777	he
+T246	PRON_PER 4866 4869	Our
+T247	PRON_PER 4907 4909	He
+T248	PRON_PER 4926 4929	his
+T249	PRON_PER 5002 5005	you
+T250	PRON_PER 5013 5017	your
+T251	PRON_PER 5027 5029	he
+T252	PRON_PER 5049 5052	she
+T253	PRON_PER 5064 5066	me
+T254	PRON_PER 5092 5095	you
+T255	PRON_PER 5115 5118	her
+T256	PRON_PER 5147 5150	You
+T257	PRON_PER 5198 5202	your
+T258	PRON_PER 5222 5225	you
+T259	PRON_PER 5249 5250	I
+T260	PRON_PER 5277 5280	you
+T261	PRON_PER 5299 5303	your
+T262	PRON_PER 5319 5322	you
+T263	PRON_PER 5328 5331	her
+T264	PRON_PER 5371 5374	her
+T265	PRON_PER 5381 5384	you
+T266	PRON_PER 5426 5429	you
+T267	PRON_PER 5436 5438	He
+T268	PRON_PER 5476 5479	his
+T269	PRON_PER 5520 5523	his
+T270	PRON_PER 5555 5557	he
+T271	PRON_PER 5570 5577	himself
+T272	PRON_PER 5612 5616	them
+T273	PRON_PER 5623 5625	He
+T274	PRON_PER 5738 5741	his
+T275	PRON_PER 5755 5758	his
+T276	PRON_PER 5797 5800	his
+T277	PRON_PER 5878 5881	his
+T278	PRON_PER 5912 5915	she
+T279	PRON_PER 5928 5931	him
+T280	PRON_PER 5938 5941	her
+T281	PRON_PER 5950 5953	her
+T282	PRON_PER 6044 6047	her
+T283	PRON_PER 6076 6079	him
+T284	PRON_PER 6166 6168	he
+T285	PRON_PER 6240 6243	him
+T286	PRON_PER 6348 6351	her
+T287	PRON_PER 6399 6402	she
+T288	PRON_PER 6420 6423	her
+T289	PRON_PER 6500 6503	his
+T290	PRON_PER 6540 6542	he
+T291	PRON_PER 6566 6567	I
+T292	PRON_PER 6578 6581	you
+T294	PRON_PER 6729 6732	his
+T295	PRON_PER 6766 6768	he
+T298	PRON_PER 6857 6858	I
+T299	PRON_PER 6906 6909	You
+T301	PRON_PER 6938 6939	I
+T302	PRON_PER 6964 6967	You
+T303	PRON_PER 6988 6991	you
+T304	PRON_PER 7032 7033	I
+T307	PRON_PER 7072 7074	He
+T309	PRON_PER 7113 7116	his
+T310	PRON_PER 7163 7165	He
+T311	PRON_PER 7172 7175	his
+T312	PRON_PER 7187 7189	he
+T313	PRON_PER 7218 7220	He
+T314	PRON_PER 7228 7231	his
+T315	PRON_PER 7318 7321	his
+T316	PRON_PER 7409 7410	I
+T317	PRON_PER 7471 7474	you
+T318	PRON_PER 7489 7491	He
+T319	PRON_PER 7569 7571	He
+T320	PRON_PER 7679 7682	His
+T321	PRON_PER 7728 7731	his
+T322	PRON_PER 7777 7780	his
+T323	PRON_PER 7815 7823	yourself
+T324	PRON_PER 7826 7828	he
+T325	PRON_PER 7836 7839	you
+T326	PRON_PER 7914 7917	him
+T327	PRON_PER 7964 7966	he
+T328	PRON_PER 7982 7984	me
+T329	PRON_PER 8011 8013	me
+T330	PRON_PER 8057 8059	me
+T331	PRON_PER 8068 8069	I
+T332	PRON_PER 8138 8141	her
+T333	PRON_PER 8217 8220	him
+T334	PRON_PER 8247 8250	her
+T335	PRON_PER 8285 8287	he
+T336	PRON_PER 8379 8382	his
+T337	PRON_PER 8402 8404	he
+T338	PRON_PER 8444 8447	you
+T339	PRON_PER 8611 8614	his
+T340	PRON_PER 8649 8652	him
+T341	PRON_PER 8671 8674	his
+T342	PRON_PER 8721 8723	he
+T344	PRON_PER 8768 8771	you
+T345	PRON_PER 8800 8802	he
+T346	PRON_PER 8827 8830	you
+T347	PRON_PER 8860 8864	them
+T348	PRON_PER 8883 8885	He
+T349	PRON_PER 8906 8908	my
+T350	PRON_PER 8916 8917	I
+T351	PRON_PER 8931 8934	his
+T352	PRON_PER 9043 9046	him
+T353	PRON_PER 9062 9064	He
+T354	PRON_PER 9099 9102	you
+T355	PRON_PER 9125 9128	His
+T356	PRON_PER 9145 9148	his
+T357	PRON_PER 9230 9233	you
+T358	PRON_PER 9238 9239	I
+T359	PRON_PER 9265 9267	we
+T360	PRON_PER 9335 9338	His
+T361	PRON_PER 9363 9367	your
+T362	PRON_PER 9401 9402	I
+T363	PRON_PER 9435 9438	you
+T364	PRON_PER 9456 9459	you
+T365	PRON_PER 9466 9468	me
+T366	PRON_PER 9486 9489	you
+T367	PRON_PER 9493 9497	your
+T368	PRON_PER 9511 9513	me
+T369	PRON_PER 9534 9536	he
+T370	PRON_PER 9558 9559	I
+T371	PRON_PER 9587 9589	we
+T372	PRON_PER 9599 9602	him
+T373	PRON_PER 9624 9628	they
+T374	NOM_FAC 2841 2851	this tower
+T375	PROP_PER 5185 5190	Kinch
+T377	Buck_Mulligan-0 28 41	Buck Mulligan
+T513	the_stairhead-1 52 65	the stairhead
+T531	Buck_Mulligan-0 201 204	him
+T532	Buck_Mulligan-0 231 233	He
+T533	Buck_Mulligan-0 304 306	he
+T514	the_dark_winding_stairs-2 319 342	the dark winding stairs
+T445	Stephen-3 381 386	Kinch
+T378	Stephen-3 399 417	you fearful jesuit
+T534	Stephen-3 399 402	you
+T535	Buck_Mulligan-0 429 431	he
+T419	the_round_gunrest-4 457 474	the round gunrest
+T536	Buck_Mulligan-0 477 479	He
+T515	the_tower-5 519 528	the tower
+T516	the_surrounding_land-6 531 551	the surrounding land
+T517	the_awaking_mountains-7 556 577	the awaking mountains
+T380	Stephen-3 605 620	Stephen Dedalus
+T537	Buck_Mulligan-0 623 625	he
+T538	Stephen-3 639 642	him
+T539	Buck_Mulligan-0 691 694	his
+T540	Buck_Mulligan-0 714 717	his
+T381	Stephen-3 725 740	Stephen Dedalus
+T541	Buck_Mulligan-0 774 777	his
+T382	the_dark_winding_stairs-2 786 810	the top of the staircase
+T542	Buck_Mulligan-0 871 874	him
+T384	Buck_Mulligan-0 968 981	Buck Mulligan
+T379	barracks-8 1063 1071	barracks
+T543	Buck_Mulligan-0 1074 1076	he
+T544	Buck_Mulligan-0 1092 1094	He
+T387	a_preacher-9 1104 1114	a preacher
+T383	O_dearly_beloved-10 1138 1154	O dearly beloved
+T386	the_genuine_Christine-11 1160 1181	the genuine Christine
+T385	the_genuine_Christine-11 1184 1197	body and soul
+T545	your-12 1246 1250	your
+T389	your-12 1258 1263	gents
+T546	Buck_Mulligan-0 1343 1345	He
+T547	Buck_Mulligan-0 1443 1446	his
+T390	Stephen-3 1590 1598	old chap
+T548	Buck_Mulligan-0 1601 1603	he
+T549	Stephen-3 1672 1675	you
+T550	Buck_Mulligan-0 1678 1680	He
+T420	the_round_gunrest-4 1693 1704	the gunrest
+T391	Stephen-3 1727 1738	his watcher
+T551	Buck_Mulligan-0 1727 1730	his
+T552	Buck_Mulligan-0 1757 1760	his
+T553	Buck_Mulligan-0 1785 1788	his
+T388	Buck_Mulligan-0 1796 1840	The plump shadowed face and sullen oval jowl
+T392	a_prelate___patron_of_arts_in_the_middle_ages-13 1850 1895	a prelate , patron of arts in the middle ages
+T554	Buck_Mulligan-0 1934 1937	his
+T555	Buck_Mulligan-0 1967 1969	he
+T556	Stephen-3 1983 1987	Your
+T557	Buck_Mulligan-0 2021 2023	He
+T558	Buck_Mulligan-0 2032 2035	his
+T393	the_parapet-14 2077 2088	the parapet
+T559	Buck_Mulligan-0 2103 2110	himself
+T394	Stephen-3 2113 2128	Stephen Dedalus
+T560	Buck_Mulligan-0 2151 2154	him
+T520	the_round_gunrest-4 2199 2210	the gunrest
+T561	Buck_Mulligan-0 2222 2225	him
+T562	Buck_Mulligan-0 2235 2237	he
+T563	Buck_Mulligan-0 2246 2249	his
+T395	the_parapet-14 2260 2271	the parapet
+T397	Buck_Mulligan-0 2334 2347	Buck Mulligan
+T564	Buck_Mulligan-0 2373 2375	My
+T396	Buck_Mulligan-0 2397 2413	Malachi Mulligan
+T565	Buck_Mulligan-0 2505 2512	himself
+T566	stephen_and_buck-15 2515 2517	We
+T401	Athens-16 2529 2535	Athens
+T567	Stephen-3 2543 2546	you
+T568	Buck_Mulligan-0 2555 2556	I
+T402	the_aunt-17 2565 2573	the aunt
+T569	Buck_Mulligan-0 2600 2602	He
+T570	Stephen-3 2669 2671	he
+T403	Stephen-3 2679 2696	The jejune jesuit
+T571	Buck_Mulligan-0 2709 2711	he
+T572	Stephen-3 2746 2748	me
+T398	Buck_Mulligan-0 2751 2759	Mulligan
+T404	Stephen-3 2762 2769	Stephen
+T573	Buck_Mulligan-0 2793 2795	my
+T405	Haines-18 2817 2823	Haines
+T750	the_tower-5 2841 2851	this tower
+T406	Buck_Mulligan-0 2854 2867	Buck Mulligan
+T574	Buck_Mulligan-0 2895 2898	his
+T400	God-19 2918 2921	God
+T575	Haines-18 2931 2933	he
+T576	Buck_Mulligan-0 2945 2947	he
+T408	Haines-18 2963 2980	A ponderous Saxon
+T577	Haines-18 2983 2985	He
+T578	Stephen-3 2993 2996	you
+T407	a_gentleman-100000 3005 3016	a gentleman
+T409	English-20 3038 3045	English
+T579	Haines-18 3094 3096	he
+T410	Oxford-21 3108 3114	Oxford
+T580	Stephen-3 3117 3120	You
+T518	Stephen-3 3128 3135	Dedalus
+T581	Stephen-3 3138 3141	you
+T519	Oxford-21 3156 3162	Oxford
+T582	Haines-18 3172 3174	He
+T583	Stephen-3 3187 3190	you
+T584	Buck_Mulligan-0 3201 3203	my
+T585	Stephen-3 3213 3216	you
+T525	Stephen-3 3231 3236	Kinch
+T586	Buck_Mulligan-0 3257 3259	He
+T587	Buck_Mulligan-0 3279 3282	his
+T588	Haines-18 3292 3294	He
+T411	Stephen-3 3340 3347	Stephen
+T589	Haines-18 3364 3367	his
+T412	Haines-18 3380 3395	A woful lunatic
+T413	Buck_Mulligan-0 3398 3406	Mulligan
+T590	Stephen-3 3419 3422	you
+T591	Stephen-3 3437 3438	I
+T414	Stephen-3 3445 3452	Stephen
+T450	Haines-18 3515 3595	a man I do n’t know raving and moaning to himself about shooting a black panther
+T592	Stephen-3 3521 3522	I
+T593	Haines-18 3557 3564	himself
+T594	Buck_Mulligan-0 3598 3601	You
+T415	men-22 3608 3611	men
+T595	Stephen-3 3628 3629	I
+T416	a_hero-100001 3637 3643	a hero
+T596	Haines-18 3659 3661	he
+T597	Stephen-3 3676 3677	I
+T417	Buck_Mulligan-0 3687 3700	Buck Mulligan
+T598	Buck_Mulligan-0 3726 3729	his
+T599	Buck_Mulligan-0 3743 3745	He
+T600	Buck_Mulligan-0 3763 3766	his
+T601	Buck_Mulligan-0 3793 3796	his
+T602	Buck_Mulligan-0 3835 3837	he
+T603	Buck_Mulligan-0 3854 3856	He
+T418	the_round_gunrest-4 3870 3881	the gunrest
+T421	Stephen-3 3910 3917	Stephen
+T604	Buck_Mulligan-0 3950 3952	us
+T605	Stephen-3 3963 3967	your
+T606	Buck_Mulligan-0 3984 3986	my
+T422	Stephen-3 3995 4002	Stephen
+T607	Buck_Mulligan-0 4012 4015	him
+T424	Buck_Mulligan-0 4094 4107	Buck Mulligan
+T608	Buck_Mulligan-0 4176 4178	he
+T426	The_bard-23 4188 4196	The bard
+T427	our_Irish_poets-24 4231 4246	our Irish poets
+T609	our-25 4231 4234	our
+T610	Stephen-3 4261 4264	You
+T611	Stephen-3 4294 4297	you
+T612	Buck_Mulligan-0 4300 4302	He
+T423	the_parapet-14 4314 4325	the parapet
+T429	Dublin-26 4351 4357	Dublin
+T526	Dublin_bay-27 4351 4361	Dublin bay
+T613	Buck_Mulligan-0 4364 4367	his
+T425	God-28 4408 4411	God
+T614	Buck_Mulligan-0 4414 4416	he
+T428	the_sea-29 4439 4446	the sea
+T430	Algy-30 4452 4456	Algy
+T431	the_sea-29 4468 4488	a great sweet mother
+T521	the_sea-29 4491 4508	The snotgreen sea
+T522	the_sea-29 4511 4536	The scrotumtightening sea
+T523	Stephen-3 4564 4571	Dedalus
+T524	the_Greeks-31 4574 4584	the Greeks
+T615	Buck_Mulligan-0 4587 4588	I
+T616	Stephen-3 4600 4603	you
+T617	Stephen-3 4606 4609	You
+T618	the_Greeks-31 4620 4624	them
+T619	the_sea-29 4665 4668	She
+T433	Stephen-3 4713 4720	Stephen
+T527	the_parapet-14 4747 4758	the parapet
+T621	Stephen-3 4775 4777	he
+T510	the_sea-29 4793 4802	the water
+T529	the_mailboat-32 4810 4822	the mailboat
+T434	the_harbourmouth_of_Kingstown-33 4832 4861	the harbourmouth of Kingstown
+T435	Kingstown-34 4852 4861	Kingstown
+T436	the_sea-29 4866 4883	Our mighty mother
+T622	Our-35 4866 4869	Our
+T437	Buck_Mulligan-0 4886 4899	Buck Mulligan
+T623	Buck_Mulligan-0 4907 4909	He
+T624	Buck_Mulligan-0 4926 4929	his
+T438	the_sea-29 4955 4962	the sea
+T439	Stephen-3 4966 4973	Stephen
+T440	the_aunt-17 4986 4994	The aunt
+T625	Stephen-3 5002 5005	you
+T441	your_mother-36 5013 5024	your mother
+T626	Stephen-3 5013 5017	your
+T627	Buck_Mulligan-0 5027 5029	he
+T628	the_aunt-17 5049 5052	she
+T629	Buck_Mulligan-0 5064 5066	me
+T630	Stephen-3 5092 5095	you
+T631	your_mother-36 5115 5118	her
+T442	Stephen-3 5121 5128	Stephen
+T632	Stephen-3 5147 5150	You
+T751	Stephen-3 5185 5190	Kinch
+T443	your_mother-36 5198 5215	your dying mother
+T633	Stephen-3 5198 5202	your
+T634	Stephen-3 5222 5225	you
+T444	Buck_Mulligan-0 5228 5241	Buck Mulligan
+T635	Buck_Mulligan-0 5249 5250	I
+T636	Stephen-3 5277 5280	you
+T446	your_mother-36 5299 5310	your mother
+T637	Stephen-3 5299 5303	your
+T638	Stephen-3 5319 5322	you
+T639	your_mother-36 5328 5331	her
+T640	your_mother-36 5371 5374	her
+T641	Stephen-3 5381 5384	you
+T642	Stephen-3 5426 5429	you
+T643	Buck_Mulligan-0 5436 5438	He
+T644	Buck_Mulligan-0 5476 5479	his
+T645	Buck_Mulligan-0 5520 5523	his
+T455	Stephen-3 5537 5552	a lovely mummer
+T646	Buck_Mulligan-0 5555 5557	he
+T647	Buck_Mulligan-0 5570 5577	himself
+T447	Stephen-3 5580 5585	Kinch
+T648	them-37 5612 5616	them
+T649	Buck_Mulligan-0 5623 5625	He
+T449	Stephen-3 5681 5688	Stephen
+T650	Stephen-3 5738 5741	his
+T651	Stephen-3 5755 5758	his
+T652	Stephen-3 5797 5800	his
+T653	Stephen-3 5878 5881	his
+T654	your_mother-36 5912 5915	she
+T655	Stephen-3 5928 5931	him
+T656	your_mother-36 5938 5941	her
+T657	your_mother-36 5950 5953	her
+T658	your_mother-36 6044 6047	her
+T659	Stephen-3 6076 6079	him
+T660	Stephen-3 6166 6168	he
+T453	the_sea-29 6173 6211	the sea hailed as a great sweet mother
+T452	Buck_Mulligan-0 6215 6243	the wellfed voice beside him
+T661	Stephen-3 6240 6243	him
+T454	The_ring_of_bay_and_skyline-38 6246 6273	The ring of bay and skyline
+T662	your_mother-36 6348 6351	her
+T663	your_mother-36 6399 6402	she
+T664	your_mother-36 6420 6423	her
+T456	Buck_Mulligan-0 6474 6487	Buck Mulligan
+T665	Buck_Mulligan-0 6500 6503	his
+T458	Stephen-3 6524 6537	poor dogsbody
+T666	Buck_Mulligan-0 6540 6542	he
+T667	Buck_Mulligan-0 6566 6567	I
+T668	Stephen-3 6578 6581	you
+T459	Stephen-3 6668 6675	Stephen
+T460	Buck_Mulligan-0 6687 6700	Buck Mulligan
+T670	Buck_Mulligan-0 6729 6732	his
+T671	Buck_Mulligan-0 6766 6768	he
+T463	God-39 6815 6818	God
+T674	Buck_Mulligan-0 6857 6858	I
+T675	Stephen-3 6906 6909	You
+T677	Buck_Mulligan-0 6938 6939	I
+T461	Stephen-3 6956 6961	Kinch
+T678	Stephen-3 6964 6967	You
+T679	Stephen-3 6988 6991	you
+T466	Stephen-3 7017 7024	Stephen
+T680	Stephen-3 7032 7033	I
+T683	Stephen-3 7072 7074	He
+T467	Buck_Mulligan-0 7094 7107	Buck Mulligan
+T685	Buck_Mulligan-0 7113 7116	his
+T686	Stephen-3 7163 7165	He
+T469	your_mother-36 7172 7182	his mother
+T687	Stephen-3 7172 7175	his
+T688	Stephen-3 7187 7189	he
+T689	Buck_Mulligan-0 7218 7220	He
+T690	Buck_Mulligan-0 7228 7231	his
+T471	Stephen-3 7303 7310	Stephen
+T691	Stephen-3 7318 7321	his
+T464	the_sea-29 7332 7339	the sea
+T465	Buck_Mulligan-0 7347 7392	the plump face with its smokeblue mobile eyes
+T468	That_fellow_I_was_with_in_the_Ship_last_night-40 7397 7442	That fellow I was with in the Ship last night
+T692	Buck_Mulligan-0 7409 7410	I
+T470	the_Ship-41 7423 7431	the Ship
+T472	Buck_Mulligan-0 7450 7463	Buck Mulligan
+T693	Stephen-3 7471 7474	you
+T694	That_fellow_I_was_with_in_the_Ship_last_night-40 7489 7491	He
+T474	Dottyville-42 7501 7511	Dottyville
+T476	Connolly_Norman-43 7517 7532	Connolly Norman
+T695	Buck_Mulligan-0 7569 7571	He
+T473	the_sea-29 7669 7676	the sea
+T696	Buck_Mulligan-0 7679 7682	His
+T697	Buck_Mulligan-0 7728 7731	his
+T698	Buck_Mulligan-0 7777 7780	his
+T699	Stephen-3 7815 7823	yourself
+T700	Buck_Mulligan-0 7826 7828	he
+T480	Stephen-3 7836 7853	you dreadful bard
+T701	Stephen-3 7836 7839	you
+T481	Stephen-3 7856 7863	Stephen
+T702	Stephen-3 7914 7917	him
+T703	Buck_Mulligan-0 7964 7966	he
+T704	Stephen-3 7982 7984	me
+T705	Stephen-3 8011 8013	me
+T483	Stephen-3 8016 8046	This dogsbody to rid of vermin
+T706	Stephen-3 8057 8059	me
+T707	Buck_Mulligan-0 8068 8069	I
+T485	Buck_Mulligan-0 8109 8122	Buck Mulligan
+T708	her-46 8138 8141	her
+T489	the_aunt-17 8154 8162	The aunt
+T479	plainlooking_servants-47 8176 8197	plainlooking servants
+T491	Malachi-48 8202 8209	Malachi
+T709	Malachi-48 8217 8220	him
+T710	her-46 8247 8250	her
+T482	her-46 8259 8265	Ursula
+T711	Buck_Mulligan-0 8285 8287	he
+T492	Stephen-3 8317 8324	Stephen
+T493	Caliban-49 8357 8364	Caliban
+T712	Caliban-49 8379 8382	his
+T713	Buck_Mulligan-0 8402 8404	he
+T494	Wilde-50 8415 8420	Wilde
+T714	Stephen-3 8444 8447	you
+T495	Stephen-3 8478 8485	Stephen
+T496	her-46 8569 8578	a servant
+T478	the_skivvy__s_room-51 8088 8106	the skivvy ’s room
+T486	her-46 8088 8098	the skivvy
+T498	Buck_Mulligan-0 8581 8594	Buck Mulligan
+T715	Buck_Mulligan-0 8611 8614	his
+T500	Stephen-3 8622 8629	Stephen
+T716	Stephen-3 8649 8652	him
+T484	the_tower-5 8659 8668	the tower
+T717	Buck_Mulligan-0 8671 8674	his
+T718	Buck_Mulligan-0 8721 8723	he
+T720	Stephen-3 8768 8771	you
+T487	Stephen-3 8784 8789	Kinch
+T721	Buck_Mulligan-0 8800 8802	he
+T501	God-19 8817 8820	God
+T722	Stephen-3 8827 8830	you
+T723	them-52 8860 8864	them
+T724	Buck_Mulligan-0 8883 8885	He
+T725	Stephen-3 8906 8908	my
+T726	Stephen-3 8916 8917	I
+T727	Buck_Mulligan-0 8931 8934	his
+T503	her-46 8984 8993	a servant
+T490	downstairs-54 9022 9032	downstairs
+T488	Haines-18 9009 9032	the oxy chap downstairs
+T728	Haines-18 9043 9046	him
+T729	Haines-18 9062 9064	He
+T730	Stephen-3 9099 9102	you
+T507	His_old_fellow-55 9125 9139	His old fellow
+T731	Haines-18 9125 9128	His
+T732	Haines-18 9145 9148	his
+T508	Zulus-56 9173 9178	Zulus
+T497	Stephen-3 9219 9224	Kinch
+T733	Stephen-3 9230 9233	you
+T734	Buck_Mulligan-0 9238 9239	I
+T735	stephen_and_buck-15 9265 9267	we
+T499	the_island-57 9291 9301	the island
+T509	Cranly-58 9319 9325	Cranly
+T736	Cranly-58 9335 9338	His
+T737	Stephen-3 9363 9367	your
+T504	English-20 9387 9398	these swine
+T738	Buck_Mulligan-0 9401 9402	I
+T739	Stephen-3 9435 9438	you
+T740	Stephen-3 9456 9459	you
+T741	Buck_Mulligan-0 9466 9468	me
+T742	Stephen-3 9486 9489	you
+T743	Stephen-3 9493 9497	your
+T744	Buck_Mulligan-0 9511 9513	me
+T506	Haines-18 9522 9528	Haines
+T745	Haines-18 9534 9536	he
+T746	Buck_Mulligan-0 9558 9559	I
+T512	Seymour-59 9575 9582	Seymour
+T747	we-60 9587 9589	we
+T748	Haines-18 9599 9602	him
+T749	they-61 9624 9628	they
+T511	Clive_Kempthorpe-62 9634 9650	Clive Kempthorpe
+R2	cop Arg1:T56 Arg2:T243
+R3	appos Arg1:T72 Arg2:T71
+T75	NOM_PER 9111 9122	a gentleman
+T81	a-gentleman-9998--1 9111 9122	a gentleman
+T23	our-803 4672 4675	our
+T764	PRON_LOC 4463 4465	it
+T765	the_sea-29 4463 4465	it
+T766	PRON_FAC 4772 4774	it
+T767	the_parapet-14 4772 4774	it
+T774	PRON_PER 7367 7370	its
+T775	Buck_Mulligan-0 7367 7370	its

@@ -1,0 +1,2075 @@
+#begin document (805_this_side_of_paradise_brat); part 0
+805_this_side_of_paradise_brat	0	0	BOOK	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	ONE	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	The	_	_	_	_	_	_	_	_	(0
+805_this_side_of_paradise_brat	0	4	Romantic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	Egotist	_	_	_	_	_	_	_	_	0)
+805_this_side_of_paradise_brat	0	6	CHAPTER	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	1	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	1	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	Son	_	_	_	_	_	_	_	_	(99
+805_this_side_of_paradise_brat	0	3	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	Beatrice	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	5	Amory	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	Blaine	_	_	_	_	_	_	_	_	99)|2)
+805_this_side_of_paradise_brat	0	7	inherited	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	his	_	_	_	_	_	_	_	_	(2|(1)
+805_this_side_of_paradise_brat	0	10	mother	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	11	every	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	trait	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	except	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	stray	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	inexpressible	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	few	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	made	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	him	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	23	worth	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	while	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	His	_	_	_	_	_	_	_	_	(3|(1)
+805_this_side_of_paradise_brat	0	1	father	_	_	_	_	_	_	_	_	3)
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	an	_	_	_	_	_	_	_	_	(100
+805_this_side_of_paradise_brat	0	4	ineffectual	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	inarticulate	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	man	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	with	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	taste	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	Byron	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	habit	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	drowsing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	over	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	Encyclopedia	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	Britannica	_	_	_	_	_	_	_	_	100)
+805_this_side_of_paradise_brat	0	22	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	grew	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	wealthy	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	thirty	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	through	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	death	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	two	_	_	_	_	_	_	_	_	(4
+805_this_side_of_paradise_brat	0	32	elder	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	brothers	_	_	_	_	_	_	_	_	4)
+805_this_side_of_paradise_brat	0	34	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	successful	_	_	_	_	_	_	_	_	(101
+805_this_side_of_paradise_brat	0	36	Chicago	_	_	_	_	_	_	_	_	(5)
+805_this_side_of_paradise_brat	0	37	brokers	_	_	_	_	_	_	_	_	101)
+805_this_side_of_paradise_brat	0	38	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	first	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	flush	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	feeling	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	the	_	_	_	_	_	_	_	_	(6
+805_this_side_of_paradise_brat	0	48	world	_	_	_	_	_	_	_	_	6)
+805_this_side_of_paradise_brat	0	49	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	his	_	_	_	_	_	_	_	_	(3)
+805_this_side_of_paradise_brat	0	51	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	went	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	54	Bar	_	_	_	_	_	_	_	_	(7
+805_this_side_of_paradise_brat	0	55	Harbor	_	_	_	_	_	_	_	_	7)
+805_this_side_of_paradise_brat	0	56	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	57	met	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	58	Beatrice	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	59	O'Hara	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	60	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	In	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	consequence	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	Stephen	_	_	_	_	_	_	_	_	(3
+805_this_side_of_paradise_brat	0	4	Blaine	_	_	_	_	_	_	_	_	3)
+805_this_side_of_paradise_brat	0	5	handed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	down	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	posterity	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	his	_	_	_	_	_	_	_	_	(3)
+805_this_side_of_paradise_brat	0	10	height	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	just	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	under	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	six	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	feet	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	his	_	_	_	_	_	_	_	_	(3)
+805_this_side_of_paradise_brat	0	18	tendency	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	waver	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	crucial	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	moments	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	these	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	two	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	abstractions	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	appearing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	his	_	_	_	_	_	_	_	_	(1|(3)
+805_this_side_of_paradise_brat	0	31	son	_	_	_	_	_	_	_	_	1)
+805_this_side_of_paradise_brat	0	32	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	33	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	For	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	many	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	years	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	he	_	_	_	_	_	_	_	_	(3)
+805_this_side_of_paradise_brat	0	4	hovered	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	background	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	his	_	_	_	_	_	_	_	_	(8|(3)
+805_this_side_of_paradise_brat	0	10	family	_	_	_	_	_	_	_	_	8)
+805_this_side_of_paradise_brat	0	11	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	life	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	an	_	_	_	_	_	_	_	_	(3
+805_this_side_of_paradise_brat	0	15	unassertive	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	figure	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	with	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	face	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	half-obliterated	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	by	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	lifeless	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	silky	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	hair	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	continually	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	occupied	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	taking	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	care	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	his	_	_	_	_	_	_	_	_	(2|(3)
+805_this_side_of_paradise_brat	0	36	wife	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	37	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	continually	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	harassed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	by	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	idea	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	he	_	_	_	_	_	_	_	_	(3)
+805_this_side_of_paradise_brat	0	45	did	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	n't	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	could	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	n't	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	understand	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	her	_	_	_	_	_	_	_	_	3)|(2)
+805_this_side_of_paradise_brat	0	52	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	But	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Beatrice	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	2	Blaine	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	3	!	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	There	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	a	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	3	woman	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	4	!	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Early	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	pictures	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	taken	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	her	_	_	_	_	_	_	_	_	(9|(10|(2)
+805_this_side_of_paradise_brat	0	5	father	_	_	_	_	_	_	_	_	9)
+805_this_side_of_paradise_brat	0	6	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	estate	_	_	_	_	_	_	_	_	10)
+805_this_side_of_paradise_brat	0	8	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	Lake	_	_	_	_	_	_	_	_	(11
+805_this_side_of_paradise_brat	0	10	Geneva	_	_	_	_	_	_	_	_	11)
+805_this_side_of_paradise_brat	0	11	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	Wisconsin	_	_	_	_	_	_	_	_	(12)
+805_this_side_of_paradise_brat	0	13	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	Rome	_	_	_	_	_	_	_	_	(13)
+805_this_side_of_paradise_brat	0	17	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	the	_	_	_	_	_	_	_	_	(14
+805_this_side_of_paradise_brat	0	19	Sacred	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	Heart	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	Convent	_	_	_	_	_	_	_	_	14)
+805_this_side_of_paradise_brat	0	22	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	educational	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	extravagance	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	29	youth	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	only	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	the	_	_	_	_	_	_	_	_	(15
+805_this_side_of_paradise_brat	0	34	daughters	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	the	_	_	_	_	_	_	_	_	(16
+805_this_side_of_paradise_brat	0	37	exceptionally	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	wealthy	_	_	_	_	_	_	_	_	15)|16)
+805_this_side_of_paradise_brat	0	39	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	showed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	exquisite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	delicacy	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	46	features	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	consummate	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	art	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	simplicity	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	54	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	55	clothes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	56	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	A	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	brilliant	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	education	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	4	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	7	youth	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	passed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	renaissance	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	glory	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	14	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	versed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	latest	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	gossip	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	Older	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	Roman	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	Families	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	known	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	by	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	name	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	a	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	31	fabulously	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	wealthy	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	American	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	girl	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	35	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	Cardinal	_	_	_	_	_	_	_	_	(17
+805_this_side_of_paradise_brat	0	37	Vitori	_	_	_	_	_	_	_	_	17)
+805_this_side_of_paradise_brat	0	38	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	Queen	_	_	_	_	_	_	_	_	(18
+805_this_side_of_paradise_brat	0	40	Margherita	_	_	_	_	_	_	_	_	18)
+805_this_side_of_paradise_brat	0	41	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	more	_	_	_	_	_	_	_	_	(19
+805_this_side_of_paradise_brat	0	43	subtle	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	celebrities	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	one	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	must	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	some	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	culture	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	even	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	54	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	55	heard	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	56	of	_	_	_	_	_	_	_	_	19)
+805_this_side_of_paradise_brat	0	57	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	She	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	1	learned	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	England	_	_	_	_	_	_	_	_	(20)
+805_this_side_of_paradise_brat	0	4	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	prefer	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	whiskey	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	soda	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	wine	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	14	small	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	talk	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	broadened	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	two	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	senses	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	during	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	winter	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	Vienna	_	_	_	_	_	_	_	_	(21)
+805_this_side_of_paradise_brat	0	26	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	All	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	all	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	Beatrice	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	4	O'Hara	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	5	absorbed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	sort	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	education	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	will	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	be	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	quite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	impossible	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	ever	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	again	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	tutelage	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	measured	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	by	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	number	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	things	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	people	_	_	_	_	_	_	_	_	(22)
+805_this_side_of_paradise_brat	0	28	one	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	could	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	be	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	contemptuous	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	charming	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	about	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	culture	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	rich	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	all	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	arts	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	traditions	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	barren	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	all	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	ideas	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	last	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	54	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	55	those	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	56	days	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	57	when	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	58	the	_	_	_	_	_	_	_	_	(23
+805_this_side_of_paradise_brat	0	59	great	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	60	gardener	_	_	_	_	_	_	_	_	23)
+805_this_side_of_paradise_brat	0	61	clipped	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	62	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	63	inferior	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	64	roses	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	65	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	66	produce	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	67	one	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	68	perfect	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	69	bud	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	70	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	In	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	less	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	important	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	moments	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	6	returned	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	America	_	_	_	_	_	_	_	_	(24)
+805_this_side_of_paradise_brat	0	9	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	met	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	Stephen	_	_	_	_	_	_	_	_	(3
+805_this_side_of_paradise_brat	0	12	Blaine	_	_	_	_	_	_	_	_	3)
+805_this_side_of_paradise_brat	0	13	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	married	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	him	_	_	_	_	_	_	_	_	(3)
+805_this_side_of_paradise_brat	0	16	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	this	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	almost	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	entirely	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	because	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	22	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	little	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	bit	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	weary	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	little	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	bit	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	sad	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Her	_	_	_	_	_	_	_	_	(1|(2)
+805_this_side_of_paradise_brat	0	1	only	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	child	_	_	_	_	_	_	_	_	1)
+805_this_side_of_paradise_brat	0	3	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	carried	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	through	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	tiresome	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	season	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	brought	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	into	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	the	_	_	_	_	_	_	_	_	(25
+805_this_side_of_paradise_brat	0	13	world	_	_	_	_	_	_	_	_	25)
+805_this_side_of_paradise_brat	0	14	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	spring	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	day	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	ninety-six	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	When	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	2	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	five	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	5	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	already	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	delightful	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	companion	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	12	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	He	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	1	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	an	_	_	_	_	_	_	_	_	(102
+805_this_side_of_paradise_brat	0	3	auburn-haired	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	boy	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	with	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	great	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	handsome	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	eyes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	which	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	13	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	grow	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	up	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	time	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	facile	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	imaginative	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	mind	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	taste	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	fancy	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	dress	_	_	_	_	_	_	_	_	102)
+805_this_side_of_paradise_brat	0	30	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	From	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	his	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	2	fourth	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	his	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	5	tenth	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	year	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	8	did	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	the	_	_	_	_	_	_	_	_	(26
+805_this_side_of_paradise_brat	0	10	country	_	_	_	_	_	_	_	_	26)
+805_this_side_of_paradise_brat	0	11	with	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	his	_	_	_	_	_	_	_	_	(2|(1)
+805_this_side_of_paradise_brat	0	13	mother	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	14	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	her	_	_	_	_	_	_	_	_	(9|(27|(2)
+805_this_side_of_paradise_brat	0	16	father	_	_	_	_	_	_	_	_	9)
+805_this_side_of_paradise_brat	0	17	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	private	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	car	_	_	_	_	_	_	_	_	27)
+805_this_side_of_paradise_brat	0	20	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	Coronado	_	_	_	_	_	_	_	_	(28)
+805_this_side_of_paradise_brat	0	23	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	where	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	his	_	_	_	_	_	_	_	_	(2|(1)
+805_this_side_of_paradise_brat	0	26	mother	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	27	became	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	so	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	bored	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	32	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	nervous	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	breakdown	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	a	_	_	_	_	_	_	_	_	(29
+805_this_side_of_paradise_brat	0	38	fashionable	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	hotel	_	_	_	_	_	_	_	_	29)
+805_this_side_of_paradise_brat	0	40	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	down	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	Mexico	_	_	_	_	_	_	_	_	(30
+805_this_side_of_paradise_brat	0	44	City	_	_	_	_	_	_	_	_	30)
+805_this_side_of_paradise_brat	0	45	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	where	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	48	took	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	mild	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	almost	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	epidemic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	54	consumption	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	55	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	This	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	trouble	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	pleased	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	4	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	later	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	8	made	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	use	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	intrinsic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	part	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	18	atmosphere	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	especially	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	after	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	several	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	astounding	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	bracers	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	So	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	while	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	more	_	_	_	_	_	_	_	_	(31
+805_this_side_of_paradise_brat	0	4	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	less	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	fortunate	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	little	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	rich	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	boys	_	_	_	_	_	_	_	_	31)
+805_this_side_of_paradise_brat	0	10	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	defying	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	governesses	_	_	_	_	_	_	_	_	(32)
+805_this_side_of_paradise_brat	0	13	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	the	_	_	_	_	_	_	_	_	(33
+805_this_side_of_paradise_brat	0	15	beach	_	_	_	_	_	_	_	_	33)
+805_this_side_of_paradise_brat	0	16	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	Newport	_	_	_	_	_	_	_	_	(34)
+805_this_side_of_paradise_brat	0	18	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	being	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	spanked	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	tutored	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	read	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	Do	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	Dare	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	Frank	_	_	_	_	_	_	_	_	(35)
+805_this_side_of_paradise_brat	0	37	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	the	_	_	_	_	_	_	_	_	(36
+805_this_side_of_paradise_brat	0	39	Mississippi	_	_	_	_	_	_	_	_	36)
+805_this_side_of_paradise_brat	0	40	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	43	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	biting	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	acquiescent	_	_	_	_	_	_	_	_	(37
+805_this_side_of_paradise_brat	0	46	bell-boys	_	_	_	_	_	_	_	_	37)
+805_this_side_of_paradise_brat	0	47	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	the	_	_	_	_	_	_	_	_	(38
+805_this_side_of_paradise_brat	0	49	Waldorf	_	_	_	_	_	_	_	_	38)
+805_this_side_of_paradise_brat	0	50	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	outgrowing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	natural	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	54	repugnance	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	55	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	56	chamber	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	57	music	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	58	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	59	symphonies	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	60	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	61	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	62	deriving	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	63	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	64	highly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	65	specialized	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	66	education	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	67	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	68	his	_	_	_	_	_	_	_	_	(2|(1)
+805_this_side_of_paradise_brat	0	69	mother	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	70	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	2	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Yes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	Beatrice	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	4	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	(	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Such	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	quaint	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	name	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	his	_	_	_	_	_	_	_	_	(2|(1)
+805_this_side_of_paradise_brat	0	7	mother	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	8	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	10	encouraged	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	)	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Dear	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	do	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	n't	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	think	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	getting	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	out	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	bed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	yet	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	I	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	1	've	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	always	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	suspected	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	early	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	rising	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	early	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	life	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	makes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	one	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	nervous	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Clothilde	_	_	_	_	_	_	_	_	(39)
+805_this_side_of_paradise_brat	0	1	is	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	having	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	your	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	4	breakfast	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	brought	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	up	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	All	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	right	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	I	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	am	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	feeling	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	very	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	old	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	to-day	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	9	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	12	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	sigh	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	16	face	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	rare	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	cameo	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	pathos	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	24	voice	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	exquisitely	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	modulated	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	29	hands	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	facile	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	Bernhardt	_	_	_	_	_	_	_	_	(40)
+805_this_side_of_paradise_brat	0	34	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	My	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	nerves	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	are	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	edge	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	edge	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	We	_	_	_	_	_	_	_	_	(41)
+805_this_side_of_paradise_brat	0	1	must	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	leave	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	this	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	terrifying	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	place	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	to-morrow	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	go	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	searching	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	sunshine	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	1	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	penetrating	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	green	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	eyes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	look	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	out	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	through	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	tangled	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	hair	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	his	_	_	_	_	_	_	_	_	(2|(1)
+805_this_side_of_paradise_brat	0	13	mother	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	14	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Even	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	this	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	age	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	5	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	no	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	illusions	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	about	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	2	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Oh	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	yes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	I	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	want	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	you	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	4	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	take	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	red-hot	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	bath	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	hot	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	you	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	13	can	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	bear	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	just	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	relax	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	your	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	21	nerves	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	You	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	1	can	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	read	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	tub	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	if	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	you	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	8	wish	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	She	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	1	fed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	him	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	3	sections	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	Fetes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	Galantes	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	before	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	12	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	ten	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	eleven	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	18	could	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	talk	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	glibly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	if	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	rather	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	reminiscently	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	Brahms	_	_	_	_	_	_	_	_	(42)
+805_this_side_of_paradise_brat	0	28	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	Mozart	_	_	_	_	_	_	_	_	(43)
+805_this_side_of_paradise_brat	0	30	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	Beethoven	_	_	_	_	_	_	_	_	(44)
+805_this_side_of_paradise_brat	0	32	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	One	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	afternoon	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	when	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	left	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	alone	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	the	_	_	_	_	_	_	_	_	(45
+805_this_side_of_paradise_brat	0	8	hotel	_	_	_	_	_	_	_	_	45)
+805_this_side_of_paradise_brat	0	9	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	Hot	_	_	_	_	_	_	_	_	(46
+805_this_side_of_paradise_brat	0	11	Springs	_	_	_	_	_	_	_	_	46)
+805_this_side_of_paradise_brat	0	12	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	14	sampled	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	his	_	_	_	_	_	_	_	_	(2|(1)
+805_this_side_of_paradise_brat	0	16	mother	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	17	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	apricot	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	cordial	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	taste	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	pleased	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	him	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	27	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	29	became	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	quite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	tipsy	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	This	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	fun	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	while	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	but	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	9	essayed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	cigarette	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	his	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	14	exaltation	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	succumbed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	vulgar	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	plebeian	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	reaction	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Though	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	this	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	incident	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	horrified	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	Beatrice	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	also	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	secretly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	amused	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	11	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	became	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	part	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	what	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	later	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	generation	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	been	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	termed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	25	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	line	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	This	_	_	_	_	_	_	_	_	(1
+805_this_side_of_paradise_brat	0	2	son	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	mine	_	_	_	_	_	_	_	_	1)
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	8	heard	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	10	tell	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	a	_	_	_	_	_	_	_	_	(47
+805_this_side_of_paradise_brat	0	12	room	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	full	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	awestruck	_	_	_	_	_	_	_	_	(48
+805_this_side_of_paradise_brat	0	16	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	admiring	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	women	_	_	_	_	_	_	_	_	48)|47)
+805_this_side_of_paradise_brat	0	19	one	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	day	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	is	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	entirely	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	sophisticated	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	quite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	charming	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	but	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	delicate	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	we	_	_	_	_	_	_	_	_	(49)
+805_this_side_of_paradise_brat	0	34	're	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	all	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	delicate	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	here	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	you	_	_	_	_	_	_	_	_	(48)
+805_this_side_of_paradise_brat	0	43	know	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	1	hand	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	radiantly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	outlined	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	against	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	7	beautiful	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	bosom	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	then	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	sinking	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	13	voice	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	whisper	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	19	told	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	them	_	_	_	_	_	_	_	_	(48)
+805_this_side_of_paradise_brat	0	21	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	apricot	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	cordial	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	They	_	_	_	_	_	_	_	_	(48)
+805_this_side_of_paradise_brat	0	1	rejoiced	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	5	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	a	_	_	_	_	_	_	_	_	(103
+805_this_side_of_paradise_brat	0	7	brave	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	raconteuse	_	_	_	_	_	_	_	_	103)
+805_this_side_of_paradise_brat	0	9	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	but	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	many	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	keys	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	turned	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	sideboard	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	locks	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	night	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	against	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	possible	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	defection	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	little	_	_	_	_	_	_	_	_	(50
+805_this_side_of_paradise_brat	0	27	Bobby	_	_	_	_	_	_	_	_	50)
+805_this_side_of_paradise_brat	0	28	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	Barbara	_	_	_	_	_	_	_	_	(51)
+805_this_side_of_paradise_brat	0	30	...	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	These	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	domestic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	pilgrimages	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	invariably	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	state	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	two	_	_	_	_	_	_	_	_	(52
+805_this_side_of_paradise_brat	0	9	maids	_	_	_	_	_	_	_	_	52)
+805_this_side_of_paradise_brat	0	10	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	the	_	_	_	_	_	_	_	_	(53
+805_this_side_of_paradise_brat	0	12	private	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	car	_	_	_	_	_	_	_	_	53)
+805_this_side_of_paradise_brat	0	14	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	Mr.	_	_	_	_	_	_	_	_	(3
+805_this_side_of_paradise_brat	0	17	Blaine	_	_	_	_	_	_	_	_	3)
+805_this_side_of_paradise_brat	0	18	when	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	available	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	very	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	often	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	physician	_	_	_	_	_	_	_	_	(54)
+805_this_side_of_paradise_brat	0	26	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	When	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	2	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	whooping-cough	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	four	_	_	_	_	_	_	_	_	(55
+805_this_side_of_paradise_brat	0	6	disgusted	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	specialists	_	_	_	_	_	_	_	_	55)
+805_this_side_of_paradise_brat	0	8	glared	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	each	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	other	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	hunched	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	around	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	his	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	15	bed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	when	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	19	took	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	scarlet	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	fever	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	number	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	attendants	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	including	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	physicians	_	_	_	_	_	_	_	_	(56)
+805_this_side_of_paradise_brat	0	29	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	nurses	_	_	_	_	_	_	_	_	(57)
+805_this_side_of_paradise_brat	0	31	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	totalled	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	fourteen	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	However	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	blood	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	being	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	thicker	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	than	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	broth	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	9	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	pulled	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	through	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	The	_	_	_	_	_	_	_	_	(8
+805_this_side_of_paradise_brat	0	1	Blaines	_	_	_	_	_	_	_	_	8)
+805_this_side_of_paradise_brat	0	2	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	attached	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	no	_	_	_	_	_	_	_	_	(58
+805_this_side_of_paradise_brat	0	6	city	_	_	_	_	_	_	_	_	58)
+805_this_side_of_paradise_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	They	_	_	_	_	_	_	_	_	(8)
+805_this_side_of_paradise_brat	0	1	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	the	_	_	_	_	_	_	_	_	(8
+805_this_side_of_paradise_brat	0	3	Blaines	_	_	_	_	_	_	_	_	8)
+805_this_side_of_paradise_brat	0	4	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	Lake	_	_	_	_	_	_	_	_	(11
+805_this_side_of_paradise_brat	0	6	Geneva	_	_	_	_	_	_	_	_	11)
+805_this_side_of_paradise_brat	0	7	;	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	they	_	_	_	_	_	_	_	_	(8)
+805_this_side_of_paradise_brat	0	9	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	quite	_	_	_	_	_	_	_	_	(59
+805_this_side_of_paradise_brat	0	11	enough	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	relatives	_	_	_	_	_	_	_	_	59)
+805_this_side_of_paradise_brat	0	13	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	serve	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	place	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	friends	_	_	_	_	_	_	_	_	(60)
+805_this_side_of_paradise_brat	0	19	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	enviable	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	standing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	Pasadena	_	_	_	_	_	_	_	_	(61)
+805_this_side_of_paradise_brat	0	26	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	Cape	_	_	_	_	_	_	_	_	(62
+805_this_side_of_paradise_brat	0	28	Cod	_	_	_	_	_	_	_	_	62)
+805_this_side_of_paradise_brat	0	29	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	But	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Beatrice	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	grew	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	more	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	more	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	prone	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	like	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	only	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	new	_	_	_	_	_	_	_	_	(63
+805_this_side_of_paradise_brat	0	11	acquaintances	_	_	_	_	_	_	_	_	63)
+805_this_side_of_paradise_brat	0	12	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	there	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	certain	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	stories	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	such	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	history	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	25	constitution	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	its	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	many	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	amendments	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	memories	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	34	years	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	abroad	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	necessary	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	43	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	repeat	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	regular	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	intervals	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Like	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Freudian	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	dreams	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	they	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	must	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	be	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	thrown	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	off	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	else	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	they	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	sweep	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	lay	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	siege	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	20	nerves	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	But	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Beatrice	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	critical	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	about	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	American	_	_	_	_	_	_	_	_	(64
+805_this_side_of_paradise_brat	0	6	women	_	_	_	_	_	_	_	_	64)
+805_this_side_of_paradise_brat	0	7	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	especially	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	the	_	_	_	_	_	_	_	_	(65
+805_this_side_of_paradise_brat	0	10	floating	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	population	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	ex-Westerners	_	_	_	_	_	_	_	_	65)
+805_this_side_of_paradise_brat	0	14	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	They	_	_	_	_	_	_	_	_	(65)
+805_this_side_of_paradise_brat	0	2	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	accents	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	my	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	6	dear	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	10	told	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	12	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	not	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	Southern	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	accents	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	Boston	_	_	_	_	_	_	_	_	(66)
+805_this_side_of_paradise_brat	0	19	accents	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	not	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	accent	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	attached	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	any	_	_	_	_	_	_	_	_	(67
+805_this_side_of_paradise_brat	0	27	locality	_	_	_	_	_	_	_	_	67)
+805_this_side_of_paradise_brat	0	28	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	just	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	accent	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	35	became	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	dreamy	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	They	_	_	_	_	_	_	_	_	(65)
+805_this_side_of_paradise_brat	0	2	pick	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	up	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	old	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	moth-eaten	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	London	_	_	_	_	_	_	_	_	(68)
+805_this_side_of_paradise_brat	0	8	accents	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	are	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	down	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	their	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	luck	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	be	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	used	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	by	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	some	_	_	_	_	_	_	_	_	(98
+805_this_side_of_paradise_brat	0	22	one	_	_	_	_	_	_	_	_	98)
+805_this_side_of_paradise_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	They	_	_	_	_	_	_	_	_	(65)
+805_this_side_of_paradise_brat	0	1	talk	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	an	_	_	_	_	_	_	_	_	(69
+805_this_side_of_paradise_brat	0	4	English	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	butler	_	_	_	_	_	_	_	_	69)
+805_this_side_of_paradise_brat	0	6	might	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	after	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	several	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	years	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	a	_	_	_	_	_	_	_	_	(70
+805_this_side_of_paradise_brat	0	12	Chicago	_	_	_	_	_	_	_	_	(5)
+805_this_side_of_paradise_brat	0	13	grand-opera	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	company	_	_	_	_	_	_	_	_	70)
+805_this_side_of_paradise_brat	0	15	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	She	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	1	became	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	almost	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	incoherent	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	Suppose	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	time	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	every	_	_	_	_	_	_	_	_	(71
+805_this_side_of_paradise_brat	0	11	Western	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	woman	_	_	_	_	_	_	_	_	71)
+805_this_side_of_paradise_brat	0	13	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	life	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	17	feels	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	her	_	_	_	_	_	_	_	_	(72|(71)
+805_this_side_of_paradise_brat	0	19	husband	_	_	_	_	_	_	_	_	72)
+805_this_side_of_paradise_brat	0	20	is	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	prosperous	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	enough	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	her	_	_	_	_	_	_	_	_	(71)
+805_this_side_of_paradise_brat	0	25	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	accent	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	they	_	_	_	_	_	_	_	_	(65)
+805_this_side_of_paradise_brat	0	31	try	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	impress	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	me	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	36	_	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	my	_	_	_	_	_	_	_	_	(1|(2)
+805_this_side_of_paradise_brat	0	39	dear	_	_	_	_	_	_	_	_	1)
+805_this_side_of_paradise_brat	0	40	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	Though	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	44	thought	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	47	body	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	mass	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	frailties	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	54	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	55	considered	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	56	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	57	soul	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	58	quite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	59	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	60	ill	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	61	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	62	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	63	therefore	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	64	important	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	65	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	66	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	67	life	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	68	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	She	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	1	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	once	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	been	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	a	_	_	_	_	_	_	_	_	(104
+805_this_side_of_paradise_brat	0	5	Catholic	_	_	_	_	_	_	_	_	104)
+805_this_side_of_paradise_brat	0	6	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	but	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	discovering	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	priests	_	_	_	_	_	_	_	_	(73)
+805_this_side_of_paradise_brat	0	11	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	infinitely	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	more	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	attentive	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	when	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	17	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	process	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	losing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	or	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	regaining	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	faith	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	Mother	_	_	_	_	_	_	_	_	(74
+805_this_side_of_paradise_brat	0	27	Church	_	_	_	_	_	_	_	_	74)
+805_this_side_of_paradise_brat	0	28	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	30	maintained	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	enchantingly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	wavering	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	attitude	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Often	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	deplored	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	bourgeois	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	quality	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	the	_	_	_	_	_	_	_	_	(75
+805_this_side_of_paradise_brat	0	8	American	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	Catholic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	clergy	_	_	_	_	_	_	_	_	75)
+805_this_side_of_paradise_brat	0	11	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	quite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	sure	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	19	lived	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	shadow	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	great	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	Continental	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	cathedrals	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	29	soul	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	still	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	be	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	thin	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	flame	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	mighty	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	altar	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	Rome	_	_	_	_	_	_	_	_	(13)
+805_this_side_of_paradise_brat	0	42	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Still	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	next	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	doctors	_	_	_	_	_	_	_	_	(76)
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	priests	_	_	_	_	_	_	_	_	(73)
+805_this_side_of_paradise_brat	0	7	were	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	9	favorite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	sport	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Ah	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	Bishop	_	_	_	_	_	_	_	_	(77
+805_this_side_of_paradise_brat	0	4	Wiston	_	_	_	_	_	_	_	_	77)
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	8	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	declare	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	I	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	13	do	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	not	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	want	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	talk	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	myself	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	20	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	I	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	1	can	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	imagine	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	stream	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	hysterical	_	_	_	_	_	_	_	_	(78
+805_this_side_of_paradise_brat	0	7	women	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	fluttering	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	your	_	_	_	_	_	_	_	_	(77)
+805_this_side_of_paradise_brat	0	11	doors	_	_	_	_	_	_	_	_	78)
+805_this_side_of_paradise_brat	0	12	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	beseeching	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	you	_	_	_	_	_	_	_	_	(77)
+805_this_side_of_paradise_brat	0	15	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	be	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	simpatico	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	then	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	after	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	interlude	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	filled	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	by	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	the	_	_	_	_	_	_	_	_	(77
+805_this_side_of_paradise_brat	0	27	clergyman	_	_	_	_	_	_	_	_	77)
+805_this_side_of_paradise_brat	0	28	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	but	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	my	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	32	mood	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	is	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	oddly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	dissimilar	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Only	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	bishops	_	_	_	_	_	_	_	_	(79)
+805_this_side_of_paradise_brat	0	3	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	above	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	did	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	7	divulge	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	her	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	9	clerical	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	romance	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	When	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	first	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	returned	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	her	_	_	_	_	_	_	_	_	(80|(2)
+805_this_side_of_paradise_brat	0	7	country	_	_	_	_	_	_	_	_	80)
+805_this_side_of_paradise_brat	0	8	there	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	been	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	a	_	_	_	_	_	_	_	_	(81
+805_this_side_of_paradise_brat	0	12	pagan	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	Swinburnian	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	young	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	man	_	_	_	_	_	_	_	_	81)
+805_this_side_of_paradise_brat	0	17	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	Asheville	_	_	_	_	_	_	_	_	(82)
+805_this_side_of_paradise_brat	0	19	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	whose	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	passionate	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	kisses	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	unsentimental	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	conversations	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	28	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	taken	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	decided	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	penchant	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	they	_	_	_	_	_	_	_	_	(83)
+805_this_side_of_paradise_brat	0	35	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	discussed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	matter	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	pro	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	con	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	with	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	an	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	44	intellectual	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	romancing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	quite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	devoid	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	sappiness	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Eventually	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	she	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	2	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	decided	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	marry	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	for	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	background	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	the	_	_	_	_	_	_	_	_	(81
+805_this_side_of_paradise_brat	0	11	young	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	pagan	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	Asheville	_	_	_	_	_	_	_	_	81)|(82)
+805_this_side_of_paradise_brat	0	15	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	gone	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	through	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	spiritual	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	crisis	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	joined	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	the	_	_	_	_	_	_	_	_	(74
+805_this_side_of_paradise_brat	0	24	Catholic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	Church	_	_	_	_	_	_	_	_	74)
+805_this_side_of_paradise_brat	0	26	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	now	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	Monsignor	_	_	_	_	_	_	_	_	(81
+805_this_side_of_paradise_brat	0	32	Darcy	_	_	_	_	_	_	_	_	81)
+805_this_side_of_paradise_brat	0	33	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Indeed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	Mrs.	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	4	Blaine	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	5	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	he	_	_	_	_	_	_	_	_	(81)
+805_this_side_of_paradise_brat	0	7	is	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	still	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	delightful	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	company	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	quite	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	the	_	_	_	_	_	_	_	_	(84|(81
+805_this_side_of_paradise_brat	0	14	cardinal	_	_	_	_	_	_	_	_	84)
+805_this_side_of_paradise_brat	0	15	's	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	right-hand	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	man	_	_	_	_	_	_	_	_	81)
+805_this_side_of_paradise_brat	0	18	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	2	will	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	go	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	him	_	_	_	_	_	_	_	_	(81)
+805_this_side_of_paradise_brat	0	6	one	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	day	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	I	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	10	know	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	breathed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	the	_	_	_	_	_	_	_	_	(2
+805_this_side_of_paradise_brat	0	15	beautiful	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	lady	_	_	_	_	_	_	_	_	2)
+805_this_side_of_paradise_brat	0	17	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	Monsignor	_	_	_	_	_	_	_	_	(81
+805_this_side_of_paradise_brat	0	21	Darcy	_	_	_	_	_	_	_	_	81)
+805_this_side_of_paradise_brat	0	22	will	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	understand	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	him	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	25	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	he	_	_	_	_	_	_	_	_	(81)
+805_this_side_of_paradise_brat	0	27	understood	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	me	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	29	.	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	”	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	1	became	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	thirteen	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	rather	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	tall	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	slender	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	more	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	than	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	ever	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	his	_	_	_	_	_	_	_	_	(85|(1)
+805_this_side_of_paradise_brat	0	16	Celtic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	mother	_	_	_	_	_	_	_	_	85)
+805_this_side_of_paradise_brat	0	18	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	He	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	1	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	tutored	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	occasionally	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	idea	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	being	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	10	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	keep	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	up	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	each	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	place	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	taking	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	up	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	work	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	where	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	27	left	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	off	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	yet	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	as	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	no	_	_	_	_	_	_	_	_	(86
+805_this_side_of_paradise_brat	0	34	tutor	_	_	_	_	_	_	_	_	86)
+805_this_side_of_paradise_brat	0	35	ever	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	found	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	place	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	40	left	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	off	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	43	his	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	44	mind	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	45	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	still	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	47	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	very	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	good	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	shape	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	What	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	few	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	more	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	years	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	this	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	life	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	made	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	him	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	13	is	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	problematical	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	However	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	four	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	hours	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	out	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	land	_	_	_	_	_	_	_	_	(87)
+805_this_side_of_paradise_brat	0	7	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	Italy	_	_	_	_	_	_	_	_	(88)
+805_this_side_of_paradise_brat	0	9	bound	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	with	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	Beatrice	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	13	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	his	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	15	appendix	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	burst	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	probably	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	from	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	too	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	many	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	meals	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	bed	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	after	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	series	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	frantic	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	telegrams	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	Europe	_	_	_	_	_	_	_	_	(89)
+805_this_side_of_paradise_brat	0	35	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	America	_	_	_	_	_	_	_	_	(24)
+805_this_side_of_paradise_brat	0	37	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	38	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	39	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	40	amazement	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	41	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	42	the	_	_	_	_	_	_	_	_	(90
+805_this_side_of_paradise_brat	0	43	passengers	_	_	_	_	_	_	_	_	90)
+805_this_side_of_paradise_brat	0	44	the	_	_	_	_	_	_	_	_	(91
+805_this_side_of_paradise_brat	0	45	great	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	46	ship	_	_	_	_	_	_	_	_	91)
+805_this_side_of_paradise_brat	0	47	slowly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	48	wheeled	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	49	around	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	50	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	51	returned	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	52	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	53	New	_	_	_	_	_	_	_	_	(92
+805_this_side_of_paradise_brat	0	54	York	_	_	_	_	_	_	_	_	92)
+805_this_side_of_paradise_brat	0	55	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	56	deposit	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	57	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	58	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	59	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	60	pier	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	61	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	You	_	_	_	_	_	_	_	_	(93)
+805_this_side_of_paradise_brat	0	1	will	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	admit	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	if	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	not	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	life	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	magnificent	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	After	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	operation	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	Beatrice	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	4	had	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	nervous	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	breakdown	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	that	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	bore	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	suspicious	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	resemblance	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	delirium	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	tremens	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	Amory	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	19	was	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	left	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	Minneapolis	_	_	_	_	_	_	_	_	(94)
+805_this_side_of_paradise_brat	0	23	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	destined	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	spend	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	28	ensuing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	two	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	years	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	with	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	his	_	_	_	_	_	_	_	_	(95|(1)
+805_this_side_of_paradise_brat	0	33	aunt	_	_	_	_	_	_	_	_	95)
+805_this_side_of_paradise_brat	0	34	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	35	uncle	_	_	_	_	_	_	_	_	(96)
+805_this_side_of_paradise_brat	0	36	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	There	_	_	_	_	_	_	_	_	(94)
+805_this_side_of_paradise_brat	0	1	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	crude	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	vulgar	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	air	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	of	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	Western	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	civilization	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	first	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	catches	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	him	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	12	--	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	in	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	his	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	15	underwear	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	so	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	speak	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	*****	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	A	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	KISS	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	FOR	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	AMORY	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	5	His	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	6	lip	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	curled	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	when	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	he	_	_	_	_	_	_	_	_	(1)
+805_this_side_of_paradise_brat	0	10	read	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	I	_	_	_	_	_	_	_	_	(97)
+805_this_side_of_paradise_brat	0	2	am	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	3	going	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	4	to	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	5	have	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	6	a	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	7	bobbing	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	8	party	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	9	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	10	”	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	11	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	12	said	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	13	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	14	“	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	15	on	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	16	Thursday	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	17	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	18	December	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	19	the	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	20	seventeenth	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	21	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	22	at	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	23	five	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	24	o'clock	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	25	,	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	26	and	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	27	I	_	_	_	_	_	_	_	_	(97)
+805_this_side_of_paradise_brat	0	28	would	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	29	like	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	30	it	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	31	very	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	32	much	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	33	if	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	34	you	_	_	_	_	_	_	_	_	(2)
+805_this_side_of_paradise_brat	0	35	could	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	36	come	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	37	.	_	_	_	_	_	_	_	_	
+
+805_this_side_of_paradise_brat	0	0	Yours	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	1	truly	_	_	_	_	_	_	_	_	
+805_this_side_of_paradise_brat	0	2	,	_	_	_	_	_	_	_	_	
+
+#end document

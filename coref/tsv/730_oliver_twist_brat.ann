@@ -1,0 +1,452 @@
+MENTION	T1	0	19	0	21	other public buildings	FAC	NOM
+MENTION	T2	1	29	1	30	the child	PER	NOM
+MENTION	T3	1	17	1	19	the parish surgeon	PER	NOM
+MENTION	T5	3	11	3	11	Oliver	PER	PROP
+MENTION	T6	4	17	4	18	anxious aunts	PER	NOM
+MENTION	T8	4	14	4	15	careful grandmothers	PER	NOM
+MENTION	T10	4	9	4	9	Oliver	PER	PROP
+MENTION	T11	5	36	5	36	Oliver	PER	PROP
+MENTION	T16	6	21	6	25	the inmates of the workhouse	PER	NOM
+MENTION	T17	6	11	6	11	Oliver	PER	PROP
+MENTION	T18	7	57	7	58	the child	PER	NOM
+MENTION	T19	7	34	7	36	a young woman	PER	NOM
+MENTION	T20	7	1	7	1	Oliver	PER	PROP
+MENTION	T21	8	0	8	1	The surgeon	PER	NOM
+MENTION	T23	9	1	9	3	the young woman	PER	NOM
+MENTION	T25	11	1	11	2	the nurse	PER	NOM
+MENTION	T27	12	21	12	25	thirteen children of her own	PER	NOM
+COREF	T145	new-801
+MENTION	T32	15	0	15	1	The patient	PER	NOM
+MENTION	T33	15	12	15	13	the child	PER	NOM
+MENTION	T34	16	0	16	1	The surgeon	PER	NOM
+MENTION	T38	24	27	24	28	the child	PER	NOM
+MENTION	T39	26	11	26	12	the child	PER	NOM
+MENTION	T40	26	19	26	20	the surgeon	PER	NOM
+MENTION	T41	30	16	30	17	the overseer	PER	NOM
+MENTION	T42	31	5	31	6	the street	FAC	NOM
+MENTION	T43	33	0	33	1	The surgeon	PER	NOM
+MENTION	T44	37	36	37	37	the infant	PER	NOM
+MENTION	T45	37	0	37	2	The medical gentleman	PER	NOM
+MENTION	T46	38	10	38	12	young Oliver Twist	PER	PROP
+MENTION	T48	39	19	39	20	a nobleman	PER	NOM
+MENTION	T49	39	23	39	23	beggar	PER	NOM
+MENTION	T50	39	31	39	33	the haughtiest stranger	PER	NOM
+MENTION	T52	40	34	40	36	a parish child	PER	NOM
+MENTION	T53	40	44	40	48	the humble , half-starved drudge	PER	NOM
+MENTION	T54	41	0	41	0	Oliver	PER	PROP
+MENTION	T56	42	19	42	19	overseers	PER	NOM
+MENTION	T57	43	21	43	21	Oliver	PER	PROP
+MENTION	T58	45	6	45	8	the infant orphan	PER	NOM
+MENTION	T60	46	20	46	21	the house	FAC	NOM
+MENTION	T61	46	31	46	32	Oliver Twist	PER	PROP
+MENTION	T63	48	12	48	12	Oliver	PER	PROP
+MENTION	T64	48	79	48	80	the culprits	PER	NOM
+MENTION	T65	48	39	48	47	twenty or thirty other juvenile offenders against the poor-laws	PER	NOM
+MENTION	T66	49	11	49	12	a child	PER	NOM
+MENTION	T67	50	17	50	17	children	PER	NOM
+MENTION	T69	52	13	52	17	a very great experimental philosopher	PER	NOM
+MENTION	T71	54	38	54	39	the child	PER	NOM
+MENTION	T72	54	114	54	121	the fathers it had never known in this	PER	NOM
+MENTION	T73	55	56	55	57	the farm	FAC	NOM
+MENTION	T74	55	73	55	74	the parishioners	PER	NOM
+MENTION	T75	56	17	56	18	the beadle	PER	NOM
+MENTION	T76	56	10	56	11	the surgeon	PER	NOM
+MENTION	T77	57	8	57	9	the farm	FAC	NOM
+MENTION	T78	57	14	57	15	the beadle	PER	NOM
+MENTION	T79	58	0	58	1	The children	PER	NOM
+MENTION	T80	0	4	0	10	THE PLACE WHERE OLIVER TWIST WAS BORN	FAC	NOM
+MENTION	T81	0	7	0	8	OLIVER TWIST	PER	PROP
+MENTION	T82	0	23	0	25	a certain town	GPE	NOM
+MENTION	T83	0	56	0	57	most towns	GPE	NOM
+MENTION	T84	0	66	0	67	a workhouse	FAC	NOM
+MENTION	T85	0	71	0	72	this workhouse	FAC	NOM
+MENTION	T86	1	9	1	14	this world of sorrow and trouble	LOC	NOM
+MENTION	T87	1	98	1	98	country	GPE	NOM
+MENTION	T88	2	12	2	13	a workhouse	FAC	NOM
+MENTION	T89	2	28	2	30	a human being	PER	NOM
+MENTION	T4	2	49	2	50	Oliver Twist	PER	PROP
+MENTION	T9	4	20	4	21	experienced nurses	PER	NOM
+MENTION	T7	4	24	4	27	doctors of profound wisdom	PER	NOM
+MENTION	T13	5	9	5	23	pauper old woman , who was rendered rather misty by an unwonted allowance of beer	PER	NOM
+MENTION	T14	6	24	6	25	the workhouse	FAC	NOM
+COREF	T138	new-802
+MENTION	T24	20	3	20	3	strangers	PER	NOM
+MENTION	T26	21	6	21	7	Mrs. Thingummy	PER	PROP
+MENTION	T28	22	1	22	2	the surgeon	PER	NOM
+MENTION	T29	26	15	26	15	nurse	PER	NOM
+MENTION	T30	29	24	29	26	a good-looking girl	PER	NOM
+MENTION	T35	33	4	33	5	the body	PER	NOM
+MENTION	T36	37	9	37	10	the nurse	PER	NOM
+MENTION	T47	40	38	40	42	the orphan of a workhouse	PER	NOM
+MENTION	T51	40	41	40	42	a workhouse	FAC	NOM
+MENTION	T90	40	56	40	57	the world	LOC	NOM
+MENTION	T91	40	61	40	61	all	PER	NOM
+MENTION	T92	40	66	40	66	none	PER	NOM
+MENTION	T55	42	8	42	19	an orphan , left to the tender mercies of church-wardens and overseers	PER	NOM
+MENTION	T93	42	17	42	17	church-wardens	PER	NOM
+MENTION	T94	43	4	43	5	OLIVER TWIST	PER	PROP
+MENTION	T59	45	13	45	14	the workhouse	FAC	NOM
+MENTION	T95	45	13	45	15	the workhouse authorities	PER	NOM
+MENTION	T98	46	0	46	2	The parish authorities	PER	NOM
+MENTION	T99	46	0	46	1	The parish	FAC	NOM
+MENTION	T97	45	17	45	19	the parish authorities	PER	NOM
+MENTION	T100	46	7	46	9	the workhouse authorities	PER	NOM
+MENTION	T101	46	7	46	8	the workhouse	FAC	NOM
+MENTION	T103	47	0	47	2	The workhouse authorities	PER	NOM
+MENTION	T104	47	0	47	1	The workhouse	FAC	NOM
+MENTION	T105	48	3	48	5	the parish authorities	PER	NOM
+MENTION	T106	48	3	48	4	the parish	FAC	NOM
+MENTION	T107	48	31	48	36	a branch-workhouse some three miles off	FAC	NOM
+MENTION	T62	48	73	48	75	an elderly female	PER	NOM
+MENTION	T68	50	0	50	2	The elderly female	PER	NOM
+MENTION	T108	50	4	50	9	a woman of wisdom and experience	PER	NOM
+MENTION	T109	51	18	51	21	the rising parochial generation	PER	NOM
+MENTION	T110	53	5	53	7	another experimental philosopher	PER	NOM
+MENTION	T111	54	7	54	17	the female to whose protecting care Oliver Twist was delivered over	PER	NOM
+MENTION	T70	54	13	54	14	Oliver Twist	PER	PROP
+MENTION	T112	54	99	54	102	the miserable little being	PER	NOM
+MENTION	T113	55	12	55	13	a parish	FAC	NOM
+MENTION	T114	55	12	55	36	a parish child who had been overlooked in turning up a bedstead , or inadvertently scalded to death when there happened to be a washing	PER	NOM
+MENTION	T115	55	59	55	60	the jury	PER	NOM
+MENTION	T116	56	27	56	28	the body	PER	NOM
+MENTION	T117	56	49	56	50	the parish	FAC	NOM
+MENTION	T118	57	2	57	3	the board	PER	NOM
+MENTION	T119	58	19	58	20	the people	PER	NOM
+MENTION	T121	45	17	45	18	the parish	FAC	NOM
+MENTION	T122	1	17	1	18	the parish	FAC	NOM
+MENTION	T123	5	26	5	27	a parish	FAC	NOM
+MENTION	T124	6	36	6	37	the parish	FAC	NOM
+MENTION	T125	40	34	40	35	a parish	FAC	NOM
+MENTION	T96	12	17	12	17	sir	PER	NOM
+MENTION	T127	3	55	3	56	this world	LOC	NOM
+MENTION	T128	54	107	54	108	another world	LOC	NOM
+MENTION	T129	5	2	5	2	nobody	PER	NOM
+MENTION	T130	32	27	32	27	nobody	PER	NOM
+MENTION	T131	53	0	53	0	Everybody	PER	NOM
+MENTION	T133	0	16	0	16	HIS	PER	PRON
+MENTION	T134	0	43	0	43	I	PER	PRON
+MENTION	T135	0	82	0	82	I	PER	PRON
+MENTION	T136	0	86	0	86	myself	PER	PRON
+MENTION	T139	2	1	2	1	I	PER	PRON
+MENTION	T140	2	32	2	32	I	PER	PRON
+MENTION	T141	3	15	3	15	himself	PER	PRON
+MENTION	T142	3	34	3	34	our	PER	PRON
+MENTION	T143	3	42	3	42	he	PER	PRON
+MENTION	T144	4	29	4	29	he	PER	PRON
+MENTION	T146	7	13	7	13	his	PER	PRON
+MENTION	T147	7	55	7	55	me	PER	PRON
+MENTION	T148	8	6	8	6	his	PER	PRON
+MENTION	T149	8	17	8	17	his	PER	PRON
+MENTION	T150	9	6	9	6	he	PER	PRON
+MENTION	T151	9	28	9	28	him	PER	PRON
+MENTION	T152	9	33	9	33	you	PER	PRON
+MENTION	T153	10	3	10	3	her	PER	PRON
+MENTION	T154	11	7	11	7	her	PER	PRON
+MENTION	T155	11	18	11	18	she	PER	PRON
+MENTION	T156	12	3	12	3	her	PER	PRON
+MENTION	T157	12	8	12	8	she	PER	PRON
+MENTION	T158	12	14	12	14	I	PER	PRON
+MENTION	T159	12	24	12	24	her	PER	PRON
+MENTION	T160	12	36	12	36	them	PER	PRON
+MENTION	T161	12	41	12	41	me	PER	PRON
+MENTION	T162	12	43	12	43	she	PER	PRON
+MENTION	T163	12	56	12	56	her	PER	PRON
+MENTION	T164	15	3	15	3	her	PER	PRON
+MENTION	T165	15	9	15	9	her	PER	PRON
+MENTION	T166	16	5	16	5	her	PER	PRON
+MENTION	T167	17	0	17	0	She	PER	PRON
+MENTION	T168	17	2	17	2	her	PER	PRON
+MENTION	T169	17	12	17	12	her	PER	PRON
+MENTION	T170	17	15	17	15	her	PER	PRON
+MENTION	T171	18	0	18	0	They	PER	PRON
+MENTION	T172	18	2	18	2	her	PER	PRON
+MENTION	T173	19	0	19	0	They	PER	PRON
+MENTION	T174	20	0	20	0	They	PER	PRON
+MENTION	T175	24	22	24	22	she	PER	PRON
+MENTION	T176	26	1	26	1	You	PER	PRON
+MENTION	T177	26	8	26	8	me	PER	PRON
+MENTION	T178	26	24	26	24	his	PER	PRON
+MENTION	T179	29	0	29	0	He	PER	PRON
+MENTION	T180	29	3	29	3	his	PER	PRON
+MENTION	T181	29	13	29	13	his	PER	PRON
+MENTION	T182	29	22	29	22	She	PER	PRON
+MENTION	T183	29	32	29	32	she	PER	PRON
+MENTION	T184	30	1	30	1	She	PER	PRON
+MENTION	T185	31	0	31	0	She	PER	PRON
+MENTION	T186	32	0	32	0	She	PER	PRON
+MENTION	T187	32	7	32	7	her	PER	PRON
+MENTION	T188	32	16	32	16	she	PER	PRON
+MENTION	T189	32	22	32	22	she	PER	PRON
+MENTION	T190	34	6	34	6	he	PER	PRON
+MENTION	T191	34	10	34	10	his	PER	PRON
+MENTION	T192	34	17	34	17	I	PER	PRON
+MENTION	T193	37	16	37	16	herself	PER	PRON
+MENTION	T194	39	8	39	8	his	PER	PRON
+MENTION	T195	39	12	39	12	he	PER	PRON
+MENTION	T196	39	37	39	37	him	PER	PRON
+MENTION	T197	39	38	39	38	his	PER	PRON
+MENTION	T198	40	3	40	3	he	PER	PRON
+MENTION	T199	40	20	40	20	he	PER	PRON
+MENTION	T200	40	29	40	29	his	PER	PRON
+MENTION	T201	42	1	42	1	he	PER	PRON
+MENTION	T202	42	6	42	6	he	PER	PRON
+MENTION	T203	42	22	42	22	he	PER	PRON
+MENTION	T204	44	0	44	0	He	PER	PRON
+MENTION	T205	46	40	46	40	he	PER	PRON
+MENTION	T206	48	26	48	26	he	PER	PRON
+MENTION	T207	50	11	50	11	she	PER	PRON
+MENTION	T208	50	20	50	20	she	PER	PRON
+MENTION	T209	50	31	50	31	herself	PER	PRON
+MENTION	T210	51	2	51	2	she	PER	PRON
+MENTION	T211	51	12	51	12	her	PER	PRON
+MENTION	T212	51	32	51	32	them	PER	PRON
+MENTION	T213	52	12	52	12	herself	PER	PRON
+MENTION	T214	53	31	53	31	he	PER	PRON
+MENTION	T215	53	34	53	34	his	PER	PRON
+MENTION	T220	54	28	54	28	her	PER	PRON
+MENTION	T221	55	65	55	65	their	PER	PRON
+MENTION	T222	55	78	55	78	their	PER	PRON
+MENTION	T223	57	22	57	22	they	PER	PRON
+MENTION	T224	58	11	58	11	they	PER	PRON
+MENTION	T227	24	1	24	2	the nurse	PER	NOM
+COREF	T80	workhouse-0
+COREF	T81	Oliver_Twist-1
+COREF	T133	Oliver_Twist-1
+COREF	T1	other_public_buildings-2
+COREF	T82	a_certain_town-3
+COREF	T134	Narrator-4
+COREF	T83	most_towns-5
+COREF	T84	workhouse-0
+COREF	T85	workhouse-0
+COREF	T135	Narrator-4
+COREF	T136	Narrator-4
+COREF	T86	this_world_of_sorrow_and_trouble-6
+COREF	T3	the_parish_surgeon-7
+COREF	T122	the_parish-8
+COREF	T2	Oliver_Twist-1
+COREF	T87	country-10
+COREF	T139	Narrator-4
+COREF	T88	workhouse-0
+COREF	T89	a_human_being-11
+COREF	T140	Narrator-4
+COREF	T4	Oliver_Twist-1
+COREF	T5	Oliver_Twist-1
+COREF	T141	Oliver_Twist-1
+COREF	T142	inclusive_we-12
+COREF	T143	Oliver_Twist-1
+COREF	T127	this_world_of_sorrow_and_trouble-6
+COREF	T10	Oliver_Twist-1
+COREF	T8	careful_grandmothers-13
+COREF	T6	anxious_aunts-14
+COREF	T9	experienced_nurses-15
+COREF	T7	doctors_of_profound_wisdom-16
+COREF	T144	Oliver_Twist-1
+COREF	T129	nobody-100000
+COREF	T13	Nurse-17
+COREF	T123	the_parish-8
+COREF	T11	Oliver_Twist-1
+COREF	T17	Oliver_Twist-1
+COREF	T16	the_inmates_of_the_workhouse-21
+COREF	T14	workhouse-0
+COREF	T124	the_parish-8
+COREF	T20	Oliver_Twist-1
+COREF	T146	Oliver_Twist-1
+COREF	T19	Oliver_s_Mother-22
+COREF	T147	Oliver_s_Mother-22
+COREF	T18	Oliver_Twist-1
+COREF	T21	the_parish_surgeon-7
+COREF	T148	the_parish_surgeon-7
+COREF	T149	the_parish_surgeon-7
+COREF	T23	Oliver_s_Mother-22
+COREF	T150	the_parish_surgeon-7
+COREF	T151	the_parish_surgeon-7
+COREF	T152	Oliver_s_Mother-22
+COREF	T153	Oliver_s_Mother-22
+COREF	T25	Nurse-17
+COREF	T154	Nurse-17
+COREF	T155	Nurse-17
+COREF	T156	Oliver_s_Mother-22
+COREF	T157	Oliver_s_Mother-22
+COREF	T158	Nurse-17
+COREF	T96	the_parish_surgeon-7
+COREF	T27	thirteen_children_of_her_own-23
+COREF	T159	Oliver_s_Mother-22
+COREF	T160	thirteen_children_of_her_own-23
+COREF	T161	Nurse-17
+COREF	T162	Oliver_s_Mother-22
+COREF	T163	Oliver_s_Mother-22
+COREF	T32	Oliver_s_Mother-22
+COREF	T164	Oliver_s_Mother-22
+COREF	T165	Oliver_s_Mother-22
+COREF	T33	Oliver_Twist-1
+COREF	T34	the_parish_surgeon-7
+COREF	T166	Oliver_s_Mother-22
+COREF	T167	Oliver_s_Mother-22
+COREF	T168	Oliver_s_Mother-22
+COREF	T169	Oliver_s_Mother-22
+COREF	T170	Oliver_s_Mother-22
+COREF	T171	surgeon_and_nurse-24
+COREF	T172	Oliver_s_Mother-22
+COREF	T173	surgeon_and_nurse-24
+COREF	T174	surgeon_and_nurse-24
+COREF	T26	Nurse-17
+COREF	T28	the_parish_surgeon-7
+COREF	T227	Nurse-17
+COREF	T175	Nurse-17
+COREF	T38	Oliver_Twist-1
+COREF	T39	Oliver_Twist-1
+COREF	T176	Nurse-17
+COREF	T177	the_parish_surgeon-7
+COREF	T29	Nurse-17
+COREF	T40	the_parish_surgeon-7
+COREF	T178	the_parish_surgeon-7
+COREF	T179	the_parish_surgeon-7
+COREF	T180	the_parish_surgeon-7
+COREF	T181	the_parish_surgeon-7
+COREF	T182	Oliver_s_Mother-22
+COREF	T183	Oliver_s_Mother-22
+COREF	T184	Oliver_s_Mother-22
+COREF	T41	the_overseer-25
+COREF	T185	Oliver_s_Mother-22
+COREF	T42	the_street-26
+COREF	T186	Oliver_s_Mother-22
+COREF	T187	Oliver_s_Mother-22
+COREF	T188	Oliver_s_Mother-22
+COREF	T189	Oliver_s_Mother-22
+COREF	T130	nobody-100001
+COREF	T43	the_parish_surgeon-7
+COREF	T35	Oliver_s_Mother-22
+COREF	T190	the_parish_surgeon-7
+COREF	T191	the_parish_surgeon-7
+COREF	T192	the_parish_surgeon-7
+COREF	T45	the_parish_surgeon-7
+COREF	T36	Nurse-17
+COREF	T193	Nurse-17
+COREF	T44	Oliver_Twist-1
+COREF	T46	Oliver_Twist-1
+COREF	T194	Oliver_Twist-1
+COREF	T195	Oliver_Twist-1
+COREF	T48	a_nobleman-27
+COREF	T49	beggar-28
+COREF	T50	the_haughtiest_stranger-29
+COREF	T196	Oliver_Twist-1
+COREF	T197	Oliver_Twist-1
+COREF	T198	Oliver_Twist-1
+COREF	T199	Oliver_Twist-1
+COREF	T200	Oliver_Twist-1
+COREF	T125	the_parish-8
+COREF	T51	workhouse-0
+COREF	T90	this_world_of_sorrow_and_trouble-6
+COREF	T91	all_people-30
+COREF	T92	none-100002
+COREF	T54	Oliver_Twist-1
+COREF	T201	Oliver_Twist-1
+COREF	T202	Oliver_Twist-1
+COREF	T93	church-wardens-31
+COREF	T56	the_overseer-25
+COREF	T203	Oliver_Twist-1
+COREF	T94	Oliver_Twist-1
+COREF	T57	Oliver_Twist-1
+COREF	T204	Oliver_Twist-1
+COREF	T58	Oliver_Twist-1
+COREF	T59	workhouse-0
+COREF	T95	the_workhouse_authorities-32
+COREF	T97	the_parish_authorities-33
+COREF	T121	the_parish-8
+COREF	T98	the_parish_authorities-33
+COREF	T99	the_parish-8
+COREF	T100	the_workhouse_authorities-32
+COREF	T101	workhouse-0
+COREF	T60	workhouse-0
+COREF	T61	Oliver_Twist-1
+COREF	T205	Oliver_Twist-1
+COREF	T103	the_workhouse_authorities-32
+COREF	T104	workhouse-0
+COREF	T105	the_parish_authorities-33
+COREF	T106	the_parish-8
+COREF	T63	Oliver_Twist-1
+COREF	T206	Oliver_Twist-1
+COREF	T107	branch_workhouse-34
+COREF	T65	juveniles-35
+COREF	T62	an_elderly_female-36
+COREF	T64	juveniles-35
+COREF	T66	a_child-100003
+COREF	T68	an_elderly_female-36
+COREF	T207	an_elderly_female-36
+COREF	T67	children-37
+COREF	T208	an_elderly_female-36
+COREF	T209	an_elderly_female-36
+COREF	T210	an_elderly_female-36
+COREF	T211	an_elderly_female-36
+COREF	T109	juveniles-35
+COREF	T212	juveniles-35
+COREF	T213	an_elderly_female-36
+COREF	T131	Everybody-38
+COREF	T110	another_experimental_philosopher-39
+COREF	T214	another_experimental_philosopher-39
+COREF	T215	another_experimental_philosopher-39
+COREF	T111	an_elderly_female-36
+COREF	T70	Oliver_Twist-1
+COREF	T220	an_elderly_female-36
+COREF	T128	another_world-42
+COREF	T71	the_child-43
+COREF	T112	the_child-43
+COREF	T72	the_fathers_it_had_never_known_in_this-44
+COREF	T113	the_parish-8
+COREF	T114	the_child-43
+COREF	T73	the_farm-45
+COREF	T115	the_jury-46
+COREF	T221	the_jury-46
+COREF	T74	the_parish_authorities-33
+COREF	T222	the_parish_authorities-33
+COREF	T76	the_parish_surgeon-7
+COREF	T75	the_beadle-47
+COREF	T116	the_child-43
+COREF	T117	the_parish-8
+COREF	T118	the_board-48
+COREF	T77	the_farm-45
+COREF	T78	the_beadle-47
+COREF	T223	the_board-48
+COREF	T79	juveniles-35
+COREF	T224	juveniles-35
+COREF	T119	the_people-49
+COP	T24	T174
+COP	T30	T182
+APPOS	T47	T52
+APPOS	T53	T52
+COP	T55	T202
+COP	T108	T68
+COP	T69	T213
+COREF	T216	new-804
+COREF	T137	Oliver_Twist-1
+MENTION	T137	6	53	6	65	a male infant who had not been possessed of that very useful appendage	PER	NOM
+MENTION	T138	13	6	13	7	a mother	PER	NOM
+MENTION	T145	14	5	14	6	a mother	PER	NOM
+MENTION	T216	39	16	39	23	the child of a nobleman or a beggar	PER	NOM
+MENTION	T12	5	26	5	34	a parish surgeon who did such matters by contract	PER	NOM
+COREF	T12	the_parish_surgeon-7
+MENTION	T218	46	14	46	43	no female then domiciled in ' the house ' who was in a situation to impart to Oliver Twist , the consolation and nourishment of which he stood in need	PER	NOM
+COREF	T218	no-female-9000
+MENTION	T463	1	5	1	5	it	PER	PRON
+COREF	T463	Oliver_Twist-1
+MENTION	T475	16	3	16	3	it	PER	PRON
+COREF	T475	Oliver_Twist-1
+MENTION	T477	17	8	17	8	its	PER	PRON
+COREF	T477	Oliver_Twist-1
+MENTION	T485	27	5	27	5	it	PER	PRON
+COREF	T485	Oliver_Twist-1
+MENTION	T487	28	1	28	1	it	PER	PRON
+COREF	T487	Oliver_Twist-1
+MENTION	T489	28	6	28	6	it	PER	PRON
+COREF	T489	Oliver_Twist-1
+MENTION	T493	49	27	49	27	its	PER	PRON
+COREF	T493	a_child-100003
+MENTION	T495	49	32	49	32	it	PER	PRON
+COREF	T495	a_child-100003
+MENTION	T501	54	71	54	71	it	PER	PRON
+COREF	T501	the_child-43
+MENTION	T503	54	116	54	116	it	PER	PRON
+COREF	T503	the_child-43
+COREF	T52	Oliver_Twist-1
+MENTION	T120	30	10	30	12	the old woman	PER	NOM
+COREF	T120	Nurse-17

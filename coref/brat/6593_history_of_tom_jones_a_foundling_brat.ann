@@ -1,0 +1,438 @@
+T0	NOM_PER 220 229	An author
+T1	NOM_PER 378 389	all persons
+T2	NOM_PER 463 478	the entertainer
+T3	NOM_PER 794 819	the master of an ordinary
+T5	NOM_PER 1127 1142	their customers
+T6	NOM_PER 1261 1272	all persons
+T7	NOM_FAC 1313 1322	the house
+T9	NOM_PER 1196 1228	the honest and well-meaning host
+T10	NOM_PER 1812 1822	the reader
+T11	NOM_PER 1683 1707	these honest victuallers
+T12	NOM_PER 1596 1639	any man who is capable of lending us either
+T14	NOM_PER 2590 2599	an author
+T15	NOM_PER 2171 2219	the alderman of Bristol , well learned in eating
+T17	NOM_PER 2480 2486	a cook
+T18	PROP_GPE 2187 2194	Bristol
+T19	NOM_PER 2343 2361	the learned reader
+T20	NOM_PER 2910 2921	the epicure
+T23	NOM_PER 3141 3148	authors
+T25	NOM_PER 3298 3308	the author
+T27	NOM_GPE 3646 3650	town
+T28	NOM_PER 3526 3532	a duke
+T30	NOM_PER 3708 3720	the nobleman
+T34	NOM_PER 4095 4105	the author
+T35	NOM_PER 4171 4181	the reader
+T36	NOM_PER 4409 4436	all lovers of polite eating
+T37	NOM_PER 4372 4386	This great man
+T38	NOM_PER 4486 4503	his hungry guests
+T39	NOM_FAC 4926 4932	cities
+T40	NOM_PER 4976 4986	our reader
+T41	NOM_PER 5037 5074	the great person just above-mentioned
+T42	NOM_PER 5100 5112	some persons
+T43	NOM_PER 5427 5437	his sister
+T47	NOM_GPE 6347 6357	the county
+T48	NOM_PER 6360 6374	This gentleman
+T51	NOM_PER 6586 6603	this beloved wife
+T52	NOM_PER 7214 7228	his neighbours
+T54	NOM_PER 7354 7364	one sister
+T55	NOM_PER 7409 7418	This lady
+T56	NOM_PER 7527 7535	old maid
+T61	NOM_PER 9198 9245	a better judge than any pitiful critic whatever
+T62	NOM_PER 9218 9245	any pitiful critic whatever
+T63	NOM_PER 9271 9288	all those critics
+T64	NOM_PER 9458 9464	judges
+T68	NOM_PER 9666 9674	bastards
+T69	NOM_FAC 10198 10209	an hospital
+T71	NOM_FAC 9967 9979	a good house
+T72	NOM_PER 9994 10008	his neighbours
+T73	NOM_PER 9885 9898	an honest man
+T74	NOM_PER 43 56	THE FOUNDLING
+T75	NOM_PER 95 105	THE READER
+T76	NOM_PER 265 318	a gentleman who gives a private or eleemosynary treat
+T77	NOM_PER 335 366	one who keeps a public ordinary
+T78	NOM_PER 597 608	his company
+T4	NOM_PER 822 851	Men who pay for what they eat
+T8	NOM_PER 2017 2035	my sensible reader
+T13	NOM_FAC 3211 3220	the shops
+T16	NOM_FAC 3037 3079	the most paltry alleys under the same name
+T21	PROP_PER 3320 3327	Mr Pope
+T22	NOM_PER 3725 3735	the porter
+T24	PROP_PER 4341 4353	Heliogabalus
+T26	NOM_PER 4712 4722	our reader
+T29	NOM_LOC 4786 4797	the country
+T31	NOM_FAC 4915 4921	courts
+T32	NOM_PER 5166 5197	those who like our bill of fare
+T33	PROP_PER 5359 5375	squire Allworthy
+T79	NOM_LOC 5443 5492	that part of the western division of this kingdom
+T80	NOM_LOC 5456 5492	the western division of this kingdom
+T81	NOM_GPE 5480 5492	this kingdom
+T82	NOM_GPE 5518 5531	Somersetshire
+T83	PROP_PER 5608 5617	Allworthy
+T44	PROP_PER 5402 5424	Miss Bridget Allworthy
+T45	NOM_PER 5649 5689	the favourite of both nature and fortune
+T84	NOM_PER 6400 6433	a very worthy and beautiful woman
+T85	NOM_PER 6487 6501	three children
+T50	NOM_PER 6730 6758	a man of sense and constancy
+T53	NOM_PER 6920 6928	his wife
+T86	NOM_FAC 7102 7150	a place where he should never part with her more
+T87	NOM_LOC 7335 7346	the country
+T88	NOM_PER 7498 7511	the malicious
+T57	NOM_PER 7713 7736	very good sort of women
+T89	PROP_PER 8000 8015	Miss Such-a-one
+T90	PROP_PER 8099 8121	Miss Bridget Allworthy
+T91	NOM_PER 8149 8158	this lady
+T92	NOM_PER 8208 8215	a woman
+T93	NOM_PER 8437 8450	her whole sex
+T94	NOM_PER 8516 8526	the reader
+T95	NOM_PER 8688 8794	those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power
+T96	NOM_PER 8836 8862	that higher order of women
+T97	NOM_PER 9008 9014	Reader
+T65	PROP_PER 9551 9563	Mr Allworthy
+T66	NOM_FAC 9578 9582	home
+T67	PROP_PER 9609 9628	Mrs Deborah Wilkins
+T98	NOM_PER 9689 9698	my reader
+T99	PROP_PER 9733 9745	Mr Allworthy
+T100	NOM_PER 9805 9814	no family
+T70	NOM_PER 8872 8885	the other sex
+T58	NOM_PER 7766 7771	madam
+T59	NOM_PER 7584 7736	that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex , very good sort of women
+T101	NOM_PER 7758 7763	woman
+T110	NOM_LOC 2573 2582	the world
+T111	NOM_PER 9906 9912	no one
+T113	PRON_PER 248 255	himself
+T114	PRON_PER 406 411	their
+T115	PRON_PER 498 500	he
+T116	PRON_PER 597 600	his
+T117	PRON_PER 611 615	they
+T118	PRON_PER 687 691	them
+T119	PRON_PER 751 755	them
+T120	PRON_PER 843 847	they
+T121	PRON_PER 878 883	their
+T122	PRON_PER 977 982	their
+T123	PRON_PER 1052 1057	their
+T124	PRON_PER 1127 1132	their
+T125	PRON_PER 1287 1292	their
+T126	PRON_PER 1354 1364	themselves
+T127	PRON_PER 1394 1398	they
+T128	PRON_PER 1465 1469	them
+T129	PRON_PER 1532 1537	their
+T130	PRON_PER 1549 1551	we
+T131	PRON_PER 1630 1632	us
+T132	PRON_PER 1642 1644	we
+T133	PRON_PER 1762 1765	our
+T134	PRON_PER 1944 1946	we
+T135	PRON_PER 2005 2006	I
+T136	PRON_PER 2017 2019	my
+T137	PRON_PER 2063 2066	his
+T138	PRON_PER 2121 2122	I
+T139	PRON_PER 2957 2960	his
+T141	PRON_PER 3334 3336	us
+T144	PRON_PER 4198 4200	we
+T145	PRON_PER 4486 4489	his
+T146	PRON_PER 4538 4543	their
+T147	PRON_PER 4647 4649	we
+T148	PRON_PER 4712 4715	our
+T149	PRON_PER 4959 4961	we
+T150	PRON_PER 4976 4979	our
+T151	PRON_PER 5147 5149	we
+T152	PRON_PER 5181 5184	our
+T153	PRON_PER 5213 5218	their
+T154	PRON_PER 5285 5288	our
+T155	PRON_PER 5301 5306	their
+T156	PRON_PER 5427 5430	his
+T157	PRON_PER 5763 5766	him
+T159	PRON_PER 5868 5871	him
+T162	PRON_PER 6107 6109	he
+T163	PRON_PER 6159 6161	he
+T164	PRON_PER 6280 6282	he
+T165	PRON_PER 6382 6385	his
+T166	PRON_PER 6444 6446	he
+T167	PRON_PER 6476 6479	her
+T168	PRON_PER 6480 6482	he
+T169	PRON_PER 6524 6529	their
+T170	PRON_PER 6540 6542	He
+T171	PRON_PER 6604 6611	herself
+T172	PRON_PER 6717 6719	he
+T173	PRON_PER 6787 6789	he
+T174	PRON_PER 6847 6849	he
+T175	PRON_PER 6865 6867	he
+T176	PRON_PER 6878 6885	himself
+T177	PRON_PER 6920 6923	his
+T178	PRON_PER 6958 6961	him
+T179	PRON_PER 6980 6982	he
+T180	PRON_PER 7036 7039	her
+T181	PRON_PER 7051 7053	he
+T182	PRON_PER 7089 7092	her
+T183	PRON_PER 7116 7118	he
+T184	PRON_PER 7142 7145	her
+T185	PRON_PER 7175 7178	his
+T186	PRON_PER 7214 7217	his
+T187	PRON_PER 7231 7234	his
+T188	PRON_PER 7262 7265	his
+T189	PRON_PER 7289 7291	He
+T190	PRON_PER 7376 7378	he
+T191	PRON_PER 7573 7576	She
+T192	PRON_PER 7611 7614	you
+T193	PRON_PER 7697 7702	their
+T194	PRON_PER 7777 7780	you
+T195	PRON_PER 7811 7814	she
+T196	PRON_PER 7864 7867	she
+T197	PRON_PER 7973 7976	she
+T198	PRON_PER 8064 8067	she
+T199	PRON_PER 8248 8255	herself
+T200	PRON_PER 8306 8309	she
+T201	PRON_PER 8313 8316	her
+T202	PRON_PER 8332 8335	her
+T203	PRON_PER 8376 8379	she
+T204	PRON_PER 8437 8440	her
+T205	PRON_PER 8462 8463	I
+T206	PRON_PER 8783 8788	their
+T207	PRON_PER 8952 8953	I
+T208	PRON_PER 8977 8981	they
+T209	PRON_PER 9017 9018	I
+T210	PRON_PER 9041 9043	we
+T211	PRON_PER 9097 9098	I
+T212	PRON_PER 9160 9161	I
+T213	PRON_PER 9186 9187	I
+T214	PRON_PER 9191 9197	myself
+T215	PRON_PER 9257 9258	I
+T216	PRON_PER 9297 9302	their
+T217	PRON_PER 9385 9389	them
+T218	PRON_PER 9401 9405	they
+T219	PRON_PER 9437 9441	they
+T220	PRON_PER 9467 9468	I
+T221	PRON_PER 9488 9493	their
+T222	PRON_PER 9567 9570	his
+T223	PRON_PER 9677 9678	I
+T224	PRON_PER 9689 9691	my
+T225	PRON_PER 9779 9781	he
+T226	PRON_PER 9871 9873	he
+T227	PRON_PER 9952 9955	his
+T228	PRON_PER 9994 9997	his
+T229	PRON_PER 10034 10037	his
+T230	PRON_PER 10134 10138	them
+T231	PRON_PER 10165 10167	he
+T232	NOM_PER 4284 4369	the best cook which the present age , or perhaps that of Heliogabalus , hath produced
+T233	NOM_PER 5581 5689	a gentleman whose name was Allworthy , and who might well be called the favourite of both nature and fortune
+T234	NOM_PER 8712 8719	the men
+T235	PRON_PER 9087 9091	thee
+T236	NOM_PER 10068 10076	the poor
+T311	THE_FOUNDLING-0 43 56	THE FOUNDLING
+T312	THE_READER-1 95 105	THE READER
+T237	An_author-2 220 229	An author
+T350	An_author-2 248 255	himself
+T313	a_gentleman____-3 265 318	a gentleman who gives a private or eleemosynary treat
+T314	one_who_keeps_a_public_ordinary-4 335 366	one who keeps a public ordinary
+T238	all_persons-5 378 389	all persons
+T351	all_persons-5 406 411	their
+T239	the_entertainer-6 463 478	the entertainer
+T352	the_entertainer-6 498 500	he
+T315	his_company-7 597 608	his company
+T353	the_entertainer-6 597 600	his
+T354	his_company-7 611 615	they
+T355	his_company-7 687 691	them
+T356	his_company-7 751 755	them
+T240	the_master_of_an_ordinary-8 794 819	the master of an ordinary
+T241	Men_who_pay_for_what_they_eat-9 822 851	Men who pay for what they eat
+T357	Men_who_pay_for_what_they_eat-9 843 847	they
+T358	Men_who_pay_for_what_they_eat-9 878 883	their
+T359	Men_who_pay_for_what_they_eat-9 977 982	their
+T360	Men_who_pay_for_what_they_eat-9 1052 1057	their
+T242	their_customers-10 1127 1142	their customers
+T361	the_honest_and_well-meaning_host-11 1127 1132	their
+T246	the_honest_and_well-meaning_host-11 1196 1228	the honest and well-meaning host
+T243	all_persons-12 1261 1272	all persons
+T362	all_persons-12 1287 1292	their
+T244	the_house-13 1313 1322	the house
+T363	all_persons-12 1354 1364	themselves
+T364	all_persons-12 1394 1398	they
+T365	all_persons-12 1465 1469	them
+T366	all_persons-12 1532 1537	their
+T367	narrator-14 1549 1551	we
+T249	any_man_who_is_capable_of_lending_us_either-15 1596 1639	any man who is capable of lending us either
+T368	narrator-14 1630 1632	us
+T369	narrator-14 1642 1644	we
+T248	these_honest_victuallers-16 1683 1707	these honest victuallers
+T370	narrator-14 1762 1765	our
+T247	the_reader-17 1812 1822	the reader
+T371	narrator-14 1944 1946	we
+T372	narrator-14 2005 2006	I
+T245	my_sensible_reader-18 2017 2035	my sensible reader
+T373	narrator-14 2017 2019	my
+T374	my_sensible_reader-18 2063 2066	his
+T375	narrator-14 2121 2122	I
+T252	the_alderman_of_Bristol___well_learned_in_eating-19 2171 2219	the alderman of Bristol , well learned in eating
+T255	Bristol-20 2187 2194	Bristol
+T256	the_learned_reader-21 2343 2361	the learned reader
+T254	a_cook-22 2480 2486	a cook
+T347	the_world-23 2573 2582	the world
+T251	an_author-24 2590 2599	an author
+T257	the_epicure-25 2910 2921	the epicure
+T376	the_epicure-25 2957 2960	his
+T253	the_most_paltry_alleys_under_the_same_name-26 3037 3079	the most paltry alleys under the same name
+T260	authors-27 3141 3148	authors
+T250	the_shops-28 3211 3220	the shops
+T262	the_author-29 3298 3308	the author
+T258	Mr_Pope-30 3320 3327	Mr Pope
+T378	us-31 3334 3336	us
+T265	a_duke-32 3526 3532	a duke
+T264	town-33 3646 3650	town
+T267	the_nobleman-34 3708 3720	the nobleman
+T259	the_porter-35 3725 3735	the porter
+T271	the_author-36 4095 4105	the author
+T272	the_reader-37 4171 4181	the reader
+T381	narrator-14 4198 4200	we
+T261	Heliogabalus-38 4341 4353	Heliogabalus
+T469	best_cook-39 4284 4369	the best cook which the present age , or perhaps that of Heliogabalus , hath produced
+T274	best_cook-39 4372 4386	This great man
+T273	all_lovers_of_polite_eating-40 4409 4436	all lovers of polite eating
+T275	his_hungry_guests-41 4486 4503	his hungry guests
+T382	best_cook-39 4486 4489	his
+T383	his_hungry_guests-41 4538 4543	their
+T384	narrator-14 4647 4649	we
+T263	our_reader-42 4712 4722	our reader
+T385	narrator-14 4712 4715	our
+T266	the_country-43 4786 4797	the country
+T268	courts-44 4915 4921	courts
+T276	cities-45 4926 4932	cities
+T386	narrator-14 4959 4961	we
+T277	our_reader-46 4976 4986	our reader
+T387	narrator-14 4976 4979	our
+T278	best_cook-39 5037 5074	the great person just above-mentioned
+T279	some_persons-47 5100 5112	some persons
+T388	narrator-14 5147 5149	we
+T269	those_who_like_our_bill_of_fare-48 5166 5197	those who like our bill of fare
+T389	narrator-14 5181 5184	our
+T390	those_who_like_our_bill_of_fare-48 5213 5218	their
+T391	narrator-14 5285 5288	our
+T392	those_who_like_our_bill_of_fare-48 5301 5306	their
+T316	that_part_of_the_western_division_of_this_kingdom-51 5443 5492	that part of the western division of this kingdom
+T317	the_western_division_of_this_kingdom-52 5456 5492	the western division of this kingdom
+T318	this_kingdom-53 5480 5492	this kingdom
+T319	Somersetshire-54 5518 5531	Somersetshire
+T470	Allworthy-55 5581 5689	a gentleman whose name was Allworthy , and who might well be called the favourite of both nature and fortune
+T320	Allworthy-55 5608 5617	Allworthy
+T282	Allworthy-55 5649 5689	the favourite of both nature and fortune
+T394	Allworthy-55 5763 5766	him
+T396	Allworthy-55 5868 5871	him
+T399	Allworthy-55 6107 6109	he
+T400	Allworthy-55 6159 6161	he
+T401	Allworthy-55 6280 6282	he
+T284	the_county-56 6347 6357	the county
+T285	Allworthy-55 6360 6374	This gentleman
+T402	Allworthy-55 6382 6385	his
+T321	Allworthy_s_wife-57 6400 6433	a very worthy and beautiful woman
+T403	Allworthy-55 6444 6446	he
+T404	Allworthy_s_wife-57 6476 6479	her
+T405	Allworthy-55 6480 6482	he
+T322	three_children-58 6487 6501	three children
+T406	three_children-58 6524 6529	their
+T407	Allworthy-55 6540 6542	He
+T288	Allworthy_s_wife-57 6586 6603	this beloved wife
+T408	Allworthy_s_wife-57 6604 6611	herself
+T409	Allworthy-55 6717 6719	he
+T287	a_man_of_sense_and_constancy-59 6730 6758	a man of sense and constancy
+T410	Allworthy-55 6787 6789	he
+T411	Allworthy-55 6847 6849	he
+T412	Allworthy-55 6865 6867	he
+T413	Allworthy-55 6878 6885	himself
+T290	Allworthy_s_wife-57 6920 6928	his wife
+T414	Allworthy-55 6920 6923	his
+T415	Allworthy-55 6958 6961	him
+T416	Allworthy-55 6980 6982	he
+T417	Allworthy_s_wife-57 7036 7039	her
+T418	Allworthy-55 7051 7053	he
+T419	Allworthy_s_wife-57 7089 7092	her
+T323	a_place_where_he_should_never_part_with_her_more-60 7102 7150	a place where he should never part with her more
+T420	Allworthy-55 7116 7118	he
+T421	Allworthy_s_wife-57 7142 7145	her
+T422	Allworthy-55 7175 7178	his
+T289	his_neighbours-61 7214 7228	his neighbours
+T423	Allworthy-55 7214 7217	his
+T424	Allworthy-55 7231 7234	his
+T425	Allworthy-55 7262 7265	his
+T426	Allworthy-55 7289 7291	He
+T324	the_country-62 7335 7346	the country
+T427	Allworthy-55 7376 7378	he
+T281	Miss_Bridget_Allworthy-63 5402 5424	Miss Bridget Allworthy
+T291	Miss_Bridget_Allworthy-63 7354 7364	one sister
+T270	Allworthy-55 5359 5375	squire Allworthy
+T393	Allworthy-55 5427 5430	his
+T292	Miss_Bridget_Allworthy-63 7409 7418	This lady
+T325	the_malicious-64 7498 7511	the malicious
+T293	old_maid-65 7527 7535	old maid
+T428	Miss_Bridget_Allworthy-63 7573 7576	She
+T296	that_species_of_women_whom_you_commend_rather_for_good_qualities_than_beauty___and_who_are_generally_called___by_their_own_sex___very_good_sort_of_women-66 7584 7736	that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex , very good sort of women
+T429	you-67 7611 7614	you
+T430	that_species_of_women_whom_you_commend_rather_for_good_qualities_than_beauty___and_who_are_generally_called___by_their_own_sex___very_good_sort_of_women-66 7697 7702	their
+T294	that_species_of_women_whom_you_commend_rather_for_good_qualities_than_beauty___and_who_are_generally_called___by_their_own_sex___very_good_sort_of_women-66 7713 7736	very good sort of women
+T338	woman-68 7758 7763	woman
+T295	madam-69 7766 7771	madam
+T431	you-70 7777 7780	you
+T432	Miss_Bridget_Allworthy-63 7811 7814	she
+T433	Miss_Bridget_Allworthy-63 7864 7867	she
+T434	Miss_Bridget_Allworthy-63 7973 7976	she
+T326	Miss_Such-a-one-71 8000 8015	Miss Such-a-one
+T435	Miss_Such-a-one-71 8064 8067	she
+T327	Miss_Bridget_Allworthy-63 8099 8121	Miss Bridget Allworthy
+T328	Miss_Bridget_Allworthy-63 8149 8158	this lady
+T329	a_woman-72 8208 8215	a woman
+T436	Miss_Bridget_Allworthy-63 8248 8255	herself
+T437	Miss_Bridget_Allworthy-63 8306 8309	she
+T438	Miss_Bridget_Allworthy-63 8313 8316	her
+T439	Miss_Bridget_Allworthy-63 8332 8335	her
+T440	Miss_Bridget_Allworthy-63 8376 8379	she
+T330	her_whole_sex-73 8437 8450	her whole sex
+T441	Miss_Bridget_Allworthy-63 8437 8440	her
+T442	narrator-14 8462 8463	I
+T331	the_reader-74 8516 8526	the reader
+T332	those_paragons_for_whom_the_men_are_all_wishing___sighing___dying___and_spreading_every_net_in_their_power-75 8688 8794	those paragons for whom the men are all wishing , sighing , dying , and spreading every net in their power
+T471	the_men-76 8712 8719	the men
+T443	the_men-76 8783 8788	their
+T333	that_higher_order_of_women-77 8836 8862	that higher order of women
+T307	the_other_sex-78 8872 8885	the other sex
+T444	narrator-14 8952 8953	I
+T445	the_other_sex-78 8977 8981	they
+T334	Reader-79 9008 9014	Reader
+T446	narrator-14 9017 9018	I
+T447	narrator_reader-80 9041 9043	we
+T472	thee-81 9087 9091	thee
+T448	narrator-14 9097 9098	I
+T449	narrator-14 9160 9161	I
+T450	narrator-14 9186 9187	I
+T451	narrator-14 9191 9197	myself
+T299	any_pitiful_critic_whatever-82 9218 9245	any pitiful critic whatever
+T452	narrator-14 9257 9258	I
+T300	all_those_critics-83 9271 9288	all those critics
+T453	all_those_critics-83 9297 9302	their
+T454	all_those_critics-83 9385 9389	them
+T455	all_those_critics-83 9401 9405	they
+T456	all_those_critics-83 9437 9441	they
+T301	judges-84 9458 9464	judges
+T457	narrator-14 9467 9468	I
+T458	all_those_critics-83 9488 9493	their
+T302	Allworthy-55 9551 9563	Mr Allworthy
+T459	Allworthy-55 9567 9570	his
+T303	home-85 9578 9582	home
+T304	Mrs_Deborah_Wilkins-86 9609 9628	Mrs Deborah Wilkins
+T305	bastards-87 9666 9674	bastards
+T460	narrator-14 9677 9678	I
+T335	my_reader-88 9689 9698	my reader
+T461	narrator-14 9689 9691	my
+T336	Allworthy-55 9733 9745	Mr Allworthy
+T462	Allworthy-55 9779 9781	he
+T337	no_family-89 9805 9814	no family
+T463	Allworthy-55 9871 9873	he
+T310	an_honest_man-90 9885 9898	an honest man
+T348	no_one-91 9906 9912	no one
+T464	Allworthy-55 9952 9955	his
+T308	a_good_house-92 9967 9979	a good house
+T309	his_neighbours-93 9994 10008	his neighbours
+T465	Allworthy-55 9994 9997	his
+T466	Allworthy-55 10034 10037	his
+T473	the_poor-94 10068 10076	the poor
+T467	the_poor-94 10134 10138	them
+T468	Allworthy-55 10165 10167	he
+T306	an_hospital-95 10198 10209	an hospital
+R1	appos Arg1:T43 Arg2:T44
+R2	cop Arg1:T61 Arg2:T213

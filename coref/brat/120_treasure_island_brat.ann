@@ -1,0 +1,690 @@
+T18	PROP_PER 89 100	Dr. Livesey
+T222	NOM_PER 1091 1094	men
+T460	NOM_PER 2113 2120	captain
+T1394	PROP_PER 6473 6476	God
+T1540	PROP_GPE 7181 7188	England
+T1820	PROP_PER 8486 8497	Dr. Livesey
+T1961	NOM_PER 9149 9152	men
+T2067	PROP_PER 9626 9637	Dr. Livesey
+T2101	PROP_PER 9786 9792	Taylor
+T2157	PROP_PER 10049 10060	Dr. Livesey
+T1	NOM_PER 1818 1823	matey
+T5	PROP_PER 70 86	SQUIRE TRELAWNEY
+T7	PROP_LOC 193 208	Treasure Island
+T10	NOM_PER 1671 1675	mate
+T11	NOM_FAC 1929 1933	here
+T25	PROP_GPE 3646 3653	Bristol
+T45	NOM_PER 6206 6212	people
+T48	NOM_LOC 7201 7204	sea
+T55	NOM_FAC 8083 8091	upstairs
+T57	NOM_PER 433 442	my father
+T9	NOM_FAC 547 555	our roof
+T59	NOM_PER 1347 1356	my father
+T60	NOM_PER 1680 1689	My father
+T61	NOM_FAC 1788 1797	the berth
+T62	NOM_LOC 2683 2692	the coast
+T16	NOM_PER 12 29	The Old Buccaneer
+T6	NOM_PER 32 47	The Old Sea-dog
+T3	PROP_FAC 51 69	the Admiral Benbow
+T4	NOM_PER 107 134	the rest of these gentlemen
+T26	NOM_LOC 284 294	the island
+T8	PROP_FAC 448 470	the Admiral Benbow inn
+T2	NOM_PER 475 495	the brown old seaman
+T63	NOM_FAC 622 629	the inn
+T58	NOM_PER 692 731	a tall , strong , heavy , nut-brown man
+T64	NOM_LOC 1580 1592	a handy cove
+T13	NOM_FAC 1623 1653	a pleasant sittyated grog-shop
+T12	NOM_PER 1661 1668	company
+T65	NOM_PER 1716 1723	company
+T66	NOM_LOC 2932 2940	the cove
+T17	NOM_LOC 2949 2959	the cliffs
+T19	NOM_FAC 3007 3044	a corner of the parlour next the fire
+T67	NOM_FAC 3036 3044	the fire
+T68	NOM_FAC 2801 2823	his place of residence
+T69	NOM_FAC 2616 2632	the Royal George
+T14	NOM_PER 2527 2559	The man who came with the barrow
+T15	NOM_PER 2419 2451	a man who sailed before the mast
+T70	NOM_PER 2470 2476	a mate
+T71	NOM_PER 2480 2524	skipper accustomed to be obeyed or to strike
+T72	NOM_FAC 2661 2665	inns
+T73	NOM_PER 2861 2870	our guest
+T74	NOM_PER 1966 1977	a plain man
+T75	NOM_PER 2310 2321	a commander
+T76	NOM_PER 2880 2897	a very silent man
+T77	NOM_PER 3212 3247	the people who came about our house
+T21	NOM_FAC 3373 3381	the road
+T23	NOM_PER 3546 3554	a seaman
+T78	PROP_FAC 3569 3587	the Admiral Benbow
+T24	NOM_FAC 3627 3641	the coast road
+T27	NOM_FAC 3725 3736	the parlour
+T81	NOM_PER 4460 4474	that personage
+T29	NOM_FAC 4581 4590	the house
+T83	NOM_LOC 4617 4625	the cove
+T84	NOM_LOC 4633 4643	the cliffs
+T31	NOM_PER 5148 5165	the seafaring man
+T86	NOM_PER 5498 5519	the trembling company
+T34	NOM_FAC 5598 5607	the house
+T35	NOM_PER 5662 5676	the neighbours
+T87	NOM_PER 5821 5850	the most overriding companion
+T88	NOM_PER 6031 6042	the company
+T36	NOM_FAC 6108 6115	the inn
+T37	NOM_PER 8529 8540	the patient
+T89	NOM_PER 8569 8578	my mother
+T91	NOM_PER 8231 8245	the neighbours
+T92	NOM_GPE 8661 8671	the hamlet
+T52	NOM_FAC 8595 8606	the parlour
+T51	NOM_FAC 953 962	the cover
+T93	NOM_PER 1098 1110	the dead man
+T94	NOM_FAC 1237 1253	the capstan bars
+T95	NOM_LOC 1533 1543	the cliffs
+T22	NOM_FAC 3238 3247	our house
+T97	NOM_PER 6635 6644	My father
+T99	NOM_LOC 6309 6315	at sea
+T100	NOM_LOC 6322 6338	the Dry Tortugas
+T39	NOM_LOC 6370 6386	the Spanish Main
+T40	NOM_LOC 6495 6502	the sea
+T41	NOM_PER 6561 6585	our plain country people
+T42	NOM_FAC 6663 6670	the inn
+T43	NOM_PER 6693 6699	people
+T46	NOM_PER 6850 6856	People
+T47	NOM_PER 7000 7026	a party of the younger men
+T101	NOM_PER 7069 7087	a " true sea-dog "
+T102	NOM_PER 7092 7111	a " real old salt "
+T104	NOM_PER 7386 7395	my father
+T105	NOM_PER 7476 7487	the captain
+T49	NOM_PER 7562 7576	my poor father
+T106	NOM_FAC 7584 7592	the room
+T107	NOM_PER 7794 7805	the captain
+T108	NOM_PER 7874 7882	a hawker
+T109	NOM_FAC 8095 8103	his room
+T56	NOM_PER 8425 8439	my poor father
+T90	NOM_FAC 8700 8714	the old Benbow
+T50	NOM_PER 8775 8799	the neat , bright doctor
+T110	NOM_PER 8896 8920	the coltish country folk
+T112	NOM_PER 9078 9089	the captain
+T113	NOM_PER 9320 9332	the dead man
+T114	NOM_PER 9224 9233	the devil
+T115	NOM_PER 9156 9168	the dead man
+T116	NOM_FAC 9380 9388	upstairs
+T117	NOM_FAC 9392 9406	the front room
+T53	NOM_PER 9472 9500	the one-legged seafaring man
+T118	NOM_PER 9795 9807	the gardener
+T119	NOM_PER 9863 9874	the captain
+T120	NOM_PER 10171 10182	The captain
+T121	NOM_PER 3341 3354	seafaring men
+T122	NOM_PER 6092 6098	anyone
+T103	NOM_PER 7155 7204	the sort of man that made England terrible at sea
+T30	NOM_PER 4800 4901	a monstrous kind of a creature who had never had but the one leg , and that in the middle of his body
+T32	NOM_PER 1840 1871	the man who trundled the barrow
+T33	NOM_PER 5206 5225	the captain himself
+T38	NOM_PER 5231 5256	anybody else who knew him
+T2163	NOM_PER 5429 5435	nobody
+T44	NOM_PER 9615 9637	nobody but Dr. Livesey
+T54	NOM_FAC 6724 6729	there
+T2164	PRON_PER 148 150	me
+T2165	PRON_PER 360 361	I
+T2166	PRON_PER 370 372	my
+T2167	PRON_PER 433 435	my
+T2168	PRON_PER 529 532	his
+T2169	PRON_PER 547 550	our
+T2170	PRON_PER 558 559	I
+T2171	PRON_PER 569 572	him
+T2172	PRON_PER 602 604	he
+T2173	PRON_PER 637 640	his
+T2174	PRON_PER 668 671	him
+T2175	PRON_PER 734 737	his
+T2176	PRON_PER 781 784	his
+T2177	PRON_PER 804 807	his
+T2178	PRON_PER 924 925	I
+T2179	PRON_PER 935 938	him
+T2180	PRON_PER 980 987	himself
+T2181	PRON_PER 991 993	he
+T2182	PRON_PER 1051 1053	he
+T2183	PRON_PER 1261 1263	he
+T2184	PRON_PER 1325 1327	he
+T2185	PRON_PER 1347 1349	my
+T2186	PRON_PER 1434 1437	him
+T2187	PRON_PER 1440 1442	he
+T2188	PRON_PER 1526 1529	him
+T2189	PRON_PER 1554 1557	our
+T2190	PRON_PER 1602 1604	he
+T2191	PRON_PER 1680 1682	My
+T2192	PRON_PER 1695 1698	him
+T2193	PRON_PER 1773 1775	he
+T2194	PRON_PER 1802 1804	me
+T2195	PRON_PER 1812 1815	you
+T2196	PRON_PER 1828 1830	he
+T2197	PRON_PER 1907 1909	my
+T2198	PRON_PER 1918 1919	I
+T2199	PRON_PER 1944 1946	he
+T2200	PRON_PER 1961 1962	I
+T2201	PRON_PER 2011 2012	I
+T2202	PRON_PER 2073 2076	you
+T2203	PRON_PER 2089 2091	me
+T2204	PRON_PER 2094 2097	You
+T2205	PRON_PER 2110 2112	me
+T2206	PRON_PER 2128 2129	I
+T2207	PRON_PER 2139 2142	you
+T2208	PRON_PER 2167 2169	he
+T2209	PRON_PER 2228 2231	You
+T2210	PRON_PER 2241 2243	me
+T2211	PRON_PER 2249 2250	I
+T2212	PRON_PER 2284 2286	he
+T2213	PRON_PER 2342 2345	his
+T2214	PRON_PER 2375 2377	he
+T2215	PRON_PER 2386 2388	he
+T2216	PRON_PER 2565 2567	us
+T2217	PRON_PER 2585 2588	him
+T2218	PRON_PER 2640 2642	he
+T2219	PRON_PER 2729 2730	I
+T2220	PRON_PER 2801 2804	his
+T2221	PRON_PER 2843 2845	we
+T2222	PRON_PER 2861 2864	our
+T2223	PRON_PER 2873 2875	He
+T2224	PRON_PER 2918 2920	he
+T2225	PRON_PER 2997 2999	he
+T2226	PRON_PER 3090 3092	he
+T2227	PRON_PER 3174 3177	his
+T2228	PRON_PER 3205 3207	we
+T2229	PRON_PER 3238 3241	our
+T2230	PRON_PER 3268 3271	him
+T2231	PRON_PER 3292 3294	he
+T2232	PRON_PER 3310 3313	his
+T2233	PRON_PER 3321 3323	he
+T2234	PRON_PER 3393 3395	we
+T2235	PRON_PER 3434 3437	his
+T2236	PRON_PER 3457 3460	him
+T2237	PRON_PER 3493 3495	we
+T2238	PRON_PER 3509 3511	he
+T2239	PRON_PER 3534 3538	them
+T2240	PRON_PER 3656 3658	he
+T2241	PRON_PER 3676 3679	him
+T2242	PRON_PER 3714 3716	he
+T2243	PRON_PER 3743 3745	he
+T2244	PRON_PER 3821 3823	me
+T2245	PRON_PER 3880 3881	I
+T2246	PRON_PER 3911 3914	his
+T2247	PRON_PER 3924 3926	He
+T2248	PRON_PER 3937 3939	me
+T2249	PRON_PER 3967 3969	me
+T2250	PRON_PER 4020 4021	I
+T2251	PRON_PER 4038 4040	my
+T2252	PRON_PER 4103 4106	him
+T2253	PRON_PER 4123 4125	he
+T2254	PRON_PER 4193 4194	I
+T2255	PRON_PER 4206 4209	him
+T2256	PRON_PER 4214 4216	my
+T2257	PRON_PER 4224 4226	he
+T2258	PRON_PER 4251 4254	his
+T2259	PRON_PER 4263 4265	me
+T2260	PRON_PER 4276 4278	me
+T2261	PRON_PER 4314 4316	he
+T2262	PRON_PER 4356 4358	me
+T2263	PRON_PER 4359 4361	my
+T2264	PRON_PER 4392 4395	his
+T2265	PRON_PER 4483 4485	my
+T2266	PRON_PER 4495 4496	I
+T2267	PRON_PER 4516 4519	you
+T2268	PRON_PER 4646 4647	I
+T2269	PRON_PER 4658 4661	him
+T2270	PRON_PER 4793 4795	he
+T2271	PRON_PER 4893 4896	his
+T2272	PRON_PER 4911 4914	him
+T2273	PRON_PER 4939 4941	me
+T2274	PRON_PER 5008 5009	I
+T2275	PRON_PER 5031 5033	my
+T2276	PRON_PER 5114 5115	I
+T2277	PRON_PER 5181 5182	I
+T2278	PRON_PER 5218 5225	himself
+T2279	PRON_PER 5253 5256	him
+T2280	PRON_PER 5282 5284	he
+T2281	PRON_PER 5321 5324	his
+T2282	PRON_PER 5353 5355	he
+T2283	PRON_PER 5385 5388	his
+T2284	PRON_PER 5452 5454	he
+T2285	PRON_PER 5533 5536	his
+T2286	PRON_PER 5565 5568	his
+T2287	PRON_PER 5585 5586	I
+T2288	PRON_PER 5732 5736	them
+T2289	PRON_PER 5814 5816	he
+T2290	PRON_PER 5864 5866	he
+T2291	PRON_PER 5878 5881	his
+T2292	PRON_PER 5924 5926	he
+T2293	PRON_PER 6021 6023	he
+T2294	PRON_PER 6061 6064	his
+T2295	PRON_PER 6083 6085	he
+T2296	PRON_PER 6121 6123	he
+T2297	PRON_PER 6134 6141	himself
+T2298	PRON_PER 6173 6176	His
+T2300	PRON_PER 6392 6395	his
+T2301	PRON_PER 6408 6410	he
+T2302	PRON_PER 6427 6430	his
+T2303	PRON_PER 6531 6533	he
+T2304	PRON_PER 6561 6564	our
+T2305	PRON_PER 6620 6622	he
+T2306	PRON_PER 6635 6637	My
+T2307	PRON_PER 6789 6794	their
+T2308	PRON_PER 6806 6807	I
+T2309	PRON_PER 6823 6826	his
+T2310	PRON_PER 6840 6842	us
+T2311	PRON_PER 6907 6911	they
+T2312	PRON_PER 7051 7054	him
+T2313	PRON_PER 7065 7068	him
+T2314	PRON_PER 7229 7231	he
+T2315	PRON_PER 7250 7252	us
+T2316	PRON_PER 7259 7261	he
+T2317	PRON_PER 7386 7388	my
+T2318	PRON_PER 7458 7460	he
+T2319	PRON_PER 7501 7504	his
+T2320	PRON_PER 7525 7528	you
+T2321	PRON_PER 7539 7541	he
+T2322	PRON_PER 7562 7564	my
+T2323	PRON_PER 7595 7596	I
+T2324	PRON_PER 7607 7610	him
+T2325	PRON_PER 7620 7623	his
+T2326	PRON_PER 7656 7657	I
+T2327	PRON_PER 7695 7697	he
+T2328	PRON_PER 7734 7737	his
+T2329	PRON_PER 7777 7779	he
+T2330	PRON_PER 7791 7793	us
+T2331	PRON_PER 7833 7836	his
+T2332	PRON_PER 7905 7908	his
+T2333	PRON_PER 7934 7936	he
+T2334	PRON_PER 8018 8019	I
+T2335	PRON_PER 8047 8050	his
+T2336	PRON_PER 8064 8066	he
+T2337	PRON_PER 8075 8082	himself
+T2338	PRON_PER 8095 8098	his
+T2339	PRON_PER 8161 8163	He
+T2340	PRON_PER 8203 8205	he
+T2341	PRON_PER 8338 8340	us
+T2342	PRON_PER 8362 8364	He
+T2343	PRON_PER 8425 8427	my
+T2344	PRON_PER 8476 8479	him
+T2345	PRON_PER 8569 8571	my
+T2346	PRON_PER 8629 8632	his
+T2347	PRON_PER 8678 8680	we
+T2348	PRON_PER 8717 8718	I
+T2349	PRON_PER 8728 8731	him
+T2350	PRON_PER 8741 8742	I
+T2351	PRON_PER 8807 8810	his
+T2352	PRON_PER 8839 8842	his
+T2353	PRON_PER 9039 9042	his
+T2354	PRON_PER 9072 9074	he
+T2355	PRON_PER 9120 9123	his
+T2356	PRON_PER 9303 9304	I
+T2357	PRON_PER 9376 9379	his
+T2358	PRON_PER 9445 9447	my
+T2359	PRON_PER 9520 9522	we
+T2360	PRON_PER 9647 9650	him
+T2361	PRON_PER 9651 9652	I
+T2362	PRON_PER 9707 9709	he
+T2363	PRON_PER 9754 9756	he
+T2364	PRON_PER 9770 9773	his
+T2365	PRON_PER 9902 9905	his
+T2366	PRON_PER 9938 9941	his
+T2367	PRON_PER 9969 9972	him
+T2368	PRON_PER 9982 9984	we
+T2369	PRON_PER 10066 10068	he
+T2370	PRON_PER 10134 10137	his
+T2371	PRON_PER 10193 10196	him
+T2372	PRON_PER 10219 10222	his
+T2373	NOM_LOC 1572 1576	This
+T2374	NOM_FAC 1780 1784	this
+T2375	PRON_FAC 2707 2711	ours
+T2376	NOM_FAC 2786 2796	the others
+T2377	NOM_FAC 3019 3030	the parlour
+T2378	NOM_PER 3899 3921	a sharer in his alarms
+T2379	NOM_PER 4064 4092	a seafaring man with one leg
+T2380	NOM_LOC 6360 6386	places on the Spanish Main
+T2397	The_Old_Buccaneer-100000 12 29	The Old Buccaneer
+T2387	The_Old_Sea-dog-0 32 47	The Old Sea-dog
+T2384	the_Admiral_Benbow-1 51 69	the Admiral Benbow
+T2386	Squire_Trelawney-2 70 86	SQUIRE TRELAWNEY
+T2399	Dr__Livesey-3 89 100	Dr. Livesey
+T2385	the_rest_of_these_gentlemen-4 107 134	the rest of these gentlemen
+T4545	Jim_Hawkins-5 148 150	me
+T2388	Treasure_Island-6 193 208	Treasure Island
+T2407	Treasure_Island-6 284 294	the island
+T4546	Jim_Hawkins-5 360 361	I
+T4547	Jim_Hawkins-5 370 372	my
+T2438	my_father-7 433 442	my father
+T4548	Jim_Hawkins-5 433 435	my
+T2389	the_Admiral_Benbow-1 448 470	the Admiral Benbow inn
+T2383	The_Old_Sea-dog-0 475 495	the brown old seaman
+T4549	The_Old_Sea-dog-0 529 532	his
+T2390	the_Admiral_Benbow-1 547 555	our roof
+T4550	Hawkins_family-8 547 550	our
+T4551	Jim_Hawkins-5 558 559	I
+T4552	The_Old_Sea-dog-0 569 572	him
+T4553	The_Old_Sea-dog-0 602 604	he
+T2444	the_Admiral_Benbow-1 622 629	the inn
+T4554	The_Old_Sea-dog-0 637 640	his
+T4555	The_Old_Sea-dog-0 668 671	him
+T4556	The_Old_Sea-dog-0 734 737	his
+T4557	The_Old_Sea-dog-0 781 784	his
+T4558	The_Old_Sea-dog-0 804 807	his
+T4559	Jim_Hawkins-5 924 925	I
+T4560	The_Old_Sea-dog-0 935 938	him
+T2432	the_cover-9 953 962	the cover
+T4561	The_Old_Sea-dog-0 980 987	himself
+T4562	The_Old_Sea-dog-0 991 993	he
+T4563	The_Old_Sea-dog-0 1051 1053	he
+T2603	men-10 1091 1094	men
+T2474	the_dead_man-11 1098 1110	the dead man
+T2475	the_capstan_bars-12 1237 1253	the capstan bars
+T4564	The_Old_Sea-dog-0 1261 1263	he
+T4565	The_Old_Sea-dog-0 1325 1327	he
+T2440	my_father-7 1347 1356	my father
+T4566	Jim_Hawkins-5 1347 1349	my
+T4567	The_Old_Sea-dog-0 1434 1437	him
+T4568	The_Old_Sea-dog-0 1440 1442	he
+T4569	The_Old_Sea-dog-0 1526 1529	him
+T2476	the_cliffs-13 1533 1543	the cliffs
+T4570	Hawkins_family-8 1554 1557	our
+T4754	the_cove-22 1572 1576	This
+T4571	The_Old_Sea-dog-0 1602 1604	he
+T2393	company-14 1661 1668	company
+T2391	my_father-7 1671 1675	mate
+T2441	my_father-7 1680 1689	My father
+T4572	Jim_Hawkins-5 1680 1682	My
+T4573	The_Old_Sea-dog-0 1695 1698	him
+T2446	company-15 1716 1723	company
+T4574	The_Old_Sea-dog-0 1773 1775	he
+T4755	the_Admiral_Benbow-1 1780 1784	this
+T4575	The_Old_Sea-dog-0 1802 1804	me
+T4576	the_man_who_trundled_the_barrow-16 1812 1815	you
+T2382	the_man_who_trundled_the_barrow-16 1818 1823	matey
+T4577	The_Old_Sea-dog-0 1828 1830	he
+T2413	the_man_who_trundled_the_barrow-16 1840 1871	the man who trundled the barrow
+T4578	The_Old_Sea-dog-0 1907 1909	my
+T4579	The_Old_Sea-dog-0 1918 1919	I
+T2392	the_Admiral_Benbow-1 1929 1933	here
+T4580	The_Old_Sea-dog-0 1944 1946	he
+T4581	The_Old_Sea-dog-0 1961 1962	I
+T4582	The_Old_Sea-dog-0 2011 2012	I
+T4583	Hawkins_family-8 2073 2076	you
+T4584	The_Old_Sea-dog-0 2089 2091	me
+T4585	Hawkins_family-8 2094 2097	You
+T4586	The_Old_Sea-dog-0 2110 2112	me
+T2841	captain-17 2113 2120	captain
+T4587	The_Old_Sea-dog-0 2128 2129	I
+T4588	Hawkins_family-8 2139 2142	you
+T4589	The_Old_Sea-dog-0 2167 2169	he
+T4590	Hawkins_family-8 2228 2231	You
+T4591	The_Old_Sea-dog-0 2241 2243	me
+T4592	The_Old_Sea-dog-0 2249 2250	I
+T4593	The_Old_Sea-dog-0 2284 2286	he
+T4594	The_Old_Sea-dog-0 2342 2345	his
+T4595	The_Old_Sea-dog-0 2375 2377	he
+T4596	The_Old_Sea-dog-0 2386 2388	he
+T2395	the_man_who_trundled_the_barrow-16 2527 2559	The man who came with the barrow
+T4597	Hawkins_family-8 2565 2567	us
+T4598	The_Old_Sea-dog-0 2585 2588	him
+T2450	the_Royal_George-18 2616 2632	the Royal George
+T4599	The_Old_Sea-dog-0 2640 2642	he
+T2453	inns-19 2661 2665	inns
+T2443	the_coast-20 2683 2692	the coast
+T4756	the_Admiral_Benbow-1 2707 2711	ours
+T4600	Jim_Hawkins-5 2729 2730	I
+T4757	inns-19 2786 2796	the others
+T2449	his_place_of_residence-21 2801 2823	his place of residence
+T4601	The_Old_Sea-dog-0 2801 2804	his
+T4602	Hawkins_family-8 2843 2845	we
+T2454	The_Old_Sea-dog-0 2861 2870	our guest
+T4603	Hawkins_family-8 2861 2864	our
+T4604	The_Old_Sea-dog-0 2873 2875	He
+T4605	The_Old_Sea-dog-0 2918 2920	he
+T2447	the_cove-22 2932 2940	the cove
+T2398	the_cliffs-13 2949 2959	the cliffs
+T4606	The_Old_Sea-dog-0 2997 2999	he
+T2400	a_corner_of_the_parlour_next_the_fire-23 3007 3044	a corner of the parlour next the fire
+T2448	the_fire-24 3036 3044	the fire
+T4758	the_parlour-25 3019 3030	the parlour
+T4607	The_Old_Sea-dog-0 3090 3092	he
+T4608	The_Old_Sea-dog-0 3174 3177	his
+T4609	Hawkins_family-8 3205 3207	we
+T2458	the_people_who_came_about_our_house-26 3212 3247	the people who came about our house
+T2403	the_Admiral_Benbow-1 3238 3247	our house
+T4610	Hawkins_family-8 3238 3241	our
+T4611	The_Old_Sea-dog-0 3268 3271	him
+T4612	The_Old_Sea-dog-0 3292 3294	he
+T4613	The_Old_Sea-dog-0 3310 3313	his
+T4614	The_Old_Sea-dog-0 3321 3323	he
+T2502	seafaring_men-27 3341 3354	seafaring men
+T2402	the_road-28 3373 3381	the road
+T4615	Hawkins_family-8 3393 3395	we
+T4616	The_Old_Sea-dog-0 3434 3437	his
+T4617	The_Old_Sea-dog-0 3457 3460	him
+T4618	Hawkins_family-8 3493 3495	we
+T4619	The_Old_Sea-dog-0 3509 3511	he
+T4620	seafaring_men-27 3534 3538	them
+T2404	a_seaman-29 3546 3554	a seaman
+T2459	the_Admiral_Benbow-1 3569 3587	the Admiral Benbow
+T2405	the_road-28 3627 3641	the coast road
+T2406	Bristol-30 3646 3653	Bristol
+T4621	The_Old_Sea-dog-0 3656 3658	he
+T4622	The_Old_Sea-dog-0 3676 3679	him
+T4623	The_Old_Sea-dog-0 3714 3716	he
+T2408	the_parlour-25 3725 3736	the parlour
+T4624	The_Old_Sea-dog-0 3743 3745	he
+T4625	Jim_Hawkins-5 3821 3823	me
+T4626	Jim_Hawkins-5 3880 3881	I
+T4627	The_Old_Sea-dog-0 3911 3914	his
+T4628	The_Old_Sea-dog-0 3924 3926	He
+T4629	Jim_Hawkins-5 3937 3939	me
+T4630	Jim_Hawkins-5 3967 3969	me
+T4631	Jim_Hawkins-5 4020 4021	I
+T4632	Jim_Hawkins-5 4038 4040	my
+T4760	a_seafaring_man_with_one_leg-31 4064 4092	a seafaring man with one leg
+T4633	The_Old_Sea-dog-0 4103 4106	him
+T4634	a_seafaring_man_with_one_leg-31 4123 4125	he
+T4635	Jim_Hawkins-5 4193 4194	I
+T4636	The_Old_Sea-dog-0 4206 4209	him
+T4637	Jim_Hawkins-5 4214 4216	my
+T4638	The_Old_Sea-dog-0 4224 4226	he
+T4639	The_Old_Sea-dog-0 4251 4254	his
+T4640	Jim_Hawkins-5 4263 4265	me
+T4641	Jim_Hawkins-5 4276 4278	me
+T4642	The_Old_Sea-dog-0 4314 4316	he
+T4643	Jim_Hawkins-5 4356 4358	me
+T4644	Jim_Hawkins-5 4359 4361	my
+T4645	The_Old_Sea-dog-0 4392 4395	his
+T2462	a_seafaring_man_with_one_leg-31 4460 4474	that personage
+T4646	Jim_Hawkins-5 4483 4485	my
+T4647	Jim_Hawkins-5 4495 4496	I
+T4648	you-100001 4516 4519	you
+T2410	the_Admiral_Benbow-1 4581 4590	the house
+T2464	the_cove-22 4617 4625	the cove
+T2465	the_cliffs-13 4633 4643	the cliffs
+T4649	Jim_Hawkins-5 4646 4647	I
+T4650	a_seafaring_man_with_one_leg-31 4658 4661	him
+T4651	a_seafaring_man_with_one_leg-31 4793 4795	he
+T4652	a_seafaring_man_with_one_leg-31 4893 4896	his
+T4653	a_seafaring_man_with_one_leg-31 4911 4914	him
+T4654	Jim_Hawkins-5 4939 4941	me
+T4655	Jim_Hawkins-5 5008 5009	I
+T4656	Jim_Hawkins-5 5031 5033	my
+T4657	Jim_Hawkins-5 5114 5115	I
+T2412	a_seafaring_man_with_one_leg-31 5148 5165	the seafaring man
+T4658	Jim_Hawkins-5 5181 5182	I
+T2414	The_Old_Sea-dog-0 5206 5225	the captain himself
+T4659	The_Old_Sea-dog-0 5218 5225	himself
+T2419	anybody_else_who_knew_him-32 5231 5256	anybody else who knew him
+T4660	The_Old_Sea-dog-0 5253 5256	him
+T4661	The_Old_Sea-dog-0 5282 5284	he
+T4662	The_Old_Sea-dog-0 5321 5324	his
+T4663	The_Old_Sea-dog-0 5353 5355	he
+T4664	The_Old_Sea-dog-0 5385 5388	his
+T4544	nobody-33 5429 5435	nobody
+T4665	The_Old_Sea-dog-0 5452 5454	he
+T2467	the_trembling_company-34 5498 5519	the trembling company
+T4666	The_Old_Sea-dog-0 5533 5536	his
+T4667	The_Old_Sea-dog-0 5565 5568	his
+T4668	Jim_Hawkins-5 5585 5586	I
+T2415	the_Admiral_Benbow-1 5598 5607	the house
+T2416	the_neighbours-35 5662 5676	the neighbours
+T4669	the_neighbours-35 5732 5736	them
+T4670	The_Old_Sea-dog-0 5814 5816	he
+T4671	The_Old_Sea-dog-0 5864 5866	he
+T4672	The_Old_Sea-dog-0 5878 5881	his
+T4673	The_Old_Sea-dog-0 5924 5926	he
+T4674	The_Old_Sea-dog-0 6021 6023	he
+T2469	the_company-36 6031 6042	the company
+T4675	The_Old_Sea-dog-0 6061 6064	his
+T4676	The_Old_Sea-dog-0 6083 6085	he
+T2503	anyone-37 6092 6098	anyone
+T2417	the_Admiral_Benbow-1 6108 6115	the inn
+T4677	The_Old_Sea-dog-0 6121 6123	he
+T4678	The_Old_Sea-dog-0 6134 6141	himself
+T4679	The_Old_Sea-dog-0 6173 6176	His
+T2426	people-38 6206 6212	people
+T2480	at_sea-39 6309 6315	at sea
+T2481	the_Dry_Tortugas-40 6322 6338	the Dry Tortugas
+T2420	the_Spanish_Main-41 6370 6386	the Spanish Main
+T4761	places_on_the_Spanish_Main-42 6360 6386	places on the Spanish Main
+T4681	The_Old_Sea-dog-0 6392 6395	his
+T4682	The_Old_Sea-dog-0 6408 6410	he
+T4683	The_Old_Sea-dog-0 6427 6430	his
+T3775	God-44 6473 6476	God
+T2421	at_sea-39 6495 6502	the sea
+T4684	The_Old_Sea-dog-0 6531 6533	he
+T2422	our_plain_country_people-45 6561 6585	our plain country people
+T4685	Hawkins_family-8 6561 6564	our
+T4686	The_Old_Sea-dog-0 6620 6622	he
+T2478	my_father-7 6635 6644	My father
+T4687	Jim_Hawkins-5 6635 6637	My
+T2423	the_Admiral_Benbow-1 6663 6670	the inn
+T2424	people-46 6693 6699	people
+T2435	the_Admiral_Benbow-1 6724 6729	there
+T4688	people-46 6789 6794	their
+T4689	Jim_Hawkins-5 6806 6807	I
+T4690	The_Old_Sea-dog-0 6823 6826	his
+T4691	Hawkins_family-8 6840 6842	us
+T2427	People-47 6850 6856	People
+T4692	People-47 6907 6911	they
+T2428	a_party_of_the_younger_men-48 7000 7026	a party of the younger men
+T4693	The_Old_Sea-dog-0 7051 7054	him
+T4694	The_Old_Sea-dog-0 7065 7068	him
+T3921	England-49 7181 7188	England
+T2429	at_sea-39 7201 7204	sea
+T4695	The_Old_Sea-dog-0 7229 7231	he
+T4696	Hawkins_family-8 7250 7252	us
+T4697	The_Old_Sea-dog-0 7259 7261	he
+T2485	my_father-7 7386 7395	my father
+T4698	Jim_Hawkins-5 7386 7388	my
+T4699	my_father-7 7458 7460	he
+T2486	The_Old_Sea-dog-0 7476 7487	the captain
+T4700	The_Old_Sea-dog-0 7501 7504	his
+T4701	you-100003 7525 7528	you
+T4702	The_Old_Sea-dog-0 7539 7541	he
+T2430	my_father-7 7562 7576	my poor father
+T4703	Jim_Hawkins-5 7562 7564	my
+T2487	the_room-50 7584 7592	the room
+T4704	Jim_Hawkins-5 7595 7596	I
+T4705	my_father-7 7607 7610	him
+T4706	my_father-7 7620 7623	his
+T4707	Jim_Hawkins-5 7656 7657	I
+T4708	my_father-7 7695 7697	he
+T4709	my_father-7 7734 7737	his
+T4710	The_Old_Sea-dog-0 7777 7779	he
+T4711	Hawkins_family-8 7791 7793	us
+T2488	The_Old_Sea-dog-0 7794 7805	the captain
+T4712	The_Old_Sea-dog-0 7833 7836	his
+T2489	a_hawker-51 7874 7882	a hawker
+T4713	The_Old_Sea-dog-0 7905 7908	his
+T4714	The_Old_Sea-dog-0 7934 7936	he
+T4715	Jim_Hawkins-5 8018 8019	I
+T4716	The_Old_Sea-dog-0 8047 8050	his
+T4717	The_Old_Sea-dog-0 8064 8066	he
+T4718	The_Old_Sea-dog-0 8075 8082	himself
+T2436	upstairs-52 8083 8091	upstairs
+T2490	his_room-53 8095 8103	his room
+T4719	The_Old_Sea-dog-0 8095 8098	his
+T4720	The_Old_Sea-dog-0 8161 8163	He
+T4721	The_Old_Sea-dog-0 8203 8205	he
+T2472	the_neighbours-54 8231 8245	the neighbours
+T4722	Hawkins_family-8 8338 8340	us
+T4723	The_Old_Sea-dog-0 8362 8364	He
+T2437	my_father-7 8425 8439	my poor father
+T4724	Jim_Hawkins-5 8425 8427	my
+T4725	my_father-7 8476 8479	him
+T2418	my_father-7 8529 8540	the patient
+T2470	my_mother-56 8569 8578	my mother
+T4726	Jim_Hawkins-5 8569 8571	my
+T2433	the_parlour-25 8595 8606	the parlour
+T4201	Dr__Livesey-3 8486 8497	Dr. Livesey
+T4727	Dr__Livesey-3 8629 8632	his
+T2473	the_hamlet-57 8661 8671	the hamlet
+T4728	Hawkins_family-8 8678 8680	we
+T2471	the_Admiral_Benbow-1 8700 8714	the old Benbow
+T4729	Jim_Hawkins-5 8717 8718	I
+T4730	Dr__Livesey-3 8728 8731	him
+T4731	Jim_Hawkins-5 8741 8742	I
+T4732	Dr__Livesey-3 8807 8810	his
+T4733	Dr__Livesey-3 8839 8842	his
+T2491	the_coltish_country_folk-58 8896 8920	the coltish country folk
+T4734	The_Old_Sea-dog-0 9039 9042	his
+T4735	The_Old_Sea-dog-0 9072 9074	he
+T2493	The_Old_Sea-dog-0 9078 9089	the captain
+T4736	The_Old_Sea-dog-0 9120 9123	his
+T4342	men-10 9149 9152	men
+T2496	the_dead_man-11 9156 9168	the dead man
+T2495	the_devil-59 9224 9233	the devil
+T4737	Jim_Hawkins-5 9303 9304	I
+T2494	the_dead_man-11 9320 9332	the dead man
+T4738	The_Old_Sea-dog-0 9376 9379	his
+T2497	upstairs-60 9380 9388	upstairs
+T2498	his_room-53 9392 9406	the front room
+T4739	Jim_Hawkins-5 9445 9447	my
+T2434	a_seafaring_man_with_one_leg-31 9472 9500	the one-legged seafaring man
+T4740	Hawkins_family-8 9520 9522	we
+T2425	nobody_but_Dr__Livesey-61 9615 9637	nobody but Dr. Livesey
+T4448	Dr__Livesey-3 9626 9637	Dr. Livesey
+T4741	Dr__Livesey-3 9647 9650	him
+T4742	Jim_Hawkins-5 9651 9652	I
+T4743	Dr__Livesey-3 9707 9709	he
+T4744	Dr__Livesey-3 9754 9756	he
+T4745	Dr__Livesey-3 9770 9773	his
+T4482	Taylor-62 9786 9792	Taylor
+T2500	The_Old_Sea-dog-0 9863 9874	the captain
+T4746	The_Old_Sea-dog-0 9902 9905	his
+T4747	The_Old_Sea-dog-0 9938 9941	his
+T4748	The_Old_Sea-dog-0 9969 9972	him
+T4749	Hawkins_family-8 9982 9984	we
+T4538	Dr__Livesey-3 10049 10060	Dr. Livesey
+T4750	Dr__Livesey-3 10066 10068	he
+T4751	Dr__Livesey-3 10134 10137	his
+T2501	The_Old_Sea-dog-0 10171 10182	The captain
+T4752	Dr__Livesey-3 10193 10196	him
+T4753	The_Old_Sea-dog-0 10219 10222	his
+R2	cop Arg1:T64 Arg2:T2373
+R4	cop Arg1:T61 Arg2:T2374
+R5	cop Arg1:T74 Arg2:T2200
+R8	cop Arg1:T70 Arg2:T2215
+R9	cop Arg1:T71 Arg2:T2215
+R10	cop Arg1:T76 Arg2:T2223
+R11	cop Arg1:T2378 Arg2:T2245
+R12	cop Arg1:T30 Arg2:T2270
+R13	cop Arg1:T87 Arg2:T2289
+R14	cop Arg1:T101 Arg2:T2313
+R15	cop Arg1:T102 Arg2:T2313
+R19	appos Arg1:T118 Arg2:T2101
+T82	NOM_PER 4421 4451	the seafaring man with one leg
+T85	a_seafaring_man_with_one_leg-31 4421 4451	the seafaring man with one leg
+T20	grogshop-803 1623 1653	a pleasant sittyated grog-shop
+T4766	PRON_FAC 2778 2780	it
+T4767	the_Admiral_Benbow-1 2778 2780	it
+T28	The_Old_Sea-dog-0 692 731	a tall , strong , heavy , nut-brown man
+T79	a_commander-700 2310 2321	a commander
+T80	a_man_who_sailed_bef-701 2419 2451	a man who sailed before the mast
+T98	The_Old_Sea-dog-0 7155 7204	the sort of man that made England terrible at sea
+T123	Dr__Livesey-3 8775 8799	the neat , bright doctor
+T124	NOM_PER 8944 9003	that filthy , heavy , bleared scarecrow of a pirate of ours
+T125	The_Old_Sea-dog-0 8944 9003	that filthy , heavy , bleared scarecrow of a pirate of ours
+T111	NOM_PER 8330 8340	none of us
+T126	none_of_us-700 8330 8340	none of us
+T127	NOM_PER 3606 3610	some
+T128	some-701 3606 3610	some
+T129	NOM_PER 6442 6502	some of the wickedest men that God ever allowed upon the sea
+T130	some_of_the_wickedest_men-43 6442 6502	some of the wickedest men that God ever allowed upon the sea

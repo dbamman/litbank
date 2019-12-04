@@ -1,0 +1,466 @@
+T0	PROP_PER 123 136	the Ambersons
+T1	PROP_PER 10 24	Major Amberson
+T2	PROP_PER 316 329	the Ambersons
+T4	PROP_GPE 293 301	New York
+T5	NOM_PER 556 564	children
+T6	NOM_GPE 594 603	that town
+T8	NOM_PER 962 973	the drivers
+T9	PROP_FAC 900 916	Tennessee Street
+T10	NOM_FAC 1332 1337	store
+T11	NOM_FAC 1222 1232	the street
+T12	NOM_FAC 1322 1328	office
+T15	NOM_PER 1659 1668	governors
+T16	NOM_PER 1647 1654	Old men
+T17	NOM_PER 1896 1905	these men
+T18	NOM_GPE 1879 1883	town
+T19	NOM_PER 2103 2110	tailors
+T20	NOM_FAC 2322 2333	Every house
+T23	NOM_PER 2864 2869	women
+T26	NOM_PER 4051 4081	a Senator of the United States
+T28	NOM_FAC 4378 4408	the houses of the Midland town
+T29	NOM_GPE 4392 4408	the Midland town
+T32	PROP_FAC 4850 4866	Tennessee Street
+T40	NOM_FAC 5158 5169	three rooms
+T42	NOM_FAC 5239 5250	the library
+T44	NOM_PER 5413 5420	callers
+T46	NOM_FAC 5364 5375	the library
+T48	NOM_FAC 5623 5636	the “ parlour
+T51	NOM_FAC 5768 5793	mother-and-father 's room
+T52	NOM_PER 5857 5877	one or two daughters
+T53	NOM_FAC 6063 6073	downstairs
+T55	NOM_FAC 6351 6361	a bathroom
+T56	NOM_PER 6214 6222	visitors
+T57	NOM_FAC 6409 6423	the new houses
+T59	NOM_FAC 6430 6446	the older houses
+T60	NOM_FAC 6558 6574	its own bathroom
+T61	NOM_PER 6374 6388	the architects
+T62	NOM_PER 6596 6603	plumber
+T64	NOM_FAC 6696 6704	upstairs
+T65	NOM_FAC 6684 6693	the house
+T66	NOM_FAC 6847 6868	the hired man 's room
+T68	NOM_FAC 6873 6878	House
+T73	NOM_PER 7344 7351	The man
+T75	NOM_PER 7355 7384	youth who lived in the stable
+T76	NOM_PER 7730 7741	the darkies
+T77	NOM_FAC 7773 7782	the alley
+T78	NOM_PER 8068 8095	less investigative children
+T79	NOM_PER 7960 7981	early rising children
+T80	NOM_GPE 8309 8325	the Midland town
+T83	NOM_PER 9344 9354	passengers
+T84	NOM_PER 9542 9552	the driver
+T85	NOM_PER 9499 9511	no conductor
+T86	NOM_PER 9664 9678	the passengers
+T87	NOM_PER 9788 9802	the passengers
+T88	NOM_FAC 9959 9967	upstairs
+T89	NOM_FAC 10182 10191	the house
+T90	NOM_PER 9924 9930	a lady
+T91	NOM_PER 10194 10217	The previous passengers
+T92	NOM_PER 10582 10596	its passengers
+T93	NOM_PER 10957 10963	a lady
+T3	PROP_PER 226 245	Magnificent Lorenzo
+T94	NOM_GPE 429 447	their Midland town
+T95	NOM_GPE 471 477	a city
+T96	NOM_PER 527 564	every prosperous family with children
+T98	NOM_PER 622 659	all the women who wore silk or velvet
+T7	NOM_PER 665 708	all the other women who wore silk or velvet
+T99	NOM_PER 759 770	sick people
+T101	PROP_FAC 880 895	National Avenue
+T100	NOM_VEH 1030 1042	slim buggies
+T102	NOM_VEH 1126 1169	everybody else 's family horse-and-carriage
+T103	NOM_FAC 1273 1279	market
+T13	NOM_FAC 1312 1316	home
+T104	NOM_LOC 1888 1895	country
+T105	NOM_PER 2060 2071	dressmakers
+T106	NOM_PER 2074 2084	shoemakers
+T107	NOM_PER 2087 2096	hatmakers
+T21	NOM_VEH 2547 2560	racing shells
+T108	NOM_PER 2872 2917	that variation of dandy known as the “ dude ”
+T109	NOM_PER 2890 2895	dandy
+T110	NOM_PER 2905 2917	the “ dude ”
+T22	NOM_GPE 4064 4081	the United States
+T24	NOM_GPE 4156 4164	the land
+T111	NOM_FAC 4370 4408	most of the houses of the Midland town
+T112	NOM_FAC 4567 4758	commodious yards , well shaded by leftover forest trees , elm and walnut and beech , with here and there a line of tall sycamores where the land had been made by filling bayous from the creek
+T30	NOM_LOC 4703 4711	the land
+T113	NOM_LOC 4737 4743	bayous
+T114	NOM_LOC 4749 4758	the creek
+T115	NOM_FAC 4761 4866	The house of a “ prominent resident , ” facing Military Square , or National Avenue , or Tennessee Street
+T116	PROP_FAC 4808 4823	Military Square
+T117	PROP_FAC 4829 4844	National Avenue
+T119	NOM_PER 5302 5314	these people
+T120	NOM_PER 5341 5351	the family
+T121	NOM_FAC 5480 5523	a place of formidable polish and discomfort
+T49	NOM_FAC 5544 5555	the library
+T122	NOM_FAC 5737 5745	Upstairs
+T123	NOM_FAC 5751 5763	the bedrooms
+T124	NOM_PER 5768 5785	mother-and-father
+T126	NOM_FAC 5810 5844	a smaller room for one or two sons
+T54	NOM_PER 5829 5844	one or two sons
+T127	NOM_FAC 5845 5877	another for one or two daughters
+T50	NOM_FAC 5880 6167	each of these rooms containing a double bed , a “ washstand , ” a “ bureau , ” a wardrobe , a little table , a rocking-chair , and often a chair or two that had been slightly damaged downstairs , but not enough to justify either the expense of repair or decisive abandonment in the attic
+T128	NOM_FAC 6158 6167	the attic
+T129	NOM_FAC 6191 6222	a “ spare-room , ” for visitors
+T130	NOM_FAC 6396 6405	bathrooms
+T58	NOM_GPE 6587 6595	American
+T131	NOM_FAC 6709 6731	a bleak little chamber
+T132	NOM_FAC 6771 6781	the stable
+T67	NOM_FAC 6792 6831	another bedroom , adjoining the hayloft
+T133	NOM_FAC 6820 6831	the hayloft
+T135	NOM_PER 6847 6860	the hired man
+T136	NOM_FAC 6883 6889	stable
+T137	NOM_PER 6942 6996	people with that much money to invest in such comforts
+T138	NOM_PER 7016 7024	the Rich
+T139	NOM_PER 7057 7065	the girl
+T142	NOM_GPE 7288 7296	the land
+T143	NOM_PER 7323 7341	a person of colour
+T144	NOM_FAC 7374 7384	the stable
+T74	NOM_PER 7438 7456	a steerage voyager
+T72	NOM_FAC 7533 7571	the alleys behind the stables were gay
+T145	NOM_FAC 7551 7562	the stables
+T147	NOM_FAC 7711 7717	stable
+T148	NOM_PER 7785 7792	Darkies
+T149	NOM_PER 7997 8009	older people
+T150	NOM_PER 8284 8325	those darky hired-men of the Midland town
+T81	NOM_FAC 8701 8712	The stables
+T151	NOM_PER 8843 8855	the “ girl ”
+T152	NOM_PER 8860 8877	the “ hired-man ”
+T153	NOM_FAC 8935 8941	stable
+T154	NOM_FAC 8946 8954	woodshed
+T157	NOM_VEH 9167 9195	the little bunty street-cars
+T158	NOM_FAC 9199 9272	the long , single track that went its troubled way among the cobblestones
+T159	NOM_VEH 9295 9302	the car
+T160	NOM_VEH 9404 9411	the car
+T161	NOM_PER 9422 9433	The patrons
+T162	NOM_VEH 9735 9742	the car
+T163	NOM_VEH 9887 9894	the car
+T164	NOM_VEH 9981 9988	the car
+T165	NOM_FAC 10085 10095	downstairs
+T166	NOM_PER 10123 10135	the “ girl ”
+T167	NOM_VEH 10273 10280	the car
+T168	NOM_VEH 10382 10389	the car
+T169	NOM_VEH 10478 10493	the trolley-car
+T25	NOM_PER 3737 3748	the wearers
+T82	NOM_PER 8624 8644	the careless drivers
+T27	PROP_PER 4341 4354	the Ambersons
+T70	NOM_FAC 7055 7075	“ the girl 's room ”
+T69	NOM_PER 7037 7075	the inhabitant of “ the girl 's room ”
+T36	NOM_FAC 5109 5126	a “ back hall . ”
+T38	NOM_FAC 5077 5092	a “ side hall ”
+T37	NOM_FAC 5048 5064	a “ front hall ”
+T41	NOM_FAC 5136 5150	“ front hall ”
+T33	NOM_FAC 4988 5004	a “ back porch ”
+T35	NOM_FAC 5013 5031	a “ side porch , ”
+T34	NOM_FAC 4966 4983	a “ front porch ”
+T118	NOM_FAC 5172 5189	the “ parlour , ”
+T43	NOM_FAC 5190 5212	the “ sitting room , ”
+T39	NOM_FAC 5217 5232	the “ library ”
+T31	NOM_PER 4774 4800	a “ prominent resident , ”
+T47	NOM_FAC 5384 5406	the “ sitting room , ”
+T45	NOM_FAC 5462 5479	the “ parlour , ”
+T134	NOM_PER 6743 6751	the girl
+T63	NOM_FAC 6743 6759	the girl 's room
+T156	NOM_PER 8980 8999	the “ hired-man , ”
+T155	NOM_PER 8961 8999	the whole tribe of the “ hired-man , ”
+T14	NOM_PER 1765 1875	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove-pipe . ”
+T171	NOM_PER 63 75	other people
+T172	NOM_PER 919 928	everybody
+T173	NOM_PER 1126 1140	everybody else
+T174	NOM_PER 1111 1120	everybody
+T175	NOM_PER 10563 10569	nobody
+T177	PRON_PER 268 270	he
+T178	PRON_PER 350 355	their
+T179	PRON_PER 372 377	Their
+T180	PRON_PER 429 434	their
+T181	PRON_PER 991 995	them
+T183	PRON_PER 1967 1971	they
+T186	PRON_PER 2933 2935	he
+T187	PRON_PER 3181 3184	his
+T188	PRON_PER 3293 3295	he
+T189	PRON_PER 3330 3333	his
+T190	PRON_PER 3426 3428	he
+T191	PRON_PER 3440 3443	his
+T192	PRON_PER 3469 3472	his
+T193	PRON_PER 3485 3487	he
+T194	PRON_PER 3502 3505	his
+T195	PRON_PER 3572 3574	he
+T196	PRON_PER 3635 3638	him
+T197	PRON_PER 4119 4122	his
+T198	PRON_PER 4289 4291	we
+T199	PRON_FAC 4443 4447	They
+T200	PRON_FAC 4553 4557	They
+T201	PRON_PER 5428 5432	they
+T204	PRON_PER 7027 7031	They
+T205	PRON_PER 7199 7202	She
+T206	PRON_PER 7304 7307	she
+T207	PRON_PER 7416 7418	he
+T208	PRON_PER 7476 7478	he
+T209	PRON_FAC 7613 7618	their
+T210	PRON_PER 7757 7762	their
+T211	PRON_PER 7853 7857	they
+T212	PRON_PER 8265 8269	They
+T213	PRON_PER 8357 8361	they
+T216	PRON_PER 8509 8513	they
+T217	PRON_PER 9015 9019	They
+T218	PRON_PER 9056 9058	we
+T219	PRON_PER 9064 9068	they
+T220	PRON_PER 9109 9113	they
+T221	PRON_PER 9469 9474	their
+T222	PRON_PER 9580 9583	his
+T223	PRON_PER 9620 9623	his
+T224	PRON_PER 9840 9844	They
+T225	PRON_PER 10021 10024	her
+T226	PRON_PER 10031 10034	she
+T227	PRON_PER 10060 10063	her
+T228	PRON_PER 10283 10287	they
+T229	PRON_PER 10320 10330	themselves
+T230	PRON_PER 10644 10648	they
+T231	PRON_PER 10676 10680	they
+T232	PRON_PER 10744 10748	them
+T233	PRON_PER 10757 10762	their
+T234	PRON_PER 10780 10784	they
+T235	PRON_PER 10868 10872	they
+T236	NOM_PER 7348 7360	man or youth
+T238	Major_Amberson-0 10 24	Major Amberson
+T408	other_people-1 63 75	other people
+T237	the_Ambersons-2 123 136	the Ambersons
+T240	Magnificent_Lorenzo-3 226 245	Magnificent Lorenzo
+T414	Magnificent_Lorenzo-3 268 270	he
+T241	New_York-4 293 301	New York
+T239	the_Ambersons-2 316 329	the Ambersons
+T415	the_Ambersons-2 350 355	their
+T416	the_Ambersons-2 372 377	Their
+T331	their_Midland_town-5 429 447	their Midland town
+T417	the_Ambersons-2 429 434	their
+T332	a_city-6 471 477	a city
+T333	every_prosperous_family_with_children-7 527 564	every prosperous family with children
+T242	children-8 556 564	children
+T243	their_Midland_town-5 594 603	that town
+T335	all_the_women_who_wore_silk_or_velvet-10 622 659	all the women who wore silk or velvet
+T244	all_the_other_women_who_wore_silk_or_velvet-11 665 708	all the other women who wore silk or velvet
+T336	sick_people-12 759 770	sick people
+T338	National_Avenue-13 880 895	National Avenue
+T246	Tennessee_Street-14 900 916	Tennessee Street
+T409	everybody-15 919 928	everybody
+T245	the_drivers-16 962 973	the drivers
+T418	them-17 991 995	them
+T337	slim_buggies-18 1030 1042	slim buggies
+T411	everybody-19 1111 1120	everybody
+T339	everybody_else__s_family_horse-and-carriage-20 1126 1169	everybody else 's family horse-and-carriage
+T410	everybody_else-21 1126 1140	everybody else
+T248	the_street-22 1222 1232	the street
+T340	market-23 1273 1279	market
+T250	home-24 1312 1316	home
+T249	office-25 1322 1328	office
+T247	store-26 1332 1337	store
+T253	Old_men-27 1647 1654	Old men
+T252	governors-28 1659 1668	governors
+T251	men_of_all_ages_to_whom_a_hat_meant_only_that_rigid___tall_silk_thing_known_to_impudence_as_a___stove-pipe____-29 1765 1875	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove-pipe . ”
+T255	their_Midland_town-5 1879 1883	town
+T341	country-30 1888 1895	country
+T254	these_men-31 1896 1905	these men
+T420	these_men-31 1967 1971	they
+T342	dressmakers-32 2060 2071	dressmakers
+T343	shoemakers-33 2074 2084	shoemakers
+T344	hatmakers-34 2087 2096	hatmakers
+T256	tailors-35 2103 2110	tailors
+T257	Every_house-36 2322 2333	Every house
+T258	racing_shells-100000 2547 2560	racing shells
+T260	women-37 2864 2869	women
+T345	that_variation_of_dandy_known_as_the___dude__-38 2872 2917	that variation of dandy known as the “ dude ”
+T346	dandy-39 2890 2895	dandy
+T347	dandy-39 2905 2917	the “ dude ”
+T423	dandy-39 2933 2935	he
+T424	dandy-39 3181 3184	his
+T425	dandy-39 3293 3295	he
+T426	dandy-39 3330 3333	his
+T427	dandy-39 3426 3428	he
+T428	dandy-39 3440 3443	his
+T429	dandy-39 3469 3472	his
+T430	dandy-39 3485 3487	he
+T431	dandy-39 3502 3505	his
+T432	dandy-39 3572 3574	he
+T433	dandy-39 3635 3638	him
+T262	the_wearers-40 3737 3748	the wearers
+T263	a_Senator_of_the_United_States-41 4051 4081	a Senator of the United States
+T259	the_United_States-42 4064 4081	the United States
+T434	a_Senator_of_the_United_States-41 4119 4122	his
+T261	the_United_States-42 4156 4164	the land
+T435	we-43 4289 4291	we
+T264	the_Ambersons-2 4341 4354	the Ambersons
+T348	most_of_the_houses_of_the_Midland_town-100001 4370 4408	most of the houses of the Midland town
+T265	the_houses_of_the_Midland_town-45 4378 4408	the houses of the Midland town
+T266	their_Midland_town-5 4392 4408	the Midland town
+T436	the_houses_of_the_Midland_town-45 4443 4447	They
+T437	the_houses_of_the_Midland_town-45 4553 4557	They
+T349	commodious_yards___well_shaded_by_leftover_forest_trees___elm_and_walnut_and_beech___with_here_and_there_a_line_of_tall_sycamores_where_the_land_had_been_made_by_filling_bayous_from_the_creek-46 4567 4758	commodious yards , well shaded by leftover forest trees , elm and walnut and beech , with here and there a line of tall sycamores where the land had been made by filling bayous from the creek
+T267	the_land-47 4703 4711	the land
+T350	bayous-48 4737 4743	bayous
+T351	the_creek-49 4749 4758	the creek
+T352	The_house_of_a___prominent_resident_____facing_Military_Square___or_National_Avenue___or_Tennessee_Street-50 4761 4866	The house of a “ prominent resident , ” facing Military Square , or National Avenue , or Tennessee Street
+T268	a___prominent_resident____-51 4774 4800	a “ prominent resident , ”
+T353	Military_Square-52 4808 4823	Military Square
+T354	National_Avenue-53 4829 4844	National Avenue
+T269	Tennessee_Street-54 4850 4866	Tennessee Street
+T271	a___front_porch__-55 4966 4983	a “ front porch ”
+T270	a___back_porch__-56 4988 5004	a “ back porch ”
+T272	a___side_porch____-57 5013 5031	a “ side porch , ”
+T274	a___front_hall__-58 5048 5064	a “ front hall ”
+T275	a___side_hall__-59 5077 5092	a “ side hall ”
+T273	a___back_hall____-60 5109 5126	a “ back hall . ”
+T278	a___front_hall__-58 5136 5150	“ front hall ”
+T277	three_rooms-61 5158 5169	three rooms
+T355	the___parlour____-62 5172 5189	the “ parlour , ”
+T280	the___sitting_room____-63 5190 5212	the “ sitting room , ”
+T276	the___library__-64 5217 5232	the “ library ”
+T279	the___library__-64 5239 5250	the library
+T356	the_Ambersons-2 5302 5314	these people
+T357	the_Ambersons-2 5341 5351	the family
+T283	the___library__-64 5364 5375	the library
+T284	the___sitting_room____-63 5384 5406	the “ sitting room , ”
+T281	callers-65 5413 5420	callers
+T438	callers-65 5428 5432	they
+T282	the___parlour____-62 5462 5479	the “ parlour , ”
+T286	the___library__-64 5544 5555	the library
+T285	the___parlour____-62 5623 5636	the “ parlour
+T359	Upstairs-66 5737 5745	Upstairs
+T360	the_bedrooms-67 5751 5763	the bedrooms
+T288	mother-and-father__s_room-68 5768 5793	mother-and-father 's room
+T361	mother-and-father-100002 5768 5785	mother-and-father
+T363	a_smaller_room_for_one_or_two_sons-69 5810 5844	a smaller room for one or two sons
+T291	one_or_two_sons-70 5829 5844	one or two sons
+T364	another_for_one_or_two_daughters-71 5845 5877	another for one or two daughters
+T289	one_or_two_daughters-72 5857 5877	one or two daughters
+T287	each_of_these_rooms_containing_a_double_bed_,_a_“_washstand_,_”_a_“_bureau_,_”_a_wardrobe_,_a_little_table_,_a_rocking-chair_,_and_often_a_chair_or_two_that_had_been_slightly_damaged_downstairs_,_but_not_enough_to_justify_either_the_expense_of_repair_or_decisive_abandonment_in_the_attic-100003 5880 6167	each of these rooms containing a double bed , a “ washstand , ” a “ bureau , ” a wardrobe , a little table , a rocking-chair , and often a chair or two that had been slightly damaged downstairs , but not enough to justify either the expense of repair or decisive abandonment in the attic
+T290	downstairs-74 6063 6073	downstairs
+T365	the_attic-75 6158 6167	the attic
+T366	a___spare-room_____for_visitors-76 6191 6222	a “ spare-room , ” for visitors
+T293	visitors-77 6214 6222	visitors
+T292	a_bathroom-78 6351 6361	a bathroom
+T298	the_architects-79 6374 6388	the architects
+T367	bathrooms-80 6396 6405	bathrooms
+T294	the_new_houses-81 6409 6423	the new houses
+T296	the_older_houses-82 6430 6446	the older houses
+T297	its_own_bathroom-83 6558 6574	its own bathroom
+T295	American-84 6587 6595	American
+T299	plumber-85 6596 6603	plumber
+T302	the_house-86 6684 6693	the house
+T301	Upstairs-66 6696 6704	upstairs
+T368	a_bleak_little_chamber-87 6709 6731	a bleak little chamber
+T371	the_girl-88 6743 6751	the girl
+T300	a_bleak_little_chamber-87 6743 6759	the girl 's room
+T369	the_stable-89 6771 6781	the stable
+T304	another_bedroom___adjoining_the_hayloft-90 6792 6831	another bedroom , adjoining the hayloft
+T370	the_hayloft-91 6820 6831	the hayloft
+T303	the_hired_man__s_room-92 6847 6868	the hired man 's room
+T372	the_hired_man-93 6847 6860	the hired man
+T305	the_house-86 6873 6878	House
+T373	the_stable-89 6883 6889	stable
+T374	people_with_that_much_money_to_invest_in_such_comforts-94 6942 6996	people with that much money to invest in such comforts
+T375	the_Rich-95 7016 7024	the Rich
+T441	the_Rich-95 7027 7031	They
+T306	the_inhabitant_of___the_girl__s_room__-96 7037 7075	the inhabitant of “ the girl 's room ”
+T307	a_bleak_little_chamber-87 7055 7075	“ the girl 's room ”
+T376	the_girl-88 7057 7065	the girl
+T442	the_girl-88 7199 7202	She
+T379	the_United_States-42 7288 7296	the land
+T443	the_girl-88 7304 7307	she
+T381	the_stable-89 7374 7384	the stable
+T310	The_man-100004 7344 7351	The man
+T473	man_or_youth-99 7348 7360	man or youth
+T312	youth_who_lived_in_the_stable-100005 7355 7384	youth who lived in the stable
+T444	man_or_youth-99 7416 7418	he
+T445	man_or_youth-99 7476 7478	he
+T309	the_alleys_behind_the_stables_were_gay-100 7533 7571	the alleys behind the stables were gay
+T382	the_stable-89 7551 7562	the stables
+T446	the_alleys_behind_the_stables_were_gay-100 7613 7618	their
+T384	the_stable-89 7711 7717	stable
+T313	the_darkies-101 7730 7741	the darkies
+T447	the_darkies-101 7757 7762	their
+T314	the_alleys_behind_the_stables_were_gay-100 7773 7782	the alley
+T385	the_darkies-101 7785 7792	Darkies
+T448	the_darkies-101 7853 7857	they
+T316	early_rising_children-102 7960 7981	early rising children
+T386	older_people-103 7997 8009	older people
+T315	less_investigative_children-104 8068 8095	less investigative children
+T449	the_darkies-101 8265 8269	They
+T387	the_darkies-101 8284 8325	those darky hired-men of the Midland town
+T317	their_Midland_town-5 8309 8325	the Midland town
+T450	the_darkies-101 8357 8361	they
+T453	other_people-1 8509 8513	they
+T319	the_careless_drivers-105 8624 8644	the careless drivers
+T318	the_stable-89 8701 8712	The stables
+T388	the_girl-88 8843 8855	the “ girl ”
+T389	man_or_youth-99 8860 8877	the “ hired-man ”
+T390	the_stable-89 8935 8941	stable
+T391	woodshed-106 8946 8954	woodshed
+T392	the_whole_tribe_of_the___hired-man____-107 8961 8999	the whole tribe of the “ hired-man , ”
+T393	man_or_youth-99 8980 8999	the “ hired-man , ”
+T454	man_or_youth-99 9015 9019	They
+T455	we-108 9056 9058	we
+T456	man_or_youth-99 9064 9068	they
+T457	man_or_youth-99 9109 9113	they
+T394	the_little_bunty_street-cars-109 9167 9195	the little bunty street-cars
+T395	the_long___single_track_that_went_its_troubled_way_among_the_cobblestones-110 9199 9272	the long , single track that went its troubled way among the cobblestones
+T396	the_little_bunty_street-cars-109 9295 9302	the car
+T320	passengers-111 9344 9354	passengers
+T397	the_little_bunty_street-cars-109 9404 9411	the car
+T458	The_patrons-112 9469 9474	their
+T322	no_conductor-100006 9499 9511	no conductor
+T321	the_driver-113 9542 9552	the driver
+T459	the_driver-113 9580 9583	his
+T460	the_driver-113 9620 9623	his
+T323	passengers-111 9664 9678	the passengers
+T399	the_little_bunty_street-cars-109 9735 9742	the car
+T324	passengers-111 9788 9802	the passengers
+T461	passengers-111 9840 9844	They
+T398	passengers-111 9422 9433	The patrons
+T400	the_little_bunty_street-cars-109 9887 9894	the car
+T327	a_lady-114 9924 9930	a lady
+T325	upstairs-115 9959 9967	upstairs
+T401	the_little_bunty_street-cars-109 9981 9988	the car
+T462	a_lady-114 10021 10024	her
+T463	a_lady-114 10031 10034	she
+T464	a_lady-114 10060 10063	her
+T402	downstairs-116 10085 10095	downstairs
+T403	the_girl-88 10123 10135	the “ girl ”
+T326	the_house-117 10182 10191	the house
+T328	The_previous_passengers-118 10194 10217	The previous passengers
+T404	the_little_bunty_street-cars-109 10273 10280	the car
+T465	The_previous_passengers-118 10283 10287	they
+T466	The_previous_passengers-118 10320 10330	themselves
+T405	the_little_bunty_street-cars-109 10382 10389	the car
+T406	the_trolley-car-119 10478 10493	the trolley-car
+T412	nobody-100007 10563 10569	nobody
+T329	they-120 10582 10596	its passengers
+T467	they-120 10644 10648	they
+T468	they-120 10676 10680	they
+T469	they-120 10744 10748	them
+T470	they-120 10757 10762	their
+T471	they-120 10780 10784	they
+T472	they-120 10868 10872	they
+T330	a_lady-114 10957 10963	a lady
+R1	appos Arg1:T121 Arg2:T45
+R5	cop Arg1:T143 Arg2:T206
+R6	cop Arg1:T74 Arg2:T207
+T97	PRON_VEH 10582 10585	its
+T125	the_trolley-car-119 10582 10585	its
+T484	PRON_FAC 2345 2348	its
+T485	Every_house-36 2345 2348	its
+T492	PRON_FAC 4959 4961	it
+T493	The_house_of_a___prominent_resident_____facing_Military_Square___or_National_Avenue___or_Tennessee_Street-50 4959 4961	it
+T494	PRON_FAC 5273 5276	its
+T495	the___library__-64 5273 5276	its
+T504	PRON_FAC 9233 9236	its
+T505	the_long___single_track_that_went_its_troubled_way_among_the_cobblestones-110 9233 9236	its
+T506	PRON_VEH 9764 9766	it
+T507	the_little_bunty_street-cars-109 9764 9766	it
+T508	PRON_VEH 9826 9828	it
+T509	the_little_bunty_street-cars-109 9826 9828	it
+T510	PRON_VEH 9857 9859	it
+T511	the_little_bunty_street-cars-109 9857 9859	it
+T512	PRON_VEH 9948 9950	it
+T513	the_little_bunty_street-cars-109 9948 9950	it
+T514	PRON_VEH 10507 10510	its
+T515	the_trolley-car-119 10507 10510	its
+T516	PRON_VEH 10545 10547	it
+T517	the_trolley-car-119 10545 10547	it

@@ -1,0 +1,462 @@
+T2	PROP_GPE 122 130	New York
+T3	PROP_PER 56 73	Christine Nilsson
+T5	PROP_PER 481 494	Conservatives
+T8	PROP_GPE 588 596	New York
+T9	NOM_VEH 1084 1110	the spacious family landau
+T10	PROP_PER 833 847	Madame Nilsson
+T13	NOM_PER 1522 1541	one 's own coachman
+T14	NOM_PER 1599 1625	the great livery-stableman
+T15	NOM_PER 1678 1687	Americans
+T16	PROP_PER 1773 1787	Newland Archer
+T18	NOM_PER 2006 2012	sister
+T19	PROP_PER 2180 2191	Mrs. Archer
+T20	NOM_PER 1907 1920	the young man
+T22	NOM_PER 1991 2001	his mother
+T23	PROP_PER 2430 2444	Newland Archer
+T24	NOM_PER 2522 2537	his forefathers
+T27	PROP_GPE 2430 2456	Newland Archer 's New York
+T28	NOM_GPE 2293 2305	metropolises
+T30	PROP_GPE 2237 2245	New York
+T32	NOM_PER 2670 2682	a dilettante
+T33	NOM_PER 3030 3045	the prima donna
+T35	NOM_PER 3464 3479	Swedish artists
+T37	PROP_PER 3602 3616	Newland Archer
+T38	NOM_PER 3909 3924	the prima donna
+T40	NOM_PER 4235 4253	his artless victim
+T41	PROP_PER 4256 4270	Newland Archer
+T43	NOM_FAC 4371 4401	the opposite side of the house
+T45	NOM_PER 4617 4650	the younger members of the family
+T49	NOM_FAC 4672 4692	the front of the box
+T52	PROP_PER 4729 4748	Mrs. Lovell Mingott
+T53	PROP_PER 4770 4782	Mrs. Welland
+T55	NOM_PER 4815 4837	these brocaded matrons
+T56	PROP_PER 4917 4931	Madame Nilsson
+T58	NOM_PER 5065 5073	the girl
+T60	PROP_PER 5346 5360	Newland Archer
+T62	PROP_GPE 5661 5667	Vienna
+T63	PROP_GPE 5651 5656	Paris
+T66	NOM_PER 6224 6263	Mr. Luther Burbank 's far-off prodigies
+T68	NOM_PER 6062 6083	fashionable clergymen
+T70	PROP_PER 6224 6242	Mr. Luther Burbank
+T71	PROP_PER 6526 6535	M. Capoul
+T79	NOM_PER 7340 7349	his bride
+T81	PROP_PER 7130 7135	Faust
+T82	PROP_PER 7384 7395	May Welland
+T86	PROP_GPE 7435 7443	New York
+T88	PROP_PER 7701 7731	the future Mrs. Newland Archer
+T93	NOM_PER 8162 8170	his wife
+T95	NOM_PER 9192 9219	any other man of the number
+T98	PROP_GPE 9733 9741	New York
+T103	NOM_PER 10091 10118	his lean and elegant person
+T105	NOM_PER 10298 10313	a young admirer
+T106	PROP_PER 10621 10642	old Sillerton Jackson
+T1	PROP_FAC 98 130	the Academy of Music in New York
+T4	NOM_FAC 241 349	a new Opera House which should compete in costliness and splendour with those of the great European capitals
+T108	NOM_FAC 313 349	those of the great European capitals
+T109	NOM_GPE 322 349	the great European capitals
+T110	NOM_FAC 454 478	the sociable old Academy
+T111	NOM_PER 564 639	the " new people " whom New York was beginning to dread and yet be drawn to
+T6	NOM_PER 646 661	the sentimental
+T7	NOM_PER 710 721	the musical
+T112	NOM_FAC 787 823	halls built for the hearing of music
+T11	NOM_PER 891 906	the daily press
+T113	NOM_PER 944 979	an exceptionally brilliant audience
+T114	NOM_VEH 1061 1078	private broughams
+T12	NOM_VEH 1119 1164	the humbler but more convenient " Brown coupe
+T115	NOM_FAC 1180 1189	the Opera
+T116	NOM_VEH 1193 1206	a Brown coupe
+T117	NOM_VEH 1256 1275	one 's own carriage
+T118	NOM_VEH 1295 1309	the same means
+T119	NOM_VEH 1422 1460	the first Brown conveyance in the line
+T120	NOM_FAC 1556 1582	the portico of the Academy
+T121	NOM_FAC 1571 1582	the Academy
+T17	NOM_FAC 1807 1831	the back of the club box
+T122	NOM_FAC 2058 2076	the Gothic library
+T123	NOM_FAC 2147 2207	the only room in the house where Mrs. Archer allowed smoking
+T21	NOM_GPE 2250 2262	a metropolis
+T26	NOM_FAC 2350 2359	the opera
+T25	NOM_PER 3030 3062	the prima donna 's stage-manager
+T29	NOM_FAC 3089 3100	the Academy
+T31	NOM_PER 3547 3573	English-speaking audiences
+T34	NOM_PER 4101 4130	the little brown Faust-Capoul
+T36	NOM_FAC 4301 4325	the back of the club box
+T39	NOM_FAC 4428 4462	the box of old Mrs. Manson Mingott
+T42	PROP_PER 4443 4462	Mrs. Manson Mingott
+T44	NOM_FAC 4541 4550	the Opera
+T48	NOM_PER 4842 4911	a young girl in white with eyes ecstatically fixed on the stagelovers
+T50	NOM_PER 4896 4911	the stagelovers
+T51	NOM_FAC 4966 4982	the silent house
+T54	NOM_PER 4985 4994	the boxes
+T57	NOM_PER 5591 5667	people who shared his acquaintance with the Opera houses of Paris and Vienna
+T59	NOM_FAC 5631 5667	the Opera houses of Paris and Vienna
+T61	NOM_PER 6038 6057	female parishioners
+T64	NOM_FAC 6269 6304	the centre of this enchanted garden
+T65	PROP_PER 6305 6319	Madame Nilsson
+T67	NOM_FAC 6700 6761	the neat brick villa projecting obliquely from the right wing
+T69	PROP_PER 6790 6804	Newland Archer
+T72	NOM_PER 6835 6879	the young girl with the lilies-of-the-valley
+T73	NOM_LOC 7152 7169	the Italian lakes
+T74	NOM_PER 7738 7749	a simpleton
+T75	NOM_PER 7890 7941	the most popular married women of the " younger set
+T76	NOM_PER 8223 8305	the married lady whose charms had held his fancy through two mildly agitated years
+T77	NOM_PER 8381 8407	that unhappy being 's life
+T78	NOM_PER 8897 8952	the circle of ladies who were the product of the system
+T80	NOM_PER 8690 8809	all the carefully-brushed , white-waistcoated , button-hole-flowered gentlemen who succeeded each other in the club box
+T83	PROP_PER 8992 9006	Newland Archer
+T84	NOM_PER 9031 9095	the superior of these chosen specimens of old New York gentility
+T85	PROP_PER 9581 9598	Lawrence Lefferts
+T87	PROP_PER 9656 9673	Lawrence Lefferts
+T89	NOM_PER 10182 10292	any one who knew how to wear such good clothes so carelessly and carry such height with so much lounging grace
+T90	NOM_PER 10359 10367	a fellow
+T91	PROP_PER 10443 10457	Larry Lefferts
+T92	PROP_GPE 9303 9311	New York
+T47	NOM_PER 4755 4767	her daughter
+T46	NOM_PER 4707 4726	her daughter-in-law
+T96	NOM_PER 10342 10349	anybody
+T97	NOM_LOC 9175 9184	the world
+T99	NOM_LOC 8543 8556	a harsh world
+T100	NOM_PER 9783 9795	any one else
+T134	PRON_PER 1003 1006	her
+T135	PRON_PER 1743 1747	they
+T136	PRON_PER 1956 1958	he
+T137	PRON_PER 1991 1994	his
+T138	PRON_PER 2522 2525	his
+T139	PRON_PER 2585 2588	his
+T140	PRON_PER 2616 2618	He
+T141	PRON_PER 2636 2639	his
+T142	PRON_PER 2654 2656	he
+T143	PRON_PER 2733 2736	him
+T144	PRON_PER 2854 2857	his
+T145	PRON_PER 2914 2916	he
+T146	PRON_PER 2990 2992	he
+T147	PRON_PER 3003 3006	his
+T148	PRON_PER 3063 3065	he
+T149	PRON_PER 3143 3146	she
+T150	PRON_PER 3163 3165	He
+T151	PRON_PER 3172 3174	me
+T152	PRON_PER 3178 3180	he
+T153	PRON_PER 3187 3189	me
+T154	PRON_PER 3197 3199	HE
+T155	PRON_PER 3206 3208	ME
+T156	PRON_PER 3285 3288	She
+T157	PRON_PER 3330 3332	he
+T158	PRON_PER 3339 3341	me
+T159	PRON_PER 3655 3658	his
+T160	PRON_PER 3735 3738	his
+T161	PRON_PER 3771 3774	his
+T162	PRON_PER 3862 3865	his
+T163	PRON_PER 3993 3996	she
+T164	PRON_PER 4030 4033	her
+T165	PRON_PER 4050 4053	her
+T166	PRON_PER 4235 4238	his
+T167	PRON_PER 4335 4338	his
+T168	PRON_PER 4420 4423	him
+T169	PRON_PER 4527 4530	her
+T170	PRON_PER 4707 4710	her
+T171	PRON_PER 4755 4758	her
+T172	PRON_PER 5093 5096	her
+T173	PRON_PER 5118 5121	her
+T174	PRON_PER 5168 5171	her
+T175	PRON_PER 5260 5263	She
+T176	PRON_PER 5272 5275	her
+T177	PRON_PER 5331 5334	her
+T178	PRON_PER 5365 5368	her
+T179	PRON_PER 5421 5423	He
+T180	PRON_PER 5462 5465	his
+T181	PRON_PER 5609 5612	his
+T182	PRON_PER 6471 6474	her
+T183	PRON_PER 6604 6607	his
+T184	PRON_PER 6647 6649	he
+T185	PRON_PER 6807 6810	his
+T186	PRON_PER 6884 6887	She
+T187	PRON_PER 6937 6939	he
+T188	PRON_PER 6953 6956	her
+T189	PRON_PER 7026 7029	his
+T190	PRON_PER 7095 7098	her
+T191	PRON_PER 7118 7120	We
+T192	PRON_PER 7176 7178	he
+T193	PRON_PER 7228 7231	his
+T194	PRON_PER 7307 7310	his
+T195	PRON_PER 7340 7343	his
+T196	PRON_PER 7404 7407	him
+T197	PRON_PER 7419 7422	she
+T198	PRON_PER 7499 7502	his
+T199	PRON_PER 7615 7618	her
+T200	PRON_PER 7622 7625	his
+T201	PRON_PER 7672 7674	He
+T202	PRON_PER 7752 7754	He
+T203	PRON_PER 7761 7764	her
+T204	PRON_PER 7777 7780	his
+T205	PRON_PER 7865 7868	her
+T206	PRON_PER 7877 7880	her
+T207	PRON_PER 8049 8051	he
+T208	PRON_PER 8080 8083	his
+T209	PRON_PER 8096 8098	he
+T210	PRON_PER 8122 8124	he
+T211	PRON_PER 8162 8165	his
+T212	PRON_PER 8262 8265	his
+T213	PRON_PER 8430 8433	his
+T214	PRON_PER 8559 8561	he
+T215	PRON_PER 8606 8608	he
+T216	PRON_PER 8629 8632	his
+T217	PRON_PER 8667 8669	he
+T218	PRON_PER 8846 8849	him
+T219	PRON_PER 8863 8868	their
+T220	PRON_PER 9012 9019	himself
+T221	PRON_PER 9098 9100	he
+T222	PRON_PER 9229 9233	they
+T223	PRON_PER 9243 9248	their
+T224	PRON_PER 9284 9288	they
+T225	PRON_PER 9359 9362	him
+T226	PRON_PER 9370 9375	their
+T227	PRON_PER 9418 9420	He
+T228	PRON_PER 9534 9541	himself
+T229	PRON_PER 9559 9561	my
+T230	PRON_PER 9609 9612	his
+T231	PRON_PER 9744 9746	He
+T232	PRON_PER 9892 9895	his
+T233	PRON_PER 9951 9954	him
+T234	PRON_PER 9975 9978	his
+T235	PRON_PER 10010 10013	his
+T236	PRON_PER 10091 10094	his
+T237	PRON_PER 10331 10334	him
+T238	PRON_PER 10525 10528	his
+T239	PRON_PER 10567 10569	My
+T240	PRON_PER 10578 10580	he
+T241	PRON_PER 10608 10611	his
+T245	Christine_Nilsson-0 56 73	Christine Nilsson
+T243	the_Academy_of_Music_in_New_York-1 98 130	the Academy of Music in New York
+T244	New_York-2 122 130	New York
+T246	a_new_Opera_House_which_should_compete_in_costliness_and_splendour_with_those_of_the_great_European_capitals-3 241 349	a new Opera House which should compete in costliness and splendour with those of the great European capitals
+T350	those_of_the_great_European_capitals-4 313 349	those of the great European capitals
+T351	the_great_European_capitals-5 322 349	the great European capitals
+T352	the_Academy_of_Music_in_New_York-1 454 478	the sociable old Academy
+T247	Conservatives-6 481 494	Conservatives
+T353	the___new_people___whom_New_York_was_beginning_to_dread_and_yet_be_drawn_to-7 564 639	the " new people " whom New York was beginning to dread and yet be drawn to
+T250	New_York-2 588 596	New York
+T248	the_sentimental-8 646 661	the sentimental
+T249	the_musical-9 710 721	the musical
+T354	halls_built_for_the_hearing_of_music-10 787 823	halls built for the hearing of music
+T252	Christine_Nilsson-0 833 847	Madame Nilsson
+T253	the_daily_press-11 891 906	the daily press
+T355	an_exceptionally_brilliant_audience-12 944 979	an exceptionally brilliant audience
+T376	Christine_Nilsson-0 1003 1006	her
+T356	private_broughams-13 1061 1078	private broughams
+T251	the_spacious_family_landau-14 1084 1110	the spacious family landau
+T254	the_humbler_but_more_convenient___Brown_coupe-15 1119 1164	the humbler but more convenient " Brown coupe
+T358	the_humbler_but_more_convenient___Brown_coupe-15 1193 1206	a Brown coupe
+T359	one__s_own_carriage-17 1256 1275	one 's own carriage
+T360	the_humbler_but_more_convenient___Brown_coupe-15 1295 1309	the same means
+T361	the_first_Brown_conveyance_in_the_line-18 1422 1460	the first Brown conveyance in the line
+T255	one__s_own_coachman-19 1522 1541	one 's own coachman
+T362	the_portico_of_the_Academy-20 1556 1582	the portico of the Academy
+T363	the_Academy_of_Music_in_New_York-1 1571 1582	the Academy
+T357	the_Academy_of_Music_in_New_York-1 1180 1189	the Opera
+T256	the_great_livery-stableman-21 1599 1625	the great livery-stableman
+T257	Americans-22 1678 1687	Americans
+T377	Americans-22 1743 1747	they
+T258	Newland_Archer-23 1773 1787	Newland Archer
+T259	the_back_of_the_club_box-24 1807 1831	the back of the club box
+T262	Newland_Archer-23 1907 1920	the young man
+T378	Newland_Archer-23 1956 1958	he
+T264	Mrs__Archer-25 1991 2001	his mother
+T379	Newland_Archer-23 1991 1994	his
+T260	sister-26 2006 2012	sister
+T364	the_Gothic_library-27 2058 2076	the Gothic library
+T365	the_only_room_in_the_house_where_Mrs__Archer_allowed_smoking-28 2147 2207	the only room in the house where Mrs. Archer allowed smoking
+T261	Mrs__Archer-25 2180 2191	Mrs. Archer
+T272	New_York-2 2237 2245	New York
+T270	metropolises-29 2293 2305	metropolises
+T268	the_opera-30 2350 2359	the opera
+T265	Newland_Archer-23 2430 2444	Newland Archer
+T269	Newland_Archer__s_New_York-31 2430 2456	Newland Archer 's New York
+T266	his_forefathers-32 2522 2537	his forefathers
+T380	Newland_Archer-23 2522 2525	his
+T381	Newland_Archer-23 2585 2588	his
+T382	Newland_Archer-23 2616 2618	He
+T383	Newland_Archer-23 2636 2639	his
+T384	Newland_Archer-23 2654 2656	he
+T385	Newland_Archer-23 2733 2736	him
+T386	Newland_Archer-23 2854 2857	his
+T387	Newland_Archer-23 2914 2916	he
+T388	Newland_Archer-23 2990 2992	he
+T389	Newland_Archer-23 3003 3006	his
+T267	the_prima_donna__s_stage-manager-34 3030 3062	the prima donna 's stage-manager
+T390	Newland_Archer-23 3063 3065	he
+T271	the_Academy_of_Music_in_New_York-1 3089 3100	the Academy
+T392	He-35 3163 3165	He
+T393	me-36 3172 3174	me
+T394	He-35 3178 3180	he
+T395	me-36 3187 3189	me
+T396	He-35 3197 3199	HE
+T397	me-36 3206 3208	ME
+T399	He-35 3330 3332	he
+T400	me-36 3339 3341	me
+T277	Swedish_artists-37 3464 3479	Swedish artists
+T273	English-speaking_audiences-38 3547 3573	English-speaking audiences
+T279	Newland_Archer-23 3602 3616	Newland Archer
+T401	Newland_Archer-23 3655 3658	his
+T402	Newland_Archer-23 3735 3738	his
+T403	Newland_Archer-23 3771 3774	his
+T404	Newland_Archer-23 3862 3865	his
+T276	the_little_brown_Faust-Capoul-39 4101 4130	the little brown Faust-Capoul
+T408	the_little_brown_Faust-Capoul-39 4235 4238	his
+T283	Newland_Archer-23 4256 4270	Newland Archer
+T278	the_back_of_the_club_box-40 4301 4325	the back of the club box
+T409	Newland_Archer-23 4335 4338	his
+T285	the_opposite_side_of_the_house-41 4371 4401	the opposite side of the house
+T410	Newland_Archer-23 4420 4423	him
+T281	the_box_of_old_Mrs__Manson_Mingott-42 4428 4462	the box of old Mrs. Manson Mingott
+T284	Mrs__Manson_Mingott-43 4443 4462	Mrs. Manson Mingott
+T411	Mrs__Manson_Mingott-43 4527 4530	her
+T286	the_Academy_of_Music_in_New_York-1 4541 4550	the Opera
+T287	the_younger_members_of_the_family-44 4617 4650	the younger members of the family
+T291	the_front_of_the_box-45 4672 4692	the front of the box
+T288	Mrs__Lovell_Mingott-46 4707 4726	her daughter-in-law
+T412	Mrs__Manson_Mingott-43 4707 4710	her
+T289	Mrs__Welland-47 4755 4767	her daughter
+T413	Mrs__Manson_Mingott-43 4755 4758	her
+T297	these_brocaded_matrons-48 4815 4837	these brocaded matrons
+T290	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 4842 4911	a young girl in white with eyes ecstatically fixed on the stagelovers
+T292	the_stagelovers-50 4896 4911	the stagelovers
+T275	Christine_Nilsson-0 3030 3045	the prima donna
+T391	Christine_Nilsson-0 3143 3146	she
+T398	Christine_Nilsson-0 3285 3288	She
+T280	Christine_Nilsson-0 3909 3924	the prima donna
+T405	Christine_Nilsson-0 3993 3996	she
+T406	Christine_Nilsson-0 4030 4033	her
+T407	Christine_Nilsson-0 4050 4053	her
+T282	Christine_Nilsson-0 4235 4253	his artless victim
+T298	Christine_Nilsson-0 4917 4931	Madame Nilsson
+T293	the_silent_house-51 4966 4982	the silent house
+T296	the_boxes-52 4985 4994	the boxes
+T300	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 5065 5073	the girl
+T414	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 5093 5096	her
+T415	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 5118 5121	her
+T416	Christine_Nilsson-0 5168 5171	her
+T417	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 5260 5263	She
+T418	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 5272 5275	her
+T419	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 5331 5334	her
+T302	Newland_Archer-23 5346 5360	Newland Archer
+T420	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 5365 5368	her
+T421	Newland_Archer-23 5421 5423	He
+T422	Newland_Archer-23 5462 5465	his
+T299	people_who_shared_his_acquaintance_with_the_Opera_houses_of_Paris_and_Vienna-53 5591 5667	people who shared his acquaintance with the Opera houses of Paris and Vienna
+T423	Newland_Archer-23 5609 5612	his
+T301	the_Opera_houses_of_Paris_and_Vienna-54 5631 5667	the Opera houses of Paris and Vienna
+T305	Paris-55 5651 5656	Paris
+T304	Vienna-56 5661 5667	Vienna
+T303	female_parishioners-57 6038 6057	female parishioners
+T310	fashionable_clergymen-58 6062 6083	fashionable clergymen
+T308	Mr__Luther_Burbank__s_far-off_prodigies-59 6224 6263	Mr. Luther Burbank 's far-off prodigies
+T312	Mr__Luther_Burbank-60 6224 6242	Mr. Luther Burbank
+T306	the_centre_of_this_enchanted_garden-61 6269 6304	the centre of this enchanted garden
+T307	Christine_Nilsson-0 6305 6319	Madame Nilsson
+T424	Christine_Nilsson-0 6471 6474	her
+T313	the_little_brown_Faust-Capoul-39 6526 6535	M. Capoul
+T425	the_little_brown_Faust-Capoul-39 6604 6607	his
+T426	the_little_brown_Faust-Capoul-39 6647 6649	he
+T309	the_neat_brick_villa_projecting_obliquely_from_the_right_wing-62 6700 6761	the neat brick villa projecting obliquely from the right wing
+T311	Newland_Archer-23 6790 6804	Newland Archer
+T427	Newland_Archer-23 6807 6810	his
+T314	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 6835 6879	the young girl with the lilies-of-the-valley
+T428	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 6884 6887	She
+T429	Newland_Archer-23 6937 6939	he
+T430	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 6953 6956	her
+T431	Newland_Archer-23 7026 7029	his
+T432	a_young_girl_in_white_with_eyes_ecstatically_fixed_on_the_stagelovers-49 7095 7098	her
+T433	We-63 7118 7120	We
+T323	Faust-64 7130 7135	Faust
+T315	the_Italian_lakes-65 7152 7169	the Italian lakes
+T434	Newland_Archer-23 7176 7178	he
+T435	Newland_Archer-23 7228 7231	his
+T436	Newland_Archer-23 7307 7310	his
+T321	May_Welland-66 7340 7349	his bride
+T437	Newland_Archer-23 7340 7343	his
+T324	May_Welland-66 7384 7395	May Welland
+T438	Newland_Archer-23 7404 7407	him
+T439	May_Welland-66 7419 7422	she
+T328	New_York-2 7435 7443	New York
+T440	Newland_Archer-23 7499 7502	his
+T441	May_Welland-66 7615 7618	her
+T442	Newland_Archer-23 7622 7625	his
+T443	Newland_Archer-23 7672 7674	He
+T444	Newland_Archer-23 7752 7754	He
+T330	the_future_Mrs__Newland_Archer-67 7701 7731	the future Mrs. Newland Archer
+T445	the_future_Mrs__Newland_Archer-67 7761 7764	her
+T446	Newland_Archer-23 7777 7780	his
+T447	the_future_Mrs__Newland_Archer-67 7865 7868	her
+T448	the_future_Mrs__Newland_Archer-67 7877 7880	her
+T317	the_most_popular_married_women_of_the___younger_set-68 7890 7941	the most popular married women of the " younger set
+T449	Newland_Archer-23 8049 8051	he
+T450	Newland_Archer-23 8080 8083	his
+T451	Newland_Archer-23 8096 8098	he
+T452	Newland_Archer-23 8122 8124	he
+T335	the_future_Mrs__Newland_Archer-67 8162 8170	his wife
+T453	Newland_Archer-23 8162 8165	his
+T318	the_married_lady_whose_charms_had_held_his_fancy_through_two_mildly_agitated_years-69 8223 8305	the married lady whose charms had held his fancy through two mildly agitated years
+T454	Newland_Archer-23 8262 8265	his
+T319	the_married_lady_whose_charms_had_held_his_fancy_through_two_mildly_agitated_years-69 8381 8407	that unhappy being 's life
+T455	Newland_Archer-23 8430 8433	his
+T341	a_harsh_world-70 8543 8556	a harsh world
+T456	Newland_Archer-23 8559 8561	he
+T457	Newland_Archer-23 8606 8608	he
+T458	Newland_Archer-23 8629 8632	his
+T459	Newland_Archer-23 8667 8669	he
+T322	all_the_carefully-brushed___white-waistcoated___button-hole-flowered_gentlemen_who_succeeded_each_other_in_the_club_box-71 8690 8809	all the carefully-brushed , white-waistcoated , button-hole-flowered gentlemen who succeeded each other in the club box
+T460	Newland_Archer-23 8846 8849	him
+T461	all_the_carefully-brushed___white-waistcoated___button-hole-flowered_gentlemen_who_succeeded_each_other_in_the_club_box-71 8863 8868	their
+T320	the_circle_of_ladies_who_were_the_product_of_the_system-72 8897 8952	the circle of ladies who were the product of the system
+T325	Newland_Archer-23 8992 9006	Newland Archer
+T462	Newland_Archer-23 9012 9019	himself
+T326	the_superior_of_these_chosen_specimens_of_old_New_York_gentility-73 9031 9095	the superior of these chosen specimens of old New York gentility
+T463	Newland_Archer-23 9098 9100	he
+T339	the_world-74 9175 9184	the world
+T337	any_other_man_of_the_number-75 9192 9219	any other man of the number
+T464	any_other_man_of_the_number-75 9229 9233	they
+T465	any_other_man_of_the_number-75 9243 9248	their
+T466	any_other_man_of_the_number-75 9284 9288	they
+T334	New_York-2 9303 9311	New York
+T467	Newland_Archer-23 9359 9362	him
+T468	any_other_man_of_the_number-75 9370 9375	their
+T469	Newland_Archer-23 9418 9420	He
+T470	Newland_Archer-23 9534 9541	himself
+T471	Lawrence_Lefferts-76 9559 9561	my
+T327	Lawrence_Lefferts-76 9581 9598	Lawrence Lefferts
+T472	Lawrence_Lefferts-76 9609 9612	his
+T329	Lawrence_Lefferts-76 9656 9673	Lawrence Lefferts
+T340	New_York-2 9733 9741	New York
+T473	Lawrence_Lefferts-76 9744 9746	He
+T342	any_one_else-77 9783 9795	any one else
+T474	Lawrence_Lefferts-76 9892 9895	his
+T475	Lawrence_Lefferts-76 9951 9954	him
+T476	Lawrence_Lefferts-76 9975 9978	his
+T477	Lawrence_Lefferts-76 10010 10013	his
+T345	Lawrence_Lefferts-76 10091 10118	his lean and elegant person
+T478	Lawrence_Lefferts-76 10091 10094	his
+T331	any_one_who_knew_how_to_wear_such_good_clothes_so_carelessly_and_carry_such_height_with_so_much_lounging_grace-78 10182 10292	any one who knew how to wear such good clothes so carelessly and carry such height with so much lounging grace
+T347	a_young_admirer-79 10298 10313	a young admirer
+T479	Lawrence_Lefferts-76 10331 10334	him
+T338	anybody-80 10342 10349	anybody
+T332	a_fellow-81 10359 10367	a fellow
+T333	Lawrence_Lefferts-76 10443 10457	Larry Lefferts
+T480	Lawrence_Lefferts-76 10525 10528	his
+T481	Lawrence_Lefferts-76 10567 10569	My
+T482	Lawrence_Lefferts-76 10578 10580	he
+T483	Lawrence_Lefferts-76 10608 10611	his
+T348	old_Sillerton_Jackson-82 10621 10642	old Sillerton Jackson
+R1	cop Arg1:T21 Arg2:T30
+R2	cop Arg1:T32 Arg2:T142
+R3	appos Arg1:T52 Arg2:T46
+R4	appos Arg1:T53 Arg2:T47
+T484	PRON_FAC 505 507	it
+T485	the_Academy_of_Music_in_New_York-1 505 507	it
+T486	PRON_FAC 671 673	it
+T487	the_Academy_of_Music_in_New_York-1 671 673	it
+T488	PRON_FAC 678 681	its
+T489	the_Academy_of_Music_in_New_York-1 678 681	its
+T490	PRON_FAC 726 729	its
+T491	the_Academy_of_Music_in_New_York-1 726 729	its
+T94	a_simpleton-700 7738 7749	a simpleton
+T101	NOM_PER 4609 4650	some of the younger members of the family
+T102	some_of_the_younger_-700 4609 4650	some of the younger members of the family

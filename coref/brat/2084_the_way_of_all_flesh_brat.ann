@@ -1,0 +1,680 @@
+T1	NOM_FAC 163 188	the street of our village
+T5	NOM_PER 553 561	His wife
+T7	NOM_PER 867 890	any woman who wooed him
+T8	NOM_PER 729 738	my father
+T9	PROP_PER 941 952	Mr Pontifex
+T10	NOM_PER 1006 1014	his wife
+T11	PROP_PER 1038 1049	Mr Pontifex
+T12	NOM_PER 1101 1113	parish clerk
+T13	PROP_PER 1471 1486	old Mr Pontifex
+T14	PROP_GPE 1406 1413	Paleham
+T16	NOM_PER 1615 1637	some good early master
+T17	NOM_FAC 1746 1754	the room
+T20	NOM_FAC 2083 2093	the church
+T21	NOM_FAC 2155 2168	his own house
+T24	NOM_PER 2582 2592	His father
+T25	NOM_FAC 2771 2779	his yard
+T26	NOM_PER 2905 2914	my father
+T27	NOM_FAC 2946 2974	a farm of about ninety acres
+T29	NOM_FAC 3030 3038	the farm
+T31	NOM_PER 3129 3142	The carpenter
+T32	NOM_FAC 3225 3250	some conventual buildings
+T36	NOM_VEH 3947 3954	a coach
+T41	NOM_PER 3679 3690	her husband
+T43	NOM_FAC 3790 3799	the house
+T45	NOM_PER 4528 4557	a milkmaid skimming the cream
+T48	NOM_PER 4817 4826	my mother
+T49	NOM_PER 4964 4973	my mother
+T51	PROP_PER 5228 5239	Mr Pontifex
+T52	NOM_PER 5400 5408	our papa
+T54	PROP_PER 5411 5423	Mrs Pontifex
+T55	NOM_PER 5500 5511	her husband
+T56	NOM_FAC 5636 5648	his workship
+T57	NOM_PER 5736 5743	his boy
+T58	PROP_PER 5696 5708	old Pontifex
+T59	NOM_PER 5605 5614	my father
+T61	NOM_PER 5768 5791	a pudding-headed fellow
+T65	NOM_PER 6375 6383	the Lord
+T67	NOM_PER 6262 6269	the boy
+T70	NOM_PER 6032 6041	some boys
+T71	NOM_PER 6004 6010	my lad
+T72	NOM_PER 6410 6416	my lad
+T73	NOM_PER 6530 6541	the old man
+T74	NOM_PER 6842 6857	the rat-catcher
+T75	NOM_PER 6706 6729	the village rat-catcher
+T76	NOM_PER 6929 6938	My father
+T77	PROP_PER 6974 6986	old Pontifex
+T79	PROP_PER 7060 7072	old Pontifex
+T81	NOM_PER 7183 7194	a young man
+T85	NOM_PER 7529 7534	a wag
+T87	NOM_PER 7624 7630	My boy
+T88	NOM_PER 7644 7653	my father
+T89	PROP_PER 7751 7757	Giotto
+T92	PROP_PER 8065 8076	poor Giotto
+T93	PROP_PER 8167 8179	old Pontifex
+T95	PROP_PER 8291 8297	Giotto
+T96	PROP_PER 8188 8196	Cromwell
+T99	PROP_PER 8572 8584	old Pontifex
+T101	PROP_PER 8598 8604	Giotto
+T102	PROP_PER 8672 8678	Giotto
+T104	NOM_PER 8769 8772	men
+T105	NOM_PER 8869 8874	a man
+T106	NOM_PER 9037 9042	a man
+T108	PROP_PER 9488 9500	old Pontifex
+T110	NOM_PER 21 32	a small boy
+T2	NOM_GPE 499 526	our little world of Paleham
+T3	NOM_PER 542 550	Pontifex
+T4	NOM_PER 577 587	his master
+T6	NOM_PER 680 890	a tall , square-shouldered person ( I have heard my father call her a Gothic woman ) who had insisted on being married to Mr Pontifex when he was young and too good-natured to say nay to any woman who wooed him
+T112	NOM_PER 748 762	a Gothic woman
+T113	PROP_PER 802 813	Mr Pontifex
+T114	NOM_PER 893 901	The pair
+T111	NOM_PER 76 213	an old man who wore knee-breeches and worsted stockings , and who used to hobble about the street of our village with the help of a stick
+T19	NOM_PER 1054 1074	a carpenter by trade
+T15	NOM_PER 1371 1433	My father , who took the living of Paleham about the year 1797
+T115	NOM_FAC 1704 1715	the Rectory
+T18	NOM_PER 2005 2014	an artist
+T116	PROP_PER 2017 2028	Mr Pontifex
+T117	NOM_PER 2048 2058	a musician
+T22	PROP_PER 2368 2383	old Mr Pontifex
+T23	NOM_PER 2532 2551	a very thriving man
+T118	NOM_PER 2602 2616	a day labourer
+T119	NOM_FAC 2815 2838	his whole establishment
+T120	PROP_GPE 2923 2930	Paleham
+T28	NOM_FAC 3050 3126	an old-fashioned but comfortable house with a charming garden and an orchard
+T30	NOM_FAC 3177 3250	one of the outhouses that had once been part of some conventual buildings
+T121	NOM_FAC 3307 3322	the Abbey Close
+T122	NOM_FAC 3395 3427	an ornament to the whole village
+T123	NOM_GPE 3410 3427	the whole village
+T34	PROP_PER 3531 3543	Mrs Pontifex
+T124	PROP_PER 3861 3872	Mr Pontifex
+T125	NOM_PER 3915 3973	the man coming to show light to a coach upon a snowy night
+T126	PROP_PER 3984 3995	Mr Pontifex
+T37	NOM_PER 3998 4016	the little old man
+T127	NOM_PER 4021 4058	little old woman who told the weather
+T38	NOM_FAC 4363 4374	her kitchen
+T39	NOM_FAC 4400 4488	a cavernous cellar beyond it , wherefrom came gleams from the pale surfaces of milk cans
+T42	NOM_PER 4912 4920	children
+T44	NOM_PER 5099 5120	a delightful old lady
+T46	PROP_PER 5145 5156	Mr Pontifex
+T47	NOM_PER 5926 5942	a wandering soul
+T50	PROP_PER 6134 6137	Jim
+T53	PROP_PER 6557 6560	Jim
+T62	PROP_PER 7026 7032	Edward
+T63	NOM_PER 7086 7097	an able man
+T64	NOM_PER 7111 7154	one of the very ablest men that ever I knew
+T66	NOM_PER 7221 7235	My dear father
+T68	NOM_FAC 7351 7379	the Royal Academy exhibition
+T69	NOM_PER 7499 7515	a good carpenter
+T78	NOM_PER 7544 7568	a good old fellow enough
+T80	PROP_PER 7761 7774	Filippo Lippi
+T82	NOM_FAC 7813 7827	the Exhibition
+T83	PROP_GPE 7898 7903	Padua
+T84	NOM_PER 7991 8009	the Academy people
+T86	PROP_PER 8236 8244	Cromwell
+T91	NOM_PER 8392 8411	a village carpenter
+T94	NOM_PER 8632 8646	another Giotto
+T97	PROP_PER 8706 8712	Edward
+T98	NOM_PER 8722 8731	my father
+T100	PROP_PER 9474 9480	Edward
+T103	NOM_PER 9514 9525	an able man
+T107	NOM_PER 9532 9570	one of the very ablest men I ever knew
+T109	NOM_GPE 177 188	our village
+T128	NOM_ORG 7991 8002	the Academy
+T129	NOM_ORG 7351 7368	the Royal Academy
+T90	PROP_PER 8337 8343	Giotto
+T60	NOM_PER 5757 5764	the lad
+T142	NOM_PER 8539 8545	people
+T143	NOM_PER 5330 5408	the most wonderfully clever man that ever was born , except of course our papa
+T145	PRON_PER 15 16	I
+T146	PRON_PER 65 66	I
+T147	PRON_PER 177 180	our
+T148	PRON_PER 216 218	He
+T149	PRON_PER 299 300	I
+T150	PRON_PER 309 310	I
+T151	PRON_PER 331 334	him
+T152	PRON_PER 341 342	I
+T153	PRON_PER 391 394	his
+T154	PRON_PER 402 405	his
+T155	PRON_PER 430 433	his
+T156	PRON_PER 453 455	he
+T157	PRON_PER 499 502	our
+T158	PRON_PER 529 532	His
+T159	PRON_PER 553 556	His
+T160	PRON_PER 577 580	his
+T161	PRON_PER 590 591	I
+T162	PRON_PER 607 610	she
+T163	PRON_PER 619 622	him
+T164	PRON_PER 672 675	She
+T165	PRON_PER 716 717	I
+T166	PRON_PER 729 731	my
+T167	PRON_PER 744 747	her
+T168	PRON_PER 819 821	he
+T169	PRON_PER 887 890	him
+T170	PRON_PER 976 978	he
+T171	PRON_PER 1006 1009	his
+T172	PRON_PER 1077 1079	he
+T173	PRON_PER 1121 1122	I
+T174	PRON_PER 1132 1135	him
+T175	PRON_PER 1148 1150	he
+T176	PRON_PER 1218 1221	his
+T177	PRON_PER 1237 1240	his
+T178	PRON_PER 1254 1256	he
+T179	PRON_PER 1268 1275	himself
+T180	PRON_PER 1286 1287	I
+T181	PRON_PER 1299 1301	he
+T182	PRON_PER 1336 1338	he
+T183	PRON_PER 1362 1364	he
+T184	PRON_PER 1371 1373	My
+T186	PRON_PER 1640 1641	I
+T188	PRON_PER 1854 1855	I
+T191	PRON_PER 2061 2063	He
+T192	PRON_PER 2099 2102	his
+T193	PRON_PER 2144 2146	he
+T194	PRON_PER 2155 2158	his
+T195	PRON_PER 2171 2173	He
+T196	PRON_PER 2196 2198	he
+T197	PRON_PER 2312 2313	I
+T198	PRON_PER 2314 2320	myself
+T199	PRON_PER 2407 2409	he
+T200	PRON_PER 2439 2441	me
+T201	PRON_PER 2513 2515	he
+T202	PRON_PER 2582 2585	His
+T203	PRON_PER 2623 2625	he
+T204	PRON_PER 2630 2637	himself
+T205	PRON_PER 2676 2679	his
+T206	PRON_PER 2771 2774	his
+T207	PRON_PER 2815 2818	his
+T208	PRON_PER 2905 2907	my
+T209	PRON_PER 2933 2935	he
+T210	PRON_PER 3568 3571	her
+T211	PRON_PER 3587 3588	I
+T212	PRON_PER 3623 3624	I
+T213	PRON_PER 3634 3637	her
+T214	PRON_PER 3679 3682	her
+T215	PRON_PER 3873 3880	himself
+T218	PRON_PER 4344 4350	myself
+T219	PRON_PER 4363 4366	her
+T220	PRON_PER 4569 4572	her
+T221	PRON_PER 4613 4616	she
+T222	PRON_PER 4659 4662	her
+T223	PRON_PER 4695 4698	she
+T224	PRON_PER 4742 4745	she
+T225	PRON_PER 4768 4771	She
+T226	PRON_PER 4817 4819	my
+T227	PRON_PER 4848 4851	she
+T228	PRON_PER 4863 4865	we
+T229	PRON_PER 4889 4892	she
+T230	PRON_PER 4904 4906	we
+T231	PRON_PER 4921 4924	she
+T232	PRON_PER 4948 4951	her
+T233	PRON_PER 4964 4966	my
+T234	PRON_PER 4994 4996	us
+T235	PRON_PER 5023 5026	her
+T236	PRON_PER 5040 5043	she
+T237	PRON_PER 5056 5058	us
+T238	PRON_PER 5068 5071	her
+T239	PRON_PER 5081 5083	we
+T240	PRON_PER 5124 5127	our
+T241	PRON_PER 5187 5189	we
+T242	PRON_PER 5254 5256	us
+T243	PRON_PER 5278 5280	we
+T244	PRON_PER 5299 5302	him
+T245	PRON_PER 5326 5329	him
+T246	PRON_PER 5400 5403	our
+T247	PRON_PER 5458 5459	I
+T248	PRON_PER 5500 5503	her
+T249	PRON_PER 5533 5536	him
+T250	PRON_PER 5577 5580	his
+T251	PRON_PER 5594 5595	I
+T252	PRON_PER 5605 5607	my
+T253	PRON_PER 5625 5627	me
+T254	PRON_PER 5636 5639	his
+T255	PRON_PER 5672 5673	I
+T256	PRON_PER 5736 5739	his
+T257	PRON_PER 5746 5748	He
+T258	PRON_PER 5870 5871	I
+T259	PRON_PER 5903 5910	himself
+T260	PRON_PER 6004 6006	my
+T261	PRON_PER 6015 6017	he
+T262	PRON_PER 6080 6084	them
+T263	PRON_PER 6347 6351	them
+T264	PRON_PER 6410 6412	my
+T265	PRON_PER 6423 6424	I
+T266	PRON_PER 6466 6467	I
+T267	PRON_PER 6511 6512	I
+T268	PRON_PER 6607 6610	him
+T269	PRON_PER 6678 6679	I
+T270	PRON_PER 6697 6700	him
+T271	PRON_PER 6816 6817	I
+T272	PRON_PER 6891 6892	I
+T273	PRON_PER 6929 6931	My
+T274	PRON_PER 7013 7014	I
+T275	PRON_PER 7020 7023	you
+T276	PRON_PER 7037 7039	he
+T277	PRON_PER 7053 7055	me
+T278	PRON_PER 7104 7106	he
+T279	PRON_PER 7148 7149	I
+T280	PRON_PER 7178 7179	I
+T281	PRON_PER 7221 7223	My
+T282	PRON_PER 7240 7241	I
+T283	PRON_PER 7264 7266	he
+T284	PRON_PER 7272 7274	He
+T285	PRON_PER 7307 7309	he
+T286	PRON_PER 7318 7321	his
+T287	PRON_PER 7382 7384	He
+T288	PRON_PER 7492 7494	he
+T289	PRON_PER 7537 7539	he
+T290	PRON_PER 7584 7587	him
+T291	PRON_PER 7611 7613	he
+T292	PRON_PER 7624 7626	My
+T293	PRON_PER 7644 7646	my
+T294	PRON_PER 7658 7661	you
+T295	PRON_PER 7783 7786	you
+T296	PRON_PER 7867 7869	we
+T297	PRON_PER 7887 7889	we
+T298	PRON_PER 8036 8040	they
+T299	PRON_PER 8085 8088	him
+T300	PRON_PER 8106 8109	his
+T301	PRON_PER 8143 8145	he
+T302	PRON_PER 8208 8210	he
+T303	PRON_PER 8280 8282	he
+T304	PRON_PER 8309 8311	he
+T305	PRON_PER 8385 8387	he
+T306	PRON_PER 8418 8419	I
+T307	PRON_PER 8442 8444	he
+T308	PRON_PER 8488 8491	his
+T309	PRON_PER 8516 8517	I
+T310	PRON_PER 8522 8524	we
+T311	PRON_PER 8613 8615	he
+T312	PRON_PER 8653 8655	he
+T313	PRON_PER 8693 8694	I
+T314	PRON_PER 8700 8703	you
+T315	PRON_PER 8722 8724	my
+T316	PRON_PER 8755 8757	we
+T317	PRON_PER 8793 8797	they
+T318	PRON_PER 8814 8818	they
+T319	PRON_PER 8824 8826	us
+T320	PRON_PER 8837 8841	they
+T321	PRON_PER 8853 8857	them
+T322	PRON_PER 8951 8953	me
+T323	PRON_PER 8964 8965	I
+T324	PRON_PER 8978 8981	him
+T325	PRON_PER 8998 9000	he
+T326	PRON_PER 9065 9068	his
+T327	PRON_PER 9104 9106	he
+T328	PRON_PER 9155 9158	his
+T329	PRON_PER 9169 9170	I
+T330	PRON_PER 9182 9185	him
+T331	PRON_PER 9200 9202	he
+T332	PRON_PER 9209 9211	me
+T333	PRON_PER 9222 9224	he
+T334	PRON_PER 9248 9250	he
+T335	PRON_PER 9260 9262	me
+T336	PRON_PER 9273 9275	he
+T337	PRON_PER 9315 9316	I
+T338	PRON_PER 9331 9337	myself
+T339	PRON_PER 9338 9339	I
+T340	PRON_PER 9354 9357	his
+T341	PRON_PER 9402 9403	I
+T342	PRON_PER 9420 9423	him
+T343	PRON_PER 9426 9428	he
+T344	PRON_PER 9433 9434	I
+T345	PRON_PER 9460 9461	I
+T346	PRON_PER 9559 9560	I
+T495	Edward_Overton-0 15 16	I
+T496	Edward_Overton-0 65 66	I
+T461	Mr__Pontifex-1 76 213	an old man who wore knee-breeches and worsted stockings , and who used to hobble about the street of our village with the help of a stick
+T351	the_street_of_our_village-2 163 188	the street of our village
+T459	Paleham-3 177 188	our village
+T497	our-4 177 180	our
+T498	Mr__Pontifex-1 216 218	He
+T499	Edward_Overton-0 299 300	I
+T500	Edward_Overton-0 309 310	I
+T501	Mr__Pontifex-1 331 334	him
+T502	Edward_Overton-0 341 342	I
+T503	Mr__Pontifex-1 391 394	his
+T504	Mr__Pontifex-1 402 405	his
+T505	Mr__Pontifex-1 430 433	his
+T506	Mr__Pontifex-1 453 455	he
+T352	Paleham-3 499 526	our little world of Paleham
+T507	our-5 499 502	our
+T508	Mr__Pontifex-1 529 532	His
+T353	Mr__Pontifex-1 542 550	Pontifex
+T355	Mrs__Pontifex-6 553 561	His wife
+T509	Mr__Pontifex-1 553 556	His
+T510	Mr__Pontifex-1 577 580	his
+T511	Edward_Overton-0 590 591	I
+T512	Mrs__Pontifex-6 607 610	she
+T513	Mr__Pontifex-1 619 622	him
+T514	Mrs__Pontifex-6 672 675	She
+T515	Edward_Overton-0 716 717	I
+T358	my_father-7 729 738	my father
+T516	Edward_Overton-0 729 731	my
+T517	Mrs__Pontifex-6 744 747	her
+T463	Mr__Pontifex-1 802 813	Mr Pontifex
+T518	Mr__Pontifex-1 819 821	he
+T357	any_woman_who_wooed_him-8 867 890	any woman who wooed him
+T519	Mr__Pontifex-1 887 890	him
+T464	The_pair-9 893 901	The pair
+T359	Mr__Pontifex-1 941 952	Mr Pontifex
+T520	Mr__Pontifex-1 976 978	he
+T360	Mrs__Pontifex-6 1006 1014	his wife
+T521	Mr__Pontifex-1 1006 1009	his
+T361	Mr__Pontifex-1 1038 1049	Mr Pontifex
+T522	Mr__Pontifex-1 1077 1079	he
+T362	parish_clerk-10 1101 1113	parish clerk
+T523	Edward_Overton-0 1121 1122	I
+T524	Mr__Pontifex-1 1132 1135	him
+T525	Mr__Pontifex-1 1148 1150	he
+T526	Mr__Pontifex-1 1218 1221	his
+T527	Mr__Pontifex-1 1237 1240	his
+T528	Mr__Pontifex-1 1254 1256	he
+T529	Mr__Pontifex-1 1268 1275	himself
+T530	Edward_Overton-0 1286 1287	I
+T531	Mr__Pontifex-1 1299 1301	he
+T532	Mr__Pontifex-1 1336 1338	he
+T533	Mr__Pontifex-1 1362 1364	he
+T365	my_father-7 1371 1433	My father , who took the living of Paleham about the year 1797
+T534	Edward_Overton-0 1371 1373	My
+T364	Paleham-3 1406 1413	Paleham
+T363	Mr__Pontifex-1 1471 1486	old Mr Pontifex
+T366	some_good_early_master-11 1615 1637	some good early master
+T465	the_Rectory-12 1704 1715	the Rectory
+T367	the_room-13 1746 1754	the room
+T538	Edward_Overton-0 1854 1855	I
+T536	Edward_Overton-0 1640 1641	I
+T368	an_artist-14 2005 2014	an artist
+T466	Mr__Pontifex-1 2017 2028	Mr Pontifex
+T541	Mr__Pontifex-1 2061 2063	He
+T370	the_church-15 2083 2093	the church
+T542	Mr__Pontifex-1 2099 2102	his
+T543	Mr__Pontifex-1 2144 2146	he
+T371	his_own_house-16 2155 2168	his own house
+T544	Mr__Pontifex-1 2155 2158	his
+T545	Mr__Pontifex-1 2171 2173	He
+T546	Mr__Pontifex-1 2196 2198	he
+T547	Edward_Overton-0 2312 2313	I
+T548	Edward_Overton-0 2314 2320	myself
+T372	Mr__Pontifex-1 2368 2383	old Mr Pontifex
+T549	Mr__Pontifex-1 2407 2409	he
+T550	Edward_Overton-0 2439 2441	me
+T551	Mr__Pontifex-1 2513 2515	he
+T374	His_father-17 2582 2592	His father
+T552	Mr__Pontifex-1 2582 2585	His
+T553	Mr__Pontifex-1 2623 2625	he
+T554	Mr__Pontifex-1 2630 2637	himself
+T555	Mr__Pontifex-1 2676 2679	his
+T375	his_yard-18 2771 2779	his yard
+T556	Mr__Pontifex-1 2771 2774	his
+T469	his_whole_establishment-19 2815 2838	his whole establishment
+T557	Mr__Pontifex-1 2815 2818	his
+T376	my_father-7 2905 2914	my father
+T558	Edward_Overton-0 2905 2907	my
+T470	Paleham-3 2923 2930	Paleham
+T559	Mr__Pontifex-1 2933 2935	he
+T377	a_farm_of_about_ninety_acres-20 2946 2974	a farm of about ninety acres
+T379	a_farm_of_about_ninety_acres-20 3030 3038	the farm
+T378	Pontifex_house-21 3050 3126	an old-fashioned but comfortable house with a charming garden and an orchard
+T381	Mr__Pontifex-1 3129 3142	The carpenter
+T380	one_of_the_outhouses_that_had_once_been_part_of_some_conventual_buildings-22 3177 3250	one of the outhouses that had once been part of some conventual buildings
+T382	some_conventual_buildings-23 3225 3250	some conventual buildings
+T471	the_Abbey_Close-24 3307 3322	the Abbey Close
+T473	Paleham-3 3410 3427	the whole village
+T384	Mrs__Pontifex-6 3531 3543	Mrs Pontifex
+T560	Mrs__Pontifex-6 3568 3571	her
+T561	Edward_Overton-0 3587 3588	I
+T562	Edward_Overton-0 3623 3624	I
+T563	Mrs__Pontifex-6 3634 3637	her
+T391	Mr__Pontifex-1 3679 3690	her husband
+T564	Mrs__Pontifex-6 3679 3682	her
+T393	Pontifex_house-21 3790 3799	the house
+T474	Mr__Pontifex-1 3861 3872	Mr Pontifex
+T565	Mr__Pontifex-1 3873 3880	himself
+T475	the_man_coming_to_show_light_to_a_coach_upon_a_snowy_night-26 3915 3973	the man coming to show light to a coach upon a snowy night
+T386	a_coach-27 3947 3954	a coach
+T476	Mr__Pontifex-1 3984 3995	Mr Pontifex
+T387	the_little_old_man-28 3998 4016	the little old man
+T477	little_old_woman_who_told_the_weather-29 4021 4058	little old woman who told the weather
+T568	Edward_Overton-0 4344 4350	myself
+T388	her_kitchen-30 4363 4374	her kitchen
+T569	Mrs__Pontifex-6 4363 4366	her
+T389	a_cavernous_cellar_beyond_it___wherefrom_came_gleams_from_the_pale_surfaces_of_milk_cans-31 4400 4488	a cavernous cellar beyond it , wherefrom came gleams from the pale surfaces of milk cans
+T395	a_milkmaid_skimming_the_cream-32 4528 4557	a milkmaid skimming the cream
+T570	Mrs__Pontifex-6 4569 4572	her
+T571	Mrs__Pontifex-6 4613 4616	she
+T572	Mrs__Pontifex-6 4659 4662	her
+T573	Mrs__Pontifex-6 4695 4698	she
+T574	Mrs__Pontifex-6 4742 4745	she
+T575	Mrs__Pontifex-6 4768 4771	She
+T398	my_mother-34 4817 4826	my mother
+T576	Edward_Overton-0 4817 4819	my
+T577	my_mother-34 4848 4851	she
+T578	we-35 4863 4865	we
+T579	Mrs__Pontifex-6 4889 4892	she
+T580	we-35 4904 4906	we
+T581	Mrs__Pontifex-6 4921 4924	she
+T582	Mrs__Pontifex-6 4948 4951	her
+T399	my_mother-34 4964 4973	my mother
+T583	Edward_Overton-0 4964 4966	my
+T584	Mr__Pontifex-1 4994 4996	us
+T585	Mrs__Pontifex-6 5023 5026	her
+T586	Mrs__Pontifex-6 5040 5043	she
+T587	we-35 5056 5058	us
+T588	Mrs__Pontifex-6 5068 5071	her
+T589	we-35 5081 5083	we
+T394	a_delightful_old_lady-36 5099 5120	a delightful old lady
+T590	we-35 5124 5127	our
+T396	Mr__Pontifex-1 5145 5156	Mr Pontifex
+T591	we-35 5187 5189	we
+T401	Mr__Pontifex-1 5228 5239	Mr Pontifex
+T592	we-35 5254 5256	us
+T593	we-35 5278 5280	we
+T594	Mr__Pontifex-1 5299 5302	him
+T595	Mr__Pontifex-1 5326 5329	him
+T402	my_father-7 5400 5408	our papa
+T596	we-35 5400 5403	our
+T404	Mrs__Pontifex-6 5411 5423	Mrs Pontifex
+T597	Edward_Overton-0 5458 5459	I
+T405	Mr__Pontifex-1 5500 5511	her husband
+T598	Mrs__Pontifex-6 5500 5503	her
+T599	Mr__Pontifex-1 5533 5536	him
+T600	Mr__Pontifex-1 5577 5580	his
+T601	Edward_Overton-0 5594 5595	I
+T409	my_father-7 5605 5614	my father
+T602	Edward_Overton-0 5605 5607	my
+T603	Edward_Overton-0 5625 5627	me
+T406	one_of_the_outhouses_that_had_once_been_part_of_some_conventual_buildings-22 5636 5648	his workship
+T604	Mr__Pontifex-1 5636 5639	his
+T605	Edward_Overton-0 5672 5673	I
+T408	Mr__Pontifex-1 5696 5708	old Pontifex
+T407	Jim_Pontifex-37 5736 5743	his boy
+T606	Mr__Pontifex-1 5736 5739	his
+T607	Mr__Pontifex-1 5746 5748	He
+T410	Jim_Pontifex-37 5757 5764	the lad
+T608	Edward_Overton-0 5870 5871	I
+T609	Jim_Pontifex-37 5903 5910	himself
+T421	Jim_Pontifex-37 6004 6010	my lad
+T610	Mr__Pontifex-1 6004 6006	my
+T611	Mr__Pontifex-1 6015 6017	he
+T420	some_boys-38 6032 6041	some boys
+T612	them-39 6080 6084	them
+T400	Jim_Pontifex-37 6134 6137	Jim
+T417	Jim_Pontifex-37 6262 6269	the boy
+T613	them-40 6347 6351	them
+T415	the_Lord-41 6375 6383	the Lord
+T422	Jim_Pontifex-37 6410 6416	my lad
+T614	Mr__Pontifex-1 6410 6412	my
+T615	Mr__Pontifex-1 6423 6424	I
+T616	Mr__Pontifex-1 6466 6467	I
+T617	Edward_Overton-0 6511 6512	I
+T423	Mr__Pontifex-1 6530 6541	the old man
+T403	Jim_Pontifex-37 6557 6560	Jim
+T618	Jim_Pontifex-37 6607 6610	him
+T619	Edward_Overton-0 6678 6679	I
+T620	Mr__Pontifex-1 6697 6700	him
+T425	the_village_rat-catcher-42 6706 6729	the village rat-catcher
+T621	Edward_Overton-0 6816 6817	I
+T424	the_village_rat-catcher-42 6842 6857	the rat-catcher
+T622	Edward_Overton-0 6891 6892	I
+T426	my_father-7 6929 6938	My father
+T623	Edward_Overton-0 6929 6931	My
+T427	Mr__Pontifex-1 6974 6986	old Pontifex
+T624	my_father-7 7013 7014	I
+T625	Edward_Overton-0 7020 7023	you
+T412	Edward_Overton-0 7026 7032	Edward
+T626	my_father-7 7037 7039	he
+T627	Edward_Overton-0 7053 7055	me
+T429	Mr__Pontifex-1 7060 7072	old Pontifex
+T628	Mr__Pontifex-1 7104 7106	he
+T629	my_father-7 7148 7149	I
+T630	Edward_Overton-0 7178 7179	I
+T416	my_father-7 7221 7235	My dear father
+T631	Edward_Overton-0 7221 7223	My
+T632	Edward_Overton-0 7240 7241	I
+T633	Mr__Pontifex-1 7264 7266	he
+T634	Mr__Pontifex-1 7272 7274	He
+T635	Mr__Pontifex-1 7307 7309	he
+T636	Mr__Pontifex-1 7318 7321	his
+T418	the_Royal_Academy_exhibition-43 7351 7379	the Royal Academy exhibition
+T479	the_Royal_Academy-44 7351 7368	the Royal Academy
+T637	Mr__Pontifex-1 7382 7384	He
+T638	Mr__Pontifex-1 7492 7494	he
+T639	Mr__Pontifex-1 7537 7539	he
+T640	Mr__Pontifex-1 7584 7587	him
+T641	Mr__Pontifex-1 7611 7613	he
+T437	Edward_Overton-0 7624 7630	My boy
+T642	my_father-7 7624 7626	My
+T438	my_father-7 7644 7653	my father
+T643	Edward_Overton-0 7644 7646	my
+T644	Edward_Overton-0 7658 7661	you
+T439	Giotto-45 7751 7757	Giotto
+T430	Filippo_Lippi-46 7761 7774	Filippo Lippi
+T645	Edward_Overton-0 7783 7786	you
+T432	the_Royal_Academy_exhibition-43 7813 7827	the Exhibition
+T646	we-47 7867 7869	we
+T647	we-47 7887 7889	we
+T433	Padua-48 7898 7903	Padua
+T434	the_Academy_people-49 7991 8009	the Academy people
+T478	the_Royal_Academy-44 7991 8002	the Academy
+T648	the_Academy_people-49 8036 8040	they
+T442	Giotto-45 8065 8076	poor Giotto
+T649	Giotto-45 8085 8088	him
+T650	Giotto-45 8106 8109	his
+T651	my_father-7 8143 8145	he
+T443	Mr__Pontifex-1 8167 8179	old Pontifex
+T446	Cromwell-50 8188 8196	Cromwell
+T652	Mr__Pontifex-1 8208 8210	he
+T436	Cromwell-50 8236 8244	Cromwell
+T653	Mr__Pontifex-1 8280 8282	he
+T445	Giotto-45 8291 8297	Giotto
+T654	Mr__Pontifex-1 8309 8311	he
+T440	Giotto-45 8337 8343	Giotto
+T655	Mr__Pontifex-1 8385 8387	he
+T656	my_father-7 8418 8419	I
+T657	Mr__Pontifex-1 8442 8444	he
+T658	Mr__Pontifex-1 8488 8491	his
+T659	Edward_Overton-0 8516 8517	I
+T660	we-51 8522 8524	we
+T492	people-52 8539 8545	people
+T449	Mr__Pontifex-1 8572 8584	old Pontifex
+T451	Giotto-45 8598 8604	Giotto
+T661	Mr__Pontifex-1 8613 8615	he
+T444	another_Giotto-53 8632 8646	another Giotto
+T662	Mr__Pontifex-1 8653 8655	he
+T452	Giotto-45 8672 8678	Giotto
+T663	my_father-7 8693 8694	I
+T664	Edward_Overton-0 8700 8703	you
+T447	Edward_Overton-0 8706 8712	Edward
+T448	my_father-7 8722 8731	my father
+T665	Edward_Overton-0 8722 8724	my
+T666	we-54 8755 8757	we
+T454	men-55 8769 8772	men
+T667	men-55 8793 8797	they
+T668	men-55 8814 8818	they
+T669	us-56 8824 8826	us
+T670	men-55 8837 8841	they
+T671	men-55 8853 8857	them
+T455	a_man-57 8869 8874	a man
+T672	my_father-7 8951 8953	me
+T673	my_father-7 8964 8965	I
+T674	a_man-57 8978 8981	him
+T675	a_man-57 8998 9000	he
+T456	a_man-58 9037 9042	a man
+T676	a_man-58 9065 9068	his
+T677	a_man-58 9104 9106	he
+T678	a_man-58 9155 9158	his
+T679	my_father-7 9169 9170	I
+T680	a_man-58 9182 9185	him
+T681	a_man-58 9200 9202	he
+T682	my_father-7 9209 9211	me
+T683	a_man-58 9222 9224	he
+T684	a_man-58 9248 9250	he
+T685	my_father-7 9260 9262	me
+T686	a_man-58 9273 9275	he
+T687	my_father-7 9315 9316	I
+T688	my_father-7 9331 9337	myself
+T689	my_father-7 9338 9339	I
+T690	a_man-58 9354 9357	his
+T691	my_father-7 9402 9403	I
+T692	a_man-58 9420 9423	him
+T693	a_man-58 9426 9428	he
+T694	my_father-7 9433 9434	I
+T695	my_father-7 9460 9461	I
+T450	Edward_Overton-0 9474 9480	Edward
+T458	Mr__Pontifex-1 9488 9500	old Pontifex
+T696	my_father-7 9559 9560	I
+R1	cop Arg1:T110 Arg2:T145
+R2	cop Arg1:T4 Arg2:T5
+R3	cop Arg1:T6 Arg2:T164
+R4	cop Arg1:T112 Arg2:T167
+R5	cop Arg1:T19 Arg2:T11
+R6	cop Arg1:T117 Arg2:T116
+R8	cop Arg1:T118 Arg2:T24
+R10	cop Arg1:T42 Arg2:T230
+R11	cop Arg1:T143 Arg2:T245
+R12	appos Arg1:T61 Arg2:T60
+R13	cop Arg1:T47 Arg2:T259
+R14	cop Arg1:T63 Arg2:T79
+R15	cop Arg1:T64 Arg2:T278
+R16	cop Arg1:T81 Arg2:T280
+R17	cop Arg1:T69 Arg2:T288
+R18	cop Arg1:T85 Arg2:T288
+R19	cop Arg1:T78 Arg2:T289
+R20	cop Arg1:T91 Arg2:T305
+R21	cop Arg1:T103 Arg2:T108
+R22	cop Arg1:T107 Arg2:T108
+T350	NOM_FAC 3634 3645	her parlour
+T354	parlour-25 3634 3645	her parlour
+T348	NOM_FAC 4569 4582	her storeroom
+T356	storeroom-33 4569 4582	her storeroom
+T349	NOM_FAC 3325 3341	The house itself
+T369	Pontifex_house-21 3325 3341	The house itself
+R9	cop Arg1:T122 Arg2:T349
+T33	PRON_PER 6121 6125	thee
+T35	Jim_Pontifex-37 6121 6125	thee
+T40	PRON_PER 6064 6068	thou
+T130	Jim_Pontifex-37 6064 6068	thou
+T131	PRON_PER 6141 6145	thou
+T132	Jim_Pontifex-37 6141 6145	thou
+T133	PRON_PER 6399 6402	thy
+T134	Jim_Pontifex-37 6399 6402	thy
+T135	PRON_PER 6452 6456	thee
+T136	Jim_Pontifex-37 6452 6456	thee
+T137	PRON_PER 6480 6485	thine
+T138	Jim_Pontifex-37 6480 6485	thine
+T139	PRON_PER 6195 6198	thy
+T140	Jim_Pontifex-37 6195 6198	thy
+T141	NOM_PER 6217 6221	some
+T144	them-40 6217 6221	some
+T185	PRON_PER 6793 6797	thou
+T187	the_village_rat-catcher-42 6793 6797	thou
+T189	PRON_PER 6758 6762	thou
+T190	the_village_rat-catcher-42 6758 6762	thou
+T705	PRON_FAC 3439 3442	its
+T706	Pontifex_house-21 3439 3442	its
+T707	PRON_FAC 3485 3488	its
+T708	Pontifex_house-21 3485 3488	its
+T711	PRON_FAC 4426 4428	it
+T712	her_kitchen-30 4426 4428	it
+T216	a_very_thriving_man-700 2532 2551	a very thriving man

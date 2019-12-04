@@ -1,0 +1,574 @@
+MENTION	T0	0	24	0	24	Waymarsh	PER	PROP
+MENTION	T1	0	11	0	12	the hotel	FAC	NOM
+MENTION	T2	1	38	1	38	Liverpool	GPE	PROP
+MENTION	T4	1	23	1	24	the office	FAC	NOM
+MENTION	T5	1	34	1	34	Chester	GPE	PROP
+MENTION	T6	2	19	2	20	the dock	FAC	NOM
+MENTION	T7	2	15	2	15	Waymarsh	PER	PROP
+MENTION	T8	2	10	2	10	Strether	PER	PROP
+MENTION	T9	4	48	4	49	his comrade	PER	NOM
+MENTION	T10	4	17	4	19	the two men	PER	NOM
+MENTION	T12	5	10	5	10	Strether	PER	PROP
+MENTION	T13	7	4	7	5	the ship	VEH	NOM
+MENTION	T14	7	43	7	43	London	GPE	PROP
+MENTION	T15	7	74	7	74	Liverpool	GPE	PROP
+MENTION	T17	9	11	9	11	Waymarsh	PER	PROP
+MENTION	T19	10	13	10	14	the ship	VEH	NOM
+MENTION	T20	13	20	13	21	his friend	PER	NOM
+MENTION	T21	13	38	13	39	the hall	FAC	NOM
+MENTION	T22	13	1	13	7	the young woman in the glass cage	PER	NOM
+MENTION	T24	14	44	14	46	his own ship	VEH	NOM
+MENTION	T27	17	42	17	43	Mr. Waymarsh	PER	PROP
+MENTION	T28	17	36	17	40	Mr. Waymarsh of Milrose Connecticut	PER	PROP
+MENTION	T30	24	23	24	29	friends there who were friends of his	PER	NOM
+MENTION	T32	25	13	25	13	Strether	PER	PROP
+MENTION	T33	27	3	27	4	our friend	PER	NOM
+MENTION	T34	28	12	28	13	Mr. Waymarsh	PER	PROP
+MENTION	T35	28	8	28	8	Strether	PER	PROP
+MENTION	T36	29	7	29	8	the lady	PER	NOM
+MENTION	T37	32	14	32	15	the Munsters	PER	PROP
+MENTION	T38	32	9	32	9	Strether	PER	PROP
+MENTION	T39	32	25	32	25	Liverpool	GPE	PROP
+MENTION	T41	36	8	36	8	Strether	PER	PROP
+MENTION	T42	36	14	36	15	the hotel	FAC	NOM
+MENTION	T43	36	20	36	21	a garden	FAC	NOM
+MENTION	T44	36	3	36	4	the hall	FAC	NOM
+MENTION	T45	36	8	36	10	Strether 's companion	PER	NOM
+MENTION	T46	37	25	37	25	Waymarsh	PER	PROP
+MENTION	T47	38	17	38	18	his room	FAC	NOM
+MENTION	T48	38	21	38	25	the garden of the hotel	FAC	NOM
+MENTION	T49	38	24	38	25	the hotel	FAC	NOM
+MENTION	T51	39	5	39	6	the town	GPE	NOM
+MENTION	T52	40	14	40	15	a guest	PER	NOM
+MENTION	T53	41	3	41	4	the place	GPE	NOM
+MENTION	T54	41	21	41	26	the lady in the glass cage	PER	NOM
+MENTION	T55	41	15	41	15	Strether	PER	PROP
+MENTION	T56	41	11	41	12	a hostess	PER	NOM
+MENTION	T57	42	4	42	5	this personage	PER	NOM
+MENTION	T58	43	12	43	13	his hostess	PER	NOM
+MENTION	T62	44	65	44	65	Strether	PER	PROP
+MENTION	T63	44	45	44	47	an attentive observer	PER	NOM
+MENTION	T64	45	5	45	6	the garden	FAC	NOM
+MENTION	T65	45	38	45	41	the small smooth lawn	FAC	NOM
+MENTION	T67	46	17	46	18	her companion	PER	NOM
+MENTION	T68	48	6	48	6	Strether	PER	PROP
+MENTION	T69	49	28	49	30	his dull bedroom	FAC	NOM
+MENTION	T70	51	7	51	7	London	GPE	PROP
+MENTION	T72	52	28	52	32	the person of his friend	PER	NOM
+MENTION	T73	0	3	0	3	Strether	PER	PROP
+MENTION	T74	1	5	1	6	a room	FAC	NOM
+MENTION	T3	1	20	1	21	the enquirer	PER	NOM
+MENTION	T75	3	16	3	16	Waymarsh	PER	PROP
+MENTION	T11	4	12	4	19	the most newly disembarked of the two men	PER	NOM
+MENTION	T76	4	71	4	73	the nearing steamer	VEH	NOM
+MENTION	T77	4	82	4	82	Europe	GPE	PROP
+MENTION	T78	5	27	5	27	Europe	GPE	PROP
+MENTION	T79	7	2	7	11	people on the ship with whom he had easily consorted	PER	NOM
+MENTION	T80	7	40	7	41	the landing-stage	FAC	NOM
+MENTION	T81	7	47	7	74	others who had invited him to a tryst at the inn and had even invoked his aid for a " look round " at the beauties of Liverpool	PER	NOM
+MENTION	T82	7	56	7	57	the inn	FAC	NOM
+MENTION	T83	7	71	7	74	the beauties of Liverpool	PER	NOM
+MENTION	T84	7	103	7	117	persons who esteemed themselves fortunate in being , unlike himself , " met , "	PER	NOM
+MENTION	T85	8	6	8	6	Europe	GPE	PROP
+MENTION	T86	8	18	8	18	Mersey	LOC	PROP
+MENTION	T16	9	16	9	16	Chester	GPE	PROP
+MENTION	T18	9	54	9	85	a man who , elatedly finding in his pocket more money than usual , handles it a while and idly and pleasantly chinks it before addressing himself to the business of spending	PER	NOM
+MENTION	T87	10	8	10	8	Waymarsh	PER	PROP
+MENTION	T88	11	5	11	5	Strether	PER	PROP
+MENTION	T89	13	42	13	83	a lady who met his eyes as with an intention suddenly determined , and whose features -- not freshly young , not markedly fine , but on happy terms with each other -- came back to him as from a recent vision	PER	NOM
+MENTION	T90	14	24	14	26	his previous inn	FAC	NOM
+MENTION	T23	14	32	14	33	the hall	FAC	NOM
+MENTION	T91	14	41	14	48	some people of his own ship 's company	PER	NOM
+MENTION	T25	17	39	17	39	Milrose	GPE	PROP
+MENTION	T26	17	40	17	40	Connecticut	GPE	PROP
+MENTION	T92	17	44	17	46	the American lawyer	PER	NOM
+MENTION	T93	18	9	18	12	my very well-known friend	PER	NOM
+MENTION	T94	19	10	19	10	Malvern	GPE	PROP
+MENTION	T95	22	0	22	0	Strether	PER	PROP
+MENTION	T96	24	6	24	6	Milrose	GPE	PROP
+MENTION	T29	24	27	24	29	friends of his	PER	NOM
+MENTION	T97	24	24	24	24	there	GPE	NOM
+MENTION	T31	24	36	24	37	his house	FAC	NOM
+MENTION	T98	25	13	25	16	Strether 's new acquaintance	PER	NOM
+MENTION	T99	32	11	32	12	the Munsters	PER	PROP
+MENTION	T100	32	17	32	25	the people he had seen her with at Liverpool	PER	NOM
+MENTION	T101	33	9	33	10	the Munsters	PER	PROP
+MENTION	T40	37	17	37	18	the steamer	VEH	NOM
+MENTION	T50	38	51	38	56	the dispenser of such good assurances	PER	NOM
+MENTION	T59	43	37	43	50	a man of the middle height and something more perhaps than the middle age	PER	NOM
+MENTION	T60	43	52	43	128	a man of five-and-fifty , whose most immediate signs were a marked bloodless brownness of face , a thick dark moustache , of characteristically American cut , growing strong and falling low , a head of hair still abundant but irregularly streaked with grey , and a nose of bold free prominence , the even line , the high finish , as it might have been called , of which , had a certain effect of mitigation	PER	NOM
+MENTION	T61	46	3	46	4	this lady	PER	NOM
+MENTION	T66	7	82	7	83	every one	PER	NOM
+MENTION	T105	6	45	6	45	nobody	PER	NOM
+MENTION	T71	49	6	49	6	upstairs	FAC	NOM
+MENTION	T106	38	38	38	38	there	FAC	NOM
+MENTION	T108	0	9	0	9	he	PER	PRON
+MENTION	T109	0	16	0	16	his	PER	PRON
+MENTION	T110	0	21	0	21	his	PER	PRON
+MENTION	T111	0	32	0	32	he	PER	PRON
+MENTION	T112	1	3	1	3	him	PER	PRON
+MENTION	T113	1	30	1	30	they	PER	PRON
+MENTION	T114	2	25	2	25	him	PER	PRON
+MENTION	T115	2	33	2	33	his	PER	PRON
+MENTION	T116	2	42	2	42	him	PER	PRON
+MENTION	T117	2	44	2	44	he	PER	PRON
+MENTION	T118	3	0	3	0	They	PER	PRON
+MENTION	T119	3	27	3	27	himself	PER	PRON
+MENTION	T120	3	37	3	37	they	PER	PRON
+MENTION	T121	4	2	4	2	I	PER	PRON
+MENTION	T122	4	39	4	39	himself	PER	PRON
+MENTION	T123	4	48	4	48	his	PER	PRON
+MENTION	T124	4	53	4	53	his	PER	PRON
+MENTION	T125	4	61	4	61	he	PER	PRON
+MENTION	T126	6	24	6	24	he	PER	PRON
+MENTION	T127	6	65	6	65	his	PER	PRON
+MENTION	T128	7	8	7	8	he	PER	PRON
+MENTION	T129	7	24	7	24	him	PER	PRON
+MENTION	T130	7	51	7	51	him	PER	PRON
+MENTION	T131	7	62	7	62	his	PER	PRON
+MENTION	T132	7	77	7	77	he	PER	PRON
+MENTION	T133	7	106	7	106	themselves	PER	PRON
+MENTION	T134	7	112	7	112	himself	PER	PRON
+MENTION	T135	7	138	7	138	his	PER	PRON
+MENTION	T136	8	0	8	0	They	PER	PRON
+MENTION	T137	8	25	8	25	he	PER	PRON
+MENTION	T138	8	27	8	27	his	PER	PRON
+MENTION	T139	9	0	9	0	He	PER	PRON
+MENTION	T140	9	18	9	18	he	PER	PRON
+MENTION	T141	9	23	9	23	he	PER	PRON
+MENTION	T142	9	27	9	27	himself	PER	PRON
+MENTION	T143	9	51	9	51	he	PER	PRON
+MENTION	T144	9	61	9	61	his	PER	PRON
+MENTION	T145	9	80	9	80	himself	PER	PRON
+MENTION	T146	10	1	10	1	he	PER	PRON
+MENTION	T147	10	20	10	20	he	PER	PRON
+MENTION	T148	10	26	10	26	him	PER	PRON
+MENTION	T149	10	48	10	48	him	PER	PRON
+MENTION	T150	10	50	10	50	his	PER	PRON
+MENTION	T151	10	53	10	53	his	PER	PRON
+MENTION	T152	11	0	11	0	He	PER	PRON
+MENTION	T153	12	4	12	4	his	PER	PRON
+MENTION	T154	12	9	12	9	his	PER	PRON
+MENTION	T155	13	12	13	12	him	PER	PRON
+MENTION	T156	13	14	13	14	her	PER	PRON
+MENTION	T157	13	20	13	20	his	PER	PRON
+MENTION	T158	13	26	13	26	she	PER	PRON
+MENTION	T159	13	30	13	30	he	PER	PRON
+MENTION	T160	13	35	13	35	himself	PER	PRON
+MENTION	T161	13	46	13	46	his	PER	PRON
+MENTION	T162	13	78	13	78	him	PER	PRON
+MENTION	T163	14	3	14	3	they	PER	PRON
+MENTION	T164	14	11	14	11	her	PER	PRON
+MENTION	T165	14	13	14	13	he	PER	PRON
+MENTION	T166	14	16	14	16	her	PER	PRON
+MENTION	T167	14	22	14	22	her	PER	PRON
+MENTION	T168	14	24	14	24	his	PER	PRON
+MENTION	T169	14	35	14	35	she	PER	PRON
+MENTION	T170	14	44	14	44	his	PER	PRON
+MENTION	T171	15	5	15	5	them	PER	PRON
+MENTION	T172	15	8	15	8	he	PER	PRON
+MENTION	T173	15	23	15	23	her	PER	PRON
+MENTION	T174	15	26	15	26	him	PER	PRON
+MENTION	T175	15	37	15	37	his	PER	PRON
+MENTION	T176	16	8	16	8	her	PER	PRON
+MENTION	T177	17	1	17	1	she	PER	PRON
+MENTION	T178	17	7	17	7	him	PER	PRON
+MENTION	T179	17	16	17	16	his	PER	PRON
+MENTION	T180	17	19	17	19	she	PER	PRON
+MENTION	T181	17	26	17	26	his	PER	PRON
+MENTION	T182	18	5	18	5	he	PER	PRON
+MENTION	T183	18	9	18	9	my	PER	PRON
+MENTION	T184	19	0	19	0	He	PER	PRON
+MENTION	T185	19	4	19	4	me	PER	PRON
+MENTION	T186	19	13	19	13	I	PER	PRON
+MENTION	T187	19	15	19	15	he	PER	PRON
+MENTION	T188	20	1	20	1	he	PER	PRON
+MENTION	T189	20	9	20	9	I	PER	PRON
+MENTION	T190	20	16	20	16	him	PER	PRON
+MENTION	T191	21	1	21	1	you	PER	PRON
+MENTION	T192	21	3	21	3	him	PER	PRON
+MENTION	T193	23	5	23	5	he	PER	PRON
+MENTION	T194	23	9	23	9	he	PER	PRON
+MENTION	T195	23	19	23	19	him	PER	PRON
+MENTION	T196	23	27	23	27	her	PER	PRON
+MENTION	T197	23	40	23	40	her	PER	PRON
+MENTION	T198	23	59	23	59	him	PER	PRON
+MENTION	T199	24	1	24	1	I	PER	PRON
+MENTION	T200	24	4	24	4	him	PER	PRON
+MENTION	T201	24	9	24	9	I	PER	PRON
+MENTION	T202	24	21	24	21	I	PER	PRON
+MENTION	T203	24	29	24	29	his	PER	PRON
+MENTION	T204	24	32	24	32	I	PER	PRON
+MENTION	T205	24	36	24	36	his	PER	PRON
+MENTION	T206	25	0	25	0	I	PER	PRON
+MENTION	T207	25	7	25	7	he	PER	PRON
+MENTION	T208	25	10	25	10	me	PER	PRON
+MENTION	T209	25	21	25	21	I	PER	PRON
+MENTION	T210	25	27	25	27	him	PER	PRON
+MENTION	T211	26	3	26	3	she	PER	PRON
+MENTION	T212	26	7	26	7	I	PER	PRON
+MENTION	T213	26	11	26	11	I	PER	PRON
+MENTION	T214	27	0	27	0	She	PER	PRON
+MENTION	T215	27	3	27	3	our	PER	PRON
+MENTION	T216	28	0	28	0	They	PER	PRON
+MENTION	T217	29	11	29	11	she	PER	PRON
+MENTION	T218	30	0	30	0	She	PER	PRON
+MENTION	T219	31	4	31	4	she	PER	PRON
+MENTION	T220	31	8	31	8	he	PER	PRON
+MENTION	T221	32	2	32	2	she	PER	PRON
+MENTION	T222	32	7	32	7	she	PER	PRON
+MENTION	T223	32	19	32	19	he	PER	PRON
+MENTION	T224	32	22	32	22	her	PER	PRON
+MENTION	T225	33	1	33	1	he	PER	PRON
+MENTION	T226	33	24	33	24	they	PER	PRON
+MENTION	T227	34	0	34	0	Her	PER	PRON
+MENTION	T228	35	0	35	0	Their	PER	PRON
+MENTION	T229	35	25	35	25	them	PER	PRON
+MENTION	T230	36	0	36	0	They	PER	PRON
+MENTION	T231	37	0	37	0	He	PER	PRON
+MENTION	T232	37	7	37	7	his	PER	PRON
+MENTION	T233	37	11	37	11	he	PER	PRON
+MENTION	T234	37	29	37	29	himself	PER	PRON
+MENTION	T235	38	0	38	0	He	PER	PRON
+MENTION	T236	38	9	38	9	he	PER	PRON
+MENTION	T237	38	17	38	17	his	PER	PRON
+MENTION	T238	38	44	38	44	he	PER	PRON
+MENTION	T239	38	48	38	48	himself	PER	PRON
+MENTION	T240	39	0	39	0	He	PER	PRON
+MENTION	T241	39	9	39	9	they	PER	PRON
+MENTION	T242	40	5	40	5	she	PER	PRON
+MENTION	T243	40	12	40	12	him	PER	PRON
+MENTION	T244	41	0	41	0	Her	PER	PRON
+MENTION	T245	41	6	41	6	her	PER	PRON
+MENTION	T246	42	8	42	8	herself	PER	PRON
+MENTION	T247	43	7	43	7	he	PER	PRON
+MENTION	T248	43	12	43	12	his	PER	PRON
+MENTION	T249	43	17	43	17	she	PER	PRON
+MENTION	T250	45	0	45	0	She	PER	PRON
+MENTION	T251	45	3	45	3	him	PER	PRON
+MENTION	T252	45	26	45	26	herself	PER	PRON
+MENTION	T253	45	34	45	34	he	PER	PRON
+MENTION	T254	45	36	45	36	her	PER	PRON
+MENTION	T255	45	49	45	49	he	PER	PRON
+MENTION	T256	45	53	45	53	his	PER	PRON
+MENTION	T257	46	0	46	0	She	PER	PRON
+MENTION	T258	46	17	46	17	her	PER	PRON
+MENTION	T259	46	28	46	28	him	PER	PRON
+MENTION	T260	46	32	46	32	his	PER	PRON
+MENTION	T261	46	46	46	46	him	PER	PRON
+MENTION	T262	47	2	47	2	her	PER	PRON
+MENTION	T263	47	3	47	3	he	PER	PRON
+MENTION	T264	47	25	47	25	he	PER	PRON
+MENTION	T265	47	28	47	28	his	PER	PRON
+MENTION	T266	48	10	48	10	himself	PER	PRON
+MENTION	T267	48	30	48	30	his	PER	PRON
+MENTION	T268	49	14	49	14	him	PER	PRON
+MENTION	T269	49	28	49	28	his	PER	PRON
+MENTION	T270	49	43	49	43	he	PER	PRON
+MENTION	T271	50	0	50	0	He	PER	PRON
+MENTION	T272	50	14	50	14	his	PER	PRON
+MENTION	T273	50	17	50	17	he	PER	PRON
+MENTION	T275	50	46	50	46	he	PER	PRON
+MENTION	T276	51	0	51	0	He	PER	PRON
+MENTION	T277	52	6	52	6	him	PER	PRON
+MENTION	T278	52	31	52	31	his	PER	PRON
+MENTION	T279	52	55	52	55	him	PER	PRON
+MENTION	T280	53	8	53	8	her	PER	PRON
+MENTION	T281	53	12	53	12	him	PER	PRON
+MENTION	T282	53	16	53	16	his	PER	PRON
+MENTION	T283	53	23	53	23	he	PER	PRON
+MENTION	T284	53	28	53	28	himself	PER	PRON
+MENTION	T285	53	29	53	29	his	PER	PRON
+MENTION	T286	53	32	53	32	her	PER	PRON
+MENTION	T287	53	38	53	38	she	PER	PRON
+MENTION	T288	55	5	55	5	him	PER	PRON
+MENTION	T289	55	18	55	18	his	PER	PRON
+MENTION	T290	55	25	55	25	his	PER	PRON
+MENTION	T291	0	16	0	17	his friend	PER	NOM
+COREF	T73	Strether-0
+COREF	T108	Strether-0
+COREF	T1	the_hotel-1
+COREF	T109	Strether-0
+COREF	T291	Waymarsh-2
+COREF	T110	Strether-0
+COREF	T0	Waymarsh-2
+COREF	T111	Strether-0
+COREF	T112	Waymarsh-2
+COREF	T74	a_room-3
+COREF	T3	Waymarsh-2
+COREF	T4	the_office-4
+COREF	T113	waymar_and_strether-5
+COREF	T5	Chester-6
+COREF	T2	Liverpool-7
+COREF	T8	Strether-0
+COREF	T7	Waymarsh-2
+COREF	T6	the_dock-8
+COREF	T114	Strether-0
+COREF	T115	Strether-0
+COREF	T116	Strether-0
+COREF	T117	Strether-0
+COREF	T118	waymar_and_strether-5
+COREF	T75	Waymarsh-2
+COREF	T119	Strether-0
+COREF	T120	waymar_and_strether-5
+COREF	T121	Narrator-9
+COREF	T11	Strether-0
+COREF	T10	waymar_and_strether-5
+COREF	T122	Strether-0
+COREF	T9	Waymarsh-2
+COREF	T123	Strether-0
+COREF	T124	Strether-0
+COREF	T125	Strether-0
+COREF	T76	the_nearing_steamer-10
+COREF	T77	Europe-11
+COREF	T12	Strether-0
+COREF	T78	Europe-11
+COREF	T126	Strether-0
+COREF	T105	nobody-100000
+COREF	T127	Strether-0
+COREF	T79	people_on_the_ship_with_whom_he_had_easily_consorted-12
+COREF	T13	the_ship-13
+COREF	T128	Strether-0
+COREF	T129	Strether-0
+COREF	T80	the_landing-stage-14
+COREF	T14	London-15
+COREF	T81	others_who_had_invited_him_to_a_tryst_at_the_inn_and_had_even_invoked_his_aid_for_a___look_round___at_the_beauties_of_Liverpool-16
+COREF	T130	Strether-0
+COREF	T82	the_hotel-1
+COREF	T131	Strether-0
+COREF	T83	the_beauties_of_Liverpool-17
+COREF	T15	Liverpool-7
+COREF	T132	Strether-0
+COREF	T66	every_one-18
+COREF	T84	persons_who_esteemed_themselves_fortunate_in_being___unlike_himself_____met____-19
+COREF	T133	persons_who_esteemed_themselves_fortunate_in_being___unlike_himself_____met____-19
+COREF	T134	Strether-0
+COREF	T135	Strether-0
+COREF	T136	persons_who_esteemed_themselves_fortunate_in_being___unlike_himself_____met____-19
+COREF	T85	Europe-11
+COREF	T86	Mersey-20
+COREF	T137	Strether-0
+COREF	T138	Strether-0
+COREF	T139	Strether-0
+COREF	T17	Waymarsh-2
+COREF	T16	Chester-6
+COREF	T140	Strether-0
+COREF	T141	Strether-0
+COREF	T142	Strether-0
+COREF	T143	Strether-0
+COREF	T18	a_man_who___elatedly_finding_in_his_pocket_more_money_than_usual___handles_it_a_while_and_idly_and_pleasantly_chinks_it_before_addressing_himself_to_the_business_of_spending-21
+COREF	T144	a_man_who___elatedly_finding_in_his_pocket_more_money_than_usual___handles_it_a_while_and_idly_and_pleasantly_chinks_it_before_addressing_himself_to_the_business_of_spending-21
+COREF	T145	a_man_who___elatedly_finding_in_his_pocket_more_money_than_usual___handles_it_a_while_and_idly_and_pleasantly_chinks_it_before_addressing_himself_to_the_business_of_spending-21
+COREF	T146	Strether-0
+COREF	T87	Waymarsh-2
+COREF	T19	the_ship-13
+COREF	T147	Strether-0
+COREF	T148	Waymarsh-2
+COREF	T149	Strether-0
+COREF	T150	Strether-0
+COREF	T151	Strether-0
+COREF	T152	Strether-0
+COREF	T88	Strether-0
+COREF	T153	Strether-0
+COREF	T154	Strether-0
+COREF	T22	the_young_woman_in_the_glass_cage-22
+COREF	T155	Strether-0
+COREF	T156	the_young_woman_in_the_glass_cage-22
+COREF	T20	Waymarsh-2
+COREF	T157	Strether-0
+COREF	T158	the_young_woman_in_the_glass_cage-22
+COREF	T159	Strether-0
+COREF	T160	Strether-0
+COREF	T21	the_hall-23
+COREF	T89	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T161	Strether-0
+COREF	T162	Strether-0
+COREF	T163	girl_and_strether-25
+COREF	T164	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T165	Strether-0
+COREF	T166	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T167	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T90	his_previous_inn-26
+COREF	T168	Strether-0
+COREF	T23	the_hall-23
+COREF	T169	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T91	some_people_of_his_own_ship__s_company-27
+COREF	T24	the_ship-13
+COREF	T170	Strether-0
+COREF	T171	girl_and_strether-25
+COREF	T172	Strether-0
+COREF	T173	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T174	Strether-0
+COREF	T175	Strether-0
+COREF	T176	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T177	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T178	Strether-0
+COREF	T179	Strether-0
+COREF	T180	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T181	Strether-0
+COREF	T28	Waymarsh-2
+COREF	T25	Milrose-28
+COREF	T26	Connecticut-29
+COREF	T27	Waymarsh-2
+COREF	T182	Strether-0
+COREF	T93	Waymarsh-2
+COREF	T183	Strether-0
+COREF	T184	Waymarsh-2
+COREF	T185	Strether-0
+COREF	T94	Malvern-30
+COREF	T186	Strether-0
+COREF	T187	Waymarsh-2
+COREF	T188	Waymarsh-2
+COREF	T189	Strether-0
+COREF	T190	Waymarsh-2
+COREF	T191	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T192	Waymarsh-2
+COREF	T95	Strether-0
+COREF	T193	Strether-0
+COREF	T194	Strether-0
+COREF	T195	Strether-0
+COREF	T196	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T197	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T198	Strether-0
+COREF	T199	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T200	Waymarsh-2
+COREF	T96	Milrose-28
+COREF	T201	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T202	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T30	friends_there_who_were_friends_of_his-31
+COREF	T97	Milrose-28
+COREF	T29	friends_there_who_were_friends_of_his-31
+COREF	T203	Waymarsh-2
+COREF	T204	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T31	his_house-32
+COREF	T205	Waymarsh-2
+COREF	T206	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T207	Waymarsh-2
+COREF	T208	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T32	Strether-0
+COREF	T98	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T209	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T210	Waymarsh-2
+COREF	T211	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T212	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T213	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T214	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T33	Strether-0
+COREF	T215	our-33
+COREF	T216	girl_and_strether-25
+COREF	T35	Strether-0
+COREF	T34	Waymarsh-2
+COREF	T36	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T217	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T218	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T219	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T220	Waymarsh-2
+COREF	T221	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T222	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T38	Strether-0
+COREF	T99	the_Munsters-34
+COREF	T37	the_Munsters-34
+COREF	T100	some_people_of_his_own_ship__s_company-27
+COREF	T223	Strether-0
+COREF	T224	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T39	Liverpool-7
+COREF	T225	Strether-0
+COREF	T101	the_Munsters-34
+COREF	T226	girl_and_strether-25
+COREF	T227	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T228	girl_and_strether-25
+COREF	T229	girl_and_strether-25
+COREF	T230	girl_and_strether-25
+COREF	T44	the_hall-23
+COREF	T41	Strether-0
+COREF	T45	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T42	the_hotel-1
+COREF	T43	a_garden-35
+COREF	T231	Strether-0
+COREF	T232	Strether-0
+COREF	T233	Strether-0
+COREF	T40	the_nearing_steamer-10
+COREF	T46	Waymarsh-2
+COREF	T234	Strether-0
+COREF	T235	Strether-0
+COREF	T236	Strether-0
+COREF	T47	his_room-36
+COREF	T237	Strether-0
+COREF	T48	a_garden-35
+COREF	T49	the_hotel-1
+COREF	T106	a_garden-35
+COREF	T238	Strether-0
+COREF	T239	Strether-0
+COREF	T50	Strether-0
+COREF	T240	Strether-0
+COREF	T51	the_town-37
+COREF	T241	girl_and_strether-25
+COREF	T242	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T243	Strether-0
+COREF	T244	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T53	the_town-37
+COREF	T245	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T55	Strether-0
+COREF	T54	the_young_woman_in_the_glass_cage-22
+COREF	T57	the_young_woman_in_the_glass_cage-22
+COREF	T246	the_young_woman_in_the_glass_cage-22
+COREF	T247	Strether-0
+COREF	T58	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T248	Strether-0
+COREF	T249	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T59	Strether-0
+COREF	T60	Strether-0
+COREF	T63	an_attentive_observer-38
+COREF	T62	Strether-0
+COREF	T250	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T251	Strether-0
+COREF	T64	a_garden-35
+COREF	T252	herself-39
+COREF	T253	Strether-0
+COREF	T254	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T65	the_small_smooth_lawn-40
+COREF	T255	Strether-0
+COREF	T256	Strether-0
+COREF	T257	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T61	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T67	Strether-0
+COREF	T258	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T259	Strether-0
+COREF	T260	Strether-0
+COREF	T261	Strether-0
+COREF	T262	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T263	Strether-0
+COREF	T264	Strether-0
+COREF	T265	Strether-0
+COREF	T68	Strether-0
+COREF	T266	Strether-0
+COREF	T267	Strether-0
+COREF	T71	upstairs-41
+COREF	T268	Strether-0
+COREF	T69	his_dull_bedroom-42
+COREF	T269	Strether-0
+COREF	T270	Strether-0
+COREF	T271	Strether-0
+COREF	T272	Strether-0
+COREF	T273	Strether-0
+COREF	T275	Strether-0
+COREF	T276	Strether-0
+COREF	T70	London-15
+COREF	T277	Strether-0
+COREF	T72	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T278	Strether-0
+COREF	T279	Strether-0
+COREF	T280	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T281	Strether-0
+COREF	T282	Strether-0
+COREF	T283	Strether-0
+COREF	T284	Strether-0
+COREF	T285	Strether-0
+COREF	T286	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T287	a_lady_who_met_his_eyes_as_with_an_intention_suddenly_determined___and_whose_features_--_not_freshly_young___not_markedly_fine___but_on_happy_terms_with_each_other_--_came_back_to_him_as_from_a_recent_vision-24
+COREF	T288	Strether-0
+COREF	T289	Strether-0
+COREF	T290	Strether-0
+APPOS	T92	T27
+COP	T52	T243
+COP	T56	T245

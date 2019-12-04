@@ -1,0 +1,628 @@
+T138	PROP_GPE 637 644	England
+T230	NOM_GPE 1065 1069	home
+T236	PROP_GPE 1099 1109	Bordighera
+T245	PROP_GPE 1155 1162	Nauheim
+T293	PROP_PER 1373 1391	Captain Ashburnham
+T309	PROP_GPE 1449 1456	Nauheim
+T337	PROP_PER 1587 1595	Florence
+T368	PROP_PER 1742 1750	Florence
+T395	NOM_PER 1892 1898	doctor
+T420	PROP_PER 2015 2033	Captain Ashburnham
+T453	PROP_PER 2191 2199	Florence
+T458	PROP_PER 2220 2228	Florence
+T464	PROP_PER 2261 2279	Captain Ashburnham
+T473	PROP_PER 2320 2327	Leonora
+T509	PROP_GPE 2528 2535	England
+T570	PROP_PER 2830 2838	Florence
+T608	PROP_GPE 3024 3036	Philadelphia
+T632	NOM_LOC 3146 3162	English counties
+T678	PROP_FAC 3384 3398	Walnut Streets
+T701	PROP_GPE 3495 3502	Farnham
+T703	PROP_GPE 3506 3512	Surrey
+T707	PROP_PER 3529 3541	William Penn
+T710	PROP_PER 3544 3552	Florence
+T724	PROP_GPE 3613 3624	Connecticut
+T846	PROP_GPE 4202 4206	Rome
+T969	PROP_PER 4810 4813	God
+T975	NOM_PER 4840 4843	men
+T1212	NOM_LOC 5983 5989	heaven
+T1259	PROP_PER 6249 6252	God
+T1309	PROP_FAC 6485 6496	Taunus Wald
+T1443	PROP_PER 7103 7120	Edward Ashburnham
+T1447	PROP_PER 7128 7135	Leonora
+T1454	PROP_PER 7164 7172	Florence
+T1533	NOM_PER 7531 7534	men
+T1560	NOM_FAC 7661 7673	smoking-room
+T1610	NOM_FAC 7914 7920	places
+T1621	PROP_PER 7965 7973	Florence
+T1817	PROP_PER 8906 8913	Leonora
+T1838	PROP_GPE 9020 9027	Nauheim
+T1841	NOM_FAC 9036 9049	neighbourhood
+T1857	PROP_PER 9136 9153	Edward Ashburnham
+T1873	PROP_PER 9220 9226	Edward
+T1875	PROP_PER 9231 9238	Leonora
+T1959	PROP_PER 9613 9620	Leonora
+T1	NOM_PER 68 83	the Ashburnhams
+T2	NOM_GPE 104 123	the town of Nauheim
+T4	NOM_PER 475 489	English people
+T5	NOM_PER 804 818	English people
+T6	PROP_GPE 856 862	Europe
+T7	PROP_GPE 1039 1044	Paris
+T8	PROP_GPE 1090 1094	Nice
+T9	NOM_LOC 1072 1109	Somewhere between Nice and Bordighera
+T10	NOM_PER 1327 1334	my wife
+T11	NOM_PER 260 267	My wife
+T12	NOM_PER 1019 1036	the nicer English
+T13	NOM_PER 1358 1370	the sufferer
+T14	PROP_GPE 1813 1819	Europe
+T15	NOM_LOC 1941 1948	Channel
+T16	NOM_PER 1974 1988	the poor thing
+T17	PROP_PER 2122 2144	Mrs Ashburnham Leonora
+T18	NOM_PER 2563 2580	quite good people
+T20	PROP_PER 2673 2682	Charles I
+T21	NOM_PER 2736 2764	this class of English people
+T22	PROP_PER 2801 2815	Mrs Ashburnham
+T23	NOM_PER 2820 2827	a Powys
+T24	NOM_PER 2843 2853	a Hurlbird
+T25	PROP_GPE 2857 2865	Stamford
+T26	PROP_GPE 2868 2879	Connecticut
+T27	NOM_PER 2942 2957	the inhabitants
+T28	PROP_GPE 2961 2969	Cranford
+T29	PROP_GPE 2972 2979	England
+T30	NOM_PER 3012 3020	a Dowell
+T31	NOM_GPE 3039 3042	Pa.
+T32	NOM_PER 3094 3114	old English families
+T35	PROP_FAC 3371 3379	Chestnut
+T36	NOM_PER 3448 3463	an Indian chief
+T37	NOM_PER 3467 3483	the first Dowell
+T38	NOM_PER 3544 3562	Florence 's people
+T39	NOM_PER 3594 3624	the inhabitants of Connecticut
+T40	NOM_FAC 3637 3671	the neighbourhood of Fordingbridge
+T41	NOM_FAC 3680 3703	the Ashburnhams ' place
+T42	NOM_PER 3680 3695	the Ashburnhams
+T43	NOM_FAC 3714 3719	there
+T45	NOM_GPE 3899 3905	a city
+T46	NOM_PER 3934 3942	a people
+T47	NOM_PER 4009 4022	unknown heirs
+T48	NOM_PER 4029 4040	generations
+T49	NOM_PER 4210 4219	the Goths
+T50	NOM_FAC 4429 4443	the club house
+T51	NOM_FAC 4420 4443	front of the club house
+T52	PROP_GPE 4462 4469	Homburg
+T56	NOM_FAC 5516 5533	discreet shelters
+T57	NOM_PER 5740 5747	The mob
+T58	PROP_GPE 5757 5767	Versailles
+T59	NOM_FAC 5770 5781	the Trianon
+T61	NOM_FAC 5907 5933	the Hessian bathing places
+T62	NOM_LOC 6082 6089	Nirvana
+T63	NOM_PER 6197 6238	frail , tremulous , and everlasting souls
+T64	NOM_FAC 6314 6322	a prison
+T66	NOM_FAC 6459 6496	the shaded avenues of the Taunus Wald
+T67	NOM_PER 6537 6547	my creator
+T68	NOM_PER 7136 7144	his wife
+T69	NOM_PER 7416 7431	the two of them
+T70	PROP_PER 7778 7781	God
+T71	NOM_FAC 7850 7866	the smoking-room
+T74	NOM_PER 8249 8265	some good fellow
+T75	NOM_FAC 8278 8289	some lounge
+T76	NOM_FAC 8293 8305	smoking-room
+T77	PROP_PER 8399 8407	Florence
+T78	NOM_PER 8692 8721	the sedulous , strained nurse
+T79	NOM_PER 9158 9166	his wife
+T80	NOM_PER 9354 9370	the model couple
+T81	NOM_PER 9801 9818	the county family
+T82	NOM_PER 9829 9846	the county family
+T83	NOM_PER 10172 10179	a lover
+T84	NOM_PER 10354 10359	a man
+T85	NOM_PER 10375 10386	a nice chap
+T86	NOM_PER 10394 10407	a dear fellow
+T87	NOM_VEH 10695 10705	a carriage
+T88	NOM_PER 11118 11124	a fool
+T89	NOM_PER 11128 11146	the poor dear chap
+T90	NOM_LOC 1782 1785	sea
+T91	NOM_GPE 1872 1886	that continent
+T93	NOM_PER 2480 2495	the Ashburnhams
+T94	NOM_PER 341 348	anybody
+T95	NOM_GPE 2060 2100	an India to which he was never to return
+T96	NOM_LOC 1119 1141	yearly winter quarters
+T34	NOM_FAC 3348 3398	several blocks between Chestnut and Walnut Streets
+T33	NOM_FAC 3319 3398	my farm , which once covered several blocks between Chestnut and Walnut Streets
+T92	NOM_PER 4265 4295	our little four-square coterie
+T97	NOM_LOC 4697 4707	a blue sea
+T98	NOM_VEH 4647 4707	one of those tall ships with the white sails upon a blue sea
+T53	NOM_FAC 6326 6496	a prison full of screaming hysterics , tied down so that they might not outsound the rolling of our carriage wheels as we went along the shaded avenues of the Taunus Wald
+T54	NOM_PER 6699 6826	four people with the same tastes , with the same desires , acting -- or , no , not acting -- sitting here and there unanimously
+T55	NOM_PER 7289 7310	our four-square house
+T65	NOM_LOC 7501 7510	the world
+T72	NOM_PER 5399 5412	any one of us
+T73	NOM_FAC 8225 8235	downstairs
+T1968	PRON_PER 35 36	I
+T1969	PRON_PER 55 57	We
+T1970	PRON_PER 248 252	your
+T1971	PRON_PER 260 262	My
+T1972	PRON_PER 272 273	I
+T1973	PRON_PER 380 382	we
+T1974	PRON_PER 409 413	them
+T1975	PRON_PER 426 427	I
+T1976	PRON_PER 518 519	I
+T1977	PRON_PER 548 549	I
+T1978	PRON_PER 576 577	I
+T1979	PRON_PER 617 618	I
+T1980	PRON_PER 665 666	I
+T1981	PRON_PER 718 719	I
+T1982	PRON_PER 745 746	I
+T1983	PRON_PER 771 773	we
+T1984	PRON_PER 833 835	we
+T1985	PRON_PER 880 882	we
+T1986	PRON_PER 952 954	we
+T1987	PRON_PER 974 976	we
+T1988	PRON_PER 1047 1050	you
+T1989	PRON_PER 1061 1064	our
+T1990	PRON_PER 1146 1148	us
+T1991	PRON_PER 1179 1181	us
+T1992	PRON_PER 1207 1210	You
+T1993	PRON_PER 1255 1257	us
+T1994	PRON_PER 1327 1329	my
+T1995	PRON_PER 1350 1353	she
+T1996	PRON_PER 1463 1466	him
+T1997	PRON_PER 1637 1640	his
+T1998	PRON_PER 1710 1713	his
+T1999	PRON_PER 1791 1794	our
+T2000	PRON_PER 1852 1855	our
+T2001	PRON_PER 1911 1915	They
+T2002	PRON_PER 1996 1998	we
+T2003	PRON_PER 2078 2080	he
+T2004	PRON_PER 2165 2166	I
+T2005	PRON_PER 2300 2301	I
+T2006	PRON_PER 2336 2339	You
+T2007	PRON_PER 2373 2376	our
+T2008	PRON_PER 2432 2434	we
+T2009	PRON_PER 2447 2449	us
+T2010	PRON_PER 2585 2589	They
+T2011	PRON_PER 2610 2613	you
+T2013	PRON_PER 2710 2713	you
+T2014	PRON_PER 2767 2770	you
+T2015	PRON_PER 2893 2896	you
+T2016	PRON_PER 2904 2908	they
+T2017	PRON_PER 3000 3001	I
+T2018	PRON_PER 3002 3008	myself
+T2019	PRON_PER 3120 3123	you
+T2020	PRON_PER 3180 3181	I
+T2021	PRON_PER 3199 3201	me
+T2022	PRON_PER 3267 3269	me
+T2023	PRON_PER 3319 3321	my
+T2024	PRON_PER 3739 3740	I
+T2025	PRON_PER 3763 3766	You
+T2026	PRON_PER 3784 3785	I
+T2027	PRON_PER 3802 3804	my
+T2028	PRON_PER 3970 3974	they
+T2029	PRON_PER 4069 4072	you
+T2030	PRON_PER 4111 4116	their
+T2031	PRON_PER 4226 4227	I
+T2032	PRON_PER 4237 4240	you
+T2033	PRON_PER 4265 4268	our
+T2034	PRON_PER 4348 4351	you
+T2035	PRON_PER 4369 4371	us
+T2036	PRON_PER 4450 4452	us
+T2037	PRON_PER 4533 4536	you
+T2038	PRON_PER 4582 4584	we
+T2039	PRON_PER 4623 4625	We
+T2040	PRON_PER 4636 4639	you
+T2041	PRON_PER 4932 4933	I
+T2042	PRON_PER 4962 4963	I
+T2043	PRON_PER 5124 5126	my
+T2044	PRON_PER 5140 5143	our
+T2045	PRON_PER 5250 5252	we
+T2046	PRON_PER 5299 5301	we
+T2047	PRON_PER 5334 5336	we
+T2048	PRON_PER 5410 5412	us
+T2049	PRON_PER 5570 5573	You
+T2050	PRON_PER 5608 5611	You
+T2051	PRON_PER 5893 5896	our
+T2053	PRON_PER 6294 6296	we
+T2054	PRON_PER 6383 6387	they
+T2055	PRON_PER 6422 6425	our
+T2056	PRON_PER 6445 6447	we
+T2057	PRON_PER 6507 6508	I
+T2058	PRON_PER 6537 6539	my
+T2059	PRON_PER 6688 6690	me
+T2060	PRON_PER 6691 6693	we
+T2061	PRON_PER 6871 6872	I
+T2062	PRON_PER 7051 7052	I
+T2063	PRON_PER 7136 7139	his
+T2064	PRON_PER 7184 7187	you
+T2065	PRON_PER 7289 7292	our
+T2066	PRON_PER 7337 7339	my
+T2067	PRON_PER 7427 7431	them
+T2068	PRON_PER 7452 7453	I
+T2069	PRON_PER 7472 7473	I
+T2070	PRON_PER 7537 7538	I
+T2071	PRON_PER 7554 7555	I
+T2072	PRON_PER 7630 7632	me
+T2073	PRON_PER 7796 7797	I
+T2074	PRON_PER 7806 7807	I
+T2075	PRON_PER 7875 7877	my
+T2076	PRON_PER 7976 7977	I
+T2077	PRON_PER 8012 8015	her
+T2078	PRON_PER 8089 8092	her
+T2079	PRON_PER 8102 8103	I
+T2080	PRON_PER 8139 8142	she
+T2081	PRON_PER 8154 8156	my
+T2082	PRON_PER 8177 8180	she
+T2083	PRON_PER 8213 8214	I
+T2084	PRON_PER 8316 8318	my
+T2085	PRON_PER 8365 8366	I
+T2086	PRON_PER 8376 8379	you
+T2087	PRON_PER 8422 8425	she
+T2088	PRON_PER 8442 8445	she
+T2089	PRON_PER 8463 8466	she
+T2090	PRON_PER 8595 8596	I
+T2091	PRON_PER 8608 8610	my
+T2092	PRON_PER 8623 8625	my
+T2093	PRON_PER 8681 8682	I
+T2094	PRON_PER 8724 8725	I
+T2095	PRON_PER 8754 8760	myself
+T2096	PRON_PER 8930 8932	me
+T2097	PRON_PER 8939 8944	their
+T2098	PRON_PER 8996 8999	our
+T2099	PRON_PER 9050 9053	she
+T2100	PRON_PER 9111 9114	she
+T2101	PRON_PER 9158 9161	his
+T2102	PRON_PER 9324 9325	I
+T2103	PRON_PER 9335 9338	you
+T2104	PRON_PER 9344 9348	they
+T2105	PRON_PER 9373 9375	He
+T2106	PRON_PER 9552 9555	she
+T2107	PRON_PER 9689 9692	she
+T2108	PRON_PER 9722 9725	You
+T2109	PRON_PER 9735 9736	I
+T2110	PRON_PER 10132 10135	she
+T2111	PRON_PER 10144 10146	me
+T2112	PRON_PER 10156 10157	I
+T2113	PRON_PER 10184 10185	I
+T2114	PRON_PER 10238 10239	I
+T2115	PRON_PER 10252 10255	him
+T2116	PRON_PER 10277 10279	me
+T2117	PRON_PER 10306 10307	I
+T2118	PRON_PER 10325 10328	She
+T2119	PRON_PER 10336 10337	I
+T2120	PRON_PER 10414 10415	I
+T2121	PRON_PER 10430 10436	myself
+T2122	PRON_PER 10469 10471	my
+T2123	PRON_PER 10483 10487	they
+T2125	PRON_PER 10542 10543	I
+T2126	PRON_PER 10558 10564	myself
+T2127	PRON_PER 10575 10576	I
+T2128	PRON_PER 10594 10595	I
+T2129	PRON_PER 10636 10638	my
+T2130	PRON_PER 10659 10661	my
+T2131	PRON_PER 10752 10754	we
+T2132	PRON_PER 10864 10866	me
+T2133	PRON_PER 10912 10913	I
+T2134	PRON_PER 10934 10935	I
+T2135	PRON_PER 10994 10995	I
+T2136	PRON_PER 11017 11018	I
+T2137	PRON_PER 11029 11030	I
+T2138	PRON_PER 11079 11081	me
+T2139	PRON_PER 11108 11110	me
+T2140	PROP_PER 279 305	Captain and Mrs Ashburnham
+T2141	NOM_PER 899 917	leisured Americans
+T2142	NOM_PER 1248 1257	one of us
+T2143	PROP_PER 2642 2698	the Ashburnham who accompanied Charles I to the scaffold
+T2144	NOM_PER 3855 3942	human beings who have witnessed the sack of a city or the falling to pieces of a people
+T2145	NOM_PER 6343 6362	screaming hysterics
+T4114	Narrator-0 35 36	I
+T4115	Narrator_Florence-1 55 57	We
+T2147	the_Ashburnhams-2 68 83	the Ashburnhams
+T2148	Nauheim-3 104 123	the town of Nauheim
+T4116	your-4 248 252	your
+T2157	Florence-19 260 267	My wife
+T4117	Narrator-0 260 262	My
+T4118	Narrator-0 272 273	I
+T4286	the_Ashburnhams-2 279 305	Captain and Mrs Ashburnham
+T4119	Narrator_Florence-1 380 382	we
+T4120	the_Ashburnhams-2 409 413	them
+T4121	Narrator-0 426 427	I
+T2150	English_people-7 475 489	English people
+T4122	Narrator-0 518 519	I
+T4123	Narrator-0 548 549	I
+T4124	Narrator-0 576 577	I
+T4125	Narrator-0 617 618	I
+T2284	England-8 637 644	England
+T4126	Narrator-0 665 666	I
+T4127	Narrator-0 718 719	I
+T4128	Narrator-0 745 746	I
+T4129	Narrator_Florence-1 771 773	we
+T2151	English_people-9 804 818	English people
+T4130	Narrator_Florence-1 833 835	we
+T2152	Europe-10 856 862	Europe
+T4131	Narrator_Florence-1 880 882	we
+T4132	Narrator_Florence-1 952 954	we
+T4133	Narrator_Florence-1 974 976	we
+T2158	the_nicer_English-11 1019 1036	the nicer English
+T2153	Paris-12 1039 1044	Paris
+T4134	you-13 1047 1050	you
+T4135	Narrator_Florence-1 1061 1064	our
+T2155	Somewhere_between_Nice_and_Bordighera-14 1072 1109	Somewhere between Nice and Bordighera
+T2154	Nice-15 1090 1094	Nice
+T2382	Bordighera-16 1099 1109	Bordighera
+T2240	anybody-17 341 348	anybody
+T4136	Narrator_Florence-1 1146 1148	us
+T2391	Nauheim-3 1155 1162	Nauheim
+T4137	Narrator_Florence-1 1179 1181	us
+T4138	dear_reader-180 1207 1210	You
+T4139	Narrator_Florence-1 1255 1257	us
+T4288	Florence-19 1248 1257	one of us
+T2156	Florence-19 1327 1334	my wife
+T4140	Narrator-0 1327 1329	my
+T4141	Florence-19 1350 1353	she
+T2439	Captain_Ashburnham-20 1373 1391	Captain Ashburnham
+T2455	Nauheim-3 1449 1456	Nauheim
+T4142	Captain_Ashburnham-20 1463 1466	him
+T2483	Florence-19 1587 1595	Florence
+T4143	Captain_Ashburnham-20 1637 1640	his
+T4144	Captain_Ashburnham-20 1710 1713	his
+T2514	Florence-19 1742 1750	Florence
+T2236	sea-21 1782 1785	sea
+T4145	Narrator_Florence-1 1791 1794	our
+T2160	Europe-10 1813 1819	Europe
+T4146	Narrator_Florence-1 1852 1855	our
+T2237	Europe-10 1872 1886	that continent
+T2541	doctor-22 1892 1898	doctor
+T4147	They-23 1911 1915	They
+T2161	Channel-24 1941 1948	Channel
+T2162	Florence-19 1974 1988	the poor thing
+T4148	Narrator_Florence_Edward_Leonora-25 1996 1998	we
+T2566	Captain_Ashburnham-20 2015 2033	Captain Ashburnham
+T2241	an_India_to_which_he_was_never_to_return-26 2060 2100	an India to which he was never to return
+T4149	Captain_Ashburnham-20 2078 2080	he
+T2163	Leonora-27 2122 2144	Mrs Ashburnham Leonora
+T4150	Narrator-0 2165 2166	I
+T2599	Florence-19 2191 2199	Florence
+T2604	Florence-19 2220 2228	Florence
+T2610	Captain_Ashburnham-20 2261 2279	Captain Ashburnham
+T4151	Narrator-0 2300 2301	I
+T2619	Leonora-27 2320 2327	Leonora
+T4152	dear_reader-181 2336 2339	You
+T4153	Narrator_Florence_Edward_Leonora-25 2373 2376	our
+T4154	Narrator_Florence_Edward_Leonora-25 2432 2434	we
+T4155	Narrator_Florence_Edward_Leonora-25 2447 2449	us
+T2239	the_Ashburnhams-2 2480 2495	the Ashburnhams
+T2655	England-8 2528 2535	England
+T2164	quite_good_people-28 2563 2580	quite good people
+T4156	the_Ashburnhams-2 2585 2589	They
+T4157	dear_reader-182 2610 2613	you
+T4289	the_Ashburnham_who_accompanied_Charles_I_to_the_scaffold-30 2642 2698	the Ashburnham who accompanied Charles I to the scaffold
+T2166	Charles_I-31 2673 2682	Charles I
+T4159	dear_reader-183 2710 2713	you
+T2167	this_class_of_English_people-32 2736 2764	this class of English people
+T4160	dear_reader-184 2767 2770	you
+T2168	Leonora-27 2801 2815	Mrs Ashburnham
+T2169	a_Powys-33 2820 2827	a Powys
+T2716	Florence-19 2830 2838	Florence
+T2170	a_Hurlbird-34 2843 2853	a Hurlbird
+T2171	Stamford-35 2857 2865	Stamford
+T2172	Connecticut-36 2868 2879	Connecticut
+T4161	dear_reader-185 2893 2896	you
+T4162	they-37 2904 2908	they
+T2173	the_inhabitants-38 2942 2957	the inhabitants
+T2174	Cranford-39 2961 2969	Cranford
+T2175	England-40 2972 2979	England
+T4163	Narrator-0 3000 3001	I
+T4164	Narrator-0 3002 3008	myself
+T2176	a_Dowell-41 3012 3020	a Dowell
+T2754	Philadelphia-42 3024 3036	Philadelphia
+T2177	Pa_-43 3039 3042	Pa.
+T2178	old_English_families-44 3094 3114	old English families
+T4165	you-45 3120 3123	you
+T2778	English_counties-46 3146 3162	English counties
+T4166	Narrator-0 3180 3181	I
+T4167	Narrator-0 3199 3201	me
+T4168	Narrator-0 3267 3269	me
+T2179	my_farm___which_once_covered_several_blocks_between_Chestnut_and_Walnut_Streets-47 3319 3398	my farm , which once covered several blocks between Chestnut and Walnut Streets
+T4169	Narrator-0 3319 3321	my
+T2180	several_blocks_between_Chestnut_and_Walnut_Streets-48 3348 3398	several blocks between Chestnut and Walnut Streets
+T2181	Chestnut-49 3371 3379	Chestnut
+T2824	Walnut_Streets-50 3384 3398	Walnut Streets
+T2182	an_Indian_chief-51 3448 3463	an Indian chief
+T2183	the_first_Dowell-52 3467 3483	the first Dowell
+T2847	Farnham-53 3495 3502	Farnham
+T2849	Surrey-54 3506 3512	Surrey
+T2853	William_Penn-55 3529 3541	William Penn
+T2856	Florence-19 3544 3552	Florence
+T2184	Florence__s_people-56 3544 3562	Florence 's people
+T2185	the_inhabitants_of_Connecticut-57 3594 3624	the inhabitants of Connecticut
+T2870	Connecticut-36 3613 3624	Connecticut
+T2186	the_neighbourhood_of_Fordingbridge-58 3637 3671	the neighbourhood of Fordingbridge
+T2187	the_Ashburnhams___place-59 3680 3703	the Ashburnhams ' place
+T2188	the_Ashburnhams-2 3680 3695	the Ashburnhams
+T2189	the_Ashburnhams___place-59 3714 3719	there
+T4170	Narrator-0 3739 3740	I
+T4171	dear_reader-186 3763 3766	You
+T4172	Narrator-0 3784 3785	I
+T4173	Narrator-0 3802 3804	my
+T2191	a_city-61 3899 3905	a city
+T2192	a_people-62 3934 3942	a people
+T4290	human_beings_who_have_witnessed_the_sack_of_a_city_or_the_falling_to_pieces_of_a_people-63 3855 3942	human beings who have witnessed the sack of a city or the falling to pieces of a people
+T4174	human_beings_who_have_witnessed_the_sack_of_a_city_or_the_falling_to_pieces_of_a_people-63 3970 3974	they
+T2193	unknown_heirs-64 4009 4022	unknown heirs
+T2194	generations-65 4029 4040	generations
+T4175	dear_reader-187 4069 4072	you
+T4176	human_beings_who_have_witnessed_the_sack_of_a_city_or_the_falling_to_pieces_of_a_people-63 4111 4116	their
+T2992	Rome-66 4202 4206	Rome
+T2195	the_Goths-67 4210 4219	the Goths
+T4177	Narrator-0 4226 4227	I
+T4178	dear_reader-188 4237 4240	you
+T2238	Narrator_Florence_Edward_Leonora-25 4265 4295	our little four-square coterie
+T4179	Narrator_Florence_Edward_Leonora-25 4265 4268	our
+T4180	dear_reader-189 4348 4351	you
+T4181	Narrator_Florence_Edward_Leonora-25 4369 4371	us
+T2197	front_of_the_club_house-68 4420 4443	front of the club house
+T2196	the_club_house-69 4429 4443	the club house
+T4182	us-70 4450 4452	us
+T2198	Homburg-71 4462 4469	Homburg
+T4183	dear_reader-190 4533 4536	you
+T4184	Narrator_Florence_Edward_Leonora-25 4582 4584	we
+T4185	Narrator_Florence_Edward_Leonora-25 4623 4625	We
+T4186	dear_reader-191 4636 4639	you
+T2243	a_blue_sea-72 4697 4707	a blue sea
+T3115	God-73 4810 4813	God
+T3121	men-74 4840 4843	men
+T4187	Narrator-0 4932 4933	I
+T4188	Narrator-0 4962 4963	I
+T4189	Narrator-0 5124 5126	my
+T4190	Narrator_Florence_Edward_Leonora-25 5140 5143	our
+T4191	Narrator_Florence_Edward_Leonora-25 5250 5252	we
+T4192	Narrator_Florence_Edward_Leonora-25 5299 5301	we
+T4193	Narrator_Florence_Edward_Leonora-25 5334 5336	we
+T2218	any_one_of_us-75 5399 5412	any one of us
+T4194	Narrator_Florence_Edward_Leonora-25 5410 5412	us
+T2202	discreet_shelters-76 5516 5533	discreet shelters
+T4195	You-77 5570 5573	You
+T4196	You-78 5608 5611	You
+T2203	The_mob-79 5740 5747	The mob
+T2204	Versailles-80 5757 5767	Versailles
+T2205	the_Trianon-81 5770 5781	the Trianon
+T4197	Narrator_Florence_Edward_Leonora-25 5893 5896	our
+T2207	the_Hessian_bathing_places-82 5907 5933	the Hessian bathing places
+T3358	heaven-83 5983 5989	heaven
+T2208	Nirvana-84 6082 6089	Nirvana
+T2209	frail___tremulous___and_everlasting_souls-85 6197 6238	frail , tremulous , and everlasting souls
+T3405	God-73 6249 6252	God
+T4199	Narrator_Florence_Edward_Leonora-25 6294 6296	we
+T2210	a_prison-86 6314 6322	a prison
+T4291	screaming_hysterics-87 6343 6362	screaming hysterics
+T4200	screaming_hysterics-87 6383 6387	they
+T4201	Narrator_Florence_Edward_Leonora-25 6422 6425	our
+T4202	Narrator_Florence_Edward_Leonora-25 6445 6447	we
+T2212	the_shaded_avenues_of_the_Taunus_Wald-88 6459 6496	the shaded avenues of the Taunus Wald
+T3455	Taunus_Wald-89 6485 6496	Taunus Wald
+T4203	Narrator-0 6507 6508	I
+T2213	God-73 6537 6547	my creator
+T4204	Narrator-0 6537 6539	my
+T4205	Narrator-0 6688 6690	me
+T4206	Narrator_Florence_Edward_Leonora-25 6691 6693	we
+T4207	Narrator-0 6871 6872	I
+T4208	Narrator-0 7051 7052	I
+T3589	Captain_Ashburnham-20 7103 7120	Edward Ashburnham
+T3593	Leonora-27 7128 7135	Leonora
+T2214	Leonora-27 7136 7144	his wife
+T4209	Captain_Ashburnham-20 7136 7139	his
+T3600	Florence-19 7164 7172	Florence
+T4210	you-90 7184 7187	you
+T2201	Narrator_Florence_Edward_Leonora-25 7289 7310	our four-square house
+T4211	Narrator_Florence_Edward_Leonora-25 7289 7292	our
+T4212	Narrator-0 7337 7339	my
+T2215	Captain_Florence-91 7416 7431	the two of them
+T4213	Narrator_Florence_Edward_Leonora-25 7427 7431	them
+T4214	Narrator-0 7452 7453	I
+T4215	Narrator-0 7472 7473	I
+T2211	the_world-92 7501 7510	the world
+T3679	men-93 7531 7534	men
+T4216	Narrator-0 7537 7538	I
+T4217	Narrator-0 7554 7555	I
+T4218	Narrator-0 7630 7632	me
+T3706	smoking-room-94 7661 7673	smoking-room
+T2216	God-73 7778 7781	God
+T4219	Narrator-0 7796 7797	I
+T4220	Narrator-0 7806 7807	I
+T2217	the_smoking-room-95 7850 7866	the smoking-room
+T4221	Narrator-0 7875 7877	my
+T3756	places-96 7914 7920	places
+T3767	Florence-19 7965 7973	Florence
+T4222	Narrator-0 7976 7977	I
+T4223	Florence-19 8012 8015	her
+T4224	Florence-19 8089 8092	her
+T4225	Narrator-0 8102 8103	I
+T4226	Florence-19 8139 8142	she
+T4227	Narrator-0 8154 8156	my
+T4228	Florence-19 8177 8180	she
+T4229	Narrator-0 8213 8214	I
+T2219	downstairs-97 8225 8235	downstairs
+T2220	some_good_fellow-98 8249 8265	some good fellow
+T2221	some_lounge-99 8278 8289	some lounge
+T2222	smoking-room-100 8293 8305	smoking-room
+T4230	Narrator-0 8316 8318	my
+T4231	Narrator-0 8365 8366	I
+T4232	dear_reader-192 8376 8379	you
+T2223	Florence-19 8399 8407	Florence
+T4233	Florence-19 8422 8425	she
+T4234	Florence-19 8442 8445	she
+T4235	Florence-19 8463 8466	she
+T4236	Narrator-0 8595 8596	I
+T4237	Narrator-0 8608 8610	my
+T4238	Narrator-0 8623 8625	my
+T4239	Narrator-0 8681 8682	I
+T2224	the_sedulous___strained_nurse-101 8692 8721	the sedulous , strained nurse
+T4240	Narrator-0 8724 8725	I
+T4241	Narrator-0 8754 8760	myself
+T3963	Leonora-27 8906 8913	Leonora
+T4242	Narrator-0 8930 8932	me
+T4243	Captain_Florence-91 8939 8944	their
+T4244	narrator_Leonora-102 8996 8999	our
+T3984	Nauheim-3 9020 9027	Nauheim
+T3987	neighbourhood-103 9036 9049	neighbourhood
+T4245	Florence-19 9050 9053	she
+T4246	Florence-19 9111 9114	she
+T4003	Captain_Ashburnham-20 9136 9153	Edward Ashburnham
+T2225	Leonora-27 9158 9166	his wife
+T4247	Captain_Ashburnham-20 9158 9161	his
+T4019	Captain_Ashburnham-20 9220 9226	Edward
+T4021	Leonora-27 9231 9238	Leonora
+T4248	Narrator-0 9324 9325	I
+T4249	dear_reader-193 9335 9338	you
+T4250	the_Ashburnhams-2 9344 9348	they
+T4251	Captain_Ashburnham-20 9373 9375	He
+T4252	Leonora-27 9552 9555	she
+T4105	Leonora-27 9613 9620	Leonora
+T4253	Leonora-27 9689 9692	she
+T4254	You-105 9722 9725	You
+T4255	Narrator-0 9735 9736	I
+T2227	the_county_family-106 9801 9818	the county family
+T2228	the_county_family-107 9829 9846	the county family
+T4256	Leonora-27 10132 10135	she
+T4257	Narrator-0 10144 10146	me
+T4258	Leonora-27 10156 10157	I
+T2229	a_lover-108 10172 10179	a lover
+T4259	Leonora-27 10184 10185	I
+T4260	Leonora-27 10238 10239	I
+T4261	a_lover-108 10252 10255	him
+T4262	Narrator-0 10277 10279	me
+T4263	Narrator-0 10306 10307	I
+T4264	Leonora-27 10325 10328	She
+T4265	Leonora-27 10336 10337	I
+T2230	a_lover-108 10354 10359	a man
+T2231	a_lover-108 10375 10386	a nice chap
+T2232	a_lover-108 10394 10407	a dear fellow
+T4266	Leonora-27 10414 10415	I
+T4267	Leonora-27 10430 10436	myself
+T4268	Leonora-27 10469 10471	my
+T4269	they-110 10483 10487	they
+T4271	Leonora-27 10542 10543	I
+T4272	Leonora-27 10558 10564	myself
+T4273	Leonora-27 10575 10576	I
+T4274	Leonora-27 10594 10595	I
+T4275	Leonora-27 10636 10638	my
+T4276	Leonora-27 10659 10661	my
+T2233	a_carriage-111 10695 10705	a carriage
+T4277	Leonora_lover-112 10752 10754	we
+T4278	Leonora-27 10864 10866	me
+T4279	Leonora-27 10912 10913	I
+T4280	Leonora-27 10934 10935	I
+T4281	Leonora-27 10994 10995	I
+T4282	Leonora-27 11017 11018	I
+T4283	Leonora-27 11029 11030	I
+T4284	Leonora-27 11079 11081	me
+T4285	Leonora-27 11108 11110	me
+T2235	a_lover-108 11128 11146	the poor dear chap
+R1	cop Arg1:T2141 Arg2:T1987
+R2	cop Arg1:T230 Arg2:T7
+R3	cop Arg1:T96 Arg2:T9
+R4	cop Arg1:T13 Arg2:T1995
+R5	cop Arg1:T98 Arg2:T2039
+R6	appos Arg1:T53 Arg2:T64
+R7	cop Arg1:T54 Arg2:T2060
+R8	cop Arg1:T80 Arg2:T2104
+R9	cop Arg1:T88 Arg2:T89
+T3	NOM_PER 4125 4133	Some one
+T19	Some_one-700 4125 4133	Some one

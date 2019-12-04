@@ -1,0 +1,664 @@
+T0	NOM_PER 57 67	her sister
+T1	PROP_PER 37 42	Helen
+T2	PROP_PER 94 105	Dearest Meg
+T3	NOM_PER 296 307	younger son
+T5	NOM_FAC 334 338	hall
+T6	NOM_FAC 395 399	Hall
+T8	NOM_FAC 475 485	the stairs
+T11	NOM_FAC 704 720	the front garden
+T12	NOM_FAC 861 871	the garden
+T13	NOM_FAC 812 821	the house
+T14	NOM_LOC 876 882	meadow
+T16	NOM_PER 1076 1083	my host
+T17	NOM_PER 1088 1095	hostess
+T18	NOM_FAC 1187 1198	their house
+T19	NOM_FAC 1237 1249	their garden
+T20	PROP_PER 1411 1421	Mr. Wilcox
+T21	PROP_PER 1347 1358	Mrs. Wilcox
+T25	PROP_GPE 1700 1706	London
+T28	NOM_PER 1838 1857	the son who is here
+T30	NOM_PER 1955 1967	the Wilcoxes
+T31	PROP_PER 1977 1982	Tibby
+T32	NOM_FAC 2154 2163	The house
+T34	PROP_PER 2216 2227	Mrs. Wilcox
+T35	NOM_FAC 2389 2397	the lawn
+T38	PROP_PER 2912 2922	Mr. Wilcox
+T39	PROP_PER 2999 3003	Evie
+T40	PROP_PER 3199 3210	Mrs. Wilcox
+T41	PROP_PER 3639 3650	Mrs. Wilcox
+T42	PROP_PER 3710 3721	Mrs. Wilcox
+T43	NOM_FAC 3858 3891	the wiggly hotel that we expected
+T45	NOM_FAC 3983 3991	the lawn
+T49	PROP_PER 4274 4284	Aunt Juley
+T51	PROP_PER 4421 4432	Dearest Meg
+T52	PROP_PER 4483 4494	Mrs. Wilcox
+T53	PROP_GPE 4516 4523	Germany
+T54	NOM_PER 4779 4786	friends
+T55	PROP_PER 4859 4869	Mr. Wilcox
+T56	NOM_PER 5002 5007	women
+T57	NOM_PER 5269 5272	men
+T58	PROP_PER 5590 5600	Mr. Wilcox
+T60	NOM_FAC 5943 5960	this lovely house
+T61	NOM_FAC 5797 5814	a hermit 's house
+T62	NOM_PER 5851 5870	the Kings of Mercia
+T63	PROP_PER 5724 5731	Charles
+T65	PROP_PER 6022 6026	Evie
+T68	PROP_PER 6345 6349	Paul
+T69	NOM_PER 6371 6415	the younger son who only came here Wednesday
+T70	NOM_PER 6448 6458	her sister
+T71	NOM_PER 6509 6517	her aunt
+T74	NOM_PER 6674 6684	the father
+T75	NOM_PER 6689 6695	mother
+T76	NOM_PER 6759 6768	their son
+T78	PROP_PER 7062 7075	Margaret dear
+T79	PROP_PER 7123 7131	Margaret
+T80	NOM_PER 7215 7227	the Wilcoxes
+T82	PROP_PER 7292 7297	Helen
+T83	NOM_PER 7416 7434	the seven electors
+T84	PROP_GPE 7474 7478	Koln
+T85	PROP_PER 7380 7404	the Archbishop of Speyer
+T86	PROP_GPE 7398 7404	Speyer
+T87	PROP_LOC 7515 7531	the Rhine Valley
+T88	PROP_LOC 7555 7568	Priest Street
+T90	NOM_VEH 7671 7676	boats
+T91	NOM_FAC 7659 7676	a bridge of boats
+T92	NOM_FAC 7865 7887	the original structure
+T94	NOM_PER 7930 7942	the Wilcoxes
+T95	PROP_PER 8109 8114	Helen
+T97	PROP_PER 8348 8353	Tibby
+T98	PROP_PER 8285 8290	Helen
+T100	PROP_GPE 8645 8651	London
+T101	NOM_FAC 8662 8673	Their house
+T102	NOM_FAC 8742 8751	buildings
+T105	NOM_PER 9078 9088	concierges
+T107	NOM_FAC 9282 9292	their site
+T108	PROP_GPE 9362 9368	London
+T109	NOM_FAC 365 376	dining-room
+T110	NOM_FAC 380 392	drawing-room
+T7	NOM_FAC 422 428	a room
+T111	NOM_FAC 518 533	the first-floor
+T9	NOM_FAC 498 533	a sort of tunnel to the first-floor
+T112	NOM_FAC 536 559	Three bedrooms in a row
+T113	NOM_FAC 572 599	three attics in a row above
+T10	NOM_FAC 618 627	the house
+T15	NOM_FAC 1254 1276	gamboge-coloured paths
+T114	NOM_FAC 1208 1230	all gables and wiggles
+T115	NOM_FAC 1327 1343	expensive hotels
+T116	NOM_FAC 1394 1408	long corridors
+T22	NOM_PER 1431 1438	porters
+T117	NOM_PER 1450 1457	females
+T23	PROP_PER 1596 1601	Tibby
+T24	NOM_PER 1786 1797	a schoolboy
+T26	NOM_FAC 2243 2253	the garden
+T36	NOM_LOC 2414 2439	whose corner to the right
+T37	PROP_PER 2767 2781	Charles Wilcox
+T118	PROP_PER 3496 3499	Meg
+T119	NOM_PER 3624 3632	the W 's
+T120	PROP_PER 3749 3753	Evie
+T44	NOM_FAC 3790 3814	a go-as-you-please place
+T46	NOM_FAC 4152 4160	the farm
+T47	NOM_FAC 4172 4194	the only house near us
+T48	PROP_PER 4258 4263	Tibby
+T121	NOM_PER 4343 4349	a bore
+T122	NOM_PER 4684 4740	the very happiest , jolliest family that you can imagine
+T123	NOM_PER 4825 4833	a noodle
+T124	PROP_PER 5148 5151	Meg
+T50	PROP_FAC 4398 4409	HOWARDS END
+T125	PROP_PER 4392 4397	Helen
+T126	PROP_FAC 70 81	HOWARDS END
+T127	NOM_FAC 5817 5870	a wonderful road that was made by the Kings of Mercia
+T128	PROP_GPE 5864 5870	Mercia
+T59	NOM_VEH 5758 5767	the motor
+T129	NOM_FAC 5771 5794	a tomb with trees in it
+T130	NOM_PER 5963 5977	The whole clan
+T64	NOM_PER 6030 6036	a dear
+T66	NOM_PER 6237 6260	Your affectionate Helen
+T131	PROP_FAC 6261 6272	HOWARDS END
+T67	NOM_PER 6284 6305	Dearest , dearest Meg
+T72	PROP_PER 6428 6436	Margaret
+T73	PROP_PER 6610 6620	Aunt Juley
+T77	PROP_PER 6893 6903	Aunt Juley
+T132	PROP_PER 6928 6941	Margaret dear
+T133	PROP_GPE 7269 7279	Heidelberg
+T134	PROP_GPE 7283 7289	Speyer
+T81	NOM_FAC 7345 7376	a grand old cathedral at Speyer
+T135	PROP_GPE 7370 7376	Speyer
+T136	PROP_PER 7623 7631	Margaret
+T137	PROP_GPE 7452 7458	Speyer
+T138	PROP_GPE 7461 7467	Maintz
+T139	NOM_VEH 7638 7647	The train
+T89	NOM_FAC 7758 7773	the whole thing
+T140	NOM_FAC 7776 7789	The cathedral
+T93	NOM_FAC 7979 7997	the public gardens
+T141	NOM_PER 8011 8022	poor things
+T142	PROP_GPE 8077 8083	Speyer
+T143	PROP_GPE 8155 8165	Heidelberg
+T96	NOM_PER 8463 8490	a young man out the unknown
+T99	PROP_FAC 8681 8694	Wickham Place
+T103	NOM_LOC 8720 8751	a lofty promontory of buildings
+T144	NOM_FAC 8770 8791	the main thoroughfare
+T145	NOM_LOC 8815 8826	a backwater
+T146	NOM_LOC 8842 8979	an estuary , whose waters flowed in from the invisible sea , and ebbed into a profound silence while the waves without were still beating
+T147	NOM_LOC 8883 8900	the invisible sea
+T148	NOM_LOC 8989 9003	the promontory
+T106	NOM_FAC 9017 9022	flats
+T149	NOM_FAC 9043 9067	cavernous entrance halls
+T104	NOM_FAC 9144 9169	the older houses opposite
+T151	NOM_LOC 9247 9265	another promontory
+T27	PROP_PER 1821 1835	Charles Wilcox
+T4	PROP_PER 289 293	Paul
+T29	NOM_PER 1946 1967	Men like the Wilcoxes
+T150	NOM_PER 5555 5587	all people who are really strong
+T165	NOM_FAC 560 565	there
+T166	NOM_FAC 1853 1857	here
+T167	NOM_FAC 5981 5985	here
+T168	NOM_FAC 6401 6405	here
+T169	PRON_PER 57 60	her
+T170	PRON_PER 135 137	we
+T171	PRON_PER 213 215	We
+T172	PRON_PER 339 342	you
+T173	PRON_PER 431 434	You
+T174	PRON_PER 687 690	you
+T175	PRON_PER 775 778	you
+T176	PRON_PER 885 886	I
+T177	PRON_PER 1059 1060	I
+T178	PRON_PER 1076 1078	my
+T179	PRON_PER 1098 1099	I
+T180	PRON_PER 1150 1152	we
+T181	PRON_PER 1172 1174	we
+T182	PRON_PER 1187 1192	their
+T183	PRON_PER 1237 1242	their
+T184	PRON_PER 1279 1280	I
+T185	PRON_PER 1304 1306	we
+T186	PRON_PER 1317 1321	them
+T187	PRON_PER 1447 1449	We
+T188	PRON_PER 1476 1477	I
+T189	PRON_PER 1512 1515	you
+T190	PRON_PER 1535 1539	They
+T191	PRON_PER 1556 1557	I
+T192	PRON_PER 1566 1569	you
+T193	PRON_PER 1620 1622	he
+T194	PRON_PER 1675 1677	he
+T195	PRON_PER 1721 1723	he
+T196	PRON_PER 1751 1754	you
+T197	PRON_PER 1812 1815	him
+T198	PRON_PER 1884 1886	he
+T199	PRON_PER 1924 1926	we
+T200	PRON_PER 2005 2008	you
+T201	PRON_PER 2028 2029	I
+T202	PRON_PER 2089 2090	I
+T203	PRON_PER 2189 2190	I
+T204	PRON_PER 2256 2259	She
+T205	PRON_PER 2291 2294	she
+T206	PRON_PER 2319 2322	She
+T207	PRON_PER 2374 2377	she
+T208	PRON_PER 2440 2441	I
+T209	PRON_PER 2478 2481	her
+T210	PRON_PER 2522 2525	she
+T211	PRON_PER 2541 2544	her
+T212	PRON_PER 2593 2594	I
+T213	PRON_PER 2633 2636	she
+T214	PRON_PER 2696 2697	I
+T215	PRON_PER 2795 2799	they
+T216	PRON_PER 2834 2836	he
+T217	PRON_PER 2877 2878	I
+T218	PRON_PER 2973 2975	he
+T219	PRON_PER 3106 3110	they
+T220	PRON_PER 3145 3148	she
+T221	PRON_PER 3176 3179	she
+T222	PRON_PER 3287 3288	I
+T223	PRON_PER 3309 3312	you
+T224	PRON_PER 3326 3329	you
+T225	PRON_PER 3463 3464	I
+T226	PRON_PER 3601 3603	me
+T227	PRON_PER 3665 3666	I
+T228	PRON_PER 3824 3827	you
+T229	PRON_PER 3833 3837	your
+T230	PRON_PER 3880 3882	we
+T231	PRON_PER 3901 3904	you
+T235	PRON_PER 4095 4098	you
+T236	PRON_PER 4192 4194	us
+T237	PRON_PER 4299 4302	her
+T238	PRON_PER 4320 4323	you
+T239	PRON_PER 4435 4436	I
+T240	PRON_PER 4465 4466	I
+T241	PRON_PER 4472 4476	them
+T242	PRON_PER 4553 4554	I
+T243	PRON_PER 4579 4582	her
+T244	PRON_PER 4669 4672	her
+T245	PRON_PER 4675 4679	They
+T246	PRON_PER 4725 4728	you
+T247	PRON_PER 4743 4744	I
+T248	PRON_PER 4765 4767	we
+T249	PRON_PER 4811 4815	they
+T250	PRON_PER 4822 4824	me
+T251	PRON_PER 4965 4967	He
+T252	PRON_PER 5041 5042	I
+T253	PRON_PER 5048 5049	I
+T254	PRON_PER 5071 5073	he
+T255	PRON_PER 5086 5089	his
+T256	PRON_PER 5104 5106	me
+T257	PRON_PER 5130 5131	I
+T258	PRON_PER 5160 5162	we
+T259	PRON_PER 5189 5190	I
+T260	PRON_PER 5216 5222	myself
+T261	PRON_PER 5226 5228	my
+T262	PRON_PER 5236 5237	I
+T263	PRON_PER 5344 5348	them
+T264	PRON_PER 5373 5374	I
+T265	PRON_PER 5398 5399	I
+T266	PRON_PER 5496 5499	you
+T267	PRON_PER 5624 5626	me
+T268	PRON_PER 5649 5650	I
+T269	PRON_PER 5660 5664	them
+T270	PRON_PER 5690 5692	We
+T271	PRON_PER 5738 5740	us
+T272	PRON_PER 5926 5928	we
+T273	PRON_PER 6039 6043	They
+T274	PRON_PER 6049 6051	me
+T275	PRON_PER 6075 6076	I
+T276	PRON_PER 6105 6106	I
+T277	PRON_PER 6203 6206	you
+T278	PRON_PER 6211 6215	your
+T279	PRON_PER 6237 6241	Your
+T280	PRON_PER 6311 6312	I
+T281	PRON_PER 6330 6333	you
+T282	PRON_PER 6354 6355	I
+T283	PRON_PER 6448 6451	her
+T284	PRON_PER 6509 6512	her
+T285	PRON_PER 6585 6586	I
+T286	PRON_PER 6596 6599	you
+T287	PRON_PER 6623 6624	I
+T288	PRON_PER 6643 6646	you
+T289	PRON_PER 6652 6654	We
+T290	PRON_PER 6662 6664	we
+T291	PRON_PER 6717 6718	I
+T292	PRON_PER 6739 6740	I
+T293	PRON_PER 6759 6764	their
+T294	PRON_PER 6797 6800	She
+T295	PRON_PER 6807 6810	her
+T296	PRON_PER 6944 6945	I
+T297	PRON_PER 6951 6953	we
+T298	PRON_PER 6987 6989	we
+T299	PRON_PER 7083 7084	I
+T300	PRON_PER 7096 7099	her
+T301	PRON_PER 7141 7142	I
+T302	PRON_PER 7152 7153	I
+T303	PRON_PER 7165 7167	my
+T304	PRON_PER 7190 7191	I
+T306	PRON_PER 7208 7210	We
+T307	PRON_PER 7256 7258	we
+T308	PRON_PER 7302 7303	I
+T309	PRON_PER 7320 7323	our
+T310	PRON_PER 7438 7441	you
+T311	PRON_PER 7575 7576	I
+T312	PRON_PER 7746 7748	we
+T313	PRON_PER 7890 7892	We
+T314	PRON_PER 7946 7948	we
+T315	PRON_PER 7961 7964	our
+T316	PRON_PER 8000 8004	They
+T317	PRON_PER 8046 8050	they
+T318	PRON_PER 8091 8095	they
+T319	PRON_PER 8130 8134	they
+T320	PRON_PER 8149 8151	us
+T321	PRON_PER 8190 8194	they
+T322	PRON_PER 8218 8220	We
+T323	PRON_PER 8253 8257	They
+T324	PRON_PER 8263 8265	us
+T325	PRON_PER 8307 8311	them
+T326	PRON_PER 8326 8327	I
+T327	PRON_PER 8375 8377	me
+T328	PRON_PER 8395 8398	she
+T329	PRON_PER 8426 8429	You
+T330	PRON_PER 8446 8447	I
+T331	PRON_PER 8493 8496	She
+T332	PRON_PER 8581 8582	I
+T333	PRON_PER 8597 8600	She
+T334	PRON_PER 8662 8667	Their
+T336	NOM_PER 1079 1095	host and hostess
+T337	NOM_LOC 2401 2411	the meadow
+T338	PRON_FAC 3843 3845	it
+T339	PRON_FAC 3772 3774	it
+T340	NOM_PER 4633 4643	the others
+T342	Helen-0 37 42	Helen
+T341	Margaret-1 57 67	her sister
+T510	Helen-0 57 60	her
+T467	Howard_s_End-2 70 81	HOWARDS END
+T511	Helen_and_Meg-4 135 137	we
+T512	Helen_and_Meg-4 213 215	We
+T346	hall-6 334 338	hall
+T513	you-7 339 342	you
+T450	dining-room-8 365 376	dining-room
+T451	drawing-room-9 380 392	drawing-room
+T347	hall-6 395 399	Hall
+T348	a_room-10 422 428	a room
+T514	You-11 431 434	You
+T349	the_stairs-12 475 485	the stairs
+T350	a_sort_of_tunnel_to_the_first-floor-13 498 533	a sort of tunnel to the first-floor
+T452	the_first-floor-14 518 533	the first-floor
+T453	Three_bedrooms_in_a_row-15 536 559	Three bedrooms in a row
+T506	the_first-floor-14 560 565	there
+T454	three_attics_in_a_row_above-16 572 599	three attics in a row above
+T343	Margaret-1 94 105	Dearest Meg
+T351	the_house-17 618 627	the house
+T515	you-18 687 690	you
+T352	the_garden-19 704 720	the front garden
+T516	you-20 775 778	you
+T354	the_house-17 812 821	the house
+T353	the_garden-19 861 871	the garden
+T355	meadow-21 876 882	meadow
+T517	Helen-0 885 886	I
+T518	Helen-0 1059 1060	I
+T357	Henry_Wilcox-22 1076 1083	my host
+T519	Helen-0 1076 1078	my
+T358	Ruth_Wilcox-23 1088 1095	hostess
+T520	Helen-0 1098 1099	I
+T521	Helen_and_Meg-4 1150 1152	we
+T522	Helen_and_Meg-4 1172 1174	we
+T359	the_house-17 1187 1198	their house
+T677	Mr__and_Mrs__Wilcox-24 1079 1095	host and hostess
+T523	Mr__and_Mrs__Wilcox-24 1187 1192	their
+T455	all_gables_and_wiggles-25 1208 1230	all gables and wiggles
+T360	the_garden-19 1237 1249	their garden
+T524	Mr__and_Mrs__Wilcox-24 1237 1242	their
+T356	gamboge-coloured_paths-26 1254 1276	gamboge-coloured paths
+T525	Helen-0 1279 1280	I
+T526	Helen_and_Meg-4 1304 1306	we
+T527	Mr__and_Mrs__Wilcox-24 1317 1321	them
+T456	expensive_hotels-27 1327 1343	expensive hotels
+T362	Ruth_Wilcox-23 1347 1358	Mrs. Wilcox
+T457	long_corridors-28 1394 1408	long corridors
+T361	Henry_Wilcox-22 1411 1421	Mr. Wilcox
+T363	porters-29 1431 1438	porters
+T528	We-30 1447 1449	We
+T458	We-30 1450 1457	females
+T529	Helen-0 1476 1477	I
+T530	Margaret-1 1512 1515	you
+T531	Mr__and_Mrs__Wilcox-24 1535 1539	They
+T532	Helen-0 1556 1557	I
+T533	Margaret-1 1566 1569	you
+T364	Tibby-31 1596 1601	Tibby
+T534	Tibby-31 1620 1622	he
+T535	Tibby-31 1675 1677	he
+T366	London-32 1700 1706	London
+T536	Tibby-31 1721 1723	he
+T537	Margaret-1 1751 1754	you
+T365	Tibby-31 1786 1797	a schoolboy
+T538	Tibby-31 1812 1815	him
+T368	Charles_Wilcox-33 1821 1835	Charles Wilcox
+T507	Howard_s_End-2 1853 1857	here
+T539	Charles_Wilcox-33 1884 1886	he
+T540	we-34 1924 1926	we
+T370	Men_like_the_Wilcoxes-35 1946 1967	Men like the Wilcoxes
+T371	Wilcox_family-36 1955 1967	the Wilcoxes
+T372	Tibby-31 1977 1982	Tibby
+T541	Margaret-1 2005 2008	you
+T542	Helen-0 2028 2029	I
+T543	Helen-0 2089 2090	I
+T373	the_house-17 2154 2163	The house
+T544	Helen-0 2189 2190	I
+T375	Ruth_Wilcox-23 2216 2227	Mrs. Wilcox
+T367	the_garden-19 2243 2253	the garden
+T545	Ruth_Wilcox-23 2256 2259	She
+T546	Ruth_Wilcox-23 2291 2294	she
+T547	Ruth_Wilcox-23 2319 2322	She
+T548	Ruth_Wilcox-23 2374 2377	she
+T376	the_lawn-37 2389 2397	the lawn
+T678	meadow-21 2401 2411	the meadow
+T377	whose_corner_to_the_right-38 2414 2439	whose corner to the right
+T549	Helen-0 2440 2441	I
+T550	Ruth_Wilcox-23 2478 2481	her
+T551	Ruth_Wilcox-23 2522 2525	she
+T552	Ruth_Wilcox-23 2541 2544	her
+T553	Helen-0 2593 2594	I
+T554	Ruth_Wilcox-23 2633 2636	she
+T555	Helen-0 2696 2697	I
+T378	Charles_Wilcox-33 2767 2781	Charles Wilcox
+T556	Wilcox_family-36 2795 2799	they
+T557	Charles_Wilcox-33 2834 2836	he
+T558	Helen-0 2877 2878	I
+T379	Henry_Wilcox-22 2912 2922	Mr. Wilcox
+T559	Henry_Wilcox-22 2973 2975	he
+T380	Evie_Wilcox-39 2999 3003	Evie
+T560	Wilcox_family-36 3106 3110	they
+T561	Evie_Wilcox-39 3145 3148	she
+T562	Evie_Wilcox-39 3176 3179	she
+T381	Ruth_Wilcox-23 3199 3210	Mrs. Wilcox
+T563	Helen-0 3287 3288	I
+T564	Margaret-1 3309 3312	you
+T565	Margaret-1 3326 3329	you
+T566	Helen-0 3463 3464	I
+T459	Margaret-1 3496 3499	Meg
+T567	Helen-0 3601 3603	me
+T460	Wilcox_family-36 3624 3632	the W 's
+T382	Ruth_Wilcox-23 3639 3650	Mrs. Wilcox
+T568	Helen-0 3665 3666	I
+T383	Ruth_Wilcox-23 3710 3721	Mrs. Wilcox
+T461	Evie_Wilcox-39 3749 3753	Evie
+T385	a_go-as-you-please_place-40 3790 3814	a go-as-you-please place
+T569	you-41 3824 3827	you
+T570	your-42 3833 3837	your
+T679	Howard_s_End-2 3843 3845	it
+T680	Howard_s_End-2 3772 3774	it
+T571	Helen_and_Meg-4 3880 3882	we
+T572	you-43 3901 3904	you
+T386	the_lawn-37 3983 3991	the lawn
+T576	you-44 4095 4098	you
+T387	the_farm-45 4152 4160	the farm
+T577	us-46 4192 4194	us
+T389	Tibby-31 4258 4263	Tibby
+T390	Aunt_Juley-47 4274 4284	Aunt Juley
+T578	Aunt_Juley-47 4299 4302	her
+T579	Margaret-1 4320 4323	you
+T466	Helen-0 4392 4397	Helen
+T391	Howard_s_End-2 4398 4409	HOWARDS END
+T392	Margaret-1 4421 4432	Dearest Meg
+T580	Helen-0 4435 4436	I
+T581	Helen-0 4465 4466	I
+T582	Wilcox_family-36 4472 4476	them
+T393	Ruth_Wilcox-23 4483 4494	Mrs. Wilcox
+T394	Germany-48 4516 4523	Germany
+T583	Helen-0 4553 4554	I
+T584	Ruth_Wilcox-23 4579 4582	her
+T585	Ruth_Wilcox-23 4669 4672	her
+T681	the_others-49 4633 4643	the others
+T586	Wilcox_family-36 4675 4679	They
+T587	you-50 4725 4728	you
+T588	Helen-0 4743 4744	I
+T589	we-51 4765 4767	we
+T395	friends-100000 4779 4786	friends
+T590	Wilcox_family-36 4811 4815	they
+T591	Helen-0 4822 4824	me
+T396	Henry_Wilcox-22 4859 4869	Mr. Wilcox
+T592	Henry_Wilcox-22 4965 4967	He
+T397	women-52 5002 5007	women
+T593	Helen-0 5041 5042	I
+T594	Helen-0 5048 5049	I
+T595	Henry_Wilcox-22 5071 5073	he
+T596	Henry_Wilcox-22 5086 5089	his
+T597	Helen-0 5104 5106	me
+T598	Helen-0 5130 5131	I
+T465	Margaret-1 5148 5151	Meg
+T599	Helen_and_Meg-4 5160 5162	we
+T600	Helen-0 5189 5190	I
+T601	Helen-0 5216 5222	myself
+T602	Helen-0 5226 5228	my
+T603	Helen-0 5236 5237	I
+T398	men-53 5269 5272	men
+T604	men-53 5344 5348	them
+T605	Helen-0 5373 5374	I
+T606	Helen-0 5398 5399	I
+T607	Margaret-1 5496 5499	you
+T491	all_people_who_are_really_strong-54 5555 5587	all people who are really strong
+T399	Henry_Wilcox-22 5590 5600	Mr. Wilcox
+T608	Helen-0 5624 5626	me
+T609	Helen-0 5649 5650	I
+T610	Wilcox_family-36 5660 5664	them
+T611	us-46 5690 5692	We
+T404	Charles_Wilcox-33 5724 5731	Charles
+T612	us-46 5738 5740	us
+T400	the_motor-55 5758 5767	the motor
+T470	a_tomb_with_trees_in_it-56 5771 5794	a tomb with trees in it
+T402	a_hermit__s_house-57 5797 5814	a hermit 's house
+T468	a_wonderful_road_that_was_made_by_the_Kings_of_Mercia-58 5817 5870	a wonderful road that was made by the Kings of Mercia
+T403	the_Kings_of_Mercia-59 5851 5870	the Kings of Mercia
+T469	Mercia-60 5864 5870	Mercia
+T613	us-46 5926 5928	we
+T401	the_house-17 5943 5960	this lovely house
+T471	Wilcox_family-36 5963 5977	The whole clan
+T508	Howard_s_End-2 5981 5985	here
+T406	Evie_Wilcox-39 6022 6026	Evie
+T614	Wilcox_family-36 6039 6043	They
+T615	Helen-0 6049 6051	me
+T616	Helen-0 6075 6076	I
+T617	Helen-0 6105 6106	I
+T618	Margaret-1 6203 6206	you
+T619	Margaret-1 6211 6215	your
+T407	Helen-0 6237 6260	Your affectionate Helen
+T620	Margaret-1 6237 6241	Your
+T472	Howard_s_End-2 6261 6272	HOWARDS END
+T408	Margaret-1 6284 6305	Dearest , dearest Meg
+T621	Helen-0 6311 6312	I
+T622	Margaret-1 6330 6333	you
+T409	Paul_Wilcox-61 6345 6349	Paul
+T623	Helen-0 6354 6355	I
+T509	Howard_s_End-2 6401 6405	here
+T413	Margaret-1 6428 6436	Margaret
+T411	Helen-0 6448 6458	her sister
+T624	Margaret-1 6448 6451	her
+T412	Aunt_Juley-47 6509 6517	her aunt
+T625	Margaret-1 6509 6512	her
+T626	Margaret-1 6585 6586	I
+T627	Aunt_Juley-47 6596 6599	you
+T414	Aunt_Juley-47 6610 6620	Aunt Juley
+T628	Margaret-1 6623 6624	I
+T629	Aunt_Juley-47 6643 6646	you
+T630	Helen_and_Meg-4 6652 6654	We
+T631	Helen_and_Meg-4 6662 6664	we
+T415	Henry_Wilcox-22 6674 6684	the father
+T416	Ruth_Wilcox-23 6689 6695	mother
+T632	Margaret-1 6717 6718	I
+T633	Margaret-1 6739 6740	I
+T417	Paul_Wilcox-61 6759 6768	their son
+T634	Mr__and_Mrs__Wilcox-24 6759 6764	their
+T635	Aunt_Juley-47 6797 6800	She
+T636	Aunt_Juley-47 6807 6810	her
+T418	Aunt_Juley-47 6893 6903	Aunt Juley
+T473	Margaret-1 6928 6941	Margaret dear
+T637	Aunt_Juley-47 6944 6945	I
+T638	we-62 6951 6953	we
+T639	we-62 6987 6989	we
+T419	Margaret-1 7062 7075	Margaret dear
+T640	Margaret-1 7083 7084	I
+T641	Helen-0 7096 7099	her
+T420	Margaret-1 7123 7131	Margaret
+T642	Margaret-1 7141 7142	I
+T643	Margaret-1 7152 7153	I
+T644	Margaret-1 7165 7167	my
+T645	Margaret-1 7190 7191	I
+T647	Helen_and_Meg-4 7208 7210	We
+T421	Mr__and_Mrs__Wilcox-24 7215 7227	the Wilcoxes
+T648	Helen_and_Meg-4 7256 7258	we
+T474	Heidelberg-63 7269 7279	Heidelberg
+T475	Speyer-64 7283 7289	Speyer
+T423	Helen-0 7292 7297	Helen
+T649	Margaret-1 7302 7303	I
+T650	Helen_and_Meg-4 7320 7323	our
+T422	a_grand_old_cathedral_at_Speyer-65 7345 7376	a grand old cathedral at Speyer
+T476	Speyer-64 7370 7376	Speyer
+T426	the_Archbishop_of_Speyer-66 7380 7404	the Archbishop of Speyer
+T427	Speyer-64 7398 7404	Speyer
+T651	Aunt_Juley-47 7438 7441	you
+T478	Speyer-64 7452 7458	Speyer
+T479	Maintz-67 7461 7467	Maintz
+T425	Koln-68 7474 7478	Koln
+T428	the_Rhine_Valley-69 7515 7531	the Rhine Valley
+T429	Priest_Street-70 7555 7568	Priest Street
+T652	Aunt_Juley-47 7575 7576	I
+T477	Margaret-1 7623 7631	Margaret
+T480	The_train-71 7638 7647	The train
+T432	a_bridge_of_boats-72 7659 7676	a bridge of boats
+T431	boats-73 7671 7676	boats
+T653	Helen_and_Meg-4 7746 7748	we
+T430	a_grand_old_cathedral_at_Speyer-65 7758 7773	the whole thing
+T481	a_grand_old_cathedral_at_Speyer-65 7776 7789	The cathedral
+T433	a_grand_old_cathedral_at_Speyer-65 7865 7887	the original structure
+T654	Helen_and_Meg-4 7890 7892	We
+T435	Mr__and_Mrs__Wilcox-24 7930 7942	the Wilcoxes
+T655	Helen_and_Meg-4 7946 7948	we
+T656	Helen_and_Meg-4 7961 7964	our
+T434	the_public_gardens-74 7979 7997	the public gardens
+T657	Mr__and_Mrs__Wilcox-24 8000 8004	They
+T658	Mr__and_Mrs__Wilcox-24 8046 8050	they
+T483	Speyer-64 8077 8083	Speyer
+T659	Mr__and_Mrs__Wilcox-24 8091 8095	they
+T436	Helen-0 8109 8114	Helen
+T660	Mr__and_Mrs__Wilcox-24 8130 8134	they
+T661	Helen_and_Meg-4 8149 8151	us
+T484	Heidelberg-63 8155 8165	Heidelberg
+T662	Mr__and_Mrs__Wilcox-24 8190 8194	they
+T663	We-75 8218 8220	We
+T664	Mr__and_Mrs__Wilcox-24 8253 8257	They
+T665	Helen_and_Meg-4 8263 8265	us
+T345	Paul_Wilcox-61 289 293	Paul
+T439	Helen-0 8285 8290	Helen
+T666	Mr__and_Mrs__Wilcox-24 8307 8311	them
+T667	Margaret-1 8326 8327	I
+T438	Tibby-31 8348 8353	Tibby
+T668	Margaret-1 8375 8377	me
+T669	Helen-0 8395 8398	she
+T670	Aunt_Juley-47 8426 8429	You
+T671	Margaret-1 8446 8447	I
+T437	Paul_Wilcox-61 8463 8490	a young man out the unknown
+T672	Helen-0 8493 8496	She
+T673	Margaret-1 8581 8582	I
+T674	Helen-0 8597 8600	She
+T441	London-32 8645 8651	London
+T442	the_house-17 8662 8673	Their house
+T675	Mr__and_Mrs__Wilcox-24 8662 8667	Their
+T440	Wickham_Place-76 8681 8694	Wickham Place
+T444	a_lofty_promontory_of_buildings-77 8720 8751	a lofty promontory of buildings
+T443	buildings-78 8742 8751	buildings
+T485	the_main_thoroughfare-79 8770 8791	the main thoroughfare
+T486	a_backwater-80 8815 8826	a backwater
+T487	an_estuary___whose_waters_flowed_in_from_the_invisible_sea___and_ebbed_into_a_profound_silence_while_the_waves_without_were_still_beating-81 8842 8979	an estuary , whose waters flowed in from the invisible sea , and ebbed into a profound silence while the waves without were still beating
+T488	the_invisible_sea-82 8883 8900	the invisible sea
+T489	a_lofty_promontory_of_buildings-77 8989 9003	the promontory
+T447	flats-83 9017 9022	flats
+T490	cavernous_entrance_halls-84 9043 9067	cavernous entrance halls
+T446	concierges-85 9078 9088	concierges
+T445	the_older_houses_opposite-86 9144 9169	the older houses opposite
+T492	another_promontory-87 9247 9265	another promontory
+T448	their_site-88 9282 9292	their site
+T449	London-32 9362 9368	London
+R1	appos Arg1:T3 Arg2:T4
+R2	appos Arg1:T28 Arg2:T27
+R3	cop Arg1:T43 Arg2:T338
+R5	cop Arg1:T122 Arg2:T245
+R6	cop Arg1:T123 Arg2:T250
+R7	cop Arg1:T64 Arg2:T65
+R9	cop Arg1:T83 Arg2:T85
+T688	PRON_FAC 456 458	it
+T689	the_house-17 456 458	it
+T698	PRON_FAC 2276 2278	it
+T699	the_garden-19 2276 2278	it
+T724	PRON_FAC 5792 5794	it
+T725	a_tomb_with_trees_in_it-56 5792 5794	it
+T740	PRON_LOC 7540 7542	it
+T741	the_Rhine_Valley-69 7540 7542	it
+T746	PRON_FAC 8762 8764	it
+T747	Wickham_Place-76 8762 8764	it
+T748	PRON_LOC 9102 9104	it
+T749	a_lofty_promontory_of_buildings-77 9102 9104	it
+T750	PRON_LOC 9115 9118	its
+T751	a_lofty_promontory_of_buildings-77 9115 9118	its
+T33	Paul_Wilcox-61 6371 6415	the younger son who only came here Wednesday
+T152	Mr__and_Mrs__Wilcox-24 8011 8022	poor things
+T153	the_farm-45 4172 4194	the only house near us
+T154	Aunt_Juley-47 4343 4349	a bore
+T155	PRON_FAC 149 151	It
+T156	the_house-17 149 151	It
+T157	PRON_FAC 1125 1127	it
+T158	the_house-17 1125 1127	it
+T159	PRON_FAC 7698 7700	it
+T160	a_grand_old_cathedral_at_Speyer-65 7698 7700	it

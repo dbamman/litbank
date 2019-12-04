@@ -1,0 +1,412 @@
+MENTION	T1	1	22	1	23	eastern Maine	LOC	PROP
+MENTION	T2	2	46	2	47	the Landing	LOC	NOM
+MENTION	T3	2	26	2	27	dark woods	LOC	NOM
+MENTION	T4	3	0	3	1	These houses	FAC	NOM
+MENTION	T8	4	4	4	7	a village like this	GPE	NOM
+MENTION	T9	4	18	4	20	a single person	PER	NOM
+MENTION	T10	6	39	6	44	the village with its elaborate conventionalities	GPE	NOM
+MENTION	T11	6	22	6	23	Dunnet Landing	GPE	PROP
+MENTION	T12	6	19	6	23	a lover of Dunnet Landing	PER	NOM
+MENTION	T13	7	5	7	7	a single passenger	PER	NOM
+MENTION	T14	8	30	8	35	the salt-aired , white-clapboarded little town	GPE	NOM
+MENTION	T16	11	27	11	29	the busy world	LOC	NOM
+MENTION	T17	11	16	11	17	the street	FAC	NOM
+MENTION	T18	11	36	11	38	a green garden	FAC	NOM
+MENTION	T19	12	9	12	10	a stranger	PER	NOM
+MENTION	T22	12	32	12	33	Mrs. Todd	PER	PROP
+MENTION	T25	13	1	13	2	Mrs. Todd	PER	PROP
+MENTION	T26	15	41	15	42	the garden	FAC	NOM
+MENTION	T29	18	51	18	51	kitchen	FAC	NOM
+MENTION	T30	20	23	20	23	customers	PER	NOM
+MENTION	T31	21	17	21	21	a wise saver of steps	PER	NOM
+MENTION	T32	21	11	21	12	the kitchen	FAC	NOM
+MENTION	T33	21	3	21	4	the purchaser	PER	NOM
+MENTION	T34	21	14	21	15	Mrs. Todd	PER	PROP
+MENTION	T35	22	32	22	32	sea	LOC	NOM
+MENTION	T36	22	45	22	48	Mrs. Todd ’s garden	FAC	NOM
+MENTION	T37	23	1	23	1	village	GPE	NOM
+MENTION	T39	23	0	23	2	The village doctor	PER	NOM
+MENTION	T40	24	35	24	36	Mrs. Todd	PER	PROP
+MENTION	T41	24	0	24	2	The good man	PER	NOM
+MENTION	T42	25	58	25	59	worthy neighbors	PER	NOM
+MENTION	T43	25	43	25	44	my landlady	PER	NOM
+MENTION	T44	28	26	28	27	the world	LOC	NOM
+MENTION	T45	29	43	29	44	the road	FAC	NOM
+MENTION	T46	29	35	29	36	the lodger	PER	NOM
+MENTION	T47	30	18	30	18	woods	LOC	NOM
+MENTION	T49	31	0	31	2	The spruce-beer customers	PER	NOM
+MENTION	T50	32	19	32	21	one hungry lodger	PER	NOM
+MENTION	T51	32	54	32	55	the lodger	PER	NOM
+MENTION	T52	33	16	33	17	business partner	PER	NOM
+MENTION	T53	35	25	35	26	the sea	LOC	NOM
+MENTION	T54	35	40	35	41	Mrs. Todd	PER	PROP
+MENTION	T56	42	0	42	1	Mrs. Todd	PER	PROP
+MENTION	T57	43	44	43	45	the sea	LOC	NOM
+MENTION	T58	44	1	44	2	Mrs. Todd	PER	PROP
+MENTION	T59	48	6	48	7	his mother	PER	NOM
+MENTION	T60	53	13	53	15	a huge sibyl	PER	NOM
+MENTION	T61	53	28	53	30	the little garden	FAC	NOM
+MENTION	T62	53	5	53	7	the low room	FAC	NOM
+MENTION	T63	1	6	1	10	the coast town of Dunnet	GPE	NOM
+MENTION	T64	1	18	1	23	other maritime villages of eastern Maine	GPE	NOM
+MENTION	T65	2	9	2	10	that neighborhood	FAC	NOM
+MENTION	T66	2	22	2	24	the rocky shore	LOC	NOM
+MENTION	T67	2	30	2	47	the few houses which seemed to be securely wedged and tree-nailed in among the ledges by the Landing	FAC	NOM
+MENTION	T5	3	22	3	23	garden ground	FAC	NOM
+MENTION	T6	3	42	3	43	the harbor	FAC	NOM
+MENTION	T7	3	45	3	47	the far sea-line	LOC	NOM
+MENTION	T68	3	55	3	56	the shore	LOC	NOM
+MENTION	T69	3	58	3	64	its background of spruces and balsam firs	LOC	NOM
+MENTION	T70	4	9	4	10	its surroundings	LOC	NOM
+MENTION	T71	6	27	6	33	the unchanged shores of the pointed firs	LOC	NOM
+MENTION	T72	7	10	7	12	the steamboat wharf	FAC	NOM
+MENTION	T15	8	7	8	11	a fine crowd of spectators	PER	NOM
+MENTION	T73	8	14	8	19	the younger portion of the company	PER	NOM
+MENTION	T74	8	26	8	35	the narrow street of the salt-aired , white-clapboarded little town	FAC	NOM
+MENTION	T75	10	0	10	1	Mrs. Todd	PER	PROP
+MENTION	T76	10	15	10	17	a summer lodging-place	LOC	NOM
+MENTION	T77	11	6	11	8	Mrs. Almira Todd	PER	PROP
+MENTION	T78	11	2	11	17	the tiny house of Mrs. Almira Todd , which stood with its end to the street	FAC	NOM
+MENTION	T21	12	2	12	5	a queer little garden	FAC	NOM
+MENTION	T20	12	55	12	56	the house	FAC	NOM
+MENTION	T23	13	12	13	14	her herb plot	FAC	NOM
+MENTION	T24	14	1	14	4	a very large person	PER	NOM
+MENTION	T79	16	4	16	6	this herb plot	FAC	NOM
+MENTION	T27	18	48	18	49	Mrs. Todd	PER	PROP
+MENTION	T28	19	4	19	24	suffering neighbors , who usually came at night as if by stealth , bringing their own ancient-looking vials to be filled	PER	NOM
+MENTION	T80	22	45	22	46	Mrs. Todd	PER	PROP
+MENTION	T38	23	4	23	6	this learned herbalist	PER	NOM
+MENTION	T81	26	3	26	7	this quietest of seaside villages	GPE	NOM
+MENTION	T82	26	30	26	31	Mrs. Todd	PER	PROP
+MENTION	T83	29	0	29	1	My hostess	PER	NOM
+MENTION	T48	30	11	30	12	Mrs. Todd	PER	PROP
+MENTION	T84	30	20	30	20	pastures	LOC	NOM
+MENTION	T85	32	1	32	2	Mrs. Todd	PER	PROP
+MENTION	T86	32	5	32	6	a widow	PER	NOM
+MENTION	T87	33	7	33	8	Mrs. Todd	PER	PROP
+MENTION	T88	34	11	34	11	darlin	PER	NOM
+MENTION	T89	35	28	35	31	the nearest pebble beach	LOC	NOM
+MENTION	T90	36	39	36	39	folks	PER	NOM
+MENTION	T91	37	7	37	9	a whole neighborhood	PER	NOM
+MENTION	T92	38	3	38	3	dear	PER	NOM
+MENTION	T55	41	10	41	10	anybody	PER	NOM
+MENTION	T93	45	20	45	21	my sitting-room	FAC	NOM
+MENTION	T94	46	14	46	19	one who was far above her	PER	NOM
+MENTION	T96	48	25	48	25	folks	PER	NOM
+MENTION	T97	49	20	49	22	a high family	PER	NOM
+MENTION	T98	50	21	50	22	a woman	PER	NOM
+MENTION	T95	44	10	44	10	somebody	PER	NOM
+MENTION	T114	49	5	49	8	a seafarin ’ man	PER	NOM
+MENTION	T115	39	15	39	15	nobody	PER	NOM
+MENTION	T117	3	6	3	6	their	FAC	PRON
+MENTION	T118	3	19	3	19	their	FAC	PRON
+MENTION	T119	3	33	3	33	their	FAC	PRON
+MENTION	T120	6	63	6	63	her	PER	PRON
+MENTION	T121	8	21	8	21	her	PER	PRON
+MENTION	T122	13	12	13	12	her	PER	PRON
+MENTION	T123	13	16	13	16	she	PER	PRON
+MENTION	T124	14	6	14	6	her	PER	PRON
+MENTION	T125	14	17	14	17	her	PER	PRON
+MENTION	T126	15	0	15	0	You	PER	PRON
+MENTION	T127	15	5	15	5	she	PER	PRON
+MENTION	T128	15	13	15	13	you	PER	PRON
+MENTION	T129	15	43	15	43	she	PER	PRON
+MENTION	T133	19	18	19	18	their	PER	PRON
+MENTION	T134	21	27	21	27	she	PER	PRON
+MENTION	T136	21	57	21	57	she	PER	PRON
+MENTION	T137	22	13	22	13	she	PER	PRON
+MENTION	T139	24	14	24	14	he	PER	PRON
+MENTION	T140	24	17	24	17	his	PER	PRON
+MENTION	T141	24	26	24	26	he	PER	PRON
+MENTION	T142	25	12	25	12	he	PER	PRON
+MENTION	T143	25	20	25	20	his	PER	PRON
+MENTION	T144	25	30	25	30	her	PER	PRON
+MENTION	T145	25	43	25	43	my	PER	PRON
+MENTION	T146	29	0	29	0	My	PER	PRON
+MENTION	T147	29	3	29	3	I	PER	PRON
+MENTION	T148	29	6	29	6	our	PER	PRON
+MENTION	T149	31	27	31	27	my	PER	PRON
+MENTION	T150	31	32	31	32	me	PER	PRON
+MENTION	T151	32	24	32	24	her	PER	PRON
+MENTION	T152	32	44	32	44	she	PER	PRON
+MENTION	T153	33	19	33	19	her	PER	PRON
+MENTION	T154	33	23	33	23	I	PER	PRON
+MENTION	T155	33	36	33	36	I	PER	PRON
+MENTION	T156	33	38	33	38	myself	PER	PRON
+MENTION	T157	33	60	33	60	I	PER	PRON
+MENTION	T158	33	69	33	69	I	PER	PRON
+MENTION	T159	33	82	33	82	I	PER	PRON
+MENTION	T160	35	22	35	22	my	PER	PRON
+MENTION	T161	35	33	35	33	I	PER	PRON
+MENTION	T162	36	0	36	0	She	PER	PRON
+MENTION	T163	36	9	36	9	her	PER	PRON
+MENTION	T164	36	17	36	17	I	PER	PRON
+MENTION	T165	36	20	36	20	I	PER	PRON
+MENTION	T166	36	23	36	23	her	PER	PRON
+MENTION	T167	36	25	36	25	I	PER	PRON
+MENTION	T168	36	34	36	34	we	PER	PRON
+MENTION	T169	37	0	37	0	I	PER	PRON
+MENTION	T170	37	3	37	3	I	PER	PRON
+MENTION	T171	37	12	37	12	her	PER	PRON
+MENTION	T173	38	6	38	6	she	PER	PRON
+MENTION	T174	38	11	38	11	I	PER	PRON
+MENTION	T176	39	0	39	0	I	PER	PRON
+MENTION	T177	39	11	39	11	I	PER	PRON
+MENTION	T178	39	16	39	16	I	PER	PRON
+MENTION	T179	40	1	40	1	you	PER	PRON
+MENTION	T180	40	11	40	11	you	PER	PRON
+MENTION	T181	41	0	41	0	I	PER	PRON
+MENTION	T182	42	3	42	3	I	PER	PRON
+MENTION	T183	42	13	42	13	our	PER	PRON
+MENTION	T184	43	0	43	0	I	PER	PRON
+MENTION	T185	44	6	44	6	she	PER	PRON
+MENTION	T186	44	13	44	13	I	PER	PRON
+MENTION	T187	45	0	45	0	We	PER	PRON
+MENTION	T188	45	8	45	8	she	PER	PRON
+MENTION	T189	45	20	45	20	my	PER	PRON
+MENTION	T190	45	50	45	50	her	PER	PRON
+MENTION	T191	46	6	46	6	I	PER	PRON
+MENTION	T192	46	11	46	11	she	PER	PRON
+MENTION	T193	46	19	46	19	her	PER	PRON
+MENTION	T195	47	6	47	6	I	PER	PRON
+MENTION	T196	47	13	47	13	me	PER	PRON
+MENTION	T197	47	16	47	16	she	PER	PRON
+MENTION	T198	48	2	48	2	we	PER	PRON
+MENTION	T199	48	6	48	6	his	PER	PRON
+MENTION	T200	48	18	48	18	she	PER	PRON
+MENTION	T201	48	22	48	22	us	PER	PRON
+MENTION	T202	48	27	48	27	we	PER	PRON
+MENTION	T203	48	42	48	42	us	PER	PRON
+MENTION	T204	48	49	48	49	we	PER	PRON
+MENTION	T205	49	0	49	0	He	PER	PRON
+MENTION	T206	49	17	49	17	he	PER	PRON
+MENTION	T207	49	26	49	26	my	PER	PRON
+MENTION	T208	50	0	50	0	I	PER	PRON
+MENTION	T209	50	4	50	4	him	PER	PRON
+MENTION	T210	50	9	50	9	he	PER	PRON
+MENTION	T211	50	12	50	12	our	PER	PRON
+MENTION	T212	50	17	50	17	I	PER	PRON
+MENTION	T214	50	34	50	34	you	PER	PRON
+MENTION	T215	50	36	50	36	you	PER	PRON
+MENTION	T216	51	2	51	2	I	PER	PRON
+MENTION	T217	51	11	51	11	him	PER	PRON
+MENTION	T218	52	0	52	0	She	PER	PRON
+MENTION	T219	52	21	52	21	her	PER	PRON
+MENTION	T220	53	0	53	0	Her	PER	PRON
+MENTION	T221	53	9	53	9	her	PER	PRON
+MENTION	T222	3	58	3	58	its	LOC	PRON
+MENTION	T223	4	9	4	9	its	GPE	PRON
+MENTION	T224	6	42	6	42	its	GPE	PRON
+MENTION	T225	11	13	11	13	its	FAC	PRON
+MENTION	T226	47	3	47	3	dear	PER	NOM
+MENTION	T227	47	5	47	8	him I speak of	PER	NOM
+COREF	T63	Dunnet-0
+COREF	T64	other_maritime_villages_of_eastern_Maine-1
+COREF	T1	eastern_Maine-2
+COREF	T65	that_neighborhood-3
+COREF	T66	the_rocky_shore-4
+COREF	T3	dark_woods-5
+COREF	T67	few_houses-6
+COREF	T2	the_Landing-7
+COREF	T4	few_houses-6
+COREF	T117	few_houses-6
+COREF	T118	few_houses-6
+COREF	T5	garden_ground-8
+COREF	T119	few_houses-6
+COREF	T6	the_harbor-9
+COREF	T7	the_far_sea-line-10
+COREF	T68	the_shore-11
+COREF	T69	its_background_of_spruces_and_balsam_firs-12
+COREF	T222	the_shore-11
+COREF	T8	a_village_like_this-13
+COREF	T223	a_village_like_this-13
+COREF	T70	its_surroundings-14
+COREF	T9	a_single_person-15
+COREF	T12	narrator-16
+COREF	T11	Dunnet-0
+COREF	T71	the_unchanged_shores_of_the_pointed_firs-17
+COREF	T10	Dunnet-0
+COREF	T224	Dunnet-0
+COREF	T120	narrator-16
+COREF	T13	narrator-16
+COREF	T72	the_steamboat_wharf-18
+COREF	T15	a_fine_crowd_of_spectators-19
+COREF	T73	the_younger_portion_of_the_company-20
+COREF	T121	narrator-16
+COREF	T74	the_narrow_street_of_the_salt-aired___white-clapboarded_little_town-21
+COREF	T14	Dunnet-0
+COREF	T75	Mrs__Todd-22
+COREF	T76	a_summer_lodging-place-23
+COREF	T78	Todd_house-24
+COREF	T77	Mrs__Todd-22
+COREF	T225	Todd_house-24
+COREF	T17	the_street-25
+COREF	T16	the_busy_world-26
+COREF	T18	a_green_garden-27
+COREF	T21	a_green_garden-27
+COREF	T19	narrator-16
+COREF	T22	Mrs__Todd-22
+COREF	T20	Todd_house-24
+COREF	T25	Mrs__Todd-22
+COREF	T23	her_herb_plot-28
+COREF	T122	Mrs__Todd-22
+COREF	T123	Mrs__Todd-22
+COREF	T124	Mrs__Todd-22
+COREF	T125	Mrs__Todd-22
+COREF	T126	You-29
+COREF	T127	Mrs__Todd-22
+COREF	T128	you-30
+COREF	T26	a_green_garden-27
+COREF	T129	Mrs__Todd-22
+COREF	T79	her_herb_plot-28
+COREF	T27	Mrs__Todd-22
+COREF	T29	kitchen-31
+COREF	T28	suffering_neighbors___who_usually_came_at_night_as_if_by_stealth___bringing_their_own_ancient-looking_vials_to_be_filled-32
+COREF	T133	suffering_neighbors___who_usually_came_at_night_as_if_by_stealth___bringing_their_own_ancient-looking_vials_to_be_filled-32
+COREF	T30	customers-33
+COREF	T33	the_purchaser-34
+COREF	T32	kitchen-31
+COREF	T34	Mrs__Todd-22
+COREF	T134	Mrs__Todd-22
+COREF	T136	Mrs__Todd-22
+COREF	T137	Mrs__Todd-22
+COREF	T35	sea-35
+COREF	T36	a_green_garden-27
+COREF	T80	Mrs__Todd-22
+COREF	T39	The_village_doctor-36
+COREF	T37	village-37
+COREF	T38	Mrs__Todd-22
+COREF	T41	The_village_doctor-36
+COREF	T139	The_village_doctor-36
+COREF	T140	The_village_doctor-36
+COREF	T141	The_village_doctor-36
+COREF	T40	Mrs__Todd-22
+COREF	T142	The_village_doctor-36
+COREF	T143	The_village_doctor-36
+COREF	T144	Mrs__Todd-22
+COREF	T43	Mrs__Todd-22
+COREF	T145	narrator-16
+COREF	T42	worthy_neighbors-38
+COREF	T81	Dunnet-0
+COREF	T82	Mrs__Todd-22
+COREF	T44	the_world-39
+COREF	T83	Mrs__Todd-22
+COREF	T146	narrator-16
+COREF	T147	narrator-16
+COREF	T148	our-40
+COREF	T46	narrator-16
+COREF	T45	the_road-41
+COREF	T48	Mrs__Todd-22
+COREF	T47	woods-42
+COREF	T84	pastures-43
+COREF	T49	The_spruce-beer_customers-44
+COREF	T149	narrator-16
+COREF	T150	narrator-16
+COREF	T85	Mrs__Todd-22
+COREF	T50	narrator-16
+COREF	T151	Mrs__Todd-22
+COREF	T152	Mrs__Todd-22
+COREF	T51	narrator-16
+COREF	T87	Mrs__Todd-22
+COREF	T52	business_partner-45
+COREF	T153	Mrs__Todd-22
+COREF	T154	narrator-16
+COREF	T155	narrator-16
+COREF	T156	narrator-16
+COREF	T157	narrator-16
+COREF	T158	narrator-16
+COREF	T159	narrator-16
+COREF	T88	narrator-16
+COREF	T160	narrator-16
+COREF	T53	the_sea-46
+COREF	T89	the_nearest_pebble_beach-47
+COREF	T161	narrator-16
+COREF	T54	Mrs__Todd-22
+COREF	T162	Mrs__Todd-22
+COREF	T163	Mrs__Todd-22
+COREF	T164	narrator-16
+COREF	T165	narrator-16
+COREF	T166	Mrs__Todd-22
+COREF	T167	narrator-16
+COREF	T168	narrator_Mrs__Todd-48
+COREF	T90	folks-49
+COREF	T169	narrator-16
+COREF	T170	narrator-16
+COREF	T91	a_whole_neighborhood-50
+COREF	T171	Mrs__Todd-22
+COREF	T92	narrator-16
+COREF	T173	Mrs__Todd-22
+COREF	T174	Mrs__Todd-22
+COREF	T176	Mrs__Todd-22
+COREF	T177	Mrs__Todd-22
+COREF	T115	nobody-51
+COREF	T178	Mrs__Todd-22
+COREF	T179	narrator-16
+COREF	T180	narrator-16
+COREF	T181	Mrs__Todd-22
+COREF	T55	anybody-52
+COREF	T56	Mrs__Todd-22
+COREF	T182	narrator-16
+COREF	T183	narrator_Mrs__Todd-48
+COREF	T184	narrator-16
+COREF	T57	the_sea-53
+COREF	T58	Mrs__Todd-22
+COREF	T185	Mrs__Todd-22
+COREF	T95	somebody-54
+COREF	T186	narrator-16
+COREF	T187	narrator_Mrs__Todd-48
+COREF	T188	Mrs__Todd-22
+COREF	T93	my_sitting-room-55
+COREF	T189	narrator-16
+COREF	T190	Mrs__Todd-22
+COREF	T191	narrator-16
+COREF	T192	Mrs__Todd-22
+COREF	T94	Todd_lover-56
+COREF	T193	Mrs__Todd-22
+COREF	T226	narrator-16
+COREF	T227	Todd_lover-56
+COREF	T195	Mrs__Todd-22
+COREF	T196	Mrs__Todd-22
+COREF	T197	Mrs__Todd-22
+COREF	T198	Mrs__Todd_lover-57
+COREF	T59	his_mother-58
+COREF	T199	Todd_lover-56
+COREF	T200	his_mother-58
+COREF	T201	Mrs__Todd_lover-57
+COREF	T96	folks-59
+COREF	T202	Mrs__Todd_lover-57
+COREF	T203	Mrs__Todd_lover-57
+COREF	T204	Mrs__Todd_lover-57
+COREF	T205	Todd_lover-56
+COREF	T114	a_seafarin___man-60
+COREF	T206	Todd_lover-56
+COREF	T97	a_high_family-61
+COREF	T207	Mrs__Todd-22
+COREF	T208	Mrs__Todd-22
+COREF	T209	Todd_lover-56
+COREF	T210	Todd_lover-56
+COREF	T211	Mrs__Todd_lover-57
+COREF	T212	Mrs__Todd-22
+COREF	T98	a_woman-62
+COREF	T214	you-63
+COREF	T215	you-64
+COREF	T216	Mrs__Todd-22
+COREF	T217	Todd_lover-56
+COREF	T218	Mrs__Todd-22
+COREF	T219	Mrs__Todd-22
+COREF	T220	Mrs__Todd-22
+COREF	T62	my_sitting-room-55
+COREF	T221	Mrs__Todd-22
+COREF	T60	a_huge_sibyl-65
+COREF	T61	a_green_garden-27
+COP	T24	T124
+COP	T31	T34
+COP	T86	T85
+MENTION	T456	1	13	1	13	it	GPE	PRON
+COREF	T456	Dunnet-0
+MENTION	T466	10	22	10	22	its	LOC	PRON
+COREF	T466	a_summer_lodging-place-23
+MENTION	T468	11	32	11	32	its	FAC	PRON
+COREF	T468	Todd_house-24
+MENTION	T470	12	0	12	0	It	FAC	PRON
+COREF	T470	a_green_garden-27

@@ -1,0 +1,630 @@
+T1	PROP_PER 48 61	Anthony Patch
+T3	NOM_PER 932 947	intelligent men
+T7	NOM_PER 1293 1298	a man
+T8	NOM_PER 1713 1726	the crusaders
+T9	PROP_PER 1559 1566	Anthony
+T10	PROP_PER 1640 1653	Adam J. Patch
+T12	PROP_PER 1765 1775	Bostonians
+T13	NOM_PER 1956 1966	his father
+T14	NOM_FAC 1956 1974	his father 's farm
+T16	PROP_FAC 2094 2105	Wall Street
+T17	NOM_FAC 2053 2057	home
+T18	NOM_PER 2444 2470	a reformer among reformers
+T19	NOM_PER 2461 2470	reformers
+T20	NOM_PER 2540 2552	his grandson
+T21	NOM_PER 2510 2562	Anthony Comstock , after whom his grandson was named
+T23	PROP_GPE 2901 2910	Tarrytown
+T24	NOM_PER 3073 3091	a rabid monomaniac
+T28	NOM_PER 3354 3357	son
+T29	PROP_GPE 3593 3601	New York
+T31	NOM_PER 3452 3476	an anemic lady of thirty
+T32	NOM_PER 3654 3659	a son
+T33	NOM_PER 3890 3914	connoisseur of good form
+T36	PROP_PER 3830 3848	Adam Ulysses Patch
+T37	NOM_PER 3858 3887	an inveterate joiner of clubs
+T38	NOM_PER 4322 4330	His wife
+T39	NOM_PER 4448 4463	his grandfather
+T40	PROP_PER 4477 4499	Anthony Comstock Patch
+T41	NOM_PER 4394 4423	the single child of the union
+T42	PROP_GPE 4359 4365	Boston
+T43	PROP_ORG 4518 4525	Harvard
+T45	NOM_FAC 4823 4834	his bedroom
+T46	NOM_PER 4663 4673	his father
+T47	NOM_PER 4678 4684	mother
+T51	NOM_PER 5134 5144	his mother
+T53	NOM_FAC 5272 5322	the music room of their house on Washington Square
+T55	NOM_PER 5756 5774	the Southern negro
+T59	NOM_FAC 5290 5322	their house on Washington Square
+T60	NOM_PER 5453 5493	the women with their hands in their laps
+T61	NOM_PER 5535 5542	the men
+T62	PROP_FAC 5305 5322	Washington Square
+T63	NOM_PER 5341 5371	guests scattered all about her
+T64	PROP_GPE 5837 5844	America
+T65	NOM_PER 6014 6020	father
+T66	PROP_PER 5907 5930	Henrietta Lebrune Patch
+T67	PROP_PER 6092 6099	Anthony
+T68	NOM_FAC 6041 6063	grampa 's in Tarrytown
+T69	NOM_PER 5965 5976	her widower
+T70	PROP_PER 6070 6077	Ulysses
+T71	NOM_PER 6025 6028	son
+T72	PROP_GPE 6278 6291	Atlantic City
+T73	PROP_PER 6220 6227	Anthony
+T75	PROP_PER 6391 6398	Anthony
+T76	NOM_FAC 6471 6496	the best hotel in Lucerne
+T77	NOM_PER 6497 6507	his father
+T78	PROP_GPE 6432 6439	England
+T79	PROP_GPE 6444 6455	Switzerland
+T80	PROP_GPE 6633 6640	America
+T81	PROP_PER 6605 6612	Anthony
+T82	NOM_PER 6853 6868	his grandmother
+T83	NOM_PER 6828 6839	his parents
+T84	NOM_PER 6954 6964	her person
+T85	NOM_FAC 7013 7033	her own drawing room
+T86	NOM_FAC 7101 7113	every corner
+T87	PROP_PER 7042 7049	Anthony
+T89	NOM_PER 7441 7456	his grandfather
+T90	NOM_PER 7420 7425	a boy
+T91	PROP_PER 7518 7525	Anthony
+T92	NOM_PER 8202 8220	his contemporaries
+T93	NOM_PER 8128 8147	an inarticulate boy
+T94	NOM_PER 8419 8467	innumerable self-sacrificing and devoted friends
+T95	PROP_ORG 8318 8325	Harvard
+T96	NOM_FAC 8626 8650	a high room in Beck Hall
+T97	PROP_FAC 8641 8650	Beck Hall
+T98	PROP_PER 8853 8862	Swinburne
+T99	PROP_PER 8880 8885	Hardy
+T100	PROP_PER 8933 8938	Keats
+T101	NOM_FAC 8782 8791	a library
+T102	NOM_PER 8823 8834	bibliophile
+T103	NOM_FAC 9279 9287	the yard
+T104	NOM_FAC 9206 9214	his room
+T105	NOM_PER 9551 9560	a scholar
+T106	NOM_PER 9563 9572	a recluse
+T107	NOM_PER 9575 9595	a tower of erudition
+T108	NOM_PER 10223 10244	his Harvard intimates
+T109	NOM_PER 10585 10596	Latin women
+T110	PROP_GPE 10484 10496	Philadelphia
+T112	NOM_PER 10727 10742	his grandfather
+T113	PROP_PER 19 32	ANTHONY PATCH
+T2	NOM_LOC 593 605	a clean pond
+T4	NOM_PER 955 964	all women
+T5	NOM_PER 1057 1066	the elect
+T6	PROP_PER 1258 1271	Anthony Patch
+T114	NOM_PER 1303 1337	a distinct and dynamic personality
+T115	NOM_PER 1404 1524	a man who was aware that there could be no honor and yet had honor , who knew the sophistry of courage and yet was brave
+T116	NOM_PER 1527 1539	A WORTHY MAN
+T117	NOM_PER 1544 1558	HIS GIFTED SON
+T118	NOM_PER 1624 1653	the grandson of Adam J. Patch
+T119	NOM_LOC 1702 1709	the sea
+T11	PROP_PER 1750 1760	Virginians
+T120	PROP_PER 1892 1905	Adam J. Patch
+T121	PROP_PER 1935 1946	Cross Patch
+T122	PROP_GPE 1978 1987	Tarrytown
+T123	NOM_ORG 2017 2042	New York cavalry regiment
+T22	NOM_FAC 2883 2917	the office of his Tarrytown estate
+T125	NOM_FAC 2897 2917	his Tarrytown estate
+T126	NOM_PER 3094 3117	an unqualified nuisance
+T127	NOM_PER 3124 3143	an intolerable bore
+T27	NOM_PER 3340 3349	dead wife
+T25	PROP_PER 3429 3439	Adam Patch
+T30	PROP_PER 3479 3493	Alicia Withers
+T128	NOM_PER 3570 3601	the banking circles of New York
+T35	NOM_PER 3820 3827	The boy
+T130	NOM_ORG 3882 3887	clubs
+T34	NOM_PER 3921 3938	driver of tandems
+T131	NOM_VEH 3931 3938	tandems
+T132	PROP_GPE 4018 4026	New York
+T133	NOM_PER 4018 4034	New York Society
+T134	NOM_PER 4124 4134	publishers
+T135	PROP_PER 4267 4297	This Fifth Avenue Chesterfield
+T136	PROP_PER 4335 4352	Henrietta Lebrune
+T137	NOM_PER 4359 4385	Boston " Society Contralto
+T138	PROP_PER 4630 4643	Young Anthony
+T48	NOM_PER 4873 4917	a dandy of the nineties , spare and handsome
+T49	NOM_PER 4936 4995	a tall dark lady with a muff and the suggestion of a bustle
+T139	NOM_PER 5015 5092	a little boy with long brown curls , dressed in a velvet Lord Fauntleroy suit
+T50	PROP_PER 5072 5087	Lord Fauntleroy
+T52	PROP_GPE 5176 5182	Boston
+T143	NOM_PER 5176 5200	Boston Society Contralto
+T144	NOM_PER 5237 5322	a lady who sang , sang , sang , in the music room of their house on Washington Square
+T57	NOM_PER 5378 5450	men with their arms folded , balanced breathlessly on the edges of sofas
+T56	PROP_PER 5643 5650	Anthony
+T54	PROP_PER 5798 5817	the gallant Ulysses
+T58	NOM_PER 5820 5875	the first man in America to roll the lapels of his coat
+T145	NOM_ORG 5944 5957	another choir
+T146	PROP_GPE 6054 6063	Tarrytown
+T147	NOM_FAC 6092 6110	Anthony 's nursery
+T148	PROP_GPE 6489 6496	Lucerne
+T74	NOM_PER 6750 6758	THE HERO
+T88	NOM_ORG 7556 7597	a half dozen " Stamp and Coin " companies
+T149	PROP_GPE 8265 8271	Europe
+T150	NOM_PER 8277 8339	a private tutor , who persuaded him that Harvard was the thing
+T151	PROP_ORG 8484 8491	Harvard
+T152	NOM_PER 8654 8713	a slim dark boy of medium height with a shy sensitive mouth
+T153	PROP_PER 8865 8873	Meredith
+T154	NOM_PER 9009 9027	an exquisite dandy
+T155	NOM_PER 9474 9483	his class
+T156	NOM_PER 9524 9548	a rather romantic figure
+T157	NOM_ORG 9820 9827	college
+T158	PROP_GPE 9962 9966	Rome
+T159	NOM_PER 10129 10154	a thirteenth-century monk
+T160	PROP_GPE 10260 10264	Rome
+T161	NOM_PER 10271 10310	those of them who were abroad that year
+T163	NOM_GPE 10390 10398	the city
+T111	NOM_PER 10465 10496	Maury Noble , from Philadelphia
+T164	NOM_PER 10656 10697	a civilization that was very old and free
+T165	NOM_PER 10704 10745	a few acquaintances of his grandfather 's
+T166	PROP_FAC 4272 4284	Fifth Avenue
+T129	NOM_FAC 3806 3817	the nursery
+T140	PROP_PER 5104 5111	Anthony
+T26	NOM_PER 3386 3398	his grandson
+T141	PROP_PER 3399 3406	Anthony
+T15	NOM_PER 820 841	any one else he knows
+T142	NOM_PER 696 720	an exceptional young man
+T162	NOM_LOC 571 580	the world
+T168	NOM_PER 2422 2431	the world
+T169	NOM_PER 7892 7927	any one who interrupted him at play
+T170	NOM_PER 4799 4834	every one who came into his bedroom
+T171	NOM_GPE 6462 6467	there
+T173	PRON_PER 203 206	him
+T174	PRON_PER 359 361	he
+T175	PRON_PER 419 422	you
+T176	PRON_PER 433 436	him
+T177	PRON_PER 437 439	he
+T178	PRON_PER 467 469	he
+T179	PRON_PER 671 673	he
+T180	PRON_PER 681 688	himself
+T181	PRON_PER 767 770	his
+T182	PRON_PER 833 835	he
+T183	PRON_PER 853 856	his
+T184	PRON_PER 883 886	him
+T185	PRON_PER 981 983	he
+T186	PRON_PER 1000 1002	he
+T187	PRON_PER 1246 1248	he
+T188	PRON_PER 1544 1547	HIS
+T189	PRON_PER 1657 1659	he
+T190	PRON_PER 1688 1691	his
+T191	PRON_PER 1956 1959	his
+T192	PRON_PER 2045 2047	He
+T193	PRON_PER 2160 2162	he
+T194	PRON_PER 2175 2182	himself
+T195	PRON_PER 2233 2236	his
+T196	PRON_PER 2252 2254	he
+T197	PRON_PER 2300 2302	he
+T198	PRON_PER 2384 2387	his
+T199	PRON_PER 2434 2436	He
+T200	PRON_PER 2540 2543	his
+T201	PRON_PER 2565 2567	he
+T202	PRON_PER 2704 2707	His
+T203	PRON_PER 2897 2900	his
+T204	PRON_PER 2918 2920	he
+T205	PRON_PER 3052 3054	he
+T206	PRON_PER 3065 3072	himself
+T207	PRON_PER 3187 3190	him
+T208	PRON_PER 3202 3205	his
+T209	PRON_PER 3275 3278	his
+T210	PRON_PER 3336 3339	his
+T211	PRON_PER 3386 3389	his
+T212	PRON_PER 3418 3421	his
+T213	PRON_PER 3508 3511	him
+T214	PRON_PER 3636 3639	she
+T215	PRON_PER 3650 3653	him
+T216	PRON_PER 3737 3740	she
+T217	PRON_PER 3765 3772	herself
+T218	PRON_PER 3979 3981	he
+T219	PRON_PER 3988 3991	his
+T220	PRON_PER 4038 4039	I
+T221	PRON_PER 4160 4163	his
+T222	PRON_PER 4322 4325	His
+T223	PRON_PER 4448 4451	his
+T224	PRON_PER 4507 4509	he
+T225	PRON_PER 4556 4559	his
+T226	PRON_PER 4663 4666	his
+T227	PRON_PER 4719 4722	his
+T228	PRON_PER 4823 4826	his
+T229	PRON_PER 5006 5010	them
+T230	PRON_PER 5134 5137	his
+T231	PRON_PER 5156 5159	His
+T232	PRON_PER 5229 5232	She
+T233	PRON_PER 5290 5295	their
+T234	PRON_PER 5368 5371	her
+T235	PRON_PER 5387 5392	their
+T236	PRON_PER 5468 5473	their
+T237	PRON_PER 5483 5488	their
+T238	PRON_PER 5631 5634	she
+T239	PRON_PER 5723 5726	she
+T240	PRON_PER 5777 5780	His
+T241	PRON_PER 5867 5870	his
+T242	PRON_PER 5965 5968	her
+T243	PRON_PER 6191 6193	He
+T245	PRON_PER 6370 6374	they
+T246	PRON_PER 6410 6414	they
+T247	PRON_PER 6497 6500	his
+T248	PRON_PER 6696 6699	him
+T249	PRON_PER 6720 6723	his
+T250	PRON_PER 6769 6771	he
+T251	PRON_PER 6828 6831	his
+T252	PRON_PER 6853 6856	his
+T253	PRON_PER 6939 6942	her
+T254	PRON_PER 6954 6957	her
+T255	PRON_PER 7013 7016	her
+T256	PRON_PER 7142 7145	his
+T257	PRON_PER 7179 7181	he
+T258	PRON_PER 7231 7234	him
+T259	PRON_PER 7237 7239	He
+T260	PRON_PER 7251 7253	he
+T261	PRON_PER 7313 7316	His
+T262	PRON_PER 7342 7344	he
+T263	PRON_PER 7362 7365	his
+T264	PRON_PER 7441 7444	his
+T265	PRON_PER 7499 7502	him
+T266	PRON_PER 7644 7647	him
+T267	PRON_PER 7760 7763	his
+T268	PRON_PER 7817 7820	His
+T269	PRON_PER 7833 7836	his
+T270	PRON_PER 7860 7862	he
+T271	PRON_PER 7916 7919	him
+T274	PRON_PER 7954 7957	his
+T275	PRON_PER 7986 7988	he
+T277	PRON_PER 8082 8084	he
+T278	PRON_PER 8118 8125	himself
+T279	PRON_PER 8202 8205	his
+T280	PRON_PER 8309 8312	him
+T281	PRON_PER 8415 8418	him
+T282	PRON_PER 8473 8475	he
+T283	PRON_PER 8544 8547	him
+T284	PRON_PER 8583 8585	he
+T285	PRON_PER 8716 8719	His
+T286	PRON_PER 8754 8756	He
+T287	PRON_PER 8963 8965	he
+T288	PRON_PER 8999 9001	He
+T289	PRON_PER 9171 9173	he
+T290	PRON_PER 9206 9209	his
+T291	PRON_PER 9247 9250	his
+T292	PRON_PER 9368 9370	he
+T293	PRON_PER 9415 9417	he
+T294	PRON_PER 9444 9446	he
+T295	PRON_PER 9474 9477	his
+T296	PRON_PER 9486 9488	He
+T297	PRON_PER 9502 9504	he
+T298	PRON_PER 9610 9613	him
+T299	PRON_PER 9635 9638	him
+T300	PRON_PER 9642 9644	he
+T301	PRON_PER 9705 9707	He
+T302	PRON_PER 9727 9729	He
+T303	PRON_PER 9792 9795	him
+T304	PRON_PER 9805 9807	he
+T305	PRON_PER 9837 9839	he
+T306	PRON_PER 9892 9894	he
+T307	PRON_PER 9907 9909	he
+T308	PRON_PER 9985 9987	he
+T309	PRON_PER 10223 10226	his
+T310	PRON_PER 10250 10252	he
+T311	PRON_PER 10280 10284	them
+T312	PRON_PER 10318 10321	him
+T313	PRON_PER 10345 10348	him
+T314	PRON_PER 10549 10553	they
+T315	PRON_PER 10727 10730	his
+T316	PRON_PER 10756 10759	him
+T317	PRON_PER 10770 10772	he
+T318	PRON_PER 10784 10786	he
+T319	PRON_PER 10857 10859	he
+T320	PRON_PER 10871 10874	his
+T321	PRON_PER 11007 11010	his
+T436	Anthony_Patch-0 19 32	ANTHONY PATCH
+T324	Anthony_Patch-0 48 61	Anthony Patch
+T496	Anthony_Patch-0 203 206	him
+T497	Anthony_Patch-0 359 361	he
+T498	address_to_reader-1 419 422	you
+T499	Anthony_Patch-0 433 436	him
+T500	Anthony_Patch-0 437 439	he
+T501	Anthony_Patch-0 467 469	he
+T485	the_world-2 571 580	the world
+T325	a_clean_pond-3 593 605	a clean pond
+T502	Anthony_Patch-0 671 673	he
+T503	Anthony_Patch-0 681 688	himself
+T504	Anthony_Patch-0 767 770	his
+T338	any_one_else_he_knows-4 820 841	any one else he knows
+T505	Anthony_Patch-0 833 835	he
+T506	Anthony_Patch-0 853 856	his
+T507	Anthony_Patch-0 883 886	him
+T326	intelligent_men-5 932 947	intelligent men
+T327	all_women-6 955 964	all women
+T508	Anthony_Patch-0 981 983	he
+T509	Anthony_Patch-0 1000 1002	he
+T328	the_elect-7 1057 1066	the elect
+T510	Anthony_Patch-0 1246 1248	he
+T329	Anthony_Patch-0 1258 1271	Anthony Patch
+T330	a_man-8 1293 1298	a man
+T439	Anthony__Father-9 1527 1539	A WORTHY MAN
+T440	Anthony_Patch-0 1544 1558	HIS GIFTED SON
+T511	Anthony__Father-9 1544 1547	HIS
+T332	Anthony_Patch-0 1559 1566	Anthony
+T333	Adam_J__Patch-10 1640 1653	Adam J. Patch
+T512	Anthony_Patch-0 1657 1659	he
+T513	Anthony_Patch-0 1688 1691	his
+T442	the_sea-11 1702 1709	the sea
+T331	the_crusaders-12 1713 1726	the crusaders
+T334	Virginians-13 1750 1760	Virginians
+T335	Bostonians-14 1765 1775	Bostonians
+T443	Adam_J__Patch-10 1892 1905	Adam J. Patch
+T336	his_father-15 1956 1966	his father
+T337	his_father__s_farm-16 1956 1974	his father 's farm
+T514	Adam_J__Patch-10 1956 1959	his
+T445	Tarrytown-17 1978 1987	Tarrytown
+T446	New_York_cavalry_regiment-18 2017 2042	New York cavalry regiment
+T515	Adam_J__Patch-10 2045 2047	He
+T340	his_father__s_farm-16 2053 2057	home
+T339	Wall_Street-19 2094 2105	Wall Street
+T516	Adam_J__Patch-10 2160 2162	he
+T517	Adam_J__Patch-10 2175 2182	himself
+T518	Adam_J__Patch-10 2233 2236	his
+T519	Adam_J__Patch-10 2252 2254	he
+T520	Adam_J__Patch-10 2300 2302	he
+T521	Adam_J__Patch-10 2384 2387	his
+T491	the_world-804 2422 2431	the world
+T522	Adam_J__Patch-10 2434 2436	He
+T342	reformers-20 2461 2470	reformers
+T344	Anthony_Comstock___after_whom_his_grandson_was_named-21 2510 2562	Anthony Comstock , after whom his grandson was named
+T343	Anthony_Patch-0 2540 2552	his grandson
+T523	Adam_J__Patch-10 2540 2543	his
+T524	Adam_J__Patch-10 2565 2567	he
+T525	Adam_J__Patch-10 2704 2707	His
+T345	the_office_of_his_Tarrytown_estate-22 2883 2917	the office of his Tarrytown estate
+T448	his_Tarrytown_estate-23 2897 2917	his Tarrytown estate
+T526	Adam_J__Patch-10 2897 2900	his
+T346	Tarrytown-17 2901 2910	Tarrytown
+T527	Adam_J__Patch-10 2918 2920	he
+T528	Adam_J__Patch-10 3052 3054	he
+T529	Adam_J__Patch-10 3065 3072	himself
+T530	Adam_J__Patch-10 3187 3190	him
+T531	Adam_J__Patch-10 3202 3205	his
+T532	Adam_J__Patch-10 3275 3278	his
+T533	Adam_J__Patch-10 3336 3339	his
+T350	Alicia-24 3340 3349	dead wife
+T351	Anthony__Father-9 3354 3357	son
+T349	Anthony_Patch-0 3386 3398	his grandson
+T534	Adam_J__Patch-10 3386 3389	his
+T464	Anthony_Patch-0 3399 3406	Anthony
+T535	Adam_J__Patch-10 3418 3421	his
+T348	Adam_J__Patch-10 3429 3439	Adam Patch
+T354	Alicia-24 3452 3476	an anemic lady of thirty
+T536	Adam_J__Patch-10 3508 3511	him
+T451	the_banking_circles_of_New_York-25 3570 3601	the banking circles of New York
+T352	New_York-26 3593 3601	New York
+T537	Alicia-24 3636 3639	she
+T538	Adam_J__Patch-10 3650 3653	him
+T355	Anthony__Father-9 3654 3659	a son
+T539	Alicia-24 3737 3740	she
+T540	Alicia-24 3765 3772	herself
+T452	the_nursery-27 3806 3817	the nursery
+T358	Anthony__Father-9 3820 3827	The boy
+T453	clubs-28 3882 3887	clubs
+T454	tandems-29 3931 3938	tandems
+T541	Anthony__Father-9 3979 3981	he
+T542	Anthony__Father-9 3988 3991	his
+T455	New_York-26 4018 4026	New York
+T456	New_York_Society-30 4018 4034	New York Society
+T543	Anthony__Father-9 4038 4039	I
+T457	publishers-31 4124 4134	publishers
+T544	Anthony__Father-9 4160 4163	his
+T458	Anthony__Father-9 4267 4297	This Fifth Avenue Chesterfield
+T489	Fifth_Avenue-32 4272 4284	Fifth Avenue
+T361	Henrietta-33 4322 4330	His wife
+T545	Anthony__Father-9 4322 4325	His
+T459	Henrietta-33 4335 4352	Henrietta Lebrune
+T365	Boston-34 4359 4365	Boston
+T460	Boston___Society_Contralto-35 4359 4385	Boston " Society Contralto
+T362	Adam_J__Patch-10 4448 4463	his grandfather
+T546	Anthony_Patch-0 4448 4451	his
+T364	Anthony_Patch-0 4394 4423	the single child of the union
+T363	Anthony_Patch-0 4477 4499	Anthony Comstock Patch
+T547	Anthony_Patch-0 4507 4509	he
+T366	Harvard-36 4518 4525	Harvard
+T548	Anthony_Patch-0 4556 4559	his
+T461	Anthony_Patch-0 4630 4643	Young Anthony
+T369	Anthony__Father-9 4663 4673	his father
+T549	Anthony_Patch-0 4663 4666	his
+T370	Henrietta-33 4678 4684	mother
+T550	Anthony_Patch-0 4719 4722	his
+T493	every_one_who_came_into_his_bedroom-37 4799 4834	every one who came into his bedroom
+T368	his_bedroom-38 4823 4834	his bedroom
+T551	Anthony_Patch-0 4823 4826	his
+T371	Anthony__Father-9 4873 4917	a dandy of the nineties , spare and handsome
+T372	Henrietta-33 4936 4995	a tall dark lady with a muff and the suggestion of a bustle
+T552	Parents-39 5006 5010	them
+T462	Anthony_Patch-0 5015 5092	a little boy with long brown curls , dressed in a velvet Lord Fauntleroy suit
+T373	Lord_Fauntleroy-40 5072 5087	Lord Fauntleroy
+T463	Anthony_Patch-0 5104 5111	Anthony
+T374	Henrietta-33 5134 5144	his mother
+T553	Anthony_Patch-0 5134 5137	his
+T554	Anthony_Patch-0 5156 5159	His
+T375	Boston-34 5176 5182	Boston
+T466	Boston___Society_Contralto-35 5176 5200	Boston Society Contralto
+T555	Henrietta-33 5229 5232	She
+T376	the_music_room_of_their_house_on_Washington_Square-41 5272 5322	the music room of their house on Washington Square
+T382	family_home-42 5290 5322	their house on Washington Square
+T556	Anthony_and_Parents-43 5290 5295	their
+T385	Washington_Square-44 5305 5322	Washington Square
+T386	guests_scattered_all_about_her-45 5341 5371	guests scattered all about her
+T557	Henrietta-33 5368 5371	her
+T380	men_with_their_arms_folded___balanced_breathlessly_on_the_edges_of_sofas-46 5378 5450	men with their arms folded , balanced breathlessly on the edges of sofas
+T558	men_with_their_arms_folded___balanced_breathlessly_on_the_edges_of_sofas-46 5387 5392	their
+T383	the_women_with_their_hands_in_their_laps-47 5453 5493	the women with their hands in their laps
+T559	the_women_with_their_hands_in_their_laps-47 5468 5473	their
+T560	the_women_with_their_hands_in_their_laps-47 5483 5488	their
+T384	men_with_their_arms_folded___balanced_breathlessly_on_the_edges_of_sofas-46 5535 5542	the men
+T561	Henrietta-33 5631 5634	she
+T379	Anthony_Patch-0 5643 5650	Anthony
+T562	Henrietta-33 5723 5726	she
+T378	the_Southern_negro-48 5756 5774	the Southern negro
+T563	Anthony_Patch-0 5777 5780	His
+T377	the_gallant_Ulysses-49 5798 5817	the gallant Ulysses
+T387	America-50 5837 5844	America
+T564	the_gallant_Ulysses-49 5867 5870	his
+T389	Henrietta-33 5907 5930	Henrietta Lebrune Patch
+T468	another_choir-51 5944 5957	another choir
+T392	Anthony__Father-9 5965 5976	her widower
+T565	Henrietta-33 5965 5968	her
+T388	Anthony__Father-9 6014 6020	father
+T394	Anthony_Patch-0 6025 6028	son
+T391	his_Tarrytown_estate-23 6041 6063	grampa 's in Tarrytown
+T469	Tarrytown-17 6054 6063	Tarrytown
+T393	the_gallant_Ulysses-49 6070 6077	Ulysses
+T390	Anthony_Patch-0 6092 6099	Anthony
+T470	the_nursery-27 6092 6110	Anthony 's nursery
+T396	Anthony_Patch-0 6220 6227	Anthony
+T395	Atlantic_City-52 6278 6291	Atlantic City
+T398	Anthony_Patch-0 6391 6398	Anthony
+T569	Ulysses_and_Anthony-53 6410 6414	they
+T401	England-54 6432 6439	England
+T402	Switzerland-55 6444 6455	Switzerland
+T494	Switzerland-55 6462 6467	there
+T399	the_best_hotel_in_Lucerne-56 6471 6496	the best hotel in Lucerne
+T471	Lucerne-57 6489 6496	Lucerne
+T400	Anthony__Father-9 6497 6507	his father
+T570	Anthony_Patch-0 6497 6500	his
+T566	Anthony__Father-9 6191 6193	He
+T568	Father_and_Anthony-58 6370 6374	they
+T404	Anthony_Patch-0 6605 6612	Anthony
+T403	America-50 6633 6640	America
+T571	Anthony_Patch-0 6696 6699	him
+T572	Anthony_Patch-0 6720 6723	his
+T397	Anthony_Patch-0 6750 6758	THE HERO
+T573	Anthony_Patch-0 6769 6771	he
+T406	his_parents-59 6828 6839	his parents
+T574	Anthony_Patch-0 6828 6831	his
+T405	Alicia-24 6853 6868	his grandmother
+T575	Anthony_Patch-0 6853 6856	his
+T576	Alicia-24 6939 6942	her
+T407	Alicia-24 6954 6964	her person
+T577	Alicia-24 6954 6957	her
+T408	her_own_drawing_room-60 7013 7033	her own drawing room
+T578	Alicia-24 7013 7016	her
+T410	Anthony_Patch-0 7042 7049	Anthony
+T409	every_corner-61 7101 7113	every corner
+T579	Anthony_Patch-0 7142 7145	his
+T580	Anthony_Patch-0 7179 7181	he
+T581	Anthony_Patch-0 7231 7234	him
+T582	Anthony_Patch-0 7237 7239	He
+T583	Anthony_Patch-0 7251 7253	he
+T584	Anthony_Patch-0 7313 7316	His
+T585	Anthony_Patch-0 7342 7344	he
+T586	Anthony_Patch-0 7362 7365	his
+T413	a_boy-62 7420 7425	a boy
+T412	Adam_J__Patch-10 7441 7456	his grandfather
+T587	Anthony_Patch-0 7441 7444	his
+T588	Anthony_Patch-0 7499 7502	him
+T414	Anthony_Patch-0 7518 7525	Anthony
+T411	a_half_dozen___Stamp_and_Coin___companies-63 7556 7597	a half dozen " Stamp and Coin " companies
+T589	Anthony_Patch-0 7644 7647	him
+T590	Anthony_Patch-0 7760 7763	his
+T591	Anthony_Patch-0 7817 7820	His
+T592	Anthony_Patch-0 7833 7836	his
+T593	Anthony_Patch-0 7860 7862	he
+T492	any_one_who_interrupted_him_at_play-64 7892 7927	any one who interrupted him at play
+T594	Anthony_Patch-0 7916 7919	him
+T597	Anthony_Patch-0 7954 7957	his
+T598	Anthony_Patch-0 7986 7988	he
+T600	Anthony_Patch-0 8082 8084	he
+T601	Anthony_Patch-0 8118 8125	himself
+T415	his_contemporaries-65 8202 8220	his contemporaries
+T602	Anthony_Patch-0 8202 8205	his
+T472	Europe-66 8265 8271	Europe
+T473	a_private_tutor___who_persuaded_him_that_Harvard_was_the_thing-67 8277 8339	a private tutor , who persuaded him that Harvard was the thing
+T603	Anthony_Patch-0 8309 8312	him
+T418	Harvard-36 8318 8325	Harvard
+T604	Anthony_Patch-0 8415 8418	him
+T417	innumerable_self-sacrificing_and_devoted_friends-68 8419 8467	innumerable self-sacrificing and devoted friends
+T605	Anthony_Patch-0 8473 8475	he
+T474	Harvard-36 8484 8491	Harvard
+T606	Anthony_Patch-0 8544 8547	him
+T607	Anthony_Patch-0 8583 8585	he
+T419	a_high_room_in_Beck_Hall-69 8626 8650	a high room in Beck Hall
+T420	Beck_Hall-70 8641 8650	Beck Hall
+T608	Anthony_Patch-0 8716 8719	His
+T609	Anthony_Patch-0 8754 8756	He
+T424	a_library-71 8782 8791	a library
+T425	bibliophile-72 8823 8834	bibliophile
+T421	Swinburne-73 8853 8862	Swinburne
+T476	Meredith-74 8865 8873	Meredith
+T422	Hardy-75 8880 8885	Hardy
+T423	Keats-76 8933 8938	Keats
+T610	Anthony_Patch-0 8963 8965	he
+T611	Anthony_Patch-0 8999 9001	He
+T612	Anthony_Patch-0 9171 9173	he
+T427	a_high_room_in_Beck_Hall-69 9206 9214	his room
+T613	Anthony_Patch-0 9206 9209	his
+T614	Anthony_Patch-0 9247 9250	his
+T426	the_yard-77 9279 9287	the yard
+T615	Anthony_Patch-0 9368 9370	he
+T616	Anthony_Patch-0 9415 9417	he
+T617	Anthony_Patch-0 9444 9446	he
+T478	his_class-78 9474 9483	his class
+T618	Anthony_Patch-0 9474 9477	his
+T619	Anthony_Patch-0 9486 9488	He
+T620	Anthony_Patch-0 9502 9504	he
+T479	Anthony_Patch-0 9524 9548	a rather romantic figure
+T428	Anthony_Patch-0 9551 9560	a scholar
+T429	Anthony_Patch-0 9563 9572	a recluse
+T430	Anthony_Patch-0 9575 9595	a tower of erudition
+T621	Anthony_Patch-0 9610 9613	him
+T622	Anthony_Patch-0 9635 9638	him
+T623	Anthony_Patch-0 9642 9644	he
+T624	Anthony_Patch-0 9705 9707	He
+T625	Anthony_Patch-0 9727 9729	He
+T626	Anthony_Patch-0 9792 9795	him
+T627	Anthony_Patch-0 9805 9807	he
+T480	Harvard-36 9820 9827	college
+T628	Anthony_Patch-0 9837 9839	he
+T629	Anthony_Patch-0 9892 9894	he
+T630	Anthony_Patch-0 9907 9909	he
+T481	Rome-79 9962 9966	Rome
+T631	Anthony_Patch-0 9985 9987	he
+T482	a_thirteenth-century_monk-80 10129 10154	a thirteenth-century monk
+T431	his_contemporaries-65 10223 10244	his Harvard intimates
+T632	Anthony_Patch-0 10223 10226	his
+T633	Anthony_Patch-0 10250 10252	he
+T483	Rome-79 10260 10264	Rome
+T484	those_of_them_who_were_abroad_that_year-81 10271 10310	those of them who were abroad that year
+T634	his_contemporaries-65 10280 10284	them
+T635	Anthony_Patch-0 10318 10321	him
+T636	Anthony_Patch-0 10345 10348	him
+T486	Rome-79 10390 10398	the city
+T434	Maury_Noble___from_Philadelphia-82 10465 10496	Maury Noble , from Philadelphia
+T433	Philadelphia-83 10484 10496	Philadelphia
+T637	they-84 10549 10553	they
+T432	Latin_women-85 10585 10596	Latin women
+T487	rome-803 10656 10697	a civilization that was very old and free
+T488	a_few_acquaintances_of_his_grandfather__s-86 10704 10745	a few acquaintances of his grandfather 's
+T435	Adam_J__Patch-10 10727 10742	his grandfather
+T638	Anthony_Patch-0 10727 10730	his
+T639	Anthony_Patch-0 10756 10759	him
+T640	Anthony_Patch-0 10770 10772	he
+T641	Anthony_Patch-0 10784 10786	he
+T642	Anthony_Patch-0 10857 10859	he
+T643	Anthony_Patch-0 10871 10874	his
+T644	Anthony_Patch-0 11007 11010	his
+R1	cop Arg1:T142 Arg2:T180
+R4	cop Arg1:T118 Arg2:T9
+R6	cop Arg1:T18 Arg2:T199
+R7	cop Arg1:T24 Arg2:T206
+R8	cop Arg1:T126 Arg2:T206
+R9	cop Arg1:T127 Arg2:T206
+R10	appos Arg1:T30 Arg2:T31
+R11	appos Arg1:T36 Arg2:T35
+R12	cop Arg1:T37 Arg2:T35
+R13	cop Arg1:T33 Arg2:T36
+R14	cop Arg1:T34 Arg2:T36
+R15	cop Arg1:T144 Arg2:T232
+R16	appos Arg1:T58 Arg2:T54
+R17	appos Arg1:T93 Arg2:T278
+R20	cop Arg1:T154 Arg2:T288
+T322	NOM_PER 2071 2078	a major
+R18	cop Arg1:T322 Arg2:T192
+T649	PRON_PER 4050 4052	It
+T650	New_York_Society-30 4050 4052	It
+T44	Anthony_Patch-0 1303 1337	a distinct and dynamic personality
+T124	Anthony_Patch-0 1404 1524	a man who was aware that there could be no honor and yet had honor , who knew the sophistry of courage and yet was brave
+T167	Adam_J__Patch-10 1935 1946	Cross Patch
+T172	Anthony_Patch-0 8654 8713	a slim dark boy of medium height with a shy sensitive mouth

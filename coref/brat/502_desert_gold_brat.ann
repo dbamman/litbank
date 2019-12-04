@@ -1,0 +1,540 @@
+T1	NOM_GPE 407 413	Peoria
+T2	NOM_FAC 392 413	a home back in Peoria
+T3	NOM_PER 505 525	a hunter of solitude
+T4	NOM_PER 528 573	a lover of the drear , rock-ribbed infinitude
+T5	NOM_PER 1020 1039	a lonely prospector
+T10	PROP_PER 1420 1427	Cameron
+T11	PROP_LOC 1557 1563	Sonora
+T12	PROP_GPE 1568 1575	Arizona
+T13	NOM_PER 1792 1803	a white man
+T15	NOM_PER 2036 2061	a prospector like himself
+T16	NOM_PER 2166 2178	The stranger
+T18	NOM_PER 2695 2706	His visitor
+T19	NOM_PER 2796 2807	the two men
+T23	NOM_PER 3121 3129	this man
+T24	NOM_PER 3555 3568	his companion
+T26	NOM_PER 3775 3794	his strange visitor
+T27	NOM_LOC 4249 4270	the vast silent world
+T28	NOM_PER 4585 4590	a man
+T29	NOM_PER 4659 4666	the man
+T30	NOM_PER 5198 5207	a partner
+T31	PROP_PER 5549 5556	Cameron
+T32	NOM_LOC 5973 5991	the Colorado Basin
+T33	PROP_GPE 5951 5959	Pinacate
+T34	NOM_PER 6002 6012	an old man
+T35	NOM_PER 6102 6115	his companion
+T36	PROP_PER 6484 6491	Cameron
+T38	NOM_PER 6610 6621	his comrade
+T40	NOM_PER 6779 6792	the elder man
+T41	NOM_PER 6873 6916	this gray-faced , thoughtful old prospector
+T42	PROP_PER 6983 6990	Cameron
+T43	NOM_PER 7180 7191	his comrade
+T45	PROP_PER 7066 7073	Cameron
+T46	NOM_PER 7277 7285	This man
+T48	PROP_PER 7545 7552	Cameron
+T51	NOM_PER 7741 7755	only three men
+T52	NOM_PER 7931 7950	this latest comrade
+T53	NOM_PER 8208 8217	other men
+T54	NOM_PER 8228 8247	this silent comrade
+T55	NOM_PER 8505 8516	his comrade
+T56	NOM_PER 8893 8907	the prospector
+T57	NOM_PER 9315 9329	the prospector
+T58	NOM_PER 9368 9375	the man
+T59	PROP_PER 9397 9404	Cameron
+T60	NOM_PER 9420 9431	his comrade
+T61	NOM_PER 9642 9653	his comrade
+T62	PROP_PER 9776 9783	Cameron
+T63	PROP_PER 26 33	Cameron
+T64	NOM_PER 37 44	a woman
+T65	NOM_LOC 262 268	desert
+T66	PROP_PER 323 330	Cameron
+T67	NOM_PER 419 471	a woman he had wronged and lost , and loved too late
+T68	NOM_PER 481 502	a prospector for gold
+T69	PROP_PER 638 645	Cameron
+T70	NOM_LOC 1111 1117	desert
+T6	NOM_LOC 1236 1242	desert
+T7	NOM_PER 1582 1645	the prospector who dared the heat and barrenness of that region
+T8	NOM_PER 1851 1858	the man
+T9	PROP_PER 1956 1963	Cameron
+T14	NOM_PER 2005 2061	his visitor , whom he took for a prospector like himself
+T71	PROP_PER 2064 2071	Cameron
+T72	NOM_LOC 2153 2163	the desert
+T73	PROP_PER 2341 2348	Cameron
+T17	PROP_PER 2487 2494	Cameron
+T74	NOM_PER 2499 2641	a man whose gray hair somehow did not seem to make him old , and whose stooped shoulders did not detract from an impression of rugged strength
+T20	NOM_PER 2830 2842	the stranger
+T75	PROP_PER 2873 2880	Cameron
+T76	PROP_PER 2673 2680	Cameron
+T21	NOM_PER 2986 3092	those strange desert prospectors in whom there was some relentless driving power besides the lust for gold
+T22	PROP_PER 3095 3102	Cameron
+T78	NOM_LOC 3241 3247	desert
+T79	PROP_PER 3400 3407	Cameron
+T80	PROP_PER 3666 3673	Cameron
+T25	PROP_PER 3797 3804	Cameron
+T82	NOM_LOC 4001 4019	the dry stream bed
+T83	NOM_LOC 4569 4579	the canyon
+T84	PROP_PER 4605 4612	Cameron
+T85	PROP_PER 4745 4752	Cameron
+T86	PROP_PER 5024 5031	Cameron
+T87	NOM_PER 5024 5044	Cameron 's companion
+T88	PROP_PER 5220 5227	Cameron
+T89	NOM_LOC 5383 5393	the desert
+T90	PROP_PER 5422 5429	Cameron
+T91	NOM_PER 5471 5484	His companion
+T92	NOM_PER 5610 5801	no man who could endure equally with him the blasting heat , the blinding dust storms , the wilderness of sand and rock and lava and cactus , the terrible silence and desolation of the desert
+T93	NOM_LOC 5698 5749	the wilderness of sand and rock and lava and cactus
+T94	NOM_LOC 5791 5801	the desert
+T95	PROP_PER 5804 5811	Cameron
+T96	NOM_LOC 5875 5880	plain
+T97	NOM_LOC 5885 5890	range
+T98	PROP_LOC 5916 5933	the Sonora Desert
+T99	NOM_LOC 6033 6044	the country
+T100	NOM_LOC 6201 6235	the colored gulf of stone and sand
+T101	PROP_PER 6290 6297	Cameron
+T102	NOM_PER 6376 6382	friend
+T103	NOM_LOC 6528 6538	the desert
+T37	NOM_LOC 6580 6590	a low mesa
+T104	PROP_PER 6593 6600	Cameron
+T39	NOM_PER 6684 6699	the prospectors
+T105	NOM_LOC 6708 6722	the wilderness
+T106	PROP_PER 6827 6834	Cameron
+T107	NOM_LOC 7111 7145	a desert less lonely than habitual
+T44	NOM_LOC 7260 7274	the wilderness
+T108	NOM_PER 7223 7274	any other he had ever encountered in the wilderness
+T47	PROP_PER 7615 7622	Cameron
+T49	NOM_LOC 7774 7784	the desert
+T50	NOM_LOC 7840 7858	the shifting sands
+T109	PROP_PER 7861 7868	Cameron
+T110	NOM_PER 8019 8029	the others
+T111	NOM_LOC 8368 8383	a dry waterhole
+T112	NOM_LOC 8309 8350	a white , winding wash of sand and gravel
+T113	PROP_PER 8386 8393	Cameron
+T114	NOM_LOC 8408 8416	the sand
+T115	NOM_LOC 8485 8499	the last water
+T116	PROP_PER 8537 8544	Cameron
+T117	NOM_LOC 8782 8796	the stream bed
+T118	PROP_PER 8799 8806	Cameron
+T119	NOM_PER 8937 8948	his comrade
+T120	PROP_PER 9073 9080	Cameron
+T121	NOM_LOC 9282 9292	the ground
+T122	PROP_PER 9354 9361	Cameron
+T123	NOM_LOC 9439 9447	the sand
+T124	PROP_PER 9615 9622	Cameron
+T125	NOM_FAC 9675 9688	the deep hole
+T126	NOM_LOC 9850 9856	desert
+T127	NOM_LOC 9301 9305	here
+T129	PRON_PER 427 429	he
+T130	PRON_PER 474 476	He
+T131	PRON_PER 584 586	he
+T132	PRON_PER 663 665	He
+T133	PRON_PER 671 674	his
+T134	PRON_PER 822 825	His
+T135	PRON_PER 1289 1292	his
+T136	PRON_PER 1300 1302	He
+T137	PRON_PER 1441 1444	his
+T138	PRON_PER 1505 1507	He
+T139	PRON_PER 1871 1873	he
+T140	PRON_PER 1905 1908	him
+T141	PRON_PER 1913 1914	I
+T142	PRON_PER 1919 1923	your
+T143	PRON_PER 1935 1936	I
+T144	PRON_PER 2005 2008	his
+T145	PRON_PER 2024 2026	he
+T146	PRON_PER 2054 2061	himself
+T147	PRON_PER 2097 2100	his
+T148	PRON_PER 2129 2131	he
+T149	PRON_PER 2187 2190	him
+T150	PRON_PER 2224 2227	his
+T151	PRON_PER 2241 2243	he
+T152	PRON_PER 2255 2258	his
+T153	PRON_PER 2300 2303	His
+T154	PRON_PER 2357 2360	him
+T155	PRON_PER 2550 2553	him
+T156	PRON_PER 2695 2698	His
+T157	PRON_PER 2774 2776	He
+T158	PRON_PER 2899 2901	He
+T159	PRON_PER 3134 3141	himself
+T160	PRON_PER 3262 3269	himself
+T161	PRON_PER 3447 3449	he
+T162	PRON_PER 3509 3511	he
+T163	PRON_PER 3521 3523	he
+T164	PRON_PER 3535 3538	his
+T165	PRON_PER 3555 3558	his
+T166	PRON_PER 3683 3686	his
+T167	PRON_PER 3710 3713	his
+T168	PRON_PER 3723 3725	he
+T169	PRON_PER 3730 3733	his
+T170	PRON_PER 3765 3767	he
+T171	PRON_PER 3775 3778	his
+T172	PRON_PER 3811 3814	his
+T173	PRON_PER 3953 3955	He
+T174	PRON_PER 4067 4069	he
+T175	PRON_PER 4154 4156	he
+T176	PRON_PER 4202 4204	He
+T177	PRON_PER 4280 4283	him
+T178	PRON_PER 4325 4327	he
+T179	PRON_PER 4428 4430	he
+T180	PRON_PER 4486 4488	he
+T182	PRON_PER 4681 4684	Our
+T183	PRON_PER 4803 4807	They
+T184	PRON_PER 4833 4838	their
+T185	PRON_PER 4883 4888	their
+T186	PRON_PER 5052 5054	he
+T187	PRON_PER 5066 5069	his
+T188	PRON_PER 5126 5128	We
+T189	PRON_PER 5175 5178	you
+T190	PRON_PER 5185 5186	I
+T191	PRON_PER 5232 5235	You
+T192	PRON_PER 5248 5249	I
+T193	PRON_PER 5314 5316	we
+T194	PRON_PER 5361 5362	I
+T195	PRON_PER 5453 5456	his
+T196	PRON_PER 5471 5474	His
+T197	PRON_PER 5585 5588	his
+T198	PRON_PER 5599 5601	he
+T199	PRON_PER 5647 5650	him
+T200	PRON_PER 5895 5896	I
+T201	PRON_PER 5936 5937	I
+T202	PRON_PER 5994 5997	You
+T203	PRON_PER 6019 6020	I
+T204	PRON_PER 6054 6056	me
+T205	PRON_PER 6102 6105	his
+T206	PRON_PER 6130 6132	he
+T207	PRON_PER 6150 6157	himself
+T208	PRON_PER 6170 6173	his
+T209	PRON_PER 6261 6263	he
+T210	PRON_PER 6270 6273	his
+T211	PRON_PER 6308 6309	I
+T212	PRON_PER 6319 6320	I
+T213	PRON_PER 6353 6355	me
+T214	PRON_PER 6385 6386	I
+T215	PRON_PER 6425 6427	my
+T216	PRON_PER 6448 6451	you
+T217	PRON_PER 6466 6470	your
+T218	PRON_PER 6494 6498	They
+T219	PRON_PER 6551 6555	they
+T220	PRON_PER 6610 6613	his
+T221	PRON_PER 6930 6933	his
+T222	PRON_PER 6950 6953	his
+T223	PRON_PER 7027 7030	his
+T224	PRON_PER 7148 7150	he
+T225	PRON_PER 7180 7183	his
+T226	PRON_PER 7204 7207	him
+T227	PRON_PER 7233 7235	he
+T228	PRON_PER 7406 7408	he
+T229	PRON_PER 7436 7438	he
+T230	PRON_PER 7503 7505	He
+T231	PRON_PER 7561 7564	his
+T232	PRON_PER 7576 7578	He
+T233	PRON_PER 7660 7663	him
+T234	PRON_PER 7695 7697	he
+T235	PRON_PER 7790 7793	him
+T236	PRON_PER 7815 7820	their
+T237	PRON_PER 7891 7896	their
+T238	PRON_PER 7920 7922	he
+T239	PRON_PER 7960 7962	he
+T240	PRON_PER 7985 7987	he
+T241	PRON_PER 8035 8038	his
+T242	PRON_PER 8067 8070	his
+T243	PRON_PER 8137 8139	he
+T244	PRON_PER 8165 8167	he
+T245	PRON_PER 8257 8260	him
+T246	PRON_PER 8290 8294	they
+T247	PRON_PER 8353 8357	they
+T248	PRON_PER 8439 8441	He
+T249	PRON_PER 8505 8508	his
+T250	PRON_PER 8523 8526	him
+T251	PRON_PER 8553 8556	him
+T252	PRON_PER 8567 8570	his
+T253	PRON_PER 8654 8656	He
+T255	PRON_PER 8709 8712	him
+T256	PRON_PER 8759 8761	he
+T257	PRON_PER 8910 8912	He
+T258	PRON_PER 8937 8940	his
+T259	PRON_PER 8967 8969	he
+T260	PRON_PER 9198 9200	He
+T261	PRON_PER 9381 9384	his
+T262	PRON_PER 9420 9423	his
+T263	PRON_PER 9461 9463	he
+T264	PRON_PER 9593 9595	my
+T265	PRON_PER 9605 9607	he
+T266	PRON_PER 9642 9645	his
+T267	PRON_PER 9846 9849	his
+T268	PRON_PER 9899 9901	he
+T269	PRON_PER 9944 9946	he
+T270	PRON_PER 10000 10003	his
+T271	PROP_PER 1257 1264	Cameron
+T272	NOM_PER 2975 3092	Another of those strange desert prospectors in whom there was some relentless driving power besides the lust for gold
+T273	NOM_PER 3239 3269	a desert wanderer like himself
+T274	NOM_PER 4641 4647	friend
+T275	NOM_PER 5268 5277	the other
+T339	Cameron-0 26 33	Cameron
+T340	a_woman-1 37 44	a woman
+T341	desert-2 262 268	desert
+T342	Cameron-0 323 330	Cameron
+T278	a_home_back_in_Peoria-3 392 413	a home back in Peoria
+T277	Peoria-4 407 413	Peoria
+T343	a_woman-1 419 471	a woman he had wronged and lost , and loved too late
+T405	Cameron-0 427 429	he
+T406	Cameron-0 474 476	He
+T407	Cameron-0 584 586	he
+T345	Cameron-0 638 645	Cameron
+T408	Cameron-0 663 665	He
+T409	Cameron-0 671 674	his
+T410	Cameron-0 822 825	His
+T281	a_lonely_prospector-5 1020 1039	a lonely prospector
+T346	desert-6 1111 1117	desert
+T282	desert-7 1236 1242	desert
+T547	Cameron-0 1257 1264	Cameron
+T411	Cameron-0 1289 1292	his
+T412	Cameron-0 1300 1302	He
+T286	Cameron-0 1420 1427	Cameron
+T413	Cameron-0 1441 1444	his
+T414	Cameron-0 1505 1507	He
+T287	Sonora-8 1557 1563	Sonora
+T288	Arizona-9 1568 1575	Arizona
+T283	the_prospector_who_dared_the_heat_and_barrenness_of_that_region-10 1582 1645	the prospector who dared the heat and barrenness of that region
+T289	a_white_man-11 1792 1803	a white man
+T284	a_white_man-11 1851 1858	the man
+T415	a_white_man-11 1871 1873	he
+T416	a_white_man-11 1905 1908	him
+T417	a_white_man-11 1913 1914	I
+T418	Cameron-0 1919 1923	your
+T419	a_white_man-11 1935 1936	I
+T285	Cameron-0 1956 1963	Cameron
+T290	a_white_man-11 2005 2061	his visitor , whom he took for a prospector like himself
+T420	Cameron-0 2005 2008	his
+T421	Cameron-0 2024 2026	he
+T291	a_prospector_like_himself-12 2036 2061	a prospector like himself
+T422	Cameron-0 2054 2061	himself
+T347	Cameron-0 2064 2071	Cameron
+T423	Cameron-0 2097 2100	his
+T424	Cameron-0 2129 2131	he
+T348	the_desert-13 2153 2163	the desert
+T292	a_white_man-11 2166 2178	The stranger
+T425	Cameron-0 2187 2190	him
+T426	a_white_man-11 2224 2227	his
+T427	a_white_man-11 2241 2243	he
+T428	a_white_man-11 2255 2258	his
+T429	a_white_man-11 2300 2303	His
+T349	Cameron-0 2341 2348	Cameron
+T430	a_white_man-11 2357 2360	him
+T293	Cameron-0 2487 2494	Cameron
+T350	a_white_man-11 2499 2641	a man whose gray hair somehow did not seem to make him old , and whose stooped shoulders did not detract from an impression of rugged strength
+T431	a_white_man-11 2550 2553	him
+T352	Cameron-0 2673 2680	Cameron
+T294	a_white_man-11 2695 2706	His visitor
+T432	Cameron-0 2695 2698	His
+T433	a_white_man-11 2774 2776	He
+T295	the_two_men-14 2796 2807	the two men
+T296	a_white_man-11 2830 2842	the stranger
+T351	Cameron-0 2873 2880	Cameron
+T434	Cameron-0 2899 2901	He
+T297	those_strange_desert_prospectors_in_whom_there_was_some_relentless_driving_power_besides_the_lust_for_gold-15 2986 3092	those strange desert prospectors in whom there was some relentless driving power besides the lust for gold
+T548	a_white_man-11 2975 3092	Another of those strange desert prospectors in whom there was some relentless driving power besides the lust for gold
+T298	Cameron-0 3095 3102	Cameron
+T299	a_white_man-11 3121 3129	this man
+T435	Cameron-0 3134 3141	himself
+T549	a_white_man-11 3239 3269	a desert wanderer like himself
+T354	desert-16 3241 3247	desert
+T436	Cameron-0 3262 3269	himself
+T355	Cameron-0 3400 3407	Cameron
+T437	Cameron-0 3447 3449	he
+T438	Cameron-0 3509 3511	he
+T439	Cameron-0 3521 3523	he
+T440	Cameron-0 3535 3538	his
+T300	a_white_man-11 3555 3568	his companion
+T441	Cameron-0 3555 3558	his
+T356	Cameron-0 3666 3673	Cameron
+T442	Cameron-0 3683 3686	his
+T443	Cameron-0 3710 3713	his
+T444	Cameron-0 3723 3725	he
+T445	Cameron-0 3730 3733	his
+T446	Cameron-0 3765 3767	he
+T302	a_white_man-11 3775 3794	his strange visitor
+T447	Cameron-0 3775 3778	his
+T301	Cameron-0 3797 3804	Cameron
+T448	Cameron-0 3811 3814	his
+T449	Cameron-0 3953 3955	He
+T358	the_dry_stream_bed-17 4001 4019	the dry stream bed
+T450	Cameron-0 4067 4069	he
+T451	Cameron-0 4154 4156	he
+T452	Cameron-0 4202 4204	He
+T303	the_vast_silent_world-18 4249 4270	the vast silent world
+T453	Cameron-0 4280 4283	him
+T454	Cameron-0 4325 4327	he
+T455	Cameron-0 4428 4430	he
+T456	Cameron-0 4486 4488	he
+T359	the_canyon-19 4569 4579	the canyon
+T304	a_white_man-11 4585 4590	a man
+T360	Cameron-0 4605 4612	Cameron
+T305	a_white_man-11 4659 4666	the man
+T550	Cameron-0 4641 4647	friend
+T458	the_two_men-14 4681 4684	Our
+T361	Cameron-0 4745 4752	Cameron
+T459	the_two_men-14 4803 4807	They
+T460	the_two_men-14 4833 4838	their
+T461	the_two_men-14 4883 4888	their
+T362	Cameron-0 5024 5031	Cameron
+T363	a_white_man-11 5024 5044	Cameron 's companion
+T462	a_white_man-11 5052 5054	he
+T463	a_white_man-11 5066 5069	his
+T464	the_two_men-14 5126 5128	We
+T465	Cameron-0 5175 5178	you
+T466	a_white_man-11 5185 5186	I
+T306	a_partner-21 5198 5207	a partner
+T364	Cameron-0 5220 5227	Cameron
+T467	Cameron-0 5232 5235	You
+T468	a_white_man-11 5248 5249	I
+T551	a_white_man-11 5268 5277	the other
+T469	the_two_men-14 5314 5316	we
+T470	a_white_man-11 5361 5362	I
+T365	the_desert-22 5383 5393	the desert
+T366	Cameron-0 5422 5429	Cameron
+T471	Cameron-0 5453 5456	his
+T367	a_white_man-11 5471 5484	His companion
+T472	Cameron-0 5471 5474	His
+T307	Cameron-0 5549 5556	Cameron
+T473	Cameron-0 5585 5588	his
+T474	Cameron-0 5599 5601	he
+T368	no_man_who_could_endure_equally_with_him_the_blasting_heat___the_blinding_dust_storms___the_wilderness_of_sand_and_rock_and_lava_and_cactus___the_terrible_silence_and_desolation_of_the_desert-23 5610 5801	no man who could endure equally with him the blasting heat , the blinding dust storms , the wilderness of sand and rock and lava and cactus , the terrible silence and desolation of the desert
+T475	a_white_man-11 5647 5650	him
+T369	the_wilderness_of_sand_and_rock_and_lava_and_cactus-24 5698 5749	the wilderness of sand and rock and lava and cactus
+T370	the_desert-25 5791 5801	the desert
+T371	Cameron-0 5804 5811	Cameron
+T372	plain-26 5875 5880	plain
+T373	range-27 5885 5890	range
+T476	Cameron-0 5895 5896	I
+T374	the_Sonora_Desert-28 5916 5933	the Sonora Desert
+T477	a_white_man-11 5936 5937	I
+T309	Pinacate-29 5951 5959	Pinacate
+T308	the_Colorado_Basin-30 5973 5991	the Colorado Basin
+T478	a_white_man-11 5994 5997	You
+T479	a_white_man-11 6019 6020	I
+T375	the_country-31 6033 6044	the country
+T480	a_white_man-11 6054 6056	me
+T311	a_white_man-11 6102 6115	his companion
+T481	Cameron-0 6102 6105	his
+T482	a_white_man-11 6130 6132	he
+T483	a_white_man-11 6150 6157	himself
+T484	a_white_man-11 6170 6173	his
+T376	the_colored_gulf_of_stone_and_sand-32 6201 6235	the colored gulf of stone and sand
+T485	a_white_man-11 6261 6263	he
+T486	a_white_man-11 6270 6273	his
+T377	Cameron-0 6290 6297	Cameron
+T487	a_white_man-11 6308 6309	I
+T488	a_white_man-11 6319 6320	I
+T489	a_white_man-11 6353 6355	me
+T378	Cameron-0 6376 6382	friend
+T490	a_white_man-11 6385 6386	I
+T491	a_white_man-11 6425 6427	my
+T492	Cameron-0 6448 6451	you
+T493	a_white_man-11 6466 6470	your
+T312	Cameron-0 6484 6491	Cameron
+T494	the_two_men-14 6494 6498	They
+T379	the_desert-33 6528 6538	the desert
+T495	the_two_men-14 6551 6555	they
+T313	a_low_mesa-34 6580 6590	a low mesa
+T380	Cameron-0 6593 6600	Cameron
+T314	a_white_man-11 6610 6621	his comrade
+T496	Cameron-0 6610 6613	his
+T315	the_two_men-14 6684 6699	the prospectors
+T381	the_wilderness-35 6708 6722	the wilderness
+T316	a_white_man-11 6779 6792	the elder man
+T382	Cameron-0 6827 6834	Cameron
+T317	a_white_man-11 6873 6916	this gray-faced , thoughtful old prospector
+T497	a_white_man-11 6930 6933	his
+T498	a_white_man-11 6950 6953	his
+T318	Cameron-0 6983 6990	Cameron
+T499	Cameron-0 7027 7030	his
+T321	Cameron-0 7066 7073	Cameron
+T383	a_desert_less_lonely_than_habitual-36 7111 7145	a desert less lonely than habitual
+T500	Cameron-0 7148 7150	he
+T319	a_white_man-11 7180 7191	his comrade
+T501	Cameron-0 7180 7183	his
+T502	a_white_man-11 7204 7207	him
+T384	any_other_he_had_ever_encountered_in_the_wilderness-37 7223 7274	any other he had ever encountered in the wilderness
+T503	Cameron-0 7233 7235	he
+T320	the_wilderness-38 7260 7274	the wilderness
+T322	a_white_man-11 7277 7285	This man
+T504	a_white_man-11 7406 7408	he
+T505	a_white_man-11 7436 7438	he
+T506	a_white_man-11 7503 7505	He
+T324	Cameron-0 7545 7552	Cameron
+T507	Cameron-0 7561 7564	his
+T508	a_white_man-11 7576 7578	He
+T323	Cameron-0 7615 7622	Cameron
+T509	a_white_man-11 7660 7663	him
+T510	Cameron-0 7695 7697	he
+T327	only_three_men-39 7741 7755	only three men
+T325	the_desert-40 7774 7784	the desert
+T511	a_white_man-11 7790 7793	him
+T512	only_three_men-39 7815 7820	their
+T326	the_shifting_sands-41 7840 7858	the shifting sands
+T385	Cameron-0 7861 7868	Cameron
+T513	only_three_men-39 7891 7896	their
+T514	Cameron-0 7920 7922	he
+T328	a_white_man-11 7931 7950	this latest comrade
+T515	Cameron-0 7960 7962	he
+T516	Cameron-0 7985 7987	he
+T386	only_three_men-39 8019 8029	the others
+T517	Cameron-0 8035 8038	his
+T518	Cameron-0 8067 8070	his
+T519	Cameron-0 8137 8139	he
+T520	Cameron-0 8165 8167	he
+T329	other_men-42 8208 8217	other men
+T330	a_white_man-11 8228 8247	this silent comrade
+T521	a_white_man-11 8257 8260	him
+T522	the_two_men-14 8290 8294	they
+T388	a_white___winding_wash_of_sand_and_gravel-43 8309 8350	a white , winding wash of sand and gravel
+T523	the_two_men-14 8353 8357	they
+T387	a_dry_waterhole-44 8368 8383	a dry waterhole
+T389	Cameron-0 8386 8393	Cameron
+T390	the_sand-45 8408 8416	the sand
+T524	Cameron-0 8439 8441	He
+T391	the_last_water-46 8485 8499	the last water
+T331	a_white_man-11 8505 8516	his comrade
+T525	Cameron-0 8505 8508	his
+T526	Cameron-0 8523 8526	him
+T392	Cameron-0 8537 8544	Cameron
+T527	a_white_man-11 8553 8556	him
+T528	a_white_man-11 8567 8570	his
+T529	a_white_man-11 8654 8656	He
+T531	a_white_man-11 8709 8712	him
+T532	a_white_man-11 8759 8761	he
+T393	the_stream_bed-47 8782 8796	the stream bed
+T394	Cameron-0 8799 8806	Cameron
+T332	a_white_man-11 8893 8907	the prospector
+T533	Cameron-0 8910 8912	He
+T395	a_white_man-11 8937 8948	his comrade
+T534	Cameron-0 8937 8940	his
+T535	a_white_man-11 8967 8969	he
+T396	Cameron-0 9073 9080	Cameron
+T536	Cameron-0 9198 9200	He
+T397	the_ground-48 9282 9292	the ground
+T403	here-49 9301 9305	here
+T333	a_white_man-11 9315 9329	the prospector
+T398	Cameron-0 9354 9361	Cameron
+T334	a_white_man-11 9368 9375	the man
+T537	a_white_man-11 9381 9384	his
+T335	Cameron-0 9397 9404	Cameron
+T336	a_white_man-11 9420 9431	his comrade
+T538	Cameron-0 9420 9423	his
+T399	the_sand-50 9439 9447	the sand
+T539	a_white_man-11 9461 9463	he
+T540	a_white_man-11 9593 9595	my
+T541	a_white_man-11 9605 9607	he
+T400	Cameron-0 9615 9622	Cameron
+T337	a_white_man-11 9642 9653	his comrade
+T542	Cameron-0 9642 9645	his
+T401	the_deep_hole-51 9675 9688	the deep hole
+T338	Cameron-0 9776 9783	Cameron
+T543	Cameron-0 9846 9849	his
+T402	desert-52 9850 9856	desert
+T544	Cameron-0 9899 9901	he
+T545	Cameron-0 9944 9946	he
+T546	Cameron-0 10000 10003	his
+R1	cop Arg1:T68 Arg2:T130
+R2	cop Arg1:T3 Arg2:T130
+R3	cop Arg1:T4 Arg2:T130
+R4	cop Arg1:T34 Arg2:T202

@@ -1,0 +1,530 @@
+T1	NOM_PER 369 383	a proud tyrant
+T2	PROP_GPE 555 561	France
+T5	NOM_PER 1087 1100	those aristos
+T6	NOM_PER 1106 1116	such fools
+T7	PROP_GPE 1300 1306	France
+T8	NOM_PER 1328 1343	Their ancestors
+T9	NOM_PER 1507 1527	their former masters
+T11	PROP_GPE 1488 1494	France
+T12	NOM_PER 1853 1876	a beautiful young Queen
+T13	NOM_PER 1839 1845	a King
+T14	NOM_PER 1756 1767	young women
+T15	NOM_PER 1770 1783	tiny children
+T16	NOM_PER 1934 1954	the rulers of France
+T17	PROP_GPE 1948 1954	France
+T18	NOM_PER 1957 1973	Every aristocrat
+T19	NOM_PER 1993 2006	his ancestors
+T20	NOM_PER 1978 1987	a traitor
+T21	NOM_PER 2545 2554	an aristo
+T22	NOM_PER 2532 2554	some fool of an aristo
+T23	NOM_PER 2745 2777	citizen soldiers of the Republic
+T25	PROP_GPE 2966 2972	France
+T27	PROP_GPE 2981 2988	England
+T29	NOM_PER 3215 3235	sovereigns of France
+T31	PROP_GPE 3229 3235	France
+T32	PROP_PER 3293 3307	Sergeant Bibot
+T34	NOM_FAC 3322 3335	the West Gate
+T35	NOM_PER 3466 3474	his prey
+T37	NOM_PER 3846 3855	an aristo
+T39	PROP_PER 3727 3732	Bibot
+T40	NOM_PER 4265 4272	two men
+T41	PROP_PER 4158 4163	Bibot
+T42	NOM_PER 3951 3959	his prey
+T43	PROP_GPE 4134 4141	England
+T44	PROP_PER 3935 3940	Bibot
+T45	PROP_GPE 4082 4087	Paris
+T49	NOM_PER 5092 5108	citoyen soldiers
+T52	NOM_PER 5169 5189	Those cursed aristos
+T53	PROP_GPE 5253 5258	Paris
+T54	NOM_PER 5339 5364	those traitorous Bourbons
+T57	PROP_PER 5442 5447	Bibot
+T58	NOM_PER 5597 5614	that good patriot
+T59	NOM_PER 5486 5509	some fugitive royalists
+T60	PROP_PER 5662 5668	Danton
+T62	PROP_PER 5711 5716	Bibot
+T63	PROP_PER 5688 5693	Bibot
+T64	PROP_GPE 6008 6015	England
+T65	PROP_GPE 5985 5991	France
+T66	NOM_PER 5944 5951	aristos
+T67	PROP_PER 6195 6214	Sergeant Grospierre
+T71	NOM_PER 6565 6613	lawful victims destined for Madame la Guillotine
+T73	NOM_PER 6782 6833	a man whose pluck and audacity were almost fabulous
+T75	NOM_PER 6878 6907	those aristos whom he rescued
+T76	NOM_PER 7078 7090	their leader
+T77	NOM_PER 7041 7068	these mysterious Englishmen
+T78	PROP_GPE 7653 7660	England
+T82	PROP_GPE 7910 7917	England
+T83	NOM_PER 7750 7796	the citoyens of the Committee of Public Safety
+T84	NOM_PER 7931 7954	The guards at the gates
+T85	NOM_PER 7974 7998	the sergeants in command
+T86	NOM_PER 8087 8123	these daring and impudent Englishmen
+T87	PROP_PER 8270 8275	Bibot
+T88	NOM_FAC 8420 8433	the West Gate
+T90	PROP_PER 8300 8305	Bibot
+T91	NOM_PER 8534 8560	that mysterious Englishman
+T92	NOM_PER 8584 8604	his trusted corporal
+T93	NOM_PER 8632 8638	a fool
+T94	NOM_PER 8827 8839	the corporal
+T95	NOM_PER 9016 9042	this meddlesome Englishman
+T96	NOM_PER 9134 9151	the devil himself
+T97	PROP_PER 9158 9168	Grospierre
+T98	NOM_PER 9173 9179	a fool
+T99	NOM_PER 9295 9311	a boy beside him
+T100	NOM_PER 9277 9287	an old man
+T102	NOM_PER 9548 9599	ill-clad wretches , who crowded round Citoyen Bibot
+T103	NOM_PER 9637 9649	the sergeant
+T104	NOM_PER 9702 9730	some dozen soldiers with him
+T105	NOM_PER 9899 9910	the captain
+T107	NOM_PER 10009 10036	the CI-DEVANT Duc de Chalis
+T108	NOM_PER 10114 10124	the driver
+T110	PROP_PER 10239 10257	Citoyen Grospierre
+T111	NOM_PER 10312 10318	a fool
+T113	PROP_GPE 10 15	PARIS
+T114	NOM_PER 158 174	savage creatures
+T115	NOM_PER 35 243	A surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate
+T116	NOM_PER 808 818	the people
+T3	NOM_PER 913 922	the crowd
+T4	NOM_FAC 940 961	the Place de la Greve
+T117	NOM_PER 1141 1151	the people
+T118	NOM_PER 1129 1151	traitors to the people
+T119	NOM_PER 1241 1306	the great men who since the Crusades had made the glory of France
+T120	NOM_PER 1226 1306	descendants of the great men who since the Crusades had made the glory of France
+T121	NOM_PER 1309 1325	her old NOBLESSE
+T122	NOM_PER 1178 1306	men , women , and children , who happened to be descendants of the great men who since the Crusades had made the glory of France
+T123	NOM_PER 1358 1368	the people
+T10	NOM_PER 1474 1494	the rulers of France
+T124	NOM_PER 1452 1462	the people
+T125	NOM_PER 1726 1742	its many victims
+T126	NOM_PER 1746 1753	old men
+T127	NOM_PER 1919 1929	the people
+T128	NOM_PER 2055 2065	the people
+T129	NOM_PER 2179 2230	those who had helped to make those courts brilliant
+T130	NOM_PER 2160 2230	the descendants of those who had helped to make those courts brilliant
+T131	NOM_PER 2318 2328	the people
+T132	NOM_VEH 2464 2480	the market carts
+T133	PROP_ORG 2592 2622	the Committee of Public Safety
+T24	NOM_GPE 2765 2777	the Republic
+T134	NOM_PER 2787 2792	women
+T135	NOM_PER 2780 2803	Men in women 's clothes
+T136	NOM_PER 2806 2826	women in male attire
+T30	NOM_PER 2851 2858	beggars
+T28	NOM_PER 2829 2865	children disguised in beggars ' rags
+T137	NOM_PER 3116 3123	an army
+T138	NOM_FAC 3171 3181	the Temple
+T26	NOM_PER 3145 3235	the wretched prisoners in the Temple , who had once called themselves sovereigns of France
+T139	NOM_PER 2899 3235	CI-DEVANT counts , marquises , even dukes , who wanted to fly from France , reach England or some other equally accursed country , and there try to rouse foreign feelings against the glorious Revolution , or to raise an army in order to liberate the wretched prisoners in the Temple , who had once called themselves sovereigns of France
+T33	NOM_PER 3370 3408	an aristo in the most perfect disguise
+T140	PROP_PER 3446 3451	Bibot
+T36	NOM_PER 3684 3719	a CI-DEVANT noble marquise or count
+T141	NOM_PER 3912 3922	the people
+T46	NOM_PER 4174 4196	the unfortunate wretch
+T142	NOM_LOC 4227 4243	the open country
+T143	NOM_PER 4383 4395	the fugitive
+T144	NOM_PER 4414 4421	a woman
+T145	PROP_PER 4503 4508	Bibot
+T146	NOM_PER 4424 4649	some proud marchioness , who looked terribly comical when she found herself in Bibot 's clutches after all , and knew that a summary trial would await her the next day and after that , the fond embrace of Madame la Guillotine
+T48	PROP_PER 4719 4724	Bibot
+T147	NOM_PER 4827 4836	the crowd
+T148	NOM_PER 4946 4961	another hundred
+T149	PROP_PER 4983 4988	Bibot
+T55	NOM_PER 5376 5384	traitors
+T56	PROP_ORG 5547 5577	the Committee of Public Safety
+T150	PROP_PER 5617 5643	Citoyen Foucquier-Tinville
+T151	PROP_PER 5646 5657	Robespierre
+T61	NOM_PER 5778 5800	at least fifty aristos
+T152	NOM_PER 5832 5886	all the sergeants in command at the various barricades
+T153	NOM_PER 6128 6138	the people
+T68	NOM_PER 6260 6285	a whole family of aristos
+T70	NOM_PER 6391 6613	a band of Englishmen , whose daring seemed to be unparalleled , and who , from sheer desire to meddle in what did not concern them , spent their spare time in snatching away lawful victims destined for Madame la Guillotine
+T47	NOM_PER 6682 6716	this band of meddlesome Englishmen
+T72	PROP_PER 7154 7180	Citoyen Foucquier-Tinville
+T74	NOM_PER 7372 7381	the crowd
+T154	PROP_ORG 7427 7457	the Committee of Public Safety
+T79	NOM_PER 7507 7540	the band of meddlesome Englishmen
+T155	PROP_ORG 7766 7796	the Committee of Public Safety
+T80	NOM_PER 7813 7846	so many royalists and aristocrats
+T81	NOM_LOC 7873 7882	the coast
+T156	PROP_PER 8204 8248	the mysterious and elusive Scarlet Pimpernel
+T157	NOM_PER 8178 8248	the man who laid hands on the mysterious and elusive Scarlet Pimpernel
+T89	NOM_PER 8285 8293	that man
+T158	NOM_PER 8392 8398	people
+T159	NOM_PER 8478 8560	any fugitive aristo who perhaps might be accompanied by that mysterious Englishman
+T160	PROP_PER 8609 8627	Citoyen Grospierre
+T161	NOM_FAC 8665 8680	that North Gate
+T162	PROP_PER 8699 8712	Citoyen Bibot
+T163	NOM_PER 8760 8771	his comrade
+T164	PROP_PER 8844 8854	Grospierre
+T165	PROP_PER 8902 8907	Bibot
+T166	NOM_PER 8925 8934	the crowd
+T167	PROP_PER 9045 9076	this accursed Scarlet Pimpernel
+T168	NOM_VEH 9182 9198	The market carts
+T169	PROP_PER 9314 9324	Grospierre
+T170	NOM_VEH 9469 9477	the cart
+T101	PROP_PER 9586 9599	Citoyen Bibot
+T171	NOM_PER 9676 9685	the guard
+T172	NOM_PER 9663 9685	a captain of the guard
+T173	NOM_VEH 9739 9745	a cart
+T174	PROP_PER 9774 9784	Grospierre
+T175	PROP_PER 9817 9827	Grospierre
+T176	NOM_PER 9965 9981	citoyen sergeant
+T177	NOM_VEH 9984 9993	that cart
+T106	NOM_PER 10041 10055	all his family
+T178	PROP_PER 10080 10090	Grospierre
+T112	NOM_PER 10331 10337	a fool
+T69	NOM_LOC 4121 4130	the coast
+T38	NOM_PER 10145 10167	that cursed Englishman
+T109	PROP_PER 10170 10191	the Scarlet Pimpernel
+T181	NOM_PER 8251 8259	Everyone
+T182	NOM_PER 8347 8356	everybody
+T183	NOM_PER 7025 7031	No one
+T185	PRON_PER 137 141	they
+T186	PRON_PER 438 441	his
+T187	PRON_GPE 654 657	her
+T188	PRON_PER 1119 1123	They
+T189	PRON_PER 1171 1175	them
+T190	PRON_GPE 1309 1312	her
+T191	PRON_PER 1328 1333	Their
+T192	PRON_PER 1383 1387	them
+T193	PRON_PER 1415 1420	their
+T194	PRON_PER 1507 1512	their
+T195	PRON_PER 1543 1548	their
+T196	PRON_PER 1560 1564	they
+T197	PRON_PER 1993 1996	his
+T198	PRON_PER 2023 2026	him
+T199	PRON_PER 2247 2252	their
+T200	PRON_PER 2274 2278	they
+T201	PRON_PER 2335 2339	they
+T202	PRON_PER 2673 2677	they
+T203	PRON_PER 3204 3214	themselves
+T204	PRON_PER 3242 3246	they
+T205	PRON_PER 3466 3469	his
+T206	PRON_PER 3517 3520	him
+T207	PRON_PER 3836 3839	him
+T208	PRON_PER 3951 3954	his
+T209	PRON_PER 3997 4000	him
+T210	PRON_PER 4053 4055	he
+T211	PRON_PER 4251 4253	he
+T212	PRON_PER 4279 4282	him
+T213	PRON_PER 4293 4296	him
+T214	PRON_PER 4316 4319	his
+T215	PRON_PER 4482 4485	she
+T216	PRON_PER 4492 4499	herself
+T217	PRON_PER 4575 4578	her
+T218	PRON_PER 5119 5122	his
+T219	PRON_PER 5224 5229	their
+T220	PRON_PER 5385 5395	themselves
+T221	PRON_PER 5522 5526	them
+T222	PRON_PER 5698 5701	his
+T223	PRON_PER 5744 5746	he
+T224	PRON_PER 5750 5753	his
+T225	PRON_PER 6074 6078	they
+T226	PRON_PER 6322 6325	his
+T227	PRON_PER 6517 6521	them
+T228	PRON_PER 6530 6535	their
+T229	PRON_PER 6740 6744	they
+T230	PRON_PER 6871 6873	he
+T231	PRON_PER 6897 6899	he
+T232	PRON_PER 6937 6941	they
+T233	PRON_PER 7078 7083	their
+T234	PRON_PER 7093 7095	he
+T235	PRON_PER 7277 7279	he
+T236	PRON_PER 7311 7314	his
+T237	PRON_PER 7354 7357	him
+T238	PRON_PER 7391 7393	he
+T239	PRON_PER 7401 7404	his
+T240	PRON_PER 7647 7649	we
+T241	PRON_PER 7897 7902	their
+T242	PRON_PER 8413 8416	him
+T243	PRON_PER 8461 8463	he
+T244	PRON_PER 8573 8575	he
+T245	PRON_PER 8584 8587	his
+T246	PRON_PER 8653 8655	me
+T247	PRON_PER 8743 8746	his
+T248	PRON_PER 8760 8763	his
+T249	PRON_PER 8951 8954	him
+T250	PRON_PER 8978 8981	his
+T251	PRON_PER 8996 8998	We
+T252	PRON_PER 9079 9081	He
+T253	PRON_PER 9101 9103	MY
+T254	PRON_PER 9128 9130	he
+T255	PRON_PER 9144 9151	himself
+T256	PRON_PER 9308 9311	him
+T257	PRON_PER 9347 9349	he
+T258	PRON_PER 9358 9365	himself
+T259	PRON_PER 9380 9382	he
+T262	PRON_PER 9727 9730	him
+T263	PRON_PER 9763 9765	he
+T264	PRON_PER 9863 9866	you
+T265	PRON_PER 9876 9880	them
+T266	PRON_PER 9925 9928	You
+T267	PRON_PER 10045 10048	his
+T268	PRON_PER 10271 10274	his
+T272	NOM_PER 8809 8816	citoyen
+T386	PARIS-0 10 15	PARIS
+T388	A_surging___seething___murmuring_crowd_of_beings_that_are_human_only_in_name___for_to_the_eye_and_ear_they_seem_naught_but_savage_creatures___animated_by_vile_passions_and_by_the_lust_of_vengeance_and_of_hate-1 35 243	A surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate
+T458	A_surging___seething___murmuring_crowd_of_beings_that_are_human_only_in_name___for_to_the_eye_and_ear_they_seem_naught_but_savage_creatures___animated_by_vile_passions_and_by_the_lust_of_vengeance_and_of_hate-1 137 141	they
+T459	a_proud_tyrant-2 438 441	his
+T275	France-3 555 561	France
+T460	France-3 654 657	her
+T389	the_people-4 808 818	the people
+T277	the_Place_de_la_Greve-5 940 961	the Place de la Greve
+T278	aristocrats-6 1087 1100	those aristos
+T461	aristocrats-6 1119 1123	They
+T276	the_crowd-7 913 922	the crowd
+T390	the_people-4 1141 1151	the people
+T462	aristocrats-6 1171 1175	them
+T395	men___women___and_children___who_happened_to_be_descendants_of_the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-8 1178 1306	men , women , and children , who happened to be descendants of the great men who since the Crusades had made the glory of France
+T393	descendants_of_the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-9 1226 1306	descendants of the great men who since the Crusades had made the glory of France
+T392	the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-10 1241 1306	the great men who since the Crusades had made the glory of France
+T280	France-3 1300 1306	France
+T394	the_great_men_who_since_the_Crusades_had_made_the_glory_of_France-10 1309 1325	her old NOBLESSE
+T463	France-3 1309 1312	her
+T281	Their_ancestors-11 1328 1343	Their ancestors
+T464	aristocrats-6 1328 1333	Their
+T396	the_people-4 1358 1368	the people
+T465	the_people-4 1383 1387	them
+T466	aristocrats-6 1415 1420	their
+T397	the_people-4 1452 1462	the people
+T283	the_rulers_of_France-12 1474 1494	the rulers of France
+T284	France-3 1488 1494	France
+T282	aristocrats-6 1507 1527	their former masters
+T467	the_people-4 1507 1512	their
+T468	the_people-4 1543 1548	their
+T469	the_people-4 1560 1564	they
+T398	its_many_victims-13 1726 1742	its many victims
+T399	old_men-14 1746 1753	old men
+T287	young_women-15 1756 1767	young women
+T288	tiny_children-16 1770 1783	tiny children
+T286	a_King-17 1839 1845	a King
+T285	a_beautiful_young_Queen-18 1853 1876	a beautiful young Queen
+T400	the_people-4 1919 1929	the people
+T289	the_rulers_of_France-12 1934 1954	the rulers of France
+T290	France-3 1948 1954	France
+T291	Every_aristocrat-19 1957 1973	Every aristocrat
+T292	his_ancestors-20 1993 2006	his ancestors
+T471	Every_aristocrat-19 2023 2026	him
+T401	the_people-4 2055 2065	the people
+T402	those_who_had_helped_to_make_those_courts_brilliant-22 2179 2230	those who had helped to make those courts brilliant
+T404	the_people-4 2318 2328	the people
+T405	the_market_carts-23 2464 2480	the market carts
+T295	some_fool_of_an_aristo-24 2532 2554	some fool of an aristo
+T294	an_aristo-25 2545 2554	an aristo
+T406	the_Committee_of_Public_Safety-26 2592 2622	the Committee of Public Safety
+T403	aristocrats-6 2160 2230	the descendants of those who had helped to make those courts brilliant
+T472	aristocrats-6 2247 2252	their
+T473	aristocrats-6 2274 2278	they
+T474	aristocrats-6 2335 2339	they
+T475	aristocrats-6 2673 2677	they
+T296	citizen_soldiers_of_the_Republic-27 2745 2777	citizen soldiers of the Republic
+T297	the_Republic-28 2765 2777	the Republic
+T408	Men_in_women__s_clothes-29 2780 2803	Men in women 's clothes
+T407	women-30 2787 2792	women
+T409	women_in_male_attire-31 2806 2826	women in male attire
+T301	children_disguised_in_beggars___rags-32 2829 2865	children disguised in beggars ' rags
+T303	beggars-33 2851 2858	beggars
+T412	CI-DEVANT_counts___marquises___even_dukes___who_wanted_to_fly_from_France___reach_England_or_some_other_equally_accursed_country___and_there_try_to_rouse_foreign_feelings_against_the_glorious_Revolution___or_to_raise_an_army_in_order_to_liberate_the_wretched_prisoners_in_the_Temple___who_had_once_called_themselves_sovereigns_of_France-34 2899 3235	CI-DEVANT counts , marquises , even dukes , who wanted to fly from France , reach England or some other equally accursed country , and there try to rouse foreign feelings against the glorious Revolution , or to raise an army in order to liberate the wretched prisoners in the Temple , who had once called themselves sovereigns of France
+T298	France-3 2966 2972	France
+T300	England-35 2981 2988	England
+T410	an_army-36 3116 3123	an army
+T299	the_wretched_prisoners_in_the_Temple___who_had_once_called_themselves_sovereigns_of_France-37 3145 3235	the wretched prisoners in the Temple , who had once called themselves sovereigns of France
+T411	the_Temple-38 3171 3181	the Temple
+T476	the_wretched_prisoners_in_the_Temple___who_had_once_called_themselves_sovereigns_of_France-37 3204 3214	themselves
+T302	sovereigns_of_France-39 3215 3235	sovereigns of France
+T304	France-3 3229 3235	France
+T477	aristocrats-6 3242 3246	they
+T305	Sergeant_Bibot-40 3293 3307	Sergeant Bibot
+T307	the_West_Gate-41 3322 3335	the West Gate
+T306	an_aristo_in_the_most_perfect_disguise-42 3370 3408	an aristo in the most perfect disguise
+T413	Sergeant_Bibot-40 3446 3451	Bibot
+T308	his_prey-43 3466 3474	his prey
+T478	Sergeant_Bibot-40 3466 3469	his
+T479	his_prey-43 3517 3520	him
+T309	a_CI-DEVANT_noble_marquise_or_count-44 3684 3719	a CI-DEVANT noble marquise or count
+T312	Sergeant_Bibot-40 3727 3732	Bibot
+T480	Sergeant_Bibot-40 3836 3839	him
+T310	an_aristo-45 3846 3855	an aristo
+T414	the_people-4 3912 3922	the people
+T317	Sergeant_Bibot-40 3935 3940	Bibot
+T315	his_prey-43 3951 3959	his prey
+T481	Sergeant_Bibot-40 3951 3954	his
+T482	his_prey-43 3997 4000	him
+T483	his_prey-43 4053 4055	he
+T318	PARIS-0 4082 4087	Paris
+T342	the_coast-46 4121 4130	the coast
+T316	England-35 4134 4141	England
+T314	Sergeant_Bibot-40 4158 4163	Bibot
+T319	his_prey-43 4174 4196	the unfortunate wretch
+T415	the_open_country-47 4227 4243	the open country
+T484	Sergeant_Bibot-40 4251 4253	he
+T313	two_men-48 4265 4272	two men
+T485	his_prey-43 4279 4282	him
+T486	his_prey-43 4293 4296	him
+T487	his_prey-43 4316 4319	his
+T416	his_prey-43 4383 4395	the fugitive
+T417	a_woman-49 4414 4421	a woman
+T488	a_woman-49 4482 4485	she
+T489	a_woman-49 4492 4499	herself
+T418	Sergeant_Bibot-40 4503 4508	Bibot
+T490	a_woman-49 4575 4578	her
+T321	Sergeant_Bibot-40 4719 4724	Bibot
+T420	the_crowd-50 4827 4836	the crowd
+T421	another_hundred-51 4946 4961	another hundred
+T422	Sergeant_Bibot-40 4983 4988	Bibot
+T322	citoyen_soldiers-52 5092 5108	citoyen soldiers
+T491	Sergeant_Bibot-40 5119 5122	his
+T325	aristocrats-6 5169 5189	Those cursed aristos
+T492	aristocrats-6 5224 5229	their
+T326	PARIS-0 5253 5258	Paris
+T327	those_traitorous_Bourbons-56 5339 5364	those traitorous Bourbons
+T493	aristocrats-6 5385 5395	themselves
+T330	Sergeant_Bibot-40 5442 5447	Bibot
+T332	some_fugitive_royalists-57 5486 5509	some fugitive royalists
+T494	some_fugitive_royalists-57 5522 5526	them
+T329	the_Committee_of_Public_Safety-26 5547 5577	the Committee of Public Safety
+T331	Focquier-Tinville-58 5597 5614	that good patriot
+T424	Robespierre-59 5646 5657	Robespierre
+T333	Danton-60 5662 5668	Danton
+T336	Sergeant_Bibot-40 5688 5693	Bibot
+T495	Sergeant_Bibot-40 5698 5701	his
+T335	Sergeant_Bibot-40 5711 5716	Bibot
+T496	Sergeant_Bibot-40 5744 5746	he
+T497	Sergeant_Bibot-40 5750 5753	his
+T334	at_least_fifty_aristos-61 5778 5800	at least fifty aristos
+T425	all_the_sergeants_in_command_at_the_various_barricades-62 5832 5886	all the sergeants in command at the various barricades
+T339	aristos-63 5944 5951	aristos
+T338	France-3 5985 5991	France
+T337	England-35 6008 6015	England
+T498	aristos-63 6074 6078	they
+T426	the_people-4 6128 6138	the people
+T340	Sergeant_Grospierre-64 6195 6214	Sergeant Grospierre
+T341	a_whole_family_of_aristos-65 6260 6285	a whole family of aristos
+T499	Sergeant_Grospierre-64 6322 6325	his
+T343	League_of_the_Scarlet_Pimpernel-66 6391 6613	a band of Englishmen , whose daring seemed to be unparalleled , and who , from sheer desire to meddle in what did not concern them , spent their spare time in snatching away lawful victims destined for Madame la Guillotine
+T500	League_of_the_Scarlet_Pimpernel-66 6517 6521	them
+T501	League_of_the_Scarlet_Pimpernel-66 6530 6535	their
+T344	aristocrats-6 6565 6613	lawful victims destined for Madame la Guillotine
+T320	League_of_the_Scarlet_Pimpernel-66 6682 6716	this band of meddlesome Englishmen
+T502	League_of_the_Scarlet_Pimpernel-66 6740 6744	they
+T346	Scarlet_Pimpernel-68 6782 6833	a man whose pluck and audacity were almost fabulous
+T503	Scarlet_Pimpernel-68 6871 6873	he
+T348	those_aristos_whom_he_rescued-69 6878 6907	those aristos whom he rescued
+T504	Scarlet_Pimpernel-68 6897 6899	he
+T505	those_aristos_whom_he_rescued-69 6937 6941	they
+T456	No_one-70 7025 7031	No one
+T350	League_of_the_Scarlet_Pimpernel-66 7041 7068	these mysterious Englishmen
+T349	Scarlet_Pimpernel-68 7078 7090	their leader
+T506	League_of_the_Scarlet_Pimpernel-66 7078 7083	their
+T507	Scarlet_Pimpernel-68 7093 7095	he
+T345	Focquier-Tinville-58 7154 7180	Citoyen Foucquier-Tinville
+T508	Focquier-Tinville-58 7277 7279	he
+T509	Focquier-Tinville-58 7311 7314	his
+T510	Focquier-Tinville-58 7354 7357	him
+T347	the_crowd-71 7372 7381	the crowd
+T511	Focquier-Tinville-58 7391 7393	he
+T512	Focquier-Tinville-58 7401 7404	his
+T427	the_Committee_of_Public_Safety-26 7427 7457	the Committee of Public Safety
+T352	League_of_the_Scarlet_Pimpernel-66 7507 7540	the band of meddlesome Englishmen
+T513	we-72 7647 7649	we
+T351	England-35 7653 7660	England
+T356	the_citoyens_of_the_Committee_of_Public_Safety-73 7750 7796	the citoyens of the Committee of Public Safety
+T428	the_Committee_of_Public_Safety-26 7766 7796	the Committee of Public Safety
+T353	so_many_royalists_and_aristocrats-74 7813 7846	so many royalists and aristocrats
+T354	the_coast-46 7873 7882	the coast
+T514	so_many_royalists_and_aristocrats-74 7897 7902	their
+T355	England-35 7910 7917	England
+T357	The_guards_at_the_gates-75 7931 7954	The guards at the gates
+T358	the_sergeants_in_command-76 7974 7998	the sergeants in command
+T359	League_of_the_Scarlet_Pimpernel-66 8087 8123	these daring and impudent Englishmen
+T430	the_man_who_laid_hands_on_the_mysterious_and_elusive_Scarlet_Pimpernel-77 8178 8248	the man who laid hands on the mysterious and elusive Scarlet Pimpernel
+T429	Scarlet_Pimpernel-68 8204 8248	the mysterious and elusive Scarlet Pimpernel
+T454	Everyone-78 8251 8259	Everyone
+T360	Sergeant_Bibot-40 8270 8275	Bibot
+T362	that_man-79 8285 8293	that man
+T363	Sergeant_Bibot-40 8300 8305	Bibot
+T455	everybody-80 8347 8356	everybody
+T431	people-81 8392 8398	people
+T515	Sergeant_Bibot-40 8413 8416	him
+T516	Sergeant_Bibot-40 8461 8463	he
+T432	any_fugitive_aristo_who_perhaps_might_be_accompanied_by_that_mysterious_Englishman-84 8478 8560	any fugitive aristo who perhaps might be accompanied by that mysterious Englishman
+T364	Scarlet_Pimpernel-68 8534 8560	that mysterious Englishman
+T517	Sergeant_Bibot-40 8573 8575	he
+T365	his_trusted_corporal-85 8584 8604	his trusted corporal
+T518	Sergeant_Bibot-40 8584 8587	his
+T470	Sergeant_Bibot-40 1993 1996	his
+T274	Robespierre-59 369 383	a proud tyrant
+T361	the_West_Gate-41 8420 8433	the West Gate
+T433	Sergeant_Grospierre-64 8609 8627	Citoyen Grospierre
+T519	Sergeant_Bibot-40 8653 8655	me
+T434	North_Gate-82 8665 8680	that North Gate
+T435	Sergeant_Bibot-40 8699 8712	Citoyen Bibot
+T520	Sergeant_Bibot-40 8743 8746	his
+T436	Sergeant_Grospierre-64 8760 8771	his comrade
+T521	Sergeant_Bibot-40 8760 8763	his
+T545	Sergeant_Bibot-40 8809 8816	citoyen
+T367	his_trusted_corporal-85 8827 8839	the corporal
+T437	Sergeant_Grospierre-64 8844 8854	Grospierre
+T438	Sergeant_Bibot-40 8902 8907	Bibot
+T439	the_crowd-88 8925 8934	the crowd
+T522	Sergeant_Bibot-40 8951 8954	him
+T523	Sergeant_Bibot-40 8978 8981	his
+T524	We-89 8996 8998	We
+T368	Scarlet_Pimpernel-68 9016 9042	this meddlesome Englishman
+T525	Scarlet_Pimpernel-68 9079 9081	He
+T526	Sergeant_Bibot-40 9101 9103	MY
+T527	Scarlet_Pimpernel-68 9128 9130	he
+T369	the_devil_himself-90 9134 9151	the devil himself
+T528	himself-91 9144 9151	himself
+T370	Sergeant_Grospierre-64 9158 9168	Grospierre
+T371	a_fool-92 9173 9179	a fool
+T441	The_market_carts-93 9182 9198	The market carts
+T373	an_old_man-94 9277 9287	an old man
+T372	a_boy_beside_him-95 9295 9311	a boy beside him
+T529	an_old_man-94 9308 9311	him
+T442	Sergeant_Grospierre-64 9314 9324	Grospierre
+T530	Sergeant_Grospierre-64 9347 9349	he
+T531	Sergeant_Grospierre-64 9358 9365	himself
+T532	Sergeant_Grospierre-64 9380 9382	he
+T443	the_cart-96 9469 9477	the cart
+T375	ill-clad_wretches___who_crowded_round_Citoyen_Bibot-97 9548 9599	ill-clad wretches , who crowded round Citoyen Bibot
+T374	Sergeant_Bibot-40 9586 9599	Citoyen Bibot
+T376	Sergeant_Bibot-40 9637 9649	the sergeant
+T445	a_captain_of_the_guard-98 9663 9685	a captain of the guard
+T444	the_guard-99 9676 9685	the guard
+T377	some_dozen_soldiers_with_him-100 9702 9730	some dozen soldiers with him
+T535	a_captain_of_the_guard-98 9727 9730	him
+T446	a_cart-101 9739 9745	a cart
+T536	a_captain_of_the_guard-98 9763 9765	he
+T447	Sergeant_Grospierre-64 9774 9784	Grospierre
+T448	Sergeant_Grospierre-64 9817 9827	Grospierre
+T537	a_captain_of_the_guard-98 9863 9866	you
+T538	them-102 9876 9880	them
+T378	a_captain_of_the_guard-98 9899 9910	the captain
+T539	Sergeant_Grospierre-64 9925 9928	You
+T449	Sergeant_Grospierre-64 9965 9981	citoyen sergeant
+T450	a_cart-101 9984 9993	that cart
+T380	the_CI-DEVANT_Duc_de_Chalis-103 10009 10036	the CI-DEVANT Duc de Chalis
+T379	all_his_family-104 10041 10055	all his family
+T540	the_CI-DEVANT_Duc_de_Chalis-103 10045 10048	his
+T451	Sergeant_Grospierre-64 10080 10090	Grospierre
+T381	Scarlet_Pimpernel-68 10114 10124	the driver
+T311	Scarlet_Pimpernel-68 10145 10167	that cursed Englishman
+T383	Sergeant_Grospierre-64 10239 10257	Citoyen Grospierre
+T541	Sergeant_Grospierre-64 10271 10274	his
+T384	Sergeant_Grospierre-64 10312 10318	a fool
+T385	Sergeant_Grospierre-64 10331 10337	a fool
+R1	cop Arg1:T114 Arg2:T185
+R2	cop Arg1:T6 Arg2:T5
+R3	cop Arg1:T118 Arg2:T188
+R4	cop Arg1:T20 Arg2:T18
+R5	appos Arg1:T146 Arg2:T144
+R7	cop Arg1:T55 Arg2:T260
+R8	appos Arg1:T150 Arg2:T58
+R9	cop Arg1:T93 Arg2:T160
+R10	appos Arg1:T167 Arg2:T95
+R11	appos Arg1:T109 Arg2:T38
+T180	NOM_PER 5288 5303	whose ancestors
+T184	ancestors-55 5288 5303	whose ancestors
+T179	NOM_PER 5261 5364	men , women and children , whose ancestors , even in remote ages , had served those traitorous Bourbons
+T260	aristocrats-6 5261 5364	men , women and children , whose ancestors , even in remote ages , had served those traitorous Bourbons
+T50	NOM_GPE 2992 3027	some other equally accursed country
+T51	some_other_equally_a-700 2992 3027	some other equally accursed country

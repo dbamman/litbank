@@ -1,0 +1,620 @@
+T0	NOM_PER 86 99	his companion
+T2	PROP_GPE 196 206	Portsmouth
+T3	NOM_FAC 347 353	church
+T4	NOM_GPE 273 281	the town
+T5	NOM_PER 307 322	the inhabitants
+T6	PROP_GPE 510 517	America
+T7	NOM_PER 464 477	their friends
+T9	NOM_GPE 546 605	Portsmouth , where the troops waited orders for embarkation
+T10	PROP_PER 399 406	Belcour
+T12	PROP_GPE 628 638	Chichester
+T13	NOM_FAC 1090 1100	the church
+T14	NOM_FAC 956 963	the inn
+T15	NOM_PER 1165 1183	the young soldiers
+T17	PROP_GPE 1454 1464	Portsmouth
+T18	PROP_PER 1317 1328	Montraville
+T19	NOM_PER 1285 1306	A tall , elegant girl
+T20	NOM_PER 1506 1525	a very lovely child
+T21	NOM_PER 1601 1611	her person
+T22	NOM_FAC 1970 1977	the inn
+T23	NOM_LOC 1932 1941	the world
+T24	NOM_PER 1911 1941	the sweetest girl in the world
+T25	PROP_PER 2254 2267	the Americans
+T26	NOM_PER 2240 2251	our friends
+T27	PROP_PER 2209 2216	Belcour
+T29	NOM_PER 2508 2516	the girl
+T31	NOM_PER 2702 2715	his companion
+T32	NOM_PER 2761 2780	its fair inhabitant
+T33	PROP_PER 2686 2697	Montraville
+T34	PROP_GPE 2746 2756	Chichester
+T35	PROP_PER 2818 2827	Charlotte
+T36	NOM_PER 3183 3194	the servant
+T37	PROP_PER 3339 3366	the lovely Charlotte Temple
+T38	NOM_GPE 3144 3152	the town
+T39	NOM_FAC 3431 3440	the house
+T40	NOM_PER 3870 3886	this lovely girl
+T42	PROP_GPE 3758 3765	England
+T43	PROP_GPE 3997 4007	Portsmouth
+T45	PROP_PER 4202 4213	Montraville
+T46	NOM_PER 4459 4468	two women
+T47	PROP_PER 4837 4853	Charlotte Temple
+T48	NOM_GPE 4698 4706	the town
+T49	NOM_PER 4927 4957	a French teacher at the school
+T50	PROP_PER 5225 5235	MR. Temple
+T51	NOM_PER 5541 5552	his sisters
+T52	NOM_PER 5576 5594	old , decrepid men
+T54	NOM_PER 5515 5524	the house
+T55	NOM_PER 5385 5402	his elder brother
+T56	NOM_FAC 5836 5845	a cottage
+T57	PROP_PER 5927 5937	Mr. Temple
+T59	NOM_PER 6597 6616	a benevolent fellow
+T61	PROP_PER 6798 6804	Temple
+T65	NOM_FAC 7323 7339	the Fleet prison
+T66	NOM_PER 7342 7353	The officer
+T67	PROP_PER 7367 7383	Captain Eldridge
+T68	NOM_PER 7386 7394	a person
+T69	NOM_FAC 7474 7503	a miserable , small apartment
+T70	NOM_FAC 7520 7539	the Captain ’s room
+T72	NOM_PER 7556 7593	The officer , whose name was Blakeney
+T74	NOM_PER 8799 8810	the old man
+T75	PROP_PER 8898 8904	Temple
+T76	PROP_PER 8845 8853	Blakeney
+T77	NOM_FAC 8946 8954	the room
+T78	PROP_PER 9068 9074	Temple
+T81	NOM_PER 9323 9337	that poor girl
+T82	NOM_PER 9376 9386	the father
+T83	NOM_PER 9517 9525	a sailor
+T84	PROP_PER 9528 9534	Temple
+T85	PROP_PER 9551 9564	Miss Eldridge
+T87	NOM_PER 9864 9875	the old man
+T88	NOM_FAC 21 38	A BOARDING SCHOOL
+T1	PROP_PER 71 82	Montraville
+T89	PROP_PER 211 218	Belcour
+T90	PROP_PER 356 367	Montraville
+T91	NOM_ORG 388 396	the army
+T92	NOM_PER 372 396	a Lieutenant in the army
+T8	NOM_PER 411 430	his brother officer
+T93	NOM_PER 565 575	the troops
+T94	NOM_GPE 695 719	the place of destination
+T11	PROP_GPE 829 839	Chichester
+T95	NOM_PER 989 999	the belles
+T96	PROP_PER 1030 1044	Madame Du Pont
+T97	NOM_FAC 1062 1072	her school
+T98	NOM_PER 1108 1144	an assemblage of youth and innocence
+T99	NOM_PER 1210 1230	the little cavalcade
+T16	NOM_PER 1384 1464	Charlotte Temple , whom he had once seen and danced with at a ball at Portsmouth
+T100	PROP_PER 1980 1987	Belcour
+T101	PROP_PER 2036 2047	Montraville
+T102	PROP_PER 2364 2375	Montraville
+T28	NOM_PER 2466 2570	any kind Familiar who would inform me who the girl is , and how I might be likely to obtain an interview
+T30	NOM_PER 2579 2595	no kind Familiar
+T103	NOM_VEH 2625 2658	the chaise which they had ordered
+T104	PROP_GPE 3042 3052	Chichester
+T105	NOM_FAC 3274 3302	an extensive pleasure ground
+T106	NOM_FAC 3311 3366	the mansion which contained the lovely Charlotte Temple
+T107	PROP_PER 3369 3380	Montraville
+T41	NOM_FAC 4367 4376	the place
+T44	NOM_FAC 4427 4447	the pleasure grounds
+T108	NOM_PER 4903 4957	her companion , who was a French teacher at the school
+T109	PROP_PER 5028 5037	Charlotte
+T110	PROP_PER 5078 5090	Mademoiselle
+T111	NOM_PER 5135 5151	her young charge
+T112	NOM_FAC 5157 5166	the field
+T113	NOM_PER 5260 5375	a nobleman whose fortune was by no means adequate to the antiquity , grandeur , and I may add , pride of the family
+T114	NOM_PER 5240 5375	the youngest son of a nobleman whose fortune was by no means adequate to the antiquity , grandeur , and I may add , pride of the family
+T115	NOM_PER 5440 5524	a disagreeable woman , whose fortune helped to prop the sinking dignity of the house
+T53	NOM_PER 6377 6392	the unfortunate
+T60	NOM_PER 6626 6641	a young officer
+T116	NOM_PER 6868 6887	my fellow creatures
+T63	NOM_PER 6919 6932	the young man
+T117	NOM_PER 6958 7010	a man who is not in so good a lodging as he deserves
+T118	NOM_FAC 6978 7010	so good a lodging as he deserves
+T62	NOM_PER 7043 7051	an angel
+T119	NOM_PER 7150 7163	The young man
+T120	PROP_PER 7203 7209	Temple
+T64	NOM_FAC 7407 7435	several pair of dirty stairs
+T71	NOM_PER 7520 7531	the Captain
+T121	PROP_PER 7707 7713	Temple
+T122	NOM_FAC 7773 7786	The apartment
+T123	NOM_PER 7977 8210	an aged man in a Lieutenant ’s uniform , which , though threadbare , would sooner call a blush of shame into the face of those who could neglect real merit , than cause the hectic of confusion to glow on the cheeks of him who wore it
+T124	NOM_PER 8098 8132	those who could neglect real merit
+T73	NOM_PER 8228 8276	a lovely creature busied in painting a fan mount
+T126	PROP_PER 8686 8692	Temple
+T127	NOM_PER 8761 8776	a courtly belle
+T80	NOM_PER 9090 9113	visitors of distinction
+T79	NOM_PER 9348 9363	the philosopher
+T128	NOM_PER 9942 9945	Sir
+T58	NOM_PER 6363 6392	the friend of the unfortunate
+T86	PROP_PER 9830 9838	Blakeney
+T125	NOM_PER 9820 9829	My friend
+T134	NOM_LOC 5647 5656	the world
+T135	NOM_FAC 9222 9226	here
+T136	NOM_FAC 3238 3247	the place
+T139	PRON_PER 47 50	you
+T140	PRON_PER 86 89	his
+T141	PRON_PER 105 109	they
+T142	PRON_PER 135 138	you
+T143	PRON_PER 161 163	we
+T144	PRON_PER 246 250	they
+T145	PRON_PER 328 332	they
+T146	PRON_PER 411 414	his
+T147	PRON_PER 433 437	they
+T148	PRON_PER 464 469	their
+T149	PRON_PER 490 495	their
+T150	PRON_PER 608 612	They
+T151	PRON_PER 661 665	they
+T152	PRON_PER 748 752	them
+T153	PRON_PER 850 854	they
+T154	PRON_PER 869 874	their
+T155	PRON_PER 887 891	They
+T156	PRON_PER 906 911	their
+T157	PRON_PER 1062 1065	her
+T158	PRON_PER 1186 1190	they
+T159	PRON_PER 1272 1277	their
+T160	PRON_PER 1343 1345	he
+T161	PRON_PER 1408 1410	he
+T162	PRON_PER 1480 1482	he
+T163	PRON_PER 1494 1497	her
+T164	PRON_PER 1528 1531	she
+T165	PRON_PER 1601 1604	her
+T166	PRON_PER 1659 1662	her
+T167	PRON_PER 1673 1676	she
+T168	PRON_PER 1698 1701	his
+T169	PRON_PER 1744 1747	him
+T170	PRON_PER 1790 1793	him
+T171	PRON_PER 1828 1830	he
+T172	PRON_PER 1871 1874	him
+T173	PRON_PER 1890 1893	her
+T174	PRON_PER 1904 1907	She
+T175	PRON_PER 1951 1953	he
+T176	PRON_PER 1959 1961	he
+T177	PRON_PER 2003 2006	you
+T178	PRON_PER 2018 2021	her
+T179	PRON_PER 2052 2055	she
+T180	PRON_PER 2153 2155	me
+T181	PRON_PER 2240 2243	our
+T182	PRON_PER 2303 2306	you
+T183	PRON_PER 2324 2325	I
+T184	PRON_PER 2501 2503	me
+T185	PRON_PER 2530 2531	I
+T186	PRON_PER 2642 2646	they
+T187	PRON_PER 2702 2705	his
+T188	PRON_PER 2798 2803	their
+T189	PRON_PER 2864 2867	his
+T190	PRON_PER 2954 2957	her
+T191	PRON_PER 3007 3010	her
+T192	PRON_PER 3013 3015	he
+T193	PRON_PER 3105 3108	his
+T194	PRON_PER 3155 3157	he
+T195	PRON_PER 3629 3631	he
+T196	PRON_PER 3647 3648	I
+T197	PRON_PER 3692 3695	her
+T198	PRON_PER 3732 3733	I
+T199	PRON_PER 3830 3831	I
+T200	PRON_PER 3903 3906	her
+T201	PRON_PER 3962 3965	she
+T202	PRON_PER 3980 3981	I
+T203	PRON_PER 4032 4035	her
+T205	PRON_PER 4287 4288	I
+T206	PRON_PER 4303 4306	her
+T207	PRON_PER 4324 4326	he
+T208	PRON_PER 4386 4388	he
+T209	PRON_PER 4398 4400	he
+T210	PRON_PER 4523 4524	I
+T211	PRON_PER 4566 4568	he
+T212	PRON_PER 4571 4573	He
+T213	PRON_PER 4583 4587	them
+T214	PRON_PER 4601 4605	them
+T215	PRON_PER 4659 4663	them
+T216	PRON_PER 4721 4723	he
+T217	PRON_PER 4767 4769	he
+T218	PRON_PER 4856 4858	He
+T219	PRON_PER 4890 4897	himself
+T220	PRON_PER 4903 4906	her
+T221	PRON_PER 4996 4998	he
+T222	PRON_PER 5106 5109	she
+T223	PRON_PER 5135 5138	her
+T224	PRON_PER 5344 5345	I
+T225	PRON_PER 5378 5380	He
+T226	PRON_PER 5385 5388	his
+T227	PRON_PER 5531 5533	he
+T228	PRON_PER 5541 5544	his
+T229	PRON_PER 5615 5619	them
+T230	PRON_PER 5688 5692	them
+T231	PRON_PER 5718 5719	I
+T232	PRON_PER 5784 5786	he
+T233	PRON_PER 5791 5792	I
+T234	PRON_PER 5822 5823	I
+T237	PRON_PER 5892 5893	I
+T238	PRON_PER 6015 6017	he
+T239	PRON_PER 6085 6088	his
+T240	PRON_PER 6109 6112	him
+T241	PRON_PER 6130 6133	his
+T242	PRON_PER 6164 6167	his
+T243	PRON_PER 6177 6179	He
+T244	PRON_PER 6308 6310	he
+T245	PRON_PER 6319 6326	himself
+T246	PRON_PER 6332 6334	he
+T247	PRON_PER 6395 6398	his
+T248	PRON_PER 6467 6469	he
+T249	PRON_PER 6539 6542	his
+T250	PRON_PER 6589 6592	You
+T251	PRON_PER 6645 6648	him
+T252	PRON_PER 6665 6666	I
+T253	PRON_PER 6693 6696	you
+T254	PRON_PER 6740 6744	your
+T255	PRON_PER 6762 6765	You
+T256	PRON_PER 6781 6783	me
+T257	PRON_PER 6844 6845	I
+T258	PRON_PER 6868 6870	my
+T259	PRON_PER 6937 6939	we
+T260	PRON_PER 6999 7001	he
+T261	PRON_PER 7036 7038	he
+T262	PRON_PER 7057 7060	him
+T263	PRON_PER 7089 7092	him
+T264	PRON_PER 7095 7097	he
+T265	PRON_PER 7130 7133	his
+T266	PRON_PER 7234 7237	his
+T267	PRON_PER 7286 7289	him
+T268	PRON_PER 7307 7311	they
+T269	PRON_PER 7399 7403	them
+T270	PRON_PER 7668 7670	He
+T271	PRON_PER 7737 7740	him
+T272	PRON_PER 7886 7889	his
+T273	PRON_PER 7909 7912	his
+T274	PRON_PER 7920 7923	his
+T275	PRON_PER 7967 7970	him
+T277	PRON_PER 8220 8223	him
+T278	PRON_PER 8279 8282	She
+T279	PRON_PER 8340 8343	her
+T280	PRON_PER 8377 8380	Her
+T281	PRON_PER 8402 8405	her
+T282	PRON_PER 8592 8595	her
+T283	PRON_PER 8632 8635	she
+T284	PRON_PER 8703 8706	she
+T285	PRON_PER 8784 8788	they
+T286	PRON_PER 8822 8825	his
+T287	PRON_PER 8905 8908	his
+T288	PRON_PER 8964 8971	himself
+T289	PRON_PER 8987 8990	his
+T290	PRON_PER 9062 9064	he
+T291	PRON_PER 9123 9125	we
+T292	PRON_PER 9135 9138	our
+T293	PRON_PER 9151 9154	our
+T294	PRON_PER 9171 9172	I
+T295	PRON_PER 9219 9221	me
+T296	PRON_PER 9240 9241	I
+T297	PRON_PER 9251 9253	my
+T298	PRON_PER 9266 9269	Our
+T299	PRON_PER 9290 9293	our
+T300	PRON_PER 9389 9391	He
+T301	PRON_PER 9410 9413	his
+T302	PRON_PER 9476 9478	he
+T303	PRON_PER 9540 9543	his
+T304	PRON_PER 9599 9602	her
+T305	PRON_PER 9633 9636	she
+T306	PRON_PER 9719 9721	he
+T307	PRON_PER 9820 9822	My
+T308	PRON_PER 9848 9850	he
+T309	PRON_PER 9885 9887	me
+T310	PRON_PER 9888 9889	I
+T311	PRON_PER 9913 9916	you
+T312	PRON_PER 9982 9983	I
+T313	PRON_PER 10011 10015	your
+T314	PRON_PER 10052 10054	my
+T315	NOM_VEH 170 180	the chaise
+T316	NOM_PER 825 846	the Chichester ladies
+T317	NOM_PER 5365 5375	the family
+T318	NOM_PER 8195 8210	him who wore it
+T407	A_BOARDING_SCHOOL-0 21 38	A BOARDING SCHOOL
+T458	Belcour-1 47 50	you
+T320	Montraville-2 71 82	Montraville
+T319	Belcour-1 86 99	his companion
+T459	Montraville-2 86 89	his
+T460	Montraville_Belcour-3 105 109	they
+T461	Belcour-1 135 138	you
+T462	Montraville_Belcour-3 161 163	we
+T634	the_chaise-4 170 180	the chaise
+T321	Portsmouth-5 196 206	Portsmouth
+T408	Belcour-1 211 218	Belcour
+T463	Montraville_Belcour-3 246 250	they
+T323	Chichester-6 273 281	the town
+T324	the_inhabitants-7 307 322	the inhabitants
+T464	the_inhabitants-7 328 332	they
+T322	church-8 347 353	church
+T409	Montraville-2 356 367	Montraville
+T410	the_army-9 388 396	the army
+T329	Belcour-1 399 406	Belcour
+T465	Montraville-2 411 414	his
+T466	Montraville_Belcour-3 433 437	they
+T326	their_friends-10 464 477	their friends
+T467	Montraville_Belcour-3 464 469	their
+T468	Montraville_Belcour-3 490 495	their
+T325	America-11 510 517	America
+T328	Portsmouth-5 546 605	Portsmouth , where the troops waited orders for embarkation
+T412	Montraville_Belcour-3 565 575	the troops
+T469	Montraville_Belcour-3 608 612	They
+T331	Chichester-6 628 638	Chichester
+T470	Montraville_Belcour-3 661 665	they
+T413	Portsmouth-5 695 719	the place of destination
+T471	Montraville_Belcour-3 748 752	them
+T330	Chichester-6 829 839	Chichester
+T635	the_Chichester_ladies-12 825 846	the Chichester ladies
+T472	the_Chichester_ladies-12 850 854	they
+T473	the_Chichester_ladies-12 869 874	their
+T474	Montraville_Belcour-3 887 891	They
+T475	Montraville_Belcour-3 906 911	their
+T333	the_inn-13 956 963	the inn
+T414	the_belles-14 989 999	the belles
+T415	Madame_Du_Pont-15 1030 1044	Madame Du Pont
+T416	A_BOARDING_SCHOOL-0 1062 1072	her school
+T476	Madame_Du_Pont-15 1062 1065	her
+T332	church-8 1090 1100	the church
+T334	Montraville_Belcour-3 1165 1183	the young soldiers
+T477	Montraville_Belcour-3 1186 1190	they
+T417	an_assemblage_of_youth_and_innocence-16 1108 1144	an assemblage of youth and innocence
+T418	an_assemblage_of_youth_and_innocence-16 1210 1230	the little cavalcade
+T478	Montraville_Belcour-3 1272 1277	their
+T338	Charlotte_Temple-17 1285 1306	A tall , elegant girl
+T337	Montraville-2 1317 1328	Montraville
+T479	Montraville-2 1343 1345	he
+T335	Charlotte_Temple-17 1384 1464	Charlotte Temple , whom he had once seen and danced with at a ball at Portsmouth
+T480	Montraville-2 1408 1410	he
+T336	Portsmouth-5 1454 1464	Portsmouth
+T481	Montraville-2 1480 1482	he
+T482	Charlotte_Temple-17 1494 1497	her
+T483	Charlotte_Temple-17 1528 1531	she
+T340	Charlotte_Temple-17 1601 1611	her person
+T484	Charlotte_Temple-17 1601 1604	her
+T485	Charlotte_Temple-17 1659 1662	her
+T486	Charlotte_Temple-17 1673 1676	she
+T487	Montraville-2 1698 1701	his
+T488	Montraville-2 1744 1747	him
+T489	Montraville-2 1790 1793	him
+T490	Montraville-2 1828 1830	he
+T491	Montraville-2 1871 1874	him
+T492	Charlotte_Temple-17 1890 1893	her
+T493	Charlotte_Temple-17 1904 1907	She
+T342	the_world-18 1932 1941	the world
+T494	Montraville-2 1951 1953	he
+T495	Montraville-2 1959 1961	he
+T341	the_inn-13 1970 1977	the inn
+T419	Belcour-1 1980 1987	Belcour
+T496	Belcour-1 2003 2006	you
+T497	Charlotte_Temple-17 2018 2021	her
+T420	Montraville-2 2036 2047	Montraville
+T498	Charlotte_Temple-17 2052 2055	she
+T499	Montraville-2 2153 2155	me
+T346	Belcour-1 2209 2216	Belcour
+T345	our_friends-19 2240 2251	our friends
+T500	Montraville_Belcour-3 2240 2243	our
+T501	Montraville-2 2303 2306	you
+T502	Montraville-2 2324 2325	I
+T421	Montraville-2 2364 2375	Montraville
+T347	any_kind_Familiar_who_would_inform_me_who_the_girl_is___and_how_I_might_be_likely_to_obtain_an_interview-20 2466 2570	any kind Familiar who would inform me who the girl is , and how I might be likely to obtain an interview
+T503	Montraville-2 2501 2503	me
+T348	Charlotte_Temple-17 2508 2516	the girl
+T504	Montraville-2 2530 2531	I
+T349	no_kind_Familiar-21 2579 2595	no kind Familiar
+T422	the_chaise-4 2625 2658	the chaise which they had ordered
+T505	Montraville_Belcour-3 2642 2646	they
+T352	Montraville-2 2686 2697	Montraville
+T350	Belcour-1 2702 2715	his companion
+T506	Montraville-2 2702 2705	his
+T353	Chichester-6 2746 2756	Chichester
+T351	Charlotte_Temple-17 2761 2780	its fair inhabitant
+T507	Montraville_Belcour-3 2798 2803	their
+T354	Charlotte_Temple-17 2818 2827	Charlotte
+T508	Montraville-2 2864 2867	his
+T509	Charlotte_Temple-17 2954 2957	her
+T510	Charlotte_Temple-17 3007 3010	her
+T511	Montraville-2 3013 3015	he
+T423	Chichester-6 3042 3052	Chichester
+T512	Montraville-2 3105 3108	his
+T357	Chichester-6 3144 3152	the town
+T513	Montraville-2 3155 3157	he
+T355	the_servant-22 3183 3194	the servant
+T424	an_extensive_pleasure_ground-23 3274 3302	an extensive pleasure ground
+T425	A_BOARDING_SCHOOL-0 3311 3366	the mansion which contained the lovely Charlotte Temple
+T356	Charlotte_Temple-17 3339 3366	the lovely Charlotte Temple
+T455	the_place-24 3238 3247	the place
+T426	Montraville-2 3369 3380	Montraville
+T358	A_BOARDING_SCHOOL-0 3431 3440	the house
+T514	Montraville-2 3629 3631	he
+T515	Montraville-2 3647 3648	I
+T516	Charlotte_Temple-17 3692 3695	her
+T517	Montraville-2 3732 3733	I
+T361	England-25 3758 3765	England
+T518	Montraville-2 3830 3831	I
+T359	Charlotte_Temple-17 3870 3886	this lovely girl
+T519	Charlotte_Temple-17 3903 3906	her
+T520	Charlotte_Temple-17 3962 3965	she
+T521	Montraville-2 3980 3981	I
+T362	Portsmouth-5 3997 4007	Portsmouth
+T522	Charlotte_Temple-17 4032 4035	her
+T364	Montraville-2 4202 4213	Montraville
+T524	Montraville-2 4287 4288	I
+T525	Charlotte_Temple-17 4303 4306	her
+T526	Montraville-2 4324 4326	he
+T360	the_place-24 4367 4376	the place
+T527	Montraville-2 4386 4388	he
+T528	Montraville-2 4398 4400	he
+T363	an_extensive_pleasure_ground-23 4427 4447	the pleasure grounds
+T365	two_women-26 4459 4468	two women
+T529	Montraville-2 4523 4524	I
+T530	Montraville-2 4566 4568	he
+T531	Montraville-2 4571 4573	He
+T532	two_women-26 4583 4587	them
+T533	two_women-26 4601 4605	them
+T534	two_women-26 4659 4663	them
+T367	Chichester-6 4698 4706	the town
+T535	Montraville-2 4721 4723	he
+T536	Montraville-2 4767 4769	he
+T366	Charlotte_Temple-17 4837 4853	Charlotte Temple
+T537	Montraville-2 4856 4858	He
+T538	Montraville-2 4890 4897	himself
+T427	Temple_companion_French_teacher-27 4903 4957	her companion , who was a French teacher at the school
+T539	Charlotte_Temple-17 4903 4906	her
+T368	Temple_companion_French_teacher-27 4927 4957	a French teacher at the school
+T540	Montraville-2 4996 4998	he
+T428	Charlotte_Temple-17 5028 5037	Charlotte
+T429	Temple_companion_French_teacher-27 5078 5090	Mademoiselle
+T541	Temple_companion_French_teacher-27 5106 5109	she
+T430	Charlotte_Temple-17 5135 5151	her young charge
+T542	Temple_companion_French_teacher-27 5135 5138	her
+T431	an_extensive_pleasure_ground-23 5157 5166	the field
+T369	MR__Temple-28 5225 5235	MR. Temple
+T432	a_nobleman_whose_fortune_was_by_no_means_adequate_to_the_antiquity___grandeur___and_I_may_add___pride_of_the_family-29 5260 5375	a nobleman whose fortune was by no means adequate to the antiquity , grandeur , and I may add , pride of the family
+T543	narrator-30 5344 5345	I
+T544	MR__Temple-28 5378 5380	He
+T374	his_elder_brother-31 5385 5402	his elder brother
+T545	MR__Temple-28 5385 5388	his
+T434	a_disagreeable_woman___whose_fortune_helped_to_prop_the_sinking_dignity_of_the_house-32 5440 5524	a disagreeable woman , whose fortune helped to prop the sinking dignity of the house
+T636	the_family-33 5365 5375	the family
+T373	the_family-33 5515 5524	the house
+T546	MR__Temple-28 5531 5533	he
+T370	his_sisters-34 5541 5552	his sisters
+T547	MR__Temple-28 5541 5544	his
+T371	old___decrepid_men-35 5576 5594	old , decrepid men
+T548	his_sisters-34 5615 5619	them
+T453	the_world-18 5647 5656	the world
+T549	his_sisters-34 5688 5692	them
+T550	MR__Temple-28 5718 5719	I
+T551	MR__Temple-28 5784 5786	he
+T552	MR__Temple-28 5791 5792	I
+T553	MR__Temple-28 5822 5823	I
+T375	a_cottage-36 5836 5845	a cottage
+T556	MR__Temple-28 5892 5893	I
+T376	MR__Temple-28 5927 5937	Mr. Temple
+T557	MR__Temple-28 6015 6017	he
+T558	MR__Temple-28 6085 6088	his
+T559	MR__Temple-28 6109 6112	him
+T560	MR__Temple-28 6130 6133	his
+T561	MR__Temple-28 6164 6167	his
+T562	MR__Temple-28 6177 6179	He
+T563	MR__Temple-28 6308 6310	he
+T564	MR__Temple-28 6319 6326	himself
+T565	MR__Temple-28 6332 6334	he
+T372	the_unfortunate-37 6377 6392	the unfortunate
+T566	MR__Temple-28 6395 6398	his
+T567	MR__Temple-28 6467 6469	he
+T568	MR__Temple-28 6539 6542	his
+T569	MR__Temple-28 6589 6592	You
+T379	Blakeney_officer-38 6626 6641	a young officer
+T570	MR__Temple-28 6645 6648	him
+T571	Blakeney_officer-38 6665 6666	I
+T572	MR__Temple-28 6693 6696	you
+T573	MR__Temple-28 6740 6744	your
+T574	Blakeney_officer-38 6762 6765	You
+T575	MR__Temple-28 6781 6783	me
+T380	MR__Temple-28 6798 6804	Temple
+T576	MR__Temple-28 6844 6845	I
+T435	my_fellow_creatures-39 6868 6887	my fellow creatures
+T577	MR__Temple-28 6868 6870	my
+T382	Blakeney_officer-38 6919 6932	the young man
+T578	Mr__Temple_young_man-40 6937 6939	we
+T436	Captain_Eldridge-41 6958 7010	a man who is not in so good a lodging as he deserves
+T437	captain_s_apartment-42 6978 7010	so good a lodging as he deserves
+T579	Captain_Eldridge-41 6999 7001	he
+T580	Captain_Eldridge-41 7036 7038	he
+T381	an_angel-43 7043 7051	an angel
+T581	Captain_Eldridge-41 7057 7060	him
+T582	Captain_Eldridge-41 7089 7092	him
+T583	Captain_Eldridge-41 7095 7097	he
+T584	Captain_Eldridge-41 7130 7133	his
+T438	Blakeney_officer-38 7150 7163	The young man
+T439	MR__Temple-28 7203 7209	Temple
+T585	Blakeney_officer-38 7234 7237	his
+T586	Blakeney_officer-38 7286 7289	him
+T587	Mr__Temple_young_man-40 7307 7311	they
+T385	Blakeney_officer-38 7342 7353	The officer
+T386	Captain_Eldridge-41 7367 7383	Captain Eldridge
+T387	a_person-44 7386 7394	a person
+T588	Mr__Temple_young_man-40 7399 7403	them
+T383	several_pair_of_dirty_stairs-45 7407 7435	several pair of dirty stairs
+T384	the_Fleet_prison-46 7323 7339	the Fleet prison
+T388	captain_s_apartment-42 7474 7503	a miserable , small apartment
+T389	captain_s_apartment-42 7520 7539	the Captain ’s room
+T390	Captain_Eldridge-41 7520 7531	the Captain
+T391	Blakeney_officer-38 7556 7593	The officer , whose name was Blakeney
+T589	Blakeney_officer-38 7668 7670	He
+T440	MR__Temple-28 7707 7713	Temple
+T590	Temple_companion_French_teacher-27 7737 7740	him
+T441	captain_s_apartment-42 7773 7786	The apartment
+T591	Captain_Eldridge-41 7886 7889	his
+T592	Captain_Eldridge-41 7909 7912	his
+T593	Captain_Eldridge-41 7920 7923	his
+T594	Captain_Eldridge-41 7967 7970	him
+T442	Captain_Eldridge-41 7977 8210	an aged man in a Lieutenant ’s uniform , which , though threadbare , would sooner call a blush of shame into the face of those who could neglect real merit , than cause the hectic of confusion to glow on the cheeks of him who wore it
+T443	those_who_could_neglect_real_merit-47 8098 8132	those who could neglect real merit
+T637	him_who_wore_it-48 8195 8210	him who wore it
+T596	Captain_Eldridge-41 8220 8223	him
+T392	Miss_Eldridge-49 8228 8276	a lovely creature busied in painting a fan mount
+T597	Miss_Eldridge-49 8279 8282	She
+T598	Miss_Eldridge-49 8340 8343	her
+T599	Miss_Eldridge-49 8377 8380	Her
+T600	Miss_Eldridge-49 8402 8405	her
+T601	Miss_Eldridge-49 8592 8595	her
+T602	Miss_Eldridge-49 8632 8635	she
+T445	MR__Temple-28 8686 8692	Temple
+T603	Miss_Eldridge-49 8703 8706	she
+T446	a_courtly_belle-50 8761 8776	a courtly belle
+T604	Mr__Temple_young_man-40 8784 8788	they
+T393	Captain_Eldridge-41 8799 8810	the old man
+T605	Captain_Eldridge-41 8822 8825	his
+T395	Blakeney_officer-38 8845 8853	Blakeney
+T394	MR__Temple-28 8898 8904	Temple
+T606	Captain_Eldridge-41 8905 8908	his
+T396	captain_s_apartment-42 8946 8954	the room
+T607	Captain_Eldridge-41 8964 8971	himself
+T608	Captain_Eldridge-41 8987 8990	his
+T609	Captain_Eldridge-41 9062 9064	he
+T397	MR__Temple-28 9068 9074	Temple
+T399	visitors_of_distinction-51 9090 9113	visitors of distinction
+T610	we-52 9123 9125	we
+T611	we-52 9135 9138	our
+T612	we-52 9151 9154	our
+T613	Captain_Eldridge-41 9171 9172	I
+T614	Captain_Eldridge-41 9219 9221	me
+T454	captain_s_apartment-42 9222 9226	here
+T615	Captain_Eldridge-41 9240 9241	I
+T616	Captain_Eldridge-41 9251 9253	my
+T617	Our-53 9266 9269	Our
+T618	Our-53 9290 9293	our
+T400	Miss_Eldridge-49 9323 9337	that poor girl
+T398	the_philosopher-54 9348 9363	the philosopher
+T401	the_father-55 9376 9386	the father
+T619	Captain_Eldridge-41 9389 9391	He
+T620	Captain_Eldridge-41 9410 9413	his
+T621	Captain_Eldridge-41 9476 9478	he
+T402	a_sailor-56 9517 9525	a sailor
+T403	MR__Temple-28 9528 9534	Temple
+T622	MR__Temple-28 9540 9543	his
+T404	Miss_Eldridge-49 9551 9564	Miss Eldridge
+T623	Miss_Eldridge-49 9599 9602	her
+T624	Miss_Eldridge-49 9633 9636	she
+T625	Captain_Eldridge-41 9719 9721	he
+T444	Blakeney_officer-38 9820 9829	My friend
+T626	MR__Temple-28 9820 9822	My
+T405	Blakeney_officer-38 9830 9838	Blakeney
+T627	MR__Temple-28 9848 9850	he
+T406	Captain_Eldridge-41 9864 9875	the old man
+T628	MR__Temple-28 9885 9887	me
+T629	MR__Temple-28 9888 9889	I
+T630	Captain_Eldridge-41 9913 9916	you
+T447	Captain_Eldridge-41 9942 9945	Sir
+T631	MR__Temple-28 9982 9983	I
+T632	Captain_Eldridge-41 10011 10015	your
+T633	MR__Temple-28 10052 10054	my
+R1	cop Arg1:T92 Arg2:T90
+R2	cop Arg1:T8 Arg2:T10
+R3	cop Arg1:T20 Arg2:T163
+R4	cop Arg1:T24 Arg2:T174
+R5	appos Arg1:T25 Arg2:T26
+R6	cop Arg1:T114 Arg2:T50
+R7	cop Arg1:T58 Arg2:T246
+R8	cop Arg1:T59 Arg2:T250
+T339	Chichester-6 2761 2764	its
+T343	PRON_FAC 3469 3471	it
+T344	A_BOARDING_SCHOOL-0 3469 3471	it
+T129	PRON_GPE 2761 2764	its

@@ -1,0 +1,668 @@
+MENTION	T1	1	12	1	16	the little town of Hanover	GPE	NOM
+MENTION	T2	1	22	1	22	Nebraska	GPE	PROP
+MENTION	T3	2	13	2	15	low drab buildings	FAC	NOM
+MENTION	T5	5	32	5	33	the town	GPE	NOM
+MENTION	T6	5	0	5	2	The main street	FAC	NOM
+MENTION	T7	5	16	5	20	the squat red railway station	FAC	NOM
+MENTION	T8	5	35	5	37	the lumber yard	FAC	NOM
+MENTION	T9	6	27	6	29	the feed store	FAC	NOM
+MENTION	T10	6	23	6	25	the drug store	FAC	NOM
+MENTION	T11	6	11	6	12	wooden buildings	FAC	NOM
+MENTION	T12	6	4	6	5	this road	FAC	NOM
+MENTION	T13	7	16	7	17	the shopkeepers	PER	NOM
+MENTION	T14	8	0	8	1	The children	PER	NOM
+MENTION	T15	8	13	8	14	the streets	FAC	NOM
+MENTION	T16	9	23	9	24	one store	FAC	NOM
+MENTION	T18	9	8	9	8	town	GPE	NOM
+MENTION	T19	9	5	9	6	their wives	PER	NOM
+MENTION	T21	10	4	10	5	the street	FAC	NOM
+MENTION	T24	12	1	12	2	the sidewalk	FAC	NOM
+MENTION	T25	12	11	12	14	a little Swede boy	PER	NOM
+MENTION	T27	14	15	14	18	a little old man	PER	NOM
+MENTION	T28	18	12	18	13	the store	FAC	NOM
+MENTION	T29	21	9	21	10	his sister	PER	NOM
+MENTION	T30	21	0	21	1	The boy	PER	NOM
+MENTION	T31	21	13	21	16	the doctor 's office	FAC	NOM
+MENTION	T32	21	6	21	7	the store	FAC	NOM
+MENTION	T33	23	0	23	1	Her master	PER	NOM
+MENTION	T34	24	8	24	9	this village	GPE	NOM
+MENTION	T35	24	2	24	5	a little country boy	PER	NOM
+MENTION	T36	27	11	27	12	his sister	PER	NOM
+MENTION	T37	28	3	28	7	a tall , strong girl	PER	NOM
+MENTION	T38	28	0	28	1	His sister	PER	NOM
+MENTION	T39	29	31	29	33	a young soldier	PER	NOM
+MENTION	T40	31	4	31	6	the little boy	PER	NOM
+MENTION	T41	34	6	34	7	the store	FAC	NOM
+MENTION	T43	37	0	37	1	A man	PER	NOM
+MENTION	T45	47	7	47	7	town	GPE	NOM
+MENTION	T48	52	5	52	6	the store	FAC	NOM
+MENTION	T50	58	4	58	4	girl	PER	NOM
+MENTION	T51	60	17	60	18	the sidewalk	FAC	NOM
+MENTION	T52	60	2	60	5	the little clothing drummer	PER	NOM
+MENTION	T53	61	11	61	12	the bartender	PER	NOM
+MENTION	T54	64	1	64	2	a drummer	PER	NOM
+MENTION	T55	64	43	64	44	a man	PER	NOM
+MENTION	T56	65	24	65	25	Carl Linstrum	PER	PROP
+MENTION	T57	65	14	65	16	the drug store	FAC	NOM
+MENTION	T58	65	1	65	3	the little drummer	PER	NOM
+MENTION	T59	66	19	66	19	Hanover	GPE	PROP
+MENTION	T60	66	18	66	23	the Hanover women who did china-painting	PER	NOM
+MENTION	T61	67	15	67	15	Emil	PER	PROP
+MENTION	T62	67	6	67	7	the boy	PER	NOM
+MENTION	T65	73	8	73	8	Alexandra	PER	PROP
+MENTION	T66	74	5	74	7	the drug store	FAC	NOM
+MENTION	T67	80	11	80	14	her tearful little master	PER	NOM
+MENTION	T69	82	5	82	6	the child	PER	NOM
+MENTION	T70	86	3	86	4	the doctor	PER	NOM
+MENTION	T71	89	3	89	3	father	PER	NOM
+MENTION	T72	91	4	91	6	the bleak street	FAC	NOM
+MENTION	T74	98	0	98	2	The two friends	PER	NOM
+MENTION	T75	99	1	99	1	Carl	PER	PROP
+MENTION	T76	100	3	100	4	the store	FAC	NOM
+MENTION	T77	103	13	103	14	her mother	PER	NOM
+MENTION	T78	103	20	103	21	Joe Tovesky	PER	PROP
+MENTION	T79	103	17	103	18	her uncle	PER	NOM
+MENTION	T82	105	27	105	27	Colorado	GPE	PROP
+MENTION	T83	1	0	1	2	The Wild Land	LOC	NOM
+MENTION	T84	2	18	2	20	the gray prairie	LOC	NOM
+MENTION	T85	3	0	3	1	The dwelling-houses	FAC	NOM
+MENTION	T4	3	39	3	41	the open plain	LOC	NOM
+MENTION	T86	5	4	5	45	a deeply rutted road , now frozen hard , which ran from the squat red railway station and the grain “ elevator ” at the north end of the town to the lumber yard and the horse pond at the south end	FAC	NOM
+MENTION	T87	5	22	5	26	the grain “ elevator ”	FAC	NOM
+MENTION	T88	5	28	5	33	the north end of the town	LOC	NOM
+MENTION	T89	5	39	5	41	the horse pond	LOC	NOM
+MENTION	T90	5	43	5	45	the south end	LOC	NOM
+MENTION	T91	6	14	6	17	the general merchandise stores	FAC	NOM
+MENTION	T92	6	19	6	21	the two banks	FAC	NOM
+MENTION	T93	6	31	6	32	the saloon	FAC	NOM
+MENTION	T94	6	34	6	35	the post-office	FAC	NOM
+MENTION	T95	7	0	7	2	The board sidewalks	FAC	NOM
+MENTION	T96	8	5	8	5	school	FAC	NOM
+MENTION	T97	8	16	8	22	a few rough-looking countrymen in coarse overcoats	PER	NOM
+MENTION	T17	9	29	9	29	another	FAC	NOM
+MENTION	T20	10	13	10	14	farm wagons	VEH	NOM
+MENTION	T22	11	1	11	2	the station	FAC	NOM
+MENTION	T23	11	12	11	13	another train	VEH	NOM
+MENTION	T98	12	8	12	9	the stores	FAC	NOM
+MENTION	T26	17	5	17	10	the few people who hurried by	PER	NOM
+MENTION	T99	18	5	18	6	any one	PER	NOM
+MENTION	T100	29	2	29	3	a man	PER	NOM
+MENTION	T101	33	3	33	3	Emil	PER	PROP
+MENTION	T42	36	4	36	4	sister	PER	NOM
+MENTION	T102	39	3	39	3	Emil	PER	PROP
+MENTION	T103	44	0	44	0	Alexandra	PER	PROP
+MENTION	T46	47	2	47	5	the Linstrums ' wagon	VEH	NOM
+MENTION	T104	48	9	48	9	Carl	PER	PROP
+MENTION	T47	56	13	56	14	the store	FAC	NOM
+MENTION	T49	56	19	56	20	the saloon	FAC	NOM
+MENTION	T105	56	0	56	20	A shabby little traveling man , who was just then coming out of the store on his way to the saloon	PER	NOM
+MENTION	T106	58	1	58	2	My God	PER	NOM
+MENTION	T107	60	30	60	31	the saloon	FAC	NOM
+MENTION	T108	64	8	64	10	little drab towns	GPE	NOM
+MENTION	T109	64	14	64	16	the wintry country	LOC	NOM
+MENTION	T110	64	18	64	19	dirty smoking-cars	VEH	NOM
+MENTION	T111	65	11	65	11	Alexandra	PER	PROP
+MENTION	T112	66	14	66	15	the druggist	PER	NOM
+MENTION	T113	67	0	67	0	Alexandra	PER	PROP
+MENTION	T114	68	10	68	10	Alexandra	PER	PROP
+MENTION	T115	69	3	69	4	the depot	FAC	NOM
+MENTION	T116	71	0	71	0	Carl	PER	PROP
+MENTION	T63	71	15	71	16	the street	FAC	NOM
+MENTION	T64	72	2	72	10	a tall boy of fifteen , slight and narrow-chested	PER	NOM
+MENTION	T117	76	6	76	6	Emil	PER	PROP
+MENTION	T118	77	0	77	0	Alexandra	PER	PROP
+MENTION	T119	77	11	77	12	the ground	LOC	NOM
+MENTION	T120	79	0	79	0	Carl	PER	PROP
+MENTION	T121	80	3	80	4	the ground	LOC	NOM
+MENTION	T68	81	4	81	5	the store	FAC	NOM
+MENTION	T122	81	9	81	9	Emil	PER	PROP
+MENTION	T123	83	5	83	5	Alexandra	PER	PROP
+MENTION	T124	90	0	90	1	The girl	PER	NOM
+MENTION	T125	93	0	93	0	Carl	PER	PROP
+MENTION	T126	95	2	95	11	a thin , frail boy , with brooding dark eyes	PER	NOM
+MENTION	T127	96	17	96	18	a boy	PER	NOM
+MENTION	T73	98	9	98	12	the windy street corner	FAC	NOM
+MENTION	T128	98	20	98	36	two travelers , who have lost their way , sometimes stand and admit their perplexity in silence	PER	NOM
+MENTION	T129	100	0	100	0	Alexandra	PER	PROP
+MENTION	T130	101	4	101	4	Emil	PER	PROP
+MENTION	T131	101	14	101	24	the staircase that led up to the clothing and carpet department	FAC	NOM
+MENTION	T132	102	4	102	7	a little Bohemian girl	PER	NOM
+MENTION	T133	102	9	102	10	Marie Tovesky	PER	PROP
+MENTION	T134	103	0	103	0	Marie	PER	PROP
+MENTION	T80	103	11	103	11	Omaha	GPE	PROP
+MENTION	T135	104	2	104	27	a dark child , with brown curly hair , like a brunette doll 's , a coaxing little red mouth , and round , yellow-brown eyes	PER	NOM
+MENTION	T81	1	20	1	23	a windy Nebraska tableland	LOC	NOM
+MENTION	T136	64	32	64	35	a fine human creature	PER	NOM
+MENTION	T44	47	2	47	3	the Linstrums	PER	NOM
+MENTION	T137	24	21	24	21	people	PER	NOM
+MENTION	T138	103	5	103	6	the country	LOC	NOM
+MENTION	T139	103	2	103	6	a stranger in the country	PER	NOM
+MENTION	T140	105	0	105	1	Every one	PER	NOM
+MENTION	T141	8	10	8	10	nobody	PER	NOM
+MENTION	T142	25	6	25	6	here	GPE	NOM
+MENTION	T143	66	0	66	0	There	FAC	NOM
+MENTION	T144	24	13	24	28	a very strange and perplexing place , where people wore fine clothes and had hard hearts	GPE	NOM
+MENTION	T145	65	18	65	25	the most likely place to find Carl Linstrum	FAC	NOM
+MENTION	T146	84	10	84	11	our place	FAC	NOM
+MENTION	T149	3	14	3	14	them	FAC	PRON
+MENTION	T150	3	18	3	18	they	FAC	PRON
+MENTION	T151	3	29	3	29	they	FAC	PRON
+MENTION	T152	3	34	3	34	themselves	FAC	PRON
+MENTION	T153	4	2	4	2	them	FAC	PRON
+MENTION	T154	4	15	4	15	them	FAC	PRON
+MENTION	T155	4	20	4	20	them	FAC	PRON
+MENTION	T156	7	29	7	29	their	PER	PRON
+MENTION	T157	8	25	8	25	their	PER	PRON
+MENTION	T158	8	31	8	31	their	PER	PRON
+MENTION	T159	9	2	9	2	them	PER	PRON
+MENTION	T160	9	5	9	5	their	PER	PRON
+MENTION	T162	13	0	13	0	He	PER	PRON
+MENTION	T163	14	0	14	0	His	PER	PRON
+MENTION	T164	14	9	14	9	him	PER	PRON
+MENTION	T165	14	12	14	12	him	PER	PRON
+MENTION	T166	15	0	15	0	His	PER	PRON
+MENTION	T167	15	21	15	21	his	PER	PRON
+MENTION	T168	15	27	15	27	his	PER	PRON
+MENTION	T169	16	0	16	0	His	PER	PRON
+MENTION	T170	16	6	16	6	his	PER	PRON
+MENTION	T171	16	9	16	9	his	PER	PRON
+MENTION	T172	16	12	16	12	his	PER	PRON
+MENTION	T173	17	0	17	0	He	PER	PRON
+MENTION	T174	17	14	17	14	him	PER	PRON
+MENTION	T175	18	0	18	0	He	PER	PRON
+MENTION	T176	18	20	18	20	he	PER	PRON
+MENTION	T177	18	23	18	23	his	PER	PRON
+MENTION	T178	18	33	18	33	him	PER	PRON
+MENTION	T179	18	38	18	38	My	PER	PRON
+MENTION	T180	18	43	18	43	my	PER	PRON
+MENTION	T183	21	9	21	9	his	PER	PRON
+MENTION	T184	21	20	21	20	her	PER	PRON
+MENTION	T185	21	26	21	26	his	PER	PRON
+MENTION	T188	24	0	24	0	He	PER	PRON
+MENTION	T189	24	12	24	12	him	PER	PRON
+MENTION	T190	25	0	25	0	He	PER	PRON
+MENTION	T191	25	21	25	21	him	PER	PRON
+MENTION	T192	26	3	26	3	he	PER	PRON
+MENTION	T193	27	2	27	2	he	PER	PRON
+MENTION	T194	27	11	27	11	his	PER	PRON
+MENTION	T195	27	17	27	17	he	PER	PRON
+MENTION	T196	27	23	27	23	her	PER	PRON
+MENTION	T197	27	25	27	25	his	PER	PRON
+MENTION	T198	28	0	28	0	His	PER	PRON
+MENTION	T199	28	10	28	10	she	PER	PRON
+MENTION	T200	28	18	28	18	she	PER	PRON
+MENTION	T201	28	22	28	22	she	PER	PRON
+MENTION	T202	28	27	28	27	she	PER	PRON
+MENTION	T203	29	0	29	0	She	PER	PRON
+MENTION	T204	29	26	29	26	her	PER	PRON
+MENTION	T205	30	0	30	0	She	PER	PRON
+MENTION	T206	30	9	30	9	her	PER	PRON
+MENTION	T207	30	30	30	30	she	PER	PRON
+MENTION	T208	31	0	31	0	She	PER	PRON
+MENTION	T209	31	8	31	8	he	PER	PRON
+MENTION	T210	31	10	31	10	her	PER	PRON
+MENTION	T211	32	1	32	1	she	PER	PRON
+MENTION	T212	32	9	32	9	his	PER	PRON
+MENTION	T213	34	0	34	0	I	PER	PRON
+MENTION	T214	34	2	34	2	you	PER	PRON
+MENTION	T215	35	5	35	5	you	PER	PRON
+MENTION	T216	36	1	36	1	My	PER	PRON
+MENTION	T217	36	6	36	6	my	PER	PRON
+MENTION	T220	38	0	38	0	His	PER	PRON
+MENTION	T221	38	8	38	8	his	PER	PRON
+MENTION	T222	40	2	40	2	I	PER	PRON
+MENTION	T223	40	4	40	4	you	PER	PRON
+MENTION	T225	40	8	40	8	us	PER	PRON
+MENTION	T226	40	16	40	16	you	PER	PRON
+MENTION	T228	41	2	41	2	you	PER	PRON
+MENTION	T229	41	4	41	4	me	PER	PRON
+MENTION	T230	42	3	42	3	I	PER	PRON
+MENTION	T231	42	9	42	9	myself	PER	PRON
+MENTION	T232	43	0	43	0	She	PER	PRON
+MENTION	T233	43	11	43	11	her	PER	PRON
+MENTION	T236	47	0	47	0	I	PER	PRON
+MENTION	T237	48	0	48	0	I	PER	PRON
+MENTION	T238	48	6	48	6	I	PER	PRON
+MENTION	T239	49	1	49	1	he	PER	PRON
+MENTION	T240	50	1	50	1	you	PER	PRON
+MENTION	T241	50	7	50	7	I	PER	PRON
+MENTION	T242	51	2	51	2	your	PER	PRON
+MENTION	T243	52	1	52	1	you	PER	PRON
+MENTION	T244	54	4	54	4	I	PER	PRON
+MENTION	T245	54	8	54	8	you	PER	PRON
+MENTION	T246	55	0	55	0	She	PER	PRON
+MENTION	T247	55	6	55	6	her	PER	PRON
+MENTION	T248	55	12	55	12	his	PER	PRON
+MENTION	T249	56	16	56	16	his	PER	PRON
+MENTION	T250	56	32	56	32	she	PER	PRON
+MENTION	T251	56	35	56	35	she	PER	PRON
+MENTION	T252	56	38	56	38	her	PER	PRON
+MENTION	T253	56	47	56	47	her	PER	PRON
+MENTION	T254	56	64	56	64	her	PER	PRON
+MENTION	T255	57	0	57	0	He	PER	PRON
+MENTION	T256	57	2	57	2	his	PER	PRON
+MENTION	T257	57	6	57	6	his	PER	PRON
+MENTION	T258	57	17	57	17	his	PER	PRON
+MENTION	T259	58	1	58	1	My	PER	PRON
+MENTION	T260	58	13	58	13	he	PER	PRON
+MENTION	T261	59	0	59	0	She	PER	PRON
+MENTION	T262	59	2	59	2	him	PER	PRON
+MENTION	T263	59	12	59	12	her	PER	PRON
+MENTION	T264	60	10	60	10	he	PER	PRON
+MENTION	T265	60	13	60	13	his	PER	PRON
+MENTION	T266	61	0	61	0	His	PER	PRON
+MENTION	T267	61	6	61	6	he	PER	PRON
+MENTION	T268	61	8	61	8	his	PER	PRON
+MENTION	T269	62	0	62	0	His	PER	PRON
+MENTION	T270	63	0	63	0	He	PER	PRON
+MENTION	T271	63	14	63	14	him	PER	PRON
+MENTION	T272	64	22	64	22	he	PER	PRON
+MENTION	T273	64	29	64	29	he	PER	PRON
+MENTION	T274	64	37	64	37	he	PER	PRON
+MENTION	T275	64	40	64	40	himself	PER	PRON
+MENTION	T276	65	8	65	8	his	PER	PRON
+MENTION	T277	66	1	66	1	he	PER	PRON
+MENTION	T278	67	2	67	2	her	PER	PRON
+MENTION	T279	67	9	67	9	her	PER	PRON
+MENTION	T280	68	1	68	1	I	PER	PRON
+MENTION	T282	69	0	69	0	I	PER	PRON
+MENTION	T283	69	5	69	5	they	PER	PRON
+MENTION	T284	69	9	69	9	I	PER	PRON
+MENTION	T285	69	13	69	13	my	PER	PRON
+MENTION	T286	71	2	71	2	his	PER	PRON
+MENTION	T287	71	5	71	5	his	PER	PRON
+MENTION	T288	71	9	71	9	his	PER	PRON
+MENTION	T289	72	0	72	0	He	PER	PRON
+MENTION	T290	73	1	73	1	he	PER	PRON
+MENTION	T291	73	10	73	10	him	PER	PRON
+MENTION	T292	73	12	73	12	he	PER	PRON
+MENTION	T293	73	16	73	16	his	PER	PRON
+MENTION	T294	74	1	74	1	I	PER	PRON
+MENTION	T295	75	0	75	0	I	PER	PRON
+MENTION	T296	76	1	76	1	me	PER	PRON
+MENTION	T297	76	3	76	3	I	PER	PRON
+MENTION	T298	76	9	76	9	he	PER	PRON
+MENTION	T299	76	13	76	13	he	PER	PRON
+MENTION	T300	76	15	76	15	his	PER	PRON
+MENTION	T301	77	2	77	2	him	PER	PRON
+MENTION	T304	80	1	80	1	he	PER	PRON
+MENTION	T305	80	6	80	6	he	PER	PRON
+MENTION	T308	82	0	82	0	He	PER	PRON
+MENTION	T309	84	3	84	3	I	PER	PRON
+MENTION	T310	84	6	84	6	you	PER	PRON
+MENTION	T311	84	10	84	10	our	PER	PRON
+MENTION	T312	86	1	86	1	you	PER	PRON
+MENTION	T313	88	0	88	0	He	PER	PRON
+MENTION	T314	89	1	89	1	he	PER	PRON
+MENTION	T315	91	0	91	0	She	PER	PRON
+MENTION	T316	91	9	91	9	she	PER	PRON
+MENTION	T317	91	12	91	12	her	PER	PRON
+MENTION	T318	91	20	91	20	she	PER	PRON
+MENTION	T319	91	25	91	25	her	PER	PRON
+MENTION	T320	92	6	92	6	her	PER	PRON
+MENTION	T321	92	10	92	10	her	PER	PRON
+MENTION	T322	93	7	93	7	she	PER	PRON
+MENTION	T323	93	9	93	9	his	PER	PRON
+MENTION	T324	94	0	94	0	He	PER	PRON
+MENTION	T325	95	0	95	0	He	PER	PRON
+MENTION	T326	95	17	95	17	his	PER	PRON
+MENTION	T327	96	6	96	6	his	PER	PRON
+MENTION	T328	96	11	96	11	his	PER	PRON
+MENTION	T329	98	26	98	26	their	PER	PRON
+MENTION	T330	98	33	98	33	their	PER	PRON
+MENTION	T331	99	4	99	4	he	PER	PRON
+MENTION	T332	99	8	99	8	I	PER	PRON
+MENTION	T333	99	12	99	12	your	PER	PRON
+MENTION	T334	100	7	100	7	her	PER	PRON
+MENTION	T335	100	19	100	19	she	PER	PRON
+MENTION	T336	100	23	100	23	her	PER	PRON
+MENTION	T337	101	1	101	1	she	PER	PRON
+MENTION	T338	101	6	101	6	she	PER	PRON
+MENTION	T339	101	8	101	8	him	PER	PRON
+MENTION	T340	102	0	102	0	He	PER	PRON
+MENTION	T341	102	15	102	15	her	PER	PRON
+MENTION	T342	103	13	103	13	her	PER	PRON
+MENTION	T343	103	17	103	17	her	PER	PRON
+MENTION	T344	104	0	104	0	She	PER	PRON
+MENTION	T345	105	3	105	3	her	PER	PRON
+COREF	T83	The_Wild_Land-0
+COREF	T1	the_little_town_of_Hanover-1
+COREF	T81	a_windy_Nebraska_tableland-2
+COREF	T2	Nebraska-3
+COREF	T3	low_drab_buildings-4
+COREF	T84	the_gray_prairie-5
+COREF	T85	The_dwelling-houses-6
+COREF	T149	The_dwelling-houses-6
+COREF	T150	some_of_them-702
+COREF	T151	others-950
+COREF	T152	others-950
+COREF	T4	the_open_plain-7
+COREF	T153	The_dwelling-houses-6
+COREF	T154	The_dwelling-houses-6
+COREF	T155	The_dwelling-houses-6
+COREF	T6	The_main_street-8
+COREF	T7	train_station-9
+COREF	T87	the_grain___elevator__-10
+COREF	T88	the_north_end_of_the_town-11
+COREF	T5	the_little_town_of_Hanover-1
+COREF	T8	the_lumber_yard-12
+COREF	T89	the_horse_pond-13
+COREF	T90	the_south_end-14
+COREF	T12	The_main_street-8
+COREF	T11	wooden_buildings-15
+COREF	T91	all_stores-16
+COREF	T92	the_two_banks-17
+COREF	T10	the_drug_store-18
+COREF	T9	the_feed_store-19
+COREF	T93	the_saloon-20
+COREF	T94	the_post-office-21
+COREF	T95	The_board_sidewalks-22
+COREF	T13	the_shopkeepers-23
+COREF	T156	the_shopkeepers-23
+COREF	T14	The_children-24
+COREF	T96	school-25
+COREF	T141	nobody-26
+COREF	T15	the_streets-27
+COREF	T97	a_few_rough-looking_countrymen_in_coarse_overcoats-28
+COREF	T157	a_few_rough-looking_countrymen_in_coarse_overcoats-28
+COREF	T158	a_few_rough-looking_countrymen_in_coarse_overcoats-28
+COREF	T159	a_few_rough-looking_countrymen_in_coarse_overcoats-28
+COREF	T19	their_wives-29
+COREF	T160	a_few_rough-looking_countrymen_in_coarse_overcoats-28
+COREF	T18	the_little_town_of_Hanover-1
+COREF	T16	one_store-30
+COREF	T17	another-31
+COREF	T21	The_main_street-8
+COREF	T20	farm_wagons-32
+COREF	T22	train_station-9
+COREF	T23	another_train-33
+COREF	T24	the_sidewalk-34
+COREF	T98	all_stores-16
+COREF	T25	a_little_Swede_boy-35
+COREF	T162	a_little_Swede_boy-35
+COREF	T163	a_little_Swede_boy-35
+COREF	T164	a_little_Swede_boy-35
+COREF	T165	a_little_Swede_boy-35
+COREF	T166	a_little_Swede_boy-35
+COREF	T167	a_little_Swede_boy-35
+COREF	T168	a_little_Swede_boy-35
+COREF	T169	a_little_Swede_boy-35
+COREF	T170	a_little_Swede_boy-35
+COREF	T171	a_little_Swede_boy-35
+COREF	T172	a_little_Swede_boy-35
+COREF	T173	a_little_Swede_boy-35
+COREF	T26	the_few_people_who_hurried_by-36
+COREF	T174	a_little_Swede_boy-35
+COREF	T175	a_little_Swede_boy-35
+COREF	T99	any_one-37
+COREF	T28	the_store-38
+COREF	T176	a_little_Swede_boy-35
+COREF	T177	a_little_Swede_boy-35
+COREF	T178	a_little_Swede_boy-35
+COREF	T179	a_little_Swede_boy-35
+COREF	T180	a_little_Swede_boy-35
+COREF	T30	a_little_Swede_boy-35
+COREF	T32	the_store-38
+COREF	T29	his_sister-39
+COREF	T183	a_little_Swede_boy-35
+COREF	T31	the_doctor__s_office-40
+COREF	T184	his_sister-39
+COREF	T185	a_little_Swede_boy-35
+COREF	T33	a_little_Swede_boy-35
+COREF	T188	a_little_Swede_boy-35
+COREF	T34	the_little_town_of_Hanover-1
+COREF	T189	a_little_Swede_boy-35
+COREF	T137	people-41
+COREF	T190	a_little_Swede_boy-35
+COREF	T142	the_little_town_of_Hanover-1
+COREF	T191	a_little_Swede_boy-35
+COREF	T192	a_little_Swede_boy-35
+COREF	T193	a_little_Swede_boy-35
+COREF	T36	his_sister-39
+COREF	T194	a_little_Swede_boy-35
+COREF	T195	a_little_Swede_boy-35
+COREF	T196	his_sister-39
+COREF	T197	a_little_Swede_boy-35
+COREF	T38	his_sister-39
+COREF	T198	a_little_Swede_boy-35
+COREF	T199	his_sister-39
+COREF	T200	his_sister-39
+COREF	T201	his_sister-39
+COREF	T202	his_sister-39
+COREF	T203	his_sister-39
+COREF	T100	a_man-42
+COREF	T204	his_sister-39
+COREF	T205	his_sister-39
+COREF	T206	his_sister-39
+COREF	T207	his_sister-39
+COREF	T208	his_sister-39
+COREF	T40	a_little_Swede_boy-35
+COREF	T209	a_little_Swede_boy-35
+COREF	T210	his_sister-39
+COREF	T211	his_sister-39
+COREF	T212	a_little_Swede_boy-35
+COREF	T101	a_little_Swede_boy-35
+COREF	T213	his_sister-39
+COREF	T214	a_little_Swede_boy-35
+COREF	T41	the_store-38
+COREF	T215	a_little_Swede_boy-35
+COREF	T216	a_little_Swede_boy-35
+COREF	T42	his_sister-39
+COREF	T217	a_little_Swede_boy-35
+COREF	T43	A_man-43
+COREF	T220	a_little_Swede_boy-35
+COREF	T221	a_little_Swede_boy-35
+COREF	T102	a_little_Swede_boy-35
+COREF	T222	his_sister-39
+COREF	T223	a_little_Swede_boy-35
+COREF	T225	Emil_and_sister-44
+COREF	T226	a_little_Swede_boy-35
+COREF	T228	a_little_Swede_boy-35
+COREF	T229	his_sister-39
+COREF	T230	his_sister-39
+COREF	T231	his_sister-39
+COREF	T232	his_sister-39
+COREF	T233	his_sister-39
+COREF	T103	his_sister-39
+COREF	T236	his_sister-39
+COREF	T46	the_Linstrums___wagon-45
+COREF	T44	the_Linstrums-46
+COREF	T45	the_little_town_of_Hanover-1
+COREF	T237	his_sister-39
+COREF	T238	his_sister-39
+COREF	T104	Carl-47
+COREF	T239	Carl-47
+COREF	T240	a_little_Swede_boy-35
+COREF	T241	his_sister-39
+COREF	T242	a_little_Swede_boy-35
+COREF	T243	a_little_Swede_boy-35
+COREF	T48	the_store-38
+COREF	T244	his_sister-39
+COREF	T245	a_little_Swede_boy-35
+COREF	T246	his_sister-39
+COREF	T247	his_sister-39
+COREF	T248	a_little_Swede_boy-35
+COREF	T105	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T47	the_store-38
+COREF	T249	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T49	the_saloon-20
+COREF	T250	his_sister-39
+COREF	T251	his_sister-39
+COREF	T252	his_sister-39
+COREF	T253	his_sister-39
+COREF	T254	his_sister-39
+COREF	T255	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T256	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T257	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T258	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T106	My_God-49
+COREF	T259	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T50	his_sister-39
+COREF	T260	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T261	his_sister-39
+COREF	T262	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T263	his_sister-39
+COREF	T52	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T264	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T265	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T51	the_sidewalk-34
+COREF	T107	the_saloon-20
+COREF	T266	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T267	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T268	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T53	the_bartender-50
+COREF	T269	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T270	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T271	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T54	a_drummer-51
+COREF	T108	little_drab_towns-52
+COREF	T109	the_wintry_country-53
+COREF	T110	dirty_smoking-cars-54
+COREF	T272	he-55
+COREF	T273	he-55
+COREF	T136	a_fine_human_creature-56
+COREF	T274	he-55
+COREF	T275	he-55
+COREF	T55	he-55
+COREF	T58	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T276	A_shabby_little_traveling_man___who_was_just_then_coming_out_of_the_store_on_his_way_to_the_saloon-48
+COREF	T111	his_sister-39
+COREF	T57	the_drug_store-18
+COREF	T56	Carl-47
+COREF	T143	the_drug_store-18
+COREF	T277	Carl-47
+COREF	T112	the_druggist-57
+COREF	T60	the_Hanover_women_who_did_china-painting-58
+COREF	T59	Hanover-59
+COREF	T113	his_sister-39
+COREF	T278	his_sister-39
+COREF	T62	Carl-47
+COREF	T279	his_sister-39
+COREF	T61	a_little_Swede_boy-35
+COREF	T280	Carl-47
+COREF	T114	his_sister-39
+COREF	T282	Carl-47
+COREF	T115	the_depot-60
+COREF	T283	they-61
+COREF	T284	Carl-47
+COREF	T285	Carl-47
+COREF	T116	Carl-47
+COREF	T286	Carl-47
+COREF	T287	Carl-47
+COREF	T288	Carl-47
+COREF	T63	The_main_street-8
+COREF	T289	Carl-47
+COREF	T290	Carl-47
+COREF	T65	his_sister-39
+COREF	T291	Carl-47
+COREF	T292	Carl-47
+COREF	T293	Carl-47
+COREF	T294	Carl-47
+COREF	T66	the_drug_store-18
+COREF	T295	Carl-47
+COREF	T296	Carl-47
+COREF	T297	Carl-47
+COREF	T117	a_little_Swede_boy-35
+COREF	T298	Carl-47
+COREF	T299	Carl-47
+COREF	T300	Carl-47
+COREF	T118	his_sister-39
+COREF	T301	Carl-47
+COREF	T119	the_ground-62
+COREF	T120	Carl-47
+COREF	T304	Carl-47
+COREF	T121	the_ground-62
+COREF	T305	Carl-47
+COREF	T67	a_little_Swede_boy-35
+COREF	T68	the_store-38
+COREF	T122	a_little_Swede_boy-35
+COREF	T308	Carl-47
+COREF	T69	a_little_Swede_boy-35
+COREF	T123	his_sister-39
+COREF	T309	Carl-47
+COREF	T310	Emil_and_sister-44
+COREF	T146	our_place-63
+COREF	T311	our-64
+COREF	T312	his_sister-39
+COREF	T70	the_doctor-65
+COREF	T313	the_doctor-65
+COREF	T314	the_doctor-65
+COREF	T71	father-66
+COREF	T124	his_sister-39
+COREF	T315	his_sister-39
+COREF	T72	The_main_street-8
+COREF	T316	his_sister-39
+COREF	T317	his_sister-39
+COREF	T318	his_sister-39
+COREF	T319	his_sister-39
+COREF	T320	his_sister-39
+COREF	T321	his_sister-39
+COREF	T125	Carl-47
+COREF	T322	his_sister-39
+COREF	T323	Carl-47
+COREF	T324	Carl-47
+COREF	T325	Carl-47
+COREF	T326	Carl-47
+COREF	T327	Carl-47
+COREF	T328	Carl-47
+COREF	T127	a_boy-67
+COREF	T74	The_two_friends-68
+COREF	T73	the_windy_street_corner-69
+COREF	T128	two_travelers___who_have_lost_their_way___sometimes_stand_and_admit_their_perplexity_in_silence-70
+COREF	T329	two_travelers___who_have_lost_their_way___sometimes_stand_and_admit_their_perplexity_in_silence-70
+COREF	T330	two_travelers___who_have_lost_their_way___sometimes_stand_and_admit_their_perplexity_in_silence-70
+COREF	T75	Carl-47
+COREF	T331	Carl-47
+COREF	T332	Carl-47
+COREF	T333	Emil_and_sister-44
+COREF	T129	his_sister-39
+COREF	T76	the_store-38
+COREF	T334	his_sister-39
+COREF	T335	his_sister-39
+COREF	T336	his_sister-39
+COREF	T337	his_sister-39
+COREF	T130	a_little_Swede_boy-35
+COREF	T338	his_sister-39
+COREF	T339	a_little_Swede_boy-35
+COREF	T131	the_staircase_that_led_up_to_the_clothing_and_carpet_department-71
+COREF	T340	a_little_Swede_boy-35
+COREF	T341	her-72
+COREF	T134	her-72
+COREF	T138	the_country-73
+COREF	T80	Omaha-74
+COREF	T77	her_mother-75
+COREF	T342	her-72
+COREF	T79	her_uncle-76
+COREF	T343	her-72
+COREF	T344	her-72
+COREF	T140	Every_one-77
+COREF	T345	her-72
+COREF	T82	Colorado-78
+COP	T86	T6
+COP	T27	T165
+COP	T35	T188
+COP	T144	T35
+COP	T37	T38
+COP	T145	T57
+COP	T64	T289
+COP	T126	T325
+APPOS	T133	T132
+COP	T139	T134
+APPOS	T78	T79
+COP	T135	T344
+COREF	T39	a_young_soldier-700
+COREF	T132	her-72
+MENTION	T161	4	0	4	2	None of them	FAC	NOM
+COREF	T161	None_of_them-700
+MENTION	T182	46	0	46	0	Somebody	PER	NOM
+COREF	T182	Somebody-701
+MENTION	T187	3	12	3	14	some of them	FAC	NOM
+COREF	T187	some_of_them-702
+MENTION	T219	9	0	9	2	Some of them	PER	NOM
+COREF	T219	Some_of_them-703
+MENTION	T227	25	16	25	17	some one	PER	NOM
+COREF	T227	some_one-704
+MENTION	T235	63	8	63	9	some one	PER	NOM
+COREF	T235	some_one-705
+MENTION	T302	3	26	3	26	others	FAC	NOM
+COREF	T302	others-950

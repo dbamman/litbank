@@ -1,0 +1,466 @@
+T0	NOM_PER 72 124	the solitary neighbour that I shall be troubled with
+T2	NOM_GPE 170 181	all England
+T4	NOM_LOC 289 322	A perfect misanthropist 's heaven
+T5	PROP_PER 329 343	Mr. Heathcliff
+T7	PROP_PER 704 718	Mr. Heathcliff
+T11	NOM_PER 772 787	your new tenant
+T12	PROP_FAC 975 993	Thrushcross Grange
+T14	PROP_FAC 1047 1065	Thrushcross Grange
+T16	NOM_PER 1477 1533	a man who seemed more exaggeratedly reserved than myself
+T17	PROP_PER 1739 1751	Mr. Lockwood
+T19	NOM_PER 1832 1841	domestics
+T20	PROP_PER 2005 2011	Joseph
+T22	NOM_PER 2096 2104	The Lord
+T23	PROP_PER 2436 2450	Mr. Heathcliff
+T25	NOM_FAC 2801 2821	the end of the house
+T27	NOM_FAC 3035 3046	the corners
+T28	NOM_PER 2934 2947	the architect
+T29	NOM_FAC 3180 3189	the front
+T32	PROP_PER 3363 3379	Hareton Earnshaw
+T34	NOM_PER 3467 3482	the surly owner
+T35	NOM_FAC 3452 3461	the place
+T36	NOM_FAC 3649 3664	the penetralium
+T38	PROP_FAC 3873 3890	Wuthering Heights
+T42	PROP_PER 5548 5562	Mr. Heathcliff
+T43	NOM_FAC 5592 5601	his abode
+T45	NOM_PER 5731 5752	many a country squire
+T46	NOM_PER 5684 5695	a gentleman
+T48	PROP_PER 6372 6386	Mr. Heathcliff
+T50	NOM_PER 6577 6591	my dear mother
+T51	NOM_FAC 6624 6642	a comfortable home
+T52	NOM_PER 6965 6981	the merest idiot
+T53	NOM_PER 7386 7395	her mamma
+T54	NOM_PER 7617 7628	my landlord
+T58	PROP_PER 7955 7969	Mr. Heathcliff
+T59	NOM_PER 8269 8279	his master
+T60	NOM_FAC 8956 8973	the common centre
+T61	NOM_FAC 8941 8952	hidden dens
+T63	PROP_PER 9222 9236	Mr. Heathcliff
+T67	NOM_PER 9433 9461	an inhabitant of the kitchen
+T68	NOM_FAC 9797 9806	the scene
+T69	NOM_PER 9775 9785	her master
+T70	NOM_PER 9816 9825	the devil
+T73	NOM_PER 10112 10122	a stranger
+T75	NOM_PER 10176 10201	persons who touch nothing
+T76	NOM_PER 57 68	my landlord
+T1	NOM_LOC 145 164	a beautiful country
+T3	NOM_PER 299 312	misanthropist
+T6	NOM_PER 354 410	such a suitable pair to divide the desolation between us
+T77	NOM_PER 413 429	A capital fellow
+T78	NOM_PER 455 463	my heart
+T8	PROP_PER 757 769	Mr. Lockwood
+T9	NOM_PER 790 793	sir
+T10	NOM_PER 2016 2045	an elderly , nay , an old man
+T13	PROP_PER 1725 1731	Joseph
+T15	PROP_FAC 2403 2420	Wuthering Heights
+T18	NOM_FAC 2436 2462	Mr. Heathcliff 's dwelling
+T21	NOM_FAC 3692 3715	the family sitting-room
+T24	NOM_FAC 3726 3748	any introductory lobby
+T26	NOM_FAC 3752 3759	passage
+T31	NOM_FAC 3822 3829	kitchen
+T33	NOM_FAC 3834 3841	parlour
+T37	NOM_FAC 3891 3902	the kitchen
+T80	NOM_FAC 5118 5131	The apartment
+T39	NOM_PER 5200 5327	a homely , northern farmer , with a stubborn countenance , and stalwart limbs set out to advantage in knee-breeches and gaiters
+T40	NOM_PER 5330 5348	Such an individual
+T44	NOM_PER 5716 5727	a gentleman
+T47	NOM_LOC 6752 6765	the sea-coast
+T49	NOM_PER 6801 6828	a most fascinating creature
+T81	NOM_PER 6831 6856	a real goddess in my eyes
+T82	NOM_PER 7265 7282	the poor innocent
+T55	PROP_PER 8159 8165	Joseph
+T56	PROP_PER 8170 8176	Joseph
+T57	NOM_FAC 8201 8225	the depths of the cellar
+T62	NOM_PER 9181 9194	the household
+T64	NOM_PER 9241 9248	his man
+T65	NOM_PER 9483 9555	a lusty dame , with tucked-up gown , bare arms , and fire-flushed cheeks
+T66	NOM_PER 9946 9955	the devil
+T71	NOM_PER 10082 10085	sir
+T30	NOM_FAC 3780 3793	' the house '
+T72	NOM_FAC 3940 3955	another quarter
+T74	NOM_PER 1078 1081	sir
+T79	NOM_PER 5904 5915	some people
+T92	NOM_PER 1134 1141	any one
+T94	PRON_PER 20 21	I
+T95	PRON_PER 57 59	my
+T96	PRON_PER 100 101	I
+T97	PRON_PER 184 185	I
+T98	PRON_PER 206 207	I
+T99	PRON_PER 348 349	I
+T100	PRON_PER 408 410	us
+T101	PRON_PER 432 434	He
+T102	PRON_PER 455 457	my
+T103	PRON_PER 479 482	him
+T104	PRON_PER 488 489	I
+T105	PRON_PER 497 500	his
+T107	PRON_PER 560 561	I
+T108	PRON_PER 581 584	his
+T110	PRON_PER 661 664	his
+T111	PRON_PER 680 681	I
+T112	PRON_PER 692 694	my
+T113	PRON_PER 723 724	I
+T114	PRON_PER 772 776	your
+T115	PRON_PER 796 797	I
+T116	PRON_PER 801 807	myself
+T117	PRON_PER 856 858	my
+T118	PRON_PER 894 895	I
+T119	PRON_PER 920 923	you
+T120	PRON_PER 927 929	my
+T121	PRON_PER 996 997	I
+T122	PRON_PER 1014 1017	you
+T123	PRON_PER 1069 1071	my
+T124	PRON_PER 1086 1088	he
+T125	PRON_PER 1115 1116	I
+T126	PRON_PER 1159 1161	me
+T127	PRON_PER 1167 1168	I
+T128	PRON_PER 1325 1327	he
+T129	PRON_PER 1389 1390	I
+T130	PRON_PER 1426 1428	me
+T131	PRON_PER 1456 1457	I
+T132	PRON_PER 1527 1533	myself
+T133	PRON_PER 1541 1543	he
+T134	PRON_PER 1548 1550	my
+T135	PRON_PER 1596 1598	he
+T136	PRON_PER 1611 1614	his
+T137	PRON_PER 1663 1665	me
+T138	PRON_PER 1697 1699	we
+T139	PRON_PER 1797 1799	we
+T140	PRON_PER 1844 1845	I
+T141	PRON_PER 2110 2112	us
+T142	PRON_PER 2117 2119	he
+T143	PRON_PER 2190 2192	me
+T144	PRON_PER 2196 2198	my
+T145	PRON_PER 2231 2233	my
+T146	PRON_PER 2254 2255	I
+T147	PRON_PER 2279 2281	he
+T148	PRON_PER 2321 2324	his
+T149	PRON_PER 2338 2341	his
+T150	PRON_PER 2380 2382	my
+T151	PRON_PER 2639 2643	they
+T153	PRON_PER 3115 3116	I
+T154	PRON_PER 3317 3318	I
+T155	PRON_PER 3384 3385	I
+T156	PRON_PER 3489 3492	his
+T157	PRON_PER 3533 3535	my
+T158	PRON_PER 3582 3583	I
+T159	PRON_PER 3611 3614	his
+T160	PRON_PER 3684 3686	us
+T161	PRON_PER 3762 3766	they
+T162	PRON_PER 3860 3861	I
+T163	PRON_PER 3967 3968	I
+T164	PRON_PER 4061 4062	I
+T165	PRON_PER 5359 5362	his
+T166	PRON_PER 5375 5378	his
+T167	PRON_PER 5425 5428	him
+T168	PRON_PER 5504 5507	you
+T169	PRON_PER 5592 5595	his
+T170	PRON_PER 5624 5626	He
+T171	PRON_PER 5810 5813	his
+T172	PRON_PER 5835 5837	he
+T173	PRON_PER 5930 5933	him
+T174	PRON_PER 5968 5969	I
+T175	PRON_PER 6013 6015	me
+T176	PRON_PER 6044 6045	I
+T177	PRON_PER 6067 6070	his
+T178	PRON_PER 6177 6179	He
+T179	PRON_PER 6294 6295	I
+T180	PRON_PER 6321 6322	I
+T181	PRON_PER 6330 6332	my
+T182	PRON_PER 6366 6369	him
+T183	PRON_PER 6436 6439	his
+T184	PRON_PER 6465 6467	he
+T185	PRON_PER 6523 6525	me
+T186	PRON_PER 6532 6534	me
+T187	PRON_PER 6540 6542	my
+T188	PRON_PER 6577 6579	my
+T189	PRON_PER 6604 6605	I
+T190	PRON_PER 6666 6667	I
+T191	PRON_PER 6675 6681	myself
+T192	PRON_PER 6768 6769	I
+T193	PRON_PER 6849 6851	my
+T194	PRON_PER 6870 6873	she
+T195	PRON_PER 6892 6894	me
+T196	PRON_PER 6897 6898	I
+T197	PRON_PER 6912 6914	my
+T198	PRON_PER 7001 7002	I
+T199	PRON_PER 7028 7031	she
+T200	PRON_PER 7043 7045	me
+T201	PRON_PER 7131 7132	I
+T202	PRON_PER 7138 7139	I
+T203	PRON_PER 7183 7189	myself
+T204	PRON_PER 7300 7303	her
+T205	PRON_PER 7353 7356	her
+T206	PRON_PER 7386 7389	her
+T207	PRON_PER 7444 7445	I
+T208	PRON_PER 7520 7521	I
+T209	PRON_PER 7545 7546	I
+T210	PRON_PER 7617 7619	my
+T212	PRON_PER 7790 7792	my
+T215	PRON_PER 7864 7866	My
+T216	PRON_PER 7911 7914	You
+T217	PRON_PER 8030 8033	his
+T219	PRON_PER 8138 8140	he
+T220	PRON_PER 8269 8272	his
+T221	PRON_PER 8294 8297	him
+T222	PRON_PER 8308 8310	me
+T224	PRON_PER 8436 8438	my
+T226	PRON_PER 8501 8502	I
+T228	PRON_PER 8578 8579	I
+T229	PRON_PER 8662 8664	my
+T231	PRON_PER 8747 8749	my
+T232	PRON_PER 8758 8759	I
+T234	PRON_PER 8821 8823	us
+T235	PRON_PER 8976 8977	I
+T236	PRON_PER 8983 8985	my
+T237	PRON_PER 9094 9095	I
+T238	PRON_PER 9119 9120	I
+T239	PRON_PER 9241 9244	his
+T240	PRON_PER 9298 9299	I
+T241	PRON_PER 9313 9317	they
+T242	PRON_PER 9583 9585	us
+T243	PRON_PER 9640 9643	her
+T244	PRON_PER 9711 9714	she
+T245	PRON_PER 9775 9778	her
+T246	PRON_PER 9844 9846	he
+T247	PRON_PER 9862 9864	me
+T248	PRON_PER 9882 9883	I
+T249	PRON_PER 9969 9970	I
+T251	PRON_PER 10088 10091	You
+T253	PRON_PER 10206 10208	he
+T254	PRON_PER 10246 10248	me
+T255	NOM_PER 5632 5650	dark-skinned gipsy
+T350	I-0 20 21	I
+T332	my_landlord-1 57 68	my landlord
+T351	I-0 57 59	my
+T352	I-0 100 101	I
+T257	a_beautiful_country-2 145 164	a beautiful country
+T258	all_England-3 170 181	all England
+T353	I-0 184 185	I
+T354	I-0 206 207	I
+T260	a_beautiful_country-2 289 322	A perfect misanthropist 's heaven
+T259	misanthropist-803 299 312	misanthropist
+T261	Mr__Heathcliff-6 329 343	Mr. Heathcliff
+T355	I-0 348 349	I
+T262	Heath_and_narrator-7 354 410	such a suitable pair to divide the desolation between us
+T356	Heath_and_narrator-7 408 410	us
+T333	Mr__Heathcliff-6 413 429	A capital fellow
+T357	Mr__Heathcliff-6 432 434	He
+T334	I-0 455 463	my heart
+T358	I-0 455 457	my
+T359	Mr__Heathcliff-6 479 482	him
+T360	I-0 488 489	I
+T361	Mr__Heathcliff-6 497 500	his
+T363	I-0 560 561	I
+T364	Mr__Heathcliff-6 581 584	his
+T366	Mr__Heathcliff-6 661 664	his
+T367	I-0 680 681	I
+T368	I-0 692 694	my
+T263	Mr__Heathcliff-6 704 718	Mr. Heathcliff
+T369	I-0 723 724	I
+T264	I-0 757 769	Mr. Lockwood
+T370	Mr__Heathcliff-6 772 776	your
+T265	Mr__Heathcliff-6 790 793	sir
+T371	I-0 796 797	I
+T372	I-0 801 807	myself
+T373	I-0 856 858	my
+T374	I-0 894 895	I
+T375	Mr__Heathcliff-6 920 923	you
+T376	I-0 927 929	my
+T268	A_perfect_misanthropist__s_heaven-4 975 993	Thrushcross Grange
+T377	I-0 996 997	I
+T378	Mr__Heathcliff-6 1014 1017	you
+T270	thrushcross-5 1047 1065	Thrushcross Grange
+T379	Mr__Heathcliff-6 1069 1071	my
+T330	I-0 1078 1081	sir
+T380	Mr__Heathcliff-6 1086 1088	he
+T381	Mr__Heathcliff-6 1115 1116	I
+T348	any_one-8 1134 1141	any one
+T382	Mr__Heathcliff-6 1159 1161	me
+T383	Mr__Heathcliff-6 1167 1168	I
+T384	Mr__Heathcliff-6 1325 1327	he
+T385	I-0 1389 1390	I
+T386	I-0 1426 1428	me
+T387	I-0 1456 1457	I
+T272	Mr__Heathcliff-6 1477 1533	a man who seemed more exaggeratedly reserved than myself
+T388	I-0 1527 1533	myself
+T389	Mr__Heathcliff-6 1541 1543	he
+T390	I-0 1548 1550	my
+T391	Mr__Heathcliff-6 1596 1598	he
+T392	Mr__Heathcliff-6 1611 1614	his
+T393	I-0 1663 1665	me
+T394	Heath_and_narrator-7 1697 1699	we
+T269	Joseph-9 1725 1731	Joseph
+T273	I-0 1739 1751	Mr. Lockwood
+T395	we-10 1797 1799	we
+T275	domestics-11 1832 1841	domestics
+T396	I-0 1844 1845	I
+T276	Joseph-9 2005 2011	Joseph
+T278	The_Lord-12 2096 2104	The Lord
+T397	us-13 2110 2112	us
+T398	Joseph-9 2117 2119	he
+T399	I-0 2190 2192	me
+T400	I-0 2196 2198	my
+T401	I-0 2231 2233	my
+T402	I-0 2254 2255	I
+T403	Joseph-9 2279 2281	he
+T404	Joseph-9 2321 2324	his
+T405	Joseph-9 2338 2341	his
+T406	I-0 2380 2382	my
+T271	Wuthering_Heights-14 2403 2420	Wuthering Heights
+T279	Mr__Heathcliff-6 2436 2450	Mr. Heathcliff
+T274	Wuthering_Heights-14 2436 2462	Mr. Heathcliff 's dwelling
+T407	they-15 2639 2643	they
+T281	the_end_of_the_house-16 2801 2821	the end of the house
+T284	the_architect-17 2934 2947	the architect
+T283	the_corners-18 3035 3046	the corners
+T409	I-0 3115 3116	I
+T285	the_front-19 3180 3189	the front
+T410	I-0 3317 3318	I
+T288	Hareton_Earnshaw-20 3363 3379	Hareton Earnshaw
+T411	I-0 3384 3385	I
+T291	Wuthering_Heights-14 3452 3461	the place
+T290	Mr__Heathcliff-6 3467 3482	the surly owner
+T412	Mr__Heathcliff-6 3489 3492	his
+T413	I-0 3533 3535	my
+T414	I-0 3582 3583	I
+T415	Mr__Heathcliff-6 3611 3614	his
+T292	the_front-19 3649 3664	the penetralium
+T416	Heath_and_narrator-7 3684 3686	us
+T277	the_family_sitting-room-21 3692 3715	the family sitting-room
+T280	any_introductory_lobby-100000 3726 3748	any introductory lobby
+T282	passage-100001 3752 3759	passage
+T417	they-23 3762 3766	they
+T286	__the_house__-24 3780 3793	' the house '
+T418	I-0 3860 3861	I
+T294	Wuthering_Heights-14 3873 3890	Wuthering Heights
+T287	kitchen-100002 3822 3829	kitchen
+T289	parlour-100003 3834 3841	parlour
+T293	the_kitchen-27 3891 3902	the kitchen
+T328	another_quarter-28 3940 3955	another quarter
+T419	I-0 3967 3968	I
+T420	I-0 4061 4062	I
+T336	The_apartment-29 5118 5131	The apartment
+T295	a_homely___northern_farmer___with_a_stubborn_countenance___and_stalwart_limbs_set_out_to_advantage_in_knee-breeches_and_gaiters-30 5200 5327	a homely , northern farmer , with a stubborn countenance , and stalwart limbs set out to advantage in knee-breeches and gaiters
+T296	a_homely___northern_farmer___with_a_stubborn_countenance___and_stalwart_limbs_set_out_to_advantage_in_knee-breeches_and_gaiters-30 5330 5348	Such an individual
+T421	a_homely___northern_farmer___with_a_stubborn_countenance___and_stalwart_limbs_set_out_to_advantage_in_knee-breeches_and_gaiters-30 5359 5362	his
+T422	a_homely___northern_farmer___with_a_stubborn_countenance___and_stalwart_limbs_set_out_to_advantage_in_knee-breeches_and_gaiters-30 5375 5378	his
+T423	a_homely___northern_farmer___with_a_stubborn_countenance___and_stalwart_limbs_set_out_to_advantage_in_knee-breeches_and_gaiters-30 5425 5428	him
+T424	you-31 5504 5507	you
+T298	Mr__Heathcliff-6 5548 5562	Mr. Heathcliff
+T299	The_apartment-29 5592 5601	his abode
+T425	Mr__Heathcliff-6 5592 5595	his
+T426	Mr__Heathcliff-6 5624 5626	He
+T300	a_gentleman-32 5716 5727	a gentleman
+T301	many_a_country_squire-33 5731 5752	many a country squire
+T427	Mr__Heathcliff-6 5810 5813	his
+T428	Mr__Heathcliff-6 5835 5837	he
+T335	some_people-34 5904 5915	some people
+T429	Mr__Heathcliff-6 5930 5933	him
+T430	I-0 5968 5969	I
+T431	I-0 6013 6015	me
+T432	I-0 6044 6045	I
+T433	Mr__Heathcliff-6 6067 6070	his
+T434	Mr__Heathcliff-6 6177 6179	He
+T435	I-0 6294 6295	I
+T436	I-0 6321 6322	I
+T437	I-0 6330 6332	my
+T438	Mr__Heathcliff-6 6366 6369	him
+T304	Mr__Heathcliff-6 6372 6386	Mr. Heathcliff
+T439	Mr__Heathcliff-6 6436 6439	his
+T440	Mr__Heathcliff-6 6465 6467	he
+T441	I-0 6523 6525	me
+T442	I-0 6532 6534	me
+T443	I-0 6540 6542	my
+T306	my_dear_mother-35 6577 6591	my dear mother
+T444	I-0 6577 6579	my
+T445	I-0 6604 6605	I
+T307	a_comfortable_home-36 6624 6642	a comfortable home
+T446	I-0 6666 6667	I
+T447	I-0 6675 6681	myself
+T303	the_sea-coast-37 6752 6765	the sea-coast
+T448	I-0 6768 6769	I
+T305	a_most_fascinating_creature-38 6801 6828	a most fascinating creature
+T449	I-0 6849 6851	my
+T450	a_most_fascinating_creature-38 6870 6873	she
+T451	I-0 6892 6894	me
+T452	I-0 6897 6898	I
+T453	a_most_fascinating_creature-38 6912 6914	my
+T308	the_merest_idiot-39 6965 6981	the merest idiot
+T454	I-0 7001 7002	I
+T455	a_most_fascinating_creature-38 7028 7031	she
+T456	I-0 7043 7045	me
+T457	I-0 7131 7132	I
+T458	I-0 7138 7139	I
+T459	I-0 7183 7189	myself
+T338	a_most_fascinating_creature-38 7265 7282	the poor innocent
+T460	a_most_fascinating_creature-38 7300 7303	her
+T461	a_most_fascinating_creature-38 7353 7356	her
+T309	her_mamma-40 7386 7395	her mamma
+T462	a_most_fascinating_creature-38 7386 7389	her
+T463	I-0 7444 7445	I
+T464	I-0 7520 7521	I
+T465	I-0 7545 7546	I
+T310	Mr__Heathcliff-6 7617 7628	my landlord
+T466	I-0 7617 7619	my
+T468	I-0 7790 7792	my
+T471	I-0 7864 7866	My
+T472	I-0 7911 7914	You
+T314	Mr__Heathcliff-6 7955 7969	Mr. Heathcliff
+T473	Mr__Heathcliff-6 8030 8033	his
+T475	Mr__Heathcliff-6 8138 8140	he
+T311	Joseph-9 8159 8165	Joseph
+T312	Joseph-9 8170 8176	Joseph
+T313	the_depths_of_the_cellar-41 8201 8225	the depths of the cellar
+T315	Mr__Heathcliff-6 8269 8279	his master
+T476	I-0 8269 8272	his
+T477	Joseph-9 8294 8297	him
+T478	I-0 8308 8310	me
+T480	I-0 8436 8438	my
+T482	I-0 8501 8502	I
+T484	I-0 8578 8579	I
+T485	I-0 8662 8664	my
+T487	I-0 8747 8749	my
+T488	I-0 8758 8759	I
+T490	us-42 8821 8823	us
+T317	hidden_dens-43 8941 8952	hidden dens
+T316	the_common_centre-44 8956 8973	the common centre
+T491	I-0 8976 8977	I
+T492	I-0 8983 8985	my
+T493	I-0 9094 9095	I
+T494	I-0 9119 9120	I
+T318	domestics-11 9181 9194	the household
+T319	Mr__Heathcliff-6 9222 9236	Mr. Heathcliff
+T320	Joseph-9 9241 9248	his man
+T495	Mr__Heathcliff-6 9241 9244	his
+T496	I-0 9298 9299	I
+T497	they-45 9313 9317	they
+T323	an_inhabitant_of_the_kitchen-46 9433 9461	an inhabitant of the kitchen
+T321	an_inhabitant_of_the_kitchen-46 9483 9555	a lusty dame , with tucked-up gown , bare arms , and fire-flushed cheeks
+T498	us-47 9583 9585	us
+T499	an_inhabitant_of_the_kitchen-46 9640 9643	her
+T500	an_inhabitant_of_the_kitchen-46 9711 9714	she
+T325	Mr__Heathcliff-6 9775 9785	her master
+T501	an_inhabitant_of_the_kitchen-46 9775 9778	her
+T324	The_apartment-29 9797 9806	the scene
+T326	the_devil-48 9816 9825	the devil
+T502	Mr__Heathcliff-6 9844 9846	he
+T503	I-0 9862 9864	me
+T504	I-0 9882 9883	I
+T322	the_devil-48 9946 9955	the devil
+T505	I-0 9969 9970	I
+T327	Mr__Heathcliff-6 10082 10085	sir
+T507	Mr__Heathcliff-6 10088 10091	You
+T329	a_stranger-49 10112 10122	a stranger
+T331	persons_who_touch_nothing-50 10176 10201	persons who touch nothing
+T509	Mr__Heathcliff-6 10206 10208	he
+T510	I-0 10246 10248	me
+R1	appos Arg1:T0 Arg2:T76
+R2	appos Arg1:T11 Arg2:T8
+R3	cop Arg1:T10 Arg2:T20
+R4	cop Arg1:T255 Arg2:T170
+R5	cop Arg1:T46 Arg2:T170
+R6	appos Arg1:T81 Arg2:T49
+T517	PRON_FAC 2971 2973	it
+T518	Wuthering_Heights-14 2971 2973	it
+T41	NOM_FAC 2812 2821	the house
+T83	Wuthering_Heights-14 2812 2821	the house

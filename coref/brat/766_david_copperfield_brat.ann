@@ -1,0 +1,570 @@
+T1	NOM_PER 53 76	the hero of my own life
+T3	NOM_PER 472 481	the nurse
+T4	NOM_PER 491 651	some sage women in the neighbourhood who had taken a lively interest in me several months before there was any possibility of our becoming personally acquainted
+T5	NOM_FAC 510 527	the neighbourhood
+T6	NOM_PER 833 918	all unlucky infants of either gender , born towards the small hours on a Friday night
+T7	NOM_PER 1213 1219	a baby
+T2	NOM_PER 1546 1562	sea-going people
+T8	NOM_PER 1745 1797	an attorney connected with the bill-broking business
+T9	NOM_PER 2011 2030	my poor dear mother
+T10	NOM_LOC 2138 2161	our part of the country
+T11	NOM_GPE 2150 2161	the country
+T12	NOM_PER 2206 2216	the winner
+T13	NOM_PER 2417 2447	an old lady with a hand-basket
+T14	NOM_LOC 2926 2935	the water
+T15	NOM_FAC 2962 2970	a bridge
+T16	NOM_PER 3098 3106	mariners
+T17	NOM_PER 3111 3180	others , who had the presumption to go ‘ meandering ’ about the world
+T18	PROP_GPE 3535 3547	Blunderstone
+T19	PROP_GPE 3553 3560	Suffolk
+T20	PROP_GPE 3596 3604	Scotland
+T21	NOM_PER 3613 3631	a posthumous child
+T22	NOM_PER 3634 3643	My father
+T23	NOM_FAC 3947 3961	the churchyard
+T24	NOM_FAC 4067 4085	our little parlour
+T25	NOM_FAC 4146 4155	our house
+T26	NOM_PER 4241 4264	An aunt of my father ’s
+T27	NOM_PER 4252 4261	my father
+T28	NOM_PER 4284 4304	a great-aunt of mine
+T29	NOM_PER 4384 4394	our family
+T30	PROP_PER 4397 4410	Miss Trotwood
+T31	PROP_PER 4416 4427	Miss Betsey
+T32	NOM_PER 4433 4447	my poor mother
+T33	NOM_PER 4512 4537	this formidable personage
+T34	NOM_PER 4603 4633	a husband younger than herself
+T35	PROP_PER 4789 4800	Miss Betsey
+T36	NOM_FAC 4944 4950	stairs
+T37	PROP_PER 5018 5029	Miss Betsey
+T38	PROP_GPE 5102 5107	India
+T39	NOM_PER 5169 5179	our family
+T40	PROP_GPE 5318 5323	India
+T41	NOM_FAC 5353 5357	home
+T42	NOM_PER 5397 5404	my aunt
+T43	NOM_FAC 5499 5552	a cottage in a hamlet on the sea-coast a long way off
+T44	NOM_GPE 5512 5552	a hamlet on the sea-coast a long way off
+T45	NOM_LOC 5524 5552	the sea-coast a long way off
+T46	NOM_PER 5584 5615	a single woman with one servant
+T47	NOM_PER 5604 5615	one servant
+T48	NOM_PER 5704 5713	My father
+T49	NOM_PER 5728 5747	a favourite of hers
+T50	NOM_PER 5830 5839	my mother
+T51	NOM_PER 5844 5858	‘ a wax doll ’
+T52	NOM_PER 5932 5941	My father
+T53	PROP_PER 5946 5957	Miss Betsey
+T54	NOM_PER 5990 5999	my mother
+T55	NOM_PER 6453 6462	My mother
+T56	NOM_PER 6613 6789	the fatherless little stranger , who was already welcomed by some grosses of prophetic pins , in a drawer upstairs , to a world not at all excited on the subject of his arrival
+T57	NOM_FAC 6719 6727	upstairs
+T58	NOM_PER 6792 6801	my mother
+T59	NOM_PER 7052 7087	a strange lady coming up the garden
+T60	NOM_FAC 7077 7087	the garden
+T61	NOM_PER 7090 7099	My mother
+T62	PROP_PER 7157 7168	Miss Betsey
+T63	NOM_PER 7202 7218	the strange lady
+T65	NOM_FAC 7400 7409	the house
+T66	NOM_PER 7453 7462	My father
+T67	NOM_PER 7519 7541	any ordinary Christian
+T68	NOM_PER 7703 7722	my poor dear mother
+T69	NOM_PER 7793 7802	my mother
+T70	PROP_PER 7868 7879	Miss Betsey
+T71	NOM_PER 7915 7924	My mother
+T72	PROP_PER 7998 8009	Miss Betsey
+T73	NOM_FAC 8026 8034	the room
+T74	NOM_PER 8175 8184	my mother
+T75	NOM_PER 8226 8235	my mother
+T76	NOM_PER 8309 8318	My mother
+T77	PROP_PER 8328 8350	Mrs. David Copperfield
+T78	PROP_PER 8370 8381	Miss Betsey
+T79	NOM_PER 8422 8431	my mother
+T80	NOM_PER 8487 8496	my mother
+T81	PROP_PER 8511 8524	Miss Trotwood
+T82	NOM_PER 8589 8598	My mother
+T83	PROP_PER 8774 8785	Miss Betsey
+T84	NOM_PER 8788 8797	My mother
+T85	NOM_FAC 8857 8892	the parlour my mother had come from
+T87	NOM_FAC 8907 8953	the best room on the other side of the passage
+T88	NOM_FAC 8942 8953	the passage
+T89	NOM_PER 9016 9025	my father
+T90	PROP_PER 9076 9087	Miss Betsey
+T91	NOM_PER 9103 9112	my mother
+T92	PROP_PER 9202 9213	Miss Betsey
+T93	NOM_PER 9264 9273	My mother
+T94	NOM_PER 9377 9382	child
+T95	PROP_PER 9392 9403	Miss Betsey
+T96	NOM_PER 9431 9440	My mother
+T97	NOM_FAC 1308 1321	this property
+T64	NOM_PER 8869 8878	my mother
+T86	NOM_PER 1331 1343	anybody else
+T113	NOM_PER 119 131	anybody else
+T114	NOM_LOC 3171 3180	the world
+T115	NOM_LOC 6143 6152	the world
+T116	NOM_LOC 3681 3691	this world
+T117	NOM_PER 5407 5413	nobody
+T118	NOM_PER 7369 7375	nobody
+T119	NOM_GPE 5131 5136	there
+T120	NOM_FAC 5575 5580	there
+T121	PRON_PER 12 13	I
+T122	PRON_PER 30 31	I
+T123	PRON_PER 65 67	my
+T124	PRON_PER 167 169	my
+T125	PRON_PER 197 199	my
+T126	PRON_PER 207 208	I
+T127	PRON_PER 221 222	I
+T128	PRON_PER 237 238	I
+T129	PRON_PER 368 369	I
+T130	PRON_PER 442 444	my
+T131	PRON_PER 563 565	me
+T132	PRON_PER 617 620	our
+T133	PRON_PER 667 668	I
+T134	PRON_PER 726 727	I
+T135	PRON_PER 814 818	they
+T136	PRON_PER 921 922	I
+T137	PRON_PER 1004 1006	my
+T138	PRON_PER 1120 1121	I
+T139	PRON_PER 1153 1154	I
+T140	PRON_PER 1180 1182	my
+T141	PRON_PER 1201 1202	I
+T142	PRON_PER 1222 1223	I
+T143	PRON_PER 1256 1257	I
+T144	PRON_PER 1387 1389	he
+T145	PRON_PER 1423 1424	I
+T146	PRON_PER 1653 1654	I
+T147	PRON_PER 1673 1674	I
+T148	PRON_PER 2011 2013	my
+T149	PRON_PER 2138 2141	our
+T150	PRON_PER 2243 2244	I
+T151	PRON_PER 2257 2263	myself
+T152	PRON_PER 2270 2271	I
+T153	PRON_PER 2342 2348	myself
+T154	PRON_PER 2400 2401	I
+T155	PRON_PER 2680 2683	her
+T156	PRON_PER 2761 2764	she
+T157	PRON_PER 2832 2833	I
+T158	PRON_PER 2878 2881	her
+T159	PRON_PER 2904 2907	she
+T160	PRON_PER 2939 2942	her
+T161	PRON_PER 2987 2990	her
+T162	PRON_PER 3006 3009	she
+T163	PRON_PER 3034 3037	she
+T164	PRON_PER 3064 3067	her
+T165	PRON_PER 3214 3217	her
+T166	PRON_PER 3310 3313	She
+T167	PRON_PER 3407 3410	her
+T168	PRON_PER 3429 3431	us
+T169	PRON_PER 3470 3476	myself
+T170	PRON_PER 3492 3493	I
+T171	PRON_PER 3510 3512	my
+T172	PRON_PER 3521 3522	I
+T173	PRON_PER 3584 3588	they
+T174	PRON_PER 3607 3608	I
+T175	PRON_PER 3634 3636	My
+T176	PRON_PER 3760 3762	me
+T177	PRON_PER 3799 3801	he
+T178	PRON_PER 3812 3814	me
+T179	PRON_PER 3876 3877	I
+T180	PRON_PER 3886 3888	my
+T181	PRON_PER 3922 3925	his
+T182	PRON_PER 3998 3999	I
+T183	PRON_PER 4067 4070	our
+T184	PRON_PER 4146 4149	our
+T185	PRON_PER 4194 4196	me
+T186	PRON_PER 4252 4254	my
+T187	PRON_PER 4315 4316	I
+T188	PRON_PER 4384 4387	our
+T189	PRON_PER 4433 4435	my
+T190	PRON_PER 4462 4465	her
+T191	PRON_PER 4473 4476	she
+T192	PRON_PER 4499 4502	her
+T193	PRON_PER 4549 4552	her
+T194	PRON_PER 4626 4633	herself
+T195	PRON_PER 4746 4748	he
+T196	PRON_PER 4919 4922	her
+T197	PRON_PER 5037 5040	him
+T198	PRON_PER 5091 5093	He
+T199	PRON_PER 5113 5116	his
+T200	PRON_PER 5169 5172	our
+T201	PRON_PER 5182 5184	he
+T202	PRON_PER 5254 5255	I
+T203	PRON_PER 5335 5338	his
+T205	PRON_PER 5397 5399	my
+T206	PRON_PER 5459 5462	she
+T207	PRON_PER 5468 5471	her
+T208	PRON_PER 5567 5574	herself
+T209	PRON_PER 5704 5706	My
+T210	PRON_PER 5750 5751	I
+T211	PRON_PER 5766 5769	she
+T212	PRON_PER 5796 5799	his
+T213	PRON_PER 5830 5832	my
+T214	PRON_PER 5861 5864	She
+T215	PRON_PER 5880 5882	my
+T216	PRON_PER 5896 5899	she
+T217	PRON_PER 5905 5908	her
+T218	PRON_PER 5932 5934	My
+T219	PRON_PER 5976 5978	He
+T220	PRON_PER 5990 5992	my
+T221	PRON_PER 6012 6014	he
+T222	PRON_PER 6062 6064	He
+T223	PRON_PER 6099 6100	I
+T224	PRON_PER 6131 6132	I
+T225	PRON_PER 6214 6215	I
+T226	PRON_PER 6282 6283	I
+T227	PRON_PER 6419 6421	my
+T228	PRON_PER 6453 6455	My
+T229	PRON_PER 6560 6563	her
+T230	PRON_PER 6601 6608	herself
+T231	PRON_PER 6778 6781	his
+T232	PRON_PER 6792 6794	my
+T233	PRON_PER 6804 6805	I
+T234	PRON_PER 6969 6972	her
+T235	PRON_PER 6990 6993	her
+T236	PRON_PER 7002 7005	she
+T238	PRON_PER 7044 7047	she
+T239	PRON_PER 7090 7092	My
+T240	PRON_PER 7249 7252	she
+T241	PRON_PER 7388 7391	she
+T242	PRON_PER 7412 7415	she
+T243	PRON_PER 7438 7441	her
+T244	PRON_PER 7453 7455	My
+T245	PRON_PER 7485 7488	she
+T246	PRON_PER 7506 7513	herself
+T247	PRON_PER 7584 7587	she
+T248	PRON_PER 7654 7657	her
+T249	PRON_PER 7703 7705	my
+T250	PRON_PER 7784 7787	She
+T251	PRON_PER 7793 7795	my
+T252	PRON_PER 7822 7823	I
+T253	PRON_PER 7851 7852	I
+T254	PRON_PER 7915 7917	My
+T255	PRON_PER 7934 7937	her
+T256	PRON_PER 7947 7950	her
+T257	PRON_PER 8100 8103	her
+T259	PRON_PER 8175 8177	my
+T260	PRON_PER 8192 8195	she
+T261	PRON_PER 8226 8228	my
+T262	PRON_PER 8309 8311	My
+T263	PRON_PER 8353 8354	I
+T264	PRON_PER 8422 8424	my
+T265	PRON_PER 8456 8459	her
+T266	PRON_PER 8487 8489	my
+T267	PRON_PER 8550 8553	You
+T268	PRON_PER 8568 8571	her
+T269	PRON_PER 8574 8575	I
+T270	PRON_PER 8589 8591	My
+T271	PRON_PER 8608 8611	she
+T272	PRON_PER 8640 8643	she
+T273	PRON_PER 8753 8756	you
+T274	PRON_PER 8761 8764	her
+T275	PRON_PER 8788 8790	My
+T276	PRON_PER 8803 8806	her
+T277	PRON_PER 8825 8828	her
+T278	PRON_PER 8842 8846	They
+T279	PRON_PER 8869 8871	my
+T280	PRON_PER 9016 9018	my
+T281	PRON_PER 9048 9052	they
+T282	PRON_PER 9103 9105	my
+T283	PRON_PER 9147 9154	herself
+T284	PRON_PER 9264 9266	My
+T285	PRON_PER 9313 9316	she
+T286	PRON_PER 9329 9332	she
+T287	PRON_PER 9341 9344	her
+T288	PRON_PER 9366 9370	your
+T289	PRON_PER 9416 9418	me
+T290	PRON_PER 9423 9426	you
+T291	PRON_PER 9431 9433	My
+T292	PRON_PER 9464 9467	her
+T293	PRON_PER 9516 9519	she
+T294	PRON_PER 9561 9564	she
+T295	PRON_PER 9572 9575	she
+T296	PRON_PER 9627 9630	her
+T297	PRON_PER 9689 9692	her
+T298	NOM_PER 4359 4394	the principal magnate of our family
+T299	NOM_PER 5880 5889	my mother
+T421	narrator-0 12 13	I
+T422	narrator-0 30 31	I
+T423	narrator-0 65 67	my
+T413	anybody_else-1 119 131	anybody else
+T424	narrator-0 167 169	my
+T425	narrator-0 197 199	my
+T426	narrator-0 207 208	I
+T427	narrator-0 221 222	I
+T428	narrator-0 237 238	I
+T429	narrator-0 368 369	I
+T430	narrator-0 442 444	my
+T303	the_nurse-2 472 481	the nurse
+T304	some_sage_women_in_the_neighbourhood_who_had_taken_a_lively_interest_in_me_several_months_before_there_was_any_possibility_of_our_becoming_personally_acquainted-3 491 651	some sage women in the neighbourhood who had taken a lively interest in me several months before there was any possibility of our becoming personally acquainted
+T305	the_neighbourhood-4 510 527	the neighbourhood
+T431	narrator-0 563 565	me
+T432	narrator_neighborhood_women-5 617 620	our
+T433	narrator-0 667 668	I
+T434	narrator-0 726 727	I
+T435	some_sage_women_in_the_neighbourhood_who_had_taken_a_lively_interest_in_me_several_months_before_there_was_any_possibility_of_our_becoming_personally_acquainted-3 814 818	they
+T306	all_unlucky_infants_of_either_gender___born_towards_the_small_hours_on_a_Friday_night-6 833 918	all unlucky infants of either gender , born towards the small hours on a Friday night
+T436	narrator-0 921 922	I
+T437	narrator-0 1004 1006	my
+T438	narrator-0 1120 1121	I
+T439	narrator-0 1153 1154	I
+T440	narrator-0 1180 1182	my
+T441	narrator-0 1201 1202	I
+T442	narrator-0 1222 1223	I
+T443	narrator-0 1256 1257	I
+T397	this_property-7 1308 1321	this property
+T386	anybody_else-8 1331 1343	anybody else
+T444	anybody_else-8 1387 1389	he
+T445	narrator-0 1423 1424	I
+T302	sea-going_people-9 1546 1562	sea-going people
+T446	narrator-0 1653 1654	I
+T447	narrator-0 1673 1674	I
+T308	an_attorney_connected_with_the_bill-broking_business-10 1745 1797	an attorney connected with the bill-broking business
+T309	my_poor_dear_mother-11 2011 2030	my poor dear mother
+T448	narrator-0 2011 2013	my
+T310	our_part_of_the_country-12 2138 2161	our part of the country
+T449	narrator_our_part_of_the_country-13 2138 2141	our
+T311	the_country-14 2150 2161	the country
+T312	the_winner-15 2206 2216	the winner
+T450	narrator-0 2243 2244	I
+T451	narrator-0 2257 2263	myself
+T452	narrator-0 2270 2271	I
+T453	narrator-0 2342 2348	myself
+T454	narrator-0 2400 2401	I
+T313	an_old_lady_with_a_hand-basket-16 2417 2447	an old lady with a hand-basket
+T455	an_old_lady_with_a_hand-basket-16 2680 2683	her
+T456	an_old_lady_with_a_hand-basket-16 2761 2764	she
+T457	narrator-0 2832 2833	I
+T458	an_old_lady_with_a_hand-basket-16 2878 2881	her
+T459	an_old_lady_with_a_hand-basket-16 2904 2907	she
+T314	the_water-17 2926 2935	the water
+T460	an_old_lady_with_a_hand-basket-16 2939 2942	her
+T315	a_bridge-18 2962 2970	a bridge
+T461	an_old_lady_with_a_hand-basket-16 2987 2990	her
+T462	an_old_lady_with_a_hand-basket-16 3006 3009	she
+T463	an_old_lady_with_a_hand-basket-16 3034 3037	she
+T464	an_old_lady_with_a_hand-basket-16 3064 3067	her
+T316	mariners-19 3098 3106	mariners
+T317	others___who_had_the_presumption_to_go___meandering___about_the_world-20 3111 3180	others , who had the presumption to go ‘ meandering ’ about the world
+T414	the_world-21 3171 3180	the world
+T465	an_old_lady_with_a_hand-basket-16 3214 3217	her
+T466	an_old_lady_with_a_hand-basket-16 3310 3313	She
+T467	an_old_lady_with_a_hand-basket-16 3407 3410	her
+T468	old_lady___us-22 3429 3431	us
+T469	narrator-0 3470 3476	myself
+T470	narrator-0 3492 3493	I
+T471	narrator-0 3510 3512	my
+T472	narrator-0 3521 3522	I
+T318	Blunderstone-23 3535 3547	Blunderstone
+T319	Suffolk-24 3553 3560	Suffolk
+T473	they-25 3584 3588	they
+T320	Scotland-26 3596 3604	Scotland
+T474	narrator-0 3607 3608	I
+T475	narrator-0 3634 3636	My
+T416	the_world-21 3681 3691	this world
+T476	narrator-0 3760 3762	me
+T322	My_father-27 3634 3643	My father
+T477	My_father-27 3799 3801	he
+T478	narrator-0 3812 3814	me
+T479	narrator-0 3876 3877	I
+T480	narrator-0 3886 3888	my
+T481	My_father-27 3922 3925	his
+T323	the_churchyard-28 3947 3961	the churchyard
+T482	narrator-0 3998 3999	I
+T324	our_little_parlour-29 4067 4085	our little parlour
+T483	narrator___our_parlor-30 4067 4070	our
+T325	our_house-31 4146 4155	our house
+T484	narrator___our_parlor-30 4146 4149	our
+T485	narrator-0 4194 4196	me
+T326	Aunt_Betsey_Trotwood-32 4241 4264	An aunt of my father ’s
+T327	My_father-27 4252 4261	my father
+T486	narrator-0 4252 4254	my
+T487	narrator-0 4315 4316	I
+T329	our_family-33 4384 4394	our family
+T488	narrator_aunt__our_family_-34 4384 4387	our
+T330	Aunt_Betsey_Trotwood-32 4397 4410	Miss Trotwood
+T331	Aunt_Betsey_Trotwood-32 4416 4427	Miss Betsey
+T332	my_poor_mother-35 4433 4447	my poor mother
+T489	narrator-0 4433 4435	my
+T490	Aunt_Betsey_Trotwood-32 4462 4465	her
+T491	my_poor_mother-35 4473 4476	she
+T492	Aunt_Betsey_Trotwood-32 4499 4502	her
+T333	Aunt_Betsey_Trotwood-32 4512 4537	this formidable personage
+T493	Aunt_Betsey_Trotwood-32 4549 4552	her
+T334	Aunt_Betsey_husband-36 4603 4633	a husband younger than herself
+T494	Aunt_Betsey_Trotwood-32 4626 4633	herself
+T495	Aunt_Betsey_husband-36 4746 4748	he
+T335	Aunt_Betsey_Trotwood-32 4789 4800	Miss Betsey
+T496	Aunt_Betsey_Trotwood-32 4919 4922	her
+T336	stairs-37 4944 4950	stairs
+T337	Aunt_Betsey_Trotwood-32 5018 5029	Miss Betsey
+T497	Aunt_Betsey_husband-36 5037 5040	him
+T498	Aunt_Betsey_husband-36 5091 5093	He
+T338	India-38 5102 5107	India
+T499	Aunt_Betsey_husband-36 5113 5116	his
+T419	India-38 5131 5136	there
+T339	our_family-33 5169 5179	our family
+T500	narrator_aunt__our_family_-34 5169 5172	our
+T501	Aunt_Betsey_husband-36 5182 5184	he
+T502	narrator-0 5254 5255	I
+T340	India-38 5318 5323	India
+T503	Aunt_Betsey_husband-36 5335 5338	his
+T341	generic_narrator_family_home-39 5353 5357	home
+T342	Aunt_Betsey_Trotwood-32 5397 5404	my aunt
+T505	narrator-0 5397 5399	my
+T417	nobody-40 5407 5413	nobody
+T506	Aunt_Betsey_Trotwood-32 5459 5462	she
+T507	Aunt_Betsey_Trotwood-32 5468 5471	her
+T343	a_cottage_in_a_hamlet_on_the_sea-coast_a_long_way_off-41 5499 5552	a cottage in a hamlet on the sea-coast a long way off
+T344	a_hamlet_on_the_sea-coast_a_long_way_off-42 5512 5552	a hamlet on the sea-coast a long way off
+T345	the_sea-coast_a_long_way_off-43 5524 5552	the sea-coast a long way off
+T508	Aunt_Betsey_Trotwood-32 5567 5574	herself
+T420	a_cottage_in_a_hamlet_on_the_sea-coast_a_long_way_off-41 5575 5580	there
+T347	one_servant-44 5604 5615	one servant
+T348	My_father-27 5704 5713	My father
+T509	narrator-0 5704 5706	My
+T510	narrator-0 5750 5751	I
+T511	Aunt_Betsey_Trotwood-32 5766 5769	she
+T512	My_father-27 5796 5799	his
+T350	my_poor_mother-35 5830 5839	my mother
+T513	narrator-0 5830 5832	my
+T514	Aunt_Betsey_Trotwood-32 5861 5864	She
+T515	narrator-0 5880 5882	my
+T599	my_poor_mother-35 5880 5889	my mother
+T516	Aunt_Betsey_Trotwood-32 5896 5899	she
+T517	my_poor_mother-35 5905 5908	her
+T352	My_father-27 5932 5941	My father
+T518	narrator-0 5932 5934	My
+T353	Aunt_Betsey_Trotwood-32 5946 5957	Miss Betsey
+T519	My_father-27 5976 5978	He
+T354	my_poor_mother-35 5990 5999	my mother
+T520	narrator-0 5990 5992	my
+T521	My_father-27 6012 6014	he
+T522	My_father-27 6062 6064	He
+T523	narrator-0 6099 6100	I
+T524	narrator-0 6131 6132	I
+T415	the_world-21 6143 6152	the world
+T525	narrator-0 6214 6215	I
+T526	narrator-0 6282 6283	I
+T527	narrator-0 6419 6421	my
+T355	my_poor_mother-35 6453 6462	My mother
+T528	narrator-0 6453 6455	My
+T529	my_poor_mother-35 6560 6563	her
+T530	my_poor_mother-35 6601 6608	herself
+T356	narrator-0 6613 6789	the fatherless little stranger , who was already welcomed by some grosses of prophetic pins , in a drawer upstairs , to a world not at all excited on the subject of his arrival
+T357	upstairs-45 6719 6727	upstairs
+T531	narrator-0 6778 6781	his
+T358	my_poor_mother-35 6792 6801	my mother
+T532	narrator-0 6792 6794	my
+T533	narrator-0 6804 6805	I
+T534	my_poor_mother-35 6969 6972	her
+T535	my_poor_mother-35 6990 6993	her
+T536	my_poor_mother-35 7002 7005	she
+T538	my_poor_mother-35 7044 7047	she
+T359	Aunt_Betsey_Trotwood-32 7052 7087	a strange lady coming up the garden
+T360	the_garden-46 7077 7087	the garden
+T361	my_poor_mother-35 7090 7099	My mother
+T539	narrator-0 7090 7092	My
+T362	Aunt_Betsey_Trotwood-32 7157 7168	Miss Betsey
+T363	Aunt_Betsey_Trotwood-32 7202 7218	the strange lady
+T540	Aunt_Betsey_Trotwood-32 7249 7252	she
+T418	nobody-47 7369 7375	nobody
+T541	Aunt_Betsey_Trotwood-32 7388 7391	she
+T365	our_house-31 7400 7409	the house
+T542	Aunt_Betsey_Trotwood-32 7412 7415	she
+T543	Aunt_Betsey_Trotwood-32 7438 7441	her
+T366	My_father-27 7453 7462	My father
+T544	narrator-0 7453 7455	My
+T545	Aunt_Betsey_Trotwood-32 7485 7488	she
+T546	Aunt_Betsey_Trotwood-32 7506 7513	herself
+T367	any_ordinary_Christian-48 7519 7541	any ordinary Christian
+T547	Aunt_Betsey_Trotwood-32 7584 7587	she
+T548	Aunt_Betsey_Trotwood-32 7654 7657	her
+T368	my_poor_mother-35 7703 7722	my poor dear mother
+T549	narrator-0 7703 7705	my
+T550	Aunt_Betsey_Trotwood-32 7784 7787	She
+T369	my_poor_mother-35 7793 7802	my mother
+T551	narrator-0 7793 7795	my
+T552	narrator-0 7822 7823	I
+T553	narrator-0 7851 7852	I
+T370	Aunt_Betsey_Trotwood-32 7868 7879	Miss Betsey
+T371	my_poor_mother-35 7915 7924	My mother
+T554	narrator-0 7915 7917	My
+T555	my_poor_mother-35 7934 7937	her
+T556	my_poor_mother-35 7947 7950	her
+T372	Aunt_Betsey_Trotwood-32 7998 8009	Miss Betsey
+T373	the_room-49 8026 8034	the room
+T557	Aunt_Betsey_Trotwood-32 8100 8103	her
+T374	my_poor_mother-35 8175 8184	my mother
+T559	narrator-0 8175 8177	my
+T560	Aunt_Betsey_Trotwood-32 8192 8195	she
+T375	my_poor_mother-35 8226 8235	my mother
+T561	narrator-0 8226 8228	my
+T376	my_poor_mother-35 8309 8318	My mother
+T562	narrator-0 8309 8311	My
+T377	my_poor_mother-35 8328 8350	Mrs. David Copperfield
+T563	Aunt_Betsey_Trotwood-32 8353 8354	I
+T378	Aunt_Betsey_Trotwood-32 8370 8381	Miss Betsey
+T379	my_poor_mother-35 8422 8431	my mother
+T564	narrator-0 8422 8424	my
+T565	my_poor_mother-35 8456 8459	her
+T380	my_poor_mother-35 8487 8496	my mother
+T566	narrator-0 8487 8489	my
+T381	Aunt_Betsey_Trotwood-32 8511 8524	Miss Trotwood
+T567	my_poor_mother-35 8550 8553	You
+T568	Aunt_Betsey_Trotwood-32 8568 8571	her
+T569	Aunt_Betsey_Trotwood-32 8574 8575	I
+T382	my_poor_mother-35 8589 8598	My mother
+T570	narrator-0 8589 8591	My
+T571	my_poor_mother-35 8608 8611	she
+T572	my_poor_mother-35 8640 8643	she
+T573	my_poor_mother-35 8753 8756	you
+T574	Aunt_Betsey_Trotwood-32 8761 8764	her
+T383	Aunt_Betsey_Trotwood-32 8774 8785	Miss Betsey
+T384	my_poor_mother-35 8788 8797	My mother
+T575	narrator-0 8788 8790	My
+T576	my_poor_mother-35 8803 8806	her
+T577	Aunt_Betsey_Trotwood-32 8825 8828	her
+T578	mother_aunt_betsey-50 8842 8846	They
+T385	our_little_parlour-29 8857 8892	the parlour my mother had come from
+T364	my_poor_mother-35 8869 8878	my mother
+T579	narrator-0 8869 8871	my
+T387	the_best_room_on_the_other_side_of_the_passage-51 8907 8953	the best room on the other side of the passage
+T388	the_passage-52 8942 8953	the passage
+T389	My_father-27 9016 9025	my father
+T580	narrator-0 9016 9018	my
+T581	mother_aunt_betsey-50 9048 9052	they
+T390	Aunt_Betsey_Trotwood-32 9076 9087	Miss Betsey
+T391	my_poor_mother-35 9103 9112	my mother
+T582	narrator-0 9103 9105	my
+T583	my_poor_mother-35 9147 9154	herself
+T392	Aunt_Betsey_Trotwood-32 9202 9213	Miss Betsey
+T393	my_poor_mother-35 9264 9273	My mother
+T584	narrator-0 9264 9266	My
+T585	my_poor_mother-35 9313 9316	she
+T586	my_poor_mother-35 9329 9332	she
+T587	my_poor_mother-35 9341 9344	her
+T588	my_poor_mother-35 9366 9370	your
+T394	my_poor_mother-35 9377 9382	child
+T395	Aunt_Betsey_Trotwood-32 9392 9403	Miss Betsey
+T589	Aunt_Betsey_Trotwood-32 9416 9418	me
+T590	my_poor_mother-35 9423 9426	you
+T396	my_poor_mother-35 9431 9440	My mother
+T591	narrator-0 9431 9433	My
+T592	Aunt_Betsey_Trotwood-32 9464 9467	her
+T593	my_poor_mother-35 9516 9519	she
+T594	my_poor_mother-35 9561 9564	she
+T595	my_poor_mother-35 9572 9575	she
+T596	my_poor_mother-35 9627 9630	her
+T597	my_poor_mother-35 9689 9692	her
+R1	cop Arg1:T1 Arg2:T122
+R2	cop Arg1:T7 Arg2:T141
+R3	cop Arg1:T21 Arg2:T174
+R5	cop Arg1:T298 Arg2:T26
+R6	cop Arg1:T46 Arg2:T208
+R7	cop Arg1:T49 Arg2:T48
+R8	cop Arg1:T51 Arg2:T50
+T606	PRON_FAC 1382 1384	it
+T607	this_property-7 1382 1384	it
+T608	PRON_FAC 1418 1420	it
+T609	this_property-7 1418 1420	it
+T620	PRON_LOC 3725 3727	it
+T621	the_world-21 3725 3727	it
+T98	Aunt_Betsey_Trotwood-32 4284 4304	a great-aunt of mine
+T99	NOM_PER 8534 8545	the visitor
+T100	Aunt_Betsey_Trotwood-32 8534 8545	the visitor

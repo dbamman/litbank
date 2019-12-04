@@ -1,0 +1,602 @@
+T1	NOM_PER 469 495	a trader in the old Colony
+T2	NOM_PER 417 427	other boys
+T5	PROP_PER 1213 1229	Sir Henry Curtis
+T10	PROP_GPE 1308 1314	Durban
+T11	NOM_PER 2113 2121	a doctor
+T12	PROP_GPE 2087 2093	London
+T14	PROP_PER 2446 2451	Harry
+T20	PROP_PER 3081 3090	the Boers
+T22	PROP_PER 3461 3470	Ventvögel
+T26	NOM_PER 3597 3608	a gentleman
+T27	NOM_PER 3663 3670	niggers
+T28	NOM_PER 3809 3815	my boy
+T29	NOM_FAC 3923 3927	home
+T33	NOM_PER 3979 3990	a gentleman
+T35	PROP_FAC 4140 4146	Heaven
+T36	NOM_PER 4181 4189	many men
+T37	NOM_PER 4301 4313	The Almighty
+T39	NOM_PER 4704 4711	a Kafir
+T43	PROP_PER 4887 4903	Sir Henry Curtis
+T45	NOM_PER 5240 5250	my hunters
+T47	NOM_FAC 5147 5165	the Diamond Fields
+T48	NOM_FAC 5692 5716	the _ Edinburgh Castle _
+T50	PROP_GPE 5729 5736	England
+T51	PROP_GPE 5629 5634	Natal
+T52	PROP_GPE 5315 5324	Cape Town
+T54	PROP_GPE 5698 5707	Edinburgh
+T57	NOM_FAC 5818 5842	the _ Edinburgh Castle _
+T58	PROP_GPE 5824 5833	Edinburgh
+T59	NOM_PER 5792 5842	the Natal passengers from the _ Edinburgh Castle _
+T60	NOM_PER 5895 5929	these passengers who came on board
+T61	NOM_PER 5972 5999	a gentleman of about thirty
+T62	NOM_PER 6241 6256	an ancient Dane
+T63	NOM_PER 6189 6208	a finer-looking man
+T64	NOM_PER 6283 6296	ancient Danes
+T69	NOM_PER 6959 6970	the big man
+T71	PROP_PER 6927 6943	Sir Henry Curtis
+T72	PROP_PER 7143 7152	Sir Henry
+T76	NOM_PER 7308 7318	a navy man
+T77	NOM_PER 7594 7605	a gentleman
+T78	PROP_PER 7817 7820	God
+T80	NOM_PER 8173 8184	a commander
+T83	NOM_PER 8280 8289	the Queen
+T84	NOM_PER 8537 8545	a hunter
+T85	NOM_PER 8624 8635	The officer
+T88	NOM_PER 8675 8689	the passengers
+T89	PROP_PER 8713 8730	Captain John Good
+T91	PROP_PER 17 33	SIR HENRY CURTIS
+T92	NOM_ORG 435 441	school
+T93	NOM_GPE 481 495	the old Colony
+T3	NOM_PER 871 882	a timid man
+T94	NOM_PER 1028 1042	a literary man
+T4	PROP_PER 1234 1251	Captain John Good
+T6	NOM_PER 1946 1960	an orderly man
+T8	NOM_GPE 2062 2067	there
+T9	NOM_FAC 2071 2083	the hospital
+T13	PROP_PER 2670 2677	Foulata
+T15	PROP_PER 2705 2713	Gagaoola
+T16	NOM_PER 2645 2653	no woman
+T18	PROP_PER 3308 3324	Allan Quatermain
+T19	PROP_GPE 3330 3336	Durban
+T24	PROP_GPE 3339 3344	Natal
+T95	NOM_PER 3347 3356	Gentleman
+T21	PROP_PER 3448 3453	Khiva
+T23	NOM_PER 3422 3436	the magistrate
+T25	NOM_PER 3575 3586	a gentleman
+T30	NOM_PER 3757 3764	natives
+T97	PROP_PER 3801 3806	Harry
+T31	NOM_PER 3873 3927	mean whites with lots of money and fresh out from home
+T98	NOM_PER 4024 4059	a poor travelling trader and hunter
+T34	NOM_LOC 4510 4536	a cruel and a wicked world
+T99	NOM_PER 4547 4558	a timid man
+T38	PROP_PER 4908 4920	Captain Good
+T40	PROP_GPE 4982 4992	Bamangwato
+T41	NOM_LOC 5279 5287	the Cape
+T42	NOM_FAC 5363 5372	the hotel
+T44	NOM_GPE 5508 5519	the country
+T46	NOM_FAC 5526 5554	the new Houses of Parliament
+T53	NOM_LOC 5883 5886	sea
+T55	NOM_PER 5935 5963	two who excited my curiosity
+T56	NOM_PER 6014 6066	the biggest-chested and longest-armed man I ever saw
+T100	NOM_PER 6313 6355	a modern Dane who did me out of ten pounds
+T101	NOM_PER 6398 6418	some of those gentry
+T65	NOM_PER 6444 6465	a kind of white Zulus
+T67	NOM_PER 6565 6613	my friend standing there by the companion-ladder
+T66	NOM_PER 6792 6816	a model for that picture
+T68	NOM_PER 7040 7053	somebody else
+T70	NOM_PER 7106 7152	The other man , who stood talking to Sir Henry
+T73	NOM_PER 7239 7254	a naval officer
+T74	NOM_PER 7435 7485	the best and bravest and nicest fellows I ever met
+T75	NOM_PER 7640 7661	A Royal Naval officer
+T102	NOM_LOC 7785 7798	the wide seas
+T79	NOM_PER 7915 7918	men
+T81	NOM_PER 8015 8030	a naval officer
+T103	NOM_PER 8033 8059	a lieutenant of thirty-one
+T104	NOM_PER 8125 8136	her Majesty
+T105	NOM_LOC 8327 8341	the cold world
+T106	NOM_PER 8705 8709	Good
+T86	NOM_PER 8793 8817	a curious man to look at
+T87	NOM_ORG 2203 2211	Hospital
+T82	NOM_PER 7994 8006	the dark man
+T17	NOM_PER 2727 2734	a woman
+T90	NOM_PER 2745 2752	a fiend
+T7	NOM_PER 2042 2121	Harry , who is over there at the hospital in London studying to become a doctor
+T107	NOM_PER 2035 2041	my boy
+T115	NOM_PER 8263 8289	people who serve the Queen
+T116	NOM_GPE 1300 1304	here
+T118	PRON_PER 10 11	I
+T119	PRON_PER 64 66	my
+T120	PRON_PER 102 103	I
+T121	PRON_PER 116 122	myself
+T122	PRON_PER 167 168	I
+T123	PRON_PER 215 216	I
+T124	PRON_PER 244 245	I
+T125	PRON_PER 276 277	I
+T126	PRON_PER 310 312	my
+T127	PRON_PER 346 348	me
+T128	PRON_PER 360 362	my
+T129	PRON_PER 442 443	I
+T130	PRON_PER 456 458	my
+T131	PRON_PER 498 499	I
+T132	PRON_PER 605 606	I
+T133	PRON_PER 612 614	my
+T134	PRON_PER 648 649	I
+T135	PRON_PER 665 666	I
+T136	PRON_PER 698 699	I
+T137	PRON_PER 713 714	I
+T138	PRON_PER 794 795	I
+T139	PRON_PER 806 807	I
+T140	PRON_PER 866 867	I
+T141	PRON_PER 919 920	I
+T142	PRON_PER 951 952	I
+T143	PRON_PER 964 965	I
+T144	PRON_PER 1009 1011	my
+T145	PRON_PER 1019 1020	I
+T146	PRON_PER 1130 1132	me
+T147	PRON_PER 1149 1151	my
+T148	PRON_PER 1177 1178	I
+T149	PRON_PER 1258 1260	me
+T150	PRON_PER 1287 1288	I
+T151	PRON_PER 1332 1334	my
+T152	PRON_PER 1390 1392	me
+T153	PRON_PER 1393 1394	I
+T154	PRON_PER 1471 1473	me
+T155	PRON_PER 1573 1577	your
+T157	PRON_PER 1636 1639	you
+T158	PRON_PER 1672 1675	you
+T159	PRON_PER 1680 1684	your
+T160	PRON_PER 1762 1763	I
+T161	PRON_PER 1786 1788	my
+T162	PRON_PER 1829 1833	your
+T163	PRON_PER 1941 1942	I
+T164	PRON_PER 2028 2029	I
+T165	PRON_PER 2035 2037	my
+T166	PRON_PER 2151 2154	him
+T167	PRON_PER 2164 2167	him
+T168	PRON_PER 2466 2469	our
+T169	PRON_PER 2516 2517	I
+T170	PRON_PER 2560 2561	I
+T171	PRON_PER 2719 2722	she
+T172	PRON_PER 2759 2762	she
+T173	PRON_PER 2824 2825	I
+T174	PRON_PER 2839 2842	her
+T175	PRON_PER 2859 2860	I
+T176	PRON_PER 2940 2941	I
+T177	PRON_PER 2998 2999	I
+T178	PRON_PER 3015 3016	I
+T179	PRON_PER 3098 3099	I
+T180	PRON_PER 3108 3109	I
+T181	PRON_PER 3126 3130	they
+T183	PRON_PER 3239 3242	You
+T184	PRON_PER 3304 3305	I
+T185	PRON_PER 3392 3393	I
+T186	PRON_PER 3401 3403	my
+T187	PRON_PER 3573 3574	I
+T188	PRON_PER 3611 3612	I
+T189	PRON_PER 3641 3642	I
+T190	PRON_PER 3679 3680	I
+T191	PRON_PER 3726 3727	I
+T192	PRON_PER 3745 3746	I
+T193	PRON_PER 3786 3789	you
+T194	PRON_PER 3809 3811	my
+T195	PRON_PER 3825 3828	you
+T196	PRON_PER 3860 3861	I
+T197	PRON_PER 3968 3969	I
+T198	PRON_PER 4000 4001	I
+T199	PRON_PER 4064 4066	my
+T200	PRON_PER 4082 4083	I
+T201	PRON_PER 4101 4102	I
+T202	PRON_PER 4115 4118	you
+T203	PRON_PER 4153 4154	I
+T204	PRON_PER 4167 4168	I
+T205	PRON_PER 4193 4195	my
+T206	PRON_PER 4207 4208	I
+T207	PRON_PER 4246 4248	my
+T208	PRON_PER 4319 4321	us
+T209	PRON_PER 4322 4325	our
+T210	PRON_PER 4338 4339	I
+T211	PRON_PER 4348 4350	He
+T212	PRON_PER 4357 4359	us
+T214	PRON_PER 4386 4387	I
+T215	PRON_PER 4420 4421	I
+T216	PRON_PER 4461 4463	me
+T217	PRON_PER 4469 4471	my
+T218	PRON_PER 4559 4560	I
+T219	PRON_PER 4610 4611	I
+T220	PRON_PER 4660 4661	I
+T221	PRON_PER 4694 4695	I
+T222	PRON_PER 4747 4749	he
+T223	PRON_PER 4759 4761	me
+T224	PRON_PER 4797 4799	me
+T225	PRON_PER 4881 4882	I
+T226	PRON_PER 4944 4945	I
+T227	PRON_PER 5076 5077	I
+T228	PRON_PER 5111 5112	I
+T229	PRON_PER 5129 5130	I
+T230	PRON_PER 5187 5188	I
+T231	PRON_PER 5209 5211	my
+T232	PRON_PER 5240 5242	my
+T233	PRON_PER 5340 5344	they
+T234	PRON_PER 5357 5359	me
+T235	PRON_PER 5469 5471	me
+T236	PRON_PER 5563 5564	I
+T237	PRON_PER 5602 5603	I
+T238	PRON_PER 5739 5740	I
+T239	PRON_PER 5746 5748	my
+T240	PRON_PER 5861 5863	we
+T241	PRON_PER 5951 5953	my
+T242	PRON_PER 6056 6057	I
+T243	PRON_PER 6069 6071	He
+T244	PRON_PER 6166 6169	his
+T245	PRON_PER 6177 6178	I
+T246	PRON_PER 6223 6225	he
+T247	PRON_PER 6235 6237	me
+T248	PRON_PER 6268 6269	I
+T249	PRON_PER 6306 6307	I
+T250	PRON_PER 6335 6337	me
+T251	PRON_PER 6362 6363	I
+T252	PRON_PER 6427 6428	I
+T253	PRON_PER 6468 6472	They
+T254	PRON_PER 6510 6515	their
+T255	PRON_PER 6536 6541	their
+T256	PRON_PER 6553 6554	I
+T257	PRON_PER 6565 6567	my
+T258	PRON_PER 6616 6617	I
+T259	PRON_PER 6634 6636	he
+T260	PRON_PER 6646 6649	his
+T261	PRON_PER 6702 6705	his
+T262	PRON_PER 6771 6773	he
+T263	PRON_PER 6898 6899	I
+T264	PRON_PER 7008 7010	He
+T265	PRON_PER 7025 7027	me
+T266	PRON_PER 7072 7073	I
+T267	PRON_PER 7207 7208	I
+T268	PRON_PER 7232 7234	he
+T269	PRON_PER 7257 7258	I
+T270	PRON_PER 7321 7322	I
+T271	PRON_PER 7364 7368	them
+T272	PRON_PER 7386 7388	my
+T273	PRON_PER 7400 7404	they
+T274	PRON_PER 7424 7434	themselves
+T275	PRON_PER 7475 7476	I
+T276	PRON_PER 7517 7521	them
+T277	PRON_PER 7557 7558	I
+T278	PRON_PER 7608 7609	I
+T279	PRON_PER 7744 7748	them
+T280	PRON_PER 7766 7767	I
+T281	PRON_PER 7840 7845	their
+T282	PRON_PER 7884 7889	their
+T283	PRON_PER 7905 7909	them
+T284	PRON_PER 7952 7953	I
+T285	PRON_PER 7975 7976	I
+T286	PRON_PER 8125 8128	her
+T287	PRON_PER 8226 8228	he
+T288	PRON_PER 8369 8373	they
+T289	PRON_PER 8409 8414	their
+T290	PRON_PER 8455 8456	I
+T291	PRON_PER 8465 8469	they
+T292	PRON_PER 8495 8497	my
+T293	PRON_PER 8507 8508	I
+T294	PRON_PER 8525 8527	my
+T295	PRON_PER 8593 8596	you
+T296	PRON_PER 8644 8645	I
+T297	PRON_PER 8733 8735	He
+T298	PRON_PER 8820 8822	He
+T299	PRON_PER 8871 8873	he
+T300	PRON_PER 8902 8905	his
+T301	PRON_PER 8971 8973	he
+T302	PRON_PER 9021 9022	I
+T303	PRON_PER 9031 9033	he
+T304	PRON_PER 9071 9072	I
+T305	PRON_PER 9105 9107	He
+T306	PRON_PER 9118 9121	his
+T307	PRON_PER 9143 9145	he
+T308	PRON_PER 9174 9177	his
+T309	PRON_PER 9201 9203	he
+T310	PRON_PER 9234 9236	my
+T311	PRON_PER 9284 9286	me
+T312	PRON_PER 9324 9325	I
+T313	NOM_FAC 5431 5452	the botanical gardens
+T314	PROP_VEH 5638 5653	the _ Dunkeld _
+T433	narrator-0 10 11	I
+T406	SIR_HENRY_CURTIS-1 17 33	SIR HENRY CURTIS
+T434	narrator-0 64 66	my
+T435	narrator-0 102 103	I
+T436	narrator-0 116 122	myself
+T437	narrator-0 167 168	I
+T438	narrator-0 215 216	I
+T439	narrator-0 244 245	I
+T440	narrator-0 276 277	I
+T441	narrator-0 310 312	my
+T442	narrator-0 346 348	me
+T443	narrator-0 360 362	my
+T317	other_boys-2 417 427	other boys
+T407	school-3 435 441	school
+T444	narrator-0 442 443	I
+T445	narrator-0 456 458	my
+T316	narrator-0 469 495	a trader in the old Colony
+T408	the_old_Colony-4 481 495	the old Colony
+T446	narrator-0 498 499	I
+T447	narrator-0 605 606	I
+T448	narrator-0 612 614	my
+T449	narrator-0 648 649	I
+T450	narrator-0 665 666	I
+T451	narrator-0 698 699	I
+T452	narrator-0 713 714	I
+T453	narrator-0 794 795	I
+T454	narrator-0 806 807	I
+T455	narrator-0 866 867	I
+T456	narrator-0 919 920	I
+T457	narrator-0 951 952	I
+T458	narrator-0 964 965	I
+T459	narrator-0 1009 1011	my
+T460	narrator-0 1019 1020	I
+T461	narrator-0 1130 1132	me
+T462	narrator-0 1149 1151	my
+T463	narrator-0 1177 1178	I
+T320	SIR_HENRY_CURTIS-1 1213 1229	Sir Henry Curtis
+T319	Captain_John_Good-5 1234 1251	Captain John Good
+T464	narrator-0 1258 1260	me
+T465	narrator-0 1287 1288	I
+T431	Durban-6 1300 1304	here
+T325	Durban-6 1308 1314	Durban
+T466	narrator-0 1332 1334	my
+T467	narrator-0 1390 1392	me
+T468	narrator-0 1393 1394	I
+T469	narrator-0 1471 1473	me
+T470	your-7 1573 1577	your
+T472	you-8 1636 1639	you
+T473	you-9 1672 1675	you
+T474	your-10 1680 1684	your
+T475	narrator-0 1762 1763	I
+T476	narrator-0 1786 1788	my
+T477	your-11 1829 1833	your
+T478	narrator-0 1941 1942	I
+T479	narrator-0 2028 2029	I
+T422	Harry-12 2035 2041	my boy
+T480	narrator-0 2035 2037	my
+T323	London-13 2062 2067	there
+T324	the_hospital-14 2071 2083	the hospital
+T327	London-13 2087 2093	London
+T326	a_doctor-15 2113 2121	a doctor
+T481	Harry-12 2151 2154	him
+T482	Harry-12 2164 2167	him
+T402	Hospital-16 2203 2211	Hospital
+T329	Harry-12 2446 2451	Harry
+T483	our-17 2466 2469	our
+T484	narrator-0 2516 2517	I
+T485	narrator-0 2560 2561	I
+T331	no_woman-18 2645 2653	no woman
+T328	Foulata-19 2670 2677	Foulata
+T330	Gagaoola-20 2705 2713	Gagaoola
+T486	Gagaoola-20 2719 2722	she
+T487	Gagaoola-20 2759 2762	she
+T488	narrator-0 2824 2825	I
+T489	Gagaoola-20 2839 2842	her
+T490	narrator-0 2859 2860	I
+T491	narrator-0 2940 2941	I
+T492	narrator-0 2998 2999	I
+T493	narrator-0 3015 3016	I
+T335	the_Boers-21 3081 3090	the Boers
+T494	narrator-0 3098 3099	I
+T495	narrator-0 3108 3109	I
+T496	the_Boers-21 3126 3130	they
+T498	You-22 3239 3242	You
+T499	narrator-0 3304 3305	I
+T333	narrator-0 3308 3324	Allan Quatermain
+T334	Durban-6 3330 3336	Durban
+T339	Natal-23 3339 3344	Natal
+T410	Gentleman-24 3347 3356	Gentleman
+T500	narrator-0 3392 3393	I
+T501	narrator-0 3401 3403	my
+T338	the_magistrate-25 3422 3436	the magistrate
+T336	Khiva-26 3448 3453	Khiva
+T337	Ventv_gel-27 3461 3470	Ventvögel
+T502	narrator-0 3573 3574	I
+T341	a_gentleman-28 3597 3608	a gentleman
+T503	narrator-0 3611 3612	I
+T504	narrator-0 3641 3642	I
+T342	niggers-29 3663 3670	niggers
+T505	narrator-0 3679 3680	I
+T506	narrator-0 3726 3727	I
+T507	narrator-0 3745 3746	I
+T345	natives-30 3757 3764	natives
+T508	Harry-12 3786 3789	you
+T412	Harry-12 3801 3806	Harry
+T509	narrator-0 3809 3811	my
+T510	Harry-12 3825 3828	you
+T511	narrator-0 3860 3861	I
+T346	mean_whites_with_lots_of_money_and_fresh_out_from_home-31 3873 3927	mean whites with lots of money and fresh out from home
+T344	home-32 3923 3927	home
+T512	narrator-0 3968 3969	I
+T513	narrator-0 4000 4001	I
+T514	narrator-0 4064 4066	my
+T515	narrator-0 4082 4083	I
+T516	narrator-0 4101 4102	I
+T517	you-33 4115 4118	you
+T350	Heaven-34 4140 4146	Heaven
+T518	narrator-0 4153 4154	I
+T519	narrator-0 4167 4168	I
+T351	many_men-35 4181 4189	many men
+T520	narrator-0 4193 4195	my
+T521	narrator-0 4207 4208	I
+T522	narrator-0 4246 4248	my
+T352	The_Almighty-36 4301 4313	The Almighty
+T523	everyone_on_earth-37 4319 4321	us
+T524	everyone_on_earth-37 4322 4325	our
+T525	narrator-0 4338 4339	I
+T347	The_Almighty-36 4348 4350	He
+T527	everyone_on_earth-37 4357 4359	us
+T529	narrator-0 4386 4387	I
+T530	narrator-0 4420 4421	I
+T531	narrator-0 4461 4463	me
+T532	narrator-0 4469 4471	my
+T349	a_cruel_and_a_wicked_world-38 4510 4536	a cruel and a wicked world
+T414	narrator-0 4547 4558	a timid man
+T533	narrator-0 4559 4560	I
+T534	narrator-0 4610 4611	I
+T535	narrator-0 4660 4661	I
+T536	narrator-0 4694 4695	I
+T354	a_Kafir-39 4704 4711	a Kafir
+T537	a_Kafir-39 4747 4749	he
+T538	narrator-0 4759 4761	me
+T539	narrator-0 4797 4799	me
+T540	narrator-0 4881 4882	I
+T358	SIR_HENRY_CURTIS-1 4887 4903	Sir Henry Curtis
+T353	Captain_John_Good-5 4908 4920	Captain Good
+T541	narrator-0 4944 4945	I
+T355	Bamangwato-40 4982 4992	Bamangwato
+T542	narrator-0 5076 5077	I
+T543	narrator-0 5111 5112	I
+T544	narrator-0 5129 5130	I
+T362	the_Diamond_Fields-41 5147 5165	the Diamond Fields
+T545	narrator-0 5187 5188	I
+T546	narrator-0 5209 5211	my
+T360	my_hunters-42 5240 5250	my hunters
+T547	narrator-0 5240 5242	my
+T356	the_Cape-43 5279 5287	the Cape
+T367	Cape_Town-44 5315 5324	Cape Town
+T548	they-45 5340 5344	they
+T549	narrator-0 5357 5359	me
+T357	the_hotel-46 5363 5372	the hotel
+T628	the_botanical_gardens-47 5431 5452	the botanical gardens
+T550	narrator-0 5469 5471	me
+T359	the_country-48 5508 5519	the country
+T361	the_new_Houses_of_Parliament-49 5526 5554	the new Houses of Parliament
+T551	narrator-0 5563 5564	I
+T552	narrator-0 5602 5603	I
+T366	Natal-23 5629 5634	Natal
+T629	the___Dunkeld__-50 5638 5653	the _ Dunkeld _
+T363	the___Edinburgh_Castle__-51 5692 5716	the _ Edinburgh Castle _
+T369	Edinburgh-52 5698 5707	Edinburgh
+T365	England-53 5729 5736	England
+T553	narrator-0 5739 5740	I
+T554	narrator-0 5746 5748	my
+T374	the_Natal_passengers_from_the___Edinburgh_Castle__-54 5792 5842	the Natal passengers from the _ Edinburgh Castle _
+T372	the___Edinburgh_Castle__-51 5818 5842	the _ Edinburgh Castle _
+T373	Edinburgh-52 5824 5833	Edinburgh
+T555	passengers_on_the_Dunkeld-55 5861 5863	we
+T368	sea-56 5883 5886	sea
+T375	passengers_on_the_Dunkeld-55 5895 5929	these passengers who came on board
+T370	two_who_excited_my_curiosity-57 5935 5963	two who excited my curiosity
+T556	narrator-0 5951 5953	my
+T376	SIR_HENRY_CURTIS-1 5972 5999	a gentleman of about thirty
+T557	narrator-0 6056 6057	I
+T558	SIR_HENRY_CURTIS-1 6069 6071	He
+T559	SIR_HENRY_CURTIS-1 6166 6169	his
+T560	narrator-0 6177 6178	I
+T378	SIR_HENRY_CURTIS-1 6189 6208	a finer-looking man
+T561	SIR_HENRY_CURTIS-1 6223 6225	he
+T562	narrator-0 6235 6237	me
+T377	an_ancient_Dane-59 6241 6256	an ancient Dane
+T563	narrator-0 6268 6269	I
+T379	ancient_Danes-60 6283 6296	ancient Danes
+T564	narrator-0 6306 6307	I
+T415	a_modern_Dane_who_did_me_out_of_ten_pounds-61 6313 6355	a modern Dane who did me out of ten pounds
+T565	narrator-0 6335 6337	me
+T566	narrator-0 6362 6363	I
+T416	some_of_those_gentry-62 6398 6418	some of those gentry
+T567	narrator-0 6427 6428	I
+T380	some_of_those_gentry-62 6444 6465	a kind of white Zulus
+T568	some_of_those_gentry-62 6468 6472	They
+T569	some_of_those_gentry-62 6510 6515	their
+T570	some_of_those_gentry-62 6536 6541	their
+T571	narrator-0 6553 6554	I
+T382	SIR_HENRY_CURTIS-1 6565 6613	my friend standing there by the companion-ladder
+T572	narrator-0 6565 6567	my
+T573	narrator-0 6616 6617	I
+T574	SIR_HENRY_CURTIS-1 6634 6636	he
+T575	SIR_HENRY_CURTIS-1 6646 6649	his
+T576	SIR_HENRY_CURTIS-1 6702 6705	his
+T577	SIR_HENRY_CURTIS-1 6771 6773	he
+T381	a_model_for_that_picture-63 6792 6816	a model for that picture
+T578	narrator-0 6898 6899	I
+T386	SIR_HENRY_CURTIS-1 6927 6943	Sir Henry Curtis
+T384	SIR_HENRY_CURTIS-1 6959 6970	the big man
+T579	SIR_HENRY_CURTIS-1 7008 7010	He
+T580	narrator-0 7025 7027	me
+T383	somebody_else-64 7040 7053	somebody else
+T581	narrator-0 7072 7073	I
+T385	Captain_John_Good-5 7106 7152	The other man , who stood talking to Sir Henry
+T387	SIR_HENRY_CURTIS-1 7143 7152	Sir Henry
+T582	narrator-0 7207 7208	I
+T583	Captain_John_Good-5 7232 7234	he
+T584	narrator-0 7257 7258	I
+T391	a_navy_man-65 7308 7318	a navy man
+T585	narrator-0 7321 7322	I
+T586	a_navy_man-65 7364 7368	them
+T587	narrator-0 7386 7388	my
+T588	a_navy_man-65 7400 7404	they
+T589	a_navy_man-65 7424 7434	themselves
+T590	narrator-0 7475 7476	I
+T591	a_navy_man-65 7517 7521	them
+T592	narrator-0 7557 7558	I
+T392	a_gentleman-66 7594 7605	a gentleman
+T593	narrator-0 7608 7609	I
+T390	A_Royal_Naval_officer-67 7640 7661	A Royal Naval officer
+T594	A_Royal_Naval_officer-67 7744 7748	them
+T595	narrator-0 7766 7767	I
+T417	the_wide_seas-68 7785 7798	the wide seas
+T393	The_Almighty-36 7817 7820	God
+T596	A_Royal_Naval_officer-67 7840 7845	their
+T597	A_Royal_Naval_officer-67 7884 7889	their
+T598	A_Royal_Naval_officer-67 7905 7909	them
+T394	men-69 7915 7918	men
+T599	narrator-0 7952 7953	I
+T600	narrator-0 7975 7976	I
+T397	Captain_John_Good-5 7994 8006	the dark man
+T419	her_Majesty-70 8125 8136	her Majesty
+T601	her_Majesty-70 8125 8128	her
+T395	a_commander-71 8173 8184	a commander
+T602	Captain_John_Good-5 8226 8228	he
+T430	people_who_serve_the_Queen-72 8263 8289	people who serve the Queen
+T398	her_Majesty-70 8280 8289	the Queen
+T420	the_cold_world-73 8327 8341	the cold world
+T603	people_who_serve_the_Queen-72 8369 8373	they
+T604	people_who_serve_the_Queen-72 8409 8414	their
+T605	narrator-0 8455 8456	I
+T606	people_who_serve_the_Queen-72 8465 8469	they
+T607	narrator-0 8495 8497	my
+T608	narrator-0 8507 8508	I
+T609	narrator-0 8525 8527	my
+T399	a_hunter-74 8537 8545	a hunter
+T610	you-75 8593 8596	you
+T400	Captain_John_Good-5 8624 8635	The officer
+T611	narrator-0 8644 8645	I
+T403	the_passengers-77 8675 8689	the passengers
+T421	Captain_John_Good-5 8705 8709	Good
+T404	Captain_John_Good-5 8713 8730	Captain John Good
+T612	Captain_John_Good-5 8733 8735	He
+T401	Captain_John_Good-5 8793 8817	a curious man to look at
+T613	Captain_John_Good-5 8820 8822	He
+T614	Captain_John_Good-5 8871 8873	he
+T615	Captain_John_Good-5 8902 8905	his
+T616	Captain_John_Good-5 8971 8973	he
+T617	narrator-0 9021 9022	I
+T618	Captain_John_Good-5 9031 9033	he
+T619	narrator-0 9071 9072	I
+T620	Captain_John_Good-5 9105 9107	He
+T621	Captain_John_Good-5 9118 9121	his
+T622	Captain_John_Good-5 9143 9145	he
+T623	Captain_John_Good-5 9174 9177	his
+T624	Captain_John_Good-5 9201 9203	he
+T625	narrator-0 9234 9236	my
+T626	narrator-0 9284 9286	me
+T627	narrator-0 9324 9325	I
+T322	Harry-12 2042 2121	Harry , who is over there at the hospital in London studying to become a doctor
+R1	cop Arg1:T3 Arg2:T140
+R3	cop Arg1:T6 Arg2:T163
+R6	cop Arg1:T25 Arg2:T187
+R7	appos Arg1:T28 Arg2:T97
+R8	cop Arg1:T33 Arg2:T197
+R9	cop Arg1:T98 Arg2:T198
+R10	cop Arg1:T73 Arg2:T268
+R11	cop Arg1:T74 Arg2:T274
+R12	cop Arg1:T81 Arg2:T82
+R13	appos Arg1:T103 Arg2:T81
+R14	cop Arg1:T56 Arg2:T61
+T32	a_literary_man-700 1028 1042	a literary man
+T49	a_fiend-701 2745 2752	a fiend
+T96	a_woman-702 2727 2734	a woman
+T108	NOM_PER 7509 7521	some of them
+T109	some_of_them-700 7509 7521	some of them

@@ -1,0 +1,638 @@
+MENTION	T2	0	15	0	17	a comfortable home	FAC	NOM
+MENTION	T3	1	2	1	14	the youngest of the two daughters of a most affectionate , indulgent father	PER	NOM
+MENTION	T4	1	5	1	14	the two daughters of a most affectionate , indulgent father	PER	NOM
+MENTION	T5	1	9	1	14	a most affectionate , indulgent father	PER	NOM
+MENTION	T6	1	28	1	31	mistress of his house	PER	NOM
+MENTION	T7	1	30	1	31	his house	FAC	NOM
+MENTION	T8	2	0	2	1	Her mother	PER	NOM
+MENTION	T9	2	27	2	31	an excellent woman as governess	PER	NOM
+MENTION	T10	2	39	2	40	a mother	PER	NOM
+MENTION	T11	3	3	3	4	Miss Taylor	PER	PROP
+MENTION	T12	3	7	3	10	Mr. Woodhouse 's family	PER	NOM
+MENTION	T13	3	7	3	8	Mr. Woodhouse	PER	PROP
+MENTION	T14	3	14	3	15	a governess	PER	NOM
+MENTION	T15	3	17	3	18	a friend	PER	NOM
+MENTION	T16	3	23	3	24	both daughters	PER	NOM
+MENTION	T17	3	29	3	29	Emma	PER	PROP
+MENTION	T18	4	10	4	10	sisters	PER	NOM
+MENTION	T19	5	2	5	3	Miss Taylor	PER	PROP
+MENTION	T20	5	12	5	12	governess	PER	NOM
+MENTION	T21	5	45	5	45	friend	PER	NOM
+MENTION	T22	5	47	5	47	friend	PER	NOM
+MENTION	T23	5	53	5	53	Emma	PER	PROP
+MENTION	T24	5	62	5	63	Miss Taylor	PER	PROP
+MENTION	T25	6	7	6	7	Emma	PER	PROP
+MENTION	T26	9	1	9	2	Miss Taylor	PER	PROP
+MENTION	T27	10	2	10	3	Miss Taylor	PER	PROP
+COREF	T129	Miss_Taylor-6
+MENTION	T29	11	10	11	10	Emma	PER	PROP
+MENTION	T30	12	5	12	6	the bride-people	PER	NOM
+MENTION	T31	12	9	12	10	her father	PER	NOM
+MENTION	T32	12	23	12	24	a third	PER	NOM
+MENTION	T33	13	0	13	1	Her father	PER	NOM
+MENTION	T34	14	8	14	9	her friend	PER	NOM
+MENTION	T35	15	0	15	1	Mr. Weston	PER	PROP
+MENTION	T36	15	3	15	17	a man of unexceptionable character , easy fortune , suitable age , and pleasant manners	PER	NOM
+MENTION	T37	16	3	16	4	Miss Taylor	PER	PROP
+MENTION	T38	18	28	18	28	Isabella	PER	PROP
+MENTION	T39	19	3	19	10	a friend and companion such as few possessed	PER	NOM
+MENTION	T40	19	25	19	26	the family	PER	NOM
+MENTION	T41	21	5	21	6	her friend	PER	NOM
+MENTION	T42	21	17	21	17	Emma	PER	PROP
+MENTION	T45	21	43	21	44	the house	FAC	NOM
+MENTION	T46	22	3	22	4	her father	PER	NOM
+MENTION	T47	22	9	22	12	no companion for her	PER	NOM
+MENTION	T48	24	11	24	12	Mr. Woodhouse	PER	PROP
+MENTION	T49	24	30	24	31	a valetudinarian	PER	NOM
+MENTION	T50	24	45	24	53	a much older man in ways than in years	PER	NOM
+MENTION	T52	25	14	25	14	London	GPE	PROP
+MENTION	T53	25	41	25	41	Hartfield	FAC	PROP
+MENTION	T54	25	50	25	50	Isabella	PER	PROP
+MENTION	T55	25	52	25	53	her husband	PER	NOM
+MENTION	T56	25	56	25	58	their little children	PER	NOM
+MENTION	T57	25	62	25	63	the house	FAC	NOM
+MENTION	T58	26	0	26	0	Highbury	GPE	PROP
+MENTION	T59	26	2	26	6	the large and populous village	GPE	NOM
+MENTION	T60	26	11	26	12	a town	GPE	NOM
+MENTION	T61	26	16	26	16	Hartfield	FAC	PROP
+MENTION	T62	27	0	27	1	The Woodhouses	PER	PROP
+MENTION	T63	29	9	29	10	her father	PER	NOM
+MENTION	T64	29	27	29	28	Miss Taylor	PER	PROP
+MENTION	T65	30	7	30	7	Emma	PER	PROP
+MENTION	T66	30	22	30	23	her father	PER	NOM
+MENTION	T67	32	2	32	4	a nervous man	PER	NOM
+MENTION	T68	33	21	33	23	his own daughter	PER	NOM
+MENTION	T69	33	55	33	56	Miss Taylor	PER	PROP
+MENTION	T70	33	75	33	76	other people	PER	NOM
+MENTION	T71	33	90	33	91	Miss Taylor	PER	PROP
+MENTION	T72	33	123	33	123	Hartfield	FAC	PROP
+MENTION	T73	34	0	34	0	Emma	PER	PROP
+MENTION	T74	34	40	34	41	Miss Taylor	PER	PROP
+MENTION	T75	36	6	36	7	Mr. Weston	PER	PROP
+MENTION	T76	37	8	37	8	papa	PER	NOM
+MENTION	T77	38	0	38	1	Mr. Weston	PER	PROP
+MENTION	T78	38	4	38	10	a good-humoured , pleasant , excellent man	PER	NOM
+MENTION	T79	38	16	38	18	a good wife	PER	NOM
+MENTION	T80	38	27	38	28	Miss Taylor	PER	PROP
+MENTION	T81	38	46	38	50	a house of her own	FAC	NOM
+MENTION	T82	39	1	39	5	A house of her own	FAC	NOM
+MENTION	T83	40	7	40	11	a house of her own	FAC	NOM
+MENTION	T84	47	0	47	0	Randalls	FAC	PROP
+MENTION	T85	49	3	49	3	papa	PER	NOM
+MENTION	T86	50	4	50	5	the carriage	VEH	NOM
+MENTION	T87	51	1	51	2	The carriage	VEH	NOM
+MENTION	T88	52	1	52	1	James	PER	PROP
+MENTION	T89	53	7	53	8	Mr. Weston	PER	PROP
+MENTION	T90	53	7	53	10	Mr. Weston 's stable	FAC	NOM
+MENTION	T91	53	12	53	12	papa	PER	NOM
+MENTION	T92	55	6	55	7	Mr. Weston	PER	PROP
+MENTION	T93	56	3	56	3	James	PER	PROP
+MENTION	T94	56	16	56	16	Randalls	FAC	PROP
+MENTION	T95	56	20	56	21	his daughter	PER	NOM
+MENTION	T96	58	5	58	5	papa	PER	NOM
+MENTION	T97	59	2	59	2	Hannah	PER	PROP
+MENTION	T98	60	3	60	3	Hannah	PER	PROP
+MENTION	T99	60	9	60	9	James	PER	PROP
+MENTION	T100	62	12	62	12	James	PER	PROP
+MENTION	T101	62	27	62	30	a very good servant	PER	NOM
+MENTION	T102	62	34	62	38	a civil , pretty-spoken girl	PER	NOM
+MENTION	T103	64	6	64	8	an excellent servant	PER	NOM
+MENTION	T104	64	19	64	20	Miss Taylor	PER	PROP
+MENTION	T105	65	1	65	1	James	PER	PROP
+MENTION	T106	65	6	65	7	his daughter	PER	NOM
+MENTION	T107	67	0	67	0	Emma	PER	PROP
+MENTION	T108	67	23	67	24	her father	PER	NOM
+MENTION	T109	68	6	68	7	a visitor	PER	NOM
+MENTION	T110	69	0	69	1	Mr. Knightley	PER	PROP
+MENTION	T111	69	3	69	9	a sensible man about seven or eight-and-thirty	PER	NOM
+MENTION	T112	69	14	69	22	a very old and intimate friend of the family	PER	NOM
+MENTION	T113	69	21	69	22	the family	PER	NOM
+MENTION	T114	69	31	69	37	the elder brother of Isabella 's husband	PER	NOM
+MENTION	T115	69	35	69	37	Isabella 's husband	PER	NOM
+MENTION	T116	69	35	69	35	Isabella	PER	PROP
+MENTION	T117	70	6	70	6	Highbury	GPE	PROP
+MENTION	T118	70	9	70	11	a frequent visitor	PER	NOM
+MENTION	T119	70	34	70	34	London	GPE	PROP
+MENTION	T120	71	19	71	19	Hartfield	FAC	PROP
+MENTION	T121	71	27	71	28	Brunswick Square	FAC	PROP
+MENTION	T122	72	8	72	9	Mr. Woodhouse	PER	PROP
+MENTION	T123	73	0	73	1	Mr. Knightley	PER	PROP
+MENTION	T124	73	19	73	20	poor Isabella	PER	PROP
+MENTION	T125	73	23	73	24	her children	PER	NOM
+MENTION	T126	74	5	74	6	Mr. Woodhouse	PER	PROP
+MENTION	T127	74	18	74	19	Mr. Knightley	PER	PROP
+MENTION	T1	0	4	0	20	Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition	PER	NOM
+MENTION	T43	21	27	21	29	a Mrs. Weston	PER	NOM
+MENTION	T44	21	39	21	41	a Miss Taylor	PER	NOM
+MENTION	T152	64	23	64	23	somebody	PER	NOM
+MENTION	T153	0	40	0	41	the world	LOC	NOM
+MENTION	T155	49	5	49	5	nobody	PER	NOM
+MENTION	T156	60	0	60	0	Nobody	PER	NOM
+MENTION	T157	32	11	32	17	every body that he was used to	PER	NOM
+MENTION	T158	27	6	27	6	there	GPE	NOM
+MENTION	T159	56	25	56	25	there	FAC	NOM
+MENTION	T160	56	24	56	24	housemaid	PER	NOM
+MENTION	T161	63	27	63	27	here	FAC	NOM
+MENTION	T162	29	5	29	6	the place	GPE	NOM
+MENTION	T165	0	49	0	49	her	PER	PRON
+MENTION	T166	1	0	1	0	She	PER	PRON
+MENTION	T167	1	22	1	22	her	PER	PRON
+MENTION	T168	1	30	1	30	his	PER	PRON
+MENTION	T169	2	0	2	0	Her	PER	PRON
+MENTION	T170	2	8	2	8	her	PER	PRON
+MENTION	T171	2	17	2	17	her	PER	PRON
+MENTION	T172	2	21	2	21	her	PER	PRON
+MENTION	T173	4	2	4	2	them	PER	PRON
+MENTION	T174	5	17	5	17	her	PER	PRON
+MENTION	T175	5	22	5	22	her	PER	PRON
+MENTION	T176	5	39	5	39	they	PER	PRON
+MENTION	T177	5	57	5	57	she	PER	PRON
+MENTION	T178	5	71	5	71	her	PER	PRON
+MENTION	T179	6	18	6	18	her	PER	PRON
+MENTION	T180	6	32	6	32	herself	PER	PRON
+MENTION	T181	6	42	6	42	her	PER	PRON
+MENTION	T183	7	22	7	22	her	PER	PRON
+MENTION	T184	12	9	12	9	her	PER	PRON
+MENTION	T185	12	12	12	12	herself	PER	PRON
+MENTION	T186	13	0	13	0	Her	PER	PRON
+MENTION	T187	13	3	13	3	himself	PER	PRON
+MENTION	T188	13	13	13	13	she	PER	PRON
+MENTION	T189	13	23	13	23	she	PER	PRON
+MENTION	T190	14	8	14	8	her	PER	PRON
+MENTION	T191	15	32	15	32	she	PER	PRON
+MENTION	T192	15	50	15	50	her	PER	PRON
+MENTION	T193	17	0	17	0	She	PER	PRON
+MENTION	T194	17	2	17	2	her	PER	PRON
+MENTION	T195	17	16	17	16	she	PER	PRON
+MENTION	T196	17	21	17	21	she	PER	PRON
+MENTION	T197	17	25	17	25	her	PER	PRON
+MENTION	T198	17	32	17	32	she	PER	PRON
+MENTION	T199	17	36	17	36	her	PER	PRON
+MENTION	T200	17	42	17	42	her	PER	PRON
+MENTION	T201	17	49	17	49	her	PER	PRON
+MENTION	T202	18	33	18	33	their	PER	PRON
+MENTION	T203	19	0	19	0	She	PER	PRON
+MENTION	T204	19	38	19	38	herself	PER	PRON
+MENTION	T205	19	52	19	52	she	PER	PRON
+MENTION	T206	19	68	19	68	her	PER	PRON
+MENTION	T207	20	2	20	2	she	PER	PRON
+MENTION	T208	21	5	21	5	her	PER	PRON
+MENTION	T209	21	14	21	14	them	PER	PRON
+MENTION	T210	21	36	21	36	them	PER	PRON
+MENTION	T211	21	49	21	49	her	PER	PRON
+MENTION	T212	21	56	21	56	she	PER	PRON
+MENTION	T213	22	0	22	0	She	PER	PRON
+MENTION	T214	22	3	22	3	her	PER	PRON
+MENTION	T215	22	7	22	7	he	PER	PRON
+MENTION	T216	22	12	22	12	her	PER	PRON
+MENTION	T217	23	0	23	0	He	PER	PRON
+MENTION	T218	23	4	23	4	her	PER	PRON
+MENTION	T219	24	7	24	7	their	PER	PRON
+MENTION	T220	24	22	24	22	his	PER	PRON
+MENTION	T221	24	33	24	33	his	PER	PRON
+MENTION	T222	24	43	24	43	he	PER	PRON
+MENTION	T223	24	63	24	63	his	PER	PRON
+MENTION	T224	24	66	24	66	his	PER	PRON
+MENTION	T225	24	70	24	70	his	PER	PRON
+MENTION	T226	24	76	24	76	him	PER	PRON
+MENTION	T227	25	0	25	0	Her	PER	PRON
+MENTION	T228	25	24	25	24	her	PER	PRON
+MENTION	T229	25	52	25	52	her	PER	PRON
+MENTION	T230	25	56	25	56	their	PER	PRON
+MENTION	T231	25	67	25	67	her	PER	PRON
+MENTION	T232	26	36	26	36	her	PER	PRON
+MENTION	T233	28	4	28	4	them	PER	PRON
+MENTION	T234	29	0	29	0	She	PER	PRON
+MENTION	T235	29	9	29	9	her	PER	PRON
+MENTION	T236	29	19	29	19	them	PER	PRON
+MENTION	T237	30	22	30	22	her	PER	PRON
+MENTION	T238	31	0	31	0	His	PER	PRON
+MENTION	T239	32	0	32	0	He	PER	PRON
+MENTION	T240	32	14	32	14	he	PER	PRON
+MENTION	T241	32	24	32	24	them	PER	PRON
+MENTION	T242	33	13	33	13	he	PER	PRON
+MENTION	T243	33	21	33	21	his	PER	PRON
+MENTION	T244	33	32	33	32	her	PER	PRON
+MENTION	T245	33	48	33	48	he	PER	PRON
+MENTION	T246	33	61	33	61	his	PER	PRON
+MENTION	T247	33	81	33	81	himself	PER	PRON
+MENTION	T248	33	83	33	83	he	PER	PRON
+MENTION	T249	33	99	33	99	herself	PER	PRON
+MENTION	T250	33	102	33	102	them	PER	PRON
+MENTION	T251	33	113	33	113	she	PER	PRON
+MENTION	T252	33	120	33	120	her	PER	PRON
+MENTION	T253	34	7	34	7	she	PER	PRON
+MENTION	T254	34	12	34	12	him	PER	PRON
+MENTION	T255	34	26	34	26	him	PER	PRON
+MENTION	T256	34	32	34	32	he	PER	PRON
+MENTION	T257	35	1	35	1	I	PER	PRON
+MENTION	T258	35	3	35	3	she	PER	PRON
+MENTION	T259	36	11	36	11	her	PER	PRON
+MENTION	T260	37	1	37	1	I	PER	PRON
+MENTION	T261	37	6	37	6	you	PER	PRON
+MENTION	T262	37	10	37	10	you	PER	PRON
+MENTION	T263	37	12	37	12	I	PER	PRON
+MENTION	T264	38	13	38	13	he	PER	PRON
+MENTION	T265	38	22	38	22	you	PER	PRON
+MENTION	T266	38	31	38	31	us	PER	PRON
+MENTION	T267	38	38	38	38	my	PER	PRON
+MENTION	T268	38	43	38	43	she	PER	PRON
+MENTION	T269	38	49	38	49	her	PER	PRON
+MENTION	T270	39	4	39	4	her	PER	PRON
+MENTION	T271	40	10	40	10	her	PER	PRON
+MENTION	T272	42	2	42	2	you	PER	PRON
+MENTION	T273	42	9	42	9	my	PER	PRON
+MENTION	T274	43	3	43	3	we	PER	PRON
+MENTION	T275	43	9	43	9	them	PER	PRON
+MENTION	T276	43	12	43	12	they	PER	PRON
+MENTION	T277	43	16	43	16	us	PER	PRON
+MENTION	T278	44	1	44	1	We	PER	PRON
+MENTION	T279	45	1	45	1	We	PER	PRON
+MENTION	T280	45	6	45	6	we	PER	PRON
+MENTION	T281	46	1	46	1	My	PER	PRON
+MENTION	T282	46	6	46	6	I	PER	PRON
+MENTION	T283	48	0	48	0	I	PER	PRON
+MENTION	T284	49	8	49	8	your	PER	PRON
+MENTION	T285	50	0	50	0	We	PER	PRON
+MENTION	T286	52	26	52	26	we	PER	PRON
+MENTION	T287	52	29	52	29	our	PER	PRON
+MENTION	T289	54	0	54	0	You	PER	PRON
+MENTION	T290	54	2	54	2	we	PER	PRON
+MENTION	T291	55	0	55	0	We	PER	PRON
+MENTION	T292	56	5	56	5	you	PER	PRON
+MENTION	T293	56	10	56	10	he	PER	PRON
+MENTION	T294	56	20	56	20	his	PER	PRON
+MENTION	T295	57	0	57	0	I	PER	PRON
+MENTION	T296	57	4	57	4	he	PER	PRON
+MENTION	T297	57	8	57	8	us	PER	PRON
+MENTION	T298	58	2	58	2	your	PER	PRON
+MENTION	T299	59	0	59	0	You	PER	PRON
+MENTION	T300	60	5	60	5	you	PER	PRON
+MENTION	T301	60	7	60	7	her	PER	PRON
+MENTION	T302	60	14	60	14	you	PER	PRON
+MENTION	T303	61	1	61	1	I	PER	PRON
+MENTION	T304	61	5	61	5	I	PER	PRON
+MENTION	T305	61	9	61	9	her	PER	PRON
+MENTION	T306	62	6	62	6	I	PER	PRON
+MENTION	T307	62	14	62	14	himself	PER	PRON
+MENTION	T308	62	21	62	21	I	PER	PRON
+MENTION	T309	62	24	62	24	she	PER	PRON
+MENTION	T310	62	32	62	32	she	PER	PRON
+MENTION	T311	62	40	62	40	I	PER	PRON
+MENTION	T312	62	46	62	46	her	PER	PRON
+MENTION	T313	63	1	63	1	I	PER	PRON
+MENTION	T314	63	3	63	3	her	PER	PRON
+MENTION	T315	63	5	63	5	she	PER	PRON
+MENTION	T316	63	10	63	10	me	PER	PRON
+MENTION	T317	63	12	63	12	I	PER	PRON
+MENTION	T318	63	23	63	23	you	PER	PRON
+MENTION	T319	63	26	63	26	her	PER	PRON
+MENTION	T320	63	32	63	32	I	PER	PRON
+MENTION	T321	63	34	63	34	she	PER	PRON
+MENTION	T322	64	0	64	0	I	PER	PRON
+MENTION	T323	64	3	64	3	she	PER	PRON
+MENTION	T324	64	25	64	25	her	PER	PRON
+MENTION	T325	64	27	64	27	she	PER	PRON
+MENTION	T326	65	6	65	6	his	PER	PRON
+MENTION	T327	65	9	65	9	you	PER	PRON
+MENTION	T328	65	12	65	12	she	PER	PRON
+MENTION	T329	65	17	65	17	us	PER	PRON
+MENTION	T330	66	0	66	0	He	PER	PRON
+MENTION	T331	66	6	66	6	her	PER	PRON
+MENTION	T332	66	8	66	8	we	PER	PRON
+MENTION	T333	67	23	67	23	her	PER	PRON
+MENTION	T334	67	37	67	37	her	PER	PRON
+MENTION	T335	70	0	70	0	He	PER	PRON
+MENTION	T336	70	30	70	30	their	PER	PRON
+MENTION	T337	71	0	71	0	He	PER	PRON
+MENTION	T338	73	10	73	10	him	PER	PRON
+MENTION	T339	73	14	73	14	his	PER	PRON
+MENTION	T340	73	23	73	23	her	PER	PRON
+MENTION	T341	74	16	74	16	you	PER	PRON
+MENTION	T342	74	31	74	31	us	PER	PRON
+MENTION	T343	75	0	75	0	I	PER	PRON
+MENTION	T344	75	3	75	3	you	PER	PRON
+MENTION	T345	19	47	19	47	hers	PER	PRON
+COREF	T1	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T2	Hartfield-1
+COREF	T153	the_world-2
+COREF	T165	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T166	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T4	Emma_and_Isabelle-3
+COREF	T5	Mr_Woodhouse-4
+COREF	T167	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T7	Hartfield-1
+COREF	T168	Mr_Woodhouse-4
+COREF	T8	Her_mother-5
+COREF	T169	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T170	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T171	Her_mother-5
+COREF	T172	Her_mother-5
+COREF	T9	Miss_Taylor-6
+COREF	T10	a_mother-100000
+COREF	T11	Miss_Taylor-6
+COREF	T12	Woodhouse_Family-7
+COREF	T13	Mr_Woodhouse-4
+COREF	T16	Emma_and_Isabelle-3
+COREF	T17	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T173	Emma_and_Miss_Taylor-8
+COREF	T18	sisters-100001
+COREF	T19	Miss_Taylor-6
+COREF	T20	governess-100002
+COREF	T174	Miss_Taylor-6
+COREF	T175	Miss_Taylor-6
+COREF	T176	Emma_and_Miss_Taylor-8
+COREF	T21	friend-100003
+COREF	T22	friend-100004
+COREF	T23	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T177	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T24	Miss_Taylor-6
+COREF	T178	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T25	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T179	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T180	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T181	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T183	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T26	Miss_Taylor-6
+COREF	T27	Miss_Taylor-6
+COREF	T29	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T30	the_bride-people-9
+COREF	T31	Mr_Woodhouse-4
+COREF	T184	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T185	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T32	a_third-100005
+COREF	T33	Mr_Woodhouse-4
+COREF	T186	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T187	Mr_Woodhouse-4
+COREF	T188	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T189	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T34	Miss_Taylor-6
+COREF	T190	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T35	Mr__Weston-10
+COREF	T191	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T192	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T37	Miss_Taylor-6
+COREF	T193	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T194	Miss_Taylor-6
+COREF	T195	Miss_Taylor-6
+COREF	T196	Miss_Taylor-6
+COREF	T197	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T198	Miss_Taylor-6
+COREF	T199	Miss_Taylor-6
+COREF	T200	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T201	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T38	Isabella-11
+COREF	T202	Emma_and_Miss_Taylor-8
+COREF	T203	Miss_Taylor-6
+COREF	T40	Woodhouse_Family-7
+COREF	T204	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T345	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T205	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T206	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T207	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T41	Miss_Taylor-6
+COREF	T208	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T209	Emma_and_father-12
+COREF	T42	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T43	Miss_Taylor-6
+COREF	T210	Emma_and_father-12
+COREF	T44	Miss_Taylor-6
+COREF	T45	Hartfield-1
+COREF	T211	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T212	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T213	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T46	Mr_Woodhouse-4
+COREF	T214	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T215	Mr_Woodhouse-4
+COREF	T47	no_companion_for_her-100006
+COREF	T216	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T217	Mr_Woodhouse-4
+COREF	T218	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T219	Emma_and_father-12
+COREF	T48	Mr_Woodhouse-4
+COREF	T221	Mr_Woodhouse-4
+COREF	T222	Mr_Woodhouse-4
+COREF	T223	Mr_Woodhouse-4
+COREF	T224	Mr_Woodhouse-4
+COREF	T225	Mr_Woodhouse-4
+COREF	T226	Mr_Woodhouse-4
+COREF	T227	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T52	London-13
+COREF	T228	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T53	Hartfield-1
+COREF	T54	Isabella-11
+COREF	T55	Isabella_s_husband-14
+COREF	T229	Isabella-11
+COREF	T56	Isabella_s_children-15
+COREF	T230	Isabella_and_husband-16
+COREF	T57	Hartfield-1
+COREF	T231	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T58	Highbury-17
+COREF	T61	Hartfield-1
+COREF	T232	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T62	Woodhouse_Family-7
+COREF	T158	Highbury-17
+COREF	T233	Woodhouse_Family-7
+COREF	T234	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T162	Highbury-17
+COREF	T63	Mr_Woodhouse-4
+COREF	T235	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T236	People_of_Highbury-18
+COREF	T64	Miss_Taylor-6
+COREF	T65	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T66	Mr_Woodhouse-4
+COREF	T237	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T238	Mr_Woodhouse-4
+COREF	T239	Mr_Woodhouse-4
+COREF	T157	every_body_that_he_was_used_to-19
+COREF	T240	Mr_Woodhouse-4
+COREF	T241	every_body_that_he_was_used_to-19
+COREF	T242	Mr_Woodhouse-4
+COREF	T68	Isabella-11
+COREF	T243	Mr_Woodhouse-4
+COREF	T244	Isabella-11
+COREF	T245	Mr_Woodhouse-4
+COREF	T69	Miss_Taylor-6
+COREF	T246	Mr_Woodhouse-4
+COREF	T70	other_people-100007
+COREF	T247	Mr_Woodhouse-4
+COREF	T248	Mr_Woodhouse-4
+COREF	T71	Miss_Taylor-6
+COREF	T249	Miss_Taylor-6
+COREF	T250	Emma_and_father-12
+COREF	T251	Miss_Taylor-6
+COREF	T252	Miss_Taylor-6
+COREF	T72	Hartfield-1
+COREF	T73	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T253	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T254	Mr_Woodhouse-4
+COREF	T255	Mr_Woodhouse-4
+COREF	T256	Mr_Woodhouse-4
+COREF	T74	Miss_Taylor-6
+COREF	T257	Mr_Woodhouse-4
+COREF	T258	Miss_Taylor-6
+COREF	T75	Mr__Weston-10
+COREF	T259	Miss_Taylor-6
+COREF	T260	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T261	Mr_Woodhouse-4
+COREF	T76	Mr_Woodhouse-4
+COREF	T262	Mr_Woodhouse-4
+COREF	T263	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T77	Mr__Weston-10
+COREF	T264	Mr__Weston-10
+COREF	T79	a_good_wife-100008
+COREF	T265	Mr_Woodhouse-4
+COREF	T80	Miss_Taylor-6
+COREF	T266	Emma_and_father-12
+COREF	T267	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T268	Miss_Taylor-6
+COREF	T81	Randalls-20
+COREF	T269	Miss_Taylor-6
+COREF	T82	Randalls-20
+COREF	T270	Miss_Taylor-6
+COREF	T83	Randalls-20
+COREF	T271	Miss_Taylor-6
+COREF	T272	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T273	Mr_Woodhouse-4
+COREF	T274	Emma_and_father-12
+COREF	T275	Weston_family-21
+COREF	T276	Weston_family-21
+COREF	T277	Emma_and_father-12
+COREF	T278	Emma_and_father-12
+COREF	T279	Emma_and_father-12
+COREF	T280	Emma_and_father-12
+COREF	T281	Mr_Woodhouse-4
+COREF	T282	Mr_Woodhouse-4
+COREF	T84	Randalls-20
+COREF	T283	Mr_Woodhouse-4
+COREF	T85	Mr_Woodhouse-4
+COREF	T155	nobody-100009
+COREF	T284	Mr_Woodhouse-4
+COREF	T285	Emma_and_father-12
+COREF	T86	the_carriage-22
+COREF	T87	the_carriage-22
+COREF	T88	James-23
+COREF	T286	Emma_and_father-12
+COREF	T287	Emma_and_father-12
+COREF	T89	Mr__Weston-10
+COREF	T90	Mr__Weston__s_stable-24
+COREF	T91	Mr_Woodhouse-4
+COREF	T289	Mr_Woodhouse-4
+COREF	T290	Emma_and_father-12
+COREF	T291	Emma_and_father-12
+COREF	T92	Mr__Weston-10
+COREF	T93	James-23
+COREF	T292	Mr_Woodhouse-4
+COREF	T293	James-23
+COREF	T94	Randalls-20
+COREF	T95	Hannah-25
+COREF	T294	James-23
+COREF	T159	Randalls-20
+COREF	T295	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T296	James-23
+COREF	T297	Emma_and_father-12
+COREF	T298	Mr_Woodhouse-4
+COREF	T96	Mr_Woodhouse-4
+COREF	T299	Mr_Woodhouse-4
+COREF	T97	Hannah-25
+COREF	T156	Nobody-100010
+COREF	T98	Hannah-25
+COREF	T300	Mr_Woodhouse-4
+COREF	T301	Hannah-25
+COREF	T99	James-23
+COREF	T302	Mr_Woodhouse-4
+COREF	T303	Mr_Woodhouse-4
+COREF	T304	Mr_Woodhouse-4
+COREF	T305	Hannah-25
+COREF	T306	Mr_Woodhouse-4
+COREF	T100	James-23
+COREF	T307	James-23
+COREF	T308	Mr_Woodhouse-4
+COREF	T309	Hannah-25
+COREF	T310	Hannah-25
+COREF	T311	Mr_Woodhouse-4
+COREF	T312	Hannah-25
+COREF	T313	Mr_Woodhouse-4
+COREF	T314	Hannah-25
+COREF	T315	Hannah-25
+COREF	T316	Mr_Woodhouse-4
+COREF	T317	Mr_Woodhouse-4
+COREF	T318	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T319	Hannah-25
+COREF	T161	Hartfield-1
+COREF	T320	Mr_Woodhouse-4
+COREF	T321	Hannah-25
+COREF	T322	Mr_Woodhouse-4
+COREF	T323	Hannah-25
+COREF	T104	Miss_Taylor-6
+COREF	T152	somebody-100011
+COREF	T324	Miss_Taylor-6
+COREF	T325	Miss_Taylor-6
+COREF	T105	James-23
+COREF	T106	Hannah-25
+COREF	T326	James-23
+COREF	T327	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T328	Miss_Taylor-6
+COREF	T329	Emma_and_father-12
+COREF	T330	James-23
+COREF	T331	Miss_Taylor-6
+COREF	T332	Emma_and_father-12
+COREF	T107	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T108	Mr_Woodhouse-4
+COREF	T333	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T334	Emma_Woodhouse___handsome___clever___and_rich___with_a_comfortable_home_and_happy_disposition-0
+COREF	T109	Mr__Knightley-26
+COREF	T110	Mr__Knightley-26
+COREF	T113	Woodhouse_Family-7
+COREF	T115	Mr__Weston-10
+COREF	T116	Isabella-11
+COREF	T335	Mr__Knightley-26
+COREF	T117	Highbury-17
+COREF	T336	Knightly_and_Woodhouses-27
+COREF	T119	London-13
+COREF	T337	Mr__Knightley-26
+COREF	T120	Hartfield-1
+COREF	T121	Brunswick_Square-28
+COREF	T122	Mr_Woodhouse-4
+COREF	T123	Mr__Knightley-26
+COREF	T338	Mr_Woodhouse-4
+COREF	T339	Mr__Knightley-26
+COREF	T124	Isabella-11
+COREF	T125	Isabella_s_children-15
+COREF	T340	Isabella-11
+COREF	T126	Mr_Woodhouse-4
+COREF	T341	Mr__Knightley-26
+COREF	T127	Mr__Knightley-26
+COREF	T342	Emma_and_father-12
+COREF	T343	Mr_Woodhouse-4
+COREF	T344	Mr__Knightley-26
+COP	T3	T166
+COP	T6	T166
+COP	T15	T11
+COP	T36	T35
+COP	T39	T203
+COP	T49	T222
+APPOS	T59	T58
+COP	T67	T239
+COP	T78	T77
+COP	T160	T95
+COP	T102	T310
+APPOS	T111	T110
+COP	T112	T110
+COP	T114	T110
+COP	T118	T335
+COP	T50	T222
+COREF	T220	Mr_Woodhouse-4
+MENTION	T129	11	6	11	8	this beloved friend	PER	NOM
+MENTION	T700	19	31	19	31	its	PER	PRON
+COREF	T700	Woodhouse_Family-7
+MENTION	T706	26	21	26	21	its	FAC	PRON
+COREF	T706	Hartfield-1
+MENTION	T730	69	28	69	28	it	PER	PRON
+COREF	T730	Woodhouse_Family-7
+COREF	T14	a_governess-700
+COREF	T60	a_town-701
+COREF	T101	a_very_good_servant-702
+COREF	T103	an_excellent_servant-703
+MENTION	T134	25	0	25	1	Her sister	PER	NOM
+COREF	T134	Isabella-11

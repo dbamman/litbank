@@ -1,0 +1,500 @@
+T13	PROP_PER 61 76	Caroline Meeber
+T20	PROP_GPE 109 116	Chicago
+T66	PROP_FAC 344 360	Van Buren Street
+T183	NOM_FAC 927 931	home
+T223	PROP_GPE 1133 1146	Columbia City
+T237	PROP_GPE 1195 1202	Chicago
+T292	PROP_GPE 1481 1488	Chicago
+T500	PROP_PER 2620 2633	Sister Carrie
+T867	PROP_GPE 4575 4582	Chicago
+T909	PROP_GPE 4742 4755	Columbia City
+T931	PROP_GPE 4839 4846	Chicago
+T1079	NOM_PER 5534 5543	Americans
+T1667	NOM_PER 8481 8484	man
+T1889	NOM_PER 9510 9519	relatives
+T1910	PROP_FAC 9594 9606	Lincoln Park
+T1919	PROP_FAC 9627 9645	Michigan Boulevard
+T3	PROP_PER 2606 2614	Caroline
+T4	PROP_GPE 3952 3960	Waukesha
+T6	PROP_PER 4711 4717	Carrie
+T8	NOM_PER 319 329	her sister
+T9	NOM_PER 658 668	her mother
+T10	NOM_PER 756 766	her father
+T12	NOM_GPE 837 848	the village
+T15	NOM_GPE 1054 1068	the great city
+T16	NOM_PER 1297 1307	her sister
+T17	NOM_LOC 1347 1366	the green landscape
+T18	NOM_PER 1505 1511	a girl
+T19	NOM_FAC 1519 1527	her home
+T21	NOM_GPE 1787 1795	The city
+T2	NOM_PER 1968 1991	the most cultured human
+T22	NOM_PER 2335 2347	a counsellor
+T23	NOM_PER 2682 2692	the family
+T24	NOM_PER 3162 3174	the emigrant
+T25	NOM_PER 3542 3571	A half-equipped little knight
+T26	NOM_GPE 3607 3626	the mysterious city
+T27	NOM_PER 3765 3772	a woman
+T29	PROP_GPE 3867 3876	Wisconsin
+T30	NOM_PER 4003 4008	a man
+T32	NOM_PER 3104 3129	the middle American class
+T33	NOM_PER 3133 3148	two generations
+T34	NOM_FAC 3788 3792	That
+T5	NOM_PER 4344 4358	the individual
+T36	NOM_FAC 4556 4570	a great resort
+T37	NOM_PER 4575 4589	Chicago people
+T38	NOM_FAC 4592 4602	The hotels
+T39	NOM_GPE 4654 4665	the country
+T40	NOM_LOC 4641 4665	this part of the country
+T41	NOM_LOC 4784 4788	here
+T42	NOM_PER 5300 5324	the travelling canvasser
+T43	NOM_PER 5669 5692	susceptible young women
+T7	NOM_PER 5696 5710	a “ masher . ”
+T44	PROP_PER 6569 6575	Carrie
+T46	NOM_PER 7248 7261	a young woman
+T47	NOM_FAC 7582 7600	a department store
+T49	NOM_VEH 7710 7719	the train
+T50	NOM_FAC 7726 7742	waiting stations
+T51	NOM_VEH 7887 7901	the parlor car
+T55	NOM_PER 8289 8296	A woman
+T56	NOM_PER 8526 8557	those who are worth glancing at
+T57	NOM_PER 8562 8579	those who are not
+T58	NOM_PER 8587 8600	an individual
+T61	NOM_PER 8725 8730	a man
+T63	NOM_PER 8775 8802	the individual at her elbow
+T65	PROP_PER 8818 8824	Carrie
+T67	NOM_GPE 9066 9075	your town
+T68	NOM_PER 9038 9062	quite a number of people
+T72	PROP_GPE 9400 9407	Chicago
+T73	NOM_GPE 9432 9441	that city
+T74	NOM_PER 9546 9555	my sister
+T75	NOM_FAC 9668 9683	great buildings
+T76	PROP_GPE 9707 9715	New York
+T77	NOM_FAC 9745 9753	theatres
+T78	NOM_PER 9756 9762	crowds
+T79	NOM_FAC 9765 9776	fine houses
+T81	NOM_PER 37 43	A WAIF
+T11	NOM_FAC 735 784	the flour mill where her father worked by the day
+T28	NOM_FAC 3828 3876	one of the prettiest little resorts in Wisconsin
+T14	NOM_FAC 988 1004	the next station
+T1	NOM_VEH 85 104	the afternoon train
+T83	NOM_VEH 715 723	the cars
+T84	NOM_VEH 1093 1130	these very trains which came up daily
+T85	NOM_VEH 3918 3927	The train
+T35	NOM_ORG 5329 5350	a manufacturing house
+T86	NOM_ORG 6277 6294	the Order of Elks
+T48	NOM_PER 10227 10272	some popular actress of whom she reminded him
+T60	NOM_PER 9106 9112	Gibson
+T62	NOM_PER 9113 9130	the dry goods man
+T64	NOM_PER 9078 9088	Morgenroth
+T69	NOM_PER 9089 9101	the clothier
+T31	NOM_LOC 7009 7018	the world
+T52	NOM_GPE 9463 9468	there
+T53	NOM_FAC 9684 9689	there
+T1922	PRON_PER 119 122	her
+T1923	PRON_PER 284 287	her
+T1924	PRON_PER 319 322	her
+T1925	PRON_PER 417 420	She
+T1926	PRON_PER 567 570	her
+T1927	PRON_PER 658 661	her
+T1928	PRON_PER 699 702	her
+T1929	PRON_PER 756 759	her
+T1930	PRON_PER 896 899	her
+T1931	PRON_PER 1184 1187	she
+T1932	PRON_PER 1259 1262	She
+T1933	PRON_PER 1297 1300	her
+T1934	PRON_PER 1334 1337	She
+T1935	PRON_PER 1405 1408	her
+T1936	PRON_PER 1519 1522	her
+T1937	PRON_PER 1542 1545	she
+T1938	PRON_PER 1578 1581	she
+T1939	PRON_PER 1630 1633	she
+T1942	PRON_PER 2639 2642	she
+T1943	PRON_PER 2793 2796	her
+T1944	PRON_PER 2849 2852	her
+T1945	PRON_PER 3078 3081	she
+T1946	PRON_PER 3195 3198	her
+T1947	PRON_PER 3261 3264	she
+T1948	PRON_PER 3283 3286	She
+T1949	PRON_PER 3307 3310	her
+T1950	PRON_PER 3329 3332	Her
+T1951	PRON_PER 3417 3420	she
+T1952	PRON_PER 3439 3442	her
+T1953	PRON_PER 3572 3575	she
+T1954	PRON_PER 3813 3816	her
+T1955	PRON_PER 3893 3896	she
+T1956	PRON_PER 3977 3980	she
+T1957	PRON_PER 4018 4021	She
+T1958	PRON_PER 4027 4030	him
+T1959	PRON_PER 4041 4044	her
+T1960	PRON_PER 4060 4062	He
+T1961	PRON_PER 4112 4115	she
+T1962	PRON_PER 4166 4169	Her
+T1963	PRON_PER 4267 4270	her
+T1964	PRON_PER 4413 4416	She
+T1965	PRON_PER 4428 4430	He
+T1966	PRON_PER 4453 4456	his
+T1967	PRON_PER 4481 4484	her
+T1968	PRON_PER 4512 4519	himself
+T1969	PRON_PER 4615 4618	You
+T1970	PRON_PER 4672 4675	you
+T1971	PRON_PER 4693 4694	I
+T1972	PRON_PER 4732 4733	I
+T1973	PRON_PER 4758 4759	I
+T1974	PRON_PER 4819 4823	your
+T1975	PRON_PER 4851 4853	he
+T1976	PRON_PER 4878 4881	she
+T1977	PRON_PER 4935 4938	her
+T1978	PRON_PER 5012 5015	She
+T1979	PRON_PER 5043 5046	him
+T1980	PRON_PER 5126 5129	her
+T1981	PRON_PER 5140 5141	I
+T1982	PRON_PER 5163 5166	she
+T1983	PRON_PER 5183 5185	he
+T1984	PRON_PER 5259 5260	I
+T1985	PRON_PER 5269 5272	you
+T1986	PRON_PER 5443 5445	He
+T1987	PRON_PER 5711 5714	His
+T1988	PRON_PER 5928 5931	his
+T1989	PRON_PER 6105 6108	His
+T1990	PRON_PER 6186 6189	his
+T1991	PRON_PER 6433 6435	He
+T1992	PRON_PER 6509 6511	he
+T1993	PRON_PER 6529 6532	him
+T1994	PRON_PER 6535 6538	you
+T1995	PRON_PER 6588 6591	her
+T1996	PRON_PER 6667 6669	me
+T1997	PRON_PER 6724 6727	his
+T1998	PRON_PER 6843 6845	he
+T1999	PRON_PER 7093 7096	His
+T2000	PRON_PER 7234 7237	him
+T2001	PRON_PER 7271 7273	he
+T2002	PRON_PER 7289 7292	her
+T2003	PRON_PER 7420 7423	she
+T2004	PRON_PER 7456 7458	he
+T2005	PRON_PER 7486 7489	her
+T2006	PRON_PER 7502 7505	she
+T2007	PRON_PER 7523 7526	him
+T2008	PRON_PER 7544 7547	her
+T2009	PRON_PER 7551 7554	her
+T2010	PRON_PER 7571 7573	he
+T2011	PRON_PER 7745 7747	he
+T2012	PRON_PER 7807 7809	he
+T2013	PRON_PER 7913 7916	her
+T2014	PRON_PER 7964 7967	her
+T2015	PRON_PER 8005 8008	her
+T2016	PRON_PER 8012 8015	her
+T2017	PRON_PER 8120 8122	he
+T2018	PRON_PER 8144 8147	she
+T2019	PRON_PER 8156 8159	her
+T2020	PRON_PER 8172 8174	he
+T2021	PRON_PER 8201 8204	her
+T2022	PRON_PER 8217 8220	her
+T2023	PRON_PER 8243 8246	his
+T2024	PRON_PER 8264 8266	he
+T2025	PRON_PER 8402 8405	she
+T2026	PRON_PER 8522 8525	her
+T2027	PRON_PER 8648 8650	he
+T2028	PRON_PER 8675 8678	her
+T2029	PRON_PER 8742 8745	her
+T2030	PRON_PER 8755 8758	her
+T2031	PRON_PER 8793 8796	her
+T2032	PRON_PER 8827 8830	She
+T2033	PRON_PER 8867 8870	Her
+T2034	PRON_PER 8947 8950	her
+T2035	PRON_PER 8960 8963	She
+T2036	PRON_PER 8987 8990	her
+T2037	PRON_PER 9016 9018	he
+T2038	PRON_PER 9031 9032	I
+T2039	PRON_PER 9066 9070	your
+T2040	PRON_PER 9145 9148	you
+T2041	PRON_PER 9153 9156	she
+T2042	PRON_PER 9203 9208	their
+T2043	PRON_PER 9231 9234	her
+T2044	PRON_PER 9245 9247	he
+T2045	PRON_PER 9262 9265	her
+T2046	PRON_PER 9319 9321	he
+T2047	PRON_PER 9342 9345	her
+T2048	PRON_PER 9353 9355	He
+T2049	PRON_PER 9386 9389	his
+T2050	PRON_PER 9449 9452	you
+T2051	PRON_PER 9471 9474	you
+T2052	PRON_PER 9506 9509	you
+T2053	PRON_PER 9526 9527	I
+T2054	PRON_PER 9546 9548	my
+T2055	PRON_PER 9560 9563	she
+T2056	PRON_PER 9578 9581	You
+T2057	PRON_PER 9611 9613	he
+T2058	PRON_PER 9648 9652	They
+T2059	PRON_PER 9785 9788	you
+T2060	PRON_PER 9834 9837	her
+T2061	PRON_PER 9851 9853	he
+T2062	PRON_PER 9866 9869	Her
+T2063	PRON_PER 9942 9945	her
+T2064	PRON_PER 9948 9951	She
+T2065	PRON_PER 10074 10076	he
+T2066	PRON_PER 10163 10166	his
+T2067	PRON_PER 10182 10185	She
+T2068	PRON_PER 10212 10214	he
+T2069	PRON_PER 10220 10223	her
+T2070	PRON_PER 10256 10259	she
+T2071	PRON_PER 10269 10272	him
+T2072	PRON_PER 10275 10278	She
+T2073	PRON_GPE 3706 3708	it
+T2074	NOM_FAC 4548 4552	that
+T2075	NOM_PER 6612 6636	this order of individual
+T2076	NOM_PER 7765 7797	some seemingly vulnerable object
+T2077	NOM_PER 10142 10157	this individual
+T2159	Caroline_Meeber-0 37 43	A WAIF
+T2091	Caroline_Meeber-0 61 76	Caroline Meeber
+T2079	the_afternoon_train-1 85 104	the afternoon train
+T2098	Chicago-2 109 116	Chicago
+T4000	Caroline_Meeber-0 119 122	her
+T4001	Caroline_Meeber-0 284 287	her
+T2086	her_sister-3 319 329	her sister
+T4002	Caroline_Meeber-0 319 322	her
+T2144	Van_Buren_Street-4 344 360	Van Buren Street
+T4003	Caroline_Meeber-0 417 420	She
+T4004	Caroline_Meeber-0 567 570	her
+T2087	her_mother-5 658 668	her mother
+T4005	Caroline_Meeber-0 658 661	her
+T4006	Caroline_Meeber-0 699 702	her
+T2161	the_cars-6 715 723	the cars
+T2089	the_flour_mill_where_her_father_worked_by_the_day-7 735 784	the flour mill where her father worked by the day
+T2088	her_father-8 756 766	her father
+T4007	Caroline_Meeber-0 756 759	her
+T2090	the_village-9 837 848	the village
+T4008	Caroline_Meeber-0 896 899	her
+T2261	home-10 927 931	home
+T2092	the_next_station-11 988 1004	the next station
+T2093	Chicago-2 1054 1068	the great city
+T2162	these_very_trains_which_came_up_daily-12 1093 1130	these very trains which came up daily
+T2301	Columbia_City-13 1133 1146	Columbia City
+T4009	Caroline_Meeber-0 1184 1187	she
+T2315	Chicago-2 1195 1202	Chicago
+T4010	Caroline_Meeber-0 1259 1262	She
+T2094	her_sister-3 1297 1307	her sister
+T4011	Caroline_Meeber-0 1297 1300	her
+T4012	Caroline_Meeber-0 1334 1337	She
+T2095	the_green_landscape-14 1347 1366	the green landscape
+T4013	Caroline_Meeber-0 1405 1408	her
+T2370	Chicago-2 1481 1488	Chicago
+T2096	a_girl-15 1505 1511	a girl
+T2097	her_home-16 1519 1527	her home
+T4014	a_girl-15 1519 1522	her
+T4015	a_girl-15 1542 1545	she
+T4016	a_girl-15 1578 1581	she
+T4017	a_girl-15 1630 1633	she
+T2099	Chicago-2 1787 1795	The city
+T2080	the_most_cultured_human-17 1968 1991	the most cultured human
+T2100	a_counsellor-18 2335 2347	a counsellor
+T2081	Caroline_Meeber-0 2606 2614	Caroline
+T2578	Caroline_Meeber-0 2620 2633	Sister Carrie
+T4020	Caroline_Meeber-0 2639 2642	she
+T2101	the_family-19 2682 2692	the family
+T4021	Caroline_Meeber-0 2793 2796	her
+T4022	Caroline_Meeber-0 2849 2852	her
+T4023	Caroline_Meeber-0 3078 3081	she
+T2110	the_middle_American_class-20 3104 3129	the middle American class
+T2111	two_generations-21 3133 3148	two generations
+T2102	the_emigrant-22 3162 3174	the emigrant
+T4024	Caroline_Meeber-0 3195 3198	her
+T4025	Caroline_Meeber-0 3261 3264	she
+T4026	Caroline_Meeber-0 3283 3286	She
+T4027	Caroline_Meeber-0 3307 3310	her
+T4028	Caroline_Meeber-0 3329 3332	Her
+T4029	Caroline_Meeber-0 3417 3420	she
+T4030	Caroline_Meeber-0 3439 3442	her
+T4031	Caroline_Meeber-0 3572 3575	she
+T2104	Chicago-2 3607 3626	the mysterious city
+T2105	Caroline_Meeber-0 3765 3772	a woman
+T4151	Chicago-2 3706 3708	it
+T2112	That-23 3788 3792	That
+T4032	Caroline_Meeber-0 3813 3816	her
+T2107	Wisconsin-24 3867 3876	Wisconsin
+T4033	Caroline_Meeber-0 3893 3896	she
+T2163	the_afternoon_train-1 3918 3927	The train
+T2082	Waukesha-25 3952 3960	Waukesha
+T4034	Caroline_Meeber-0 3977 3980	she
+T2108	a_man-26 4003 4008	a man
+T4035	Caroline_Meeber-0 4018 4021	She
+T4036	a_man-26 4027 4030	him
+T4037	Caroline_Meeber-0 4041 4044	her
+T4038	a_man-26 4060 4062	He
+T4039	Caroline_Meeber-0 4112 4115	she
+T4040	Caroline_Meeber-0 4166 4169	Her
+T4041	Caroline_Meeber-0 4267 4270	her
+T2083	a_man-26 4344 4358	the individual
+T4042	Caroline_Meeber-0 4413 4416	She
+T4043	a_man-26 4428 4430	He
+T4044	a_man-26 4453 4456	his
+T4045	Caroline_Meeber-0 4481 4484	her
+T4046	a_man-26 4512 4519	himself
+T4152	that-28 4548 4552	that
+T2945	Chicago-2 4575 4582	Chicago
+T2115	Chicago_people-29 4575 4589	Chicago people
+T2116	The_hotels-30 4592 4602	The hotels
+T4047	Caroline_Meeber-0 4615 4618	You
+T2118	this_part_of_the_country-31 4641 4665	this part of the country
+T2117	the_country-32 4654 4665	the country
+T4048	Caroline_Meeber-0 4672 4675	you
+T4049	Caroline_Meeber-0 4693 4694	I
+T2084	Caroline_Meeber-0 4711 4717	Carrie
+T4050	Caroline_Meeber-0 4732 4733	I
+T2987	Columbia_City-13 4742 4755	Columbia City
+T4051	Caroline_Meeber-0 4758 4759	I
+T2119	this_part_of_the_country-31 4784 4788	here
+T4052	Caroline_Meeber-0 4819 4823	your
+T3009	Chicago-2 4839 4846	Chicago
+T4053	a_man-26 4851 4853	he
+T4054	Caroline_Meeber-0 4878 4881	she
+T4055	Caroline_Meeber-0 4935 4938	her
+T4056	Caroline_Meeber-0 5012 5015	She
+T4057	a_man-26 5043 5046	him
+T4058	Caroline_Meeber-0 5126 5129	her
+T4059	Caroline_Meeber-0 5140 5141	I
+T4060	Caroline_Meeber-0 5163 5166	she
+T4061	a_man-26 5183 5185	he
+T4062	a_man-26 5259 5260	I
+T4063	Caroline_Meeber-0 5269 5272	you
+T2120	the_travelling_canvasser-33 5300 5324	the travelling canvasser
+T2113	a_manufacturing_house-34 5329 5350	a manufacturing house
+T4064	a_man-26 5443 5445	He
+T3157	Americans-35 5534 5543	Americans
+T2121	susceptible_young_women-36 5669 5692	susceptible young women
+T2085	a___masher____-37 5696 5710	a “ masher . ”
+T4065	a_man-26 5711 5714	His
+T4066	a_man-26 5928 5931	his
+T4067	a_man-26 6105 6108	His
+T4068	a_man-26 6186 6189	his
+T2164	the_Order_of_Elks-38 6277 6294	the Order of Elks
+T4069	a_man-26 6433 6435	He
+T4070	a_man-26 6509 6511	he
+T4071	a_man-26 6529 6532	him
+T4072	you-39 6535 6538	you
+T2122	Caroline_Meeber-0 6569 6575	Carrie
+T4073	Caroline_Meeber-0 6588 6591	her
+T4074	narrator-41 6667 6669	me
+T4153	this_order_of_individual-42 6612 6636	this order of individual
+T4075	this_order_of_individual-42 6724 6727	his
+T4076	this_order_of_individual-42 6843 6845	he
+T2109	the_world-43 7009 7018	the world
+T4077	this_order_of_individual-42 7093 7096	His
+T4078	this_order_of_individual-42 7234 7237	him
+T2124	a_young_woman-44 7248 7261	a young woman
+T4079	this_order_of_individual-42 7271 7273	he
+T4080	a_young_woman-44 7289 7292	her
+T4081	a_young_woman-44 7420 7423	she
+T4082	this_order_of_individual-42 7456 7458	he
+T4083	a_young_woman-44 7486 7489	her
+T4084	a_young_woman-44 7502 7505	she
+T4085	this_order_of_individual-42 7523 7526	him
+T4086	a_young_woman-44 7544 7547	her
+T4087	a_young_woman-44 7551 7554	her
+T4088	this_order_of_individual-42 7571 7573	he
+T2125	a_department_store-45 7582 7600	a department store
+T2127	the_train-46 7710 7719	the train
+T2128	waiting_stations-47 7726 7742	waiting stations
+T4089	this_order_of_individual-42 7745 7747	he
+T4090	this_order_of_individual-42 7807 7809	he
+T2129	the_parlor_car-48 7887 7901	the parlor car
+T4154	some_seemingly_vulnerable_object-49 7765 7797	some seemingly vulnerable object
+T4091	some_seemingly_vulnerable_object-49 7913 7916	her
+T4092	some_seemingly_vulnerable_object-49 7964 7967	her
+T4093	some_seemingly_vulnerable_object-49 8005 8008	her
+T4094	some_seemingly_vulnerable_object-49 8012 8015	her
+T4095	this_order_of_individual-42 8120 8122	he
+T4096	some_seemingly_vulnerable_object-49 8144 8147	she
+T4097	some_seemingly_vulnerable_object-49 8156 8159	her
+T4098	this_order_of_individual-42 8172 8174	he
+T4099	some_seemingly_vulnerable_object-49 8201 8204	her
+T4100	some_seemingly_vulnerable_object-49 8217 8220	her
+T4101	this_order_of_individual-42 8243 8246	his
+T4102	this_order_of_individual-42 8264 8266	he
+T2133	A_woman-50 8289 8296	A woman
+T4103	A_woman-50 8402 8405	she
+T3745	man-51 8481 8484	man
+T4104	A_woman-50 8522 8525	her
+T2134	those_who_are_worth_glancing_at-52 8526 8557	those who are worth glancing at
+T2135	those_who_are_not-53 8562 8579	those who are not
+T2136	an_individual-54 8587 8600	an individual
+T4105	an_individual-54 8648 8650	he
+T4106	A_woman-50 8675 8678	her
+T2139	a_man-55 8725 8730	a man
+T4107	A_woman-50 8742 8745	her
+T4108	A_woman-50 8755 8758	her
+T2141	a_man-26 8775 8802	the individual at her elbow
+T4109	Caroline_Meeber-0 8793 8796	her
+T2143	Caroline_Meeber-0 8818 8824	Carrie
+T4110	Caroline_Meeber-0 8827 8830	She
+T4111	Caroline_Meeber-0 8867 8870	Her
+T4112	Caroline_Meeber-0 8947 8950	her
+T4113	Caroline_Meeber-0 8960 8963	She
+T4114	Caroline_Meeber-0 8987 8990	her
+T4115	a_man-26 9016 9018	he
+T4116	a_man-26 9031 9032	I
+T2146	quite_a_number_of_people-56 9038 9062	quite a number of people
+T2145	Columbia_City-13 9066 9075	your town
+T4117	Caroline_Meeber-0 9066 9070	your
+T2142	Morgenroth-57 9078 9088	Morgenroth
+T2138	Gibson-58 9106 9112	Gibson
+T4118	a_man-26 9145 9148	you
+T4119	Caroline_Meeber-0 9153 9156	she
+T4120	their-59 9203 9208	their
+T4121	Caroline_Meeber-0 9231 9234	her
+T4122	a_man-26 9245 9247	he
+T4123	Caroline_Meeber-0 9262 9265	her
+T4124	a_man-26 9319 9321	he
+T4125	Caroline_Meeber-0 9342 9345	her
+T4126	a_man-26 9353 9355	He
+T4127	a_man-26 9386 9389	his
+T2150	Chicago-2 9400 9407	Chicago
+T2151	Chicago-2 9432 9441	that city
+T4128	Caroline_Meeber-0 9449 9452	you
+T2130	Chicago-2 9463 9468	there
+T4129	Caroline_Meeber-0 9471 9474	you
+T4130	Caroline_Meeber-0 9506 9509	you
+T3967	relatives-60 9510 9519	relatives
+T4131	Caroline_Meeber-0 9526 9527	I
+T2152	her_sister-3 9546 9555	my sister
+T4132	Caroline_Meeber-0 9546 9548	my
+T4133	Caroline_Meeber-0 9560 9563	she
+T4134	Caroline_Meeber-0 9578 9581	You
+T3988	Lincoln_Park-61 9594 9606	Lincoln Park
+T4135	a_man-26 9611 9613	he
+T3997	Michigan_Boulevard-62 9627 9645	Michigan Boulevard
+T4136	They-63 9648 9652	They
+T2153	great_buildings-64 9668 9683	great buildings
+T2131	Michigan_Boulevard-62 9684 9689	there
+T2154	New_York-65 9707 9715	New York
+T2155	theatres-66 9745 9753	theatres
+T2156	crowds-67 9756 9762	crowds
+T2157	fine_houses-68 9765 9776	fine houses
+T4137	Caroline_Meeber-0 9785 9788	you
+T4138	Caroline_Meeber-0 9834 9837	her
+T4139	a_man-26 9851 9853	he
+T4140	Caroline_Meeber-0 9866 9869	Her
+T4141	Caroline_Meeber-0 9942 9945	her
+T4142	Caroline_Meeber-0 9948 9951	She
+T4143	a_man-26 10074 10076	he
+T4144	a_man-26 10163 10166	his
+T4155	a_man-26 10142 10157	this individual
+T4145	Caroline_Meeber-0 10182 10185	She
+T4146	a_man-26 10212 10214	he
+T4147	Caroline_Meeber-0 10220 10223	her
+T2126	some_popular_actress_of_whom_she_reminded_him-69 10227 10272	some popular actress of whom she reminded him
+T4148	Caroline_Meeber-0 10256 10259	she
+T4149	a_man-26 10269 10272	him
+T4150	Caroline_Meeber-0 10275 10278	She
+R1	cop Arg1:T25 Arg2:T1953
+R2	cop Arg1:T28 Arg2:T34
+R3	cop Arg1:T36 Arg2:T2074
+R4	appos Arg1:T69 Arg2:T64
+R5	appos Arg1:T62 Arg2:T60
+T54	PRON_FAC 3886 3888	it
+T59	That-23 3886 3888	it
+T70	PRON_GPE 9486 9488	it
+T71	Chicago-2 9486 9488	it
+T4162	PRON_GPE 1800 1803	its
+T4163	Chicago-2 1800 1803	its
+T4180	PRON_GPE 9692 9694	It
+T4181	Chicago-2 9692 9694	It

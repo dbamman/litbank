@@ -1,0 +1,602 @@
+T2	PROP_PER 753 766	Madame Lebrun
+T4	PROP_PER 828 842	Mr. Pontellier
+T7	PROP_GPE 1428 1439	New Orleans
+T9	PROP_PER 1457 1471	Mr. Pontellier
+T12	NOM_PER 1948 1983	Two young girls , the Farival twins
+T13	PROP_PER 2038 2051	Madame Lebrun
+T15	NOM_PER 2199 2220	a dining-room servant
+T16	NOM_PER 2419 2434	a lady in black
+T17	NOM_PER 2490 2524	A good many persons of the pension
+T20	NOM_GPE 2542 2563	the Cheniere Caminada
+T21	PROP_PER 2667 2681	Mr. Pontellier
+T24	NOM_PER 2667 2697	Mr. Pontellier 's two children
+T26	NOM_PER 2753 2769	A quadroon nurse
+T27	PROP_PER 2824 2838	Mr. Pontellier
+T29	NOM_LOC 3187 3198	the horizon
+T30	PROP_PER 3292 3307	Mrs. Pontellier
+T36	PROP_PER 3589 3603	Mr. Pontellier
+T38	NOM_PER 3757 3765	his wife
+T39	NOM_PER 4047 4058	her husband
+T40	PROP_PER 4306 4312	Robert
+T42	PROP_PER 4680 4694	Mr. Pontellier
+T45	PROP_PER 4878 4884	Robert
+T46	PROP_PER 4972 4987	Mrs. Pontellier
+T48	PROP_PER 4891 4897	Robert
+T49	NOM_PER 5067 5078	her husband
+T50	NOM_PER 5298 5306	his wife
+T51	PROP_PER 5585 5590	Klein
+T52	NOM_PER 5710 5723	Both children
+T53	NOM_PER 5741 5753	their father
+T56	PROP_PER 6414 6420	Robert
+T57	PROP_PER 6545 6559	Mr. Pontellier
+T60	PROP_PER 6961 6976	Mrs. Pontellier
+T63	PROP_PER 7065 7071	Robert
+T65	NOM_PER 7353 7396	the children playing croquet under the oaks
+T67	PROP_PER 7494 7500	Robert
+T68	PROP_PER 7586 7601	Mrs. Pontellier
+T70	PROP_PER 7699 7705	Robert
+T71	PROP_GPE 7738 7744	Mexico
+T72	PROP_GPE 7822 7828	Mexico
+T73	NOM_PER 8033 8040	a clerk
+T74	NOM_PER 8045 8058	correspondent
+T80	PROP_PER 8175 8181	Robert
+T81	PROP_PER 8394 8407	Madame Lebrun
+T84	PROP_PER 8493 8508	Mrs. Pontellier
+T85	NOM_LOC 8584 8618	the old Kentucky bluegrass country
+T88	NOM_PER 8522 8532	her father
+T89	PROP_GPE 8536 8547	Mississippi
+T93	NOM_PER 8921 8931	the father
+T94	NOM_PER 8956 8966	the mother
+T95	PROP_PER 8833 8839	Robert
+T96	NOM_PER 8891 8896	girls
+T97	NOM_PER 8897 8908	the sisters
+T98	PROP_PER 8988 9003	Mrs. Pontellier
+T100	NOM_PER 9161 9172	her husband
+T101	PROP_PER 9082 9088	Leonce
+T102	PROP_PER 9191 9197	Robert
+T105	PROP_PER 9275 9280	Klein
+T106	PROP_PER 9291 9306	Mrs. Pontellier
+T108	NOM_PER 9336 9349	the young man
+T109	PROP_PER 9588 9602	Mr. Pontellier
+T110	PROP_PER 9617 9622	Klein
+T1	PROP_PER 396 410	Mr. Pontellier
+T113	NOM_FAC 543 554	the gallery
+T114	NOM_FAC 566 643	the narrow “ bridges ” which connected the Lebrun cottages one with the other
+T115	NOM_FAC 605 624	the Lebrun cottages
+T116	NOM_FAC 684 698	the main house
+T3	NOM_FAC 955 970	his own cottage
+T5	NOM_FAC 1003 1020	the main building
+T6	PROP_GPE 1250 1260	Grand Isle
+T10	NOM_FAC 1799 1808	the house
+T11	NOM_FAC 1811 1828	The main building
+T117	NOM_FAC 1842 1851	the house
+T118	NOM_FAC 1879 1891	the cottages
+T119	NOM_PER 2109 2119	a yard-boy
+T14	NOM_PER 2712 2750	sturdy little fellows of four and five
+T8	NOM_PER 1498 1556	a man of forty , of medium height and rather slender build
+T22	NOM_FAC 2144 2153	the house
+T23	NOM_FAC 2201 2212	dining-room
+T28	NOM_PER 2256 2320	a fresh , pretty woman , clad always in white with elbow sleeves
+T120	NOM_FAC 2397 2416	one of the cottages
+T18	NOM_VEH 2567 2586	Beaudelet 's lugger
+T19	NOM_PER 2602 2619	Some young people
+T121	NOM_LOC 3128 3136	The gulf
+T31	NOM_PER 3281 3289	his wife
+T32	PROP_PER 3320 3333	Robert Lebrun
+T33	NOM_FAC 3354 3365	the cottage
+T34	NOM_PER 3368 3375	the two
+T35	NOM_LOC 4078 4087	the beach
+T37	PROP_PER 4429 4439	Pontellier
+T41	NOM_PER 4473 4476	one
+T122	NOM_PER 4480 4489	the other
+T43	NOM_FAC 4788 4802	Klein 's hotel
+T124	PROP_PER 4852 4858	Lebrun
+T47	PROP_PER 5047 5051	Edna
+T125	PROP_FAC 5585 5593	Klein 's
+T54	PROP_PER 5859 5874	Mrs. Pontellier
+T55	NOM_PER 6716 6729	his companion
+T59	PROP_GPE 7332 7344	the Cheniere
+T61	NOM_PER 7403 7420	the Farival twins
+T66	NOM_PER 7682 7691	the other
+T69	NOM_PER 7654 7658	Each
+T126	NOM_GPE 7854 7859	there
+T128	NOM_FAC 7909 7942	a mercantile house in New Orleans
+T78	PROP_GPE 7931 7942	New Orleans
+T75	NOM_PER 8123 8133	his mother
+T76	PROP_GPE 8137 8147	Grand Isle
+T77	NOM_FAC 8201 8210	the house
+T79	NOM_PER 8241 8252	the Lebruns
+T129	NOM_FAC 8276 8298	dozen or more cottages
+T82	NOM_FAC 8536 8558	Mississippi plantation
+T86	NOM_FAC 8563 8618	her girlhood home in the old Kentucky bluegrass country
+T90	NOM_PER 8629 8723	an American woman , with a small infusion of French which seemed to have been lost in dilution
+T91	NOM_LOC 8778 8786	the East
+T99	PROP_GPE 9246 9257	New Orleans
+T103	NOM_PER 9246 9266	New Orleans club men
+T104	PROP_FAC 9275 9283	Klein 's
+T107	NOM_FAC 9325 9333	her room
+T132	NOM_PER 9395 9414	the croquet players
+T134	NOM_PER 9485 9543	the little Pontellier children , who were very fond of him
+T111	NOM_FAC 9617 9631	Klein 's hotel
+T25	NOM_PER 7305 7344	the people who had gone to the Cheniere
+T58	NOM_ORG 9246 9262	New Orleans club
+T87	NOM_PER 9723 9731	his wife
+T92	NOM_PER 8749 8830	her sister , who was away in the East , and who had engaged herself to be married
+T44	PROP_PER 4788 4793	Klein
+T112	NOM_LOC 8355 8382	the “ Quartier Francais , ”
+T83	NOM_PER 8331 8382	exclusive visitors from the “ Quartier Francais , ”
+T155	NOM_PER 228 234	nobody
+T123	NOM_FAC 1089 1094	there
+T130	NOM_FAC 2703 2708	there
+T159	PRON_PER 428 431	his
+T160	PRON_PER 528 530	He
+T161	PRON_PER 646 648	He
+T164	PRON_PER 873 878	their
+T165	PRON_PER 892 896	they
+T166	PRON_PER 925 927	He
+T167	PRON_PER 955 958	his
+T168	PRON_PER 1052 1059	himself
+T169	PRON_PER 1097 1099	he
+T170	PRON_PER 1118 1125	himself
+T171	PRON_PER 1263 1265	He
+T172	PRON_PER 1319 1321	he
+T173	PRON_PER 1384 1386	he
+T174	PRON_PER 1491 1493	He
+T175	PRON_PER 1559 1561	he
+T176	PRON_PER 1581 1584	His
+T177	PRON_PER 1636 1639	His
+T178	PRON_PER 1695 1697	he
+T179	PRON_PER 1707 1710	his
+T180	PRON_PER 1754 1757	him
+T181	PRON_PER 2129 2132	she
+T182	PRON_PER 2230 2233	she
+T183	PRON_PER 2248 2251	She
+T184	PRON_PER 2323 2326	Her
+T185	PRON_PER 2355 2358	she
+T186	PRON_PER 2478 2481	her
+T187	PRON_PER 2779 2783	them
+T188	PRON_PER 2913 2916	his
+T189	PRON_PER 2924 2926	He
+T190	PRON_PER 2933 2936	his
+T191	PRON_PER 3017 3019	He
+T192	PRON_PER 3281 3284	his
+T193	PRON_PER 3341 3345	they
+T194	PRON_PER 3383 3393	themselves
+T195	PRON_PER 3606 3608	He
+T196	PRON_PER 3609 3616	himself
+T197	PRON_PER 3690 3693	him
+T198	PRON_PER 3698 3701	You
+T199	PRON_PER 3735 3737	he
+T200	PRON_PER 3757 3760	his
+T201	PRON_PER 3853 3856	She
+T202	PRON_PER 3865 3868	her
+T204	PRON_PER 3944 3947	her
+T206	PRON_PER 4005 4008	her
+T207	PRON_PER 4012 4015	her
+T208	PRON_PER 4030 4033	she
+T209	PRON_PER 4047 4050	her
+T210	PRON_PER 4090 4093	She
+T211	PRON_PER 4118 4121	him
+T212	PRON_PER 4128 4130	he
+T213	PRON_PER 4169 4172	his
+T215	PRON_PER 4207 4210	her
+T216	PRON_PER 4223 4226	She
+T218	PRON_PER 4245 4248	her
+T219	PRON_PER 4273 4276	her
+T220	PRON_PER 4285 4288	she
+T221	PRON_PER 4358 4361	her
+T222	PRON_PER 4372 4374	He
+T223	PRON_PER 4565 4569	they
+T224	PRON_PER 4648 4652	They
+T225	PRON_PER 4697 4699	He
+T226	PRON_PER 4721 4728	himself
+T227	PRON_PER 4736 4738	he
+T228	PRON_PER 4755 4757	he
+T229	PRON_PER 4863 4865	he
+T230	PRON_PER 4926 4928	he
+T231	PRON_PER 4953 4955	he
+T232	PRON_PER 5004 5007	him
+T233	PRON_PER 5014 5017	his
+T234	PRON_PER 5032 5034	he
+T235	PRON_PER 5041 5044	you
+T236	PRON_PER 5067 5070	her
+T237	PRON_PER 5082 5084	he
+T238	PRON_PER 5136 5139	she
+T239	PRON_PER 5170 5173	him
+T240	PRON_PER 5176 5178	He
+T241	PRON_PER 5223 5226	his
+T242	PRON_PER 5298 5301	his
+T243	PRON_PER 5320 5323	him
+T244	PRON_PER 5326 5328	He
+T245	PRON_PER 5358 5361	his
+T246	PRON_PER 5374 5376	He
+T247	PRON_PER 5385 5388	his
+T248	PRON_PER 5439 5441	He
+T249	PRON_PER 5465 5467	he
+T250	PRON_PER 5514 5516	he
+T251	PRON_PER 5568 5570	he
+T252	PRON_PER 5625 5627	He
+T253	PRON_PER 5651 5654	she
+T254	PRON_PER 5704 5707	him
+T255	PRON_PER 5741 5746	their
+T256	PRON_PER 5759 5763	they
+T257	PRON_PER 5768 5771	him
+T258	PRON_PER 5787 5789	He
+T259	PRON_PER 5797 5801	them
+T260	PRON_PER 5824 5828	them
+T262	PRON_PER 5956 5959	her
+T263	PRON_PER 5967 5970	She
+T266	PRON_PER 6104 6107	Her
+T267	PRON_PER 6142 6145	her
+T269	PRON_PER 6218 6221	her
+T270	PRON_PER 6229 6232	She
+T271	PRON_PER 6270 6273	Her
+T272	PRON_PER 6388 6391	Her
+T273	PRON_PER 6442 6444	He
+T274	PRON_PER 6471 6473	he
+T275	PRON_PER 6500 6502	he
+T276	PRON_PER 6510 6512	He
+T277	PRON_PER 6528 6531	his
+T278	PRON_PER 6574 6577	him
+T279	PRON_PER 6589 6591	he
+T280	PRON_PER 6610 6613	his
+T281	PRON_PER 6675 6678	his
+T282	PRON_PER 6698 6700	he
+T283	PRON_PER 6716 6719	his
+T284	PRON_PER 6861 6864	his
+T285	PRON_PER 6884 6887	His
+T286	PRON_PER 7049 7056	herself
+T287	PRON_PER 7085 7088	his
+T288	PRON_PER 7111 7114	his
+T289	PRON_PER 7127 7131	They
+T290	PRON_PER 7178 7182	them
+T291	PRON_PER 7185 7190	their
+T292	PRON_PER 7526 7533	himself
+T293	PRON_PER 7536 7538	He
+T294	PRON_PER 7624 7631	herself
+T295	PRON_PER 7715 7718	his
+T296	PRON_PER 7783 7786	him
+T297	PRON_PER 7789 7791	He
+T298	PRON_PER 7872 7874	he
+T299	PRON_PER 7886 7889	his
+T300	PRON_PER 8011 8014	him
+T301	PRON_PER 8061 8063	He
+T302	PRON_PER 8077 8080	his
+T303	PRON_PER 8102 8104	he
+T304	PRON_PER 8123 8126	his
+T305	PRON_PER 8476 8479	her
+T306	PRON_PER 8522 8525	her
+T307	PRON_PER 8563 8566	her
+T308	PRON_PER 8621 8624	She
+T309	PRON_PER 8726 8729	She
+T310	PRON_PER 8749 8752	her
+T311	PRON_PER 8809 8816	herself
+T312	PRON_PER 9038 9041	her
+T313	PRON_PER 9076 9077	I
+T314	PRON_PER 9112 9115	she
+T315	PRON_PER 9161 9164	her
+T316	PRON_PER 9207 9209	he
+T317	PRON_PER 9312 9315	him
+T318	PRON_PER 9325 9328	her
+T319	PRON_PER 9462 9464	he
+T320	PRON_PER 9472 9479	himself
+T321	PRON_PER 9540 9543	him
+T322	PRON_PER 9634 9636	He
+T323	PRON_PER 9704 9707	His
+T324	PRON_PER 9723 9726	his
+T325	PRON_PER 9770 9772	he
+T326	PRON_PER 9783 9785	He
+T327	PRON_PER 9796 9799	her
+T328	PRON_PER 9806 9808	he
+T329	PRON_PER 9829 9832	her
+T330	PRON_PER 9876 9878	he
+T331	PRON_PER 9914 9917	his
+T332	PRON_PER 9935 9937	he
+T333	PRON_PER 10015 10017	he
+T334	PRON_PER 10126 10129	his
+T335	PRON_PER 10140 10143	She
+T336	PRON_PER 10183 10186	him
+T493	nobody-0 228 234	nobody
+T339	Mr__Pontellier-1 396 410	Mr. Pontellier
+T497	Mr__Pontellier-1 428 431	his
+T498	Mr__Pontellier-1 528 530	He
+T451	the_gallery-2 543 554	the gallery
+T452	the_narrow___bridges___which_connected_the_Lebrun_cottages_one_with_the_other-3 566 643	the narrow “ bridges ” which connected the Lebrun cottages one with the other
+T453	the_Lebrun_cottages-4 605 624	the Lebrun cottages
+T499	Mr__Pontellier-1 646 648	He
+T454	the_main_house-5 684 698	the main house
+T340	Madame_Lebrun-6 753 766	Madame Lebrun
+T342	Mr__Pontellier-1 828 842	Mr. Pontellier
+T502	Mr__Pontellier-1 873 878	their
+T503	Mr__Pontellier-1 892 896	they
+T504	Mr__Pontellier-1 925 927	He
+T341	his_own_cottage-7 955 970	his own cottage
+T505	Mr__Pontellier-1 955 958	his
+T343	the_main_house-5 1003 1020	the main building
+T506	Mr__Pontellier-1 1052 1059	himself
+T461	his_own_cottage-7 1089 1094	there
+T507	Mr__Pontellier-1 1097 1099	he
+T508	Mr__Pontellier-1 1118 1125	himself
+T344	Grand_Isle-8 1250 1260	Grand Isle
+T509	Mr__Pontellier-1 1263 1265	He
+T510	Mr__Pontellier-1 1319 1321	he
+T511	Mr__Pontellier-1 1384 1386	he
+T345	New_Orleans-9 1428 1439	New Orleans
+T347	Mr__Pontellier-1 1457 1471	Mr. Pontellier
+T512	Mr__Pontellier-1 1491 1493	He
+T513	Mr__Pontellier-1 1559 1561	he
+T514	Mr__Pontellier-1 1581 1584	His
+T515	Mr__Pontellier-1 1636 1639	His
+T516	Mr__Pontellier-1 1695 1697	he
+T517	Mr__Pontellier-1 1707 1710	his
+T518	Mr__Pontellier-1 1754 1757	him
+T348	the_main_house-5 1799 1808	the house
+T349	the_main_house-5 1811 1828	The main building
+T455	the_main_house-5 1842 1851	the house
+T456	the_Lebrun_cottages-4 1879 1891	the cottages
+T350	Two_young_girls___the_Farival_twins-10 1948 1983	Two young girls , the Farival twins
+T351	Madame_Lebrun-6 2038 2051	Madame Lebrun
+T457	a_yard-boy-11 2109 2119	a yard-boy
+T519	Madame_Lebrun-6 2129 2132	she
+T360	the_main_house-5 2144 2153	the house
+T353	a_dining-room_servant-12 2199 2220	a dining-room servant
+T361	dining-room-13 2201 2212	dining-room
+T520	Madame_Lebrun-6 2230 2233	she
+T521	Madame_Lebrun-6 2248 2251	She
+T522	Madame_Lebrun-6 2323 2326	Her
+T523	Madame_Lebrun-6 2355 2358	she
+T458	one_of_the_cottages-14 2397 2416	one of the cottages
+T354	a_lady_in_black-15 2419 2434	a lady in black
+T524	a_lady_in_black-15 2478 2481	her
+T355	A_good_many_persons_of_the_pension-16 2490 2524	A good many persons of the pension
+T358	the_Cheniere_Caminada-17 2542 2563	the Cheniere Caminada
+T356	Beaudelet__s_lugger-18 2567 2586	Beaudelet 's lugger
+T357	Some_young_people-19 2602 2619	Some young people
+T359	Mr__Pontellier-1 2667 2681	Mr. Pontellier
+T362	Pontellier_children-20 2667 2697	Mr. Pontellier 's two children
+T468	out_under_the_wateroaks-21 2703 2708	there
+T364	A_quadroon_nurse-22 2753 2769	A quadroon nurse
+T525	Pontellier_children-20 2779 2783	them
+T365	Mr__Pontellier-1 2824 2838	Mr. Pontellier
+T526	Mr__Pontellier-1 2913 2916	his
+T527	Mr__Pontellier-1 2924 2926	He
+T528	Mr__Pontellier-1 2933 2936	his
+T529	Mr__Pontellier-1 3017 3019	He
+T459	The_gulf-23 3128 3136	The gulf
+T367	the_horizon-24 3187 3198	the horizon
+T369	Mrs__Pontellier-25 3281 3289	his wife
+T530	Mr__Pontellier-1 3281 3284	his
+T368	Mrs__Pontellier-25 3292 3307	Mrs. Pontellier
+T370	Robert_Lebrun-26 3320 3333	Robert Lebrun
+T531	Mrs__Pontellier_Robert_Lebrun-27 3341 3345	they
+T371	his_own_cottage-7 3354 3365	the cottage
+T372	Mrs__Pontellier_Robert_Lebrun-27 3368 3375	the two
+T532	Mrs__Pontellier_Robert_Lebrun-27 3383 3393	themselves
+T374	Mr__Pontellier-1 3589 3603	Mr. Pontellier
+T533	Mr__Pontellier-1 3606 3608	He
+T534	Mr__Pontellier-1 3609 3616	himself
+T535	Mr__Pontellier-1 3690 3693	him
+T536	Mrs__Pontellier-25 3698 3701	You
+T537	Mr__Pontellier-1 3735 3737	he
+T376	Mrs__Pontellier-25 3757 3765	his wife
+T538	Mr__Pontellier-1 3757 3760	his
+T539	Mrs__Pontellier-25 3853 3856	She
+T540	Mrs__Pontellier-25 3865 3868	her
+T542	Mrs__Pontellier-25 3944 3947	her
+T544	Mrs__Pontellier-25 4005 4008	her
+T545	Mrs__Pontellier-25 4012 4015	her
+T546	Mrs__Pontellier-25 4030 4033	she
+T377	Mr__Pontellier-1 4047 4058	her husband
+T547	Mrs__Pontellier-25 4047 4050	her
+T373	the_beach-28 4078 4087	the beach
+T548	Mrs__Pontellier-25 4090 4093	She
+T549	Mr__Pontellier-1 4118 4121	him
+T550	Mr__Pontellier-1 4128 4130	he
+T551	Mr__Pontellier-1 4169 4172	his
+T553	Mrs__Pontellier-25 4207 4210	her
+T554	Mrs__Pontellier-25 4223 4226	She
+T556	Mrs__Pontellier-25 4245 4248	her
+T557	Mrs__Pontellier-25 4273 4276	her
+T558	Mrs__Pontellier-25 4285 4288	she
+T378	Robert_Lebrun-26 4306 4312	Robert
+T559	Mrs__Pontellier-25 4358 4361	her
+T560	Robert_Lebrun-26 4372 4374	He
+T375	Mr__Pontellier-1 4429 4439	Pontellier
+T379	Mrs__Pontellier-25 4473 4476	one
+T460	Robert_Lebrun-26 4480 4489	the other
+T561	Mrs__Pontellier_Robert_Lebrun-27 4565 4569	they
+T562	Mrs__Pontellier_Robert_Lebrun-27 4648 4652	They
+T380	Mr__Pontellier-1 4680 4694	Mr. Pontellier
+T563	Mr__Pontellier-1 4697 4699	He
+T564	Mr__Pontellier-1 4721 4728	himself
+T565	Mr__Pontellier-1 4736 4738	he
+T566	Mr__Pontellier-1 4755 4757	he
+T381	Klein__s_hotel-29 4788 4802	Klein 's hotel
+T382	Klein-30 4788 4793	Klein
+T462	Robert_Lebrun-26 4852 4858	Lebrun
+T567	Mr__Pontellier-1 4863 4865	he
+T383	Robert_Lebrun-26 4878 4884	Robert
+T386	Robert_Lebrun-26 4891 4897	Robert
+T568	Robert_Lebrun-26 4926 4928	he
+T569	Robert_Lebrun-26 4953 4955	he
+T384	Mrs__Pontellier-25 4972 4987	Mrs. Pontellier
+T570	Robert_Lebrun-26 5004 5007	him
+T571	Robert_Lebrun-26 5014 5017	his
+T572	Robert_Lebrun-26 5032 5034	he
+T573	Mrs__Pontellier-25 5041 5044	you
+T385	Mrs__Pontellier-25 5047 5051	Edna
+T387	Mr__Pontellier-1 5067 5078	her husband
+T574	Mrs__Pontellier-25 5067 5070	her
+T575	Mr__Pontellier-1 5082 5084	he
+T576	Mrs__Pontellier-25 5136 5139	she
+T577	Mr__Pontellier-1 5170 5173	him
+T578	Mr__Pontellier-1 5176 5178	He
+T579	Mr__Pontellier-1 5223 5226	his
+T388	Mrs__Pontellier-25 5298 5306	his wife
+T580	Mr__Pontellier-1 5298 5301	his
+T581	Mr__Pontellier-1 5320 5323	him
+T582	Mr__Pontellier-1 5326 5328	He
+T583	Mr__Pontellier-1 5358 5361	his
+T584	Mr__Pontellier-1 5374 5376	He
+T585	Mr__Pontellier-1 5385 5388	his
+T586	Mr__Pontellier-1 5439 5441	He
+T587	Mr__Pontellier-1 5465 5467	he
+T588	Mr__Pontellier-1 5514 5516	he
+T589	Mr__Pontellier-1 5568 5570	he
+T389	Klein-30 5585 5590	Klein
+T463	Klein__s_hotel-29 5585 5593	Klein 's
+T590	Mr__Pontellier-1 5625 5627	He
+T591	Mrs__Pontellier-25 5651 5654	she
+T592	Mr__Pontellier-1 5704 5707	him
+T390	Pontellier_children-20 5710 5723	Both children
+T391	Mr__Pontellier-1 5741 5753	their father
+T593	Pontellier_children-20 5741 5746	their
+T594	Pontellier_children-20 5759 5763	they
+T595	Mr__Pontellier-1 5768 5771	him
+T596	Mr__Pontellier-1 5787 5789	He
+T597	Pontellier_children-20 5797 5801	them
+T598	Pontellier_children-20 5824 5828	them
+T392	Mrs__Pontellier-25 5859 5874	Mrs. Pontellier
+T600	Mrs__Pontellier-25 5956 5959	her
+T601	Mrs__Pontellier-25 5967 5970	She
+T604	Mrs__Pontellier-25 6104 6107	Her
+T605	Mrs__Pontellier-25 6142 6145	her
+T607	Mrs__Pontellier-25 6218 6221	her
+T608	Mrs__Pontellier-25 6229 6232	She
+T609	Mrs__Pontellier-25 6270 6273	Her
+T610	Mrs__Pontellier-25 6388 6391	Her
+T394	Robert_Lebrun-26 6414 6420	Robert
+T611	Robert_Lebrun-26 6442 6444	He
+T612	Robert_Lebrun-26 6471 6473	he
+T613	Robert_Lebrun-26 6500 6502	he
+T614	Robert_Lebrun-26 6510 6512	He
+T615	Robert_Lebrun-26 6528 6531	his
+T395	Mr__Pontellier-1 6545 6559	Mr. Pontellier
+T616	Robert_Lebrun-26 6574 6577	him
+T617	Robert_Lebrun-26 6589 6591	he
+T618	Robert_Lebrun-26 6610 6613	his
+T619	Robert_Lebrun-26 6675 6678	his
+T620	Robert_Lebrun-26 6698 6700	he
+T393	Robert_Lebrun-26 6716 6729	his companion
+T621	Robert_Lebrun-26 6716 6719	his
+T622	Robert_Lebrun-26 6861 6864	his
+T623	Robert_Lebrun-26 6884 6887	His
+T398	Mrs__Pontellier-25 6961 6976	Mrs. Pontellier
+T624	Mrs__Pontellier-25 7049 7056	herself
+T401	Robert_Lebrun-26 7065 7071	Robert
+T625	Robert_Lebrun-26 7085 7088	his
+T626	Robert_Lebrun-26 7111 7114	his
+T627	Mrs__Pontellier_Robert_Lebrun-27 7127 7131	They
+T628	Mrs__Pontellier_Robert_Lebrun-27 7178 7182	them
+T629	Mrs__Pontellier_Robert_Lebrun-27 7185 7190	their
+T363	the_people_who_had_gone_to_the_Cheniere-31 7305 7344	the people who had gone to the Cheniere
+T397	the_Cheniere_Caminada-17 7332 7344	the Cheniere
+T403	Some_young_people-19 7353 7396	the children playing croquet under the oaks
+T399	Two_young_girls___the_Farival_twins-10 7403 7420	the Farival twins
+T405	Robert_Lebrun-26 7494 7500	Robert
+T630	Robert_Lebrun-26 7526 7533	himself
+T631	Robert_Lebrun-26 7536 7538	He
+T406	Mrs__Pontellier-25 7586 7601	Mrs. Pontellier
+T632	Mrs__Pontellier-25 7624 7631	herself
+T407	Each-32 7654 7658	Each
+T404	the_other-33 7682 7691	the other
+T408	Robert_Lebrun-26 7699 7705	Robert
+T633	Robert_Lebrun-26 7715 7718	his
+T409	Mexico-34 7738 7744	Mexico
+T634	Robert_Lebrun-26 7783 7786	him
+T635	Robert_Lebrun-26 7789 7791	He
+T410	Mexico-34 7822 7828	Mexico
+T464	Mexico-34 7854 7859	there
+T636	Robert_Lebrun-26 7872 7874	he
+T637	Robert_Lebrun-26 7886 7889	his
+T466	a_mercantile_house_in_New_Orleans-35 7909 7942	a mercantile house in New Orleans
+T416	New_Orleans-9 7931 7942	New Orleans
+T638	Robert_Lebrun-26 8011 8014	him
+T411	a_clerk-36 8033 8040	a clerk
+T412	correspondent-37 8045 8058	correspondent
+T639	Robert_Lebrun-26 8061 8063	He
+T640	Robert_Lebrun-26 8077 8080	his
+T641	Robert_Lebrun-26 8102 8104	he
+T642	Robert_Lebrun-26 8123 8126	his
+T414	Grand_Isle-39 8137 8147	Grand Isle
+T418	Robert_Lebrun-26 8175 8181	Robert
+T415	the_main_house-5 8201 8210	the house
+T413	Madame_Lebrun-6 8123 8133	his mother
+T417	the_Lebruns-40 8241 8252	the Lebruns
+T467	the_Lebrun_cottages-4 8276 8298	dozen or more cottages
+T421	exclusive_visitors_from_the___Quartier_Francais____-41 8331 8382	exclusive visitors from the “ Quartier Francais , ”
+T450	the___Quartier_Francais____-42 8355 8382	the “ Quartier Francais , ”
+T419	Madame_Lebrun-6 8394 8407	Madame Lebrun
+T643	Madame_Lebrun-6 8476 8479	her
+T422	Mrs__Pontellier-25 8493 8508	Mrs. Pontellier
+T426	her_father-43 8522 8532	her father
+T644	Mrs__Pontellier-25 8522 8525	her
+T427	Mississippi-44 8536 8547	Mississippi
+T420	Mississippi_plantation-45 8536 8558	Mississippi plantation
+T424	her_girlhood_home_in_the_old_Kentucky_bluegrass_country-46 8563 8618	her girlhood home in the old Kentucky bluegrass country
+T645	Mrs__Pontellier-25 8563 8566	her
+T423	the_old_Kentucky_bluegrass_country-47 8584 8618	the old Kentucky bluegrass country
+T646	Mrs__Pontellier-25 8621 8624	She
+T647	Mrs__Pontellier-25 8726 8729	She
+T430	her_sister___who_was_away_in_the_East___and_who_had_engaged_herself_to_be_married-48 8749 8830	her sister , who was away in the East , and who had engaged herself to be married
+T648	Mrs__Pontellier-25 8749 8752	her
+T429	the_East-49 8778 8786	the East
+T649	her_sister___who_was_away_in_the_East___and_who_had_engaged_herself_to_be_married-48 8809 8816	herself
+T433	Robert_Lebrun-26 8833 8839	Robert
+T434	girls-50 8891 8896	girls
+T435	the_sisters-51 8897 8908	the sisters
+T431	her_father-43 8921 8931	the father
+T432	the_mother-52 8956 8966	the mother
+T436	Mrs__Pontellier-25 8988 9003	Mrs. Pontellier
+T650	Mrs__Pontellier-25 9038 9041	her
+T651	Mrs__Pontellier-25 9076 9077	I
+T439	Mr__Pontellier-1 9082 9088	Leonce
+T652	Mrs__Pontellier-25 9112 9115	she
+T438	Mr__Pontellier-1 9161 9172	her husband
+T653	Mrs__Pontellier-25 9161 9164	her
+T440	Robert_Lebrun-26 9191 9197	Robert
+T654	Mr__Pontellier-1 9207 9209	he
+T437	New_Orleans-9 9246 9257	New Orleans
+T441	New_Orleans_club_men-53 9246 9266	New Orleans club men
+T396	New_Orleans_club-54 9246 9262	New Orleans club
+T443	Klein-30 9275 9280	Klein
+T442	Klein__s_hotel-29 9275 9283	Klein 's
+T444	Mrs__Pontellier-25 9291 9306	Mrs. Pontellier
+T655	Robert_Lebrun-26 9312 9315	him
+T445	her_room-55 9325 9333	her room
+T656	Mrs__Pontellier-25 9325 9328	her
+T446	Robert_Lebrun-26 9336 9349	the young man
+T470	Some_young_people-19 9395 9414	the croquet players
+T657	Robert_Lebrun-26 9462 9464	he
+T658	Robert_Lebrun-26 9472 9479	himself
+T472	Pontellier_children-20 9485 9543	the little Pontellier children , who were very fond of him
+T659	Robert_Lebrun-26 9540 9543	him
+T447	Mr__Pontellier-1 9588 9602	Mr. Pontellier
+T448	Klein-30 9617 9622	Klein
+T449	Klein__s_hotel-29 9617 9631	Klein 's hotel
+T660	Mr__Pontellier-1 9634 9636	He
+T661	Mr__Pontellier-1 9704 9707	His
+T425	Mrs__Pontellier-25 9723 9731	his wife
+T662	Mr__Pontellier-1 9723 9726	his
+T663	Mr__Pontellier-1 9770 9772	he
+T664	Mr__Pontellier-1 9783 9785	He
+T665	Mrs__Pontellier-25 9796 9799	her
+T666	Mr__Pontellier-1 9806 9808	he
+T667	Mrs__Pontellier-25 9829 9832	her
+T668	Mr__Pontellier-1 9876 9878	he
+T669	Mr__Pontellier-1 9914 9917	his
+T670	Mr__Pontellier-1 9935 9937	he
+T671	Mr__Pontellier-1 10015 10017	he
+T672	Mr__Pontellier-1 10126 10129	his
+T673	Mrs__Pontellier-25 10140 10143	She
+T674	Mr__Pontellier-1 10183 10186	him
+R1	cop Arg1:T8 Arg2:T174
+R2	cop Arg1:T28 Arg2:T183
+R5	cop Arg1:T90 Arg2:T308
+T677	PRON_FAC 1871 1873	it
+T678	the_main_house-5 1871 1873	it
+T709	PRON_FAC 8272 8275	its
+T710	the_main_house-5 8272 8275	its
+T711	PRON_FAC 8383 8385	it
+T712	the_main_house-5 8383 8385	it
+T62	Pontellier_children-20 2712 2750	sturdy little fellows of four and five

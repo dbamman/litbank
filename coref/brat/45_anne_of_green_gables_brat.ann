@@ -1,0 +1,592 @@
+T2	NOM_LOC 236 271	the woods of the old Cuthbert place
+T3	PROP_PER 638 649	Mrs. Rachel
+T4	NOM_FAC 79 100	the Avonlea main road
+T5	NOM_LOC 355 366	those woods
+T6	NOM_PER 742 750	children
+T8	PROP_GPE 83 90	Avonlea
+T10	PROP_GPE 921 928	Avonlea
+T11	PROP_PER 1036 1053	Mrs. Rachel Lynde
+T13	NOM_PER 1550 1570	Avonlea housekeepers
+T15	NOM_FAC 1461 1468	kitchen
+T17	NOM_LOC 1783 1807	the Gulf of St. Lawrence
+T18	NOM_FAC 1895 1909	that hill road
+T20	PROP_GPE 1719 1726	Avonlea
+T21	NOM_FAC 2113 2122	the house
+T22	NOM_FAC 2351 2359	the barn
+T23	PROP_PER 2366 2382	Matthew Cuthbert
+T24	NOM_PER 2265 2288	Rachel Lynde ’s husband
+T26	PROP_FAC 2453 2465	Green Gables
+T27	PROP_PER 2468 2479	Mrs. Rachel
+T28	PROP_GPE 2601 2608	Carmody
+T29	PROP_PER 2530 2544	Peter Morrison
+T30	NOM_FAC 2567 2592	William J. Blair ’s store
+T31	PROP_PER 2705 2721	Matthew Cuthbert
+T33	PROP_PER 3183 3199	Matthew Cuthbert
+T34	PROP_PER 3274 3285	Mrs. Rachel
+T36	PROP_PER 3392 3399	Matthew
+T37	NOM_PER 3553 3562	strangers
+T38	NOM_FAC 3420 3424	home
+T39	PROP_PER 3717 3728	Mrs. Rachel
+T41	PROP_FAC 3849 3861	Green Gables
+T42	NOM_PER 3927 3943	the worthy woman
+T43	NOM_GPE 3994 3998	town
+T44	NOM_PER 4180 4188	a doctor
+T45	PROP_GPE 4406 4413	Avonlea
+T46	PROP_PER 4382 4398	Matthew Cuthbert
+T47	PROP_PER 4543 4556	the Cuthberts
+T50	NOM_FAC 4641 4654	the long lane
+T51	NOM_LOC 4849 4858	the woods
+T52	NOM_PER 4801 4815	his fellow men
+T54	PROP_GPE 5046 5053	Avonlea
+T55	NOM_FAC 5032 5060	all the other Avonlea houses
+T56	PROP_PER 5089 5106	Mrs. Rachel Lynde
+T58	PROP_PER 5330 5337	Marilla
+T59	PROP_PER 5318 5325	Matthew
+T60	NOM_PER 5665 5677	the Irishman
+T61	PROP_FAC 5754 5766	Green Gables
+T62	NOM_FAC 5724 5732	the lane
+T63	PROP_PER 5692 5708	this Mrs. Rachel
+T65	PROP_PER 5956 5967	Mrs. Rachel
+T67	NOM_FAC 6105 6114	her house
+T68	PROP_PER 6045 6061	Marilla Cuthbert
+T69	PROP_PER 6212 6223	Mrs. Rachel
+T70	NOM_FAC 6246 6253	kitchen
+T71	NOM_FAC 6329 6349	a cheerful apartment
+T72	NOM_FAC 6297 6324	The kitchen at Green Gables
+T73	NOM_FAC 6464 6480	an unused parlor
+T74	NOM_FAC 6556 6569	the back yard
+T75	PROP_PER 6820 6836	Marilla Cuthbert
+T76	NOM_LOC 6965 7010	a world which was meant to be taken seriously
+T77	PROP_PER 7250 7257	Marilla
+T78	PROP_PER 7295 7302	Matthew
+T80	NOM_FAC 7605 7638	quiet , unmysterious Green Gables
+T81	PROP_PER 7536 7547	Mrs. Rachel
+T82	PROP_PER 7669 7676	Marilla
+T83	PROP_PER 7914 7925	Mrs. Rachel
+T84	PROP_PER 7893 7909	Marilla Cuthbert
+T85	PROP_PER 8485 8496	Mrs. Rachel
+T86	PROP_PER 8561 8568	Matthew
+T87	PROP_PER 8700 8711	Mrs. Rachel
+T88	PROP_PER 8749 8756	Matthew
+T89	PROP_PER 8922 8929	Matthew
+T90	PROP_GPE 8938 8950	Bright River
+T93	PROP_GPE 9006 9017	Nova Scotia
+T94	NOM_PER 8968 8980	a little boy
+T95	PROP_GPE 9105 9117	Bright River
+T96	PROP_PER 9063 9070	Marilla
+T97	PROP_PER 9085 9092	Matthew
+T99	PROP_PER 9313 9324	Mrs. Rachel
+T100	PROP_PER 9277 9284	Marilla
+T101	PROP_PER 9463 9470	Marilla
+T102	NOM_PER 9487 9491	boys
+T103	PROP_GPE 9584 9591	Avonlea
+T104	PROP_GPE 9515 9526	Nova Scotia
+T105	NOM_FAC 9565 9596	any well-regulated Avonlea farm
+T106	PROP_PER 9641 9652	Mrs. Rachel
+T107	NOM_PER 9739 9744	A boy
+T108	NOM_PER 9799 9804	a boy
+T109	PROP_PER 9759 9775	Matthew Cuthbert
+T110	NOM_PER 9815 9821	orphan
+T111	NOM_LOC 9838 9847	the world
+T1	PROP_PER 11 28	Mrs. Rachel Lynde
+T112	PROP_PER 44 61	MRS. Rachel Lynde
+T7	PROP_PER 257 265	Cuthbert
+T113	NOM_FAC 249 271	the old Cuthbert place
+T114	NOM_LOC 195 271	a brook that had its source away back in the woods of the old Cuthbert place
+T115	NOM_LOC 295 324	an intricate , headlong brook
+T9	PROP_LOC 436 451	Lynde ’s Hollow
+T116	NOM_LOC 459 497	a quiet , well-conducted little stream
+T117	NOM_LOC 513 520	a brook
+T118	PROP_PER 536 553	Mrs. Rachel Lynde
+T119	NOM_LOC 731 737	brooks
+T120	NOM_PER 911 917	people
+T121	NOM_PER 971 985	their neighbor
+T122	NOM_PER 1136 1147	other folks
+T123	NOM_PER 1065 1164	those capable creatures who can manage their own concerns and those of other folks into the bargain
+T124	NOM_PER 1058 1164	one of those capable creatures who can manage their own concerns and those of other folks into the bargain
+T125	NOM_PER 1175 1194	a notable housewife
+T12	NOM_ORG 1358 1384	Foreign Missions Auxiliary
+T126	PROP_ORG 1335 1353	Church Aid Society
+T14	PROP_PER 1405 1416	Mrs. Rachel
+T127	PROP_GPE 1550 1557	Avonlea
+T128	NOM_LOC 1661 1671	the hollow
+T16	NOM_LOC 1685 1710	the steep red hill beyond
+T129	NOM_FAC 1634 1710	the main road that crossed the hollow and wound up the steep red hill beyond
+T19	NOM_LOC 1736 1837	a little triangular peninsula jutting out into the Gulf of St. Lawrence with water on two sides of it
+T130	PROP_PER 1944 1955	Mrs. Rachel
+T131	NOM_FAC 2082 2093	the orchard
+T132	PROP_PER 2202 2214	Thomas Lynde
+T25	PROP_PER 2265 2277	Rachel Lynde
+T133	NOM_PER 2241 2255	Avonlea people
+T134	PROP_GPE 2241 2248	Avonlea
+T135	NOM_PER 2218 2290	a meek little man whom Avonlea people called “ Rachel Lynde ’s husband ”
+T136	NOM_LOC 2329 2359	the hill field beyond the barn
+T137	NOM_LOC 2416 2465	the big red brook field away over by Green Gables
+T138	PROP_PER 2567 2583	William J. Blair
+T139	PROP_PER 2667 2672	Peter
+T32	PROP_PER 2820 2836	Matthew Cuthbert
+T140	NOM_LOC 2913 2923	the hollow
+T141	NOM_LOC 2931 2939	the hill
+T142	PROP_GPE 3054 3061	Avonlea
+T143	NOM_VEH 3075 3084	the buggy
+T35	PROP_GPE 3264 3271	Avonlea
+T144	NOM_PER 3247 3271	any other man in Avonlea
+T145	NOM_PER 3502 3522	the shyest man alive
+T146	PROP_PER 3609 3616	Matthew
+T147	NOM_VEH 3665 3672	a buggy
+T40	PROP_PER 3890 3897	Marilla
+T148	NOM_VEH 4106 4115	the buggy
+T48	PROP_PER 4446 4457	Mrs. Rachel
+T150	NOM_FAC 4492 4562	the big , rambling , orchard-embowered house where the Cuthberts lived
+T49	PROP_LOC 4610 4625	Lynde ’s Hollow
+T151	NOM_FAC 4596 4604	the road
+T152	PROP_PER 4685 4701	Matthew Cuthbert
+T153	NOM_PER 4685 4711	Matthew Cuthbert ’s father
+T53	NOM_PER 4735 4742	his son
+T154	NOM_FAC 4875 4888	his homestead
+T155	PROP_FAC 4891 4903	Green Gables
+T156	NOM_LOC 4938 4954	his cleared land
+T157	NOM_FAC 5006 5086	the main road along which all the other Avonlea houses were so sociably situated
+T158	NOM_FAC 5130 5142	such a place
+T57	NOM_FAC 5237 5297	the deep-rutted , grassy lane bordered with wild rose bushes
+T159	NOM_PER 5509 5515	people
+T160	NOM_FAC 5738 5766	the backyard of Green Gables
+T161	NOM_FAC 5805 5814	that yard
+T64	NOM_FAC 6068 6077	that yard
+T66	PROP_FAC 6312 6324	Green Gables
+T162	NOM_FAC 6690 6706	the left orchard
+T163	NOM_LOC 6759 6768	the brook
+T165	PROP_PER 7094 7105	Mrs. Rachel
+T79	NOM_PER 7276 7284	some one
+T166	PROP_PER 7490 7497	Matthew
+T167	PROP_PER 7658 7664	Rachel
+T168	NOM_PER 7770 7780	your folks
+T169	PROP_PER 7990 7997	Marilla
+T170	NOM_PER 8002 8054	a tall , thin woman , with angles and without curves
+T171	NOM_PER 8222 8287	a woman of narrow experience and rigid conscience , which she was
+T172	NOM_PER 8622 8632	the doctor
+T173	PROP_PER 8640 8647	Marilla
+T174	NOM_PER 8809 8821	her neighbor
+T92	NOM_PER 8989 8995	orphan
+T91	NOM_VEH 9038 9047	the train
+T98	PROP_GPE 9142 9151	Australia
+T176	PROP_PER 9152 9163	Mrs. Rachel
+T177	PROP_PER 9382 9389	Marilla
+T178	NOM_PER 9497 9503	orphan
+T179	NOM_FAC 9497 9526	orphan asylums in Nova Scotia
+T175	NOM_FAC 8986 9017	an orphan asylum in Nova Scotia
+T180	PROP_PER 9747 9754	Marilla
+T181	NOM_PER 9779 9789	all people
+T182	NOM_FAC 9812 9828	an orphan asylum
+T205	NOM_PER 1840 1877	anybody who went out of it or into it
+T164	NOM_LOC 6745 6768	the hollow by the brook
+T206	NOM_FAC 6811 6815	Here
+T207	NOM_FAC 7017 7021	here
+T208	PRON_PER 665 668	her
+T209	PRON_PER 768 771	she
+T210	PRON_PER 809 812	she
+T211	PRON_PER 836 839	she
+T212	PRON_PER 971 976	their
+T213	PRON_PER 1020 1025	their
+T214	PRON_PER 1104 1109	their
+T215	PRON_PER 1167 1170	She
+T216	PRON_PER 1197 1200	her
+T217	PRON_PER 1238 1241	she
+T218	PRON_PER 1457 1460	her
+T219	PRON_PER 1513 1516	she
+T221	PRON_PER 1976 1979	She
+T222	PRON_PER 2305 2308	his
+T223	PRON_PER 2409 2412	his
+T224	PRON_PER 2490 2492	he
+T225	PRON_PER 2507 2510	she
+T226	PRON_PER 2521 2524	him
+T227	PRON_PER 2614 2616	he
+T228	PRON_PER 2630 2633	his
+T229	PRON_PER 2683 2686	him
+T230	PRON_PER 2786 2789	his
+T231	PRON_PER 2953 2955	he
+T232	PRON_PER 2980 2983	his
+T233	PRON_PER 3034 3036	he
+T234	PRON_PER 3068 3070	he
+T235	PRON_PER 3128 3130	he
+T236	PRON_PER 3218 3220	he
+T237	PRON_PER 3489 3492	him
+T238	PRON_PER 3495 3497	he
+T239	PRON_PER 3585 3587	he
+T240	PRON_PER 3741 3744	she
+T241	PRON_PER 3782 3785	her
+T242	PRON_PER 3825 3826	I
+T243	PRON_PER 3904 3906	he
+T244	PRON_PER 3966 3968	He
+T245	PRON_PER 4021 4023	he
+T246	PRON_PER 4046 4048	he
+T247	PRON_PER 4075 4077	he
+T248	PRON_PER 4133 4135	he
+T249	PRON_PER 4250 4253	him
+T250	PRON_PER 4260 4261	I
+T251	PRON_PER 4300 4301	I
+T252	PRON_PER 4360 4361	I
+T253	PRON_PER 4468 4471	she
+T254	PRON_PER 4735 4738	his
+T255	PRON_PER 4749 4752	him
+T256	PRON_PER 4778 4780	he
+T257	PRON_PER 4801 4804	his
+T258	PRON_PER 4864 4866	he
+T259	PRON_PER 4875 4878	his
+T260	PRON_PER 4938 4941	his
+T261	PRON_PER 5207 5210	she
+T262	PRON_PER 5219 5222	she
+T263	PRON_PER 5387 5397	themselves
+T266	PRON_PER 5489 5490	I
+T267	PRON_PER 5531 5535	they
+T268	PRON_PER 5571 5572	I
+T269	PRON_PER 5583 5587	they
+T270	PRON_PER 6017 6020	she
+T271	PRON_PER 6095 6098	she
+T272	PRON_PER 6105 6108	her
+T273	PRON_PER 6637 6640	you
+T274	PRON_PER 6844 6847	she
+T275	PRON_PER 6919 6922	her
+T276	PRON_PER 7022 7025	she
+T277	PRON_PER 7068 7071	her
+T278	PRON_PER 7115 7118	she
+T279	PRON_PER 7743 7746	you
+T280	PRON_PER 7770 7774	your
+T281	PRON_PER 7968 7973	their
+T282	PRON_PER 8057 8060	her
+T283	PRON_PER 8206 8209	She
+T284	PRON_PER 8280 8283	she
+T285	PRON_PER 8329 8332	her
+T286	PRON_PER 8453 8455	We
+T287	PRON_PER 8501 8502	I
+T288	PRON_PER 8524 8527	you
+T289	PRON_PER 8555 8556	I
+T290	PRON_PER 8590 8591	I
+T291	PRON_PER 8606 8608	he
+T292	PRON_PER 8683 8686	She
+T293	PRON_PER 8717 8720	she
+T294	PRON_PER 8809 8812	her
+T295	PRON_PER 8849 8850	I
+T296	PRON_PER 8874 8875	I
+T297	PRON_PER 8909 8912	she
+T298	PRON_PER 8953 8955	We
+T299	PRON_PER 9022 9024	he
+T300	PRON_PER 9202 9205	She
+T301	PRON_PER 9303 9306	her
+T302	PRON_PER 9365 9368	you
+T303	PRON_PER 9394 9397	she
+T304	PRON_PER 9430 9433	her
+T305	PRON_PER 9663 9666	she
+T306	PRON_PER 9703 9706	She
+T307	PRON_PER 9884 9887	She
+T308	PRON_LOC 274 276	it
+T309	PRON_LOC 425 427	it
+T310	PRON_LOC 452 454	it
+T311	PRON_LOC 607 609	it
+T312	PRON_GPE 1835 1837	it
+T313	PRON_GPE 1864 1866	it
+T314	PRON_GPE 1875 1877	it
+T315	PRON_FAC 4660 4662	it
+T317	Mrs__Rachel_Lynde-0 11 28	Mrs. Rachel Lynde
+T428	Mrs__Rachel_Lynde-0 44 61	MRS. Rachel Lynde
+T320	the_Avonlea_main_road-1 79 100	the Avonlea main road
+T324	Avonlea-2 83 90	Avonlea
+T430	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 195 271	a brook that had its source away back in the woods of the old Cuthbert place
+T318	the_woods_of_the_old_Cuthbert_place-4 236 271	the woods of the old Cuthbert place
+T429	Cuthbert_house-5 249 271	the old Cuthbert place
+T323	the_Cuthberts-6 257 265	Cuthbert
+T321	the_woods_of_the_old_Cuthbert_place-4 355 366	those woods
+T325	Lynde__s_Hollow-7 436 451	Lynde ’s Hollow
+T432	a_quiet___well-conducted_little_stream-8 459 497	a quiet , well-conducted little stream
+T433	a_brook-9 513 520	a brook
+T434	Mrs__Rachel_Lynde-0 536 553	Mrs. Rachel Lynde
+T319	Mrs__Rachel_Lynde-0 638 649	Mrs. Rachel
+T524	Mrs__Rachel_Lynde-0 665 668	her
+T435	brooks-10 731 737	brooks
+T322	children-11 742 750	children
+T525	Mrs__Rachel_Lynde-0 768 771	she
+T526	Mrs__Rachel_Lynde-0 809 812	she
+T527	Mrs__Rachel_Lynde-0 836 839	she
+T436	people-12 911 917	people
+T326	Avonlea-2 921 928	Avonlea
+T437	their_neighbor-13 971 985	their neighbor
+T528	people-12 971 976	their
+T529	people-12 1020 1025	their
+T327	Mrs__Rachel_Lynde-0 1036 1053	Mrs. Rachel Lynde
+T439	those_capable_creatures_who_can_manage_their_own_concerns_and_those_of_other_folks_into_the_bargain-14 1065 1164	those capable creatures who can manage their own concerns and those of other folks into the bargain
+T530	those_capable_creatures_who_can_manage_their_own_concerns_and_those_of_other_folks_into_the_bargain-14 1104 1109	their
+T438	other_folks-15 1136 1147	other folks
+T531	Mrs__Rachel_Lynde-0 1167 1170	She
+T532	Mrs__Rachel_Lynde-0 1197 1200	her
+T533	Mrs__Rachel_Lynde-0 1238 1241	she
+T442	Church_Aid_Society-16 1335 1353	Church Aid Society
+T328	Foreign_Missions_Auxiliary-17 1358 1384	Foreign Missions Auxiliary
+T330	Mrs__Rachel_Lynde-0 1405 1416	Mrs. Rachel
+T534	Mrs__Rachel_Lynde-0 1457 1460	her
+T331	kitchen-18 1461 1468	kitchen
+T535	Mrs__Rachel_Lynde-0 1513 1516	she
+T329	Avonlea_housekeepers-19 1550 1570	Avonlea housekeepers
+T443	Avonlea-2 1550 1557	Avonlea
+T445	the_Avonlea_main_road-1 1634 1710	the main road that crossed the hollow and wound up the steep red hill beyond
+T444	Lynde__s_Hollow-7 1661 1671	the hollow
+T332	the_steep_red_hill_beyond-20 1685 1710	the steep red hill beyond
+T336	Avonlea-2 1719 1726	Avonlea
+T335	a_little_triangular_peninsula_jutting_out_into_the_Gulf_of_St__Lawrence_with_water_on_two_sides_of_it-21 1736 1837	a little triangular peninsula jutting out into the Gulf of St. Lawrence with water on two sides of it
+T333	the_Gulf_of_St__Lawrence-22 1783 1807	the Gulf of St. Lawrence
+T521	anybody_who_went_out_of_it_or_into_it-23 1840 1877	anybody who went out of it or into it
+T334	the_Avonlea_main_road-1 1895 1909	that hill road
+T446	Mrs__Rachel_Lynde-0 1944 1955	Mrs. Rachel
+T537	Mrs__Rachel_Lynde-0 1976 1979	She
+T447	the_orchard-24 2082 2093	the orchard
+T448	Thomas_Lynde-25 2202 2214	Thomas Lynde
+T337	Lynde_house-26 2113 2122	the house
+T449	Avonlea_people-27 2241 2255	Avonlea people
+T450	Avonlea-2 2241 2248	Avonlea
+T340	Thomas_Lynde-25 2265 2288	Rachel Lynde ’s husband
+T341	Mrs__Rachel_Lynde-0 2265 2277	Rachel Lynde
+T538	Thomas_Lynde-25 2305 2308	his
+T452	the_steep_red_hill_beyond-20 2329 2359	the hill field beyond the barn
+T338	the_barn-28 2351 2359	the barn
+T339	Matthew_Cuthbert-29 2366 2382	Matthew Cuthbert
+T539	Matthew_Cuthbert-29 2409 2412	his
+T453	the_big_red_brook_field_away_over_by_Green_Gables-30 2416 2465	the big red brook field away over by Green Gables
+T342	Green_Gables-31 2453 2465	Green Gables
+T343	Mrs__Rachel_Lynde-0 2468 2479	Mrs. Rachel
+T540	Matthew_Cuthbert-29 2490 2492	he
+T541	Mrs__Rachel_Lynde-0 2507 2510	she
+T542	Matthew_Cuthbert-29 2521 2524	him
+T345	Peter_Morrison-32 2530 2544	Peter Morrison
+T346	William_J__Blair__s_store-33 2567 2592	William J. Blair ’s store
+T454	William_J__Blair-34 2567 2583	William J. Blair
+T344	Carmody-35 2601 2608	Carmody
+T543	Matthew_Cuthbert-29 2614 2616	he
+T544	Matthew_Cuthbert-29 2630 2633	his
+T455	Peter_Morrison-32 2667 2672	Peter
+T545	Matthew_Cuthbert-29 2683 2686	him
+T347	Matthew_Cuthbert-29 2705 2721	Matthew Cuthbert
+T546	Matthew_Cuthbert-29 2786 2789	his
+T348	Matthew_Cuthbert-29 2820 2836	Matthew Cuthbert
+T456	Lynde__s_Hollow-7 2913 2923	the hollow
+T457	the_steep_red_hill_beyond-20 2931 2939	the hill
+T547	Matthew_Cuthbert-29 2953 2955	he
+T548	Matthew_Cuthbert-29 2980 2983	his
+T549	Matthew_Cuthbert-29 3034 3036	he
+T458	Avonlea-2 3054 3061	Avonlea
+T550	Matthew_Cuthbert-29 3068 3070	he
+T459	the_buggy-36 3075 3084	the buggy
+T551	Matthew_Cuthbert-29 3128 3130	he
+T349	Matthew_Cuthbert-29 3183 3199	Matthew Cuthbert
+T552	Matthew_Cuthbert-29 3218 3220	he
+T460	any_other_man_in_Avonlea-37 3247 3271	any other man in Avonlea
+T351	Avonlea-2 3264 3271	Avonlea
+T350	Mrs__Rachel_Lynde-0 3274 3285	Mrs. Rachel
+T352	Matthew_Cuthbert-29 3392 3399	Matthew
+T354	Green_Gables-31 3420 3424	home
+T553	Matthew_Cuthbert-29 3489 3492	him
+T554	Matthew_Cuthbert-29 3495 3497	he
+T353	strangers-38 3553 3562	strangers
+T555	Matthew_Cuthbert-29 3585 3587	he
+T462	Matthew_Cuthbert-29 3609 3616	Matthew
+T463	a_buggy-39 3665 3672	a buggy
+T355	Mrs__Rachel_Lynde-0 3717 3728	Mrs. Rachel
+T556	Mrs__Rachel_Lynde-0 3741 3744	she
+T557	Mrs__Rachel_Lynde-0 3782 3785	her
+T558	Mrs__Rachel_Lynde-0 3825 3826	I
+T357	Green_Gables-31 3849 3861	Green Gables
+T356	Marilla_Cuthbert-40 3890 3897	Marilla
+T559	Matthew_Cuthbert-29 3904 3906	he
+T358	Mrs__Rachel_Lynde-0 3927 3943	the worthy woman
+T560	Matthew_Cuthbert-29 3966 3968	He
+T359	town-41 3994 3998	town
+T561	Matthew_Cuthbert-29 4021 4023	he
+T562	Matthew_Cuthbert-29 4046 4048	he
+T563	Matthew_Cuthbert-29 4075 4077	he
+T464	the_buggy-36 4106 4115	the buggy
+T564	Matthew_Cuthbert-29 4133 4135	he
+T360	a_doctor-42 4180 4188	a doctor
+T565	Matthew_Cuthbert-29 4250 4253	him
+T566	Mrs__Rachel_Lynde-0 4260 4261	I
+T567	Mrs__Rachel_Lynde-0 4300 4301	I
+T568	Mrs__Rachel_Lynde-0 4360 4361	I
+T362	Matthew_Cuthbert-29 4382 4398	Matthew Cuthbert
+T361	Avonlea-2 4406 4413	Avonlea
+T364	Mrs__Rachel_Lynde-0 4446 4457	Mrs. Rachel
+T569	Mrs__Rachel_Lynde-0 4468 4471	she
+T466	Green_Gables-31 4492 4562	the big , rambling , orchard-embowered house where the Cuthberts lived
+T363	the_Cuthberts-6 4543 4556	the Cuthberts
+T467	the_Avonlea_main_road-1 4596 4604	the road
+T365	Lynde__s_Hollow-7 4610 4625	Lynde ’s Hollow
+T624	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 274 276	it
+T625	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 425 427	it
+T626	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 452 454	it
+T627	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 607 609	it
+T628	Avonlea-2 1835 1837	it
+T629	Avonlea-2 1864 1866	it
+T630	Avonlea-2 1875 1877	it
+T366	the_long_lane-43 4641 4654	the long lane
+T631	Green_Gables-31 4660 4662	it
+T468	Matthew_Cuthbert-29 4685 4701	Matthew Cuthbert
+T469	Matthew_Cuthbert__s_father-44 4685 4711	Matthew Cuthbert ’s father
+T369	Matthew_Cuthbert-29 4735 4742	his son
+T570	Matthew_Cuthbert__s_father-44 4735 4738	his
+T571	Matthew_Cuthbert__s_father-44 4749 4752	him
+T572	Matthew_Cuthbert__s_father-44 4778 4780	he
+T368	his_fellow_men-45 4801 4815	his fellow men
+T573	Matthew_Cuthbert__s_father-44 4801 4804	his
+T367	the_woods_of_the_old_Cuthbert_place-4 4849 4858	the woods
+T574	Matthew_Cuthbert__s_father-44 4864 4866	he
+T470	Green_Gables-31 4875 4888	his homestead
+T575	Matthew_Cuthbert__s_father-44 4875 4878	his
+T471	Green_Gables-31 4891 4903	Green Gables
+T472	his_cleared_land-46 4938 4954	his cleared land
+T576	Matthew_Cuthbert__s_father-44 4938 4941	his
+T473	the_Avonlea_main_road-1 5006 5086	the main road along which all the other Avonlea houses were so sociably situated
+T371	all_the_other_Avonlea_houses-47 5032 5060	all the other Avonlea houses
+T370	Avonlea-2 5046 5053	Avonlea
+T372	Mrs__Rachel_Lynde-0 5089 5106	Mrs. Rachel Lynde
+T474	Green_Gables-31 5130 5142	such a place
+T577	Mrs__Rachel_Lynde-0 5207 5210	she
+T578	Mrs__Rachel_Lynde-0 5219 5222	she
+T373	the_long_lane-43 5237 5297	the deep-rutted , grassy lane bordered with wild rose bushes
+T375	Matthew_Cuthbert-29 5318 5325	Matthew
+T374	Marilla_Cuthbert-40 5330 5337	Marilla
+T579	Matthew_and_Marilla-48 5387 5397	themselves
+T582	Mrs__Rachel_Lynde-0 5489 5490	I
+T475	people-49 5509 5515	people
+T583	Matthew_and_Marilla-48 5531 5535	they
+T584	Mrs__Rachel_Lynde-0 5571 5572	I
+T585	Matthew_and_Marilla-48 5583 5587	they
+T376	the_Irishman-50 5665 5677	the Irishman
+T379	Mrs__Rachel_Lynde-0 5692 5708	this Mrs. Rachel
+T378	the_long_lane-43 5724 5732	the lane
+T476	the_backyard_of_Green_Gables-51 5738 5766	the backyard of Green Gables
+T377	Green_Gables-31 5754 5766	Green Gables
+T477	that_yard-52 5805 5814	that yard
+T381	Mrs__Rachel_Lynde-0 5956 5967	Mrs. Rachel
+T586	Mrs__Rachel_Lynde-0 6017 6020	she
+T384	Marilla_Cuthbert-40 6045 6061	Marilla Cuthbert
+T380	that_yard-52 6068 6077	that yard
+T587	Marilla_Cuthbert-40 6095 6098	she
+T383	Green_Gables-31 6105 6114	her house
+T588	Marilla_Cuthbert-40 6105 6108	her
+T385	Mrs__Rachel_Lynde-0 6212 6223	Mrs. Rachel
+T386	kitchen-53 6246 6253	kitchen
+T388	kitchen-53 6297 6324	The kitchen at Green Gables
+T382	Green_Gables-31 6312 6324	Green Gables
+T389	an_unused_parlor-55 6464 6480	an unused parlor
+T390	the_back_yard-56 6556 6569	the back yard
+T589	you-57 6637 6640	you
+T478	the_left_orchard-58 6690 6706	the left orchard
+T480	the_hollow_by_the_brook-59 6745 6768	the hollow by the brook
+T479	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 6759 6768	the brook
+T522	kitchen-53 6811 6815	Here
+T391	Marilla_Cuthbert-40 6820 6836	Marilla Cuthbert
+T590	Marilla_Cuthbert-40 6844 6847	she
+T591	Marilla_Cuthbert-40 6919 6922	her
+T392	a_world_which_was_meant_to_be_taken_seriously-60 6965 7010	a world which was meant to be taken seriously
+T523	kitchen-53 7017 7021	here
+T592	Marilla_Cuthbert-40 7022 7025	she
+T593	Marilla_Cuthbert-40 7068 7071	her
+T481	Mrs__Rachel_Lynde-0 7094 7105	Mrs. Rachel
+T594	Mrs__Rachel_Lynde-0 7115 7118	she
+T393	Marilla_Cuthbert-40 7250 7257	Marilla
+T395	some_one-61 7276 7284	some one
+T394	Matthew_Cuthbert-29 7295 7302	Matthew
+T482	Matthew_Cuthbert-29 7490 7497	Matthew
+T397	Mrs__Rachel_Lynde-0 7536 7547	Mrs. Rachel
+T396	Green_Gables-31 7605 7638	quiet , unmysterious Green Gables
+T483	Mrs__Rachel_Lynde-0 7658 7664	Rachel
+T398	Marilla_Cuthbert-40 7669 7676	Marilla
+T595	Mrs__Rachel_Lynde-0 7743 7746	you
+T484	Lynde_family-62 7770 7780	your folks
+T596	Mrs__Rachel_Lynde-0 7770 7774	your
+T400	Marilla_Cuthbert-40 7893 7909	Marilla Cuthbert
+T399	Mrs__Rachel_Lynde-0 7914 7925	Mrs. Rachel
+T597	their-63 7968 7973	their
+T485	Marilla_Cuthbert-40 7990 7997	Marilla
+T598	Marilla_Cuthbert-40 8057 8060	her
+T599	Marilla_Cuthbert-40 8206 8209	She
+T600	Marilla_Cuthbert-40 8280 8283	she
+T601	Marilla_Cuthbert-40 8329 8332	her
+T602	Lynde_family-62 8453 8455	We
+T401	Mrs__Rachel_Lynde-0 8485 8496	Mrs. Rachel
+T603	Mrs__Rachel_Lynde-0 8501 8502	I
+T604	Marilla_Cuthbert-40 8524 8527	you
+T605	Mrs__Rachel_Lynde-0 8555 8556	I
+T402	Matthew_Cuthbert-29 8561 8568	Matthew
+T606	Mrs__Rachel_Lynde-0 8590 8591	I
+T607	Matthew_Cuthbert-29 8606 8608	he
+T488	a_doctor-42 8622 8632	the doctor
+T489	Marilla_Cuthbert-40 8640 8647	Marilla
+T608	Marilla_Cuthbert-40 8683 8686	She
+T403	Mrs__Rachel_Lynde-0 8700 8711	Mrs. Rachel
+T609	Marilla_Cuthbert-40 8717 8720	she
+T404	Matthew_Cuthbert-29 8749 8756	Matthew
+T490	Mrs__Rachel_Lynde-0 8809 8821	her neighbor
+T610	Marilla_Cuthbert-40 8809 8812	her
+T611	Marilla_Cuthbert-40 8849 8850	I
+T612	Marilla_Cuthbert-40 8874 8875	I
+T613	Marilla_Cuthbert-40 8909 8912	she
+T405	Matthew_Cuthbert-29 8922 8929	Matthew
+T406	Bright_River-64 8938 8950	Bright River
+T614	Matthew_and_Marilla-48 8953 8955	We
+T410	a_little_boy-65 8968 8980	a little boy
+T491	an_orphan_asylum_in_Nova_Scotia-66 8986 9017	an orphan asylum in Nova Scotia
+T408	orphan-67 8989 8995	orphan
+T409	Nova_Scotia-68 9006 9017	Nova Scotia
+T615	a_little_boy-65 9022 9024	he
+T407	the_train-69 9038 9047	the train
+T412	Marilla_Cuthbert-40 9063 9070	Marilla
+T413	Matthew_Cuthbert-29 9085 9092	Matthew
+T411	Bright_River-64 9105 9117	Bright River
+T414	Australia-70 9142 9151	Australia
+T492	Mrs__Rachel_Lynde-0 9152 9163	Mrs. Rachel
+T616	Mrs__Rachel_Lynde-0 9202 9205	She
+T416	Marilla_Cuthbert-40 9277 9284	Marilla
+T617	Mrs__Rachel_Lynde-0 9303 9306	her
+T415	Mrs__Rachel_Lynde-0 9313 9324	Mrs. Rachel
+T618	Marilla_Cuthbert-40 9365 9368	you
+T493	Marilla_Cuthbert-40 9382 9389	Marilla
+T619	Mrs__Rachel_Lynde-0 9394 9397	she
+T620	Mrs__Rachel_Lynde-0 9430 9433	her
+T417	Marilla_Cuthbert-40 9463 9470	Marilla
+T418	boys-71 9487 9491	boys
+T494	orphan-72 9497 9503	orphan
+T495	orphan_asylums_in_Nova_Scotia-73 9497 9526	orphan asylums in Nova Scotia
+T420	Nova_Scotia-68 9515 9526	Nova Scotia
+T421	any_well-regulated_Avonlea_farm-74 9565 9596	any well-regulated Avonlea farm
+T419	Avonlea-2 9584 9591	Avonlea
+T422	Mrs__Rachel_Lynde-0 9641 9652	Mrs. Rachel
+T621	Mrs__Rachel_Lynde-0 9663 9666	she
+T622	Mrs__Rachel_Lynde-0 9703 9706	She
+T423	A_boy-75 9739 9744	A boy
+T496	Marilla_Cuthbert-40 9747 9754	Marilla
+T425	Matthew_Cuthbert-29 9759 9775	Matthew Cuthbert
+T497	all_people-76 9779 9789	all people
+T424	a_boy-77 9799 9804	a boy
+T498	an_orphan_asylum-78 9812 9828	an orphan asylum
+T426	orphan-79 9815 9821	orphan
+T427	the_world-80 9838 9847	the world
+T623	Mrs__Rachel_Lynde-0 9884 9887	She
+R1	cop Arg1:T115 Arg2:T624
+R2	cop Arg1:T124 Arg2:T11
+R3	cop Arg1:T125 Arg2:T215
+R4	appos Arg1:T135 Arg2:T132
+R5	cop Arg1:T145 Arg2:T238
+R6	cop Arg1:T71 Arg2:T72
+R7	cop Arg1:T170 Arg2:T169
+R8	cop Arg1:T171 Arg2:T283
+T632	PRON_LOC 212 215	its
+T633	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 212 215	its
+T634	PRON_LOC 328 331	its
+T635	a_brook_that_had_its_source_away_back_in_the_woods_of_the_old_Cuthbert_place-3 328 331	its
+T636	PRON_GPE 940 942	it
+T637	Avonlea-2 940 942	it
+T644	PRON_FAC 4965 4967	it
+T645	Green_Gables-31 4965 4967	it
+T654	PRON_FAC 6384 6386	it
+T655	kitchen-53 6384 6386	it
+T656	PRON_FAC 6430 6432	it
+T657	kitchen-53 6430 6432	it
+T658	PRON_FAC 6483 6486	Its
+T659	kitchen-53 6483 6486	Its

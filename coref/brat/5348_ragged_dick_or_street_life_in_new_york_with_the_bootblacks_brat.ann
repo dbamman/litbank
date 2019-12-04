@@ -1,0 +1,640 @@
+T0	PROP_PER 103 114	Ragged Dick
+T1	NOM_PER 175 186	the speaker
+T3	PROP_PER 385 389	Dick
+T5	NOM_FAC 524 538	the Old Bowery
+T6	PROP_FAC 731 744	Spruce Street
+T8	NOM_PER 781 792	My guardian
+T9	NOM_PER 860 869	Some boys
+T11	PROP_PER 998 1002	Dick
+T14	PROP_PER 1247 1251	Dick
+T15	PROP_PER 1513 1517	Dick
+T16	NOM_PER 1598 1618	the young boot-black
+T17	PROP_PER 2051 2055	Dick
+T19	NOM_PER 2212 2247	a boy two sizes larger than himself
+T20	PROP_PER 2618 2622	Dick
+T21	PROP_PER 2836 2840	Dick
+T23	PROP_PER 3043 3047	Dick
+T24	PROP_PER 3113 3117	Dick
+T27	PROP_PER 3410 3414	Dick
+T29	NOM_PER 3648 3682	Dick , who had already set to work
+T30	PROP_PER 3880 3884	Dick
+T31	NOM_FAC 3982 4011	my manshun up on Fifth Avenoo
+T32	PROP_PER 3916 3920	Dick
+T36	PROP_PER 4247 4251	Dick
+T37	PROP_PER 4236 4240	Dick
+T38	NOM_PER 4317 4330	the gentleman
+T39	PROP_PER 4343 4347	Dick
+T42	PROP_PER 4529 4547	General Washington
+T44	NOM_PER 4686 4696	his widder
+T45	PROP_PER 4835 4853	General Washington
+T47	PROP_PER 4983 5001	General Washington
+T49	PROP_PER 5038 5052	Lewis Napoleon
+T51	PROP_PER 5055 5060	Lewis
+T53	PROP_PER 5303 5307	Dick
+T54	NOM_PER 5331 5344	the gentleman
+T55	PROP_PER 5480 5484	Dick
+T56	NOM_FAC 5815 5836	No. 125 Fulton Street
+T58	PROP_PER 6034 6045	Mr. Greyson
+T59	NOM_PER 5990 6006	the little scamp
+T61	PROP_PER 6209 6220	Mr. Greyson
+T63	PROP_PER 6240 6244	Dick
+T64	NOM_PER 6247 6262	Our ragged hero
+T66	NOM_GPE 6473 6481	the city
+T67	NOM_PER 6442 6481	honest old gentlemen unused to the city
+T68	NOM_PER 6373 6410	unsophisticated boys from the country
+T69	PROP_FAC 6711 6724	Centre Street
+T70	NOM_PER 6628 6653	the unsuspicious stranger
+T72	PROP_PER 6829 6840	Ragged Dick
+T74	PROP_PER 7031 7035	Dick
+T75	PROP_PER 7234 7238	Dick
+T76	PROP_PER 7376 7380	Dick
+T77	NOM_FAC 7578 7600	the Old Bowery Theatre
+T82	PROP_PER 7834 7838	Dick
+T83	PROP_PER 7906 7910	Dick
+T84	NOM_PER 8055 8069	his companions
+T85	NOM_PER 8127 8145	No boy of fourteen
+T86	NOM_PER 8193 8196	Men
+T87	NOM_PER 8237 8241	boys
+T90	NOM_PER 8486 8496	his mother
+T92	NOM_PER 8448 8460	a little boy
+T93	NOM_PER 8554 8570	a veteran smoker
+T94	PROP_PER 8604 8608	Dick
+T96	PROP_PER 8928 8932	Dick
+T98	NOM_PER 9098 9109	a model boy
+T99	PROP_PER 8995 8999	Dick
+T101	NOM_PER 9267 9279	younger boys
+T102	NOM_PER 9421 9437	my young readers
+T103	NOM_PER 68 77	youngster
+T104	PROP_PER 10 21	RAGGED DICK
+T105	NOM_PER 39 49	THE READER
+T106	NOM_PER 87 100	a rough voice
+T107	NOM_PER 231 249	you young vagabond
+T2	NOM_PER 259 266	the man
+T4	NOM_FAC 607 621	the Old Bowery
+T108	NOM_PER 662 669	the man
+T109	NOM_PER 680 744	a porter in the employ of a firm doing business on Spruce Street
+T7	NOM_FAC 822 830	theatres
+T10	NOM_PER 903 913	the porter
+T12	NOM_PER 1065 1077	Lots of boys
+T13	NOM_PER 1221 1237	a rough customer
+T110	PROP_PER 1322 1326	Dick
+T111	NOM_PER 1335 1350	the rough voice
+T112	NOM_FAC 1531 1545	His bedchamber
+T18	NOM_PER 2969 2991	Some of his companions
+T116	NOM_PER 3261 3275	all who passed
+T117	NOM_PER 3321 3324	sir
+T118	NOM_FAC 3376 3386	his office
+T28	NOM_FAC 3519 3548	one skilled in his profession
+T120	NOM_FAC 3466 3478	the sidewalk
+T121	NOM_PER 3819 3832	the gentleman
+T122	PROP_FAC 3999 4011	Fifth Avenoo
+T123	NOM_PER 4104 4107	sir
+T33	NOM_FAC 4159 4169	your house
+T34	PROP_FAC 4176 4188	Fifth Avenue
+T35	NOM_PER 4283 4289	tailor
+T40	PROP_PER 4409 4413	Dick
+T41	PROP_PER 4557 4561	Dick
+T43	NOM_PER 4711 4767	some smart young feller that had n't got none of his own
+T46	NOM_PER 5181 5202	distinguished friends
+T48	NOM_PER 5211 5217	my lad
+T50	NOM_FAC 5517 5534	the Erie Railroad
+T52	NOM_PER 5870 5873	sir
+T57	PROP_PER 5892 5899	Greyson
+T124	NOM_FAC 5905 5927	office on second floor
+T125	NOM_PER 5946 5949	sir
+T60	NOM_PER 6271 6282	a model boy
+T62	NOM_PER 6484 6529	A clergyman in search of the Cooper Institute
+T65	PROP_FAC 6509 6529	the Cooper Institute
+T126	NOM_FAC 6550 6566	the Tombs Prison
+T127	NOM_FAC 6683 6724	the great stone building on Centre Street
+T71	NOM_PER 7202 7220	a few young clerks
+T73	PROP_FAC 7610 7624	Tony Pastor 's
+T78	NOM_PER 7685 7704	some of his friends
+T79	NOM_PER 8255 8300	large numbers of the newsboys and boot-blacks
+T80	NOM_FAC 8642 8681	a noted gambling-house on Baxter Street
+T81	PROP_FAC 8668 8681	Baxter Street
+T88	NOM_PER 8732 8756	these juvenile gamesters
+T89	NOM_PER 8967 8975	the rest
+T91	NOM_PER 9529 9541	a boot-black
+T95	NOM_PER 7610 7621	Tony Pastor
+T97	NOM_PER 3903 3906	sir
+T100	NOM_PER 4817 4820	sir
+T133	NOM_PER 5599 5602	sir
+T134	NOM_PER 5791 5794	sir
+T135	NOM_FAC 5739 5748	my office
+T136	NOM_FAC 8944 8948	here
+T137	NOM_LOC 6399 6410	the country
+T139	PRON_PER 122 125	his
+T140	PRON_PER 231 234	you
+T141	PRON_PER 292 293	I
+T142	PRON_PER 302 305	you
+T143	PRON_PER 332 333	I
+T144	PRON_PER 349 352	you
+T145	PRON_PER 430 431	I
+T146	PRON_PER 466 467	I
+T147	PRON_PER 490 492	me
+T148	PRON_PER 514 515	I
+T149	PRON_PER 595 598	You
+T150	PRON_PER 633 636	you
+T151	PRON_PER 641 645	your
+T152	PRON_PER 781 783	My
+T153	PRON_PER 806 808	me
+T154	PRON_PER 836 837	I
+T155	PRON_PER 932 935	You
+T156	PRON_PER 949 951	me
+T157	PRON_PER 980 983	you
+T158	PRON_PER 1014 1017	you
+T159	PRON_PER 1051 1052	I
+T160	PRON_PER 1092 1093	I
+T161	PRON_PER 1117 1118	I
+T162	PRON_PER 1135 1138	you
+T163	PRON_PER 1150 1151	I
+T164	PRON_PER 1182 1185	you
+T165	PRON_PER 1216 1217	I
+T166	PRON_PER 1260 1261	I
+T167	PRON_PER 1297 1298	I
+T168	PRON_PER 1307 1310	you
+T169	PRON_PER 1390 1393	you
+T170	PRON_PER 1415 1419	your
+T171	PRON_PER 1445 1446	I
+T172	PRON_PER 1531 1534	His
+T173	PRON_PER 1631 1634	his
+T174	PRON_PER 1704 1706	He
+T175	PRON_PER 1823 1825	He
+T176	PRON_PER 1856 1863	himself
+T178	PRON_PER 1934 1937	his
+T179	PRON_PER 1983 1986	his
+T180	PRON_PER 2004 2006	he
+T181	PRON_PER 2073 2075	he
+T182	PRON_PER 2119 2122	His
+T183	PRON_PER 2240 2247	himself
+T184	PRON_PER 2250 2252	He
+T185	PRON_PER 2401 2404	his
+T186	PRON_PER 2413 2415	he
+T187	PRON_PER 2441 2444	him
+T188	PRON_PER 2651 2653	He
+T189	PRON_PER 2755 2758	his
+T190	PRON_PER 2792 2795	his
+T191	PRON_PER 2890 2892	he
+T192	PRON_PER 2925 2927	he
+T193	PRON_PER 2977 2980	his
+T194	PRON_PER 3007 3012	their
+T195	PRON_PER 3096 3099	him
+T196	PRON_PER 3152 3154	He
+T197	PRON_PER 3179 3182	His
+T198	PRON_PER 3227 3229	he
+T199	PRON_PER 3365 3368	his
+T200	PRON_PER 3376 3379	his
+T201	PRON_PER 3426 3429	his
+T202	PRON_PER 3453 3456	his
+T203	PRON_PER 3493 3496	his
+T204	PRON_PER 3534 3537	his
+T205	PRON_PER 3605 3608	you
+T206	PRON_PER 3735 3736	I
+T207	PRON_PER 3784 3787	you
+T208	PRON_PER 3948 3949	I
+T209	PRON_PER 3982 3984	my
+T210	PRON_PER 4019 4020	I
+T211	PRON_PER 4073 4074	I
+T212	PRON_PER 4084 4087	you
+T213	PRON_PER 4138 4139	I
+T214	PRON_PER 4159 4163	your
+T215	PRON_PER 4293 4296	you
+T216	PRON_PER 4368 4371	you
+T217	PRON_PER 4452 4454	me
+T218	PRON_PER 4460 4462	he
+T219	PRON_PER 4476 4479	you
+T220	PRON_PER 4578 4580	He
+T221	PRON_PER 4648 4650	he
+T222	PRON_PER 4670 4672	he
+T223	PRON_PER 4678 4680	he
+T224	PRON_PER 4686 4689	his
+T225	PRON_PER 4760 4763	his
+T226	PRON_PER 4773 4776	she
+T227	PRON_PER 4788 4790	me
+T228	PRON_PER 4800 4803	you
+T229	PRON_PER 4859 4860	I
+T230	PRON_PER 4869 4872	you
+T231	PRON_PER 4904 4907	you
+T232	PRON_PER 4914 4915	I
+T233	PRON_PER 4942 4945	you
+T234	PRON_PER 4962 4966	your
+T236	PRON_PER 5094 5096	me
+T237	PRON_PER 5102 5104	he
+T238	PRON_PER 5120 5122	me
+T240	PRON_PER 5172 5175	you
+T241	PRON_PER 5211 5213	my
+T242	PRON_PER 5220 5221	I
+T243	PRON_PER 5230 5233	you
+T244	PRON_PER 5245 5249	your
+T245	PRON_PER 5262 5263	I
+T246	PRON_PER 5312 5313	I
+T247	PRON_PER 5357 5360	his
+T248	PRON_PER 5377 5378	I
+T249	PRON_PER 5435 5438	you
+T250	PRON_PER 5493 5495	my
+T251	PRON_PER 5573 5574	I
+T252	PRON_PER 5609 5610	I
+T253	PRON_PER 5625 5626	I
+T254	PRON_PER 5672 5673	I
+T255	PRON_PER 5683 5686	you
+T256	PRON_PER 5711 5714	you
+T257	PRON_PER 5739 5741	my
+T258	PRON_PER 5845 5848	you
+T259	PRON_PER 5952 5953	I
+T260	PRON_PER 5973 5974	I
+T261	PRON_PER 6049 6056	himself
+T262	PRON_PER 6062 6064	he
+T263	PRON_PER 6084 6086	he
+T264	PRON_PER 6094 6095	I
+T265	PRON_PER 6105 6108	him
+T266	PRON_PER 6109 6111	my
+T267	PRON_PER 6134 6136	he
+T268	PRON_PER 6164 6165	I
+T269	PRON_PER 6247 6250	Our
+T270	PRON_PER 6301 6302	I
+T271	PRON_PER 6313 6315	he
+T272	PRON_PER 6351 6353	he
+T273	PRON_PER 6530 6532	he
+T274	PRON_PER 6585 6588	him
+T275	PRON_PER 6761 6762	I
+T276	PRON_PER 6769 6771	he
+T277	PRON_PER 6803 6805	he
+T278	PRON_PER 6855 6858	his
+T279	PRON_PER 6879 6880	I
+T280	PRON_PER 6894 6898	They
+T281	PRON_PER 6927 6930	you
+T282	PRON_PER 6936 6940	they
+T283	PRON_PER 6952 6955	you
+T284	PRON_PER 6971 6974	you
+T285	PRON_PER 7050 7053	his
+T286	PRON_PER 7118 7120	he
+T287	PRON_PER 7153 7156	him
+T288	PRON_PER 7260 7263	his
+T289	PRON_PER 7319 7321	he
+T290	PRON_PER 7335 7340	their
+T291	PRON_PER 7366 7369	his
+T292	PRON_PER 7397 7400	his
+T294	PRON_PER 7428 7430	he
+T295	PRON_PER 7454 7461	himself
+T296	PRON_PER 7477 7479	he
+T297	PRON_PER 7554 7556	He
+T298	PRON_PER 7634 7636	he
+T299	PRON_PER 7669 7671	he
+T300	PRON_PER 7693 7696	his
+T301	PRON_PER 7770 7772	he
+T302	PRON_PER 7811 7812	I
+T303	PRON_PER 7883 7886	him
+T304	PRON_PER 7939 7942	his
+T305	PRON_PER 8023 8025	he
+T306	PRON_PER 8055 8058	his
+T307	PRON_PER 8346 8350	they
+T308	PRON_PER 8370 8374	them
+T309	PRON_PER 8415 8419	them
+T310	PRON_PER 8486 8489	his
+T311	PRON_PER 8770 8775	their
+T312	PRON_PER 8836 8846	themselves
+T313	PRON_PER 8978 8979	I
+T314	PRON_PER 9032 9033	I
+T315	PRON_PER 9076 9077	I
+T316	PRON_PER 9094 9097	him
+T317	PRON_PER 9150 9153	him
+T318	PRON_PER 9169 9171	He
+T319	PRON_PER 9220 9222	He
+T320	PRON_PER 9344 9347	His
+T321	PRON_PER 9387 9390	him
+T322	PRON_PER 9414 9415	I
+T323	PRON_PER 9421 9423	my
+T324	PRON_PER 9448 9451	him
+T325	PRON_PER 9455 9456	I
+T326	PRON_PER 9485 9488	his
+T327	PRON_PER 9517 9519	he
+T328	PRON_PER 9544 9548	they
+T329	PRON_PER 9571 9574	him
+T330	NOM_ORG 706 744	a firm doing business on Spruce Street
+T331	PROP_PER 1188 1192	Dick
+T332	NOM_PER 3350 3386	a gentleman on his way to his office
+T437	Ragged_Dick-0 10 21	RAGGED DICK
+T438	THE_READER-1 39 49	THE READER
+T436	Ragged_Dick-0 68 77	youngster
+T439	a_rough_voice-2 87 100	a rough voice
+T333	Ragged_Dick-0 103 114	Ragged Dick
+T472	Ragged_Dick-0 122 125	his
+T334	a_rough_voice-2 175 186	the speaker
+T440	Ragged_Dick-0 231 249	you young vagabond
+T473	Ragged_Dick-0 231 234	you
+T335	a_rough_voice-2 259 266	the man
+T474	a_rough_voice-2 292 293	I
+T475	Ragged_Dick-0 302 305	you
+T476	a_rough_voice-2 332 333	I
+T477	Ragged_Dick-0 349 352	you
+T336	Ragged_Dick-0 385 389	Dick
+T478	Ragged_Dick-0 430 431	I
+T479	Ragged_Dick-0 466 467	I
+T480	Ragged_Dick-0 490 492	me
+T481	Ragged_Dick-0 514 515	I
+T338	the_Old_Bowery-3 524 538	the Old Bowery
+T482	a_rough_voice-2 595 598	You
+T337	the_Old_Bowery-3 607 621	the Old Bowery
+T483	Ragged_Dick-0 633 636	you
+T484	Ragged_Dick-0 641 645	your
+T441	a_rough_voice-2 662 669	the man
+T339	Spruce_Street-4 731 744	Spruce Street
+T663	a_firm_doing_business_on_Spruce_Street-5 706 744	a firm doing business on Spruce Street
+T341	My_guardian-6 781 792	My guardian
+T485	Ragged_Dick-0 781 783	My
+T486	Ragged_Dick-0 806 808	me
+T340	theatres-7 822 830	theatres
+T487	Ragged_Dick-0 836 837	I
+T342	Some_boys-8 860 869	Some boys
+T343	a_rough_voice-2 903 913	the porter
+T488	You-9 932 935	You
+T489	Ragged_Dick-0 949 951	me
+T490	a_rough_voice-2 980 983	you
+T344	Ragged_Dick-0 998 1002	Dick
+T491	Ragged_Dick-0 1014 1017	you
+T492	Ragged_Dick-0 1051 1052	I
+T345	Lots_of_boys-10 1065 1077	Lots of boys
+T493	Ragged_Dick-0 1092 1093	I
+T494	a_rough_voice-2 1117 1118	I
+T495	Ragged_Dick-0 1135 1138	you
+T496	a_rough_voice-2 1150 1151	I
+T497	Ragged_Dick-0 1182 1185	you
+T664	Ragged_Dick-0 1188 1192	Dick
+T498	Ragged_Dick-0 1216 1217	I
+T347	Ragged_Dick-0 1247 1251	Dick
+T499	Ragged_Dick-0 1260 1261	I
+T500	a_rough_voice-2 1297 1298	I
+T501	Ragged_Dick-0 1307 1310	you
+T443	Ragged_Dick-0 1322 1326	Dick
+T444	a_rough_voice-2 1335 1350	the rough voice
+T502	Ragged_Dick-0 1390 1393	you
+T503	Ragged_Dick-0 1415 1419	your
+T504	Ragged_Dick-0 1445 1446	I
+T348	Ragged_Dick-0 1513 1517	Dick
+T445	His_bedchamber-11 1531 1545	His bedchamber
+T505	Ragged_Dick-0 1531 1534	His
+T349	Ragged_Dick-0 1598 1618	the young boot-black
+T506	Ragged_Dick-0 1631 1634	his
+T507	Ragged_Dick-0 1704 1706	He
+T508	Ragged_Dick-0 1823 1825	He
+T509	Ragged_Dick-0 1856 1863	himself
+T511	Ragged_Dick-0 1934 1937	his
+T512	Ragged_Dick-0 1983 1986	his
+T513	Ragged_Dick-0 2004 2006	he
+T350	Ragged_Dick-0 2051 2055	Dick
+T514	Ragged_Dick-0 2073 2075	he
+T515	Ragged_Dick-0 2119 2122	His
+T352	a_boy_two_sizes_larger_than_himself-12 2212 2247	a boy two sizes larger than himself
+T516	Ragged_Dick-0 2240 2247	himself
+T517	Ragged_Dick-0 2250 2252	He
+T518	Ragged_Dick-0 2401 2404	his
+T519	Ragged_Dick-0 2413 2415	he
+T520	Ragged_Dick-0 2441 2444	him
+T353	Ragged_Dick-0 2618 2622	Dick
+T521	Ragged_Dick-0 2651 2653	He
+T522	Ragged_Dick-0 2755 2758	his
+T523	Ragged_Dick-0 2792 2795	his
+T354	Ragged_Dick-0 2836 2840	Dick
+T524	Ragged_Dick-0 2890 2892	he
+T525	Ragged_Dick-0 2925 2927	he
+T351	Some_of_his_companions-13 2969 2991	Some of his companions
+T526	Ragged_Dick-0 2977 2980	his
+T527	Some_of_his_companions-13 3007 3012	their
+T356	Ragged_Dick-0 3043 3047	Dick
+T528	Ragged_Dick-0 3096 3099	him
+T357	Ragged_Dick-0 3113 3117	Dick
+T529	Ragged_Dick-0 3152 3154	He
+T530	Ragged_Dick-0 3179 3182	His
+T531	Ragged_Dick-0 3227 3229	he
+T449	all_who_passed-15 3261 3275	all who passed
+T450	sir-16 3321 3324	sir
+T665	Mr__Greyson-18 3350 3386	a gentleman on his way to his office
+T532	Mr__Greyson-18 3365 3368	his
+T451	his_office-19 3376 3386	his office
+T533	Mr__Greyson-18 3376 3379	his
+T360	Ragged_Dick-0 3410 3414	Dick
+T534	Ragged_Dick-0 3426 3429	his
+T535	Ragged_Dick-0 3453 3456	his
+T453	the_sidewalk-20 3466 3478	the sidewalk
+T536	Ragged_Dick-0 3493 3496	his
+T361	one_skilled_in_his_profession-21 3519 3548	one skilled in his profession
+T537	Ragged_Dick-0 3534 3537	his
+T538	Mr__Greyson-18 3605 3608	you
+T362	Ragged_Dick-0 3648 3682	Dick , who had already set to work
+T539	Ragged_Dick-0 3735 3736	I
+T540	Mr__Greyson-18 3784 3787	you
+T454	Mr__Greyson-18 3819 3832	the gentleman
+T363	Ragged_Dick-0 3880 3884	Dick
+T430	Mr__Greyson-18 3903 3906	sir
+T365	Ragged_Dick-0 3916 3920	Dick
+T541	Ragged_Dick-0 3948 3949	I
+T364	my_manshun_up_on_Fifth_Avenoo-22 3982 4011	my manshun up on Fifth Avenoo
+T542	Ragged_Dick-0 3982 3984	my
+T455	Fifth_Avenoo-23 3999 4011	Fifth Avenoo
+T543	Ragged_Dick-0 4019 4020	I
+T544	Ragged_Dick-0 4073 4074	I
+T545	Mr__Greyson-18 4084 4087	you
+T456	Mr__Greyson-18 4104 4107	sir
+T546	Mr__Greyson-18 4138 4139	I
+T366	my_manshun_up_on_Fifth_Avenoo-22 4159 4169	your house
+T547	Ragged_Dick-0 4159 4163	your
+T367	Fifth_Avenoo-23 4176 4188	Fifth Avenue
+T370	Ragged_Dick-0 4236 4240	Dick
+T369	Ragged_Dick-0 4247 4251	Dick
+T368	tailor-24 4283 4289	tailor
+T548	Ragged_Dick-0 4293 4296	you
+T371	Mr__Greyson-18 4317 4330	the gentleman
+T372	Ragged_Dick-0 4343 4347	Dick
+T549	Mr__Greyson-18 4368 4371	you
+T373	Ragged_Dick-0 4409 4413	Dick
+T550	Mr__Greyson-18 4452 4454	me
+T551	tailor-24 4460 4462	he
+T552	Ragged_Dick-0 4476 4479	you
+T375	General_Washington-25 4529 4547	General Washington
+T374	Ragged_Dick-0 4557 4561	Dick
+T553	General_Washington-25 4578 4580	He
+T554	General_Washington-25 4648 4650	he
+T555	General_Washington-25 4670 4672	he
+T556	General_Washington-25 4678 4680	he
+T377	his_widder-26 4686 4696	his widder
+T557	General_Washington-25 4686 4689	his
+T376	some_smart_young_feller_that_had_n_t_got_none_of_his_own-27 4711 4767	some smart young feller that had n't got none of his own
+T558	some_smart_young_feller_that_had_n_t_got_none_of_his_own-27 4760 4763	his
+T559	his_widder-26 4773 4776	she
+T560	Ragged_Dick-0 4788 4790	me
+T561	Mr__Greyson-18 4800 4803	you
+T433	Mr__Greyson-18 4817 4820	sir
+T378	General_Washington-25 4835 4853	General Washington
+T562	Ragged_Dick-0 4859 4860	I
+T563	Mr__Greyson-18 4869 4872	you
+T564	Ragged_Dick-0 4904 4907	you
+T565	Mr__Greyson-18 4914 4915	I
+T566	Ragged_Dick-0 4942 4945	you
+T567	Ragged_Dick-0 4962 4966	your
+T380	General_Washington-25 4983 5001	General Washington
+T382	Lewis_Napoleon-28 5038 5052	Lewis Napoleon
+T384	Lewis_Napoleon-28 5055 5060	Lewis
+T569	Ragged_Dick-0 5094 5096	me
+T570	Lewis_Napoleon-28 5102 5104	he
+T571	Ragged_Dick-0 5120 5122	me
+T573	Ragged_Dick-0 5172 5175	you
+T379	distinguished_friends-29 5181 5202	distinguished friends
+T381	Ragged_Dick-0 5211 5217	my lad
+T574	Mr__Greyson-18 5211 5213	my
+T575	Mr__Greyson-18 5220 5221	I
+T576	Ragged_Dick-0 5230 5233	you
+T577	Ragged_Dick-0 5245 5249	your
+T578	Ragged_Dick-0 5262 5263	I
+T386	Ragged_Dick-0 5303 5307	Dick
+T579	Mr__Greyson-18 5312 5313	I
+T387	Mr__Greyson-18 5331 5344	the gentleman
+T580	Mr__Greyson-18 5357 5360	his
+T581	Mr__Greyson-18 5377 5378	I
+T582	Ragged_Dick-0 5435 5438	you
+T388	Ragged_Dick-0 5480 5484	Dick
+T583	Ragged_Dick-0 5493 5495	my
+T383	the_Erie_Railroad-30 5517 5534	the Erie Railroad
+T584	Ragged_Dick-0 5573 5574	I
+T466	Mr__Greyson-18 5599 5602	sir
+T585	Mr__Greyson-18 5609 5610	I
+T586	Mr__Greyson-18 5625 5626	I
+T587	Mr__Greyson-18 5672 5673	I
+T588	Ragged_Dick-0 5683 5686	you
+T589	Ragged_Dick-0 5711 5714	you
+T468	his_office-19 5739 5748	my office
+T590	Mr__Greyson-18 5739 5741	my
+T467	Mr__Greyson-18 5791 5794	sir
+T591	Ragged_Dick-0 5845 5848	you
+T385	Mr__Greyson-18 5870 5873	sir
+T390	Mr__Greyson-18 5892 5899	Greyson
+T457	his_office-19 5905 5927	office on second floor
+T389	No__125_Fulton_Street-33 5815 5836	No. 125 Fulton Street
+T458	Mr__Greyson-18 5946 5949	sir
+T592	Ragged_Dick-0 5952 5953	I
+T593	Mr__Greyson-18 5973 5974	I
+T392	Ragged_Dick-0 5990 6006	the little scamp
+T391	Mr__Greyson-18 6034 6045	Mr. Greyson
+T594	Mr__Greyson-18 6049 6056	himself
+T595	Mr__Greyson-18 6062 6064	he
+T596	Ragged_Dick-0 6084 6086	he
+T597	Mr__Greyson-18 6094 6095	I
+T598	Ragged_Dick-0 6105 6108	him
+T599	Mr__Greyson-18 6109 6111	my
+T600	Ragged_Dick-0 6134 6136	he
+T601	Mr__Greyson-18 6164 6165	I
+T394	Mr__Greyson-18 6209 6220	Mr. Greyson
+T396	Ragged_Dick-0 6240 6244	Dick
+T397	Ragged_Dick-0 6247 6262	Our ragged hero
+T602	Our-34 6247 6250	Our
+T603	narrator-35 6301 6302	I
+T604	Ragged_Dick-0 6313 6315	he
+T605	Ragged_Dick-0 6351 6353	he
+T401	unsophisticated_boys_from_the_country-36 6373 6410	unsophisticated boys from the country
+T470	the_country-37 6399 6410	the country
+T400	honest_old_gentlemen_unused_to_the_city-38 6442 6481	honest old gentlemen unused to the city
+T399	the_city-39 6473 6481	the city
+T395	A_clergyman_in_search_of_the_Cooper_Institute-40 6484 6529	A clergyman in search of the Cooper Institute
+T398	the_Cooper_Institute-41 6509 6529	the Cooper Institute
+T606	Ragged_Dick-0 6530 6532	he
+T459	the_Tombs_Prison-42 6550 6566	the Tombs Prison
+T607	A_clergyman_in_search_of_the_Cooper_Institute-40 6585 6588	him
+T403	A_clergyman_in_search_of_the_Cooper_Institute-40 6628 6653	the unsuspicious stranger
+T460	the_Tombs_Prison-42 6683 6724	the great stone building on Centre Street
+T402	Centre_Street-43 6711 6724	Centre Street
+T608	Ragged_Dick-0 6761 6762	I
+T609	A_clergyman_in_search_of_the_Cooper_Institute-40 6769 6771	he
+T610	A_clergyman_in_search_of_the_Cooper_Institute-40 6803 6805	he
+T405	Ragged_Dick-0 6829 6840	Ragged Dick
+T611	Ragged_Dick-0 6855 6858	his
+T612	Ragged_Dick-0 6879 6880	I
+T613	They-44 6894 6898	They
+T614	you-45 6927 6930	you
+T615	They-44 6936 6940	they
+T616	you-45 6952 6955	you
+T617	you-45 6971 6974	you
+T407	Ragged_Dick-0 7031 7035	Dick
+T618	Ragged_Dick-0 7050 7053	his
+T619	Ragged_Dick-0 7118 7120	he
+T620	Ragged_Dick-0 7153 7156	him
+T404	a_few_young_clerks-46 7202 7220	a few young clerks
+T408	Ragged_Dick-0 7234 7238	Dick
+T621	Ragged_Dick-0 7260 7263	his
+T622	Ragged_Dick-0 7319 7321	he
+T623	a_few_young_clerks-46 7335 7340	their
+T624	Ragged_Dick-0 7366 7369	his
+T409	Ragged_Dick-0 7376 7380	Dick
+T625	Ragged_Dick-0 7397 7400	his
+T627	Ragged_Dick-0 7428 7430	he
+T628	Ragged_Dick-0 7454 7461	himself
+T629	Ragged_Dick-0 7477 7479	he
+T630	Ragged_Dick-0 7554 7556	He
+T410	the_Old_Bowery_Theatre-47 7578 7600	the Old Bowery Theatre
+T406	Tony_Pastor__s-48 7610 7624	Tony Pastor 's
+T428	Tony_Pastor-49 7610 7621	Tony Pastor
+T631	Ragged_Dick-0 7634 7636	he
+T632	Ragged_Dick-0 7669 7671	he
+T411	some_of_his_friends-50 7685 7704	some of his friends
+T633	Ragged_Dick-0 7693 7696	his
+T634	Ragged_Dick-0 7770 7772	he
+T635	narrator-35 7811 7812	I
+T415	Ragged_Dick-0 7834 7838	Dick
+T636	Ragged_Dick-0 7883 7886	him
+T416	Ragged_Dick-0 7906 7910	Dick
+T637	Ragged_Dick-0 7939 7942	his
+T638	Ragged_Dick-0 8023 8025	he
+T417	his_companions-51 8055 8069	his companions
+T639	Ragged_Dick-0 8055 8058	his
+T418	No_boy_of_fourteen-52 8127 8145	No boy of fourteen
+T419	Men-53 8193 8196	Men
+T420	boys-54 8237 8241	boys
+T412	large_numbers_of_the_newsboys_and_boot-blacks-55 8255 8300	large numbers of the newsboys and boot-blacks
+T640	large_numbers_of_the_newsboys_and_boot-blacks-55 8346 8350	they
+T641	large_numbers_of_the_newsboys_and_boot-blacks-55 8370 8374	them
+T642	large_numbers_of_the_newsboys_and_boot-blacks-55 8415 8419	them
+T425	a_little_boy-56 8448 8460	a little boy
+T423	his_mother-57 8486 8496	his mother
+T643	a_little_boy-56 8486 8489	his
+T426	a_veteran_smoker-58 8554 8570	a veteran smoker
+T427	Ragged_Dick-0 8604 8608	Dick
+T413	a_noted_gambling-house_on_Baxter_Street-59 8642 8681	a noted gambling-house on Baxter Street
+T414	Baxter_Street-60 8668 8681	Baxter Street
+T421	these_juvenile_gamesters-61 8732 8756	these juvenile gamesters
+T644	these_juvenile_gamesters-61 8770 8775	their
+T645	these_juvenile_gamesters-61 8836 8846	themselves
+T429	Ragged_Dick-0 8928 8932	Dick
+T469	a_noted_gambling-house_on_Baxter_Street-59 8944 8948	here
+T422	these_juvenile_gamesters-61 8967 8975	the rest
+T646	narrator-35 8978 8979	I
+T432	Ragged_Dick-0 8995 8999	Dick
+T647	narrator-35 9032 9033	I
+T648	narrator-35 9076 9077	I
+T649	Ragged_Dick-0 9094 9097	him
+T650	Ragged_Dick-0 9150 9153	him
+T651	Ragged_Dick-0 9169 9171	He
+T652	Ragged_Dick-0 9220 9222	He
+T434	younger_boys-62 9267 9279	younger boys
+T653	Ragged_Dick-0 9344 9347	His
+T654	Ragged_Dick-0 9387 9390	him
+T655	narrator-35 9414 9415	I
+T435	my_young_readers-63 9421 9437	my young readers
+T656	narrator-35 9421 9423	my
+T657	Ragged_Dick-0 9448 9451	him
+T658	narrator-35 9455 9456	I
+T659	Ragged_Dick-0 9485 9488	his
+T660	Ragged_Dick-0 9517 9519	he
+T661	my_young_readers-63 9544 9548	they
+T662	Ragged_Dick-0 9571 9574	him
+R1	cop Arg1:T109 Arg2:T108
+R2	cop Arg1:T13 Arg2:T165
+R5	cop Arg1:T91 Arg2:T327
+T346	my_manshun_up_on_Fifth_Avenoo-22 4203 4205	It
+T393	PRON_FAC 4203 4205	It
+T690	PRON_FAC 4194 4196	it
+T691	my_manshun_up_on_Fifth_Avenoo-22 4194 4196	it
+T710	PRON_FAC 5806 5808	it
+T711	his_office-19 5806 5808	it
+T25	a_model_boy-700 6271 6282	a model boy
+T26	a_model_boy-701 9098 9109	a model boy
+T113	NOM_FAC 3159 3168	no office
+T114	office-14 3159 3168	no office

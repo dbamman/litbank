@@ -1,0 +1,466 @@
+T3	NOM_PER 859 884	The Director of Companies
+T4	NOM_PER 1101 1109	a seaman
+T5	NOM_PER 1537 1548	old fellows
+T6	NOM_PER 1662 1676	The Accountant
+T8	PROP_PER 1769 1775	Marlow
+T9	NOM_PER 2002 2014	The director
+T14	NOM_LOC 2679 2696	the upper reaches
+T18	NOM_PER 3660 3688	the great spirit of the past
+T20	NOM_FAC 3856 3860	home
+T21	NOM_PER 3814 3817	men
+T28	PROP_PER 3984 4001	Sir John Franklin
+T33	NOM_PER 4260 4281	the Queen 's Highness
+T37	NOM_PER 4512 4527	the adventurers
+T38	NOM_PER 4547 4552	kings
+T41	NOM_PER 4843 4882	messengers of the might within the land
+T42	NOM_PER 4885 4924	bearers of a spark from the sacred fire
+T43	NOM_PER 4743 4751	pursuers
+T44	NOM_PER 4723 4730	Hunters
+T45	NOM_FAC 5087 5094	empires
+T46	NOM_PER 5040 5043	men
+T47	NOM_FAC 5058 5071	commonwealths
+T49	NOM_FAC 5297 5308	the fairway
+T50	NOM_LOC 5399 5430	the place of the monstrous town
+T51	NOM_GPE 5412 5430	the monstrous town
+T52	NOM_LOC 5595 5623	the dark places of the earth
+T56	NOM_FAC 5932 5942	their home
+T58	NOM_PER 6322 6330	a seaman
+T59	PROP_PER 6750 6756	Marlow
+T61	NOM_PER 7317 7327	the Romans
+T62	PROP_PER 7442 7449	Knights
+T66	NOM_LOC 7781 7790	the north
+T67	PROP_PER 7813 7822	the Gauls
+T68	NOM_PER 8344 8359	a civilized man
+T71	PROP_GPE 9046 9050	Rome
+T72	PROP_GPE 9000 9007	Ravenna
+T73	NOM_PER 9200 9212	some prefect
+T74	NOM_PER 9236 9242	trader
+T75	NOM_PER 9510 9518	wild men
+T77	NOM_LOC 9479 9490	the jungles
+T78	PROP_VEH 2 12	The Nellie
+T79	NOM_VEH 15 30	a cruising yawl
+T80	NOM_LOC 173 182	the river
+T81	PROP_LOC 275 285	the Thames
+T82	NOM_LOC 328 352	an interminable waterway
+T83	NOM_LOC 369 376	the sea
+T84	NOM_LOC 658 661	sea
+T88	PROP_GPE 709 718	Gravesend
+T1	NOM_GPE 810 856	the biggest , and the greatest , town on earth
+T2	NOM_PER 889 900	our captain
+T89	NOM_PER 905 913	our host
+T91	NOM_PER 1082 1089	a pilot
+T92	NOM_LOC 1004 1019	the whole river
+T93	NOM_LOC 1201 1221	the luminous estuary
+T95	NOM_LOC 1339 1346	the sea
+T96	NOM_PER 1511 1521	The Lawyer
+T97	NOM_PER 1525 1548	the best of old fellows
+T98	NOM_FAC 1623 1627	deck
+T7	NOM_VEH 2169 2178	the yacht
+T99	NOM_PER 1992 1999	an idol
+T12	NOM_LOC 2497 2512	the Essex marsh
+T13	NOM_VEH 474 484	the barges
+T16	NOM_PER 916 923	We four
+T103	NOM_PER 1365 1375	our hearts
+T10	NOM_LOC 2599 2613	the low shores
+T11	NOM_LOC 2561 2584	the wooded rises inland
+T15	NOM_PER 3017 3031	a crowd of men
+T105	NOM_LOC 3063 3073	the waters
+T106	NOM_LOC 3135 3167	The old river in its broad reach
+T107	NOM_LOC 3360 3369	the earth
+T109	NOM_PER 3244 3275	the race that peopled its banks
+T110	NOM_LOC 3316 3369	a waterway leading to the uttermost ends of the earth
+T111	NOM_LOC 3385 3405	the venerable stream
+T17	NOM_PER 3557 3643	a man who has , as the phrase goes , “ followed the sea ” with reverence and affection
+T112	PROP_LOC 3715 3725	the Thames
+T19	NOM_LOC 3694 3725	the lower reaches of the Thames
+T113	NOM_VEH 3822 3827	ships
+T22	NOM_LOC 3605 3612	the sea
+T114	NOM_LOC 3882 3889	the sea
+T115	NOM_PER 3920 3927	the men
+T116	NOM_GPE 3936 3946	the nation
+T23	PROP_PER 3963 3980	Sir Francis Drake
+T24	NOM_PER 4041 4076	the great knights-errant of the sea
+T25	NOM_LOC 4069 4076	the sea
+T26	NOM_PER 4004 4037	knights all , titled and untitled
+T27	NOM_VEH 4096 4105	the ships
+T29	NOM_VEH 4171 4190	the _ Golden Hind _
+T30	NOM_VEH 4326 4355	the _ Erebus _ and _ Terror _
+T32	NOM_VEH 4425 4434	the ships
+T34	NOM_PER 4439 4446	the men
+T117	PROP_GPE 4470 4478	Deptford
+T118	PROP_GPE 4486 4495	Greenwich
+T119	PROP_GPE 4503 4508	Erith
+T120	NOM_PER 4532 4544	the settlers
+T36	NOM_VEH 4547 4560	kings ' ships
+T39	NOM_PER 4578 4593	men on ' Change
+T121	NOM_VEH 4565 4593	the ships of men on ' Change
+T122	NOM_PER 4596 4604	captains
+T123	NOM_PER 4607 4615	admirals
+T124	NOM_PER 4618 4663	the dark “ interlopers ” of the Eastern trade
+T125	NOM_PER 4670 4720	the commissioned “ generals ” of East India fleets
+T35	PROP_VEH 4703 4720	East India fleets
+T40	PROP_LOC 4703 4713	East India
+T126	NOM_LOC 4787 4798	that stream
+T127	NOM_LOC 4874 4882	the land
+T128	NOM_LOC 4972 4982	that river
+T129	NOM_LOC 5003 5019	an unknown earth
+T130	NOM_LOC 5128 5138	the stream
+T131	NOM_LOC 5174 5183	the shore
+T48	NOM_FAC 5186 5209	The Chapman light-house
+T132	NOM_FAC 5212 5252	a three-legged thing erect on a mud-flat
+T133	NOM_LOC 5242 5252	a mud-flat
+T134	NOM_VEH 5282 5287	ships
+T135	NOM_LOC 5381 5398	the upper reaches
+T136	NOM_LOC 5471 5499	a brooding gloom in sunshine
+T53	PROP_PER 5559 5565	Marlow
+T137	NOM_LOC 5614 5623	the earth
+T139	NOM_LOC 5675 5682	the sea
+T140	NOM_PER 5753 5762	his class
+T54	NOM_PER 5772 5780	a seaman
+T55	NOM_PER 5794 5804	a wanderer
+T141	NOM_PER 5824 5830	seamen
+T143	NOM_VEH 5966 5974	the ship
+T145	NOM_LOC 6004 6011	the sea
+T146	NOM_VEH 6014 6022	One ship
+T147	NOM_LOC 6055 6062	the sea
+T148	NOM_LOC 6344 6351	the sea
+T57	NOM_LOC 6126 6144	the foreign shores
+T149	NOM_PER 6147 6164	the foreign faces
+T150	NOM_LOC 6510 6515	shore
+T151	NOM_PER 6644 6650	seamen
+T60	PROP_PER 7160 7166	Marlow
+T152	NOM_LOC 7414 7424	this river
+T153	NOM_LOC 7492 7499	a plain
+T154	NOM_LOC 7593 7606	the old earth
+T64	PROP_LOC 7741 7758	the Mediterranean
+T155	NOM_PER 7891 7919	a wonderful lot of handy men
+T65	NOM_LOC 8058 8062	here
+T156	NOM_LOC 8066 8091	the very end of the world
+T157	NOM_LOC 8094 8118	a sea the colour of lead
+T159	NOM_VEH 8149 8194	a kind of ship about as rigid as a concertina
+T160	NOM_LOC 8211 8221	this river
+T161	PROP_LOC 8267 8277	Sand-banks
+T162	NOM_LOC 8280 8287	marshes
+T163	NOM_LOC 8290 8297	forests
+T164	NOM_PER 8300 8307	savages
+T165	PROP_LOC 8374 8380	Thames
+T166	NOM_LOC 8432 8438	ashore
+T167	NOM_PER 8456 8471	a military camp
+T168	NOM_LOC 8480 8492	a wilderness
+T169	NOM_PER 9030 9050	good friends in Rome
+T70	NOM_PER 9096 9128	a decent young citizen in a toga
+T170	NOM_PER 9218 9230	tax-gatherer
+T76	NOM_LOC 9281 9288	a swamp
+T171	NOM_LOC 9305 9314	the woods
+T172	NOM_FAC 9324 9340	some inland post
+T173	NOM_LOC 9463 9473	the forest
+T175	NOM_VEH 7860 7871	these craft
+T63	NOM_PER 5635 5686	the only man of us who still “ followed the sea . ”
+T85	NOM_LOC 2382 2387	water
+T86	NOM_LOC 851 856	earth
+T178	NOM_PER 7198 7204	No one
+T87	NOM_LOC 1192 1197	there
+T180	PRON_VEH 42 45	her
+T181	PRON_PER 303 305	us
+T182	PRON_PER 889 892	our
+T183	PRON_PER 905 908	our
+T184	PRON_PER 916 918	We
+T185	PRON_PER 947 950	his
+T186	PRON_PER 959 961	he
+T187	PRON_PER 1069 1071	He
+T188	PRON_PER 1171 1174	his
+T189	PRON_PER 1235 1238	him
+T190	PRON_PER 1277 1279	us
+T191	PRON_PER 1295 1296	I
+T192	PRON_PER 1365 1368	our
+T193	PRON_PER 1450 1452	us
+T194	PRON_PER 1569 1572	his
+T195	PRON_PER 1839 1841	He
+T196	PRON_PER 1933 1936	his
+T197	PRON_PER 2059 2062	his
+T198	PRON_PER 2092 2094	us
+T199	PRON_PER 2097 2099	We
+T200	PRON_PER 2206 2208	we
+T201	PRON_PER 2247 2249	We
+T202	PRON_PER 3372 3374	We
+T203	PRON_VEH 4206 4209	her
+T204	PRON_PER 4449 4453	They
+T205	PRON_PER 4762 4766	they
+T206	PRON_PER 5628 5630	He
+T207	PRON_PER 5651 5653	us
+T208	PRON_PER 5719 5722	him
+T209	PRON_PER 5732 5734	he
+T210	PRON_PER 5753 5756	his
+T211	PRON_PER 5765 5767	He
+T212	PRON_PER 5787 5789	he
+T213	PRON_PER 5884 5889	Their
+T214	PRON_PER 5932 5937	their
+T215	PRON_PER 5958 5962	them
+T216	PRON_PER 5987 5992	their
+T217	PRON_PER 6107 6112	their
+T218	PRON_PER 6386 6389	his
+T219	PRON_PER 6453 6456	his
+T220	PRON_PER 6539 6542	him
+T221	PRON_PER 6591 6593	he
+T222	PRON_PER 6778 6781	his
+T223	PRON_PER 6830 6833	him
+T224	PRON_PER 7099 7102	His
+T225	PRON_PER 7252 7254	he
+T226	PRON_PER 7277 7278	I
+T227	PRON_PER 7434 7437	you
+T228	PRON_PER 7544 7546	We
+T229	PRON_PER 7920 7924	they
+T230	PRON_PER 8016 8018	we
+T231	PRON_PER 8036 8038	we
+T232	PRON_PER 8054 8057	him
+T233	PRON_PER 8256 8259	you
+T234	PRON_PER 8643 8647	They
+T235	PRON_PER 8699 8701	he
+T236	PRON_PER 8825 8827	he
+T237	PRON_PER 8848 8851	his
+T238	PRON_PER 8869 8873	They
+T239	PRON_PER 8925 8927	he
+T240	PRON_PER 8951 8954	his
+T241	PRON_PER 9023 9025	he
+T242	PRON_PER 9156 9159	you
+T243	PRON_PER 9258 9261	his
+T244	PRON_PER 9399 9402	him
+T245	PRON_PER 9573 9575	He
+T246	PRON_PER 9710 9713	him
+T247	PRON_PER 9754 9757	you
+T248	NOM_PER 7876 7887	legionaries
+T327	The_Nellie-0 2 12	The Nellie
+T429	The_Nellie-0 42 45	her
+T329	Thames-1 173 182	the river
+T330	Thames-1 275 285	the Thames
+T430	group-2 303 305	us
+T331	an_interminable_waterway-3 328 352	an interminable waterway
+T332	the_sea-4 369 376	the sea
+T262	the_barges-5 474 484	the barges
+T333	the_sea-4 658 661	sea
+T337	Gravesend-6 709 718	Gravesend
+T250	the_biggest___and_the_greatest___town_on_earth-7 810 856	the biggest , and the greatest , town on earth
+T335	earth-8 851 856	earth
+T252	captain-9 859 884	The Director of Companies
+T431	group-2 889 892	our
+T432	group-2 905 908	our
+T265	group-2 916 923	We four
+T433	group-2 916 918	We
+T434	captain-9 947 950	his
+T435	captain-9 959 961	he
+T341	Thames-1 1004 1019	the whole river
+T436	captain-9 1069 1071	He
+T340	a_pilot-10 1082 1089	a pilot
+T253	a_seaman-11 1101 1109	a seaman
+T437	captain-9 1171 1174	his
+T342	the_luminous_estuary-13 1201 1221	the luminous estuary
+T336	the_luminous_estuary-13 1192 1197	there
+T438	captain-9 1235 1238	him
+T439	group-2 1277 1279	us
+T440	I-14 1295 1296	I
+T344	the_sea-4 1339 1346	the sea
+T352	group-2 1365 1375	our hearts
+T441	group-2 1365 1368	our
+T442	group-2 1450 1452	us
+T345	The_Lawyer-15 1511 1521	The Lawyer
+T254	old_fellows-16 1537 1548	old fellows
+T443	The_Lawyer-15 1569 1572	his
+T347	deck-17 1623 1627	deck
+T255	The_Accountant-18 1662 1676	The Accountant
+T257	Marlow-19 1769 1775	Marlow
+T444	Marlow-19 1839 1841	He
+T445	Marlow-19 1933 1936	his
+T348	an_idol-20 1992 1999	an idol
+T258	captain-9 2002 2014	The director
+T447	group-2 2092 2094	us
+T448	group-2 2097 2099	We
+T256	The_Nellie-0 2169 2178	the yacht
+T449	group-2 2206 2208	we
+T450	group-2 2247 2249	We
+T334	water-21 2382 2387	water
+T261	the_Essex_marsh-22 2497 2512	the Essex marsh
+T260	the_wooded_rises_inland-23 2561 2584	the wooded rises inland
+T259	the_low_shores-24 2599 2613	the low shores
+T263	the_upper_reaches-25 2679 2696	the upper reaches
+T264	a_crowd_of_men-26 3017 3031	a crowd of men
+T354	water-21 3063 3073	the waters
+T355	Thames-1 3135 3167	The old river in its broad reach
+T358	the_race_that_peopled_its_banks-27 3244 3275	the race that peopled its banks
+T359	Thames-1 3316 3369	a waterway leading to the uttermost ends of the earth
+T356	earth-8 3360 3369	the earth
+T451	group-2 3372 3374	We
+T360	Thames-1 3385 3405	the venerable stream
+T266	a_man_who_has___as_the_phrase_goes_____followed_the_sea___with_reverence_and_affection-28 3557 3643	a man who has , as the phrase goes , “ followed the sea ” with reverence and affection
+T271	the_sea-4 3605 3612	the sea
+T267	the_great_spirit_of_the_past-29 3660 3688	the great spirit of the past
+T268	the_low_shores-24 3694 3725	the lower reaches of the Thames
+T361	Thames-1 3715 3725	the Thames
+T270	men-30 3814 3817	men
+T362	ships-31 3822 3827	ships
+T269	home-32 3856 3860	home
+T363	the_sea-4 3882 3889	the sea
+T364	the_men-33 3920 3927	the men
+T365	the_nation-34 3936 3946	the nation
+T272	Sir_Francis_Drake-35 3963 3980	Sir Francis Drake
+T277	Sir_John_Franklin-36 3984 4001	Sir John Franklin
+T275	knights_all___titled_and_untitled-37 4004 4037	knights all , titled and untitled
+T274	the_sea-4 4069 4076	the sea
+T276	the_ships-38 4096 4105	the ships
+T278	the___Golden_Hind__-39 4171 4190	the _ Golden Hind _
+T452	the___Golden_Hind__-39 4206 4209	her
+T282	the_Queen__s_Highness-40 4260 4281	the Queen 's Highness
+T279	the___Erebus___and___Terror__-41 4326 4355	the _ Erebus _ and _ Terror _
+T281	the_ships-42 4425 4434	the ships
+T283	the_men-43 4439 4446	the men
+T453	the_men-43 4449 4453	They
+T366	Deptford-44 4470 4478	Deptford
+T367	Greenwich-45 4486 4495	Greenwich
+T368	Erith-46 4503 4508	Erith
+T286	the_adventurers-47 4512 4527	the adventurers
+T369	the_settlers-48 4532 4544	the settlers
+T287	kings-49 4547 4552	kings
+T285	kings___ships-50 4547 4560	kings ' ships
+T370	the_ships_of_men_on___Change-51 4565 4593	the ships of men on ' Change
+T288	men_on___Change-52 4578 4593	men on ' Change
+T371	captains-53 4596 4604	captains
+T372	admirals-54 4607 4615	admirals
+T373	the_dark___interlopers___of_the_Eastern_trade-55 4618 4663	the dark “ interlopers ” of the Eastern trade
+T374	the_commissioned___generals___of_East_India_fleets-56 4670 4720	the commissioned “ generals ” of East India fleets
+T284	East_India_fleets-57 4703 4720	East India fleets
+T289	East_India-58 4703 4713	East India
+T293	Hunters-59 4723 4730	Hunters
+T292	pursuers-60 4743 4751	pursuers
+T454	they-61 4762 4766	they
+T375	Thames-1 4787 4798	that stream
+T290	they-61 4843 4882	messengers of the might within the land
+T376	the_land-803 4874 4882	the land
+T291	they-61 4885 4924	bearers of a spark from the sacred fire
+T377	Thames-1 4972 4982	that river
+T378	an_unknown_earth-62 5003 5019	an unknown earth
+T295	men-63 5040 5043	men
+T296	commonwealths-64 5058 5071	commonwealths
+T294	empires-65 5087 5094	empires
+T379	Thames-1 5128 5138	the stream
+T380	the_shore-66 5174 5183	the shore
+T297	The_Chapman_light-house-67 5186 5209	The Chapman light-house
+T382	a_mud-flat-68 5242 5252	a mud-flat
+T383	ships-69 5282 5287	ships
+T298	the_fairway-70 5297 5308	the fairway
+T384	the_upper_reaches-25 5381 5398	the upper reaches
+T299	the_place_of_the_monstrous_town-71 5399 5430	the place of the monstrous town
+T300	the_biggest___and_the_greatest___town_on_earth-7 5412 5430	the monstrous town
+T385	the_place_of_the_monstrous_town-71 5471 5499	a brooding gloom in sunshine
+T302	Marlow-19 5559 5565	Marlow
+T301	the_dark_places_of_the_earth-72 5595 5623	the dark places of the earth
+T386	earth-8 5614 5623	the earth
+T455	Marlow-19 5628 5630	He
+T456	group-2 5651 5653	us
+T388	the_sea-4 5675 5682	the sea
+T457	Marlow-19 5719 5722	him
+T458	Marlow-19 5732 5734	he
+T389	his_class-73 5753 5762	his class
+T459	Marlow-19 5753 5756	his
+T460	Marlow-19 5765 5767	He
+T461	Marlow-19 5787 5789	he
+T390	seamen-74 5824 5830	seamen
+T462	seamen-74 5884 5889	Their
+T305	their_home-75 5932 5942	their home
+T463	seamen-74 5932 5937	their
+T464	seamen-74 5958 5962	them
+T392	the_ship-76 5966 5974	the ship
+T465	seamen-74 5987 5992	their
+T394	the_sea-4 6004 6011	the sea
+T395	One_ship-77 6014 6022	One ship
+T396	the_sea-4 6055 6062	the sea
+T466	seamen-74 6107 6112	their
+T306	the_foreign_shores-78 6126 6144	the foreign shores
+T398	the_foreign_faces-79 6147 6164	the foreign faces
+T397	the_sea-4 6344 6351	the sea
+T307	a_seaman-80 6322 6330	a seaman
+T467	a_seaman-80 6386 6389	his
+T468	a_seaman-80 6453 6456	his
+T399	shore-81 6510 6515	shore
+T469	a_seaman-80 6539 6542	him
+T470	a_seaman-80 6591 6593	he
+T400	seamen-74 6644 6650	seamen
+T308	Marlow-19 6750 6756	Marlow
+T471	Marlow-19 6778 6781	his
+T472	Marlow-19 6830 6833	him
+T473	Marlow-19 7099 7102	His
+T309	Marlow-19 7160 7166	Marlow
+T427	No_one-100000 7198 7204	No one
+T474	Marlow-19 7252 7254	he
+T475	Marlow-19 7277 7278	I
+T310	the_Romans-82 7317 7327	the Romans
+T401	Thames-1 7414 7424	this river
+T476	you-83 7434 7437	you
+T311	Knights-84 7442 7449	Knights
+T402	a_plain-85 7492 7499	a plain
+T477	We-86 7544 7546	We
+T403	the_old_earth-87 7593 7606	the old earth
+T313	the_Mediterranean-88 7741 7758	the Mediterranean
+T315	the_north-89 7781 7790	the north
+T316	the_Gauls-90 7813 7822	the Gauls
+T424	these_craft-91 7860 7871	these craft
+T497	legionaries-92 7876 7887	legionaries
+T478	legionaries-92 7920 7924	they
+T479	we-93 8016 8018	we
+T480	we-93 8036 8038	we
+T481	legion_man-94 8054 8057	him
+T314	here-95 8058 8062	here
+T406	the_sea-4 8094 8118	a sea the colour of lead
+T408	a_kind_of_ship_about_as_rigid_as_a_concertina-96 8149 8194	a kind of ship about as rigid as a concertina
+T409	Thames-1 8211 8221	this river
+T482	group-2 8256 8259	you
+T410	Sand-banks-97 8267 8277	Sand-banks
+T411	marshes-98 8280 8287	marshes
+T412	forests-99 8290 8297	forests
+T413	savages-100 8300 8307	savages
+T317	a_civilized_man-101 8344 8359	a civilized man
+T414	Thames-1 8374 8380	Thames
+T415	ashore-102 8432 8438	ashore
+T416	a_military_camp-103 8456 8471	a military camp
+T417	a_wilderness-104 8480 8492	a wilderness
+T483	legionaries-92 8643 8647	They
+T484	legion_man-94 8699 8701	he
+T485	legion_man-94 8825 8827	he
+T486	legion_man-94 8848 8851	his
+T487	legionaries-92 8869 8873	They
+T488	legion_man-94 8925 8927	he
+T489	legion_man-94 8951 8954	his
+T321	Ravenna-105 9000 9007	Ravenna
+T490	legion_man-94 9023 9025	he
+T418	good_friends_in_Rome-106 9030 9050	good friends in Rome
+T320	Rome-107 9046 9050	Rome
+T319	a_decent_young_citizen_in_a_toga-108 9096 9128	a decent young citizen in a toga
+T491	group-2 9156 9159	you
+T322	some_prefect-109 9200 9212	some prefect
+T419	tax-gatherer-110 9218 9230	tax-gatherer
+T323	trader-111 9236 9242	trader
+T492	a_decent_young_citizen_in_a_toga-108 9258 9261	his
+T325	a_swamp-112 9281 9288	a swamp
+T420	the_woods-113 9305 9314	the woods
+T421	some_inland_post-114 9324 9340	some inland post
+T493	a_decent_young_citizen_in_a_toga-108 9399 9402	him
+T422	the_forest-115 9463 9473	the forest
+T326	the_jungles-116 9479 9490	the jungles
+T324	wild_men-117 9510 9518	wild men
+T494	a_decent_young_citizen_in_a_toga-108 9573 9575	He
+T495	a_decent_young_citizen_in_a_toga-108 9710 9713	him
+T496	group-2 9754 9757	you
+R1	appos Arg1:T79 Arg2:T78
+R2	cop Arg1:T2 Arg2:T3
+R3	cop Arg1:T89 Arg2:T3
+R5	appos Arg1:T97 Arg2:T96
+R6	appos Arg1:T24 Arg2:T26
+R7	appos Arg1:T132 Arg2:T48
+R8	cop Arg1:T63 Arg2:T206
+R9	cop Arg1:T54 Arg2:T211
+R10	cop Arg1:T55 Arg2:T212
+T31	captain-9 2059 2062	his
+T506	PRON_LOC 3152 3155	its
+T507	Thames-1 3152 3155	its
+T508	PRON_LOC 3266 3269	its
+T509	Thames-1 3266 3269	its
+T69	legionaries-92 7891 7919	a wonderful lot of handy men
+T90	here-95 8066 8091	the very end of the world

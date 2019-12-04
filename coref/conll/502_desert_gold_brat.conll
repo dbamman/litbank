@@ -1,0 +1,2174 @@
+#begin document (502_desert_gold_brat); part 0
+502_desert_gold_brat	0	0	PROLOGUE	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	I	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	A	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	FACE	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	haunted	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	6	--	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	a	_	_	_	_	_	_	_	_	(1
+502_desert_gold_brat	0	8	woman	_	_	_	_	_	_	_	_	1)
+502_desert_gold_brat	0	9	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	face	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	It	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	there	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	white	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	heart	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	dying	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	campfire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	hung	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	shadows	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	hovered	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	over	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	flickering	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	light	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	drifted	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	darkness	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	beyond	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	This	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	hour	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	when	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	day	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	closed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	lonely	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	desert	_	_	_	_	_	_	_	_	(2)
+502_desert_gold_brat	0	12	night	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	set	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	its	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	dead	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	silence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	one	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	which	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	25	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	mind	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	thronged	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	memories	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	time	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	long	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	35	past	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	--	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	37	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	38	a	_	_	_	_	_	_	_	_	(3
+502_desert_gold_brat	0	39	home	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	40	back	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	41	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	42	Peoria	_	_	_	_	_	_	_	_	(4)|3)
+502_desert_gold_brat	0	43	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	44	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	45	a	_	_	_	_	_	_	_	_	(1
+502_desert_gold_brat	0	46	woman	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	47	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	48	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	49	wronged	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	50	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	51	lost	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	52	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	53	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	54	loved	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	55	too	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	56	late	_	_	_	_	_	_	_	_	1)
+502_desert_gold_brat	0	57	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	a	_	_	_	_	_	_	_	_	(55
+502_desert_gold_brat	0	3	prospector	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	gold	_	_	_	_	_	_	_	_	55)
+502_desert_gold_brat	0	6	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	a	_	_	_	_	_	_	_	_	(52
+502_desert_gold_brat	0	8	hunter	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	solitude	_	_	_	_	_	_	_	_	52)
+502_desert_gold_brat	0	11	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	a	_	_	_	_	_	_	_	_	(53
+502_desert_gold_brat	0	13	lover	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	drear	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	rock-ribbed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	infinitude	_	_	_	_	_	_	_	_	53)
+502_desert_gold_brat	0	20	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	because	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	23	wanted	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	be	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	alone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	remember	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	A	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	sound	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	disturbed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	4	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	reflections	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	bent	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	3	head	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	listening	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	A	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	soft	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	wind	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	fanned	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	paling	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	embers	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	blew	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	sparks	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	white	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	ashes	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	thin	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	smoke	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	away	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	enshrouding	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	circle	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	blackness	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	His	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	burro	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	did	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	appear	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	be	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	moving	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	about	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	The	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	quiet	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	split	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	cry	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	coyote	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	It	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	rose	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	strange	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	wild	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	mournful	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	--	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	howl	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	prowling	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	upland	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	beast	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	baying	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	campfire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	or	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	barking	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	at	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	a	_	_	_	_	_	_	_	_	(5
+502_desert_gold_brat	0	23	lonely	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	prospector	_	_	_	_	_	_	_	_	5)
+502_desert_gold_brat	0	25	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	but	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	wail	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	wolf	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	full-voiced	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	35	crying	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	37	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	38	meaning	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	39	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	40	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	41	desert	_	_	_	_	_	_	_	_	(6)
+502_desert_gold_brat	0	42	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	43	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	44	night	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	45	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Hunger	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	throbbed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	--	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	hunger	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	mate	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	offspring	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	life	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	When	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	ceased	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	terrible	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	desert	_	_	_	_	_	_	_	_	(7)
+502_desert_gold_brat	0	7	silence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	smote	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	10	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	cry	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	echoed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	17	soul	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	wandering	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	wolf	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	were	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	brothers	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	sharp	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	clink	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	metal	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	on	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	stone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	soft	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	pads	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	hoofs	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	sand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	prompted	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	17	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	reach	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	21	gun	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	move	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	light	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	waning	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	campfire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	somewhere	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	along	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	wild	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	border	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	line	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	between	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	Sonora	_	_	_	_	_	_	_	_	(8)
+502_desert_gold_brat	0	10	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	Arizona	_	_	_	_	_	_	_	_	(9)
+502_desert_gold_brat	0	12	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	the	_	_	_	_	_	_	_	_	(10
+502_desert_gold_brat	0	15	prospector	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	who	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	dared	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	heat	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	barrenness	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	region	_	_	_	_	_	_	_	_	10)
+502_desert_gold_brat	0	25	risked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	other	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	dangers	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	sometimes	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	menacing	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Figures	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	darker	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	than	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	gloom	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	approached	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	took	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	shape	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	light	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	turned	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	be	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	those	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	a	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	21	white	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	23	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	heavily	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	packed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	burro	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Hello	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	there	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	6	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	7	called	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	11	came	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	halt	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	gazed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	about	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	19	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	2	saw	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	your	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	4	fire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	May	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	2	make	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	camp	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	here	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	?	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	came	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	forth	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	shadow	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	greeted	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	10	visitor	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	whom	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	14	took	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	a	_	_	_	_	_	_	_	_	(12
+502_desert_gold_brat	0	17	prospector	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	like	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	himself	_	_	_	_	_	_	_	_	12)|11)|(0)
+502_desert_gold_brat	0	20	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	resented	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	breaking	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	6	lonely	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	campfire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	vigil	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	but	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	12	respected	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	law	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	the	_	_	_	_	_	_	_	_	(13
+502_desert_gold_brat	0	17	desert	_	_	_	_	_	_	_	_	13)
+502_desert_gold_brat	0	18	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	The	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	1	stranger	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	2	thanked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	him	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	slipped	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	pack	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	from	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	12	burro	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	2	rolled	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	5	pack	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	preparations	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	meal	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	His	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	movements	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	were	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	slow	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	methodical	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	watched	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	still	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	resentment	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	yet	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	curious	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	growing	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	interest	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	The	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	campfire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	burst	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	bright	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	blaze	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	by	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	its	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	light	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	13	saw	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	a	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	15	man	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	whose	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	gray	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	hair	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	somehow	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	did	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	seem	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	make	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	26	old	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	whose	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	stooped	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	shoulders	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	did	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	detract	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	35	from	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	an	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	37	impression	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	38	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	39	rugged	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	40	strength	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	41	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Find	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	any	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	mineral	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	?	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	asked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	presently	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	His	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	1	visitor	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	2	looked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	up	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	quickly	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	if	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	startled	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	by	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	sound	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	human	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	voice	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	replied	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	(14
+502_desert_gold_brat	0	6	two	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	men	_	_	_	_	_	_	_	_	14)
+502_desert_gold_brat	0	8	talked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	little	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	But	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	2	stranger	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	3	evidently	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	preferred	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	silence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	understood	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	laughed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	grimly	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	bent	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	keener	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	gaze	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	upon	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	furrowed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	shadowy	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	face	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Another	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	1	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	those	_	_	_	_	_	_	_	_	(15
+502_desert_gold_brat	0	3	strange	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	desert	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	prospectors	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	whom	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	there	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	some	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	relentless	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	driving	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	power	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	besides	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	lust	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	gold	_	_	_	_	_	_	_	_	15)|11)
+502_desert_gold_brat	0	19	!	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	felt	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	between	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	this	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	5	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	6	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	himself	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	8	there	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	subtle	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	affinity	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	vague	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	undefined	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	perhaps	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	born	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	divination	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	here	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	a	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	27	desert	_	_	_	_	_	_	_	_	(16)
+502_desert_gold_brat	0	28	wanderer	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	like	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	himself	_	_	_	_	_	_	_	_	(0)|11)
+502_desert_gold_brat	0	31	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	perhaps	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	born	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	35	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	deeper	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	37	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	38	an	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	39	unintelligible	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	40	relation	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	41	having	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	42	its	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	43	roots	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	44	back	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	45	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	46	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	47	past	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	48	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	A	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	long-forgotten	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	sensation	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	stirred	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	6	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	breast	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	one	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	so	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	long	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	forgotten	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	15	could	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	recognize	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	But	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	akin	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	pain	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	II	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	When	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	3	awakened	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	5	found	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	9	surprise	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	13	companion	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	14	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	departed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	A	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	trail	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	sand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	led	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	off	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	north	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	There	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	no	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	water	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	direction	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	shrugged	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	3	shoulders	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	9	affair	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	12	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	14	own	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	problems	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	And	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	straightway	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	3	forgot	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	5	strange	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	visitor	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	3	day	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	grateful	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	solitude	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	now	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	unbroken	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	canyon-furrowed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	cactus-spired	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	scene	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	now	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	showed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	no	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	sign	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	life	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	traveled	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	southwest	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	never	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	straying	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	far	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	from	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	(17
+502_desert_gold_brat	0	9	dry	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	stream	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	bed	_	_	_	_	_	_	_	_	17)
+502_desert_gold_brat	0	12	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	desultory	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	way	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	without	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	eagerness	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	23	hunted	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	signs	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	gold	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	The	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	work	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	toilsome	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	yet	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	periods	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	rest	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	which	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	13	indulged	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	were	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	taken	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	because	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	fatigue	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	rested	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	look	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	listen	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	feel	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	What	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	the	_	_	_	_	_	_	_	_	(18
+502_desert_gold_brat	0	2	vast	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	silent	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	world	_	_	_	_	_	_	_	_	18)
+502_desert_gold_brat	0	5	meant	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	him	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	8	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	always	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	been	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	mystical	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	thing	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	which	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	17	felt	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	all	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	its	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	incalculable	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	power	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	but	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	never	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	understood	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	That	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	day	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	while	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	yet	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	light	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	11	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	digging	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	moist	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	white-bordered	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	wash	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	water	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	22	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	brought	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	sharply	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	up	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	by	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	hearing	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	crack	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	hard	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	hoofs	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	on	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	stone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	35	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	There	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	down	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	the	_	_	_	_	_	_	_	_	(19
+502_desert_gold_brat	0	3	canyon	_	_	_	_	_	_	_	_	19)
+502_desert_gold_brat	0	4	came	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	a	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	6	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	7	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	burro	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	recognized	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	them	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Hello	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	friend	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	called	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	8	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	9	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	halting	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Our	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	2	trails	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	crossed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	again	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	That	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	good	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	.	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Hello	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	replied	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	6	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	slowly	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Any	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	mineral	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	sign	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	to-day	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	?	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	No	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	.	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	They	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	1	made	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	camp	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	together	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	ate	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	their	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	7	frugal	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	meal	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	smoked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	pipe	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	rolled	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	their	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	18	blankets	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	without	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	exchanging	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	many	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	words	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	In	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	morning	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	same	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	reticence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	same	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	aloofness	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	characterized	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	manner	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	both	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	But	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Cameron	_	_	_	_	_	_	_	_	(0)|(11
+502_desert_gold_brat	0	2	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	companion	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	when	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	7	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	packed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	10	burro	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	ready	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	start	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	faced	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	about	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	said	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	:	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	We	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	24	might	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	stay	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	together	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	if	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	all	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	right	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	you	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	35	.	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	2	never	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	take	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	a	_	_	_	_	_	_	_	_	(20
+502_desert_gold_brat	0	5	partner	_	_	_	_	_	_	_	_	20)
+502_desert_gold_brat	0	6	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	replied	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	You	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	2	're	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	alone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	6	'm	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	alone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	said	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	12	other	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	13	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	mildly	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	It	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	big	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	place	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	If	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	we	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	2	find	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	gold	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	there	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	'll	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	be	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	enough	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	two	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	2	do	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	n't	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	go	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	down	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	the	_	_	_	_	_	_	_	_	(21
+502_desert_gold_brat	0	8	desert	_	_	_	_	_	_	_	_	21)
+502_desert_gold_brat	0	9	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	gold	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	alone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	rejoined	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	16	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	chill	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	note	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	23	swift	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	reply	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	His	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	1	companion	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	2	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	deep-set	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	luminous	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	eyes	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	emitted	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	singular	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	flash	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	It	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	moved	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	3	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	say	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	years	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	11	wandering	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	13	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	met	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	no	_	_	_	_	_	_	_	_	(22
+502_desert_gold_brat	0	16	man	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	who	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	could	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	endure	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	equally	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	23	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	blasting	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	heat	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	blinding	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	dust	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	storms	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	the	_	_	_	_	_	_	_	_	(23
+502_desert_gold_brat	0	33	wilderness	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	35	sand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	37	rock	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	38	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	39	lava	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	40	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	41	cactus	_	_	_	_	_	_	_	_	23)
+502_desert_gold_brat	0	42	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	43	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	44	terrible	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	45	silence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	46	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	47	desolation	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	48	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	49	the	_	_	_	_	_	_	_	_	(24
+502_desert_gold_brat	0	50	desert	_	_	_	_	_	_	_	_	22)|24)
+502_desert_gold_brat	0	51	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	waved	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	hand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	toward	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	wide	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	shimmering	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	shadowy	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	descent	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	plain	_	_	_	_	_	_	_	_	(25)
+502_desert_gold_brat	0	14	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	range	_	_	_	_	_	_	_	_	(26)
+502_desert_gold_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	I	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	2	may	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	strike	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	through	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	(27
+502_desert_gold_brat	0	6	Sonora	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	Desert	_	_	_	_	_	_	_	_	27)
+502_desert_gold_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	may	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	head	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	Pinacate	_	_	_	_	_	_	_	_	(28)
+502_desert_gold_brat	0	5	or	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	north	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	(29
+502_desert_gold_brat	0	9	Colorado	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	Basin	_	_	_	_	_	_	_	_	29)
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	You	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	are	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	an	_	_	_	_	_	_	_	_	(54
+502_desert_gold_brat	0	3	old	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	man	_	_	_	_	_	_	_	_	54)
+502_desert_gold_brat	0	5	.	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	2	do	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	n't	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	know	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	(30
+502_desert_gold_brat	0	6	country	_	_	_	_	_	_	_	_	30)
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	but	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	me	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	11	one	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	place	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	is	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	same	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	another	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	replied	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	22	companion	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	For	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	moments	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	3	seemed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	forget	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	himself	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	swept	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	11	far-reaching	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	gaze	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	over	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	the	_	_	_	_	_	_	_	_	(31
+502_desert_gold_brat	0	16	colored	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	gulf	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	stone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	sand	_	_	_	_	_	_	_	_	31)
+502_desert_gold_brat	0	22	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	gentle	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	slaps	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	5	drove	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	7	burro	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	behind	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Yes	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	4	'm	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	old	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	'm	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	lonely	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	too	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	It	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	come	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	me	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	5	just	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	lately	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	But	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	friend	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	I	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	5	can	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	still	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	travel	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	few	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	days	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	my	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	15	company	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	wo	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	n't	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	hurt	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	you	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	20	.	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	"	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Have	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	your	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	4	way	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	said	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	9	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	They	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	1	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	slow	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	march	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	down	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	the	_	_	_	_	_	_	_	_	(32
+502_desert_gold_brat	0	8	desert	_	_	_	_	_	_	_	_	32)
+502_desert_gold_brat	0	9	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	At	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	sunset	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	they	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	3	camped	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	under	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	lee	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	a	_	_	_	_	_	_	_	_	(33
+502_desert_gold_brat	0	9	low	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	mesa	_	_	_	_	_	_	_	_	33)
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	glad	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	4	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	5	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	Indian	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	habit	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	silence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Another	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	day	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	travel	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	found	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	(14
+502_desert_gold_brat	0	6	prospectors	_	_	_	_	_	_	_	_	14)
+502_desert_gold_brat	0	7	deep	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	(34
+502_desert_gold_brat	0	10	wilderness	_	_	_	_	_	_	_	_	34)
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	there	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	came	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	breaking	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	reserve	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	noticeable	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	11	elder	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	13	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	almost	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	imperceptibly	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	gradual	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	19	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Beside	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	meager	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	mesquite	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	campfire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	this	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	6	gray-faced	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	thoughtful	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	old	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	prospector	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	11	would	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	remove	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	14	black	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	pipe	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	from	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	18	mouth	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	talk	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	little	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	;	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	26	would	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	listen	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	sometimes	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	unlock	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	33	lips	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	35	speak	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	37	word	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	38	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	And	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	so	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	5	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	respond	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	influence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	a	_	_	_	_	_	_	_	_	(35
+502_desert_gold_brat	0	13	desert	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	less	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	lonely	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	than	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	habitual	_	_	_	_	_	_	_	_	35)
+502_desert_gold_brat	0	18	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	20	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	take	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	keener	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	note	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	27	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	28	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	found	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	32	different	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	from	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	any	_	_	_	_	_	_	_	_	(36
+502_desert_gold_brat	0	35	other	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	36	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	37	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	38	ever	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	39	encountered	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	40	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	41	the	_	_	_	_	_	_	_	_	(37
+502_desert_gold_brat	0	42	wilderness	_	_	_	_	_	_	_	_	37)|36)
+502_desert_gold_brat	0	43	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	This	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	1	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	2	never	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	grumbled	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	at	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	heat	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	glare	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	driving	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	sand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	sour	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	water	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	scant	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	fare	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	During	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	daylight	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	hours	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	5	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	seldom	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	idle	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	At	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	night	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	3	sat	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	dreaming	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	before	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	fire	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	or	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	paced	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	fro	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	gloom	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	slept	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	but	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	little	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	long	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	after	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	10	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	13	own	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	rest	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	tireless	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	patient	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	brooding	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	awakened	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	interest	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	brought	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	home	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	realization	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	for	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	years	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	14	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	shunned	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	companionship	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	In	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	those	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	years	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	only	_	_	_	_	_	_	_	_	(38
+502_desert_gold_brat	0	4	three	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	men	_	_	_	_	_	_	_	_	38)
+502_desert_gold_brat	0	6	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	wandered	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	(39
+502_desert_gold_brat	0	10	desert	_	_	_	_	_	_	_	_	39)
+502_desert_gold_brat	0	11	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	13	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	these	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	left	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	their	_	_	_	_	_	_	_	_	(38)
+502_desert_gold_brat	0	19	bones	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	bleach	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	the	_	_	_	_	_	_	_	_	(40
+502_desert_gold_brat	0	24	shifting	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	sands	_	_	_	_	_	_	_	_	40)
+502_desert_gold_brat	0	26	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	not	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	cared	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	know	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	their	_	_	_	_	_	_	_	_	(38)
+502_desert_gold_brat	0	7	secrets	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	But	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	more	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	4	studied	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	this	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	6	latest	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	more	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	11	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	suspect	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	16	might	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	have	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	missed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	something	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	the	_	_	_	_	_	_	_	_	(38
+502_desert_gold_brat	0	22	others	_	_	_	_	_	_	_	_	38)
+502_desert_gold_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	In	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	2	own	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	driving	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	passion	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	take	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	8	secret	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	limitless	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	abode	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	silence	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	desolation	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	where	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	20	could	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	be	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	alone	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	27	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	forgotten	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	that	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	life	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	31	dealt	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	32	shocks	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	33	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	34	other	_	_	_	_	_	_	_	_	(41
+502_desert_gold_brat	0	35	men	_	_	_	_	_	_	_	_	41)
+502_desert_gold_brat	0	36	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Somehow	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	this	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	2	silent	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	4	reminded	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	One	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	afternoon	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	late	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	after	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	they	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	6	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	toiled	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	up	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	a	_	_	_	_	_	_	_	_	(42
+502_desert_gold_brat	0	10	white	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	winding	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	wash	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	sand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	gravel	_	_	_	_	_	_	_	_	42)
+502_desert_gold_brat	0	18	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	they	_	_	_	_	_	_	_	_	(14)
+502_desert_gold_brat	0	20	came	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	upon	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	a	_	_	_	_	_	_	_	_	(43
+502_desert_gold_brat	0	23	dry	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	waterhole	_	_	_	_	_	_	_	_	43)
+502_desert_gold_brat	0	25	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	dug	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	deep	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	(44
+502_desert_gold_brat	0	5	sand	_	_	_	_	_	_	_	_	44)
+502_desert_gold_brat	0	6	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	but	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	without	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	avail	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	turning	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	retrace	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	weary	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	steps	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	back	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	(45
+502_desert_gold_brat	0	10	last	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	water	_	_	_	_	_	_	_	_	45)
+502_desert_gold_brat	0	12	when	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	14	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	15	asked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	him	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	17	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	wait	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	watched	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	3	search	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	6	pack	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	bring	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	forth	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	what	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	appeared	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	be	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	small	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	forked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	branch	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	peach	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	tree	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	1	grasped	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	prongs	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	fork	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	held	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	them	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	before	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	him	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	12	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	end	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	standing	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	straight	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	22	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	walk	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	along	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	the	_	_	_	_	_	_	_	_	(46
+502_desert_gold_brat	0	27	stream	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	bed	_	_	_	_	_	_	_	_	46)
+502_desert_gold_brat	0	29	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	at	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	first	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	amused	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	amazed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	pitying	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	at	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	last	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	curious	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	kept	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	pace	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	with	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	21	prospector	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	22	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	saw	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	strong	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	tension	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	7	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	8	's	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	wrists	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	if	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	14	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	holding	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	hard	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	against	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	considerable	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	force	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	The	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	end	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	peach	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	branch	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	quiver	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	turn	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	reached	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	out	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	hand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	touch	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	astounded	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	at	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	feeling	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	powerful	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	vibrant	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	force	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	pulling	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	branch	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	downward	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	He	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	felt	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	a	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	magnetic	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	shock	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	The	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	branch	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	kept	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	turning	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	at	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	length	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	pointed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	the	_	_	_	_	_	_	_	_	(47
+502_desert_gold_brat	0	11	ground	_	_	_	_	_	_	_	_	47)
+502_desert_gold_brat	0	12	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Dig	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	here	_	_	_	_	_	_	_	_	(48)
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	said	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	7	prospector	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	What	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	!	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	ejaculated	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	6	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	the	_	_	_	_	_	_	_	_	(11
+502_desert_gold_brat	0	2	man	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	3	lost	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	his	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	5	mind	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	?	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	2	stood	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	by	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	while	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	6	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	7	dug	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	the	_	_	_	_	_	_	_	_	(49
+502_desert_gold_brat	0	10	sand	_	_	_	_	_	_	_	_	49)
+502_desert_gold_brat	0	11	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Three	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	feet	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	3	dug	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	--	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	four	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	--	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	five	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	sand	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	grew	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	dark	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	then	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	moist	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	At	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	six	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	feet	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	water	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	began	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	seep	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	through	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Get	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	little	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	basket	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	my	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	7	pack	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	"	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	he	_	_	_	_	_	_	_	_	(11)
+502_desert_gold_brat	0	11	said	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	1	complied	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	saw	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	his	_	_	_	_	_	_	_	_	(11|(0)
+502_desert_gold_brat	0	6	comrade	_	_	_	_	_	_	_	_	11)
+502_desert_gold_brat	0	7	drop	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	basket	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	into	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	the	_	_	_	_	_	_	_	_	(50
+502_desert_gold_brat	0	12	deep	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	hole	_	_	_	_	_	_	_	_	50)
+502_desert_gold_brat	0	14	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	where	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	17	kept	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	18	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	19	sides	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	20	from	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	21	caving	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	22	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	23	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	24	allowed	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	25	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	26	water	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	27	to	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	28	seep	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	29	through	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	30	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	While	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	Cameron	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	2	watched	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	basket	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	filled	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	all	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	strange	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	incidents	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	of	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	7	desert	_	_	_	_	_	_	_	_	(51)
+502_desert_gold_brat	0	8	career	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	this	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	12	strangest	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	Curiously	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	2	picked	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	up	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	the	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	peach	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	branch	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	and	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	held	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	9	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	as	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	11	he	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	12	had	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	13	seen	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	14	it	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	15	held	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	16	.	_	_	_	_	_	_	_	_	
+
+502_desert_gold_brat	0	0	The	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	1	thing	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	2	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	3	however	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	4	,	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	5	was	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	6	dead	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	7	in	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	8	his	_	_	_	_	_	_	_	_	(0)
+502_desert_gold_brat	0	9	hands	_	_	_	_	_	_	_	_	
+502_desert_gold_brat	0	10	.	_	_	_	_	_	_	_	_	
+
+#end document
