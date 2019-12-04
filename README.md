@@ -7,7 +7,7 @@ LitBank is an annotated dataset of 100 works of English-language fiction to supp
 
 * Matt Sims, Jong Ho Park and David Bamman (2019), "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
 
-* David Bamman, Olivia Lewke and Anya Mansoor (2019), "An Annotated Dataset of Coreference in English Literature", ArXiv.
+* David Bamman, Olivia Lewke and Anya Mansoor (2019), "[An Annotated Dataset of Coreference in English Literature](https://arxiv.org/abs/1912.01140)", ArXiv.
 
 LitBank currently contains annotations for entities, events and entity coreference in a sample of ~2,000 words from each of those texts, totaling 210,532 tokens.
 
@@ -57,7 +57,7 @@ We annotations three different categories of coreference phenomena -- coreferenc
 |Copulae|<img src="img/copula.png" alt="drawing" width="200"/>|Melville, *Bartleby, the Scrivener*|
 | Appositions |<img src="img/apposition.png" alt="drawing" width="350"/>|Conrad, *Heart of Darkness*|
 
-Annotations largely follow OntoNotes guidelines (though singleton mentions *are* annotated here), with several departures for literary style (including the distinction between generic/specific mentions, near-identity and the revelation of identity). For more on the coreference criteria used in these annotations, see David Bamman, Olivia Lewke and Anya Mansoor (2019), "An Annotated Dataset of Coreference in English Literature", ArXiv.
+Annotations largely follow OntoNotes guidelines (though singleton mentions *are* annotated here), with several departures for literary style (including the distinction between generic/specific mentions, near-identity and the revelation of identity). For more on the coreference criteria used in these annotations, see David Bamman, Olivia Lewke and Anya Mansoor (2019), "[An Annotated Dataset of Coreference in English Literature](https://arxiv.org/abs/1912.01140)", ArXiv.
 
 
 ## Tagger
