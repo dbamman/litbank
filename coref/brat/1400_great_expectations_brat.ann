@@ -419,14 +419,12 @@ T451	Tobias-16 1883 1889	Tobias
 T452	Roger-17 1896 1901	Roger
 T379	five_little_brothers_of_mine-7 1904 1936	infant children of the aforesaid
 T453	Pip_s_parents-6 1923 1936	the aforesaid
-T382	churchyard-11 2008 2022	the churchyard
 T383	the_marsh-21 1976 2022	the dark flat wilderness beyond the churchyard
 T454	the_river-9 2136 2162	the low leaden line beyond
 T431	the_river-9 2167 2176	the river
 T432	the_sea-10 2188 2243	the distant savage lair from which the wind was rushing
 T433	the_sea-10 2248 2255	the sea
 T434	Pip-1 2267 2340	the small bundle of shivers growing afraid of it all and beginning to cry
-T435	Pip-1 2347 2350	Pip
 T523	Pip-1 2360 2364	your
 T387	convict-23 2403 2408	a man
 T386	the_side_of_the_church_porch-24 2445 2473	the side of the church porch
@@ -691,11 +689,9 @@ T714	Pip-1 8651 8653	my
 T715	Pip-1 8675 8676	I
 T716	Pip-1 8689 8691	my
 T717	convict-23 8711 8714	him
-T461	the_river-9 8738 8747	the river
 T718	convict-23 8764 8771	himself
 T719	convict-23 8799 8802	his
 T720	convict-23 8812 8815	his
-T723	the_marsh-21 2113 2124	the marshes
 T462	the_marsh-21 8862 8873	the marshes
 R1	appos Arg1:T3 Arg2:T2
 R2	cop Arg1:T15 Arg2:T147
@@ -703,6 +699,10 @@ R3	cop Arg1:T23 Arg2:T21
 R4	appos Arg1:T42 Arg2:T40
 R5	appos Arg1:T43 Arg2:T40
 R6	cop Arg1:T52 Arg2:T290
+R7	cop Arg1:T20 Arg2:T18
+R8	cop Arg1:T99 Arg2:T92
+R9	cop Arg1:T73 Arg2:T72
+R10	cop Arg1:T23 Arg2:T21
 T724	PRON_LOC 2104 2106	it
 T725	the_marsh-21 2104 2106	it
 T736	PRON_FAC 6084 6087	its
