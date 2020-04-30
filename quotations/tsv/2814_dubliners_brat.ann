@@ -1,0 +1,44 @@
+QUOTE	Q338	3	7	3	16	“ I am not long for this world , ”
+QUOTE	Q339	10	21	11	7	“ No , I would n’t say he was exactly ... but there was something queer ... there was something uncanny about him . I ’ll tell you my opinion .... ”
+QUOTE	Q340	14	0	14	9	“ I have my own theory about it , ”
+QUOTE	Q341	15	0	16	7	“ I think it was one of those ... peculiar cases ... . But it ’s hard to say .... ”
+QUOTE	Q342	17	10	17	27	“ Well , so your old friend is gone , you ’ll be sorry to hear . ”
+QUOTE	Q343	18	0	18	3	“ Who ? ”
+QUOTE	Q344	19	2	19	6	“ Father Flynn . ”
+QUOTE	Q345	20	0	20	5	“ Is he dead ? ”
+QUOTE	Q346	21	0	22	7	“ Mr Cotter here has just told us . He was passing by the house . ”
+QUOTE	Q347	25	0	26	23	“ The youngster and he were great friends . The old chap taught him a great deal , mind you ; and they say he had a great wish for him . ”
+QUOTE	Q348	27	0	27	8	“ God have mercy on his soul , ”
+QUOTE	Q349	31	0	31	9	“ I would n’t like children of mine , ”
+QUOTE	Q350	31	13	31	26	“ to have too much to say to a man like that . ”
+QUOTE	Q351	32	0	32	9	“ How do you mean , Mr Cotter ? ”
+QUOTE	Q352	34	0	34	6	“ What I mean is , ”
+QUOTE	Q353	34	11	36	6	“ it ’s bad for children . My idea is : let a young lad run about and play with young lads of his own age and not be ... . Am I right , Jack ? ”
+QUOTE	Q354	37	0	37	8	“ That ’s my principle , too , ”
+QUOTE	Q355	38	0	43	11	“ Let him learn to box his corner . That ’s what I ’m always saying to that Rosicrucian there : take exercise . Why , when I was a nipper every morning of my life I had a cold bath , winter and summer . And that ’s what stands to me now . Education is all very fine and large ... . Mr Cotter might take a pick of that leg mutton , ”
+QUOTE	Q356	44	0	44	9	“ No , no , not for me , ”
+QUOTE	Q357	46	0	46	16	“ But why do you think it ’s not good for children , Mr Cotter ? ”
+QUOTE	Q358	48	0	48	7	“ It ’s bad for children , ”
+QUOTE	Q359	48	12	49	15	“ because their minds are so impressionable . When children see things like that , you know , it has an effect .... ”
+ATTRIB	Q338	Father_Flynn-1
+ATTRIB	Q339	Old_Cotter-8
+ATTRIB	Q340	Old_Cotter-8
+ATTRIB	Q341	Old_Cotter-8
+ATTRIB	Q342	My_uncle-13
+ATTRIB	Q343	Narrator-2
+ATTRIB	Q344	My_uncle-13
+ATTRIB	Q345	Narrator-2
+ATTRIB	Q346	My_uncle-13
+ATTRIB	Q347	My_uncle-13
+ATTRIB	Q348	my_aunt-10
+ATTRIB	Q349	Old_Cotter-8
+ATTRIB	Q350	Old_Cotter-8
+ATTRIB	Q351	my_aunt-10
+ATTRIB	Q352	Old_Cotter-8
+ATTRIB	Q353	Old_Cotter-8
+ATTRIB	Q354	My_uncle-13
+ATTRIB	Q355	My_uncle-13
+ATTRIB	Q356	Old_Cotter-8
+ATTRIB	Q357	my_aunt-10
+ATTRIB	Q358	Old_Cotter-8
+ATTRIB	Q359	Old_Cotter-8

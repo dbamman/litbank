@@ -1,0 +1,66 @@
+QUOTE	Q244	35	0	35	9	“ Wal , Beasley , are you here ? ”
+QUOTE	Q245	38	0	38	9	“ Fellars , Beasley ai n't here yet , ”
+QUOTE	Q246	39	0	40	4	“ Put the hosses under the shed . We 'll wait . ”
+QUOTE	Q247	41	0	41	5	“ Wait , huh ! ”
+QUOTE	Q248	42	0	42	14	“ Mebbe all night -- an ' we got nuthin ' to eat . ”
+QUOTE	Q249	43	0	45	14	“ Shut up , Moze . Reckon you 're no good for anythin ' but eatin ' . Put them hosses away an ' some of you rustle fire-wood in here . ”
+QUOTE	Q250	48	0	48	13	“ Snake , it 'd been sense to fetch a pack along , ”
+QUOTE	Q251	49	0	51	9	“ Reckon so , Jim . But we did n't , an ' what 's the use hollerin ' ? Beasley wo n't keep us waitin ' long . ”
+QUOTE	Q252	58	0	58	10	“ It ai n't a-goin ' to rain much , ”
+QUOTE	Q253	60	0	60	15	“ Jim , hyar 's a chunk of pine log , dry as punk , ”
+QUOTE	Q254	62	0	62	19	“ Snake , lem me your pipe , an ' I 'll hev a fire in a jiffy . ”
+QUOTE	Q255	63	0	63	18	“ Wal , I want my terbacco an ' I ai n't carin ' about no fire , ”
+QUOTE	Q256	64	0	64	11	“ Reckon you 're the meanest cuss in these woods , ”
+QUOTE	Q257	72	0	72	5	“ Fire feels good , ”
+QUOTE	Q258	73	0	73	15	“ Fall 's sure a-comin ' ... Now if only we had some grub ! ”
+QUOTE	Q259	74	0	74	25	“ Moze , there 's a hunk of deer meat in my saddle-bag , an ' if you git it you can have half , ”
+QUOTE	Q260	77	0	77	11	“ Snake , what 's this here deal with Beasley ? ”
+QUOTE	Q261	78	0	78	9	“ Reckon you 'll l'arn when I do , ”
+QUOTE	Q262	80	0	80	18	“ Ai n't we done away with enough of them poor greaser herders -- for nothin ' ? ”
+QUOTE	Q263	81	0	81	15	“ You 're dead right , Burt -- an ' that 's my stand , ”
+QUOTE	Q264	82	0	82	14	“ Snake , snow 'll be flyin ' round these woods before long , ”
+QUOTE	Q265	83	0	83	18	“ Are we goin ' to winter down in the Tonto Basin or over on the Gila ? ”
+QUOTE	Q266	84	0	84	14	“ Reckon we 'll do some tall ridin ' before we strike south , ”
+QUOTE	Q267	86	0	86	13	“ Boss , I heerd a hoss comin ' up the trail , ”
+QUOTE	Q268	89	0	89	3	“ A-huh ! ”
+QUOTE	Q269	95	0	95	6	“ Ho there , inside ! ”
+QUOTE	Q270	96	0	96	4	“ Ho yourself ! ”
+QUOTE	Q271	97	0	97	6	“ That you , Snake ? ”
+QUOTE	Q272	98	0	98	4	“ Reckon so , ”
+QUOTE	Q273	104	0	105	4	“ Hullo , Snake ! Hullo , Wilson ! ”
+QUOTE	Q274	106	0	107	13	“ I 've backed out on the other deal . Sent for you on -- on another little matter ... particular private . ”
+QUOTE	Q275	109	0	109	2	“ A-huh !
+QUOTE	Q276	112	0	114	8	Moze , you an ' Shady an ' Burt go wait outside . Reckon this ai n't the deal I expected ... . An ' you can saddle the hosses . ”
+ATTRIB	Q244	Snake-30
+ATTRIB	Q245	Snake-30
+ATTRIB	Q246	Snake-30
+ATTRIB	Q247	Moze-32
+ATTRIB	Q248	Snake-30
+ATTRIB	Q249	Snake-30
+ATTRIB	Q250	Jim-34
+ATTRIB	Q251	Snake-30
+ATTRIB	Q252	Other_men-40
+ATTRIB	Q253	another-41
+ATTRIB	Q254	Jim-34
+ATTRIB	Q255	Snake-30
+ATTRIB	Q256	Jim-34
+ATTRIB	Q257	Moze-32
+ATTRIB	Q258	Moze-32
+ATTRIB	Q259	the_honest_people-43
+ATTRIB	Q260	Jim-34
+ATTRIB	Q261	Snake-30
+ATTRIB	Q262	the_youngest_of_the_gang-46
+ATTRIB	Q263	my-44
+ATTRIB	Q264	Jim-34
+ATTRIB	Q265	Jim-34
+ATTRIB	Q266	Snake-30
+ATTRIB	Q267	Moze-32
+ATTRIB	Q268	Snake-30
+ATTRIB	Q269	The_newcomer-53
+ATTRIB	Q270	Snake-30
+ATTRIB	Q271	The_newcomer-53
+ATTRIB	Q272	Snake-30
+ATTRIB	Q273	Snake-30
+ATTRIB	Q274	Snake-30
+ATTRIB	Q275	Snake-30
+ATTRIB	Q276	Snake-30

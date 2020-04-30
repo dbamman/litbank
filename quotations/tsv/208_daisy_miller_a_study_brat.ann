@@ -1,0 +1,62 @@
+QUOTE	Q320	27	0	27	10	“ Will you give me a lump of sugar ? ”
+QUOTE	Q321	30	0	30	8	“ Yes , you may take one , ”
+QUOTE	Q322	30	12	30	25	“ but I do n’t think sugar is good for little boys . ”
+QUOTE	Q323	33	0	33	9	“ Oh , blazes ; it ’s har-r-d ! ”
+QUOTE	Q324	36	0	36	10	“ Take care you do n’t hurt your teeth , ”
+QUOTE	Q325	37	0	46	5	“ I have n’t got any teeth to hurt . They have all come out . I have only got seven teeth . My mother counted them last night , and one came out right afterward . She said she ’d slap me if any more came out . I ca n’t help it . It ’s this old Europe . It ’s the climate that makes them come out . In America they did n’t come out . It ’s these hotels . ”
+QUOTE	Q326	48	0	48	16	“ If you eat three lumps of sugar , your mother will certainly slap you , ”
+QUOTE	Q327	49	0	49	12	“ She ’s got to give me some candy , then , ”
+QUOTE	Q328	50	0	51	7	“ I ca n’t get any candy here -- any American candy . American candy ’s the best candy . ”
+QUOTE	Q329	52	0	52	11	“ And are American little boys the best little boys ? ”
+QUOTE	Q330	54	0	55	6	“ I do n’t know . I ’m an American boy , ”
+QUOTE	Q331	56	0	56	10	“ I see you are one of the best ! ”
+QUOTE	Q332	58	0	58	7	“ Are you an American man ? ”
+QUOTE	Q333	60	9	60	16	“ American men are the best , ”
+QUOTE	Q334	63	0	63	6	“ Here comes my sister ! ”
+QUOTE	Q335	65	0	65	7	“ She ’s an American girl . ”
+QUOTE	Q336	67	0	67	8	“ American girls are the best girls , ”
+QUOTE	Q337	68	0	68	8	“ My sister ai n’t the best ! ”
+QUOTE	Q338	70	0	70	8	“ She ’s always blowing at me . ”
+QUOTE	Q339	71	0	71	11	“ I imagine that is your fault , not hers , ”
+QUOTE	Q341	79	0	79	3	“ Randolph , ”
+QUOTE	Q342	79	9	79	15	“ what ARE you doing ? ”
+QUOTE	Q343	80	0	80	8	“ I ’m going up the Alps , ”
+QUOTE	Q344	81	0	81	6	“ This is the way ! ”
+QUOTE	Q345	83	0	83	9	“ That ’s the way they come down , ”
+QUOTE	Q346	84	0	84	7	“ He ’s an American man ! ”
+QUOTE	Q347	87	0	87	11	“ Well , I guess you had better be quiet , ”
+QUOTE	Q348	90	0	90	10	“ This little boy and I have made acquaintance , ”
+QUOTE	Q349	96	0	96	12	“ I should like to know where you got that pole , ”
+QUOTE	Q350	97	0	97	5	“ I bought it , ”
+QUOTE	Q351	98	0	98	16	“ You do n’t mean to say you ’re going to take it to Italy ? ”
+ATTRIB	Q320	a_small_boy-44
+ATTRIB	Q321	young_American-29
+ATTRIB	Q322	young_American-29
+ATTRIB	Q323	a_small_boy-44
+ATTRIB	Q324	young_American-29
+ATTRIB	Q325	a_small_boy-44
+ATTRIB	Q326	young_American-29
+ATTRIB	Q327	a_small_boy-44
+ATTRIB	Q328	a_small_boy-44
+ATTRIB	Q329	young_American-29
+ATTRIB	Q330	a_small_boy-44
+ATTRIB	Q331	young_American-29
+ATTRIB	Q332	a_small_boy-44
+ATTRIB	Q333	a_small_boy-44
+ATTRIB	Q334	a_small_boy-44
+ATTRIB	Q335	a_small_boy-44
+ATTRIB	Q336	young_American-29
+ATTRIB	Q337	a_small_boy-44
+ATTRIB	Q338	a_small_boy-44
+ATTRIB	Q339	young_American-29
+ATTRIB	Q341	my_sister-55
+ATTRIB	Q342	my_sister-55
+ATTRIB	Q343	a_small_boy-44
+ATTRIB	Q344	a_small_boy-44
+ATTRIB	Q345	young_American-29
+ATTRIB	Q346	a_small_boy-44
+ATTRIB	Q347	my_sister-55
+ATTRIB	Q348	young_American-29
+ATTRIB	Q349	my_sister-55
+ATTRIB	Q350	a_small_boy-44
+ATTRIB	Q351	my_sister-55

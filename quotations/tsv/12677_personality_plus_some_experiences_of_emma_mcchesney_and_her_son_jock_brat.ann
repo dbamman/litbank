@@ -1,0 +1,58 @@
+QUOTE	Q289	12	0	12	3	" Smooth ! "
+QUOTE	Q290	13	0	13	8	" As smooth as an automobile salesman . "
+QUOTE	Q293	30	0	30	15	" Well , I 'd like to know what 's the matter with it ! "
+QUOTE	Q294	32	0	32	4	" All right , "
+QUOTE	Q295	33	0	34	5	" I 'll tell you . It 's too young . "
+QUOTE	Q296	35	0	35	3	" Young ! "
+QUOTE	Q297	37	0	37	7	" What d'you mean -- young ? "
+QUOTE	Q298	40	0	44	31	" I know that you look like a man on a magazine cover in it . But Norfolk suits spell tennis , and seashore , and elegant leisure . And you 're going out this morning , Son , to interview business men . You 're going to try to impress the advertising world with the fact that it needs your expert services . You walk into a business office in a Norfolk suit , and everybody from the office boy to the president of the company will ask you what your score is . "
+QUOTE	Q299	46	0	46	9	" I 'll wear the black and white , "
+QUOTE	Q300	47	11	49	13	" For that matter , they 're looking for young men . Everybody 's young . Why , the biggest men in the advertising game are just kids . "
+QUOTE	Q301	54	16	54	24	" Well , you asked my advice , "
+QUOTE	Q302	54	46	58	15	" and I gave it . Wear a white duck sailor suit with blue anchors and carry a red tin pail and a shovel , if you want to look young . Only get into it in a jiffy , Son , because breakfast will be ready in ten minutes . I can tell by the way Annie 's crashing the cups . So step lively if you want to pay your lovely mother 's subway fare . "
+QUOTE	Q303	71	0	71	10	" I want to write the kind of ad , "
+QUOTE	Q304	71	16	72	25	" that you see 'em staring at in the subways , and street cars and L-trains . I want to sit across the aisle and watch their up-turned faces staring at that oblong , and reading it aloud to each other . "
+QUOTE	Q305	73	0	73	14	" Is n't that an awfully obvious necktie you 're wearing , Jock ? "
+QUOTE	Q306	74	0	76	8	" This ? You ought to see some of them . This is a Quaker stock in comparison . "
+QUOTE	Q307	79	0	79	41	" And the first thing you know , Mrs. McChesney , ma'am , we 'll have a motor truck backing up at the door once a month and six strong men carrying my salary to the freight elevator in sacks . "
+QUOTE	Q308	80	15	80	35	" Had n't you better qualify for the trial heats , Jock , before you jump into the finals ? "
+QUOTE	Q309	81	0	81	4	" Trial heats ! "
+QUOTE	Q287	82	0	91	3	" They 're poky . I want real money . Now ! It is n't enough to be just well-to-do in these days . It needs money . I want to be rich ! Not just prosperous , but rich ! So rich that I can let the bath soap float around in the water without any pricks of conscience . So successful that they 'll say , ' And he 's a mere boy , too . Imagine ! ' "
+QUOTE	Q288	92	2	92	6	" Jock dear , "
+QUOTE	Q291	92	11	94	29	" you 've still to learn that plans and ambitions are like soap bubbles . The harder you blow and the more you inflate them , the quicker they burst . Plans and ambitions are things to be kept locked away in your heart , Son , with no one but yourself to take an occasional peep at them . "
+QUOTE	Q292	96	0	96	7	" You 're a jealous blonde , "
+QUOTE	Q310	97	0	97	29	" Because I 'm going to be a captain of finance -- an advertising wizard ; you 're afraid I 'll grab the glory all away from you . "
+QUOTE	Q311	100	0	100	6	" I 'm not afraid , "
+QUOTE	Q312	101	0	103	7	" You see , they 'll only regard your feats and say , ' H 'm , no wonder . He ought to be able to sell ice to an Eskimo . His mother was Emma McChesney . ' "
+QUOTE	Q313	106	0	109	9	" Lamb chops to-night , eh , Annie ? And sweet potatoes . Jock loves 'em . And corn au gratin and some head lettuce . "
+QUOTE	Q314	111	7	112	17	" just give us one of your peach cobblers , will you ? You see he -- he 's going to be awfully -- tired when he gets home . "
+QUOTE	Q315	111	0	111	3	" Annie , "
+ATTRIB	Q289	our-4
+ATTRIB	Q290	our-4
+ATTRIB	Q293	Jock_McChesney-22
+ATTRIB	Q294	his_mother-24
+ATTRIB	Q295	his_mother-24
+ATTRIB	Q296	Jock_McChesney-22
+ATTRIB	Q297	Jock_McChesney-22
+ATTRIB	Q298	his_mother-24
+ATTRIB	Q299	Jock_McChesney-22
+ATTRIB	Q300	Jock_McChesney-22
+ATTRIB	Q301	his_mother-24
+ATTRIB	Q302	his_mother-24
+ATTRIB	Q303	Jock_McChesney-22
+ATTRIB	Q304	Jock_McChesney-22
+ATTRIB	Q305	his_mother-24
+ATTRIB	Q306	Jock_McChesney-22
+ATTRIB	Q307	Jock_McChesney-22
+ATTRIB	Q308	his_mother-24
+ATTRIB	Q309	Jock_McChesney-22
+ATTRIB	Q287	Jock_McChesney-22
+ATTRIB	Q288	his_mother-24
+ATTRIB	Q291	his_mother-24
+ATTRIB	Q292	Jock_McChesney-22
+ATTRIB	Q310	Jock_McChesney-22
+ATTRIB	Q311	his_mother-24
+ATTRIB	Q312	his_mother-24
+ATTRIB	Q313	his_mother-24
+ATTRIB	Q314	his_mother-24
+ATTRIB	Q315	his_mother-24

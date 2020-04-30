@@ -1,0 +1,34 @@
+QUOTE	Q255	7	0	7	4	' Mr. Heathcliff ? '
+QUOTE	Q256	11	46	11	55	' Thrushcross Grange is my own , sir , '
+QUOTE	Q257	11	61	12	19	' I should not allow any one to inconvenience me , if I could hinder it -- walk in ! '
+QUOTE	Q259	15	0	15	13	' Here we have the whole establishment of domestics , I suppose , '
+QUOTE	Q260	16	0	16	18	' No wonder the grass grows up between the flags , and cattle are the only hedge-cutters . '
+QUOTE	Q261	18	0	18	6	' The Lord help us ! '
+QUOTE	Q267	59	0	59	8	' What the devil is the matter ? '
+QUOTE	Q268	61	0	61	7	' What the devil , indeed ! '
+QUOTE	Q269	63	0	64	13	' The herd of possessed swine could have had no worse spirits in them than those animals of yours , sir . You might as well leave a stranger with a brood of tigers ! '
+QUOTE	Q271	10	0	10	9	' Mr. Lockwood , your new tenant , sir .
+QUOTE	Q258	14	40	14	55	' Joseph , take Mr. Lockwood 's horse ; and bring up some wine . '
+QUOTE	Q262	49	0	49	9	' You 'd better let the dog alone , '
+QUOTE	Q263	50	1	50	15	She 's not accustomed to be spoiled -- not kept for a pet . '
+QUOTE	Q264	51	12	51	14	' Joseph !
+QUOTE	Q265	65	0	65	11	' They wo n't meddle with persons who touch nothing , '
+QUOTE	Q266	66	1	66	8	The dogs do right to be vigilant .
+QUOTE	Q270	67	0	67	6	Take a glass of wine ? '
+ATTRIB	Q255	I-0
+ATTRIB	Q256	Mr__Heathcliff-6
+ATTRIB	Q257	Mr__Heathcliff-6
+ATTRIB	Q259	Joseph-9
+ATTRIB	Q260	Joseph-9
+ATTRIB	Q261	Joseph-9
+ATTRIB	Q267	Mr__Heathcliff-6
+ATTRIB	Q268	I-0
+ATTRIB	Q269	I-0
+ATTRIB	Q271	I-0
+ATTRIB	Q258	Mr__Heathcliff-6
+ATTRIB	Q262	Mr__Heathcliff-6
+ATTRIB	Q263	Mr__Heathcliff-6
+ATTRIB	Q264	Mr__Heathcliff-6
+ATTRIB	Q265	Mr__Heathcliff-6
+ATTRIB	Q266	Mr__Heathcliff-6
+ATTRIB	Q270	Mr__Heathcliff-6

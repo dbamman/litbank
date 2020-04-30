@@ -1,0 +1,14 @@
+QUOTE	Q269	44	0	44	3	“ Bah ! ”
+QUOTE	Q270	44	11	45	15	“ Citoyen Grospierre was a fool ! Had it been me now , at that North Gate last week . . . ”
+QUOTE	Q271	46	0	46	8	“ How did it happen , citoyen ? ”
+QUOTE	Q272	47	0	47	11	“ Grospierre was at the gate , keeping good watch , ”
+QUOTE	Q273	48	0	53	39	“ We 've all heard of this meddlesome Englishman , this accursed Scarlet Pimpernel . He wo n't get through MY gate , MORBLEU ! unless he be the devil himself . But Grospierre was a fool . The market carts were going through the gates ; there was one laden with casks , and driven by an old man , with a boy beside him . Grospierre was a bit drunk , but he thought himself very clever ; he looked into the casks -- most of them , at least -- and saw they were empty , and let the cart go through . ”
+QUOTE	Q274	55	0	55	6	“ Half an hour later , ”
+QUOTE	Q275	55	11	65	16	“ up comes a captain of the guard with a squad of some dozen soldiers with him . ' Has a cart gone through ? ' he asks of Grospierre , breathlessly . ' Yes , ' says Grospierre , ' not half an hour ago . ' ' And you have let them escape , ' shouts the captain furiously . ' You 'll go to the guillotine for this , citoyen sergeant ! that cart held concealed the CI-DEVANT Duc de Chalis and all his family ! ' ' What ! ' thunders Grospierre , aghast . ' Aye ! and the driver was none other than that cursed Englishman , the Scarlet Pimpernel . ' ”
+ATTRIB	Q269	Sergeant_Bibot-40
+ATTRIB	Q270	Sergeant_Bibot-40
+ATTRIB	Q271	his_trusted_corporal-85
+ATTRIB	Q272	Sergeant_Bibot-40
+ATTRIB	Q273	Sergeant_Bibot-40
+ATTRIB	Q274	Sergeant_Bibot-40
+ATTRIB	Q275	Sergeant_Bibot-40

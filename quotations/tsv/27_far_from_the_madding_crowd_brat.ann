@@ -1,0 +1,34 @@
+QUOTE	Q262	29	0	29	6	" I 'll run back . "
+QUOTE	Q263	30	0	30	3	" Do . "
+QUOTE	Q264	59	0	59	38	" Mis ' ess 's niece is upon the top of the things , and she says that 's enough that I 've offered ye , you great miser , and she wo n't pay any more . "
+QUOTE	Q265	61	0	61	14	" Very well ; then mis ' ess 's niece ca n't pass . "
+QUOTE	Q266	65	31	65	34	" Here . "
+QUOTE	Q267	66	12	66	19	" let the young woman pass . "
+QUOTE	Q268	72	11	72	18	" But she has her faults . "
+QUOTE	Q269	74	0	74	5	" True , farmer . "
+QUOTE	Q270	75	0	75	15	" And the greatest of them is -- well , what it is always . "
+QUOTE	Q271	76	0	77	6	" Beating people down ? ay , 't is so . "
+QUOTE	Q272	78	0	78	4	" O no . "
+QUOTE	Q273	79	0	79	5	" What , then ? "
+QUOTE	Q274	80	29	80	32	" Vanity . "
+QUOTE	Q258	25	0	25	10	" The tailboard of the waggon is gone , Miss. "
+QUOTE	Q259	26	0	26	7	" Then I heard it fall . "
+QUOTE	Q260	28	0	28	18	" I heard a noise I could not account for when we were coming up the hill . "
+QUOTE	Q261	72	0	72	6	" That 's a handsome maid "
+ATTRIB	Q262	a_waggoner-28
+ATTRIB	Q263	a_woman_____young___and_attractive-30
+ATTRIB	Q264	a_waggoner-28
+ATTRIB	Q265	the_man_at_the_toll-bar-41
+ATTRIB	Q266	FARMER_OAK-0
+ATTRIB	Q267	FARMER_OAK-0
+ATTRIB	Q268	FARMER_OAK-0
+ATTRIB	Q269	the_man_at_the_toll-bar-41
+ATTRIB	Q270	FARMER_OAK-0
+ATTRIB	Q271	the_man_at_the_toll-bar-41
+ATTRIB	Q272	FARMER_OAK-0
+ATTRIB	Q273	the_man_at_the_toll-bar-41
+ATTRIB	Q274	FARMER_OAK-0
+ATTRIB	Q258	a_waggoner-28
+ATTRIB	Q259	a_woman_____young___and_attractive-30
+ATTRIB	Q260	a_woman_____young___and_attractive-30
+ATTRIB	Q261	the_man_at_the_toll-bar-41

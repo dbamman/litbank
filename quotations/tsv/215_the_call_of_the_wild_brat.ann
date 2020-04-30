@@ -1,0 +1,28 @@
+QUOTE	Q2113	36	0	36	12	“ You might wrap up the goods before you deliver 'm , ”
+QUOTE	Q2114	37	0	37	12	“ Twist it , an ' you 'll choke 'm plentee , ”
+QUOTE	Q2115	53	0	53	6	“ Yep , has fits , ”
+QUOTE	Q2116	54	0	55	11	“ I 'm takin ' 'm up for the boss to ' Frisco . A crack dog-doctor there thinks that he can cure 'm . ”
+QUOTE	Q2117	57	0	57	9	“ All I get is fifty for it , ”
+QUOTE	Q2118	57	13	57	29	“ an ' I would n't do it over for a thousand , cold cash . ”
+QUOTE	Q2119	59	0	59	9	“ How much did the other mug get ? ”
+QUOTE	Q2120	61	0	61	4	“ A hundred , ”
+QUOTE	Q2121	62	0	62	12	“ Would n't take a sou less , so help me . ”
+QUOTE	Q2122	63	0	63	8	“ That makes a hundred and fifty , ”
+QUOTE	Q2123	63	13	63	26	“ and he 's worth it , or I 'm a squarehead . ”
+QUOTE	Q2124	65	0	65	9	“ If I do n't get the hydrophoby -- ”
+QUOTE	Q2125	65	10	65	21	“ It 'll be because you was born to hang , ”
+QUOTE	Q2126	66	0	66	13	“ Here , lend me a hand before you pull your freight , ”
+ATTRIB	Q2113	man_sold_to-58
+ATTRIB	Q2114	Manuel-50
+ATTRIB	Q2115	man_sold_to-58
+ATTRIB	Q2116	man_sold_to-58
+ATTRIB	Q2117	man_sold_to-58
+ATTRIB	Q2118	man_sold_to-58
+ATTRIB	Q2119	the_saloon-keeper-74
+ATTRIB	Q2120	man_sold_to-58
+ATTRIB	Q2121	man_sold_to-58
+ATTRIB	Q2122	the_saloon-keeper-74
+ATTRIB	Q2123	the_saloon-keeper-74
+ATTRIB	Q2124	man_sold_to-58
+ATTRIB	Q2125	the_saloon-keeper-74
+ATTRIB	Q2126	the_saloon-keeper-74

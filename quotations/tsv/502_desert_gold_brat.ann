@@ -1,0 +1,40 @@
+QUOTE	Q271	16	0	16	4	" Hello there , "
+QUOTE	Q272	17	0	18	6	" I saw your fire . May I make camp here ? "
+QUOTE	Q273	26	0	26	5	" Find any mineral ? "
+QUOTE	Q274	49	0	49	5	" Hello , friend , "
+QUOTE	Q275	50	0	51	4	" Our trails crossed again . That 's good . "
+QUOTE	Q276	52	0	52	3	" Hello , "
+QUOTE	Q277	53	0	53	6	" Any mineral sign to-day ? "
+QUOTE	Q278	54	0	54	3	" No . "
+QUOTE	Q279	57	22	57	36	" We might stay together , if it 's all right with you . "
+QUOTE	Q280	58	0	58	7	" I never take a partner , "
+QUOTE	Q281	59	0	59	9	" You 're alone ; I 'm alone , "
+QUOTE	Q282	60	0	61	11	" It 's a big place . If we find gold there 'll be enough for two . "
+QUOTE	Q283	62	0	62	13	" I do n't go down into the desert for gold alone , "
+QUOTE	Q284	66	0	68	6	" I may strike through the Sonora Desert . I may head for Pinacate or north for the Colorado Basin . You are an old man . "
+QUOTE	Q285	69	0	69	19	" I do n't know the country , but to me one place is the same as another , "
+QUOTE	Q286	72	0	75	21	" Yes , I 'm old . I 'm lonely , too . It 's come to me just lately . But , friend , I can still travel , and for a few days my company wo n't hurt you . "
+QUOTE	Q287	76	0	76	6	" Have it your way , "
+QUOTE	Q288	106	0	106	4	" Dig here , "
+QUOTE	Q289	107	0	107	3	" What ! "
+QUOTE	Q290	112	0	112	9	" Get the little basket in my pack , "
+ATTRIB	Q271	a_white_man-11
+ATTRIB	Q272	a_white_man-11
+ATTRIB	Q273	Cameron-0
+ATTRIB	Q274	a_white_man-11
+ATTRIB	Q275	a_white_man-11
+ATTRIB	Q276	Cameron-0
+ATTRIB	Q277	Cameron-0
+ATTRIB	Q278	a_white_man-11
+ATTRIB	Q279	a_white_man-11
+ATTRIB	Q280	Cameron-0
+ATTRIB	Q281	a_white_man-11
+ATTRIB	Q282	a_white_man-11
+ATTRIB	Q283	Cameron-0
+ATTRIB	Q284	Cameron-0
+ATTRIB	Q285	a_white_man-11
+ATTRIB	Q286	a_white_man-11
+ATTRIB	Q287	Cameron-0
+ATTRIB	Q288	a_white_man-11
+ATTRIB	Q289	Cameron-0
+ATTRIB	Q290	a_white_man-11

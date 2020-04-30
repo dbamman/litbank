@@ -1,0 +1,18 @@
+QUOTE	Q269	51	0	51	7	“ Who ’s got the Moonstone ? ”
+QUOTE	Q270	58	25	58	38	“ The Moonstone will have its vengeance yet on you and yours ! ”
+QUOTE	Q271	62	0	62	5	“ Clear the room ! ”
+QUOTE	Q272	62	11	62	20	“ and set a guard on the door ! ”
+QUOTE	Q273	68	12	68	16	“ Good morning . ”
+QUOTE	Q274	70	0	70	5	“ Tell me first , ”
+QUOTE	Q275	70	9	70	37	“ how the Indian in the armoury met his death , and what those last words meant , when he pointed to the dagger in your hand . ”
+QUOTE	Q276	71	0	71	16	“ The Indian met his death , as I suppose , by a mortal wound , ”
+QUOTE	Q277	72	0	72	14	“ What his last words meant I know no more than you do . ”
+ATTRIB	Q269	the_soldiers-54
+ATTRIB	Q270	A_third_Indian___mortally_wounded-60
+ATTRIB	Q271	John_Herncastle-5
+ATTRIB	Q272	John_Herncastle-5
+ATTRIB	Q273	John_Herncastle-5
+ATTRIB	Q274	narrator-1
+ATTRIB	Q275	narrator-1
+ATTRIB	Q276	John_Herncastle-5
+ATTRIB	Q277	John_Herncastle-5

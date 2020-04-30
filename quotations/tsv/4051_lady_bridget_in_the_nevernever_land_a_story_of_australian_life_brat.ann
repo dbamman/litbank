@@ -1,0 +1,8 @@
+QUOTE	Q240	45	0	45	12	' Morning , Mrs Gildea ... a heavy mail for you ! '
+QUOTE	Q241	51	0	51	6	' From Biddy at last ! '
+QUOTE	Q242	53	0	53	4	' Business first . '
+QUOTE	Q120	60	18	60	22	' H 'm ! '
+ATTRIB	Q240	the_postman-31
+ATTRIB	Q241	Mrs_Gildea-0
+ATTRIB	Q242	Mrs_Gildea-0
+ATTRIB	Q120	Mrs_Gildea-0
