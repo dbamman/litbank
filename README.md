@@ -5,11 +5,11 @@ LitBank is an annotated dataset of 100 works of English-language fiction to supp
 
 * David Bamman, Sejal Popat and Sheng Shen (2019), "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)," NAACL 2019.
 
-* Matt Sims, Jong Ho Park and David Bamman (2019), "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
+* Matthew Sims, Jong Ho Park and David Bamman (2019), "[Literary Event Detection](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)," ACL 2019.
 
 * David Bamman, Olivia Lewke and Anya Mansoor (2020), "[An Annotated Dataset of Coreference in English Literature](https://arxiv.org/abs/1912.01140)", LREC.
 
-LitBank currently contains annotations for entities, events and entity coreference in a sample of ~2,000 words from each of those texts, totaling 210,532 tokens.
+LitBank currently contains annotations for entities, events, entity coreference, and quotation attribution in a sample of ~2,000 words from each of those texts, totaling 210,532 tokens.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">LitBank</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
@@ -57,8 +57,24 @@ We annotate three different categories of coreference phenomena -- coreference o
 |Copula|<img src="img/copula.png" alt="drawing" width="200"/>|Melville, *Bartleby, the Scrivener*|
 | Apposition |<img src="img/apposition.png" alt="drawing" width="350"/>|Conrad, *Heart of Darkness*|
 
-Annotations largely follow OntoNotes guidelines (though singleton mentions *are* annotated here), with several departures for literary style (including the distinction between generic/specific mentions, near-identity and the revelation of identity). For more on the coreference criteria used in these annotations, see David Bamman, Olivia Lewke and Anya Mansoor (2019), "[An Annotated Dataset of Coreference in English Literature](https://arxiv.org/abs/1912.01140)", ArXiv.
+Annotations largely follow OntoNotes guidelines (though singleton mentions *are* annotated here), with several departures for literary style (including the distinction between generic/specific mentions, near-identity and the revelation of identity). For more on the coreference criteria used in these annotations, see David Bamman, Olivia Lewke and Anya Mansoor (2020), "[An Annotated Dataset of Coreference in English Literature](https://arxiv.org/abs/1912.01140)", LREC.
 
+## Quotation annotations
+
+The quotation layer in LitBank identifies all instances of direct speech in the text, attributed to its speaker.
+
+
+|Quote|Speaker|Source|
+|---|---|---|
+— Come up , Kinch ! Come up , you fearful jesuit !|Buck\_Mulligan-0|Joyce, *Ulysses*|
+‘ Oh dear ! Oh dear ! I shall be late ! ’|The\_White\_Rabbit-4|Carroll, *Alice in Wonderland*|
+“ Do n't put your feet up there , Huckleberry ; ”|Miss\_Watson-26|Twain, *Huckleberry Finn*|
+
+This layer captures dialogue in quotation marks and other typographical markers (such as dashes in Joyce's *Ulysses*), and excludes strings wrapped in quotation marks that do not constitute dialogue, such as the use of scare quotes for emphatic use (for jargon, neologisms or irony), titles of works of art, and the mention of a term (as distinct from its use).
+
+Speaker labels are identical to those in the `coref/` section of LitBank, to enable linking the quotation and coreference layers.
+
+For more on the quotation annotations, see [this paper](https://arxiv.org/pdf/2004.13980.pdf).
 
 ## Tagger
 
