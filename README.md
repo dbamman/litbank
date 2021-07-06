@@ -169,7 +169,6 @@ The corpus is drawn from the public domain texts on Project Gutenberg, and inclu
 |3268|1794|Radcliffe, Ann Ward|The Mysteries of Udolpho|
 |434|1908|Rinehart, Mary Roberts|The Circular Staircase|
 |171|1791|Rowson, Mrs.|Charlotte Temple|
-|7025|1817|Scott, Walter|Rob Roy — Complete|
 |271|1877|Sewell, Anna|Black Beauty|
 |84|1823|Shelley, Mary Wollstonecraft|Frankenstein; Or, The Modern Prometheus|
 |120|1883|Stevenson, Robert Louis|Treasure Island|
