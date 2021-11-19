@@ -1,0 +1,23 @@
+BIO format has been transformed to BILOU format within conll format using (bio2biluo.py)[https://github.com/ufal/acl2019_nested_ner/blob/master/bio2bilou.py].
+
+Lemmtization and POS tags have been done using(UDPipe)
+(http://ufal.mff.cuni.cz/udpipe)
+
+The columns are as follow.
+* FORM: Word form or punctuation symbol.
+* LEMMA: Lemma or stem of word form.
+* XPOS: Language-specific part-of-speech tag; underscore if not available.
+* Labels joined with bar
+
+Head of the file:
+
+Chapter	chapter	NNP	O
+1	1	CD	O
+It	it	PRP	O
+is	be	VBZ	O
+a	a	DT	O
+truth	truth	NN	O
+universally	universally	RB	O
+acknowledged	acknowledge	VBN	O
+,	,	,	O
+that	that	IN	O
