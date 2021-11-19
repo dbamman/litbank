@@ -7,5 +7,17 @@ The columns are as follow.
 * FORM: Word form or punctuation symbol.
 * LEMMA: Lemma or stem of word form.
 * XPOS: Language-specific part-of-speech tag; underscore if not available.
-* labels join with bar
+* Labels joined with bar
 
+Head of the file:
+
+Chapter	chapter	NNP	O
+1	1	CD	O
+It	it	PRP	O
+is	be	VBZ	O
+a	a	DT	O
+truth	truth	NN	O
+universally	universally	RB	O
+acknowledged	acknowledge	VBN	O
+,	,	,	O
+that	that	IN	O
